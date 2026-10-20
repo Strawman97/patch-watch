@@ -1,0 +1,1305 @@
+{
+ "format": "patch-watch-pages",
+ "generated": "2026-10-20T12:30:37Z",
+ "pages": {
+  "http://watercrown.info/second-verse-same-as-the-first": {
+   "a": {
+    "ex": {
+     "retrans": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "title": "Second Verse, Same As The First? « Watercrown Productions",
+   "ver": "1.2b"
+  },
+  "https://bszelda.zeldalegends.net/ce.shtml": {
+   "a": {
+    "cov": "Menus only",
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "title": "The Legend of Zelda - Third Quest",
+   "ver": "1.41"
+  },
+  "https://bszelda.zeldalegends.net/fq.shtmll": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 404,
+   "misses": 1
+  },
+  "https://bszelda.zeldalegends.net/rh.shtml": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "title": "The Legend of BSZelda - MottZilla Project",
+   "ver": "0.93"
+  },
+  "https://www.gamebrew.org/wiki/Air_PSP_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/airpspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/d/d2/Airpspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/airpspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/airpspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/airpspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/airpspengtrans-04.png"
+   ],
+   "site": "https://patr0805.wordpress.com/2020/02/13/air-psp-first-release/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-09-23T01:12:51Z",
+   "ver": "0.9"
+  },
+  "https://www.gamebrew.org/wiki/Bakemonogatari_Portable_English_Patch_PSP": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "gfx": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/bakemonogataripatch_1.0.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/f/f3/Bakemonogataripatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/bakemonogataripatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/bakemonogataripatch3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/bakemonogataripatch4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/bakemonogataripatch5.png"
+   ],
+   "site": "https://agtteam.tumblr.com/post/693290598568968192/bakemonogatari-portable-english-patch-released",
+   "title": "Bakemonogatari Portable English Patch PSP",
+   "upd": "2024-06-19T06:35:07Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/EBKore%2B_Amagami_PSP_-_English_Translation": {
+   "a": {
+    "ex": {
+     "fixes": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://nishishitranslations.wordpress.com/patches/",
+   "shots": [
+    "https://www.gamebrew.org/images/9/99/Amagamiebikoreengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/amagamiebikoreengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/amagamiebikoreengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/amagamiebikoreengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/amagamiebikoreengtrans-04.png"
+   ],
+   "site": "https://nishishitranslations.wordpress.com/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-11T10:34:19Z",
+   "ver": "1.0.0"
+  },
+  "https://www.gamebrew.org/wiki/Echo_Night_-_The_First_Voyage_English_Translation_PSP": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/echo_night_eng.v1.00.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/f/f6/Echonightpspen.png",
+    "https://dlhb.gamebrew.org/psphomebrew/echonightpspen2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/echonightpspen3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/echonightpspen4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/echonightpspen5.png"
+   ],
+   "site": "https://github.com/tehmugi/patches_release",
+   "title": "Echo Night - The First Voyage English Translation PSP",
+   "upd": "2024-06-19T11:56:15Z",
+   "ver": "1.00"
+  },
+  "https://www.gamebrew.org/wiki/Fate/Extra_CCC_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "fixes": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/fate_extra_ccc_patch_12_08_23.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/f/f3/Fateextracccpspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/fateextracccpspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/fateextracccpspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/fateextracccpspengtrans-04.png"
+   ],
+   "site": "https://iwakuraproductions.wordpress.com/2023/12/08/fate-extra-ccc-english-patch-released/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-19T12:06:41Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Fushigi_No_Dungeon_%E2%80%93_Fuurai_No_Shiren_4_Plus_%E2%80%93_Kami_No_Hitomi_to_Akuma_No_Heso_PSP_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/fushiginfuuraishiren4plusengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/e/e5/Fushiginfuuraishiren4plusengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/fushiginfuuraishiren4plusengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/fushiginfuuraishiren4plusengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/fushiginfuuraishiren4plusengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/fushiginfuuraishiren4plusengtrans-04.png",
+    "https://dlhb.gamebrew.org/psphomebrew/fushiginfuuraishiren4plusengtrans-05.png",
+    "https://dlhb.gamebrew.org/psphomebrew/fushiginfuuraishiren4plusengtrans-06.png"
+   ],
+   "site": "https://github.com/SharkSnack/shiren-4",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-11T10:44:07Z",
+   "ver": "1.0.1"
+  },
+  "https://www.gamebrew.org/wiki/God_Eater_2_PSP_-_English_Translation": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "mtl": true
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/godeater2pspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/3/30/Godeater2pspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/godeater2pspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/godeater2pspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/godeater2pspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/godeater2pspengtrans-04.png"
+   ],
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-09T11:33:31Z",
+   "ver": "2.0"
+  },
+  "https://www.gamebrew.org/wiki/God_Eater_Burst_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/godeaterburstpspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/5/5a/Godeaterburstpspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/godeaterburstpspengtrans2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/godeaterburstpspengtrans3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/godeaterburstpspengtrans4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/godeaterburstpspengtrans5.png",
+    "https://dlhb.gamebrew.org/psphomebrew/godeaterburstpspengtrans6.png"
+   ],
+   "site": "https://gbatemp.net/threads/god-eater-1-burst-2-proper-english-patch-thread.616777/post-10426071",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-10T13:22:31Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Hack_LINK_Translation_Project_PSP": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "pct": 100
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/hacklingpspen.7z?k33p0fil35",
+   "shots": [
+    "https://www.gamebrew.org/images/3/3c/Hacklingpspen.png",
+    "https://dlhb.gamebrew.org/psphomebrew/hacklingpspen2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/hacklingpspen3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/hacklingpspen4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/hacklingpspen5.png"
+   ],
+   "site": "https://dothacktranslate.wordpress.com/projects/hacklink-english-fan-translation/",
+   "title": "Hack LINK Translation Project PSP",
+   "upd": "2024-05-08T10:32:59Z",
+   "ver": "2.0.2"
+  },
+  "https://www.gamebrew.org/wiki/Hatsune_Miku:_Project_DIVA_Extend_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "fixes": true,
+     "restore": true,
+     "subs": true
+    },
+    "pct": 99
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/projectdivaextenden.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/c/c7/Projectdivaextenden.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdivaextenden2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdivaextenden3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdivaextenden4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdivaextenden5.png"
+   ],
+   "site": "https://divafanproject.blogspot.com/2020/02/english-patch--project-diva-extend.html",
+   "title": "Hatsune Miku: Project DIVA Extend PSP - English Translation",
+   "upd": "2024-05-08T10:33:55Z",
+   "ver": "2.0"
+  },
+  "https://www.gamebrew.org/wiki/Hatsune_Miku:_Project_DIVA_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "retrans": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/projectdiva1en.7z?k33p0fil353",
+   "shots": [
+    "https://www.gamebrew.org/images/c/ce/Projectdiva1en.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdiva1en2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdiva1en3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdiva1en4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdiva1en5.png"
+   ],
+   "site": "https://divafanproject.blogspot.com/2020/06/english-patch-project-diva.html",
+   "title": "Hatsune Miku: Project DIVA PSP - English Translation",
+   "upd": "2024-06-24T06:33:48Z",
+   "ver": "1.01"
+  },
+  "https://www.gamebrew.org/wiki/Hatsune_Miku:_Project_Diva_2nd_(Okaidoku_Ban)_PSP_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/hatsunemikuprojectdiva2ndengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/2/2c/Hatsunemikuprojectdiva2ndengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/hatsunemikuprojectdiva2ndengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/hatsunemikuprojectdiva2ndengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/hatsunemikuprojectdiva2ndengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/hatsunemikuprojectdiva2ndengtrans-04.png"
+   ],
+   "site": "https://divafanproject.blogspot.com/2021/06/english-patch-project-diva-2nd-okaidoku.html",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-16T07:17:09Z",
+   "ver": "0.82"
+  },
+  "https://www.gamebrew.org/wiki/Hatsune_Miku:_Project_Diva_2nd_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "fixes": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/projectdiva2en.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/2/2d/Projectdiva2en.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdiva2en2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdiva2en3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdiva2en4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/projectdiva2en5.png"
+   ],
+   "site": "https://wyrdgirn.blogspot.com/2020/01/english-patch-for-project-diva-2nd.html",
+   "title": "Hatsune Miku: Project Diva 2nd PSP - English Translation",
+   "upd": "2024-05-08T10:32:04Z",
+   "ver": "3.0"
+  },
+  "https://www.gamebrew.org/wiki/Idolmaster_SP_English_Translation_Plus_PSP": {
+   "a": {
+    "cov": "Partial",
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/imas_sp_tl_041.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/4/49/Idolmastersppatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/idolmastersppatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/idolmastersppatch3.png"
+   ],
+   "site": "https://sites.google.com/view/imas-sp-en-tl/home",
+   "title": "Idolmaster SP English Translation Plus PSP",
+   "upd": "2024-07-09T11:53:21Z",
+   "ver": "0.4.1"
+  },
+  "https://www.gamebrew.org/wiki/K-ON!_Houkago_Live!!_PSP_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/konhoukagolivepspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/2/20/Konhoukagolivepspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/konhoukagolivepspengtrans-08.png",
+    "https://dlhb.gamebrew.org/psphomebrew/konhoukagolivepspengtrans-09.png",
+    "https://dlhb.gamebrew.org/psphomebrew/konhoukagolivepspengtrans-10.png",
+    "https://dlhb.gamebrew.org/psphomebrew/konhoukagolivepspengtrans-11.png",
+    "https://dlhb.gamebrew.org/psphomebrew/konhoukagolivepspengtrans-12.png"
+   ],
+   "site": "https://frain-breeze.github.io/kon/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-09T08:52:15Z",
+   "ver": "2023"
+  },
+  "https://www.gamebrew.org/wiki/Kidou_Senshi_Gundam:_Gihren_no_Yabou_-_Axis_no_Kyoui_V_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Menus only",
+    "ex": {
+     "gfx": true,
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/kidousenshigundamgnyankvpspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/f/f7/Kidousenshigundamgnyankvpspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kidousenshigundamgnyankvpspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kidousenshigundamgnyankvpspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kidousenshigundamgnyankvpspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kidousenshigundamgnyankvpspengtrans-04.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kidousenshigundamgnyankvpspengtrans-05.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kidousenshigundamgnyankvpspengtrans-06.png"
+   ],
+   "site": "https://pastebin.com/3fLsrSit",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-07-11T11:18:47Z",
+   "ver": "8.0"
+  },
+  "https://www.gamebrew.org/wiki/Kurohyou:_Ryu_ga_Gotoku_Shinshou_PSP_-_English_Translation": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "retrans": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://www.teamk4l.com/",
+   "shots": [
+    "https://www.gamebrew.org/images/1/10/Kurohyouryugagotokupspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kurohyouryugagotokupspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kurohyouryugagotokupspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kurohyouryugagotokupspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kurohyouryugagotokupspengtrans-04.png"
+   ],
+   "site": "https://www.teamk4l.com/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-09T08:22:12Z",
+   "ver": "1.2"
+  },
+  "https://www.gamebrew.org/wiki/Kurohyou_2:_Ryu_ga_Gotoku_Ashura_Hen_PSP_-_English_Translation": {
+   "a": {
+    "ex": {
+     "gfx": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://www.teamk4l.com/",
+   "shots": [
+    "https://www.gamebrew.org/images/0/0b/Kurohyou2ryugagotokupspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kurohyou2ryugagotokupspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kurohyou2ryugagotokupspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kurohyou2ryugagotokupspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/kurohyou2ryugagotokupspengtrans-04.png"
+   ],
+   "site": "https://www.teamk4l.com/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-09T08:22:57Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Nayuta_no_Kiseki_Translation_Project_PSP": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "restore": true,
+     "retrans": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/nayutaretranslationpatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/b/bb/Nayutaretranslationpatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/nayutaretranslationpatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/nayutaretranslationpatch3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/nayutaretranslationpatch4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/nayutaretranslationpatch5.png",
+    "https://dlhb.gamebrew.org/psphomebrew/nayutaretranslationpatch6.png",
+    "https://dlhb.gamebrew.org/psphomebrew/nayutaretranslationpatch7.png",
+    "https://dlhb.gamebrew.org/psphomebrew/nayutaretranslationpatch8.png"
+   ],
+   "site": "https://github.com/dackst/nayuta",
+   "title": "Nayuta no Kiseki Translation Project PSP",
+   "upd": "2024-05-08T10:31:56Z",
+   "ver": "1.08"
+  },
+  "https://www.gamebrew.org/wiki/Never7:_The_End_of_Infinity_PSP_-_English_Translation": {
+   "a": {
+    "ex": {
+     "port": true,
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://github.com/bibarub/N7-psp-english/releases",
+   "shots": [
+    "https://www.gamebrew.org/images/9/97/Never7theendofinfinitypspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/never7theendofinfinitypspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/never7theendofinfinitypspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/never7theendofinfinitypspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/never7theendofinfinitypspengtrans-04.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-never7-the-end-of-infinity-psp-english-translation.557697/",
+   "st": "Scenes",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-10-06T03:40:47Z",
+   "ver": "0.3"
+  },
+  "https://www.gamebrew.org/wiki/Oreimo_Tsuzuku_PSP_English_Patch": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/oreimotsuzukuenpatch.7z?k33p0fil35",
+   "shots": [
+    "https://www.gamebrew.org/images/5/57/Oreimotsuzukuenpatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/oreimotsuzukuenpatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/oreimotsuzukuenpatch3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/oreimotsuzukuenpatch4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/oreimotsuzukuenpatch5.png"
+   ],
+   "site": "https://dizzyziddy.xyz/2015/02/14/oreimo-tsuzuku-psp-disc-1-full-english-patch-release/",
+   "title": "Oreimo Tsuzuku PSP English Patch",
+   "upd": "2024-05-08T10:33:53Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Persona_2:_Eternal_Punishment_PSP_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/persona2eterpunishmentpspengltrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/6/64/Persona2eterpunishmentpspengltrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/persona2eterpunishmentpspengltrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/persona2eterpunishmentpspengltrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/persona2eterpunishmentpspengltrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/persona2eterpunishmentpspengltrans-04.png"
+   ],
+   "site": "https://github.com/sayucchin/P2-EP-PSP/",
+   "title": "PSP Homebrew Games (Translations) - GameBrew",
+   "upd": "2024-06-09T07:01:54Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Phantasy_Star_Portable_2_Infinity_-_English_Localization_PSP": {
+   "a": {
+    "ex": {
+     "gameplay": true,
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/PSPo2InfinityEnglishv2.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/7/79/Pspo2infinityen.png",
+    "https://dlhb.gamebrew.org/psphomebrew/pspo2infinityen2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/pspo2infinityen3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/pspo2infinityen4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/pspo2infinityen5.png",
+    "https://dlhb.gamebrew.org/psphomebrew/pspo2infinityen6.png",
+    "https://dlhb.gamebrew.org/psphomebrew/pspo2infinityen7.png",
+    "https://dlhb.gamebrew.org/psphomebrew/pspo2infinityen8.png"
+   ],
+   "site": "https://gbatemp.net/threads/phantasy-star-portable-2-infinity-english-localization-v2-update-released-august-2022.576943/",
+   "title": "Phantasy Star Portable 2 Infinity - English Localization PSP",
+   "upd": "2024-05-08T10:32:46Z",
+   "ver": "2"
+  },
+  "https://www.gamebrew.org/wiki/Puella_Magi_Madoka_Magica_Portable_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Partial",
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/puellamagimadokamagicaportablepspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/d/d8/Puellamagimadokamagicaportablepspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/puellamagimadokamagicaportablepspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/puellamagimadokamagicaportablepspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/puellamagimadokamagicaportablepspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/puellamagimadokamagicaportablepspengtrans-04.png"
+   ],
+   "site": "https://gbatemp.net/threads/puella-magi-madoka-magica-portable-translation-project.559955/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-09T09:38:48Z",
+   "ver": "3.1"
+  },
+  "https://www.gamebrew.org/wiki/Queen%27s_Blade:_Spiral_Chaos_PSP_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/queensbladespiralchaospspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/1/11/Queensbladespiralchaospspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/queensbladespiralchaospspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/queensbladespiralchaospspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/queensbladespiralchaospspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/queensbladespiralchaospspengtrans-04.png"
+   ],
+   "site": "https://gbatemp.net/threads/queens-blade-spiral-chaos-english-localization-public-release.577881",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-07-11T11:18:40Z",
+   "ver": "1.8-beta"
+  },
+  "https://www.gamebrew.org/wiki/Shining_Blade_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Complete",
+    "ex": {},
+    "mtl": true
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/shiningbladepspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/3/3a/Shiningbladepspengtrans.png"
+   ],
+   "site": "https://www.youtube.com/watch?v=aWEqwfWC-8M",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-16T04:11:32Z",
+   "ver": "2024"
+  },
+  "https://www.gamebrew.org/wiki/Shinseiki_Evangelion:_Girlfriend_of_Steel_Portable_PSP_-_English_Translation": {
+   "a": {
+    "ex": {
+     "uncensor": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/gfos1engpatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/a/a8/Gfos1engpatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/gfos1engpatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/gfos1engpatch3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/gfos1engpatch4.png"
+   ],
+   "site": "https://gbatemp.net/threads/girlfriend-of-steel-portable-english-translation-v-100-release.634039/",
+   "title": "Shinseiki Evangelion: Girlfriend of Steel Portable PSP - English Translation",
+   "upd": "2024-05-08T10:33:48Z",
+   "ver": "1.01"
+  },
+  "https://www.gamebrew.org/wiki/Shinseiki_Evangelion:_Koutetsu_no_Girlfriend_2nd_Portable_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "uncensor": true
+    },
+    "pct": 100
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/gfos2engpatch.7z?k33p0fil35",
+   "shots": [
+    "https://www.gamebrew.org/images/b/b8/Gfos2engpatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/gfos2engpatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/gfos2engpatch3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/gfos2engpatch4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/gfos2engpatch5.png"
+   ],
+   "site": "https://github.com/tehmugi/patches_release",
+   "title": "Shinseiki Evangelion: Koutetsu no Girlfriend 2nd Portable PSP - English Translation",
+   "upd": "2024-05-08T10:34:12Z",
+   "ver": "1.02"
+  },
+  "https://www.gamebrew.org/wiki/Soul_Eater_-_Battle_Resonance_PSP": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "gfx": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/resonancepsppatch.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/c/cd/Battleresonancepatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/battleresonancepatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/battleresonancepatch3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/battleresonancepatch4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/battleresonancepatch5.png"
+   ],
+   "site": "https://agtteam.tumblr.com/post/681343377005068288/soul-eater-battle-resonance-english-patch",
+   "title": "Soul Eater - Battle Resonance PSP",
+   "upd": "2024-06-19T06:36:12Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Steins;Gate:_My_Darling%27s_Embrace_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/steinsgatemydarlingsembracepspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/7/79/Steinsgatemydarlingsembracepspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/steinsgatemydarlingsembracepspengtrans2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/steinsgatemydarlingsembracepspengtrans3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/steinsgatemydarlingsembracepspengtrans4.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-steins-gate-my-darlings-embrace-psp-english-patch.654632/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-10T12:48:18Z",
+   "ver": "0.5"
+  },
+  "https://www.gamebrew.org/wiki/Strike_Witches_-_Silver_Wings_Texture_Pack_PSP": {
+   "a": {
+    "ex": {
+     "gfx": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/npjh50622_texture.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/6/60/Strikewitchestexturepack.png",
+    "https://dlhb.gamebrew.org/psphomebrew/strikewitchestexturepack2.gif",
+    "https://dlhb.gamebrew.org/psphomebrew/strikewitchestexturepack3.gif",
+    "https://dlhb.gamebrew.org/psphomebrew/strikewitchestexturepack4.gif",
+    "https://dlhb.gamebrew.org/psphomebrew/strikewitchestexturepack5.gif"
+   ],
+   "site": "https://gbatemp.net/threads/strike-witches-silver-wings-psp-texture-pack.633540/",
+   "title": "Strike Witches - Silver Wings Texture Pack PSP",
+   "upd": "2024-06-21T02:59:24Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Suikoden_-_Woven_Web_of_the_Centuries_Translation_PSP": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "gfx": true
+    },
+    "mtl": true
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/suikodenwovenpatch.7z?k33p0fil35",
+   "shots": [
+    "https://www.gamebrew.org/images/1/10/Suikodenwovenpatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/suikodenwovenpatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/suikodenwovenpatch3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/suikodenwovenpatch4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/suikodenwovenpatch5.png",
+    "https://dlhb.gamebrew.org/psphomebrew/suikodenwovenpatch6.png",
+    "https://dlhb.gamebrew.org/psphomebrew/suikodenwovenpatch7.png"
+   ],
+   "site": "https://suikodenwoven.website/",
+   "title": "Suikoden - Woven Web of the Centuries Translation PSP",
+   "upd": "2024-05-08T10:33:47Z",
+   "ver": "1.0.2"
+  },
+  "https://www.gamebrew.org/wiki/Super_DanganRonpa_2:_Sayonara_Zetsubou_Gakuen_PSP_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/superdanganronpa2engtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/9/96/Superdanganronpa2engtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/superdanganronpa2engtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/superdanganronpa2engtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/superdanganronpa2engtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/superdanganronpa2engtrans-04.png",
+    "https://dlhb.gamebrew.org/psphomebrew/superdanganronpa2engtrans-05.png",
+    "https://dlhb.gamebrew.org/psphomebrew/superdanganronpa2engtrans-06.png"
+   ],
+   "site": "https://web.archive.org/web/20200810164225/https://theportingdude.blogspot.com/2020/07/coming-soontranslation.html",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-16T04:54:34Z",
+   "ver": "0.5a"
+  },
+  "https://www.gamebrew.org/wiki/Tales_of_Rebirth_English_Menu_Patch_PSP": {
+   "a": {
+    "cov": "Menus only",
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/rebirth_psp_eng_patch_v0.5.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/2/27/Rebirthpspmenupatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/rebirthpspmenupatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/rebirthpspmenupatch3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/rebirthpspmenupatch4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/rebirthpspmenupatch5.png",
+    "https://dlhb.gamebrew.org/psphomebrew/rebirthpspmenupatch6.png",
+    "https://dlhb.gamebrew.org/psphomebrew/rebirthpspmenupatch7.png"
+   ],
+   "site": "https://www.crystalmods.com/index.php/game_mods/tales-of-rebirth-psp-english-patch/",
+   "title": "Tales of Rebirth English Menu Patch PSP",
+   "upd": "2024-06-21T00:48:52Z",
+   "ver": "0.5"
+  },
+  "https://www.gamebrew.org/wiki/The_Haunted_Zone_English_Translation_PSP": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/thehauntedzoneeng.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/4/40/Thehauntedzoneeng.png",
+    "https://dlhb.gamebrew.org/psphomebrew/thehauntedzoneeng2.png"
+   ],
+   "site": "https://github.com/tehmugi/patches_release",
+   "title": "The Haunted Zone English Translation PSP",
+   "upd": "2024-05-08T10:32:40Z",
+   "ver": "1.00"
+  },
+  "https://www.gamebrew.org/wiki/Toaru_Kagaku_no_Railgun_PSP_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/toarukagakunorailgunpspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/5/5c/Toarukagakunorailgunpspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/toarukagakunorailgunpspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/toarukagakunorailgunpspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/toarukagakunorailgunpspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/toarukagakunorailgunpspengtrans-04.png"
+   ],
+   "site": "https://jerutz.wordpress.com/2022/06/28/after-a-long-break-i-have-a-couple-a-of-pieces-of-good-news/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-09T08:22:22Z",
+   "ver": "06_25_22"
+  },
+  "https://www.gamebrew.org/wiki/Toukiden:_Kiwami_PSP_-_English_Translation": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "gfx": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/toukidenkiwamipapengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/8/89/ToukidenKiwamiPSPEngTrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ToukidenKiwamiPSPEngTrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ToukidenKiwamiPSPEngTrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ToukidenKiwamiPSPEngTrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ToukidenKiwamiPSPEngTrans-04.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ToukidenKiwamiPSPEngTrans-05.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ToukidenKiwamiPSPEngTrans-06.png"
+   ],
+   "site": "https://hoaitrung97.blogspot.com/2023/04/toukiden-kiwami-english-patch-v30.html",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-30T06:43:44Z",
+   "ver": "3.0"
+  },
+  "https://www.gamebrew.org/wiki/YaruDora_Double_Cast_Translation_PSP": {
+   "a": {
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/yarudora_1_patcher_v1.1.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/e/ec/Yarudoradcpatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/yarudoradcpatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/yarudoradcpatch3.png"
+   ],
+   "site": "https://www.romhacking.net/translations/5777/",
+   "title": "YaruDora Double Cast Translation PSP",
+   "upd": "2024-06-21T03:56:06Z",
+   "ver": "1.1"
+  },
+  "https://www.gamebrew.org/wiki/Yarudora_Portable:_Sampaguita_PSP_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/yarudorasampaguitapspengtrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/0/03/Yarudorasampaguitapspengtrans.png",
+    "https://dlhb.gamebrew.org/psphomebrew/yarudorasampaguitapspengtrans-01.png",
+    "https://dlhb.gamebrew.org/psphomebrew/yarudorasampaguitapspengtrans-02.png",
+    "https://dlhb.gamebrew.org/psphomebrew/yarudorasampaguitapspengtrans-03.png",
+    "https://dlhb.gamebrew.org/psphomebrew/yarudorasampaguitapspengtrans-04.png"
+   ],
+   "site": "https://github.com/Eight-Mansions/yarudora_3_psp",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-09T08:51:08Z",
+   "ver": "0.95.2"
+  },
+  "https://www.gamebrew.org/wiki/Ys_vs_Sora_no_Kiseki_-_Alternative_Saga_Translation_PSP": {
+   "a": {
+    "ex": {
+     "gfx": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/ysvstrailspatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/9/98/Ysvstrailspatch.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ysvstrailspatch6.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ysvstrailspatch2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ysvstrailspatch3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ysvstrailspatch4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/ysvstrailspatch5.png"
+   ],
+   "site": "https://geofront.esterior.net/2021/10/16/ys-vs-trails-in-the-sky-alternative-saga-is-out-now/",
+   "title": "Ys vs Sora no Kiseki - Alternative Saga Translation PSP",
+   "upd": "2024-05-08T10:34:12Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Yu-Gi-Oh_5Ds_Tag_Force_6_Re-translation_PSP": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "retrans": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/TF6_proper_english_retranslation_PSP.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/a/a9/Tf6pspretranslation.png",
+    "https://dlhb.gamebrew.org/psphomebrew/tf6pspretranslation2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/tf6pspretranslation3.png"
+   ],
+   "site": "https://www.romhacking.net/translations/6292/",
+   "title": "Yu-Gi-Oh 5Ds Tag Force 6 Re-translation PSP",
+   "upd": "2024-07-11T11:18:36Z",
+   "ver": "1.1"
+  },
+  "https://www.gamebrew.org/wiki/Zettai_Zetsumei_Toshi_3_Translation_Patch_PSP": {
+   "a": {
+    "ex": {
+     "fixes": true,
+     "gameplay": true
+    }
+   },
+   "checked": "2026-10-20T12:30:37Z",
+   "dl": "https://dlhb.gamebrew.org/psphomebrew/Disaster_Report_3_EN_v1_1.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/8/8c/Disasterreport3en.png",
+    "https://dlhb.gamebrew.org/psphomebrew/disasterreport3en2.png",
+    "https://dlhb.gamebrew.org/psphomebrew/disasterreport3en3.png",
+    "https://dlhb.gamebrew.org/psphomebrew/disasterreport3en4.png",
+    "https://dlhb.gamebrew.org/psphomebrew/disasterreport3en5.png"
+   ],
+   "site": "https://gbatemp.net/threads/zettai-zetsumei-toshi-3-translation-project.368872/",
+   "title": "Zettai Zetsumei Toshi 3 Translation Patch PSP",
+   "upd": "2024-05-08T10:33:28Z",
+   "ver": "1.1"
+  },
+  "https://www.romhacking.net/hacks/1386": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/hacks/2337": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/hacks/5676": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1063": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1172": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1192": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1198": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1240": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1243": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1272": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1323": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1384": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1442": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1537": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1575": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1607": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1710": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1714": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1785": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/1791": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2181": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2233": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2339": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2344": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2418": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2472": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2493": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2624": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2655": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2697": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/278": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/279": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/280": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/2835": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/288": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/289": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/302": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3021": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/303": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/304": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/307": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/313": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/314": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/315": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/316": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3235": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/326": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/330": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/332": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/333": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/337": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/341": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/342": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/344": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/346": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3470": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3471": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3472": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3473": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/349": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3515": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3519": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/352": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/353": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3596": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/362": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/363": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3807": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/3836": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/403": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/4080": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/4349": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/435": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/4653": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/466": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/467": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/483": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/528": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/5353": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/5354": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/5370": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/5420": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/5486": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/5561": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/5650": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/568": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/5938": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/6004": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/622": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/6858": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/688": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/689": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/690": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/712": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/718": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/758": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/761": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/775": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/848": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/850": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/860": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/865": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/910": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/translations/961": {
+   "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  }
+ },
+ "version": 1
+}

@@ -1,0 +1,1001 @@
+{
+ "format": "patch-watch-status",
+ "generated": "2026-10-20T12:30:37Z",
+ "repos": {
+  "agtteam/resonancetranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-05-19T17:41:48Z",
+    "pre": false,
+    "tag": "v1.5.1",
+    "url": "https://github.com/AGTTeam/ResonanceTranslation/releases/tag/v1.5.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-01-14T16:34:34Z",
+    "desc": "Translation patch project for Soul Eater: Battle Resonance on the PSP and PS2.",
+    "full": "AGTTeam/ResonanceTranslation",
+    "lang": "Python",
+    "pushed": "2025-05-19T17:41:48Z",
+    "size": 120,
+    "stars": 5
+   },
+   "shots": []
+  },
+  "arceler0/okayunyumu-nsw-eng": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-10-01T07:29:30Z",
+    "pre": false,
+    "tag": "v1",
+    "url": "https://github.com/Arceler0/OkayuNyumu-NSW-ENG/releases/tag/v1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-10-01T07:22:48Z",
+    "desc": "An English patch for Okayu Nyumu! (おかゆにゅ〜〜む) for the Nintendo Switch.",
+    "full": "Arceler0/OkayuNyumu-NSW-ENG",
+    "lang": null,
+    "pushed": "2026-06-09T23:57:38Z",
+    "size": 1,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "baslqc/steins-gate-psp-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2014-12-11T03:39:18Z",
+    "desc": "A script development kit used to translate the Steins Gate (PSP edition) into other lanuages.",
+    "full": "BASLQC/steins-gate-psp-patch",
+    "lang": "Batchfile",
+    "pushed": "2015-08-21T23:52:21Z",
+    "size": 2140,
+    "stars": 18
+   },
+   "shots": [
+    "http://i.imgur.com/P8ypaT4.png"
+   ]
+  },
+  "blashy101/clock-maker-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2023-10-20T03:16:16Z",
+    "desc": "",
+    "full": "blashy101/Clock-Maker-English-Patch",
+    "lang": null,
+    "pushed": "2025-02-03T00:22:39Z",
+    "size": 854,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "blashy101/dadadaungoenglish": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-15T04:12:40Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/blashy101/DaDaDaungoEnglish/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-08-15T04:10:37Z",
+    "desc": "Da Da Daungo English Patch",
+    "full": "blashy101/DaDaDaungoEnglish",
+    "lang": null,
+    "pushed": "2024-10-03T19:31:31Z",
+    "size": 3,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "blashy101/dingdongenglishpatch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2023-12-28T21:03:07Z",
+    "desc": "",
+    "full": "blashy101/DingDongEnglishPatch",
+    "lang": null,
+    "pushed": "2023-12-28T21:05:33Z",
+    "size": 5825,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "blashy101/irochi-mikke-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2023-11-21T15:31:13Z",
+    "desc": "",
+    "full": "blashy101/Irochi-Mikke-English-Patch",
+    "lang": null,
+    "pushed": "2025-02-03T00:21:43Z",
+    "size": 822,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "blashy101/letscolorwithsanriocharactersenglish": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2024-02-28T06:09:59Z",
+    "desc": "",
+    "full": "blashy101/LetsColorWithSanrioCharactersEnglish",
+    "lang": null,
+    "pushed": "2024-02-28T06:12:12Z",
+    "size": 491,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "blashy101/visualquizwhat-sthisenglishpatch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2024-10-08T02:38:40Z",
+    "desc": "",
+    "full": "blashy101/VisualQuizWhat-sThisEnglishPatch",
+    "lang": null,
+    "pushed": "2024-10-08T02:42:29Z",
+    "size": 1961,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "blue-overture/aonatsu-line": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-02-07T03:38:56Z",
+    "pre": false,
+    "tag": "v0.2",
+    "url": "https://github.com/Blue-Overture/Aonatsu-Line/releases/tag/v0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-08-31T17:22:19Z",
+    "desc": "",
+    "full": "Blue-Overture/Aonatsu-Line",
+    "lang": "Assembly",
+    "pushed": "2024-09-04T10:25:42Z",
+    "size": 3313,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "brokenmesh/kimikiss_ai_translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-07T08:13:23Z",
+    "desc": "Fan translation of KimiKiss (キミキス) into English (キミキス 英語化パッチ). A free xdelta patch for your own dump, playable in PCSX2.",
+    "full": "BrokenMesh/KimiKiss_AI_Translation",
+    "lang": "Python",
+    "pushed": "2026-10-13T04:20:14Z",
+    "size": 48852,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "camd11/srw-og-gaiden-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-07-13T01:27:06Z",
+    "pre": true,
+    "tag": "v0.2.9-opltest",
+    "url": "https://github.com/camd11/srw-og-gaiden-en/releases/tag/v0.2.9-opltest"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-06-15T14:16:38Z",
+    "desc": "Complete English fan-translation patch for Super Robot Taisen: Original Generation Gaiden (PS2, SLPS-25836)",
+    "full": "camd11/srw-og-gaiden-en",
+    "lang": null,
+    "pushed": "2026-07-13T01:27:06Z",
+    "size": 7189,
+    "stars": 10
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/19_recap_crawl.png",
+    "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/22_parts_descriptions.png",
+    "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/24_episode_splash.png",
+    "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/02_dialogue.png",
+    "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/14_backlog.png",
+    "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/01_title.png"
+   ]
+  },
+  "chivien99999/khamrai-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-06T02:03:39Z",
+    "desc": "English translation patch for Khamrai (PlayStation, Namco, 2000)",
+    "full": "chivien99999/khamrai-english",
+    "lang": null,
+    "pushed": "2026-10-06T02:29:03Z",
+    "size": 921,
+    "stars": 6
+   },
+   "shots": []
+  },
+  "exxistancedc/segagaga-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "gfx": true,
+      "restore": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-09-12T13:02:22Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/ExxistanceDC/Segagaga-English-Translation/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-01-06T20:20:01Z",
+    "desc": "An English translation patch for the Japanese-exclusive Sega Dreamcast RPG, Segagaga",
+    "full": "ExxistanceDC/Segagaga-English-Translation",
+    "lang": null,
+    "pushed": "2026-09-12T18:23:25Z",
+    "size": 727,
+    "stars": 151
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/9fd1ba5d-f831-4622-a516-c68865e4438b",
+    "https://github.com/user-attachments/assets/e2680ade-6f65-49b4-be05-d2242670fb9d",
+    "https://github.com/user-attachments/assets/88947cfc-bcf5-419e-8bc4-cf9d583a8b37",
+    "https://github.com/user-attachments/assets/260d6133-bd02-4823-94ec-6899a7f898dd",
+    "https://github.com/user-attachments/assets/88e0d6af-0c6e-415b-a9e6-9f6a47698ef1",
+    "https://github.com/user-attachments/assets/8ff55afa-6c1a-4a6e-a63c-b210eb0066e6"
+   ]
+  },
+  "gitlab.com/neurochitin/miko_kaleido_patch": {
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "release": {
+    "date": "2023-09-05T17:58:49.000Z",
+    "pre": false,
+    "tag": "1.0.0",
+    "url": "https://gitlab.com/Neurochitin/miko_kaleido_patch/-/releases"
+   },
+   "repo": {
+    "archived": false,
+    "desc": "",
+    "full": "Neurochitin/miko_kaleido_patch",
+    "pushed": "2023-09-05T22:45:35.613Z",
+    "stars": 3
+   }
+  },
+  "hexerkat/langrisser3-english": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T14:00:30Z",
+    "pre": false,
+    "tag": "v0.8.0",
+    "url": "https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-04-12T18:44:24Z",
+    "desc": "Fan English translation patch for Langrisser III (Sega Saturn, Japan). Built from the JP ISO, Work in progress.",
+    "full": "hexerkat/langrisser3-english",
+    "lang": "Python",
+    "pushed": "2026-10-18T14:34:01Z",
+    "size": 5402,
+    "stars": 6
+   },
+   "shots": []
+  },
+  "julianow/tales-of-symphonia-ngc-undub": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "fixes": true,
+      "restore": true,
+      "subs": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2021-09-27T13:30:27Z",
+    "pre": false,
+    "tag": "V2.0_BETA",
+    "url": "https://github.com/JulianoW/Tales-of-Symphonia-NGC-Undub/releases/tag/V2.0_BETA"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-09-21T18:53:12Z",
+    "desc": "",
+    "full": "JulianoW/Tales-of-Symphonia-NGC-Undub",
+    "lang": "C#",
+    "pushed": "2021-09-27T13:30:27Z",
+    "size": 14,
+    "stars": 22
+   },
+   "shots": [
+    "https://user-images.githubusercontent.com/6155506/134822118-a568d578-94e1-4b00-a0c8-5a40b4e53fc2.png"
+   ]
+  },
+  "kaisaan/lostkefin": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-08T02:45:10Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/Kaisaan/lostkefin/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-12-18T03:08:00Z",
+    "desc": "English translation for Ys V: Lost Kefin - Kingdom of Sand (PS2)",
+    "full": "Kaisaan/lostkefin",
+    "lang": "Python",
+    "pushed": "2026-08-08T05:26:20Z",
+    "size": 228198,
+    "stars": 73
+   },
+   "shots": []
+  },
+  "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2023-01-04T17:29:52Z",
+    "desc": "",
+    "full": "kingjinxy/Metal-Gear-Solid-3-HD-Undub-PS3",
+    "lang": "Python",
+    "pushed": "2026-04-17T15:33:42Z",
+    "size": 21,
+    "stars": 5
+   },
+   "shots": []
+  },
+  "lifebottle/narikiri-dungeon-x": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Menus only",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2022-11-13T13:27:11Z",
+    "pre": false,
+    "tag": "0.0.4",
+    "url": "https://github.com/lifebottle/Narikiri-Dungeon-X/releases/tag/0.0.4"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-04-20T03:49:19Z",
+    "desc": "An attempt to create a patch for Narikiri Dungeon X (PSP).",
+    "full": "lifebottle/Narikiri-Dungeon-X",
+    "lang": "JavaScript",
+    "pushed": "2026-10-19T13:32:41Z",
+    "size": 20127,
+    "stars": 60
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/pnvnd/Narikiri-Dungeon-X/main/assets_archives/images/ndr.png",
+    "https://raw.githubusercontent.com/pnvnd/Narikiri-Dungeon-X/main/assets_archives/images/hash.png"
+   ]
+  },
+  "lifebottle/tales-of-destiny-2": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2026-06-29T02:36:54Z",
+    "pre": false,
+    "tag": "0.0.24",
+    "url": "https://github.com/lifebottle/Tales-of-Destiny-2/releases/tag/0.0.24"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-03-06T14:43:06Z",
+    "desc": "An old attempt at an open-source translation for Tales of Destiny 2 (PS2). See link for new attempt.",
+    "full": "lifebottle/Tales-of-Destiny-2",
+    "lang": "Python",
+    "pushed": "2026-10-14T18:53:52Z",
+    "size": 10123,
+    "stars": 41
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-2/main/tod2_slps_base.png",
+    "https://raw.githubusercontent.com/pnvnd/Tales-of-Destiny-2/main/current_font.png"
+   ]
+  },
+  "lifebottle/tales-of-destiny-dc": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Menus only",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-01-01T19:07:35Z",
+    "pre": false,
+    "tag": "v1.6",
+    "url": "https://github.com/lifebottle/Tales-of-Destiny-DC/releases/tag/v1.6"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-12-15T01:59:50Z",
+    "desc": "Tales of Destiny - Director's Cut Patch",
+    "full": "lifebottle/Tales-of-Destiny-DC",
+    "lang": "Assembly",
+    "pushed": "2026-08-26T01:37:35Z",
+    "size": 91371,
+    "stars": 227
+   },
+   "shots": [
+    "https://user-images.githubusercontent.com/77897370/117694591-50db8180-b18d-11eb-852d-7aaedf63c962.png",
+    "https://user-images.githubusercontent.com/77897370/118372936-0dfd1d80-b582-11eb-9bca-00ce96672d1b.png",
+    "https://github.com/user-attachments/assets/851da856-0808-4203-bc67-247302f1a102"
+   ]
+  },
+  "lifebottle/tales-of-innocence-r": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-06-23T14:59:22Z",
+    "pre": false,
+    "tag": "v1.9",
+    "url": "https://github.com/lifebottle/Tales-of-Innocence-R/releases/tag/v1.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-05-22T23:36:35Z",
+    "desc": "An attempt to create an English patch for Tales of Innocence R.",
+    "full": "lifebottle/Tales-of-Innocence-R",
+    "lang": "Python",
+    "pushed": "2025-04-22T15:53:47Z",
+    "size": 71902,
+    "stars": 94
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/lifebottle/Tales-of-Innocence-R/HEAD/tools/assets/toir.png",
+    "https://raw.githubusercontent.com/lifebottle/Tales-of-Innocence-R/HEAD/tools/assets/decrypt_toir.gif",
+    "https://raw.githubusercontent.com/lifebottle/Tales-of-Innocence-R/HEAD/tools/assets/L7CA_decrypted.png",
+    "https://raw.githubusercontent.com/lifebottle/Tales-of-Innocence-R/HEAD/tools/assets/moviecaptions.png",
+    "https://raw.githubusercontent.com/lifebottle/Tales-of-Innocence-R/HEAD/tools/assets/kuriimu2_settings.png"
+   ]
+  },
+  "lifebottle/tales-of-legendia-undub": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-07-26T13:32:23Z",
+    "pre": false,
+    "tag": "V1.3",
+    "url": "https://github.com/lifebottle/Tales-of-Legendia-Undub/releases/tag/V1.3"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2022-10-17T19:02:15Z",
+    "desc": "Full Undub of Legendia with restored japanese voices for the second half",
+    "full": "lifebottle/Tales-of-Legendia-Undub",
+    "lang": null,
+    "pushed": "2026-04-26T21:31:20Z",
+    "size": 58,
+    "stars": 18
+   },
+   "shots": [
+    "https://user-images.githubusercontent.com/6155506/196266159-02124af6-98fa-457f-8c82-2575ba78bf1e.png",
+    "https://user-images.githubusercontent.com/6155506/196266672-f72e4b7b-b56d-4ed6-badd-633ad28d4d05.png",
+    "https://user-images.githubusercontent.com/6155506/196269477-2ca8bd41-43b8-4a8f-8f4a-fd51d80f29f5.png",
+    "https://user-images.githubusercontent.com/6155506/196269653-780c7540-af46-4952-87b0-f7e3e5bf6694.png",
+    "https://user-images.githubusercontent.com/6155506/196270177-5d4f53e7-860d-40fb-9260-d0ae29ea4319.png",
+    "https://user-images.githubusercontent.com/6155506/196270310-f8ff341b-13c4-44b1-9635-f42d7928920d.png"
+   ]
+  },
+  "lifebottle/tales-of-the-abyss-undub": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-07-16T22:22:37Z",
+    "pre": false,
+    "tag": "v2.6",
+    "url": "https://github.com/lifebottle/Tales-of-the-Abyss-Undub/releases/tag/v2.6"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-12-22T21:51:14Z",
+    "desc": "An attempt at an undub patch for Tales of the Abyss (PS2).",
+    "full": "lifebottle/Tales-of-the-Abyss-Undub",
+    "lang": null,
+    "pushed": "2026-07-16T22:22:36Z",
+    "size": 149,
+    "stars": 8
+   },
+   "shots": []
+  },
+  "masagrator/higurashienx": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-09-16T21:17:19Z",
+    "pre": false,
+    "tag": "0.5.0",
+    "url": "https://github.com/masagrator/HigurashiENX/releases/tag/0.5.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-06-28T17:58:14Z",
+    "desc": "Higurashi no Naku Koro ni English Translation Mod for Nintendo Switch",
+    "full": "masagrator/HigurashiENX",
+    "lang": "Python",
+    "pushed": "2024-09-16T21:36:41Z",
+    "size": 102,
+    "stars": 80
+   },
+   "shots": [
+    "https://i.imgur.com/PKN5SND.jpg",
+    "https://i.imgur.com/BuxOVLH.jpg",
+    "https://i.imgur.com/Tn8GCi7.jpg",
+    "https://i.imgur.com/poClDuB.jpg",
+    "https://i.imgur.com/mdtsycg.jpg",
+    "https://i.imgur.com/D7JE22Q.jpg"
+   ]
+  },
+  "ooa113y/umineko-catbox-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-10-16T23:15:23Z",
+    "pre": false,
+    "tag": "v82.7.2",
+    "url": "https://github.com/andOlga/umineko-catbox-english/releases/tag/v82.7.2"
+   },
+   "repo": {
+    "archived": true,
+    "created": "2021-05-30T19:48:58Z",
+    "desc": "English translation patch for the console release of Umineko: When They Cry",
+    "full": "andOlga/umineko-catbox-english",
+    "lang": "Ruby",
+    "pushed": "2024-06-27T09:36:28Z",
+    "size": 833504,
+    "stars": 111
+   },
+   "shots": []
+  },
+  "pepasjc/snatcher-translated": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true,
+      "restore": true,
+      "subs": true,
+      "uncensor": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-01T15:58:08Z",
+    "pre": false,
+    "tag": "v1.0.1",
+    "url": "https://github.com/pepasjc/snatcher-translated/releases/tag/v1.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-08T00:29:11Z",
+    "desc": "Fan made Snatcher translation patch for Sony Playstation",
+    "full": "pepasjc/snatcher-translated",
+    "lang": null,
+    "pushed": "2026-10-08T09:56:33Z",
+    "size": 767,
+    "stars": 70
+   },
+   "shots": []
+  },
+  "peterlemon/snes": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2014-11-15T15:46:41Z",
+    "desc": "SNES Assembly Programming",
+    "full": "PeterLemon/SNES",
+    "lang": "Assembly",
+    "pushed": "2022-09-19T23:34:12Z",
+    "size": 240939,
+    "stars": 205
+   },
+   "shots": []
+  },
+  "pumpkinhasapatch/dokodemo-psp-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-09-20T10:15:05Z",
+    "pre": false,
+    "tag": "v0.1.0-fixed",
+    "url": "https://github.com/pumpkinhasapatch/dokodemo-psp-english/releases/tag/v0.1.0-fixed"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-04-08T02:47:47Z",
+    "desc": "A work-in-progress English translation patch for the Japanese virtual pet/storytelling game, Doko Demo Issyo on the PlayStation Portable.",
+    "full": "pumpkinhasapatch/dokodemo-psp-english",
+    "lang": "Python",
+    "pushed": "2026-10-11T04:32:41Z",
+    "size": 4501,
+    "stars": 93
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/pumpkinhasapatch/dokodemo-psp-english/HEAD/textures/GUI/TITLE/TITLE.png",
+    "https://github.com/user-attachments/assets/fbbbe89f-6f7c-42e3-9df7-bc4bd4d1acdf",
+    "https://github.com/user-attachments/assets/75d22216-744a-4f1c-b305-76a6cebd77cb",
+    "https://static.wikia.nocookie.net/dokodemo/images/d/d5/5052001-01.jpg",
+    "https://github.com/user-attachments/assets/8ea73365-10c3-4528-9087-1934d9d9d95a",
+    "https://www.romhacking.net/utilities/screenshots/598screenshot1.png"
+   ]
+  },
+  "rikimtasu/summon-night-5-undub": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-09-26T00:43:15Z",
+    "desc": "Restores Japanese story voices (and the JP opening movie) to the USA release, keeping English text. Also restored backlog replay function from Japan version.",
+    "full": "rikimtasu/Summon-Night-5-Undub",
+    "lang": "Python",
+    "pushed": "2026-10-15T10:59:16Z",
+    "size": 1017,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "soyjxck/fma-broken-angel-undub": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-03T02:52:28Z",
+    "pre": false,
+    "tag": "v5.14",
+    "url": "https://github.com/soyjxck/fma-broken-angel-undub/releases/tag/v5.14"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-03-30T18:17:12Z",
+    "desc": "Japanese voice undub patch for Fullmetal Alchemist and the Broken Angel (PS2)",
+    "full": "soyjxck/fma-broken-angel-undub",
+    "lang": "Python",
+    "pushed": "2026-10-12T10:03:22Z",
+    "size": 1148,
+    "stars": 8
+   },
+   "shots": []
+  },
+  "soyjxck/fma-crimson-elixir-undub": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-10T00:53:15Z",
+    "pre": false,
+    "tag": "v3.9",
+    "url": "https://github.com/soyjxck/fma-crimson-elixir-undub/releases/tag/v3.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-04-02T23:02:09Z",
+    "desc": "Japanese voice undub patch for Fullmetal Alchemist 2: Curse of the Crimson Elixir (PS2)",
+    "full": "soyjxck/fma-crimson-elixir-undub",
+    "lang": "Python",
+    "pushed": "2026-10-12T10:03:40Z",
+    "size": 148,
+    "stars": 5
+   },
+   "shots": []
+  },
+  "symphonialauren/tales-of-rebirth": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-10-08T01:48:57Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/SymphoniaLauren/Tales-of-Rebirth/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-03-30T21:06:35Z",
+    "desc": "",
+    "full": "SymphoniaLauren/Tales-of-Rebirth",
+    "lang": "C",
+    "pushed": "2025-10-08T01:51:02Z",
+    "size": 91902,
+    "stars": 25
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/SymphoniaLauren/Tales-of-Rebirth/main/assets_archives/readme/tor_base.png",
+    "https://raw.githubusercontent.com/SymphoniaLauren/Tales-of-Rebirth/main/assets_archives/readme/scpk.png",
+    "https://raw.githubusercontent.com/SymphoniaLauren/Tales-of-Rebirth/main/assets_archives/readme/pak1.png"
+   ]
+  },
+  "thesola10/yc_english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Menus only",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2021-11-19T16:21:11Z",
+    "desc": "English translation patcher for YuruCamp: Have a nice day",
+    "full": "Thesola10/YC_English",
+    "lang": "Python",
+    "pushed": "2024-11-16T14:35:58Z",
+    "size": 1811,
+    "stars": 16
+   },
+   "shots": []
+  }
+ },
+ "version": 1
+}
