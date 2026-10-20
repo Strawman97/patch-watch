@@ -1,6 +1,17 @@
 {
  "format": "patch-watch-screens",
  "games": {
+  "10 000 bullets|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 14727,
+   "match": 1.0,
+   "name": "10,000 Bullets",
+   "shots": [
+    "rhk27x8xwqdealn3pf02",
+    "bnnce33kp0hmr9er2z7w",
+    "npnfxdqzzysnoxqltnmo"
+   ]
+  },
   "3x3 eyes juuma houkan|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -96,9 +107,28 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "aerowings|23": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 3709,
+   "match": 1.0,
+   "name": "AeroWings",
+   "shots": []
+  },
   "aim for the ace ace tennis|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "airforce delta strike|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 24187,
+   "match": 1.0,
+   "name": "AirForce Delta Strike",
+   "shots": [
+    "scsr28",
+    "scsr27",
+    "scsr29",
+    "scsr2a"
+   ]
   },
   "air|38": {
    "checked": "2026-10-20T12:30:37Z",
@@ -157,9 +187,73 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "aonatsu line|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 214547,
+   "match": 1.0,
+   "name": "Aonatsu Line",
+   "shots": []
+  },
+  "ape escape 3|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6064,
+   "match": 1.0,
+   "name": "Ape Escape 3",
+   "shots": [
+    "pjg66gsnlge9uvcm3pkk",
+    "rjkoi8rwmbmchjfrkbpf",
+    "bd7ekwzxmieytlaeci0f",
+    "kuhzghg2n5ohtymygd0g"
+   ]
+  },
+  "ape escape on the loose|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 44530,
+   "match": 1.0,
+   "name": "Ape Escape: On the Loose",
+   "shots": [
+    "scgguz",
+    "scggv0",
+    "scggv1"
+   ]
+  },
   "arabian nights desert spirit king|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "arc rise fantasia|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 4678,
+   "match": 1.0,
+   "name": "Arc Rise Fantasia",
+   "shots": [
+    "jazmaodxcx2wzdmao0m6",
+    "iivfqhojmuz1jdpw3g2r",
+    "ipqivcbljyfuyroz3dql",
+    "otdvqrxmo6ypsxael57z",
+    "bjjhorzkopi6j2axddut",
+    "hpnkbkx4tedhsxxfghmb"
+   ]
+  },
+  "arc the lad end of darkness|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 43649,
+   "match": 1.0,
+   "name": "Arc the Lad: End of Darkness",
+   "shots": []
+  },
+  "arc the lad twilight of the spirits|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21558,
+   "match": 1.0,
+   "name": "Arc the Lad: Twilight of the Spirits",
+   "shots": [
+    "scarpi",
+    "scarpj",
+    "scarpk",
+    "scarpl",
+    "scarpm"
+   ]
   },
   "area 88|19": {
    "checked": "2026-10-20T12:30:37Z",
@@ -182,6 +276,178 @@
   "aretha|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "armored core 2 another age|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 46029,
+   "match": 1.0,
+   "name": "Armored Core 2: Another Age",
+   "shots": [
+    "sc7ifv",
+    "sc7ifu",
+    "sc7ifw"
+   ]
+  },
+  "armored core 2|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 31719,
+   "match": 1.0,
+   "name": "Armored Core 2",
+   "shots": [
+    "sc13b6k",
+    "sc13b6l",
+    "sc13b6m",
+    "sc13b6n",
+    "sc13b6o"
+   ]
+  },
+  "armored core 3 portable|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 38453,
+   "match": 1.0,
+   "name": "Armored Core 3 Portable",
+   "shots": []
+  },
+  "armored core 3|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19414,
+   "match": 1.0,
+   "name": "Armored Core 3",
+   "shots": [
+    "sc7ig3",
+    "sc7ig4"
+   ]
+  },
+  "armored core 4|9": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5491,
+   "match": 1.0,
+   "name": "Armored Core 4",
+   "shots": [
+    "sc14hbd",
+    "sc14hbe",
+    "sc14hbf",
+    "sc7ie2",
+    "sc7ie3"
+   ]
+  },
+  "armored core for answer|9": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5493,
+   "match": 1.0,
+   "name": "Armored Core: For Answer",
+   "shots": [
+    "heekn44ijterltp7lafb",
+    "sc7ied",
+    "sc14hba",
+    "sc14hbb",
+    "sc14hbc",
+    "sc7iec"
+   ]
+  },
+  "armored core last raven portable|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 38480,
+   "match": 1.0,
+   "name": "Armored Core: Last Raven Portable",
+   "shots": []
+  },
+  "armored core last raven|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19410,
+   "match": 1.0,
+   "name": "Armored Core: Last Raven",
+   "shots": [
+    "sc7iga",
+    "sc7igb",
+    "sc7igc"
+   ]
+  },
+  "armored core master of arena|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19424,
+   "match": 1.0,
+   "name": "Armored Core: Master of Arena",
+   "shots": [
+    "scmusx",
+    "scmusw",
+    "scxw0r",
+    "scxw0q"
+   ]
+  },
+  "armored core nexus|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19412,
+   "match": 1.0,
+   "name": "Armored Core: Nexus",
+   "shots": [
+    "sc7ig8",
+    "sc7ig9"
+   ]
+  },
+  "armored core nine breaker|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 23146,
+   "match": 1.0,
+   "name": "Armored Core: Nine Breaker",
+   "shots": [
+    "sc7ig7"
+   ]
+  },
+  "armored core project phantasma|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19428,
+   "match": 1.0,
+   "name": "Armored Core: Project Phantasma",
+   "shots": [
+    "sc7ifo",
+    "sc7ifp",
+    "sc7ifq"
+   ]
+  },
+  "armored core silent line portable|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21757,
+   "match": 1.0,
+   "name": "Armored Core: Silent Line Portable",
+   "shots": [
+    "bkmxtplvvgg4kde07vhr"
+   ]
+  },
+  "armored core verdict day|9": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5494,
+   "match": 1.0,
+   "name": "Armored Core: Verdict Day",
+   "shots": [
+    "c7aqkevgmilgbhesvhj7",
+    "czopo6zfrgx1rayqhclw",
+    "tnrbio4rt3rrekdyh8hl",
+    "pm6cxg9lrcz72xohxvr0"
+   ]
+  },
+  "armored core v|9": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5492,
+   "match": 1.0,
+   "name": "Armored Core V",
+   "shots": [
+    "e7eryo0dtnnnc2bifx8u",
+    "gjdxruqdvorv9bd6sjcz",
+    "jknso79gxd15lhyxrzci",
+    "dmlourfmco0ujw2weuhe"
+   ]
+  },
+  "armored core|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 4144,
+   "match": 1.0,
+   "name": "Armored Core",
+   "shots": [
+    "sc66s3",
+    "sc66s4",
+    "sc66s5"
+   ]
   },
   "armored police metal jack|19": {
    "checked": "2026-10-20T12:30:37Z",
@@ -206,6 +472,17 @@
     "napmwaatysvxxv0hjouq",
     "tuozu566mgzfouvyq2vu",
     "rtt4mrzlto4s0zcueeaf"
+   ]
+  },
+  "astro boy|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 121365,
+   "match": 1.0,
+   "name": "Astro Boy",
+   "shots": [
+    "sch6e3",
+    "sch6e4",
+    "sch6e5"
    ]
   },
   "atelier lydie and suelle|46": {
@@ -248,6 +525,34 @@
   "ball bullet gun|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "baroque|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 4705,
+   "match": 1.0,
+   "name": "Baroque",
+   "shots": [
+    "aan6s82wiosbqgbqw1i0",
+    "scxwqy",
+    "scxwqz",
+    "scxwr2",
+    "scxwr5",
+    "scxwr0"
+   ]
+  },
+  "baroque|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 4705,
+   "match": 1.0,
+   "name": "Baroque",
+   "shots": [
+    "aan6s82wiosbqgbqw1i0",
+    "scxwqy",
+    "scxwqz",
+    "scxwr2",
+    "scxwr5",
+    "scxwr0"
+   ]
   },
   "bastard dark god of destruction|19": {
    "checked": "2026-10-20T12:30:37Z",
@@ -295,6 +600,15 @@
     "sc7zma"
    ]
   },
+  "bloody roar 3|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 3824,
+   "match": 1.0,
+   "name": "Bloody Roar 3",
+   "shots": [
+    "hc8ucib650pcokyo1yyb"
+   ]
+  },
   "blue reflection|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 25708,
@@ -306,6 +620,34 @@
     "qksgil86bomehkivn9fj",
     "zwy85d1q4xrnv2xsabsp",
     "mzrcrrswr09amzzcv8wu"
+   ]
+  },
+  "boktai 2 solar boy django|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6329,
+   "match": 1.0,
+   "name": "Boktai 2: Solar Boy Django",
+   "shots": [
+    "sc7n8i",
+    "sc7n8f",
+    "sc7n8g",
+    "sc7n8k",
+    "sc7n8j",
+    "sc7n8h"
+   ]
+  },
+  "boktai the sun is in your hand|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6326,
+   "match": 1.0,
+   "name": "Boktai: The Sun Is in Your Hand",
+   "shots": [
+    "sc8ln9",
+    "sc8ln7",
+    "sc7n8u",
+    "sc8ln8",
+    "sc7n8x",
+    "sc7n8t"
    ]
   },
   "boku to joi no shinsatsu nisshi|46": {
@@ -329,6 +671,32 @@
     "sc9d5x",
     "sc9d5w",
     "sc9d5y"
+   ]
+  },
+  "bomberman generation|21": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 3832,
+   "match": 1.0,
+   "name": "Bomberman Generation",
+   "shots": [
+    "schy2l",
+    "schy2m",
+    "schy2n",
+    "schy2o",
+    "schy2p",
+    "schy2i"
+   ]
+  },
+  "bomberman jetters|21": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 3833,
+   "match": 1.0,
+   "name": "Bomberman Jetters",
+   "shots": [
+    "scnck8",
+    "scnck9",
+    "scncka",
+    "scnckb"
    ]
   },
   "brandish 2 the planet buster|19": {
@@ -404,6 +772,18 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "bujingai the forsaken city|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19413,
+   "match": 1.0,
+   "name": "Bujingai: The Forsaken City",
+   "shots": [
+    "scsr2g",
+    "scsr2f",
+    "scsr2i",
+    "scsr2h"
+   ]
+  },
   "captain rainbow|5": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 4746,
@@ -429,6 +809,31 @@
    "name": "Captain Tsubasa: New Kick Off",
    "shots": []
   },
+  "castle shikigami 2|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 4149,
+   "match": 1.0,
+   "name": "Castle Shikigami 2",
+   "shots": [
+    "scm6mt",
+    "scm6mu",
+    "scm6mv"
+   ]
+  },
+  "castlevania order of ecclesia|20": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1141,
+   "match": 1.0,
+   "name": "Castlevania: Order of Ecclesia",
+   "shots": [
+    "z1gabvv5avfcyb39hdea",
+    "tjhiunymkh4xe3fyzagj",
+    "t01lwpb8xdqdwwtbd8uf",
+    "bugxke5fxpoqeerbuff1",
+    "tftg9ayqsai6ahs03jv3",
+    "mpw40ut8l2l4uy7tlkjd"
+   ]
+  },
   "catherine full body|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 78497,
@@ -443,6 +848,16 @@
     "sc63b1"
    ]
   },
+  "chaindive|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 66743,
+   "match": 1.0,
+   "name": "ChainDive",
+   "shots": [
+    "scqe9a",
+    "scqe9b"
+   ]
+  },
   "chaos child|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 11393,
@@ -455,6 +870,19 @@
     "kjdog9gblxyry188o6vl",
     "rcdtpbdkdqt8xlssfqjt",
     "scq0hw"
+   ]
+  },
+  "chaos legion|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 2917,
+   "match": 1.0,
+   "name": "Chaos Legion",
+   "shots": [
+    "zxxepy3wirqecirchght",
+    "ic6bdq5qh5huskwbw2tl",
+    "obsgniy2ehhpnnprgrpr",
+    "b0cit97q7cadcqglkrmx",
+    "qvtus857c3yggocv53jf"
    ]
   },
   "chaos rings iii|46": {
@@ -496,6 +924,10 @@
    "shots": [
     "sc89un"
    ]
+  },
+  "chikippudansazu norinoridansu de kokoro mo odoru|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
   },
   "chou soujuu mecha mg|20": {
    "checked": "2026-10-20T12:30:37Z",
@@ -548,6 +980,24 @@
     "sco0ur"
    ]
   },
+  "clock maker|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "clock tower 3|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 18305,
+   "match": 1.0,
+   "name": "Clock Tower 3",
+   "shots": [
+    "scn7se",
+    "scn7sf",
+    "scn7sb",
+    "scn7sc",
+    "scn7sd",
+    "scn7sa"
+   ]
+  },
   "clock tower|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -555,6 +1005,34 @@
   "clockwerx|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "code name s t e a m|37": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 7392,
+   "match": 1.0,
+   "name": "Code Name: S.T.E.A.M.",
+   "shots": [
+    "ihuuqe2mvb8xlr2adg1n",
+    "urhmambtysd4c408ncxs",
+    "f4snrqocpeeohfjbiq2m",
+    "w3f1hpdj2onxxlwntpz3",
+    "kt42gpvuns2k1wrixkcv",
+    "xvwhxx7iilgzlhgq0nyn"
+   ]
+  },
+  "code of princess|37": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6751,
+   "match": 1.0,
+   "name": "Code of Princess",
+   "shots": [
+    "ch9ttx8hzyeyadelmru2",
+    "kdkmriwzof0u0vzrme61",
+    "ekj6chf9872fcscdgt04",
+    "n76uretqsquahneuqgq8",
+    "v16tamqg2cra6mqe7mos",
+    "odlcwna7ahjplt0vn5be"
+   ]
   },
   "cooly skunk|306": {
    "checked": "2026-10-20T12:30:37Z",
@@ -568,6 +1046,37 @@
     "scaf04",
     "scaf05",
     "scaf06"
+   ]
+  },
+  "crimson gem saga|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19640,
+   "match": 1.0,
+   "name": "Crimson Gem Saga",
+   "shots": [
+    "scey5m"
+   ]
+  },
+  "crimson tears|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 22300,
+   "match": 1.0,
+   "name": "Crimson Tears",
+   "shots": [
+    "n7sjadelcasaf20uurd6",
+    "r6bnkkb6dj0fppoghbtp",
+    "selvqcwdyx6vcu37qeps",
+    "hr1ufjobgfgshbgcmz2h"
+   ]
+  },
+  "crisis core final fantasy vii|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 2407,
+   "match": 1.0,
+   "name": "Crisis Core: Final Fantasy VII",
+   "shots": [
+    "akcoqrryb1nykxldwfgv",
+    "ukii4rqvimhadcmruotu"
    ]
   },
   "cross treasures|20": {
@@ -596,6 +1105,10 @@
    "name": "Culdcept DS",
    "shots": []
   },
+  "cyanotype daydream|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "cyber knight ii chikyuu teikoku no yabou|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -611,6 +1124,20 @@
   "d gray man kami no shitotachi|20": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "da da daungo|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 277131,
+   "match": 1.0,
+   "name": "Da Da Daungo",
+   "shots": [
+    "scpkd3",
+    "scpkd5",
+    "scpkd8",
+    "scpkda",
+    "scpkdb",
+    "scpkdd"
+   ]
   },
   "dai 4 ji super robot taisen|19": {
    "checked": "2026-10-20T12:30:37Z",
@@ -640,6 +1167,20 @@
     "grpzwy1objghd6roscpc"
    ]
   },
+  "dark cloud 2|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1215,
+   "match": 1.0,
+   "name": "Dark Cloud 2",
+   "shots": [
+    "scawm3",
+    "scawm2",
+    "scawm4",
+    "scawm5",
+    "scawm6",
+    "scawm7"
+   ]
+  },
   "dark half|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -661,6 +1202,10 @@
     "snzesktka7sy1lxxnjp3",
     "l4kcvdeypqgqbr84ybxd"
    ]
+  },
+  "dei gratia no rashinban|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
   },
   "dengeki bunko fighting climax ignition|46": {
    "checked": "2026-10-20T12:30:37Z",
@@ -741,6 +1286,17 @@
     "scx9fc"
    ]
   },
+  "digimon world data squad|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 20761,
+   "match": 1.0,
+   "name": "Digimon World Data Squad",
+   "shots": [
+    "zfmu6bxmvya1zkqtqxgi",
+    "sc103p5",
+    "sc103p6"
+   ]
+  },
   "digimon world next order|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 225498,
@@ -763,12 +1319,74 @@
     "foqn6dbfs5qiiztcqn2b"
    ]
   },
+  "ding dong|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 57883,
+   "match": 1.0,
+   "name": "Ding Dong",
+   "shots": [
+    "scvrqc",
+    "scvrqf",
+    "scvrqd",
+    "scvrqe",
+    "scvrqg",
+    "scvrqh"
+   ]
+  },
+  "dirge of cerberus final fantasy vii|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 18068,
+   "match": 1.0,
+   "name": "Dirge of Cerberus: Final Fantasy VII",
+   "shots": [
+    "scfbgm",
+    "scfbgn",
+    "scfbgo",
+    "scfbgp"
+   ]
+  },
   "do re mi fantasy milons quest|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "doctor lautrec and the forgotten knights|20": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "dokapon 3 2 1 from friendship to mayhem|19": {
    "checked": "2026-10-20T12:30:37Z",
+   "shots": []
+  },
+  "dokapon kingdom|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 4816,
+   "match": 1.0,
+   "name": "Dokapon Kingdom",
+   "shots": [
+    "ocp0njmypoxq8geh7p8x",
+    "ksux2v0h4tehfkptsf6a",
+    "tgc5itkwqkoaynpe1iie",
+    "kc9tjdnwhu4oxylostie",
+    "kehujafw9kpkplh7fywz",
+    "lr5qd2ru82u9vdupczxn"
+   ]
+  },
+  "dokapon up mugen no roulette|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 139184,
+   "match": 1.0,
+   "name": "Dokapon UP! Mugen no Roulette",
+   "shots": [
+    "sc10nll",
+    "sc10nlm",
+    "sc10nln",
+    "sc10nlo",
+    "sc10nlp",
+    "sc10nlq"
+   ]
+  },
+  "doko demo issyo|38": {
+   "checked": "2026-10-20T13:09:51Z",
    "shots": []
   },
   "donald duck and the magical hat|19": {
@@ -779,8 +1397,26 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "doshin the giant|21": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 3894,
+   "match": 1.0,
+   "name": "Doshin the Giant",
+   "shots": [
+    "scbu5m",
+    "scbu5n",
+    "scbu5o",
+    "scbu5p",
+    "scbu5q",
+    "scbu5r"
+   ]
+  },
   "dossun ganseki battle|19": {
    "checked": "2026-10-20T12:30:37Z",
+   "shots": []
+  },
+  "dragon ball 3 the legend of goku|18": {
+   "checked": "2026-10-20T13:09:51Z",
    "shots": []
   },
   "dragon ball z hyper dimension|19": {
@@ -818,6 +1454,18 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "dragon ball z tenkaichi tag team|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 2572,
+   "match": 1.0,
+   "name": "Dragon Ball Z: Tenkaichi Tag Team",
+   "shots": [
+    "vgxvzfn29mgv4b5pnbjw",
+    "c9amilegi3dnbewnp6jk",
+    "l9cg6vov5xrvtomfj80e",
+    "hkpxfe2b5a9wakmq9kz2"
+   ]
+  },
   "dragon ball z ultime menace|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -852,6 +1500,34 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "dragon quest monsters caravan heart|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6388,
+   "match": 1.0,
+   "name": "Dragon Quest Monsters: Caravan Heart",
+   "shots": [
+    "sc7nc3",
+    "sc7nc4",
+    "sc7nc8",
+    "sc7nc6",
+    "sc7nca",
+    "sc7nc7"
+   ]
+  },
+  "dragon quest swords the masked queen and the tower of mirrors|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1822,
+   "match": 1.0,
+   "name": "Dragon Quest Swords: The Masked Queen and the Tower of Mirrors",
+   "shots": [
+    "zwvwtsm1xl1x3acun5p1",
+    "qxe4vl5lp0wsfvnctm2k",
+    "q9xlnplpdnlbseo3adbo",
+    "j48jw6bnavtmdnrmhdjh",
+    "ynxanwhzdh85d4k7vw16",
+    "lniq2ulfoshw1clskchi"
+   ]
+  },
   "dragon quest v hand of the heavenly bride|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -862,6 +1538,20 @@
   },
   "dragon quest vi maboroshi no daichi|19": {
    "checked": "2026-10-20T12:30:37Z",
+   "shots": []
+  },
+  "dragon quest viii journey of the cursed king|37": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 145528,
+   "match": 1.0,
+   "name": "Dragon Quest VIII: Journey of the Cursed King",
+   "shots": [
+    "sc9862",
+    "sc9863"
+   ]
+  },
+  "dragon quest x offline|130": {
+   "checked": "2026-10-20T13:09:51Z",
    "shots": []
   },
   "dragons crown|46": {
@@ -876,9 +1566,46 @@
     "mzlboajae2m4bles2d4g"
    ]
   },
+  "dragons crown|9": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 3002,
+   "match": 1.0,
+   "name": "Dragon's Crown",
+   "shots": [
+    "pipdsg1rz6gadtpmzwep",
+    "tqleiavv8nyay0lh0src",
+    "rtmkclzgajlc5azgzbw8",
+    "mzlboajae2m4bles2d4g"
+   ]
+  },
+  "drakengard 2|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 11663,
+   "match": 1.0,
+   "name": "Drakengard 2",
+   "shots": [
+    "koza3zp6weouizgpshj9",
+    "b1cbbddtgqiusbevflpj",
+    "armthu5yi5jqvi7g8d4n"
+   ]
+  },
   "dream maze the kigurumi adventure|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "dual hearts|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 44717,
+   "match": 1.0,
+   "name": "Dual Hearts",
+   "shots": [
+    "schjjf",
+    "schjje",
+    "schjjg",
+    "schjjh",
+    "schjjc",
+    "schjjd"
+   ]
   },
   "dungeon of windaria|20": {
    "checked": "2026-10-20T12:30:37Z",
@@ -892,6 +1619,170 @@
     "sc81yf",
     "sc81ye",
     "sc81yi"
+   ]
+  },
+  "dynasty warriors 2|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "dynasty warriors 4 xtreme legends|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19631,
+   "match": 1.0,
+   "name": "Dynasty Warriors 4: Xtreme Legends",
+   "shots": [
+    "scm8fz",
+    "scm8g0",
+    "scm8g1",
+    "scm8g2",
+    "scm8g3"
+   ]
+  },
+  "dynasty warriors 4|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 3007,
+   "match": 1.0,
+   "name": "Dynasty Warriors 4",
+   "shots": [
+    "sciyxa",
+    "sciyx8",
+    "sciyxg",
+    "sciyxh",
+    "sciywy",
+    "sciyxd"
+   ]
+  },
+  "dynasty warriors 5 empires|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19624,
+   "match": 1.0,
+   "name": "Dynasty Warriors 5: Empires",
+   "shots": [
+    "scm9k9",
+    "scm9ka",
+    "scm9kb",
+    "scm9k8",
+    "scm9kc",
+    "scm9kd"
+   ]
+  },
+  "dynasty warriors 5 xtreme legends|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19618,
+   "match": 1.0,
+   "name": "Dynasty Warriors 5: Xtreme Legends",
+   "shots": [
+    "scm9k0",
+    "scm9k1",
+    "scm9k2",
+    "scm9k3",
+    "scm9k4"
+   ]
+  },
+  "dynasty warriors 5|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5820,
+   "match": 1.0,
+   "name": "Dynasty Warriors 5",
+   "shots": [
+    "scm8ge",
+    "scm8gf",
+    "scm8gg",
+    "scm8gh"
+   ]
+  },
+  "dynasty warriors 6 empires|9": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19636,
+   "match": 1.0,
+   "name": "Dynasty Warriors 6: Empires",
+   "shots": [
+    "it5u9v6fe4iag7toxsa6",
+    "scazmr",
+    "scazms",
+    "scazmt",
+    "scazmu",
+    "scazmv"
+   ]
+  },
+  "dynasty warriors 6|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 287843,
+   "match": 1.0,
+   "name": "Dynasty Warriors 6",
+   "shots": [
+    "scqp0w",
+    "scqp0x",
+    "scqp0y",
+    "scqp1y"
+   ]
+  },
+  "dynasty warriors advance|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6394,
+   "match": 1.0,
+   "name": "Dynasty Warriors Advance",
+   "shots": [
+    "scm9y1",
+    "scm9y2",
+    "scm9y3",
+    "scm9y4",
+    "scm9y5",
+    "scm9y6"
+   ]
+  },
+  "dynasty warriors next|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19267,
+   "match": 1.0,
+   "name": "Dynasty Warriors Next",
+   "shots": [
+    "ohm19kfc0kwbu3to06ng",
+    "cjutaqkkpxo6kz7owr7a",
+    "ha2t8i2uchttci9nokpp",
+    "vnpyijud4bvdlzokhi8w",
+    "do4ufqbajhoexkrihovh"
+   ]
+  },
+  "dynasty warriors strikeforce|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6983,
+   "match": 1.0,
+   "name": "Dynasty Warriors: Strikeforce",
+   "shots": [
+    "i8tycfazx0t79la5foaq",
+    "scancr",
+    "scancs",
+    "scanct",
+    "scancu",
+    "scancv"
+   ]
+  },
+  "dynasty warriors strikeforce|9": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6983,
+   "match": 1.0,
+   "name": "Dynasty Warriors: Strikeforce",
+   "shots": [
+    "i8tycfazx0t79la5foaq",
+    "scancr",
+    "scancs",
+    "scanct",
+    "scancu",
+    "scancv"
+   ]
+  },
+  "earth defense force 2017 portable|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21583,
+   "match": 1.0,
+   "name": "Earth Defense Force 2017 Portable",
+   "shots": [
+    "jv71d2htvltqt1kgzy0p",
+    "pvp0g2egivvcxhazzyra",
+    "uxa89nd2lyoyhkfaegft",
+    "m91puarrwzmhnivys06y",
+    "wwagyd2qdy4nyyoazmo1"
    ]
   },
   "earth seeker|5": {
@@ -912,6 +1803,18 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "echo night beyond|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 9515,
+   "match": 1.0,
+   "name": "Echo Night: Beyond",
+   "shots": [
+    "x7twgdlv9fakgw1vbcha",
+    "cungrdpjfzr9nlll8kye",
+    "vwmrmbkonqjdnubpp9lp",
+    "fp1mwbhmcgddojpelt9y"
+   ]
+  },
   "echo night the first voyage|38": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 213604,
@@ -919,6 +1822,19 @@
    "name": "Echo Night: The First Voyage",
    "shots": [
     "scie65"
+   ]
+  },
+  "echo night|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 9514,
+   "match": 1.0,
+   "name": "Echo Night",
+   "shots": [
+    "qxlottawtj9pkw3fwktk",
+    "xlgtolq1b58axqmwxnej",
+    "scgxg2",
+    "scxoxz",
+    "scxoy0"
    ]
   },
   "element hunter|20": {
@@ -932,6 +1848,20 @@
     "scvvpn"
    ]
   },
+  "elemental gimmick gear|23": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 45862,
+   "match": 1.0,
+   "name": "Elemental Gimmick Gear",
+   "shots": [
+    "sc8xuf",
+    "sc8xug",
+    "sc8xub",
+    "sc8xuc",
+    "sc8xud",
+    "sc8xue"
+   ]
+  },
   "emerald dragon|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -940,13 +1870,90 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "escape from bug island|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "eternal filena|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "eternal poison|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21334,
+   "match": 1.0,
+   "name": "Eternal Poison",
+   "shots": [
+    "cvoux3dkrdeskgc5s1hx"
+   ]
+  },
+  "eternal ring|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 10905,
+   "match": 1.0,
+   "name": "Eternal Ring",
+   "shots": [
+    "sc9f8v",
+    "sc9f90",
+    "sc9f8w",
+    "sc9f8x",
+    "sc9f8y",
+    "sc9f8z"
+   ]
+  },
+  "etrian odyssey untold the millennium girl|37": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6768,
+   "match": 1.0,
+   "name": "Etrian Odyssey Untold: The Millennium Girl",
+   "shots": [
+    "rij61aipx5tgsmr6lyjs",
+    "el6jccqvtnpsdapdyq88",
+    "uyzs0r3yr4rztxvpwzhw",
+    "rfogekwano2wldwytpwn",
+    "buv0bjznvsmt0x0rr1py",
+    "v0esav3djtlpjorseuqn"
+   ]
+  },
+  "eureka seven vol 1 the new wave|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "eureka seven vol 2 the new vision|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21439,
+   "match": 1.0,
+   "name": "Eureka Seven Vol. 2: The New Vision",
+   "shots": [
+    "x9schnhbbbiju34bz3lg"
+   ]
+  },
   "ever17 the out of infinity premium edition|38": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "evergrace|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 10904,
+   "match": 1.0,
+   "name": "Evergrace",
+   "shots": [
+    "sc93mv",
+    "scdepz",
+    "scdeq0"
+   ]
+  },
+  "extermination|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 10914,
+   "match": 1.0,
+   "name": "Extermination",
+   "shots": [
+    "scso3f",
+    "scso3d",
+    "scso3e",
+    "sckae1"
+   ]
   },
   "f 1 grand prix part ii|19": {
    "checked": "2026-10-20T12:30:37Z",
@@ -1010,6 +2017,45 @@
     "dkqoqec1blv56v8i5mdk",
     "cbsldtccwh9kfirxz7iw",
     "bswimra8mb4qvwre5edu"
+   ]
+  },
+  "final fantasy crystal chronicles echoes of time|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 23016,
+   "match": 1.0,
+   "name": "Final Fantasy: Crystal Chronicles - Echoes of Time",
+   "shots": [
+    "vnseefzvpzxpjmmmfn8z",
+    "rmtiyh22sgxbfcgztsmq",
+    "lezyks41soyweuwqzt8e",
+    "dkqoqec1blv56v8i5mdk",
+    "cbsldtccwh9kfirxz7iw",
+    "bswimra8mb4qvwre5edu"
+   ]
+  },
+  "final fantasy crystal chronicles the crystal bearers|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 401,
+   "match": 1.0,
+   "name": "Final Fantasy: Crystal Chronicles - The Crystal Bearers",
+   "shots": [
+    "ch6c04vmqfzrl8njnvbe",
+    "hwfdqrrblzqm0jnawp6z",
+    "xopmbvdwlosfshjav7md"
+   ]
+  },
+  "final fantasy explorers|37": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 7413,
+   "match": 1.0,
+   "name": "Final Fantasy: Explorers",
+   "shots": [
+    "ueixblmh6aopzn4u6xdq",
+    "tqr83qe2ifbanlr9bucp",
+    "ie9aiyol52ccskle2nf4",
+    "dpmzpvhv7gu8pw3qgqk3",
+    "umkkvvxqyc6sq29adwoe",
+    "stz6nsmrb2yqenpaov45"
    ]
   },
   "final fantasy iv namingway edition|19": {
@@ -1092,6 +2138,20 @@
     "sc9idw"
    ]
   },
+  "final fantasy x x 2 hd remaster|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 14144,
+   "match": 1.0,
+   "name": "Final Fantasy X/X-2 HD Remaster",
+   "shots": [
+    "sc9ids",
+    "sc9idv",
+    "sc9idu",
+    "sc9idt",
+    "sc9idr",
+    "sc9idw"
+   ]
+  },
   "fire emblem heroes of light and shadow|20": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -1126,6 +2186,15 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "forever kingdom|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 10907,
+   "match": 1.0,
+   "name": "Forever Kingdom",
+   "shots": [
+    "sc93my"
+   ]
+  },
   "freedom wars|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 6060,
@@ -1138,6 +2207,18 @@
     "gc1v20n2jj32svyniq7n"
    ]
   },
+  "front mission 5 scars of the war|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1506,
+   "match": 1.0,
+   "name": "Front Mission 5: Scars of the War",
+   "shots": [
+    "pggnbi3npwfuludah6nu",
+    "hwmdw5nvznl82cusohms",
+    "wp2aztocmqrubyjttv7c",
+    "vo8uboki80yrc64hu4aj"
+   ]
+  },
   "front mission series gun hazard|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -1145,6 +2226,32 @@
   "front mission|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "fullmetal alchemist 2 curse of the crimson elixir|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19072,
+   "match": 1.0,
+   "name": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
+   "shots": [
+    "lvf6gxbcrnqufaywi9kl",
+    "z8hzpnxnfpgrfpcbagjm",
+    "x8sjuxg3ddmawtna0jzi",
+    "mdsxpypsitwpmw3miy2i",
+    "evjo8ninmxdcuhtn8h9p"
+   ]
+  },
+  "fullmetal alchemist and the broken angel|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19071,
+   "match": 1.0,
+   "name": "Fullmetal Alchemist and the Broken Angel",
+   "shots": [
+    "hs85os6obrndn42dsxrj",
+    "hetkwocnhoojsagxqgr8",
+    "jtzvim63srrsnb5qtayx",
+    "gjxchczuyx7fsibj0eo3",
+    "dxbepxyiledimbqrglk2"
+   ]
   },
   "fullmetal alchemist sonata of memories|24": {
    "checked": "2026-10-20T12:30:37Z",
@@ -1182,6 +2289,27 @@
     "scju52",
     "scju53",
     "scju4x"
+   ]
+  },
+  "futago usagi no gokinjo turismo|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "g mode archives 37|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "g mode archives 44 dragon x dragon|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 241041,
+   "match": 1.0,
+   "name": "G-Mode Archives 44: Dragon x Dragon",
+   "shots": [
+    "scr9ed",
+    "scr9e9",
+    "scr9ea",
+    "scr9eb",
+    "scr9ec"
    ]
   },
   "g o d growth or devolution heed the call to awaken|19": {
@@ -1223,6 +2351,18 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "gensou rougoku no kaleidoscope|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 121533,
+   "match": 1.0,
+   "name": "Kaleidoscope of Phantasm Prison",
+   "shots": [
+    "sc8lrc",
+    "sc8lrd",
+    "sc8lre",
+    "sc8lrf"
+   ]
+  },
   "gensou rougoku no kaleidoscope|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 121533,
@@ -1233,6 +2373,29 @@
     "sc8lrd",
     "sc8lre",
     "sc8lrf"
+   ]
+  },
+  "gensou suikoden card stories|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1451,
+   "match": 1.0,
+   "name": "Genso Suikoden Card Stories",
+   "shots": [
+    "phmqrfjrmdhyeabgqqhu",
+    "sc7ns8",
+    "sc7ns9",
+    "sc7nsa",
+    "ajq8okmpjfd8m5kezqxc",
+    "sc7ns7"
+   ]
+  },
+  "germs nerawareta machi|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 62438,
+   "match": 1.0,
+   "name": "Germs: Nerawareta Machi",
+   "shots": [
+    "scosyt"
    ]
   },
   "ghost chaser densei|19": {
@@ -1256,9 +2419,33 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "glass rose|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 43441,
+   "match": 1.0,
+   "name": "Glass Rose",
+   "shots": [
+    "sc15c1f",
+    "sc15c1g",
+    "sc15c1e"
+   ]
+  },
   "go go ackman|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "god eater 2 rage burst|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 11857,
+   "match": 1.0,
+   "name": "God Eater 2: Rage Burst",
+   "shots": [
+    "tzgwl0maixoec1ulgvpp",
+    "vbbjqespq635er6z1t6l",
+    "ffvxjgfk1lreje68larz",
+    "vuna2cden7pxqd0c7q2o",
+    "txhzdn6bk3lbunrz2ka7"
+   ]
   },
   "god eater 2|38": {
    "checked": "2026-10-20T12:30:37Z",
@@ -1293,9 +2480,36 @@
    "name": "God Eater: Off Shot - Twin Pack Vol. 5",
    "shots": []
   },
+  "god eater resurrection|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 11858,
+   "match": 1.0,
+   "name": "God Eater Resurrection",
+   "shots": [
+    "kutktvsjswyleeg32gxl",
+    "vi1zofxq1pqjj2grzazx",
+    "b9ge9hstcfyunjxu8w7o",
+    "uzprwnvrmvza1abgpoxb",
+    "vq5lo5qt2akykbkyffnz"
+   ]
+  },
   "gourmet sentai barayarou|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "graffiti kingdom|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 11358,
+   "match": 1.0,
+   "name": "Graffiti Kingdom",
+   "shots": [
+    "scoq0a",
+    "scoq0b",
+    "scoq0c",
+    "scoq0d",
+    "scoq0e",
+    "scoq0f"
+   ]
   },
   "grand knights history|38": {
    "checked": "2026-10-20T12:30:37Z",
@@ -1322,6 +2536,18 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "gregory horror show|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 22252,
+   "match": 1.0,
+   "name": "Gregory Horror Show",
+   "shots": [
+    "mop8fwvyvwndvftmmvns",
+    "b7pcl9fzp17tszh0mh5n",
+    "wkppilt76wmojltp5avx",
+    "luwi6mdrsydks2cxp3r1"
+   ]
+  },
   "grisaia no kajitsu side episode|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 145401,
@@ -1346,6 +2572,29 @@
     "sc9n2x"
    ]
   },
+  "growlanser heritage of war|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21308,
+   "match": 1.0,
+   "name": "Growlanser: Heritage of War",
+   "shots": [
+    "iz4gmvpfkgi5jzbrsrwm"
+   ]
+  },
+  "growlanser vi precarious world|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21314,
+   "match": 1.0,
+   "name": "Growlanser VI: Precarious World",
+   "shots": [
+    "scm69j",
+    "scm69k"
+   ]
+  },
+  "growlanser wayfarer of time|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "gun gun pixies|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 27281,
@@ -1360,9 +2609,43 @@
     "scfexh"
    ]
   },
+  "gun smoke|51": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 40965,
+   "match": 1.0,
+   "name": "Gun.Smoke",
+   "shots": [
+    "sc15bmk",
+    "sc15bmi",
+    "sc15bmj"
+   ]
+  },
+  "gundam assault survive|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 67126,
+   "match": 1.0,
+   "name": "Gundam Assault Survive",
+   "shots": []
+  },
+  "gundemonium collection|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "gundemonium collection|46": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "gungrave overdose|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 22452,
+   "match": 1.0,
+   "name": "Gungrave: Overdose",
+   "shots": [
+    "scp9at",
+    "scp9ar",
+    "scp9as",
+    "scp9au"
+   ]
   },
   "gurumin a monstrous adventure|38": {
    "checked": "2026-10-20T12:30:37Z",
@@ -1469,6 +2752,44 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "hexyz force|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 42884,
+   "match": 1.0,
+   "name": "Hexyz Force",
+   "shots": [
+    "sc6spl",
+    "sc6spk",
+    "sc6spj"
+   ]
+  },
+  "higurashi no naku koro ni hou|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 251461,
+   "match": 1.0,
+   "name": "Higurashi no Naku Koro ni Hou",
+   "shots": [
+    "scmr4n",
+    "scmr4o",
+    "scmr4q",
+    "scmr4r",
+    "scmr4p"
+   ]
+  },
+  "honey vibes|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 287894,
+   "match": 1.0,
+   "name": "Honey Vibes",
+   "shots": [
+    "scqp6u",
+    "scuhjp",
+    "scuhjq",
+    "scuhjr",
+    "scuhjs",
+    "scuhji"
+   ]
+  },
   "hyperdimension neptunia re birth2 sisters generation|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 9868,
@@ -1535,6 +2856,10 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "irochi mikke|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "is it wrong to try to pick up girls in a dungeon infinite combate|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 47160,
@@ -1577,6 +2902,44 @@
    "name": "Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary",
    "shots": []
   },
+  "jade cocoon 2|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 18079,
+   "match": 1.0,
+   "name": "Jade Cocoon 2",
+   "shots": [
+    "scvqsp",
+    "scvqsq",
+    "scvqsr"
+   ]
+  },
+  "jade cocoon story of the tamamayu|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 45000,
+   "match": 1.0,
+   "name": "Jade Cocoon: Story of the Tamamayu",
+   "shots": [
+    "sc95xp",
+    "scy59w",
+    "scy59x",
+    "scy59z",
+    "scy59y",
+    "scy5a0"
+   ]
+  },
+  "jeanne darc|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 11326,
+   "match": 1.0,
+   "name": "Jeanne d'Arc",
+   "shots": [
+    "op557l0dqq8ki2gqhyec",
+    "hq8vhdgqv6fodwohx89n",
+    "z1caeekhrqudpwjdb25t",
+    "nxjetucagwz07qyllzi9",
+    "rw0hm9k8tecw8noxtgef"
+   ]
+  },
   "jet impulse|20": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 72952,
@@ -1586,6 +2949,10 @@
     "sce8zz",
     "sce900"
    ]
+  },
+  "jojo no kimyou na bouken phantom blood|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
   },
   "jump ultimate stars|20": {
    "checked": "2026-10-20T12:30:37Z",
@@ -1623,12 +2990,23 @@
     "ptqdqwgei9uosizcb3qo"
    ]
   },
+  "kanken smart strategy|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "kantai collection kai|46": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
   "ketsui kizuna jigoku tachi death label|20": {
    "checked": "2026-10-20T12:30:37Z",
+   "shots": []
+  },
+  "khamrai|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 91879,
+   "match": 1.0,
+   "name": "Khamrai",
    "shots": []
   },
   "kidou senshi gundam gihren no yabou axis no kyoui v|38": {
@@ -1642,6 +3020,18 @@
    "name": "Mobile Suit Gundam: Gundam vs. Gundam Next Plus",
    "shots": []
   },
+  "kimikiss|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 70540,
+   "match": 1.0,
+   "name": "KimiKiss",
+   "shots": [
+    "scaf22",
+    "scaf23",
+    "scaf24",
+    "scaf25"
+   ]
+  },
   "kingdom hearts birth by sleep final mix|38": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 42856,
@@ -1652,6 +3042,20 @@
     "sc8e70",
     "sc8e71",
     "sc8e72"
+   ]
+  },
+  "kingdom hearts chain of memories|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1220,
+   "match": 1.0,
+   "name": "Kingdom Hearts: Chain of Memories",
+   "shots": [
+    "sc8e5d",
+    "efimztck8j2lco9foz1o",
+    "k7ezmhnyijsyvgedydfx",
+    "sc8e5f",
+    "sc8e5g",
+    "sc8e5e"
    ]
   },
   "klonoa heroes densetsu no star medal|24": {
@@ -1716,6 +3120,28 @@
     "scll8k"
    ]
   },
+  "laid back camp have a nice day|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 146334,
+   "match": 1.0,
+   "name": "Laid-Back Camp: Have a nice day!",
+   "shots": [
+    "sceklq",
+    "sceklr",
+    "scekls"
+   ]
+  },
+  "langrisser iii|32": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 69532,
+   "match": 1.0,
+   "name": "Langrisser III",
+   "shots": [
+    "sc156gb",
+    "sc156g9",
+    "sc156ga"
+   ]
+  },
   "last ranker|38": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 38461,
@@ -1726,6 +3152,33 @@
     "scgpr1",
     "scgpr2",
     "scgpr3"
+   ]
+  },
+  "last story|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 4966,
+   "match": 1.0,
+   "name": "The Last Story",
+   "shots": [
+    "ioz4lyx9fm2atq8r8rwx",
+    "q7pp4mvz0d41rtqxo5jx",
+    "j5x8povmdwanlbaxclux",
+    "bzxbyfawndllqpyvmd7l",
+    "nnts3t9d0t8xu2bcukbw",
+    "yvyvyzfgygqohvgvn4fq"
+   ]
+  },
+  "legend of dragoon|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 3140,
+   "match": 1.0,
+   "name": "The Legend of Dragoon",
+   "shots": [
+    "amt6r1sh01qamychguop",
+    "tlezfad2siz0dihuitu9",
+    "dm01xbkfkvitrnnndali",
+    "yngizlmywtk6jxsr3elu",
+    "ozbxg2pvlngsoylwcjzb"
    ]
   },
   "legend of heroes trails from zero evolution|46": {
@@ -1776,6 +3229,27 @@
     "scooi3"
    ]
   },
+  "legend of heroes trails of cold steel ii|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 78114,
+   "match": 0.952,
+   "name": "The Legend of Heroes: Trails of Cold Steel II - Kai",
+   "shots": [
+    "sce0sf",
+    "sce0sh",
+    "sce0sj",
+    "sce0si",
+    "sce0sg",
+    "sce0sm"
+   ]
+  },
+  "legend of heroes trails of cold steel|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 75973,
+   "match": 0.925,
+   "name": "The Legend of Heroes: Trails of Cold Steel I - Kai",
+   "shots": []
+  },
   "legend of heroes trails to azure|38": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 284036,
@@ -1784,6 +3258,10 @@
    "shots": [
     "scqad2"
    ]
+  },
+  "lets color with sanrio characters|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
   },
   "liar princess and the blind prince|46": {
    "checked": "2026-10-20T12:30:37Z",
@@ -1796,6 +3274,20 @@
     "scgxxs",
     "scgxxp",
     "scgxxq"
+   ]
+  },
+  "liberation maiden|37": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21007,
+   "match": 1.0,
+   "name": "Liberation Maiden",
+   "shots": [
+    "i4gl27f5iekoxdlzajxi",
+    "newlemba0o7fhlackklb",
+    "sbwwmhsz4iqa1jywd15a",
+    "gtksmxdg69rblegq2sxx",
+    "m9o1lsgm6lqruvk1ugw0",
+    "bsscnxuli8hvwj1mn5d3"
    ]
   },
   "line attack heroes|5": {
@@ -1817,6 +3309,20 @@
     "sc82yw",
     "sc82yy",
     "sc82yx"
+   ]
+  },
+  "lord of magna maiden heaven|37": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 20020,
+   "match": 1.0,
+   "name": "Lord of Magna: Maiden Heaven",
+   "shots": [
+    "lcpovzozoalltbbcegvk",
+    "ujoipggdypeo0sjbrmuv",
+    "zk6hzimwcrleebqhjmsg",
+    "rnd6ziwnge6rv8tr4lgo",
+    "z5ijw3wt8a3apel5a3ff",
+    "x74nzex1o0bkcg3krrjr"
    ]
   },
   "love live school idol paradise|46": {
@@ -1846,6 +3352,20 @@
     "sc9e0q",
     "sc9e0r",
     "sc9e0s"
+   ]
+  },
+  "magic pengel the quest for color|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 11357,
+   "match": 1.0,
+   "name": "Magic Pengel: The Quest for Color",
+   "shots": [
+    "scqaip",
+    "scqaiq",
+    "scqair",
+    "scqais",
+    "scqait",
+    "scqaiu"
    ]
   },
   "magical land of wozz|19": {
@@ -1884,6 +3404,18 @@
    "name": "Mahouka Koukou no Rettousei: Out of Order",
    "shots": []
   },
+  "maken x|23": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 46378,
+   "match": 1.0,
+   "name": "Maken X",
+   "shots": [
+    "y6qusp5onyizgf5cd6hw",
+    "g5raf8s9zotlmapxnob8",
+    "mxeqhsiqmoe38vlmecpr",
+    "pwudf2ymvyq58vdhq5jc"
+   ]
+  },
   "making lovers|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 77823,
@@ -1905,6 +3437,20 @@
    "name": "MapleStory DS",
    "shots": []
   },
+  "maximo ghosts to glory|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 22054,
+   "match": 1.0,
+   "name": "Maximo: Ghosts to Glory",
+   "shots": [
+    "scfejl",
+    "scfejm"
+   ]
+  },
+  "mazinger z|19": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "mcdonalds ecdp|20": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 141196,
@@ -1917,6 +3463,72 @@
     "scya12",
     "scya13",
     "scya14"
+   ]
+  },
+  "mega man maverick hunter x|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 24275,
+   "match": 1.0,
+   "name": "Mega Man: Maverick Hunter X",
+   "shots": [
+    "w2uy2rhvn5vrilkrfncy",
+    "wlrl2hhmbk5p9ekwxvhr",
+    "ptwlykjdjlosoyrhs9cc",
+    "xrzcmvfjw7fzsswzqfcv",
+    "sfjdm20u9tokmfhzambe"
+   ]
+  },
+  "mega man powered up|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 12937,
+   "match": 1.0,
+   "name": "Mega Man Powered Up",
+   "shots": [
+    "r3goidu2y26yfswf6lcu",
+    "osscq1gzwixjruzvawam",
+    "r5q7zbjmipobjjhljody",
+    "olys3mpr56abdqkraw3o"
+   ]
+  },
+  "mega man x command mission|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1751,
+   "match": 1.0,
+   "name": "Mega Man X: Command Mission",
+   "shots": [
+    "sc994u",
+    "sc994v",
+    "sc9950",
+    "sc994y",
+    "sc994w",
+    "sc994x"
+   ]
+  },
+  "mega man x4|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1744,
+   "match": 1.0,
+   "name": "Mega Man X4",
+   "shots": [
+    "otwkfq81plhqasqyumzn",
+    "sc110bl",
+    "sc110bi",
+    "sc110bj",
+    "sc110bk"
+   ]
+  },
+  "mega man x7|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1747,
+   "match": 1.0,
+   "name": "Mega Man X7",
+   "shots": [
+    "sc8c15",
+    "sc8c17",
+    "sc8c12",
+    "sc8c16",
+    "sc8c13",
+    "sc8c14"
    ]
   },
   "mega man zx advent|20": {
@@ -1951,6 +3563,33 @@
    "match": 0.99,
    "name": "Meitantei Conan & Kindaichi Shounen no Jikenbo: Meguri au Futari no Meitantei",
    "shots": []
+  },
+  "menherafflesia flowering abyss|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 151691,
+   "match": 1.0,
+   "name": "Menherafflesia Flowering Abyss",
+   "shots": [
+    "scaeyl",
+    "scaeyp",
+    "scaeyn",
+    "scaeym",
+    "scaeyo"
+   ]
+  },
+  "metal gear solid 3 snake eater hd|9": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 99821,
+   "match": 0.892,
+   "name": "Metal Gear Solid 3: Snake Eater - HD Edition",
+   "shots": [
+    "sc15a2x",
+    "sc15a2y",
+    "sc15a30",
+    "sc79cx",
+    "sc79cz",
+    "sc79cy"
+   ]
   },
   "metal max 2 reloaded|20": {
    "checked": "2026-10-20T12:30:37Z",
@@ -1993,6 +3632,15 @@
     "fbnrkljvaldw2cslkphp"
    ]
   },
+  "mimana iyar chronicle|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 80165,
+   "match": 1.0,
+   "name": "Mimana Iyar Chronicle",
+   "shots": [
+    "scey5p"
+   ]
+  },
   "miracle girls festival|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 13658,
@@ -2020,6 +3668,20 @@
     "scrkv6"
    ]
   },
+  "mother 1 2|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 78585,
+   "match": 1.0,
+   "name": "Mother 1+2",
+   "shots": [
+    "sc7nly",
+    "sc7nlw",
+    "sc7nlv",
+    "sc7nlz",
+    "sc7nlx",
+    "sc7nm0"
+   ]
+  },
   "mother 3|24": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 3683,
@@ -2032,6 +3694,17 @@
     "wsoxexajngzwpmffcput",
     "efac0ai1rs3rckeppwlb",
     "ixmlrvcqn59ph3p8amqe"
+   ]
+  },
+  "mr driller 2|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 49260,
+   "match": 1.0,
+   "name": "Mr. Driller 2",
+   "shots": [
+    "lygf1mf9vt89s9jrwkkb",
+    "xlak3otwwnfm1yis4a9n",
+    "kicjjbeim34pzcu5etm8"
    ]
   },
   "mugen no frontier exceed super robot taisen og saga|20": {
@@ -2068,6 +3741,17 @@
   "mysterious dungeon 2 shiren the wanderer|19": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "mystic heroes|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 50583,
+   "match": 1.0,
+   "name": "Mystic Heroes",
+   "shots": [
+    "sc897q",
+    "sc897o",
+    "sc897p"
+   ]
   },
   "nanashi no game me|20": {
    "checked": "2026-10-20T12:30:37Z",
@@ -2126,6 +3810,13 @@
     "scqany"
    ]
   },
+  "nekketsu monogatari advance|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 266916,
+   "match": 1.0,
+   "name": "Nekketsu Monogatari Advance",
+   "shots": []
+  },
   "nelke and the legendary alchemists|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 103335,
@@ -2151,12 +3842,32 @@
     "sc74v3"
    ]
   },
+  "neverland card battles|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 42773,
+   "match": 1.0,
+   "name": "Neverland Card Battles",
+   "shots": []
+  },
   "new game the challenge stage|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 117577,
    "match": 1.0,
    "name": "New Game! The Challenge Stage!",
    "shots": []
+  },
+  "new little kings story|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19911,
+   "match": 1.0,
+   "name": "New Little King's Story",
+   "shots": [
+    "gz69hofguxbn5k9tyloi",
+    "zmjhbc2nxbnf3xjvbnoo",
+    "zpgdckwiuvkfenilockb",
+    "iz4woxjogx9aidab6p4d",
+    "zfy1lyvtl7jbza6cpf8c"
+   ]
   },
   "new love plus|37": {
    "checked": "2026-10-20T12:30:37Z",
@@ -2205,6 +3916,18 @@
     "oc8ut90f2mu7ieogorbq"
    ]
   },
+  "nightshade|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 10224,
+   "match": 1.0,
+   "name": "Nightshade",
+   "shots": [
+    "o7xak9ifhzs8ylerb7oo",
+    "dnybfb8avn1hiyb99cq5",
+    "b1chfkq0jy7rxwsdge6c",
+    "dkt6usu08d3mfnxqeoqv"
+   ]
+  },
   "ninki seiyuu how to make a pop voice actress|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 74827,
@@ -2231,9 +3954,31 @@
     "scrks1"
    ]
   },
+  "note|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 76728,
+   "match": 1.0,
+   "name": "The Note",
+   "shots": [
+    "sc8116",
+    "sc8117",
+    "sc8118"
+   ]
+  },
   "odekake earth seeker|20": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "okayu nyumu|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 320166,
+   "match": 1.0,
+   "name": "Okayu Nyumu!",
+   "shots": [
+    "scub55",
+    "scub56",
+    "scub57"
+   ]
   },
   "omega labyrinth z|46": {
    "checked": "2026-10-20T12:30:37Z",
@@ -2244,6 +3989,44 @@
     "scog60",
     "scog5y",
     "scog5z"
+   ]
+  },
+  "onimusha 2 samurais destiny|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 11757,
+   "match": 1.0,
+   "name": "Onimusha 2: Samurai's Destiny",
+   "shots": [
+    "tvc2nfbdvrbfeojw5wlz",
+    "ofonpasw8g072fivjxkh",
+    "kazarrvnn2nvl0lzpb3b",
+    "emvyfpacpedganwteie8",
+    "gqyrelurq7psoj3wn97l"
+   ]
+  },
+  "onimusha 3 demon siege|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 11758,
+   "match": 1.0,
+   "name": "Onimusha 3: Demon Siege",
+   "shots": [
+    "xybs919iingkf0ilsum0",
+    "srugso8pnr2kkxn8zlzq",
+    "i5gxouzdzrnoaa64y8jn",
+    "tkethi4g3klovmlg2zha"
+   ]
+  },
+  "onimusha blade warriors|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 10551,
+   "match": 1.0,
+   "name": "Onimusha: Blade Warriors",
+   "shots": [
+    "sch3ze",
+    "sch3zf",
+    "sch3zd",
+    "sch3zg",
+    "sch3zh"
    ]
   },
   "opoona|5": {
@@ -2285,6 +4068,32 @@
     "scgojq"
    ]
   },
+  "oriental blue ao no tengai|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 49414,
+   "match": 1.0,
+   "name": "Oriental Blue: Ao no Tengai",
+   "shots": [
+    "sc7nm9",
+    "sc7nmb",
+    "sc7nm4",
+    "sc7nm8",
+    "sc7nma",
+    "sc7nmc"
+   ]
+  },
+  "ouchi de rilakkuma rilakkuma ga ouchi ni yatte kita|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 145396,
+   "match": 1.0,
+   "name": "Ouchi de Rilakkuma: Rilakkuma ga Ouchi ni Yatte Kita",
+   "shots": [
+    "scpt04",
+    "scpt06",
+    "scpt03",
+    "scpt05"
+   ]
+  },
   "ougon no kizuna|5": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 72603,
@@ -2293,6 +4102,20 @@
    "shots": [
     "scs5nl",
     "scs5nm"
+   ]
+  },
+  "pandoras tower|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5090,
+   "match": 1.0,
+   "name": "Pandora's Tower",
+   "shots": [
+    "uandafatuh0ccubahidv",
+    "us7yywegpd8yasjf2ht5",
+    "zvup52pokogc17z4z7ui",
+    "bnkrs61xv9gz2cftvcyd",
+    "bb1rnlfuyi0dgqgzmjov",
+    "oanim0bk50mrxtfejmik"
    ]
   },
   "panel de pon ds|20": {
@@ -2312,6 +4135,20 @@
    "shots": [
     "sckf3y",
     "sckf3z"
+   ]
+  },
+  "phantasy star 0|20": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21091,
+   "match": 1.0,
+   "name": "Phantasy Star 0",
+   "shots": [
+    "ltvgenf4tgfw2abnuvuy",
+    "vdkvwp297rpesfpbyh2h",
+    "ywggnallwr1gukji9kkb",
+    "qyacqjmpehr3y2p5xtmp",
+    "dbhxxef0y6gta5cxeemp",
+    "t5aafadhut6ufygkeovf"
    ]
   },
   "phantasy star nova|46": {
@@ -2337,6 +4174,17 @@
     "sc8rak",
     "sc8ram",
     "sc8ran"
+   ]
+  },
+  "phantasy star portable|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21873,
+   "match": 1.0,
+   "name": "Phantasy Star Portable",
+   "shots": [
+    "scpvgi",
+    "scpvgj",
+    "scpvgk"
    ]
   },
   "phantom kingdom portable|38": {
@@ -2411,6 +4259,18 @@
    "name": "Plastic Memories",
    "shots": []
   },
+  "pocket muumuu|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 72991,
+   "match": 1.0,
+   "name": "Pocket MuuMuu",
+   "shots": [
+    "sc15ant",
+    "sc15ans",
+    "sc15anv",
+    "sc15anu"
+   ]
+  },
   "pokemon mystery dungeon keep going blazing adventure squad|5": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -2443,6 +4303,52 @@
     "zobxsjbv7yqogmmt261g",
     "e8tjems14uv6uyb6z96w",
     "tkg67edbys73ywy5wp7w"
+   ]
+  },
+  "professor layton|20": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "project zero 2 wii edition|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 14409,
+   "match": 1.0,
+   "name": "Project Zero 2: Wii Edition",
+   "shots": [
+    "rjl6d83o5bxgms0k0bed",
+    "i1jjseiugcxzjpcq4klt",
+    "mxjue03q7opnhxckqueq",
+    "vhdngrs46kjn8ig2rcir",
+    "zzxvzix0jaggavom1m6x",
+    "sdz1qou9hnloaicmgwxx"
+   ]
+  },
+  "project zero 3 the tormented|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5107,
+   "match": 0.931,
+   "name": "Fatal Frame III: The Tormented",
+   "shots": [
+    "xtlbxd5cmxsus1jzts8s",
+    "hwt7fccuyfgw0jrkbzoi",
+    "scp0d1",
+    "scp0cy",
+    "scp0cz",
+    "scp0d0"
+   ]
+  },
+  "project zero ii crimson butterfly|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5105,
+   "match": 1.0,
+   "name": "Fatal Frame II: Crimson Butterfly",
+   "shots": [
+    "gnypujvy9ormuhicjrgl",
+    "qbd2gkmt90zsva6yhcww",
+    "sc5j9h",
+    "sc5j9k",
+    "jrjdorgq1lywptwsdtrv",
+    "sc5j9j"
    ]
   },
   "puchi eva evangelion game|20": {
@@ -2595,6 +4501,24 @@
     "sc6w8z"
    ]
   },
+  "rasenreijo spiral hair super lady makina|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "record of lodoss war|23": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 69656,
+   "match": 1.0,
+   "name": "Record of Lodoss War",
+   "shots": [
+    "sc89kx",
+    "sc89kz",
+    "sc89ky",
+    "sc89kv",
+    "sc89kw",
+    "sc89ku"
+   ]
+  },
   "remember11 the age of infinity|38": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 18040,
@@ -2635,6 +4559,20 @@
    "name": "Ripened Tingle's Balloon Trip of Love",
    "shots": [
     "sch42h"
+   ]
+  },
+  "riviera the promised land|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6559,
+   "match": 1.0,
+   "name": "Riviera: The Promised Land",
+   "shots": [
+    "sclr0i",
+    "sclr0n",
+    "sclr0k",
+    "sclr0m",
+    "sclr0p",
+    "sclr0q"
    ]
   },
   "robotics notes elite|46": {
@@ -2686,6 +4624,18 @@
     "scu1wv",
     "scu1ww",
     "scu1ws"
+   ]
+  },
+  "romancing saga|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 141296,
+   "match": 1.0,
+   "name": "Romancing SaGa",
+   "shots": [
+    "sc8sc2",
+    "sc8sc3",
+    "sc8sc4",
+    "sc8sc5"
    ]
   },
   "rosario to vampire tanabata no miss youkai gakuen|20": {
@@ -2750,6 +4700,10 @@
     "foepwtlhms5n4vnwdvsp"
    ]
   },
+  "saikoro psycho seventh heaven|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "sailor moon la luna splende|20": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 76765,
@@ -2775,6 +4729,54 @@
     "scgns1"
    ]
   },
+  "samurai warriors 2 empires|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 7174,
+   "match": 1.0,
+   "name": "Samurai Warriors 2 Empires",
+   "shots": [
+    "w71jkgasszxxg3g7lgfk",
+    "q1yfcg9rxziweg1tklty",
+    "mj4bwtpwr7r18gnckhcl",
+    "cfly2lwwzauwnh2gpsjd",
+    "prmqhyjeogz9rwl8jau7"
+   ]
+  },
+  "samurai warriors 2 xtreme legends|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 7175,
+   "match": 1.0,
+   "name": "Samurai Warriors 2 Xtreme Legends",
+   "shots": [
+    "j3dck76plmwfmwyzjsej",
+    "shz3n1pdcsurpkt6mf9u",
+    "yvwyfasu2aiwqfcufhuv",
+    "vwuptcriaa5pqt4ev2om",
+    "kblopoya08zfznihfe2y"
+   ]
+  },
+  "samurai warriors 2|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 7173,
+   "match": 1.0,
+   "name": "Samurai Warriors 2",
+   "shots": [
+    "vwmgtlco5zwnspthyotl",
+    "ud9upu4zfamwbtilvloi",
+    "z63kk1abzeteh5nxtava"
+   ]
+  },
+  "samurai warriors state of war|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 12299,
+   "match": 1.0,
+   "name": "Samurai Warriors: State of War",
+   "shots": [
+    "sc6wah",
+    "sc6waj",
+    "sc6wai"
+   ]
+  },
   "sd gundam g generation overworld|38": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 42710,
@@ -2783,6 +4785,16 @@
    "shots": [
     "sc10wk4",
     "sc10wk5"
+   ]
+  },
+  "segagaga|23": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 28151,
+   "match": 1.0,
+   "name": "Segagaga",
+   "shots": [
+    "djs5ewmxp7dmbzvhoy3l",
+    "gybsbvobgqhssphrsovb"
    ]
   },
   "sen no hatou tsukisome no kouki|46": {
@@ -2806,6 +4818,31 @@
     "scg85i"
    ]
   },
+  "shadow hearts|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 4170,
+   "match": 1.0,
+   "name": "Shadow Hearts",
+   "shots": [
+    "fvahczylngjeyfsejndp",
+    "uermqixbrhiaxev11suu",
+    "rtkqctihzjt72mnffd6y"
+   ]
+  },
+  "shadow tower abyss|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 9503,
+   "match": 1.0,
+   "name": "Shadow Tower: Abyss",
+   "shots": [
+    "ccz2fxwgza7hee83qglf",
+    "hm1lrxiuo8ccgf5djgot",
+    "sc13olv",
+    "sc13olw",
+    "sc13olx",
+    "sc13oly"
+   ]
+  },
   "shin bokura no taiyou gyakushuu no sabata|24": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 49418,
@@ -2824,6 +4861,32 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "shin megami tensei ii|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 252800,
+   "match": 1.0,
+   "name": "Shin Megami Tensei II",
+   "shots": [
+    "scwvh0",
+    "scwvh1",
+    "scwvh2",
+    "scwvh3"
+   ]
+  },
+  "shin sd gundam gaiden knight gundam monogatari|33": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 64567,
+   "match": 1.0,
+   "name": "Shin SD Gundam Gaiden: Knight Gundam Monogatari",
+   "shots": [
+    "schdvc",
+    "schdva",
+    "schdvb",
+    "scipgi",
+    "scipgj",
+    "sck4nt"
+   ]
+  },
   "shining blade|38": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 65348,
@@ -2835,6 +4898,46 @@
     "scevp9"
    ]
   },
+  "shining force exa|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19254,
+   "match": 1.0,
+   "name": "Shining Force EXA",
+   "shots": [
+    "scevcn",
+    "scevco"
+   ]
+  },
+  "shining force neo|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 22562,
+   "match": 1.0,
+   "name": "Shining Force Neo",
+   "shots": [
+    "scevc0",
+    "scevc1"
+   ]
+  },
+  "shinobido 2 revenge of zen|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 10900,
+   "match": 1.0,
+   "name": "Shinobido 2: Revenge of Zen",
+   "shots": [
+    "dxb0ibrwfne2pig9asqq",
+    "y2tkligbzuq74gelmryk",
+    "pbelbhpkthob84iocfyq",
+    "mav1a9q8i8vjnie59qn2",
+    "n0ju4qkw8vkhqduormem"
+   ]
+  },
+  "shinobido tales of the ninja|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 23108,
+   "match": 1.0,
+   "name": "Shinobido: Tales of the Ninja",
+   "shots": []
+  },
   "shinseiki evangelion koutetsu no girlfriend 2nd portable|38": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -2842,6 +4945,53 @@
   "shinseiki evangelion koutetsu no girlfriend portable|38": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "silent bomber|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 24131,
+   "match": 1.0,
+   "name": "Silent Bomber",
+   "shots": [
+    "scwr49",
+    "scwr48",
+    "scwr46",
+    "scwr47",
+    "scwr4a",
+    "scwr4b"
+   ]
+  },
+  "silent line armored core|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 44703,
+   "match": 1.0,
+   "name": "Silent Line: Armored Core",
+   "shots": [
+    "sc7ig6",
+    "sc7ig5",
+    "sc13cio",
+    "sc13cip",
+    "sc13ciq",
+    "sc13cir"
+   ]
+  },
+  "sky odyssey|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 43662,
+   "match": 1.0,
+   "name": "Sky Odyssey",
+   "shots": []
+  },
+  "snatcher|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 417289,
+   "match": 1.0,
+   "name": "Snatcher",
+   "shots": [
+    "sc156se",
+    "sc156sh",
+    "sc156sf",
+    "sc156sg"
+   ]
   },
   "sol trigger|38": {
    "checked": "2026-10-20T12:30:37Z",
@@ -2864,6 +5014,20 @@
     "sc9e95",
     "sc9e91",
     "sc9e94"
+   ]
+  },
+  "sonic battle|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6600,
+   "match": 1.0,
+   "name": "Sonic Battle",
+   "shots": [
+    "scabhr",
+    "scabhu",
+    "scabhs",
+    "scabht",
+    "scabhv",
+    "scabhw"
    ]
   },
   "sora no woto otome no gojuusou|38": {
@@ -2896,6 +5060,44 @@
     "scg8tg"
    ]
   },
+  "soul sacrifice delta|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6061,
+   "match": 1.0,
+   "name": "Soul Sacrifice Delta",
+   "shots": [
+    "maysqwhkv3mznkxuawj8",
+    "djvyjaswuwanoxojoekn",
+    "y9ldieiab2sliqjmuabi",
+    "luvl5irhytdklwuceu3r"
+   ]
+  },
+  "space invaders get even|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 21789,
+   "match": 1.0,
+   "name": "Space Invaders Get Even",
+   "shots": [
+    "zklagtn4dnit4cik6dm4",
+    "zqdcpx3rd0ltkuozg8g9",
+    "hapmwe5gtahrl8hwqbhc",
+    "tklrjabfkk5lg2g5egya",
+    "xsqzjecvcjpsisaajhih",
+    "efnyzvdwkjxhmgcqxvt6"
+   ]
+  },
+  "spectrobes origins|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5173,
+   "match": 1.0,
+   "name": "Spectrobes: Origins",
+   "shots": [
+    "sc6jla",
+    "l4fsdea2wdag0fafto2l",
+    "sc6jlb",
+    "sc6jlc"
+   ]
+  },
   "spice and wolf my year with holo|20": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 123449,
@@ -2918,6 +5120,20 @@
   "spinning princess 3|20": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "steambot chronicles|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19619,
+   "match": 1.0,
+   "name": "Steambot Chronicles",
+   "shots": [
+    "schjk7",
+    "schjk8",
+    "schjk9",
+    "schjk6",
+    "schjka",
+    "schjkb"
+   ]
   },
   "steins gate 0|46": {
    "checked": "2026-10-20T12:30:37Z",
@@ -2997,6 +5213,20 @@
     "lhravebffpi2uos2udhc"
    ]
   },
+  "stella deus the gate of eternity|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 13094,
+   "match": 1.0,
+   "name": "Stella Deus: The Gate of Eternity",
+   "shots": [
+    "qrasdhghjbx70jlv1aan",
+    "bwkykxsiract1048hucy",
+    "sc11ncd",
+    "sc11ncg",
+    "sc11nc5",
+    "sc11nce"
+   ]
+  },
   "storm lover kai|38": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 42746,
@@ -3008,9 +5238,31 @@
     "scjf0j"
    ]
   },
+  "street fighter zero 3|32": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 242649,
+   "match": 1.0,
+   "name": "Street Fighter Zero 3",
+   "shots": [
+    "sclszq",
+    "sclszr",
+    "sclszs",
+    "sclszt",
+    "sclszu"
+   ]
+  },
   "strike witches silver wings|38": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "suikoden tactics|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1450,
+   "match": 1.0,
+   "name": "Suikoden Tactics",
+   "shots": [
+    "scstkt"
+   ]
   },
   "suikoden woven web of the centuries|38": {
    "checked": "2026-10-20T12:30:37Z",
@@ -3026,6 +5278,38 @@
     "sceex4"
    ]
   },
+  "summer pockets reflection blue|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 127571,
+   "match": 1.0,
+   "name": "Summer Pockets Reflection Blue",
+   "shots": [
+    "sc81m2",
+    "sc81m3",
+    "sc81m4",
+    "sc11yjn",
+    "sc81m5",
+    "sc11yjk"
+   ]
+  },
+  "summon night 5|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "summon night swordcraft story 2|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6616,
+   "match": 1.0,
+   "name": "Summon Night: Swordcraft Story 2",
+   "shots": [
+    "sc7nsn",
+    "sc7nsl",
+    "sc7nss",
+    "sc7nsk",
+    "sc7nso",
+    "sc7nsm"
+   ]
+  },
   "summon night x tears crown|20": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 69297,
@@ -3036,6 +5320,15 @@
   "super danganronpa 2|38": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "super dragon ball z|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 2581,
+   "match": 1.0,
+   "name": "Super Dragon Ball Z",
+   "shots": [
+    "p6sdla1ff6unv68w7pwo"
+   ]
   },
   "super heroine chronicle|46": {
    "checked": "2026-10-20T12:30:37Z",
@@ -3054,6 +5347,13 @@
    "id": 79841,
    "match": 1.0,
    "name": "Super Robot Taisen A Portable",
+   "shots": []
+  },
+  "super robot taisen og gaiden|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 72741,
+   "match": 1.0,
+   "name": "Super Robot Taisen OG Gaiden",
    "shots": []
   },
   "super robot taisen w|20": {
@@ -3140,6 +5440,30 @@
     "qj205vx5d1izkadnwrcc"
    ]
   },
+  "sword of etheria|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 10901,
+   "match": 1.0,
+   "name": "The Sword of Etheria",
+   "shots": [
+    "sc97bk",
+    "sc97bl"
+   ]
+  },
+  "swords of destiny|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 23007,
+   "match": 1.0,
+   "name": "Swords of Destiny",
+   "shots": [
+    "scqe92",
+    "scqe93"
+   ]
+  },
+  "tabe o ja|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "taiko no tatsujin v version|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 60366,
@@ -3164,6 +5488,31 @@
     "sc8svt",
     "sc8svu"
    ]
+  },
+  "tales of destiny 2|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1203,
+   "match": 1.0,
+   "name": "Tales of Destiny 2",
+   "shots": [
+    "qu0kurw5fslrxjqnaghp",
+    "f8vaj4xnqmog70ti9tyu",
+    "onqttq2hng8ijentvsq9",
+    "asqjlebqiz8tvepbrknb"
+   ]
+  },
+  "tales of destiny|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 229160,
+   "match": 1.0,
+   "name": "Tales of Destiny",
+   "shots": [
+    "sc108xf"
+   ]
+  },
+  "tales of fandom vol 1|7": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
   },
   "tales of hearts r|46": {
    "checked": "2026-10-20T12:30:37Z",
@@ -3202,6 +5551,57 @@
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
   },
+  "tales of legendia|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1206,
+   "match": 1.0,
+   "name": "Tales of Legendia",
+   "shots": [
+    "sc9e38",
+    "sc9e3b",
+    "sc9e37",
+    "sc9e36",
+    "sc9e39",
+    "sc9e3a"
+   ]
+  },
+  "tales of phantasia full voice edition|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 152164,
+   "match": 1.0,
+   "name": "Tales of Phantasia: Full Voice Edition",
+   "shots": [
+    "scghst",
+    "scghsu",
+    "scghsv"
+   ]
+  },
+  "tales of phantasia narikiri dungeon x|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 42864,
+   "match": 1.0,
+   "name": "Tales of Phantasia: Narikiri Dungeon X",
+   "shots": [
+    "scgi02",
+    "scgi03",
+    "scgi04"
+   ]
+  },
+  "tales of phantasia x|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "tales of phantasia|24": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 196654,
+   "match": 1.0,
+   "name": "Tales of Phantasia",
+   "shots": [
+    "scgitq",
+    "scgitr",
+    "scgits"
+   ]
+  },
   "tales of rebirth|38": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 1205,
@@ -3209,6 +5609,66 @@
    "name": "Tales of Rebirth",
    "shots": [
     "sc83cs"
+   ]
+  },
+  "tales of rebirth|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1205,
+   "match": 1.0,
+   "name": "Tales of Rebirth",
+   "shots": [
+    "sc83cs"
+   ]
+  },
+  "tales of symphonia dawn of the new world|5": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5210,
+   "match": 1.0,
+   "name": "Tales of Symphonia: Dawn of the New World",
+   "shots": [
+    "dos0ie6uwqysgt3vbkyv",
+    "x3k7t3if8kwcznohlxuo",
+    "e4krjc7viu14376xqdxa",
+    "fi7puzcra1e7zybcsht3",
+    "ipy0r3ll4sjxubjgpoav",
+    "ojyri526kqlxmpmr33nu"
+   ]
+  },
+  "tales of symphonia|21": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1204,
+   "match": 1.0,
+   "name": "Tales of Symphonia",
+   "shots": [
+    "mnq1nim0acbjsvmqm06p",
+    "zjezh00je4as7wsudbd9",
+    "dpwlueqktnmss2pbitua",
+    "bktrfgfwqohj8xnlq7pk",
+    "jjmu8ybytrqkyppimxue"
+   ]
+  },
+  "tales of the abyss|37": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 20972,
+   "match": 1.0,
+   "name": "Tales of the Abyss",
+   "shots": [
+    "sciyt7",
+    "sciyt8"
+   ]
+  },
+  "tales of the abyss|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1207,
+   "match": 1.0,
+   "name": "Tales of the Abyss",
+   "shots": [
+    "vikangddvws9yxnzgboq",
+    "xdclvt67arel4jonzbsf",
+    "bf6plyixagm2yptwrv0y",
+    "cxbqqftmlxlyw9wafysh",
+    "lhczvmnutlqokmnamoq3",
+    "svjmt5punkgtobor7det"
    ]
   },
   "tales of the tempest|20": {
@@ -3222,6 +5682,27 @@
     "sc88mn",
     "sc88mj",
     "sc88mm"
+   ]
+  },
+  "tales of the world radiant mythology 2|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 42794,
+   "match": 1.0,
+   "name": "Tales of the World: Radiant Mythology 2",
+   "shots": []
+  },
+  "tales of the world radiant mythology|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 19159,
+   "match": 1.0,
+   "name": "Tales of the World: Radiant Mythology",
+   "shots": [
+    "sc9eap",
+    "sc9ear",
+    "sc9eas",
+    "sc9eao",
+    "sc9eaq",
+    "sc9eat"
    ]
   },
   "tantei opera milky holmes|38": {
@@ -3246,6 +5727,32 @@
     "ubwldhjj7x5sxqzse9yu",
     "kys7sgkpwoutct079qvq",
     "xmxczgash2fyy2efrjrk"
+   ]
+  },
+  "tenchu shadow assassins|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 5216,
+   "match": 1.0,
+   "name": "Tenchu: Shadow Assassins",
+   "shots": [
+    "olb25a7alx3jdynrgqw7",
+    "rrzwvjfxxny4vlibg12u",
+    "rngzkr5tn9f6nwwxkcqq",
+    "aedlamayvqaef66u5epc",
+    "tnfdtupwahbfsmnqtzng",
+    "ebljydcotifkbibv0r5m"
+   ]
+  },
+  "tenchu time of the assassins|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 44512,
+   "match": 1.0,
+   "name": "Tenchu: Time Of The Assassins",
+   "shots": [
+    "scstj9",
+    "scudbq",
+    "scudbr",
+    "scudbs"
    ]
   },
   "tengen toppa gurren lagann|20": {
@@ -3308,6 +5815,10 @@
     "nwanksvjo4yaekj2mw0t"
    ]
   },
+  "toaru majutsu to kagaku no virtual on|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "tokimeki memorial girls side 1st love plus|20": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 124097,
@@ -3354,6 +5865,20 @@
     "sc94r9",
     "sc94r6",
     "sc94r7"
+   ]
+  },
+  "tokobot plus mysteries of the karakuri|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 20663,
+   "match": 1.0,
+   "name": "Tokobot Plus: Mysteries of the Karakuri",
+   "shots": [
+    "sc8fyy",
+    "sc8fyz",
+    "sc8fz0",
+    "sc8fz1",
+    "sc8fz2",
+    "sc8fz3"
    ]
   },
   "tomato adventure|24": {
@@ -3426,6 +5951,56 @@
     "wk8zu7j18qwbgmxypvd3"
    ]
   },
+  "true urban legends shin hayarigami|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "umineko no naku koro ni saku|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "unchained blades|37": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6906,
+   "match": 1.0,
+   "name": "Unchained Blades",
+   "shots": [
+    "tmqen5o82d1gspzgzlxb",
+    "yo8t8zghszdpswpoed6w",
+    "oupyredc7utfrbuhpcbu",
+    "q27tu9c0vw3r6az7hvop",
+    "kgkb2ptfuygru64xxdbp",
+    "tdzo5f6rpb4pj3i9j0z4"
+   ]
+  },
+  "unchained blades|38": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 6906,
+   "match": 1.0,
+   "name": "Unchained Blades",
+   "shots": [
+    "tmqen5o82d1gspzgzlxb",
+    "yo8t8zghszdpswpoed6w",
+    "oupyredc7utfrbuhpcbu",
+    "q27tu9c0vw3r6az7hvop",
+    "kgkb2ptfuygru64xxdbp",
+    "tdzo5f6rpb4pj3i9j0z4"
+   ]
+  },
+  "unlimited saga|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 11314,
+   "match": 1.0,
+   "name": "Unlimited SaGa",
+   "shots": [
+    "scltmc",
+    "scltmd",
+    "scltmb",
+    "scltme",
+    "scltmf",
+    "scltmg"
+   ]
+  },
   "uppers|46": {
    "checked": "2026-10-20T12:30:37Z",
    "id": 53029,
@@ -3438,6 +6013,19 @@
     "berwuqocatjsbnnwtmj9",
     "kwjvf5cpart6ntx3pyei",
     "ibrlfsrd4ajry2fywav5"
+   ]
+  },
+  "valhalla knights 3|46": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 20072,
+   "match": 1.0,
+   "name": "Valhalla Knights 3",
+   "shots": [
+    "vwytr7xtxks6rglfeocw",
+    "ueewlwwbgpzujk5el4b6",
+    "ncigti3sno5r4qtlp5n5",
+    "w5stiu7lu1qy7bnh2zbf",
+    "w25xoccmkjwqyqczdwas"
    ]
   },
   "valkyria chronicles 3|38": {
@@ -3481,9 +6069,50 @@
     "scjd0x"
    ]
   },
+  "visual quiz whats this|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "wagamama fashion girls mode|20": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "warriors orochi 2|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 7243,
+   "match": 1.0,
+   "name": "Warriors Orochi 2",
+   "shots": [
+    "scsops",
+    "scsopt",
+    "scsopu",
+    "scsopr"
+   ]
+  },
+  "warriors orochi|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 7242,
+   "match": 1.0,
+   "name": "Warriors Orochi",
+   "shots": [
+    "scsona",
+    "scson7",
+    "scson8",
+    "scson9"
+   ]
+  },
+  "way of the samurai 2|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 10157,
+   "match": 1.0,
+   "name": "Way of the Samurai 2",
+   "shots": [
+    "oldgxi4jhsyorrnod6hg",
+    "drudabdjbo3tphwu0luc",
+    "xk5jy0gyxmus77iiio6q",
+    "hsoeaj9vetn48rs4ovaq",
+    "ny7jbbq2w54ckiyk2zby"
+   ]
   },
   "way of the samurai portable|38": {
    "checked": "2026-10-20T12:30:37Z",
@@ -3509,6 +6138,20 @@
     "scuc86"
    ]
   },
+  "yahari game demo ore no seishun love come wa machigatteiru and zoku omatome set|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 77499,
+   "match": 1.0,
+   "name": "Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. & Zoku Omatome Set",
+   "shots": [
+    "sckjhc",
+    "sckjhd",
+    "sckjhe",
+    "sckjhf",
+    "sckjhg",
+    "sckjhh"
+   ]
+  },
   "yarudora double cast|38": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -3516,6 +6159,45 @@
   "yarudora portable sampaguita|38": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
+  },
+  "yo kai watch 4|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 96246,
+   "match": 1.0,
+   "name": "Yo-kai Watch 4",
+   "shots": [
+    "sc69h7",
+    "sc69h9",
+    "sc69h8",
+    "sc69ha",
+    "sc69hb"
+   ]
+  },
+  "yo kai watch jam y school heroes bustlin school life|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "yo kai watch|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "youchien senki madara|19": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "ys the ark of napishtim|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
+  "ys v lost kefin kingdom of sand|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 168535,
+   "match": 1.0,
+   "name": "Ys V: Lost Kefin, Kingdom of Sand",
+   "shots": [
+    "scm626",
+    "scm627"
+   ]
   },
   "ys vs sora no kiseki alternative saga|38": {
    "checked": "2026-10-20T12:30:37Z",
@@ -3553,6 +6235,10 @@
     "sc1173j"
    ]
   },
+  "yu gi oh rush duel saikyo battle royale lets go go rush|130": {
+   "checked": "2026-10-20T13:09:51Z",
+   "shots": []
+  },
   "yu gi oh saikyo card battle|37": {
    "checked": "2026-10-20T12:30:37Z",
    "shots": []
@@ -3569,6 +6255,17 @@
     "sc6ngb",
     "sc6ngd",
     "sc6ng5"
+   ]
+  },
+  "yu yu hakusho gaiden|29": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 45606,
+   "match": 1.0,
+   "name": "YuYu Hakusho Gaiden",
+   "shots": [
+    "sc15p1w",
+    "sc15p1v",
+    "sc15p1u"
    ]
   },
   "yuusha 30 second|38": {
@@ -3629,9 +6326,22 @@
     "scqaiz",
     "scqaj0"
    ]
+  },
+  "zone of the enders|8": {
+   "checked": "2026-10-20T13:09:51Z",
+   "id": 1472,
+   "match": 1.0,
+   "name": "Zone of the Enders",
+   "shots": [
+    "zjqfzyefdwod4hifjti0",
+    "rjczt5hqiwttulj19tag",
+    "vkr2scqg5folrjqbecxg",
+    "stim26q06baq2zyqxcyu",
+    "wpjosdjyt4vjsp8a9k8q"
+   ]
   }
  },
- "generated": "2026-10-20T12:30:37Z",
+ "generated": "2026-10-20T13:09:51Z",
  "map": {
   "agtteam/resonancetranslation": "soul eater battle resonance|38",
   "arceler0/okayunyumu-nsw-eng": "okayu nyumu|130",
@@ -3653,16 +6363,187 @@
   "kaisaan/lostkefin": "ys v lost kefin kingdom of sand|8",
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd|9",
   "lifebottle/narikiri-dungeon-x": "tales of phantasia narikiri dungeon x|38",
+  "lifebottle/radiant-mythology-2": "tales of the world radiant mythology 2|38",
   "lifebottle/tales-of-destiny-2": "tales of destiny 2|8",
   "lifebottle/tales-of-destiny-dc": "tales of destiny|8",
+  "lifebottle/tales-of-fandom-vol.1": "tales of fandom vol 1|7",
   "lifebottle/tales-of-innocence-r": "tales of innocence r|46",
   "lifebottle/tales-of-legendia-undub": "tales of legendia|8",
+  "lifebottle/tales-of-phantasia-full-voice-edition": "tales of phantasia full voice edition|38",
+  "lifebottle/tales-of-phantasia-x": "tales of phantasia x|38",
   "lifebottle/tales-of-the-abyss-undub": "tales of the abyss|8",
   "link:http://watercrown.info/second-verse-same-as-the-first/": "breath of fire ii the fated child|19",
+  "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
+  "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
+  "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
+  "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
+  "link:https://archive.org/details/arc_rise_fantasia_undub_patch": "arc rise fantasia|5",
+  "link:https://archive.org/details/arc_the_lad_eod_undub_patch": "arc the lad end of darkness|8",
+  "link:https://archive.org/details/arc_the_lad_tots_undub_patch": "arc the lad twilight of the spirits|8",
+  "link:https://archive.org/details/armored_core_2_undub_patch": "armored core 2|8",
+  "link:https://archive.org/details/armored_core_2aa_undub_patch": "armored core 2 another age|8",
+  "link:https://archive.org/details/armored_core_3_undub_patch": "armored core 3|8",
+  "link:https://archive.org/details/armored_core_3p_undub_patch": "armored core 3 portable|38",
+  "link:https://archive.org/details/armored_core_4_ps3_undub_patch": "armored core 4|9",
+  "link:https://archive.org/details/armored_core_fa_ps3_undub_patch": "armored core for answer|9",
+  "link:https://archive.org/details/armored_core_lr_undub_patch": "armored core last raven|8",
+  "link:https://archive.org/details/armored_core_lrp_undub_patch": "armored core last raven portable|38",
+  "link:https://archive.org/details/armored_core_moa_undub_patch": "armored core master of arena|7",
+  "link:https://archive.org/details/armored_core_nb_undub_patch": "armored core nine breaker|8",
+  "link:https://archive.org/details/armored_core_nexus_undub_patch": "armored core nexus|8",
+  "link:https://archive.org/details/armored_core_pp_undub_patch": "armored core project phantasma|7",
+  "link:https://archive.org/details/armored_core_sl_undub_patch": "silent line armored core|8",
+  "link:https://archive.org/details/armored_core_slp_undub_patch": "armored core silent line portable|38",
+  "link:https://archive.org/details/armored_core_undub_patch": "armored core|7",
+  "link:https://archive.org/details/armored_core_v_ps3_undub_patch": "armored core v|9",
+  "link:https://archive.org/details/armored_core_vd_ps3_undub_patch": "armored core verdict day|9",
+  "link:https://archive.org/details/astro_boy_undub_patch": "astro boy|8",
+  "link:https://archive.org/details/baroque_ps2_undub_patch": "baroque|8",
+  "link:https://archive.org/details/baroque_wii_undub_patch": "baroque|5",
+  "link:https://archive.org/details/boktai_2_undub_patch": "boktai 2 solar boy django|24",
+  "link:https://archive.org/details/boktai_undub_patch": "boktai the sun is in your hand|24",
+  "link:https://archive.org/details/bomberman_generation_undub_patch": "bomberman generation|21",
+  "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
+  "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
+  "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
+  "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
+  "link:https://archive.org/details/chaos_legion_ps2_undub_patch": "chaos legion|8",
+  "link:https://archive.org/details/clock_tower_3_undub_patch": "clock tower 3|8",
+  "link:https://archive.org/details/code_name_steam_undub_patch": "code name s t e a m|37",
   "link:https://archive.org/details/code_of_princess_3ds_undub_patch": "code of princess|37",
+  "link:https://archive.org/details/crimson_gem_saga_undub_patch": "crimson gem saga|38",
+  "link:https://archive.org/details/crimson_tears_undub_patch": "crimson tears|8",
+  "link:https://archive.org/details/crisis_core_final_fantasy_vii_undub_patch": "crisis core final fantasy vii|38",
+  "link:https://archive.org/details/dark_cloud_2_undub_patch": "dark cloud 2|8",
+  "link:https://archive.org/details/digimon_world_data_squad_undub_patch": "digimon world data squad|8",
+  "link:https://archive.org/details/dirge_of_cerberus_ff7_undub_patch": "dirge of cerberus final fantasy vii|8",
+  "link:https://archive.org/details/doctor_lautrec_undub_patch": "doctor lautrec and the forgotten knights|20",
+  "link:https://archive.org/details/dokapon_kingdom_ps2_undub_patch": "dokapon kingdom|8",
+  "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
+  "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
+  "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
+  "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
+  "link:https://archive.org/details/dragons_crown_ps3_undub_patch": "dragons crown|9",
+  "link:https://archive.org/details/dragons_crown_vita_undub_patch": "dragons crown|46",
+  "link:https://archive.org/details/drakengard_2_undub_patch": "drakengard 2|8",
+  "link:https://archive.org/details/dual_hearts_undub_patch": "dual hearts|8",
+  "link:https://archive.org/details/dw-5-empires-undub-patch": "dynasty warriors 5 empires|8",
+  "link:https://archive.org/details/dynasty-warriors-5-usa-undub": "dynasty warriors 5|8",
+  "link:https://archive.org/details/dynasty-warriors-5-usa-xtreme-legends-undub": "dynasty warriors 5 xtreme legends|8",
+  "link:https://archive.org/details/dynasty_warriors_2_undub_patch": "dynasty warriors 2|7",
+  "link:https://archive.org/details/dynasty_warriors_4_ps2_undub_patch": "dynasty warriors 4|8",
+  "link:https://archive.org/details/dynasty_warriors_4_xl_undub_patch": "dynasty warriors 4 xtreme legends|8",
+  "link:https://archive.org/details/dynasty_warriors_6_empires_ps3_undub_patch": "dynasty warriors 6 empires|9",
+  "link:https://archive.org/details/dynasty_warriors_6_ps2_undub_patch": "dynasty warriors 6|8",
+  "link:https://archive.org/details/dynasty_warriors_advance_undub_patch": "dynasty warriors advance|24",
+  "link:https://archive.org/details/dynasty_warriors_next_undub_patch": "dynasty warriors next|46",
+  "link:https://archive.org/details/dynasty_warriors_sf_ps3_undub_patch": "dynasty warriors strikeforce|9",
+  "link:https://archive.org/details/dynasty_warriors_sf_psp_undub_patch": "dynasty warriors strikeforce|38",
+  "link:https://archive.org/details/earth_defense_force_3_vita_undub_patch": "earth defense force 2017 portable|46",
+  "link:https://archive.org/details/echo_night_beyond_undub_patch": "echo night beyond|8",
+  "link:https://archive.org/details/echo_night_undub_patch": "echo night|7",
+  "link:https://archive.org/details/elemental_gimmick_gear_undub_patch": "elemental gimmick gear|23",
+  "link:https://archive.org/details/escape_from_bug_island_undub_patch": "escape from bug island|8",
+  "link:https://archive.org/details/eternal_poison_undub_patch": "eternal poison|8",
+  "link:https://archive.org/details/eternal_ring_undub_patch": "eternal ring|8",
+  "link:https://archive.org/details/etrian_odyssey_untold_undub_patch": "etrian odyssey untold the millennium girl|37",
+  "link:https://archive.org/details/eureka_seven_vol1_tnw_undub_patch": "eureka seven vol 1 the new wave|8",
+  "link:https://archive.org/details/eureka_seven_vol2_tnv_undub_patch": "eureka seven vol 2 the new vision|8",
+  "link:https://archive.org/details/evergrace_undub_patch": "evergrace|8",
+  "link:https://archive.org/details/extermination_undub_patch": "extermination|8",
+  "link:https://archive.org/details/ffcc_echoes_of_time_ds_undub_patch": "final fantasy crystal chronicles echoes of time|20",
+  "link:https://archive.org/details/ffcc_echoes_of_time_wii_undub_patch": "final fantasy crystal chronicles echoes of time|5",
+  "link:https://archive.org/details/ffcc_the_crystal_bearers_undub_patch": "final fantasy crystal chronicles the crystal bearers|5",
+  "link:https://archive.org/details/final_fantasy_explorers_undub_patch": "final fantasy explorers|37",
+  "link:https://archive.org/details/final_fantasy_x_x-2_vita_undub_patches": "final fantasy x x 2 hd remaster|46",
+  "link:https://archive.org/details/forever_kingdom_undub_patch": "forever kingdom|8",
+  "link:https://archive.org/details/front_mission_5_translated_opening": "front mission 5 scars of the war|8",
+  "link:https://archive.org/details/glass_rose_undub_patch": "glass rose|8",
+  "link:https://archive.org/details/god_eater_2rb_vita_undub_patch": "god eater 2 rage burst|46",
+  "link:https://archive.org/details/god_eater_resurrection_vita_undub_patch": "god eater resurrection|46",
+  "link:https://archive.org/details/graffiti_kingdom_undub_patch": "graffiti kingdom|8",
+  "link:https://archive.org/details/gregory_horror_show_undub_patch": "gregory horror show|8",
+  "link:https://archive.org/details/growlanser_iv_undub_patch": "growlanser wayfarer of time|38",
+  "link:https://archive.org/details/growlanser_v_undub_patch": "growlanser heritage of war|8",
+  "link:https://archive.org/details/gungrave_od_undub_patch": "gungrave overdose|8",
+  "link:https://archive.org/details/hexyz_force_undub_patch": "hexyz force|38",
+  "link:https://archive.org/details/jade_cocoon_2_undub_patch": "jade cocoon 2|8",
+  "link:https://archive.org/details/jade_cocoon_undub_patch": "jade cocoon story of the tamamayu|7",
+  "link:https://archive.org/details/jeanne_darc_undub_patch": "jeanne darc|38",
+  "link:https://archive.org/details/kingdom_hearts_com_gba_undub_patch": "kingdom hearts chain of memories|24",
+  "link:https://archive.org/details/liberation_maiden_undub_patch": "liberation maiden|37",
+  "link:https://archive.org/details/lord_of_magna_undub_patch": "lord of magna maiden heaven|37",
+  "link:https://archive.org/details/magic_pengel_undub_patch": "magic pengel the quest for color|8",
+  "link:https://archive.org/details/maken_x_undub_patch": "maken x|23",
+  "link:https://archive.org/details/maximo_undub_patch": "maximo ghosts to glory|8",
+  "link:https://archive.org/details/mega_man_mhx_undub_patch": "mega man maverick hunter x|38",
+  "link:https://archive.org/details/mega_man_pu_undub_patch": "mega man powered up|38",
+  "link:https://archive.org/details/mega_man_x7_ps2_undub_patch": "mega man x7|8",
+  "link:https://archive.org/details/mega_man_x_cm_ps2_undub_patch": "mega man x command mission|8",
+  "link:https://archive.org/details/mimana_iyar_chronicle_undub_patch": "mimana iyar chronicle|38",
+  "link:https://archive.org/details/mr_driller_2_gba_undub_patch": "mr driller 2|24",
+  "link:https://archive.org/details/mystic_heroes_undub_patch_ps2": "mystic heroes|8",
+  "link:https://archive.org/details/neverland_card_battles_undub_patch": "neverland card battles|38",
+  "link:https://archive.org/details/new_little_kings_story_undub_patch": "new little kings story|46",
+  "link:https://archive.org/details/nightshade_undub_patch": "nightshade|8",
+  "link:https://archive.org/details/onimusha_2_undub_patch": "onimusha 2 samurais destiny|8",
+  "link:https://archive.org/details/onimusha_3_undub_patch": "onimusha 3 demon siege|8",
+  "link:https://archive.org/details/onimusha_bw_undub_patch": "onimusha blade warriors|8",
+  "link:https://archive.org/details/pandoras_tower_undub_patch": "pandoras tower|5",
   "link:https://archive.org/details/phantasy_star_portable_undub_patch": "phantasy star portable|38",
+  "link:https://archive.org/details/phantasy_star_zero_undub_patch": "phantasy star 0|20",
+  "link:https://archive.org/details/professor_layton_ds_undub_patches": "professor layton|20",
+  "link:https://archive.org/details/project_zero_2_ps2_undub_patch": "project zero ii crimson butterfly|8",
+  "link:https://archive.org/details/project_zero_2_wii_undub_patch": "project zero 2 wii edition|5",
+  "link:https://archive.org/details/project_zero_3_undub_patch": "project zero 3 the tormented|8",
+  "link:https://archive.org/details/record_of_lodoss_war_aoc_undub_patch": "record of lodoss war|23",
+  "link:https://archive.org/details/riviera_gba_undub_patch": "riviera the promised land|24",
+  "link:https://archive.org/details/romancing_saga_undub_patch": "romancing saga|8",
+  "link:https://archive.org/details/samurai_warriors_2_empires_ps2_undub_patch": "samurai warriors 2 empires|8",
+  "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
+  "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
+  "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
+  "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
+  "link:https://archive.org/details/shining_force_exa_undub_patch": "shining force exa|8",
+  "link:https://archive.org/details/shining_force_neo_undub_patch": "shining force neo|8",
+  "link:https://archive.org/details/shinobido_2_roz_undub_patch": "shinobido 2 revenge of zen|46",
+  "link:https://archive.org/details/shinobido_totn_undub_patch": "shinobido tales of the ninja|38",
+  "link:https://archive.org/details/silent_bomber_undub_patch": "silent bomber|7",
+  "link:https://archive.org/details/sky_odyssey_undub_patch": "sky odyssey|8",
+  "link:https://archive.org/details/sonic_battle_undub_patch": "sonic battle|24",
+  "link:https://archive.org/details/soul_sacrifice_delta_undub_patch": "soul sacrifice delta|46",
+  "link:https://archive.org/details/space_invaders_ge_undub_patch": "space invaders get even|5",
+  "link:https://archive.org/details/spectrobes_origins_undub_patch": "spectrobes origins|5",
+  "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
+  "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
+  "link:https://archive.org/details/summon_night_swordcraft_story_2_undub_patch": "summon night swordcraft story 2|24",
+  "link:https://archive.org/details/super_dragon_ball_z_ps2_undub_patch": "super dragon ball z|8",
+  "link:https://archive.org/details/swords_of_destiny_undub_patch": "swords of destiny|8",
+  "link:https://archive.org/details/tales_of_phantasia_gba_undub_patch": "tales of phantasia|24",
+  "link:https://archive.org/details/tales_of_symphonia_dotnw_wii_undub_patch": "tales of symphonia dawn of the new world|5",
+  "link:https://archive.org/details/tales_of_the_abyss_3ds_undub_patch": "tales of the abyss|37",
+  "link:https://archive.org/details/tales_of_the_abyss_ps2_undub_patch": "tales of the abyss|8",
+  "link:https://archive.org/details/tales_of_the_world_rm_undub_patch": "tales of the world radiant mythology|38",
+  "link:https://archive.org/details/tenchu_4_psp_undub_patch": "tenchu shadow assassins|38",
+  "link:https://archive.org/details/tenchu_ds_undub_patch": "tenchu dark secret|20",
+  "link:https://archive.org/details/tenchu_tota_undub_patch": "tenchu time of the assassins|38",
+  "link:https://archive.org/details/the_last_story_undub_patch": "last story|5",
+  "link:https://archive.org/details/the_legend_of_dragoon_undub_patch": "legend of dragoon|7",
+  "link:https://archive.org/details/the_note_undub_patch": "note|7",
+  "link:https://archive.org/details/the_sword_of_etheria_undub_patch": "sword of etheria|8",
+  "link:https://archive.org/details/tokobot_plus_motk_undub_patch": "tokobot plus mysteries of the karakuri|8",
   "link:https://archive.org/details/unchained_blades_3ds_undub_patch": "unchained blades|37",
   "link:https://archive.org/details/unchained_blades_psp_undub_patch": "unchained blades|38",
+  "link:https://archive.org/details/unlimited_saga_undub_patch": "unlimited saga|8",
+  "link:https://archive.org/details/valhalla_knights_3_undub_patch": "valhalla knights 3|46",
+  "link:https://archive.org/details/warriors_orochi_2_ps2_undub_patch": "warriors orochi 2|8",
+  "link:https://archive.org/details/warriors_orochi_ps2_undub_patch": "warriors orochi|8",
+  "link:https://archive.org/details/way_of_the_samurai_2_undub_patch": "way of the samurai 2|8",
+  "link:https://archive.org/details/ys6_ps2_pal_undub_patch": "ys the ark of napishtim|8",
+  "link:https://archive.org/details/zone_of_the_enders_ps2_undub_patch": "zone of the enders|8",
   "link:https://bszelda.zeldalegends.net/ce.shtml": "bs legend of zelda third quest|306",
   "link:https://bszelda.zeldalegends.net/fq.shtmll": "bs legend of zelda fourth quest|306",
   "link:https://bszelda.zeldalegends.net/rh.shtml": "bs legend of zelda|306",
