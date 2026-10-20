@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-20T13:09:51Z",
+ "generated": "2026-10-20T19:23:22Z",
  "repos": {
   "agtteam/resonancetranslation": {
    "assetOs": {},
@@ -528,8 +528,8 @@
     "desc": "An attempt to create a patch for Narikiri Dungeon X (PSP).",
     "full": "lifebottle/Narikiri-Dungeon-X",
     "lang": "JavaScript",
-    "pushed": "2026-10-19T13:32:41Z",
-    "size": 20127,
+    "pushed": "2026-10-20T15:24:33Z",
+    "size": 20166,
     "stars": 60
    },
    "shots": [

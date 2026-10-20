@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-pages",
- "generated": "2026-10-20T13:09:51Z",
+ "generated": "2026-10-20T19:23:22Z",
  "pages": {
   "http://watercrown.info/second-verse-same-as-the-first": {
    "a": {
@@ -11,6 +11,50 @@
    "checked": "2026-10-20T12:30:37Z",
    "title": "Second Verse, Same As The First? « Watercrown Productions",
    "ver": "1.2b"
+  },
+  "https://archive.org/details/code_of_princess_3ds_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "plat": "3DS",
+   "title": "Code of Princess UNDUB patch (3DS)",
+   "upd": "2024-06-14T23:07:05Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/phantasy_star_portable_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "plat": "PSP",
+   "title": "Phantasy Star Portable UNDUB patch",
+   "upd": "2025-11-13T03:29:28Z",
+   "ver": "1.1a"
+  },
+  "https://archive.org/details/unchained_blades_3ds_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "plat": "PSP",
+   "title": "Unchained Blades UNDUB patch (3DS)",
+   "upd": "2024-06-16T07:58:06Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/unchained_blades_psp_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "plat": "PSP",
+   "title": "Unchained Blades UNDUB patch (PSP)",
+   "upd": "2025-11-13T11:36:33Z",
+   "ver": "1.0a"
   },
   "https://bszelda.zeldalegends.net/ce.shtml": {
    "a": {
@@ -33,6 +77,267 @@
    "checked": "2026-10-20T12:30:37Z",
    "title": "The Legend of BSZelda - MottZilla Project",
    "ver": "0.93"
+  },
+  "https://gamebanana.com/mods/480082": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "title": "Y School Heroes English Fan Translation Mod for Y School Heroes: Bustlin' School Life | YSH Mods"
+  },
+  "https://gbatemp.net/threads/chikippudansazu-norinoridansu-de-kokoro-mo-odoru-english-patch.670569": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/cyanotype-daydream-hakuchuumu-no-aojashin-translation-mod.625925": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/dei-gratia-no-rashinban-english-translation-mod.655654": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/dokapon-up-translation-release.593755": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/dragon-quest-x-offline-english-mod.643968": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/finished-yo-kai-watch-4-full-text-translation-english-mod.626032": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/futago-usagi-no-gokinjo-turismo-english-patch.658259": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/g-mode-37-english-patch.672694": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/g-mode-archives-44-dragonxdragon-english-patch.673127": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/honey-vibes-english-translation.680425": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/kanken-smart-strategy-english-translation-switch.681131": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/menherafflesia-flowering-abyss-english-translation-mod.656636": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/ouchi-de-rilakkuma-rilakkuma-ga-ouchi-ni-yatte-kita-english-translation-patch.668464": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/saikoro-psycho-seventh-heaven-english-translation-mod.656500": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/summer-pockets-reflection-blue-translation-mod.618629": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/tabe-o-ja-eng-lish-translation-project.592472": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/the-legend-of-heroes-trails-of-cold-steel-2-kai-english-translation-mod.612318": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/the-legend-of-heroes-trails-of-cold-steel-kai-english-translation-mod.609253": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/true-urban-legends-shin-hayarigami.605265": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/wip-rasenreijo-spiral-hair-super-lady-makina-english-patch.646890": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/wip-yo-kai-watch-1-switch-english-translation-project.577591": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/wip-yo-kai-watch-4-switch-english-translation-project.580560": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/yu-gi-oh-rush-duel-saikyo-battle-royale-lets-go-go-rush-2022-eng-translation.657123": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gertram.github.io/OregairuVitaSwitch/oregairu_zoku.html": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "title": "Oregairu Game Zoku Translation"
+  },
+  "https://romhackplaza.org/translations/chaindive-english-translation-playstation-2": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/7TSezuvRHnSAWd5ElACClzrYqv4OvVgUqGMcpYrm.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4537/RdMHclyP5oXE1UsWDwj4DeJOTQeGKzrmkHQwWN3R.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4537/qrE1G0uXU1sVLnzXEiW7yegx1ECARRPPGhjHJnOa.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4537/O3dWmZ9oqRhotMEis6nkicdL4YIOf9WB3hYhx7Ly.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4537/md196B1YwLwpU21MDwPaYYbRJNI5nVD2FpdYCvqm.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4537/yJPg3eQ8dT39yMLYS6vhWXhYEsjhE4QNXJ7Fobdp.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4537/iBMfU0VHvxjUUEoSCnX36E1EEONJMiofa7YY0xIe.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4537/r4c8xfNtrNT5jYbJ6LloZsWVOqi16WklSMJY5OVq.png"
+   ],
+   "st": "Complete",
+   "title": "ChainDive (English Translation) PlayStation 2",
+   "upd": "2026-10-11T00:00:00Z",
+   "ver": "1.0"
+  },
+  "https://romhackplaza.org/translations/dragon-ball-3-the-legend-of-goku-english-translation-nintendo-entertainment-system": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "gameplay": true,
+     "gfx": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/Fq3PNLrOIzJfKkGuR1k48JbnwMphtbFrKuYHZnMq.png",
+    "https://www.patchclan.com/shots/db3/post-v11/1x/01-title-screen.png",
+    "https://www.patchclan.com/shots/db3/post-v11/1x/02-text-speed-v1.1.png",
+    "https://www.patchclan.com/shots/db3/post-v11/1x/03-prologue.png",
+    "https://www.patchclan.com/shots/db3/post-v11/1x/04-board-and-cards.png",
+    "https://www.patchclan.com/shots/db3/post-v11/1x/05-adventure-mode.png",
+    "https://www.patchclan.com/shots/db3/post-v11/1x/06-battle-kamehameha.png",
+    "https://www.patchclan.com/shots/db3/post-v11/1x/07-korin-training.png"
+   ],
+   "st": "Complete",
+   "title": "Dragon Ball 3: The Legend of Goku (English Translation) Nintendo Entertainment System",
+   "upd": "2026-10-15T00:00:00Z",
+   "ver": "1.1"
+  },
+  "https://romhackplaza.org/translations/germs-nerawareta-machi-english-translation-playstation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/ckhNtJoK3vjoOn5VP2UHuWMy0IpmJN932vErKObQ.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/1593/iug6qlMH09jh5g4biLCfyXmW1LFUvq0FmOWM6lJ4.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/1593/yoDEWT6zt1lJBcCwkxoFyHAg8cXhk9malO87L0EI.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/1593/ltAOlwue95rnn2Ipq1t7skHcu99coE3AzNS41Ifl.png"
+   ],
+   "title": "Germs Nerawareta Machi (English Translation) PlayStation",
+   "upd": "2024-02-05T00:00:00Z",
+   "ver": "1.8"
+  },
+  "https://romhackplaza.org/translations/jojo-no-kimyou-na-bouken-phantom-blood-english-translation-playstation-2": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/6kzySNwQURJp5FvDHUNPtdg40JGbNUUFu9yQh31t.jpg",
+    "https://romhackplaza.org/storage/entries/gallery-images/1919/YepvOh3znJy9gIsryGEEn1bfHjuvHenGdNDSTQ2M.jpg",
+    "https://romhackplaza.org/storage/entries/gallery-images/1919/iqINl7G6eDPy0W7Bw3ACSzUma9FZd2b6zEUivUxZ.jpg",
+    "https://romhackplaza.org/storage/entries/gallery-images/1919/BDi3yyMcxcZvIWg6FtZ070HcjpyGCQLVShVvBNLW.jpg",
+    "https://romhackplaza.org/storage/entries/gallery-images/1919/ikoyXiQAH5pmDcdhIHbPKUX0Y6XnDJlCpiUA5zqL.jpg"
+   ],
+   "st": "Complete",
+   "title": "JoJo No Kimyou Na Bouken: Phantom Blood (English Translation) PlayStation 2",
+   "upd": "2021-08-15T00:00:00Z",
+   "ver": "1.15"
+  },
+  "https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": {
+   "a": {
+    "ex": {},
+    "mtl": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/lnlxJ0OdHzQssQPfZa4di99Catd9UGddj0AWvH1T.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4535/sKMiA5hWCXQa1G8VVRc7t4FbmTbYRvKxB6RkCX5y.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4535/PIULqd0Jk3j1Tr60MxUZgXu675HsymtrV3NJCF6e.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4535/StmX2ETtYgPLQoOikgqep2sUI1NMJA4kl3gmQ3lM.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4535/RDjGamFSvtyxZAUBtWKXTxnQET8G4DPHmXlzpf9I.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4535/c6Sof2jIs0x7oYb666TShfrt9n8Hi8og4y3HnAYi.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4535/GBHDiB5iDKxK52HtmTAZr59IMPr42OI8gN4cQdUF.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4535/MJ5F5CB305YmEmlJY8bcnq8XrfEtzLQhiSnZKHjU.png"
+   ],
+   "st": "Complete",
+   "title": "Pocket MuuMuu (English Translation) PlayStation",
+   "upd": "2026-10-09T00:00:00Z",
+   "ver": "1"
+  },
+  "https://romhackplaza.org/translations/shin-sd-gundam-gaiden-knight-gundam-monogatari-english-translation-game-boy": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "mtl": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/78Cb3fKGLXFSNXecBIrEpd23Bb0GPsCF9Yz19Qxv.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4551/LiZIKI8zr7XYtzGgTaKptr4TqWqg37ag13DuqB0V.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4551/qCk4XXSTqR7xCQjriPTEcDrIo5ETFpA5U51cY51M.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4551/fY4lBwsqB9UEtHeGa3eI3re9OdgS1rOQSDrqxfKt.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4551/qoDdwr7RjueS5emF3cO6JyR4d8Z6XsIP2JbYaAVn.png"
+   ],
+   "st": "Complete",
+   "title": "Shin SD Gundam Gaiden: Knight Gundam Monogatari (English Translation) Game Boy",
+   "upd": "2026-10-14T00:00:00Z",
+   "ver": "1.0"
+  },
+  "https://romhackplaza.org/translations/street-fighter-zero-3-english-translation-english-translation-sega-saturn": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/i2m5TYT4TrYQN09ckV5Q8qasljMrwixjAGQ6VHW8.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4557/ywS4hPrymEDivxUoIvHvvdRbbtiCSbLMYqG1OHX8.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4557/SSHIbJ0tT8yfHmgGfSjybduWeCqhs2XKXln25qXm.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4557/ZMz4cyU1Ew6hgDWhHerFFMPyhtrMK6K2VzmAlXiN.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4557/BcCadrmKwXhfKQfxkcbnaX05ZKbgG80cVzgA3sZt.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4557/ETcx0AeBX5WCzkvVOGtGpMQ9PY4uZd7PzRYrOGtc.png"
+   ],
+   "title": "Street Fighter Zero 3 - English Translation (English Translation) SEGA Saturn",
+   "upd": "2026-10-15T00:00:00Z",
+   "ver": "1.1"
+  },
+  "https://www.gamebrew.org/wiki/7th_Dragon": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "retrans": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://www.gamebrew.org/images/e/e9/7thdragonpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/7thdragonpatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/7thdragonpatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/7thdragonpatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/7thdragonpatch6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2176/",
+   "title": "7th Dragon",
+   "upd": "2024-08-16T04:13:08Z",
+   "ver": "1.01"
   },
   "https://www.gamebrew.org/wiki/7th_Dragon_2020-II_English_Translation_PSP": {
    "a": {
@@ -89,6 +394,60 @@
    "title": "AIR English Translation Patch Vita",
    "upd": "2025-04-19T12:29:14Z",
    "ver": "1.01"
+  },
+  "https://www.gamebrew.org/wiki/Ace_Attorney_-_Trials_and_Tribulations_GBA": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/gs3gbaenglish.7z?k33p0fil35",
+   "shots": [
+    "https://www.gamebrew.org/images/4/4a/Gs3gbaenglish2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/gs3gbaenglish3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/gs3gbaenglish4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/gs3gbaenglish5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/gs3gbaenglish6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/5538/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-05-10T05:59:43Z",
+   "ver": "015.8"
+  },
+  "https://www.gamebrew.org/wiki/Ace_Attorney_Investigations_-_Miles_Edgeworth_-_Prosecutors_Path": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://www.gamebrew.org/images/2/2c/Gyakutenkenji2eng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/gyakutenkenji2eng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/gyakutenkenji2eng5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/gyakutenkenji2eng6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/gyakutenkenji2eng7.png"
+   ],
+   "site": "https://gbatemp.net/threads/ace-attorney-investigation-2-prosecutors-path-final-release.367451",
+   "title": "Ace Attorney Investigations - Miles Edgeworth - Prosecutors Path",
+   "upd": "2024-08-16T04:13:57Z",
+   "ver": "0.9.9"
+  },
+  "https://www.gamebrew.org/wiki/Ace_Attorney_The_Complete_Series_Undub": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://www.gamebrew.org/images/0/02/Aceattorneyundub2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/aceattorneyundub5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/aceattorneyundub4.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-undub-of-every-ace-attorney-title-on-the-nintendo-ds.587657/",
+   "title": "Ace Attorney The Complete Series Undub",
+   "upd": "2024-08-20T11:16:58Z",
+   "ver": "2021"
   },
   "https://www.gamebrew.org/wiki/Air_PSP_-_English_Translation": {
    "a": {
@@ -172,6 +531,25 @@
    "upd": "2025-04-19T12:38:33Z",
    "ver": "2020"
   },
+  "https://www.gamebrew.org/wiki/Ayanami_Raising_Project_with_Asuka_Supplementing_Project": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/neon.genesis.evangelion.ayanami.raising.project.english.translation.ips.patch.file.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/b/bb/Ayanamidspatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ayanamidspatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ayanamidspatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ayanamidspatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ayanamidspatch6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2212/",
+   "title": "Ayanami Raising Project with Asuka Supplementing Project",
+   "upd": "2024-08-20T11:29:36Z",
+   "ver": "0.90"
+  },
   "https://www.gamebrew.org/wiki/Bakemonogatari_Portable_English_Patch_PSP": {
    "a": {
     "cov": "Complete",
@@ -214,6 +592,45 @@
    "title": "Black Butler - Phantom and Ghost English Patch",
    "upd": "2025-03-02T04:31:16Z",
    "ver": "1.1"
+  },
+  "https://www.gamebrew.org/wiki/Bleach:_Versus_Crusade_English_Translation_Wii": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien3.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien4.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien5.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien6.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien7.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien8.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien9.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien10.png"
+   ],
+   "site": "http://web.archive.org/web/20170321032542/http://www.sixfortyfive.com/bleachvc/",
+   "title": "Bleach: Versus Crusade English Translation Wii",
+   "upd": "2023-04-11T23:34:12Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Blood_of_Bahamut": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/bahamut107.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/0/00/Bahamutds2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/bahamutds3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/bahamutds4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/bahamutds5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/bahamutds6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2560/",
+   "title": "Blood of Bahamut",
+   "upd": "2024-08-20T11:31:45Z",
+   "ver": "1.07"
   },
   "https://www.gamebrew.org/wiki/Blue_Reflection_English_Vita": {
    "a": {
@@ -260,6 +677,25 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-06-16T03:31:04Z",
    "ver": "1.01"
+  },
+  "https://www.gamebrew.org/wiki/Captain_Rainbow_English_Translation_Wii": {
+   "a": {
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/captainrainbowwiien.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/captainrainbowwiien3.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/captainrainbowwiien4.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/captainrainbowwiien5.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/captainrainbowwiien6.png"
+   ],
+   "site": "http://kirameki.altervista.org/eng/captainrainbow.php",
+   "title": "Captain Rainbow English Translation Wii",
+   "upd": "2023-04-11T23:35:06Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Captain_Tsubasa_-_New_Kick_Off_English_Translation": {
    "a": {
@@ -334,6 +770,45 @@
    "upd": "2025-04-19T12:27:27Z",
    "ver": "2016"
   },
+  "https://www.gamebrew.org/wiki/Chibi-Robo!_English_Translation_Wii": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/chibiroboenglishtranslationwii.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/chibiroboenglishtranslationwii-01.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/chibiroboenglishtranslationwii-02.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/chibiroboenglishtranslationwii-03.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/chibiroboenglishtranslationwii-04.png"
+   ],
+   "site": "https://gbatemp.net/threads/chibi-robo-english-translation-for-wii.602928/",
+   "title": "Chibi-Robo! English Translation Wii",
+   "upd": "2025-04-19T07:03:44Z",
+   "ver": "1.01"
+  },
+  "https://www.gamebrew.org/wiki/Chou_Soujuu_Mecha_MG_Full_Translation": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/chou.soujuu.mecha.mg_en_v1.1.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/9/99/Csmmgpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/csmmgpatch7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/csmmgpatch8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/csmmgpatch9.png",
+    "https://dlhb.gamebrew.org/dshomebrew/csmmgpatch10.png"
+   ],
+   "site": "https://gbatemp.net/threads/chou-soujuu-mecha-mg-full-translation-release.548671/",
+   "title": "Chou Soujuu Mecha MG Full Translation",
+   "upd": "2024-08-20T12:01:45Z",
+   "ver": "1.1"
+  },
   "https://www.gamebrew.org/wiki/Ciel_Nosurge:_Ushinawareta_Hoshi_e_Sasagu_Uta_Offline_Vita_-_English_Translation": {
    "a": {
     "ex": {}
@@ -393,6 +868,42 @@
    "title": "Cross Treasures DS - English Translation",
    "upd": "2025-08-17T11:12:26Z",
    "ver": "02c"
+  },
+  "https://www.gamebrew.org/wiki/Culdcept_DS_Open_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/culdceptpatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/4/45/Culdceptpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/culdceptpatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/culdceptpatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/culdceptpatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/culdceptpatch6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2579/",
+   "title": "Culdcept DS Open Translation",
+   "upd": "2024-08-16T04:45:54Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/D_Gray_Man_Kami_no_Shitotachi": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/d_gray_man_kami_no_shitotachi_eng.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/8/8d/Dgraymankamieng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dgraymankamieng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dgraymankamieng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dgraymankamieng5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dgraymankamieng6.png"
+   ],
+   "site": "https://agtteam.tumblr.com/post/183838792812/dgrayman",
+   "title": "D Gray Man Kami no Shitotachi",
+   "upd": "2024-08-20T12:07:49Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Danball_Senki_Boost_Translation_PSP": {
    "a": {
@@ -503,6 +1014,27 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:47:44Z",
    "ver": "1.20"
+  },
+  "https://www.gamebrew.org/wiki/Detective_Conan_and_Kindaichi_Case_Files_-_Chance_Encounter_of_2_Great_Detectives": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/dctp_conankindaichi_englishpatch.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/e/ed/Dctpconankindaichi3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dctpconankindaichi3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dctpconankindaichi4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dctpconankindaichi5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dctpconankindaichi6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dctpconankindaichi7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dctpconankindaichi8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/dctpconankindaichi9.png"
+   ],
+   "site": "https://www.dctp.ws/ConanKindaichi/",
+   "title": "Detective Conan and Kindaichi Case Files - Chance Encounter of 2 Great Detectives",
+   "upd": "2024-08-20T12:05:01Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Diabolik_Lovers_Limited_V_Edition_English_Patch_Vita": {
    "a": {
@@ -635,6 +1167,24 @@
    "upd": "2025-04-19T12:52:21Z",
    "ver": "0.90"
   },
+  "https://www.gamebrew.org/wiki/Dragon_Quest_Monsters_-_Caravan_Heart_GBA": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/dqmch_100.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/8/83/Dgmchpatch2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/dgmchpatch3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/dgmchpatch4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/dgmchpatch5.png"
+   ],
+   "site": "https://www.romhacking.net/translations/1252/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-23T09:26:31Z",
+   "ver": "1.0"
+  },
   "https://www.gamebrew.org/wiki/Dragon_Quest_and_Final_Fantasy_in_Itadaki_Street_Portable_PSP_-_English_Translation": {
    "a": {
     "ex": {},
@@ -670,6 +1220,23 @@
    "upd": "2025-04-19T12:52:35Z",
    "ver": "1.0"
   },
+  "https://www.gamebrew.org/wiki/Dungeon_of_Windaria_English_translation": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/windariadspatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/8/83/Windariadspatch.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/windariadspatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/windariadspatch3.png"
+   ],
+   "site": "https://gbatemp.net/threads/dungeon-of-windaria-english-translation-complete.462198/post-10494760",
+   "title": "Dungeon of Windaria English translation",
+   "upd": "2025-03-11T10:28:27Z",
+   "ver": "0.7"
+  },
   "https://www.gamebrew.org/wiki/EBKore%2B_Amagami_PSP_-_English_Translation": {
    "a": {
     "ex": {
@@ -689,6 +1256,26 @@
    "title": "(Translations) - GameBrew",
    "upd": "2024-06-11T10:34:19Z",
    "ver": "1.0.0"
+  },
+  "https://www.gamebrew.org/wiki/Earth_Seeker_English_Translation_Wii": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "gfx": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/earthseekerwiien.7z?k33p0fil35",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/earthseekerwiien3.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/earthseekerwiien4.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/earthseekerwiien5.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/earthseekerwiien6.png"
+   ],
+   "site": "https://gbatemp.net/threads/riivolution-patch-earth-seeker-english-translation-for-wii-100.555772/",
+   "title": "Earth Seeker English Translation Wii",
+   "upd": "2025-04-19T06:33:43Z",
+   "ver": "2.04"
   },
   "https://www.gamebrew.org/wiki/Echo_Night_-_The_First_Voyage_English_Translation_PSP": {
    "a": {
@@ -726,6 +1313,25 @@
    "upd": "2024-05-08T10:34:00Z",
    "ver": "15"
   },
+  "https://www.gamebrew.org/wiki/Element_Hunter_Translation_Project": {
+   "a": {
+    "cov": "Partial",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/element.hunters.english.translation.patch_v2.1.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/6/62/Elementhunters2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/elementhunters3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/elementhunters4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/elementhunters5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/elementhunters6.png"
+   ],
+   "site": "https://gbatemp.net/threads/element-hunter-translation-project.188015/",
+   "title": "Element Hunter Translation Project",
+   "upd": "2024-08-20T12:49:51Z",
+   "ver": "2.1"
+  },
   "https://www.gamebrew.org/wiki/Ever17:_The_Out_of_Infinity_Premium_Edition_PSP_-_English_Translation": {
    "a": {
     "ex": {}
@@ -742,6 +1348,64 @@
    "site": "https://gbatemp.net/threads/release-ever17-the-out-of-infinity-psp-english-translation.469362/",
    "title": "(Translations) - GameBrew",
    "upd": "2024-06-05T16:37:27Z"
+  },
+  "https://www.gamebrew.org/wiki/F-Zero_-_Climax_GBA": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/f_zero_climax_english_patch_1.1.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/2/26/Fzeroclimaxenglish2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/fzeroclimaxenglish3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/fzeroclimaxenglish4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/fzeroclimaxenglish5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/fzeroclimaxenglish6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/6339/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-23T09:32:48Z",
+   "ver": "1.1"
+  },
+  "https://www.gamebrew.org/wiki/FFCC_-_Echoes_of_Time_Undub_Patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/final.fantasy.crystal.chronicles_echoes.of.time.e.u.undub.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/d/df/Ffcceotundub2.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-ffcc-echoes-of-time-undub-patch.555124/",
+   "title": "FFCC - Echoes of Time Undub Patch",
+   "upd": "2024-08-20T12:56:48Z",
+   "ver": "1.2"
+  },
+  "https://www.gamebrew.org/wiki/FabStyle_English_Project": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/FabStyle_English_Project_v2.0.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/5/5d/Fabstyleenpatch.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/fabstyleenpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/fabstyleenpatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/fabstyleenpatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/fabstyleenpatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/fabstyleenpatch6.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/fabstyleenpatch7.png"
+   ],
+   "site": "https://gbatemp.net/threads/wip-fabstyle-english-project.427043/",
+   "title": "FabStyle English Project",
+   "upd": "2025-03-11T10:30:01Z",
+   "ver": "2.0"
   },
   "https://www.gamebrew.org/wiki/Fate/Extra_CCC_PSP_-_English_Translation": {
    "a": {
@@ -784,6 +1448,65 @@
    "upd": "2024-06-24T06:03:55Z",
    "ver": "2"
   },
+  "https://www.gamebrew.org/wiki/Final_Fantasy_X_X-2_Undub_Switch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/switchhomebrews/finalfantasyxx2undubnx.7z",
+   "site": "https://gbatemp.net/threads/final-fantasy-x-x-2-undub.536858/",
+   "title": "Final Fantasy X X-2 Undub Switch",
+   "upd": "2023-06-26T00:16:30Z",
+   "ver": "28.04"
+  },
+  "https://www.gamebrew.org/wiki/Fire_Emblem_-_Heroes_of_Light_and_Shadow": {
+   "a": {
+    "cov": "Menus only",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/fe12_v3.01.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/a/aa/Fe12dsenglish2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/fe12dsenglish3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/fe12dsenglish4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/fe12dsenglish5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/fe12dsenglish6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/fe12dsenglish7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/fe12dsenglish8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/fe12dsenglish9.png"
+   ],
+   "site": "http://www.heroesofshadow.net/2012/11/complete-translation-patch-released.html",
+   "title": "Fire Emblem - Heroes of Light and Shadow",
+   "upd": "2024-08-20T12:56:07Z",
+   "ver": "3.01"
+  },
+  "https://www.gamebrew.org/wiki/Fire_Emblem_-_The_Binding_Blade_GBA": {
+   "a": {
+    "ex": {
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/ff6localization.7z?1.2.1",
+   "shots": [
+    "https://www.gamebrew.org/images/c/c4/Ff6localization2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/ff6localization3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/ff6localization4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/ff6localization5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/ff6localization6.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/ff6localization7.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/ff6localization8.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/ff6localization9.png"
+   ],
+   "site": "https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2025-04-19T12:24:57Z",
+   "ver": "1.2.1"
+  },
   "https://www.gamebrew.org/wiki/Freedom_Wars_English_Vita": {
    "a": {
     "ex": {}
@@ -794,6 +1517,25 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:46:13Z",
    "ver": "2017"
+  },
+  "https://www.gamebrew.org/wiki/Fullmetal_Alchemist_-_Sonata_of_Memories_GBA": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/sonata_of_memories_patch.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/c/c7/Sonataofmemoriespatch2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/sonataofmemoriespatch3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/sonataofmemoriespatch4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/sonataofmemoriespatch5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/sonataofmemoriespatch6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/5850/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-23T11:20:12Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Fushigi_No_Dungeon_%E2%80%93_Fuurai_No_Shiren_4_Plus_%E2%80%93_Kami_No_Hitomi_to_Akuma_No_Heso_PSP_-_English_Translation": {
    "a": {
@@ -870,6 +1612,30 @@
    "upd": "2024-06-19T12:13:34Z",
    "ver": "1.0"
   },
+  "https://www.gamebrew.org/wiki/Game_Center_CX:_Arino_no_Chousenjou_2_DS_-_English_Translation": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/rgc2eng_v15.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/d/d8/GameCenterCX2EngTrans.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/GameCenterCX2EngTrans-01.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/GameCenterCX2EngTrans-02.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/GameCenterCX2EngTrans-03.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/GameCenterCX2EngTrans-04.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/GameCenterCX2EngTrans-05.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/GameCenterCX2EngTrans-06.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/GameCenterCX2EngTrans-07.png"
+   ],
+   "site": "https://gbatemp.net/threads/game-center-cx-arino-no-chosenjo-2-new-start.353523/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-09-22T02:19:15Z",
+   "ver": "1.5.1"
+  },
   "https://www.gamebrew.org/wiki/Gensou_Rougoku_no_Kaleidoscope_Vita_-_English_Translation": {
    "a": {
     "ex": {}
@@ -886,6 +1652,26 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2026-03-02T13:42:39Z",
    "ver": "1.0.0"
+  },
+  "https://www.gamebrew.org/wiki/Gensou_Suikoden_Card_Stories_GBA": {
+   "a": {
+    "ex": {
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/scsenglish.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/2/22/Scsenglish2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/scsenglish3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/scsenglish4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/scsenglish5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/scsenglish6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/1720/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-05-10T05:58:44Z",
+   "ver": "1.00"
   },
   "https://www.gamebrew.org/wiki/Gintama_Rumble_English_Patch_Vita": {
    "a": {
@@ -907,6 +1693,28 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:45:56Z",
    "ver": "2"
+  },
+  "https://www.gamebrew.org/wiki/Girlish_Love_Revolution_English_Fan_Translation": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/loverevopatcher_v1.1.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/5/5d/Loverenopatcher2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/loverenopatcher3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/loverenopatcher4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/loverenopatcher5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/loverenopatcher6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/loverenopatcher7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/loverenopatcher8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/loverenopatcher9.png"
+   ],
+   "site": "https://sites.google.com/site/loverevoguide/home",
+   "title": "Girlish Love Revolution English Fan Translation",
+   "upd": "2024-08-20T13:44:44Z",
+   "ver": "1.1 Final"
   },
   "https://www.gamebrew.org/wiki/Gochumon_Wa_Usagi_Desu_Ka_English_Patch_Vita": {
    "a": {
@@ -1095,6 +1903,23 @@
    "title": "Hack LINK Translation Project PSP",
    "upd": "2024-05-08T10:32:59Z",
    "ver": "2.0.2"
+  },
+  "https://www.gamebrew.org/wiki/Hajime_no_Ippo_-_The_Fighting_GBA": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/hajimenoippo.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/a/a4/Hajimenoippoeng2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/hajimenoippoeng3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/hajimenoippoeng4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/hajimenoippoeng5.png"
+   ],
+   "site": "https://www.romhacking.net/translations/1319/",
+   "title": "(Translation) - GameBrew",
+   "upd": "2024-06-23T09:49:36Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Hakuouki_SSL_English_Patch_Vita": {
    "a": {
@@ -1323,6 +2148,20 @@
    "upd": "2024-07-09T11:53:21Z",
    "ver": "0.4.1"
   },
+  "https://www.gamebrew.org/wiki/Inazuma_Eleven_GO_2_Chrono_Stone_Neppu_Raimei_Undub_3DS": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://www.gamebrew.org/images/f/fa/Inazuma11go2undub2.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-inazuma-eleven-go-2-chrono-stone-neppu-raimei-full-undub.593505",
+   "title": "Inazuma Eleven GO 2 Chrono Stone Neppu Raimei Undub 3DS",
+   "upd": "2024-05-06T06:10:00Z",
+   "ver": "2.1"
+  },
   "https://www.gamebrew.org/wiki/Is_It_Wrong_To_Try_To_Pick_Up_Girls_In_A_Dungeon_Infinite_Combate_English_Vita": {
    "a": {
     "ex": {
@@ -1376,6 +2215,25 @@
    "upd": "2026-03-25T08:18:58Z",
    "ver": "1.3"
   },
+  "https://www.gamebrew.org/wiki/Jump_Ultimate_Stars": {
+   "a": {
+    "cov": "Partial",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/jump!.ultimate.stars.english.patch.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/6/6a/Jusenglishpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/jusenglishpatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/jusenglishpatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/jusenglishpatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/jusenglishpatch6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/1636/",
+   "title": "Jump Ultimate Stars",
+   "upd": "2024-08-20T13:25:11Z",
+   "ver": "03"
+  },
   "https://www.gamebrew.org/wiki/K-ON!_Houkago_Live!!_PSP_-_English_Translation": {
    "a": {
     "ex": {}
@@ -1425,6 +2283,26 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2023-01-24T12:57:28Z",
    "ver": "0.4.310"
+  },
+  "https://www.gamebrew.org/wiki/Ketsui:_Death_Label_Open_Translation_Project": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/ketsui_v02.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/4/40/Ketsuipatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ketsuipatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ketsuipatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ketsuipatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ketsuipatch6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ketsuipatch7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ketsuipatch8.png"
+   ],
+   "site": "https://shmups.system11.org/viewtopic.php?f=1&t=30384",
+   "title": "Ketsui: Death Label Open Translation Project",
+   "upd": "2024-08-20T13:27:02Z",
+   "ver": "0.2"
   },
   "https://www.gamebrew.org/wiki/Kidou_Senshi_Gundam:_Gihren_no_Yabou_-_Axis_no_Kyoui_V_PSP_-_English_Translation": {
    "a": {
@@ -1485,6 +2363,43 @@
    "title": "Kingdom Hearts - Birth by Sleep - Final Mix Translateion Patch PSP",
    "upd": "2024-05-08T10:33:13Z",
    "ver": "1.0.12"
+  },
+  "https://www.gamebrew.org/wiki/Klonoa_Heroes_-_Densetsu_no_Star_Medal_GBA": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/klonoaheroesenglish.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/e/e0/Klonoaheroesenglish2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/klonoaheroesenglish3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/klonoaheroesenglish4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/klonoaheroesenglish5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/klonoaheroesenglish6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/6491/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2025-07-05T02:40:16Z",
+   "ver": "1.1.9"
+  },
+  "https://www.gamebrew.org/wiki/Koisuru_Purin!_Pudding_in_Love_DS_-_English_Translation": {
+   "a": {
+    "ex": {},
+    "mtl": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/KoisuruPurin_Eng_v07b.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/a/a6/Koisurupurineng.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/koisurupurineng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/koisurupurineng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/koisurupurineng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/koisurupurineng5.png"
+   ],
+   "site": "https://gbatemp.net/threads/koisuru-purin-translation-pudding-in-love.476436/post-8504148",
+   "title": "Koisuru Purin! Pudding in Love DS - English Translation",
+   "upd": "2025-08-17T11:12:13Z",
+   "ver": "0.7b"
   },
   "https://www.gamebrew.org/wiki/Konosuba_Attack_Of_The_Destroyer_English_Vita": {
    "a": {
@@ -1601,6 +2516,23 @@
    "upd": "2024-05-08T10:33:51Z",
    "ver": "1.0"
   },
+  "https://www.gamebrew.org/wiki/Line_Attack_Heroes_English_Translation_Wii": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/lineattackheroeswiien.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/lineattackheroeswiien7.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/lineattackheroeswiien8.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/lineattackheroeswiien9.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/lineattackheroeswiien10.png"
+   ],
+   "site": "https://gbatemp.net/threads/line-attack-heroes-english-translation-for-wii.586680/",
+   "title": "Line Attack Heroes English Translation Wii",
+   "upd": "2023-04-07T05:43:30Z",
+   "ver": "1.0"
+  },
   "https://www.gamebrew.org/wiki/Little_Busters_CE_English_Patch_PSP": {
    "a": {
     "ex": {
@@ -1636,6 +2568,49 @@
    "upd": "2025-04-19T12:33:11Z",
    "ver": "0.1"
   },
+  "https://www.gamebrew.org/wiki/Love_Plus_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/loveplusv10n_patcher.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/6/65/Lovepluspatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/lovepluspatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/lovepluspatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/lovepluspatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/lovepluspatch6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/lovepluspatch7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/lovepluspatch8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/lovepluspatch9.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2225/",
+   "title": "Love Plus Translation",
+   "upd": "2024-08-20T13:44:38Z",
+   "ver": "1.0n"
+  },
+  "https://www.gamebrew.org/wiki/Luminous_Arc_3_English_Patch": {
+   "a": {
+    "ex": {},
+    "mtl": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/luminous.arc.3.english.patch_v.1.0.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/8/86/Luminousarc3patch11.png",
+    "https://dlhb.gamebrew.org/dshomebrew/luminousarc3patch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/luminousarc3patch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/luminousarc3patch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/luminousarc3patch6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/luminousarc3patch7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/luminousarc3patch8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/luminousarc3patch9.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-luminous-arc-3-english-patch.605026",
+   "title": "Luminous Arc 3 English Patch",
+   "upd": "2024-08-21T01:30:16Z",
+   "ver": "1.0"
+  },
   "https://www.gamebrew.org/wiki/Lunar_-_Silver_Star_Harmony_Complete_Undub_PSP": {
    "a": {
     "ex": {
@@ -1667,6 +2642,26 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2026-03-10T10:52:08Z",
    "ver": "0.4"
+  },
+  "https://www.gamebrew.org/wiki/Magical_Vacation_GBA": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/magical_vacation_translation.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/0/0b/Magicalvacationen2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/magicalvacationen3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/magicalvacationen4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/magicalvacationen5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/magicalvacationen6.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/magicalvacationen7.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/magicalvacationen8.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2662/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-23T10:47:46Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Mahou_Shoujo_Lyrical_Nanoha_A%27s_Portable:_The_Battle_of_Aces_PSP_-_English_Translation": {
    "a": {
@@ -1775,6 +2770,87 @@
    "upd": "2024-08-16T05:37:15Z",
    "ver": "1.2"
   },
+  "https://www.gamebrew.org/wiki/Mega_Man_ZX_Advent_Undub": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/zxa_undub_1.00.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/3/35/Zxaundub2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/zxaundub3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/zxaundub4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/zxaundub5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/zxaundub6.png"
+   ],
+   "site": "https://gbatemp.net/threads/rockman-zx-advent-mega-man-zx-advent-full-undub.492716",
+   "title": "Mega Man ZX Advent Undub",
+   "upd": "2024-08-21T07:48:13Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Mega_Man_ZX_Undub": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/zxundub.7z?k33p0fil35",
+   "shots": [
+    "https://www.gamebrew.org/images/1/10/Zxundub2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/zxundub3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/zxundub4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/zxundub5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/zxundub6.png"
+   ],
+   "site": "https://gbatemp.net/threads/rockman-zx-mega-man-zx-full-undub.492408",
+   "title": "Mega Man ZX Undub",
+   "upd": "2024-08-16T05:37:50Z",
+   "ver": "1.01"
+  },
+  "https://www.gamebrew.org/wiki/Metal_Max_2_-_Reloaded": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/mm2r1_0.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/9/90/Metalmax2reloadedeng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/metalmax2reloadedeng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/metalmax2reloadedeng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/metalmax2reloadedeng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/metalmax2reloadedeng5.png"
+   ],
+   "site": "https://twitter.com/Metal_Fan88/status/1468567126185320457",
+   "title": "Metal Max 2 - Reloaded",
+   "upd": "2024-08-21T01:41:48Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Metal_Max_3": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/metal_max_3_patcher_1.0.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/7/7d/Metalmax3patcher2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/metalmax3patcher3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/metalmax3patcher4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/metalmax3patcher5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/metalmax3patcher6.png"
+   ],
+   "site": "https://github.com/metaldreamers/mm3-script",
+   "title": "Metal Max 3",
+   "upd": "2024-08-21T01:42:24Z",
+   "ver": "1.0"
+  },
   "https://www.gamebrew.org/wiki/Metal_Max_Xeno_English_Vita": {
    "a": {
     "cov": "Complete",
@@ -1797,6 +2873,18 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:40:28Z",
    "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Metroid_Other_M_-_True_Japanese_Mod_Wii": {
+   "a": {
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "site": "https://gbatemp.net/threads/metroid-other-m-true-japanese-mod-english-fan-translation.625069/",
+   "title": "Metroid Other M - True Japanese Mod Wii",
+   "upd": "2024-01-29T11:19:33Z",
+   "ver": "1.0.0"
   },
   "https://www.gamebrew.org/wiki/Miracle_girls_Festival_English_Patch_Vita": {
    "a": {
@@ -1830,6 +2918,72 @@
    "upd": "2024-06-19T15:54:18Z",
    "ver": "5.0"
   },
+  "https://www.gamebrew.org/wiki/Mother_1_and_2_GBA": {
+   "a": {
+    "cov": "Menus only",
+    "ex": {
+     "retrans": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/mother_1_2_english_v1.01.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/f/f4/Mother12english2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother12english3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother12english4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother12english5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother12english6.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother12english7.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother12english8.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother12english9.png"
+   ],
+   "site": "http://mother12.earthboundcentral.com/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-23T10:54:20Z",
+   "ver": "1.01"
+  },
+  "https://www.gamebrew.org/wiki/Mother_3_GBA": {
+   "a": {
+    "cov": "Menus only",
+    "ex": {
+     "fixes": true,
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/mother3english.7z?k33p0fil35",
+   "shots": [
+    "https://www.gamebrew.org/images/4/47/Mother3english2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother3english3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother3english4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother3english5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/mother3english6.png"
+   ],
+   "site": "http://mother3.fobby.net/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2025-07-02T14:16:06Z",
+   "ver": "1.3"
+  },
+  "https://www.gamebrew.org/wiki/Mugen_no_Frontier_EXCEED_-_Super_Robot_Taisen_OG_Saga": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/endless.frontier.exceed_en_artema_translations_v1.0.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/3/3a/Endlessfrontierexceedeng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/endlessfrontierexceedeng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/endlessfrontierexceedeng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/endlessfrontierexceedeng5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/endlessfrontierexceedeng6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/endlessfrontierexceedeng7.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-super-robot-wars-og-saga-endless-frontier-exceed-artema-translations.550014/",
+   "title": "Mugen no Frontier EXCEED - Super Robot Taisen OG Saga",
+   "upd": "2024-08-20T12:50:47Z",
+   "ver": "1.0"
+  },
   "https://www.gamebrew.org/wiki/Mushishi:_Amefuru_Sato_DS_-_English_Translation": {
    "a": {
     "ex": {}
@@ -1860,6 +3014,81 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:52:05Z",
    "ver": "0.9a"
+  },
+  "https://www.gamebrew.org/wiki/NEW_LOVE_PLUS_PLUS_3DS": {
+   "a": {
+    "cov": "Menus only",
+    "ex": {
+     "fixes": true,
+     "gfx": true,
+     "restore": true,
+     "retrans": true
+    },
+    "mtl": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://newloveplus.loc.moe/download/",
+   "shots": [
+    "https://www.gamebrew.org/images/5/5a/Newlovepluspluspatch2.png",
+    "https://dlhb.gamebrew.org/3dshomebrews/newlovepluspluspatch3.png"
+   ],
+   "site": "https://newloveplus.loc.moe",
+   "title": "NEW LOVE PLUS PLUS 3DS",
+   "upd": "2026-09-21T01:12:48Z",
+   "ver": "v1.0.0-rc3"
+  },
+  "https://www.gamebrew.org/wiki/Nanashi_no_Game": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/eng_the_nameless_game_v1.2.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/0/0b/Thenamelessgameeng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/thenamelessgameeng3.png"
+   ],
+   "site": "https://www.romhacking.net/translations/1654/",
+   "title": "Nanashi no Game",
+   "upd": "2024-08-21T06:37:44Z",
+   "ver": "1.2"
+  },
+  "https://www.gamebrew.org/wiki/Nanashi_no_Game_Me": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/eng_the_nameless_game_eye_v1_13.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/c/c4/Thenamelessgamemeeng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/thenamelessgamemeeng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/thenamelessgamemeeng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/thenamelessgamemeeng7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/thenamelessgamemeeng8.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2456/",
+   "title": "Nanashi no Game Me",
+   "upd": "2024-08-21T06:37:52Z",
+   "ver": "1.13"
+  },
+  "https://www.gamebrew.org/wiki/Napoleon:_L%27Aigle_de_Guerre_GBA_-_English_Translation": {
+   "a": {
+    "ex": {
+     "retrans": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/napoleonpatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/a/a5/Napoleonpatch2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/napoleonpatch3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/napoleonpatch4.png"
+   ],
+   "site": "https://www.romhacking.net/translations/4142/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-07-25T03:03:31Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Naruto_RPG_2:_Chidori_vs._Rasengan_DS_-_English_Translation": {
    "a": {
@@ -1922,6 +3151,24 @@
    "upd": "2024-05-08T10:31:56Z",
    "ver": "1.08"
   },
+  "https://www.gamebrew.org/wiki/Nekketsu_Monogatari_Advance_English_Translation_GBA": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/nekketsu_monogatari_advance_v20100627_t_eng.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/0/0e/Nmagbaenglish2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/nmagbaenglish3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/nmagbaenglish4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/nmagbaenglish5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/nmagbaenglish6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/6037/",
+   "title": "(Translation) - GameBrew",
+   "upd": "2024-06-23T10:58:45Z",
+   "ver": "1.0"
+  },
   "https://www.gamebrew.org/wiki/Nelke_and_the_Legendary_Alchemists_English_Translation_Vita": {
    "a": {
     "ex": {}
@@ -1974,6 +3221,46 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:34:23Z",
    "ver": "2021"
+  },
+  "https://www.gamebrew.org/wiki/Ni_no_Kuni_The_Jet_Black_Mage": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "shots": [
+    "https://www.gamebrew.org/images/1/19/Ninokunieng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ninokunieng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ninokunieng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ninokunieng5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ninokunieng6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/ninokunieng7.gif",
+    "https://dlhb.gamebrew.org/dshomebrew/ninokunieng8.gif",
+    "https://dlhb.gamebrew.org/dshomebrew/ninokunieng9.gif"
+   ],
+   "site": "https://www.romhacking.net/translations/4068/",
+   "title": "Ni no Kuni The Jet Black Mage",
+   "upd": "2024-08-16T11:07:27Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Night_of_the_Sacrifice_English_Translation_Wii": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/nightofthesacrificewiien.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/nightofthesacrificewiien3.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/nightofthesacrificewiien4.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/nightofthesacrificewiien5.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/nightofthesacrificewiien6.jpg"
+   ],
+   "site": "https://gbatemp.net/threads/riivolution-patch-ikenie-no-yoru-english-translation-for-wii-100.561324/",
+   "title": "Night of the Sacrifice English Translation Wii",
+   "upd": "2025-04-19T06:41:56Z",
+   "ver": "1.03"
   },
   "https://www.gamebrew.org/wiki/Nights_Of_Azure_2_-_PSV_English_Patch_Vita": {
    "a": {
@@ -2070,6 +3357,27 @@
    "upd": "2024-08-21T02:30:48Z",
    "ver": "1.0"
   },
+  "https://www.gamebrew.org/wiki/Okaeri_-_Chibi-Robo_-_Happy_Richie_Oosouji": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/okaerichibipatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/6/6a/Okaerichibipatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/okaerichibipatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/okaerichibipatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/okaerichibipatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/okaerichibipatch6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/okaerichibipatch7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/okaerichibipatch8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/okaerichibipatch9.png"
+   ],
+   "site": "https://gbatemp.net/threads/english-translation-for-okaeri-chibi-robo-happy-richie-osoji.402028/",
+   "title": "Okaeri - Chibi-Robo - Happy Richie Oosouji",
+   "upd": "2024-08-16T11:07:32Z",
+   "ver": "1.1"
+  },
   "https://www.gamebrew.org/wiki/Omega_Labyrinth_Z_Vita_-_English_Translation": {
    "a": {
     "ex": {
@@ -2086,6 +3394,24 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:35:58Z",
    "ver": "0.95"
+  },
+  "https://www.gamebrew.org/wiki/Opoona_Re-localization_Patch_Wii": {
+   "a": {
+    "ex": {
+     "retrans": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/opoonarelocalizationpatchwii.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/opoonarelocalizationpatchwii-01.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/opoonarelocalizationpatchwii-02.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/opoonarelocalizationpatchwii-03.png"
+   ],
+   "site": "https://www.romhacking.net/hacks/3819/",
+   "title": "Opoona Re-localization Patch Wii",
+   "upd": "2023-04-09T04:03:29Z",
+   "ver": "1.1"
   },
   "https://www.gamebrew.org/wiki/Ore_ga_Omae_o_Mamoru": {
    "a": {
@@ -2122,6 +3448,56 @@
    "title": "Oreimo Tsuzuku PSP English Patch",
    "upd": "2024-05-08T10:33:53Z",
    "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Oriental_Blue:_Ao_no_Tengai_GBA": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/orientalblue10.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/1/11/Orientalbluegba2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/orientalbluegba3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/orientalbluegba4.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2035/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-25T03:01:09Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Ougon_No_Kizuna_Wii_-_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/ougonnokizunawiiengtrans.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/ougonnokizunawiiengtrans-01.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/ougonnokizunawiiengtrans-02.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/ougonnokizunawiiengtrans-03.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/ougonnokizunawiiengtrans-04.png"
+   ],
+   "site": "https://gbatemp.net/threads/ougon-no-kizuna-golden-bonds-english-translation-for-wii.624075/",
+   "title": "Wii Rom Hacks (Translations) - GameBrew",
+   "upd": "2026-08-08T06:29:14Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Panel_de_Pon_DS_Translation_Patch": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/pdpeng025.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/1/1a/Pdpeng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/pdpeng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/pdpeng4.png"
+   ],
+   "site": "https://gbatemp.net/threads/panel-de-pon-ds-english-translation-patch-v0-25.50405",
+   "title": "Panel de Pon DS Translation Patch",
+   "upd": "2024-08-21T02:36:10Z",
+   "ver": "0.25"
   },
   "https://www.gamebrew.org/wiki/Persona_2:_Eternal_Punishment_PSP_-_English_Translation": {
    "a": {
@@ -2197,6 +3573,21 @@
    "upd": "2024-06-20T05:18:02Z",
    "ver": "0.9.3"
   },
+  "https://www.gamebrew.org/wiki/Phoenix_Wright_-_Ace_Attorney_GBA": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/gs1_english_h3rmit_spazzery_006.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/f/f7/Gs1gbaenglish2.png"
+   ],
+   "site": "https://gbatemp.net/threads/gyakuten-saiban-1-3-translation.76754/post-9520779",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-23T09:49:13Z",
+   "ver": "006"
+  },
   "https://www.gamebrew.org/wiki/PhotoKano_Kiss_English_Translation_Vita": {
    "a": {
     "cov": "Menus only",
@@ -2263,6 +3654,85 @@
    "upd": "2025-04-19T12:30:42Z",
    "ver": "2022"
   },
+  "https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Radiant_Adventure_Squad_Fan_Translation_Wii": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "restore": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/pmdradiantsquadwiien.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/pmdradiantsquadwiien3.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/pmdradiantsquadwiien4.png"
+   ],
+   "site": "https://projectpokemon.org/index/news/pok%C3%A9mon-mystery-dungeon-wiiware-fan-translation-r138/",
+   "title": "Pokemon Mystery Dungeon - Radiant Adventure Squad Fan Translation Wii",
+   "upd": "2023-04-06T12:26:16Z",
+   "ver": "1.03"
+  },
+  "https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Tempest_Adventure_Squad_Fan_Translation_Wii": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "restore": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/pmdtempestsquadwiien.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/pmdtempestsquadwiien3.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/pmdtempestsquadwiien4.png"
+   ],
+   "site": "https://projectpokemon.org/index/news/pok%C3%A9mon-mystery-dungeon-wiiware-fan-translation-r138/",
+   "title": "Pokemon Mystery Dungeon - Tempest Adventure Squad Fan Translation Wii",
+   "upd": "2023-04-06T12:25:58Z",
+   "ver": "1.03"
+  },
+  "https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Wildfire_Adventure_Squad_Fan_Translation_Wii": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "restore": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/pmdwildfiresquadwiien.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/pmdwildfiresquadwiien3.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/pmdwildfiresquadwiien4.png"
+   ],
+   "site": "https://projectpokemon.org/index/news/pok%C3%A9mon-mystery-dungeon-wiiware-fan-translation-r138/",
+   "title": "Pokemon Mystery Dungeon - Wildfire Adventure Squad Fan Translation Wii",
+   "upd": "2023-04-06T12:25:16Z",
+   "ver": "1.03"
+  },
+  "https://www.gamebrew.org/wiki/Prince_of_Tennis_Motto_Gakuensai_no_Oujisama_English_Patch": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/GakupuriDSPatch_v1_1LightPatcher.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/7/73/Gakupuridspatch.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/gakupuridspatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/gakupuridspatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/gakupuridspatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/gakupuridspatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/gakupuridspatch6.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/gakupuridspatch7.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/gakupuridspatch8.png"
+   ],
+   "site": "https://gbatemp.net/threads/english-patch-prince-of-tennis-motto-gakuensai-no-oujisama.369916/",
+   "title": "Prince of Tennis Motto Gakuensai no Oujisama English Patch",
+   "upd": "2025-03-11T10:36:33Z",
+   "ver": "1.1"
+  },
   "https://www.gamebrew.org/wiki/Princess_Guide_English_Vita": {
    "a": {
     "ex": {}
@@ -2296,6 +3766,24 @@
    "upd": "2025-04-19T12:51:44Z",
    "ver": "2019"
   },
+  "https://www.gamebrew.org/wiki/Puchi_Eva_-_Evangelion_Game": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/petit.eva.eng_v1.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/8/8d/Petitevaeng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/petitevaeng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/petitevaeng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/petitevaeng5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/petitevaeng6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/6074/",
+   "title": "Puchi Eva - Evangelion Game",
+   "upd": "2024-08-21T02:37:33Z",
+   "ver": "1.0"
+  },
   "https://www.gamebrew.org/wiki/Puella_Magi_Madoka_Magica_Portable_PSP_-_English_Translation": {
    "a": {
     "cov": "Partial",
@@ -2315,6 +3803,96 @@
    "upd": "2024-06-09T09:38:48Z",
    "ver": "3.1"
   },
+  "https://www.gamebrew.org/wiki/Puyo_Puyo_-_15th_Anniversary": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/pp15patch_v1.2_0866.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/a/a1/Puyopuyo15patch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo15patch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo15patch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo15patch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo15patch6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo15patch7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo15patch8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo15patch9.png"
+   ],
+   "site": "https://puyonexus.com/forum/viewtopic.php?t=386",
+   "title": "Puyo Puyo - 15th Anniversary",
+   "upd": "2024-08-21T05:00:02Z",
+   "ver": "1.2"
+  },
+  "https://www.gamebrew.org/wiki/Puyo_Puyo_20th_Anniversary_English_Patch": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/patchv1.2.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/9/97/Puyo20theng2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyo20theng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyo20theng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyo20theng5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyo20theng6.png"
+   ],
+   "site": "https://www.precisemuseum.com/post/184738400330/puyo-puyo-20th-anniversary-patch-is-complete",
+   "title": "Puyo Puyo 20th Anniversary English Patch",
+   "upd": "2024-08-21T04:59:47Z",
+   "ver": "1.2"
+  },
+  "https://www.gamebrew.org/wiki/Puyo_Puyo_20th_Anniversary_Name_Patch": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/puyo.puyo.fever.names.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/2/2c/Puyo20thname2.png"
+   ],
+   "site": "https://www.romhacking.net/translations/5811/",
+   "title": "Puyo Puyo 20th Anniversary Name Patch",
+   "upd": "2024-08-21T04:59:56Z",
+   "ver": "0.5"
+  },
+  "https://www.gamebrew.org/wiki/Puyo_Puyo_7": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/pp7patchxd_v1.0.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/8/8c/Puyopuyo7patch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo7patch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo7patch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo7patch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puyopuyo7patch6.png"
+   ],
+   "site": "https://puyonexus.com/forum/viewtopic.php?f=38&t=1447",
+   "title": "Puyo Puyo 7",
+   "upd": "2024-08-21T05:00:08Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Puyo_Puyo_7_English_Translation_Wii": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/puyopuyo7wiien.7z?k33p0fil35",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/puyopuyo7wiien3.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/puyopuyo7wiien4.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/puyopuyo7wiien5.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/puyopuyo7wiien6.png"
+   ],
+   "site": "https://gbatemp.net/threads/puyo-pop-7-wii-english-translation-released.601620/",
+   "title": "Puyo Puyo 7 English Translation Wii",
+   "upd": "2024-01-28T10:32:32Z",
+   "ver": "1.1"
+  },
   "https://www.gamebrew.org/wiki/Puyo_Puyo_Tetris_English_Vita": {
    "a": {
     "ex": {}
@@ -2329,6 +3907,44 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:43:41Z",
    "ver": "0.9"
+  },
+  "https://www.gamebrew.org/wiki/Puzzle_Series_Vol_12_-_Akari": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/Puzzle_Series_Vol.12_Akari_English_Translation.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/4/47/Puzzleseriesakari.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/puzzleseriesakari2.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/puzzleseriesakari3.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/puzzleseriesakari4.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/puzzleseriesakari5.png"
+   ],
+   "site": "https://gbatemp.net/threads/translation-puzzle-series-vol-12-akari.369146/",
+   "title": "Puzzle Series Vol 12 - Akari",
+   "upd": "2025-03-11T10:32:49Z",
+   "ver": "2014"
+  },
+  "https://www.gamebrew.org/wiki/Puzzle_Series_Vol_5_-_Slither_Link": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/puzzle.series.vol.5_slither.link_v.0.7.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/a/aa/Puzzleseries5slitherlink2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puzzleseries5slitherlink2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puzzleseries5slitherlink3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puzzleseries5slitherlink4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/puzzleseries5slitherlink5.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2257/",
+   "title": "Puzzle Series Vol 5 - Slither Link",
+   "upd": "2024-08-21T05:01:41Z",
+   "ver": "0.7"
   },
   "https://www.gamebrew.org/wiki/Queen%27s_Blade:_Spiral_Chaos_PSP_-_English_Translation": {
    "a": {
@@ -2406,6 +4022,69 @@
    "upd": "2024-06-05T16:29:26Z",
    "ver": "2.1"
   },
+  "https://www.gamebrew.org/wiki/Retro_Game_Challenge_Undub": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/retrogamechallengeundub.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/3/34/Rgcundub2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rgcundub3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rgcundub4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rgcundub5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rgcundub6.png"
+   ],
+   "site": "https://www.romhacking.net/hacks/4700/",
+   "title": "Retro Game Challenge Undub",
+   "upd": "2024-08-21T05:13:24Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Rhythm_Heaven_Silver_GBA": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "fixes": true
+    },
+    "pct": 100
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/rhythmheavensilvergba.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/9/91/Rhythmheavensilvergba2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/rhythmheavensilvergba3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/rhythmheavensilvergba4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/rhythmheavensilvergba15.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/rhythmheavensilvergba6.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/rhythmheavensilvergba7.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/rhythmheavensilvergba8.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/rhythmheavensilvergba9.png"
+   ],
+   "site": "https://github.com/ShaffySwitcher/RhythmTengokuENPatch",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-05-10T06:01:11Z"
+  },
+  "https://www.gamebrew.org/wiki/Ripened_Tingles_Balloon_Trip_of_Love": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/tlbt_v1.1.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/6/6a/Tlbt2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tlbt3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tlbt4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tlbt5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tlbt6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tlbt7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tlbt8.png"
+   ],
+   "site": "https://tingletranslation.blogspot.com/p/faq.html",
+   "title": "Ripened Tingles Balloon Trip of Love",
+   "upd": "2024-08-21T07:07:04Z",
+   "ver": "1.1"
+  },
   "https://www.gamebrew.org/wiki/RoboticsNotes_Elite_English_Translation_Vita": {
    "a": {
     "ex": {}
@@ -2415,6 +4094,49 @@
    "site": "https://www.reddit.com/r/VitaPiracy/comments/wgy7ov/release_roboticsnotes_elite_full_english/",
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2026-08-10T09:47:10Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Rockman_EXE_4.5_-_Real_Operation_GBA": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "fixes": true,
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/megamanbn45_englishtranslation_complete_v1_1a.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/c/c2/Megamanbn45english2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/megamanbn45english9.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/megamanbn45english3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/megamanbn45english4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/megamanbn45english5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/megamanbn45english6.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/megamanbn45english7.png"
+   ],
+   "site": "https://www.therockmanexezone.com/general/2019/10/26/mega-man-battle-network-4-5-real-operation-english-translation/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-23T10:50:02Z",
+   "ver": "1.1a"
+  },
+  "https://www.gamebrew.org/wiki/Rockman_EXE_Operate_Shooting_Star_Translation_Project": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/rockman_exe_oss_translation.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/7/7c/Rockmanexeosstranslation2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rockmanexeosstranslation2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rockmanexeosstranslation3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rockmanexeosstranslation4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rockmanexeosstranslation5.png"
+   ],
+   "site": "https://forums.therockmanexezone.com/rockman-exe-operate-shooting-star-translation-proj-t4427.html",
+   "title": "Rockman EXE Operate Shooting Star Translation Project",
+   "upd": "2024-08-21T05:15:02Z",
    "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Rodem_The_Wild_English_Patch_Vita": {
@@ -2432,6 +4154,26 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:34:47Z",
    "ver": "2021"
+  },
+  "https://www.gamebrew.org/wiki/Rosario_and_Vampire_DS_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/jjjewel_rosario_20150515.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/8/8b/Rosariovampiredseng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rosariovampiredseng3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rosariovampiredseng4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rosariovampiredseng5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rosariovampiredseng6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rosariovampiredseng7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/rosariovampiredseng8.png"
+   ],
+   "site": "https://sites.google.com/site/otomeundercover/non-otome-projects/rosario-vampire-ds",
+   "title": "Rosario and Vampire DS English Translation",
+   "upd": "2024-08-21T05:15:35Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/SD_Gundam_G_Generation_Overworld_Translation_PSP": {
    "a": {
@@ -2453,6 +4195,55 @@
    "upd": "2024-05-08T10:33:49Z",
    "ver": "1.1HQ"
   },
+  "https://www.gamebrew.org/wiki/SaGa_2_-_Legend_of_the_Relics_-_Goddess_of_Destiny": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/saga.2_hihou.densetsu_goddess.of.destiny_v2.12_english.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/a/a8/Saga2hihoudensetsu3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/saga2hihoudensetsu7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/saga2hihoudensetsu4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/saga2hihoudensetsu5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/saga2hihoudensetsu6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/1610/",
+   "title": "SaGa 2 - Legend of the Relics - Goddess of Destiny",
+   "upd": "2024-08-21T05:18:44Z",
+   "ver": "2.12"
+  },
+  "https://www.gamebrew.org/wiki/SaGa_3_-_Rulers_of_Time_and_Space_-_Shadow_or_Light": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/saga3eng_beta_2.0.830.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/d/dd/Saga3patch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/saga3patch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/saga3patch4.png"
+   ],
+   "site": "https://gbatemp.net/threads/saga-3-translation.294491",
+   "title": "SaGa 3 - Rulers of Time and Space - Shadow or Light",
+   "upd": "2024-08-21T05:18:58Z",
+   "ver": "0.2.612"
+  },
+  "https://www.gamebrew.org/wiki/SaGa_Scarlet_Grace_-_Ambitions_Undub_Switch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/switchhomebrews/sagascarletgraceambitionsundubnx.7z",
+   "site": "https://gbatemp.net/threads/saga-scarlet-grace-ambitions-undub.584683/",
+   "title": "SaGa Scarlet Grace - Ambitions Undub Switch",
+   "upd": "2023-07-02T10:07:11Z",
+   "ver": "2021"
+  },
   "https://www.gamebrew.org/wiki/Saga_Scarlet_Grace_English_Vita": {
    "a": {
     "ex": {}
@@ -2473,6 +4264,26 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:34:15Z",
    "ver": "0.4"
+  },
+  "https://www.gamebrew.org/wiki/Sailor_Moon_-_La_Luna_Splende": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/sailor_moon_the_shining_moon.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/b/b6/Sailormoontheshiningmoon2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/sailormoontheshiningmoon3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/sailormoontheshiningmoon8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/sailormoontheshiningmoon7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/sailormoontheshiningmoon4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/sailormoontheshiningmoon5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/sailormoontheshiningmoon6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/6146/",
+   "title": "Sailor Moon - La Luna Splende",
+   "upd": "2024-08-21T05:19:04Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Sakurasou_no_Pet_na_Kanojo_PSP_-_English_Translation": {
    "a": {
@@ -2526,6 +4337,46 @@
    "site": "https://vc3translationproject.wordpress.com/patch-and-instructions/",
    "title": "Senjou no Valkyria 3 - Extra Edition Translation PSP",
    "upd": "2024-06-21T03:35:19Z"
+  },
+  "https://www.gamebrew.org/wiki/Shin-chan_Adventures_in_Cinemaland_GBA": {
+   "a": {
+    "cov": "Complete",
+    "ex": {},
+    "pct": 100
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/cinemalandpatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/f/f8/Cinemalandpatch2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/cinemalandpatch3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/cinemalandpatch4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/cinemalandpatch5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/cinemalandpatch6.png"
+   ],
+   "site": "https://github.com/LeonarthCG/Shin-chan-Translation",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-05-10T06:00:04Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Shin_Bokura_no_Taiyou_-_Gyakushuu_no_Sabata_GBA": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/shinbok_e_0.7b.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/e/eb/Shinbokpatch2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/shinbokpatch3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/shinbokpatch4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/shinbokpatch5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/shinbokpatch6.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/shinbokpatch7.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/shinbokpatch8.png"
+   ],
+   "site": "https://www.romhacking.net/translations/1331/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-06-23T11:17:26Z",
+   "ver": "0.7 Beta"
   },
   "https://www.gamebrew.org/wiki/Shining_Blade_PSP_-_English_Translation": {
    "a": {
@@ -2606,6 +4457,24 @@
    "upd": "2024-06-05T15:50:36Z",
    "ver": "0.9"
   },
+  "https://www.gamebrew.org/wiki/Soma_Bringer_Open_Translation": {
+   "a": {
+    "cov": "Partial",
+    "ex": {},
+    "pct": 98
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/somapatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/3/3f/Somapatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/somapatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/somapatch3.png"
+   ],
+   "site": "https://gbatemp.net/threads/soma-bringer-open-translation.78947",
+   "title": "Soma Bringer Open Translation",
+   "upd": "2024-08-16T11:11:27Z",
+   "ver": "2009.02.02"
+  },
   "https://www.gamebrew.org/wiki/Sora_no_Woto_-_Otome_no_Gojuusou_Translation_PSP": {
    "a": {
     "cov": "Complete",
@@ -2644,6 +4513,89 @@
    "site": "https://agtteam.tumblr.com/post/681343377005068288/soul-eater-battle-resonance-english-patch",
    "title": "Soul Eater - Battle Resonance PSP",
    "upd": "2024-06-19T06:36:12Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Soul_Eater_-_Medusa_no_Inbou": {
+   "a": {
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/medusapatch1.2.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/c/c7/Medusapatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/medusapatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/medusapatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/medusapatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/medusapatch6.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-soul-eater-medusa-no-inbou-english-patch.547362/",
+   "title": "Soul Eater - Medusa no Inbou",
+   "upd": "2024-08-21T01:39:16Z",
+   "ver": "1.2"
+  },
+  "https://www.gamebrew.org/wiki/Soul_Eater_-_Monotone_Princess_English_Translation_Wii": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/souleatermonotonewiien.7z?k33p0fil35",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/souleatermonotonewiien3.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/souleatermonotonewiien4.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/souleatermonotonewiien5.png",
+    "https://dlhb.gamebrew.org/wiihomebrews/souleatermonotonewiien6.png"
+   ],
+   "site": "https://agtteam.tumblr.com/post/666547893190148097/soul-eater-monotone-princess-english-patch",
+   "title": "Soul Eater - Monotone Princess English Translation Wii",
+   "upd": "2025-04-19T07:08:11Z",
+   "ver": "1.1"
+  },
+  "https://www.gamebrew.org/wiki/Spice_and_Wolf_-_My_Year_with_Holo_English_Patch": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "fixes": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/bokutoholopatch.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/d/d4/Bokutoholopatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/bokutoholopatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/bokutoholopatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/bokutoholopatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/bokutoholopatch6.png"
+   ],
+   "site": "https://agtteam.tumblr.com/post/643670722020032512/my-year-with-holo-patch-release",
+   "title": "Spice and Wolf - My Year with Holo English Patch",
+   "upd": "2024-08-20T11:42:41Z",
+   "ver": "1.1"
+  },
+  "https://www.gamebrew.org/wiki/Spice_and_Wolf_-_The_Wind_that_Spans_the_Sea_English_Translation": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/umiowatarupatch.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/4/47/Umiowatarupatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/umiowatarupatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/umiowatarupatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/umiowatarupatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/umiowatarupatch6.png"
+   ],
+   "site": "https://agtteam.tumblr.com/post/685785217862090752/spice-and-wolf-the-wind-that-spans-the",
+   "title": "Spice and Wolf - The Wind that Spans the Sea English Translation",
+   "upd": "2024-08-21T07:21:07Z",
    "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Spinning_Princess_3_English_Translation_Patch": {
@@ -2819,6 +4771,24 @@
    "upd": "2024-05-08T10:33:47Z",
    "ver": "1.0.2"
   },
+  "https://www.gamebrew.org/wiki/Summon_Night_X_Tears_Crown_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/summonx_e.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/4/41/Summonxen.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/summonxen2.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/summonxen3.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/summonxen4.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/summonxen5.png"
+   ],
+   "site": "https://gbatemp.net/threads/summon-night-x-tears-crown-translation.484998/",
+   "title": "Summon Night X Tears Crown Translation",
+   "upd": "2025-03-11T10:34:49Z",
+   "ver": "0.951"
+  },
   "https://www.gamebrew.org/wiki/Super_DanganRonpa_2:_Sayonara_Zetsubou_Gakuen_PSP_-_English_Translation": {
    "a": {
     "ex": {}
@@ -2879,6 +4849,43 @@
    "title": "Super Robot Taisen A Portable Translation PSP",
    "upd": "2024-06-21T03:04:33Z",
    "ver": "1.01"
+  },
+  "https://www.gamebrew.org/wiki/Super_Robot_Taisen_T_SEA_English_Premium_Anime_and_Sound_Edition_Patch_Switch": {
+   "a": {
+    "ex": {
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/switchhomebrews/superrobottaisentseamusicnx.7z",
+   "site": "https://gbatemp.net/threads/super-robot-taisen-t-sea-english-premium-anime-sound-edition-patch.550655/",
+   "title": "Super Robot Taisen T SEA English Premium Anime and Sound Edition Patch Switch",
+   "upd": "2023-08-04T13:49:38Z",
+   "ver": "1"
+  },
+  "https://www.gamebrew.org/wiki/Super_Robot_Taisen_V_SEA_English_Premium_Anime_and_Sound_Edition_Patch_Switch": {
+   "a": {
+    "ex": {
+     "restore": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/switchhomebrews/superrobottaisenvseamusicnx.7z",
+   "site": "https://gbatemp.net/threads/super-robot-taisen-v-sea-english-premium-anime-sound-edition-patch.550654/",
+   "title": "Super Robot Taisen V SEA English Premium Anime and Sound Edition Patch Switch",
+   "upd": "2023-08-04T13:49:42Z",
+   "ver": "1"
+  },
+  "https://www.gamebrew.org/wiki/Super_Robot_Taisen_X_SEA_English_Premium_Anime_and_Sound_Edition_Patch_Switch": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/switchhomebrews/superrobottaisenxseamusicnx.7z",
+   "site": "https://gbatemp.net/threads/super-robot-taisen-x-sea-english-premium-anime-sound-edition-patch.584882/",
+   "title": "Super Robot Taisen X SEA English Premium Anime and Sound Edition Patch Switch",
+   "upd": "2023-08-04T13:49:27Z",
+   "ver": "1"
   },
   "https://www.gamebrew.org/wiki/Super_Robot_Wars_W": {
    "a": {
@@ -2962,6 +4969,25 @@
    "upd": "2025-04-19T12:53:05Z",
    "ver": "1.2"
   },
+  "https://www.gamebrew.org/wiki/Takt_Of_Magic_English_Translation_Wii": {
+   "a": {
+    "cov": "Complete",
+    "ex": {},
+    "pct": 100
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/taktofmagicwiien.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/taktofmagicwiien3.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/taktofmagicwiien4.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/taktofmagicwiien5.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/taktofmagicwiien6.jpg"
+   ],
+   "site": "https://gbatemp.net/threads/riivolution-patch-takt-of-magic-english-translation-for-wii.569603/",
+   "title": "Takt Of Magic English Translation Wii",
+   "upd": "2025-04-19T06:47:25Z",
+   "ver": "1.02"
+  },
   "https://www.gamebrew.org/wiki/Tales_Of_Innocence_R_English_Vita": {
    "a": {
     "cov": "Partial",
@@ -2994,6 +5020,48 @@
    "upd": "2024-01-31T01:42:24Z",
    "ver": "1.0"
   },
+  "https://www.gamebrew.org/wiki/Tales_of_Innocence_English_Localization": {
+   "a": {
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/toi_1.0.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/0/00/Toids.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/toids2.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/toids3.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/toids4.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/toids5.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/toids6.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/toids7.png"
+   ],
+   "site": "https://gbatemp.net/threads/tales-of-innocence-transl-absolute-zero-v1-0-patch-released.103913/",
+   "title": "Tales of Innocence English Localization",
+   "upd": "2025-03-11T10:33:32Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Tales_of_Keroro_DS_-_English_Translation": {
+   "a": {
+    "cov": "Menus only",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/tales.of.keroro.ds.eng.patch_v0.5.5.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/5/52/Talesofkerorodsenglish.png",
+    "https://dlhb.gamebrew.org/dshomebrew/talesofkerorodsenglish-01.png",
+    "https://dlhb.gamebrew.org/dshomebrew/talesofkerorodsenglish-02.png",
+    "https://dlhb.gamebrew.org/dshomebrew/talesofkerorodsenglish-03.png",
+    "https://dlhb.gamebrew.org/dshomebrew/talesofkerorodsenglish-04.png",
+    "https://dlhb.gamebrew.org/dshomebrew/talesofkerorodsenglish-05.png"
+   ],
+   "site": "https://www.crystalmods.com/index.php/game_mods/tales-of-keroro-english-patch/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-08-21T06:29:59Z",
+   "ver": "0.5.5"
+  },
   "https://www.gamebrew.org/wiki/Tales_of_Rebirth_English_Menu_Patch_PSP": {
    "a": {
     "cov": "Menus only",
@@ -3015,6 +5083,25 @@
    "upd": "2024-06-21T00:48:52Z",
    "ver": "0.5"
   },
+  "https://www.gamebrew.org/wiki/Tales_of_the_Tempest": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/tott_1.0.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/a/ab/Tottpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tottpatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tottpatch4.png"
+   ],
+   "site": "https://www.romhacking.net/translations/1814/",
+   "title": "Tales of the Tempest",
+   "upd": "2024-09-08T10:59:35Z",
+   "ver": "1.0"
+  },
   "https://www.gamebrew.org/wiki/Tantei_Opera_Milky_Holmes_English_Patch_PSP": {
    "a": {
     "ex": {}
@@ -3032,6 +5119,60 @@
    "title": "Tantei Opera Milky Holmes English Patch PSP",
    "upd": "2024-05-08T10:34:08Z",
    "ver": "0.4"
+  },
+  "https://www.gamebrew.org/wiki/Tenchu_-_Dark_Secret_Undub_Patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/tenchu_dark.secret.e.u.undub.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/3/3f/Tenchudsundub2.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-tenchu-dark-secret-undub-patch.587109/",
+   "title": "Tenchu - Dark Secret Undub Patch",
+   "upd": "2024-08-21T06:33:25Z",
+   "ver": "2022"
+  },
+  "https://www.gamebrew.org/wiki/Tengen_Toppa_Gurren_Lagann": {
+   "a": {
+    "ex": {
+     "fixes": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/gurrenlagannpatch.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/f/f7/Gurrenlagannpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/gurrenlagannpatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/gurrenlagannpatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/gurrenlagannpatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/gurrenlagannpatch6.png"
+   ],
+   "site": "https://gbatemp.net/threads/release-gurren-lagann-english-patch.544148/",
+   "title": "Tengen Toppa Gurren Lagann",
+   "upd": "2024-08-20T13:11:35Z",
+   "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Tenipuri_Girls_be_Gracious_Open_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/girlsbegraciousenpatch.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/3/3c/Girlsbegraciousenpatch.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/girlsbegraciousenpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/girlsbegraciousenpatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/girlsbegraciousenpatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/girlsbegraciousenpatch5.png"
+   ],
+   "site": "https://gbatemp.net/threads/tenipuri-girls-be-gracious-translation-patch.349566/",
+   "title": "Tenipuri Girls be Gracious Open Translation",
+   "upd": "2025-03-11T10:37:06Z",
+   "ver": "3"
   },
   "https://www.gamebrew.org/wiki/The_Haunted_Zone_English_Translation_PSP": {
    "a": {
@@ -3084,6 +5225,25 @@
    "upd": "2026-01-04T04:15:19Z",
    "ver": "1.0.0"
   },
+  "https://www.gamebrew.org/wiki/Time_Travelers_3DS_-_English_Translation": {
+   "a": {
+    "cov": "Partial",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/3dshomebrews/TimeTravelers3DSEnglTrans.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/e/e4/TimeTravelers3DSEnglTrans.PNG",
+    "https://www.gamebrew.org/images/2/23/TimeTravelers3DSEnglTrans-TIPS.png",
+    "https://www.gamebrew.org/images/4/44/TimeTravelers3DSEnglTrans-Help.png",
+    "https://dlhb.gamebrew.org/3dshomebrews/images/TimeTravelers3DSEnglTrans-03.png",
+    "https://dlhb.gamebrew.org/3dshomebrews/images/TimeTravelers3DSEnglTrans-04.png"
+   ],
+   "site": "https://fantranslators.info/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2026-09-20T03:11:17Z",
+   "ver": "1.5"
+  },
   "https://www.gamebrew.org/wiki/To_Love_Ru_Darkness:_Battle_Ecstasy_Vita_-_English_Translation": {
    "a": {
     "ex": {},
@@ -3132,6 +5292,64 @@
    "upd": "2024-06-11T11:03:39Z",
    "ver": "03_12_19"
   },
+  "https://www.gamebrew.org/wiki/Tokimeki_Memorial_Girls_Side_1st_Love_Plus_English_Patch": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/tokimemogs1_finalpatch.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/a/a0/Tokimemogs1patch7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tokimemogs1patch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tokimemogs1patch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tokimemogs1patch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tokimemogs1patch6.png"
+   ],
+   "site": "https://sites.google.com/site/tokimemogs1",
+   "title": "Tokimeki Memorial Girls Side 1st Love Plus English Patch",
+   "upd": "2024-08-21T07:07:41Z"
+  },
+  "https://www.gamebrew.org/wiki/Tokimeki_Memorial_Girls_Side_2nd_Season": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/tokimeki.memorial.girls.side.2nd.season_v6.patch.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/1/19/Tsgm2patch7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm2patch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm2patch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm2patch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm2patch6.png"
+   ],
+   "site": "https://gokusaishiki.wordpress.com/tmgs2/",
+   "title": "Tokimeki Memorial Girls Side 2nd Season",
+   "upd": "2025-03-10T10:37:14Z",
+   "ver": "6"
+  },
+  "https://www.gamebrew.org/wiki/Tokimeki_Memorial_Girls_Side_3rd_Story": {
+   "a": {
+    "cov": "Partial",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/tsgm3patcher.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/b/bc/Tsgm3patcher11.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm3patcher3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm3patcher4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm3patcher5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm3patcher6.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm3patcher7.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm3patcher8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tsgm3patcher9.png"
+   ],
+   "site": "https://sites.google.com/site/otomeundercover/otome-projects/tmgs3-ds",
+   "title": "Tokimeki Memorial Girls Side 3rd Story",
+   "upd": "2024-08-16T11:12:11Z",
+   "ver": "2.00"
+  },
   "https://www.gamebrew.org/wiki/Tokimeki_Memorial_Girls_Side_Premium_3rd_Story_English_Patch_PSP": {
    "a": {
     "cov": "Complete",
@@ -3151,6 +5369,43 @@
    "title": "Tokimeki Memorial Girls Side Premium 3rd Story English Patch PSP",
    "upd": "2024-06-19T12:16:14Z",
    "ver": "1.0"
+  },
+  "https://www.gamebrew.org/wiki/Tomato_Adventure_GBA": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/gbahomebrews/tomatoadvenglish.7z",
+   "shots": [
+    "https://www.gamebrew.org/images/f/f1/Tomatoadvenglish2.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/tomatoadvenglish3.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/tomatoadvenglish4.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/tomatoadvenglish5.png",
+    "https://dlhb.gamebrew.org/gbahomebrews/tomatoadvenglish6.png"
+   ],
+   "site": "https://www.romhacking.net/translations/6181/",
+   "title": "(Translations) - GameBrew",
+   "upd": "2024-05-10T06:00:16Z",
+   "ver": "1.1.1"
+  },
+  "https://www.gamebrew.org/wiki/Tomodachi_Collection_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/tomodachicollectionrev080.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/9/93/Tomodachicollectionpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tomodachicollectionpatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tomodachicollectionpatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tomodachicollectionpatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/tomodachicollectionpatch6.png"
+   ],
+   "site": "https://gbatemp.net/threads/unfinished-tomodachi-collection-english-translation-patch.357438/",
+   "title": "Tomodachi Collection English Translation",
+   "upd": "2024-08-21T07:07:49Z",
+   "ver": "0.80"
   },
   "https://www.gamebrew.org/wiki/Toradora_Portable_English_Patch_PSP": {
    "a": {
@@ -3292,6 +5547,24 @@
    "upd": "2025-04-19T12:42:11Z",
    "ver": "0.97"
   },
+  "https://www.gamebrew.org/wiki/Vampire_Knight_DS_English_Patch": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/vampirepatch.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/c/cd/Vampirepatch8.png",
+    "https://dlhb.gamebrew.org/dshomebrew/vampirepatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew/vampirepatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew/vampirepatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew/vampirepatch6.png"
+   ],
+   "site": "https://agtteam.tumblr.com/post/669742098328715264/vampire-knight-ds-english-patch-released",
+   "title": "Vampire Knight DS English Patch",
+   "upd": "2024-08-21T07:22:16Z",
+   "ver": "1.0"
+  },
   "https://www.gamebrew.org/wiki/Variable_Barricade_English_Patch_Vita": {
    "a": {
     "ex": {}
@@ -3329,6 +5602,43 @@
    "title": "Way of the Samurai Portable English Patch PSP",
    "upd": "2024-06-21T00:54:43Z",
    "ver": "0.02"
+  },
+  "https://www.gamebrew.org/wiki/Wizardry_Seimei_no_Kusabi": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/wizardry_seimei_no_kusabi_engpatch_30102015.rar",
+   "shots": [
+    "https://www.gamebrew.org/images/4/41/Wizardryengpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/wizardryengpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew/wizardryengpatch3.png"
+   ],
+   "site": "https://www.romhacking.net/translations/2679/",
+   "title": "Wizardry Seimei no Kusabi",
+   "upd": "2024-08-21T07:34:25Z",
+   "ver": "2015"
+  },
+  "https://www.gamebrew.org/wiki/Xenoblade_X_DE_Switch_-_Retranslation_and_Uncensor_Patch": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "retrans": true,
+     "uncensor": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/switchhomebrews/Xenoblade-X-DE-Unburger.zip",
+   "shots": [
+    "https://dlhb.gamebrew.org/switchhomebrews/images/XenobladeXDESwitchRetrans-01.png",
+    "https://dlhb.gamebrew.org/switchhomebrews/images/XenobladeXDESwitchRetrans-02.png",
+    "https://dlhb.gamebrew.org/switchhomebrews/images/XenobladeXDESwitchRetrans-03.png",
+    "https://dlhb.gamebrew.org/switchhomebrews/images/XenobladeXDESwitchRetrans-04.png"
+   ],
+   "site": "https://gbatemp.net/threads/xenoblade-x-de-retranslation-uncensor-patch.668924/",
+   "title": "Switch Rom Hacks (Game Hacks) - GameBrew",
+   "upd": "2025-10-05T03:01:42Z",
+   "ver": "0.0.16"
   },
   "https://www.gamebrew.org/wiki/YUNO_A_Girl_Who_Chants_Love_at_the_Bound_of_this_World_English_Patch_Vita": {
    "a": {
@@ -3442,6 +5752,24 @@
    "upd": "2024-07-11T11:18:36Z",
    "ver": "1.1"
   },
+  "https://www.gamebrew.org/wiki/Yu-Gi-Oh_Saikyo_Card_Battle_English_Translation_3DS": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/3dshomebrews/Yu-Gi-Oh_Saikyou_Card_Battle_En_2026.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/c/ce/Yugiohsaikyocardbattleenglish2.png",
+    "https://dlhb.gamebrew.org/3dshomebrews/yugiohsaikyocardbattleenglish-01.png",
+    "https://dlhb.gamebrew.org/3dshomebrews/yugiohsaikyocardbattleenglish-02.png",
+    "https://dlhb.gamebrew.org/3dshomebrews/yugiohsaikyocardbattleenglish-03.png",
+    "https://dlhb.gamebrew.org/3dshomebrews/yugiohsaikyocardbattleenglish-04.png"
+   ],
+   "site": "https://gbatemp.net/threads/yu-gi-oh-saikyou-card-battle-english-patch-2021.600522/post-10889735",
+   "title": "(Translations) - GameBrew",
+   "upd": "2026-08-02T09:37:50Z",
+   "ver": "2026"
+  },
   "https://www.gamebrew.org/wiki/Yuusha_30_Second_English_Translation_PSP": {
    "a": {
     "ex": {}
@@ -3460,6 +5788,28 @@
    "upd": "2024-06-21T03:57:04Z",
    "ver": "1.0.2"
   },
+  "https://www.gamebrew.org/wiki/Zangeki_No_Reginleiv_English_Translation_Wii": {
+   "a": {
+    "cov": "Menus only",
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/zangekinoreginleivwiien.7z",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/zangekinoreginleivwiien3.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/zangekinoreginleivwiien4.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/zangekinoreginleivwiien5.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/zangekinoreginleivwiien6.jpg"
+   ],
+   "site": "https://gbatemp.net/threads/riivolution-patch-zangeki-no-reginleiv-translation-for-wii.578575/",
+   "title": "Zangeki No Reginleiv English Translation Wii",
+   "upd": "2025-04-19T06:58:54Z",
+   "ver": "1.01"
+  },
   "https://www.gamebrew.org/wiki/Zanki_Zero_English_Patch_Vita": {
    "a": {
     "ex": {}
@@ -3470,6 +5820,24 @@
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
    "upd": "2025-04-19T12:40:16Z",
    "ver": "0.9"
+  },
+  "https://www.gamebrew.org/wiki/Zero_Tsukihami_no_Kamen_English_Translation_Wii": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/wiihomebrews/zerotsukihamiwiien.7z?k33p0fil35",
+   "shots": [
+    "https://dlhb.gamebrew.org/wiihomebrews/zerotsukihamiwiien3.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/zerotsukihamiwiien4.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/zerotsukihamiwiien5.jpg",
+    "https://dlhb.gamebrew.org/wiihomebrews/zerotsukihamiwiien6.jpg"
+   ],
+   "site": "http://web.archive.org/web/20160109163614/http://www.fatalframe4.net/",
+   "title": "Zero Tsukihami no Kamen English Translation Wii",
+   "upd": "2024-01-28T10:32:33Z",
+   "ver": "1.0"
   },
   "https://www.gamebrew.org/wiki/Zettai_Zetsumei_Toshi_3_Translation_Patch_PSP": {
    "a": {
@@ -3512,6 +5880,26 @@
    "upd": "2024-08-16T11:12:47Z",
    "ver": "1.03"
   },
+  "https://www.gamebrew.org/wiki/Zombie_Daisuki_English_Translation": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T19:23:22Z",
+   "dl": "https://dlhb.gamebrew.org/dshomebrew2/Zombi_Daisuki_V.0.6.zip",
+   "shots": [
+    "https://www.gamebrew.org/images/8/85/Zombidiisukienpatch.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/zombidiisukienpatch2.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/zombidiisukienpatch3.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/zombidiisukienpatch4.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/zombidiisukienpatch5.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/zombidiisukienpatch6.png",
+    "https://dlhb.gamebrew.org/dshomebrew2/images/zombidiisukienpatch7.png"
+   ],
+   "site": "https://gbatemp.net/threads/translation-zombie-daisuki.371760/",
+   "title": "Zombie Daisuki English Translation",
+   "upd": "2025-03-11T10:31:24Z",
+   "ver": "0.6"
+  },
   "https://www.romhacking.net/hacks/1386": {
    "checked": "2026-10-20T12:30:37Z",
    "http": 403
@@ -3522,6 +5910,18 @@
   },
   "https://www.romhacking.net/hacks/5676": {
    "checked": "2026-10-20T12:30:37Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/hacks/6127": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/hacks/6452": {
+   "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://www.romhacking.net/hacks/6461": {
+   "checked": "2026-10-20T19:23:22Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/1063": {

@@ -1,14 +1,888 @@
 {
  "archiveGameFiles": [
   "https://archive.org/details/bass-landing-2-english",
+  "https://archive.org/details/eboot_202609",
   "https://archive.org/details/mother-3-eft-1.3",
   "https://archive.org/details/streets-of-rage-3-bk-3-and-title-screen-retro-bit"
  ],
  "format": "patch-watch-discover",
- "generated": "2026-10-20T13:09:51Z",
+ "generated": "2026-10-20T19:23:22Z",
  "items": [
   {
-   "date": "2026-10-20T13:13:49Z",
+   "date": "2026-10-20T18:35:17Z",
+   "desc": "Japanese localization tools, dialogue mapping, and rendering fixes for SDLPAL using Sega Saturn resources. Based on PalMusicFan/sdlpal.",
+   "found": "2026-10-20T19:23:22Z",
+   "k": "othercat/sdlpal-jp",
+   "label": "Human translation",
+   "platform": "Saturn",
+   "src": "GitHub",
+   "stars": 0,
+   "title": "sdlpal jp",
+   "url": "https://github.com/othercat/sdlpal-jp"
+  },
+  {
+   "date": "2026-10-20T17:55:47Z",
+   "desc": "English fan translation patch for Yakuman DS (Nintendo DS), using Mahjong Soul terminology",
+   "found": "2026-10-20T19:23:22Z",
+   "k": "itsrevela/yakuman-ds-english",
+   "label": "Human translation",
+   "platform": "DS",
+   "src": "GitHub",
+   "stars": 0,
+   "title": "yakuman ds",
+   "url": "https://github.com/itsRevela/yakuman-ds-english"
+  },
+  {
+   "date": "2026-10-20T17:21:31Z",
+   "desc": "Desktop app that auto-detects a game's engine, extracts the text, translates it with local or cloud AI, and re-applies the patch. 20+ engines, 20+ AI providers, 11 UI languages. Free & source-available, single-player focused.",
+   "found": "2026-10-20T19:23:22Z",
+   "k": "rouges78/gamestringer",
+   "label": "Machine translation",
+   "src": "GitHub",
+   "stars": 128,
+   "title": "Game Stringer",
+   "url": "https://github.com/rouges78/GameStringer"
+  },
+  {
+   "date": "2026-10-20T17:06:49Z",
+   "found": "2026-10-20T19:23:22Z",
+   "k": "scatterdbrain/pachipara-12-oumi-to-natsu-no-omoide-ps2-english-translation-patch",
+   "label": "Human translation",
+   "platform": "PS2",
+   "src": "GitHub",
+   "stars": 1,
+   "title": "Pachi Para 12 Oumi to Natsu no Omoide PS2",
+   "url": "https://github.com/ScatterdBrain/PachiPara-12-Oumi-to-Natsu-no-Omoide-PS2-English-Translation-Patch"
+  },
+  {
+   "date": "2026-10-20T15:19:21Z",
+   "desc": "English fan translation of Nobunaga no Yabou: Soutenroku with Power-Up Kit (PS2)",
+   "found": "2026-10-20T19:23:22Z",
+   "k": "damon-daemon/nobunaga-soutenroku-puk-english",
+   "label": "Human translation",
+   "platform": "PS2",
+   "src": "GitHub",
+   "stars": 0,
+   "title": "nobunaga soutenroku puk",
+   "url": "https://github.com/damon-daemon/nobunaga-soutenroku-puk-english"
+  },
+  {
+   "date": "2026-10-16T07:08:11Z",
+   "desc": "Japanese Movie Program - Lupin III: The Castle Of Cagliostro (1979) [English Translation]",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Japanese Movie Program - Lupin III: The Castle Of Cagliostro (1979) [English Translation]",
+   "url": "https://archive.org/details/jmp-lupin-iii-the-castle-of-cagliostro-t-eng"
+  },
+  {
+   "date": "2026-10-15T15:03:44Z",
+   "desc": "Wake Up O Nation Of Islam FULL English Translation FIXED COVER",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Wake Up O Nation Of Islam FULL English Translation FIXED COVER",
+   "url": "https://archive.org/details/wake-up-o-nation-of-islam-full-english-translation-fixed-cover"
+  },
+  {
+   "date": "2026-10-13T03:59:45Z",
+   "desc": "Silent Hill - Chapter Two (2006, Java J2ME) English Translation Patch",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Silent Hill - Chapter Two (2006, Java J2ME) English Translation Patch",
+   "url": "https://archive.org/details/silent-hill-mobile-dx-chapter-2-english"
+  },
+  {
+   "date": "2026-09-29T18:48:55Z",
+   "desc": "Speculum Historiale (The Mirror of History) - Vincent of Beauvais, Douai 1624 - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Speculum Historiale (The Mirror of History) - Vincent of Beauvais, Douai 1624 - English Translation",
+   "url": "https://archive.org/details/speculum-historiale-vincent-beauvais-1624-english"
+  },
+  {
+   "date": "2026-09-29T15:53:04Z",
+   "desc": "Speculum Naturale (The Mirror of Nature) - Vincent of Beauvais, Douai 1624 - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Speculum Naturale (The Mirror of Nature) - Vincent of Beauvais, Douai 1624 - English Translation",
+   "url": "https://archive.org/details/speculum-naturale-vincent-beauvais-1624-english"
+  },
+  {
+   "date": "2026-09-29T15:00:49Z",
+   "desc": "Speculum Doctrinale (The Mirror of Doctrine) - Vincent of Beauvais, Douai 1624 - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Speculum Doctrinale (The Mirror of Doctrine) - Vincent of Beauvais, Douai 1624 - English Translation",
+   "url": "https://archive.org/details/speculum-doctrinale-vincent-beauvais-1624-english"
+  },
+  {
+   "date": "2026-09-29T14:34:06Z",
+   "desc": "Speculum Morale (The Mirror of Morals) - attributed to Vincent of Beauvais, Douai 1624 - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Speculum Morale (The Mirror of Morals) - attributed to Vincent of Beauvais, Douai 1624 - English Translation",
+   "url": "https://archive.org/details/speculum-morale-vincent-beauvais-1624-english"
+  },
+  {
+   "date": "2026-09-23T08:12:43Z",
+   "desc": "Written Response from Election Commission (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Election Commission (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal036"
+  },
+  {
+   "date": "2026-09-22T04:48:35Z",
+   "desc": "Verdict (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Verdict (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal045"
+  },
+  {
+   "date": "2026-09-22T03:43:05Z",
+   "desc": "Written Response from Ministry of Law, Justice & Parliamentary Affairs (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Ministry of Law, Justice & Parliamentary Affairs (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal042"
+  },
+  {
+   "date": "2026-09-22T03:35:22Z",
+   "desc": "Written Response from National Human Rights Commission (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from National Human Rights Commission (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal043"
+  },
+  {
+   "date": "2026-09-22T03:33:35Z",
+   "desc": "Written Response from Tribhuvan University (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Tribhuvan University (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal044"
+  },
+  {
+   "date": "2026-09-21T19:04:38Z",
+   "desc": "Written Response from Ministry of Home Affairs (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Ministry of Home Affairs (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal041"
+  },
+  {
+   "date": "2026-09-21T18:55:28Z",
+   "desc": "Written Response from Ministry of Education, Science & Technology (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Ministry of Education, Science & Technology (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal040"
+  },
+  {
+   "date": "2026-09-21T18:13:05Z",
+   "desc": "Written Response from Lalitpur Metropolitan City (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Lalitpur Metropolitan City (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal039"
+  },
+  {
+   "date": "2026-09-21T17:59:43Z",
+   "desc": "Written Response from Eden Garden Boarding Secondary School (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Eden Garden Boarding Secondary School (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal037"
+  },
+  {
+   "date": "2026-09-21T17:32:01Z",
+   "desc": "Written Response from Council of Ministers (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Council of Ministers (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal038"
+  },
+  {
+   "date": "2026-09-21T17:12:52Z",
+   "desc": "Written Response from Department of National ID & Civil Registration (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Department of National ID & Civil Registration (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal035"
+  },
+  {
+   "date": "2026-09-21T16:44:58Z",
+   "desc": "Written Response from Education Development and Coordination Unit Lalitpur (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from Education Development and Coordination Unit Lalitpur (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal034"
+  },
+  {
+   "date": "2026-09-21T16:38:06Z",
+   "desc": "Writ Petition (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Writ Petition (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal031"
+  },
+  {
+   "date": "2026-09-21T16:30:05Z",
+   "desc": "Written Response from District Administration Office Lalitpur (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Written Response from District Administration Office Lalitpur (English Translation)",
+   "url": "https://archive.org/details/kapalivnepal033"
+  },
+  {
+   "date": "2026-09-21T12:03:01Z",
+   "desc": "Man and God (Mensch und Gott) — Houston Stewart Chamberlain — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Man and God (Mensch und Gott) — Houston Stewart Chamberlain — English translation",
+   "url": "https://archive.org/details/chamberlain-houston-stewart-man-and-god-english-2026"
+  },
+  {
+   "date": "2026-09-20T22:39:15Z",
+   "desc": "De Eloquentia Sacra et Humana (On Sacred and Human Eloquence) — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "De Eloquentia Sacra et Humana (On Sacred and Human Eloquence) — English translation",
+   "url": "https://archive.org/details/caussin-de-eloquentia-sacra-et-humana-english"
+  },
+  {
+   "date": "2026-09-20T08:23:42Z",
+   "desc": "Annales Cistercienses (The Cistercian Annals), Tomus III — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Annales Cistercienses (The Cistercian Annals), Tomus III — English translation",
+   "url": "https://archive.org/details/annales-cistercienses-manrique-tomus-3-english"
+  },
+  {
+   "date": "2026-09-20T08:04:19Z",
+   "desc": "Annales Cistercienses (The Cistercian Annals), Tomus IV — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Annales Cistercienses (The Cistercian Annals), Tomus IV — English translation",
+   "url": "https://archive.org/details/annales-cistercienses-manrique-tomus-4-english"
+  },
+  {
+   "date": "2026-09-20T07:49:36Z",
+   "desc": "Baluze, Miscellanea (Mansi edition), Tomus I — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Baluze, Miscellanea (Mansi edition), Tomus I — English translation",
+   "url": "https://archive.org/details/baluze-miscellanea-mansi-tomus-1-english"
+  },
+  {
+   "date": "2026-09-20T07:03:53Z",
+   "desc": "Ven. Caesaris Baronii Epistulae et Opuscula, Tomus III — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Ven. Caesaris Baronii Epistulae et Opuscula, Tomus III — English translation",
+   "url": "https://archive.org/details/baronii-epistulae-opuscula-tomus-3-english"
+  },
+  {
+   "date": "2026-09-20T04:55:24Z",
+   "desc": "Melchior Cano, De Locis Theologicis (On the Sources of Theology), 1563 — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Melchior Cano, De Locis Theologicis (On the Sources of Theology), 1563 — English translation",
+   "url": "https://archive.org/details/cano-de-locis-theologicis-1563-english"
+  },
+  {
+   "date": "2026-09-20T04:36:27Z",
+   "desc": "Ven. Caesaris Baronii Epistulae et Opuscula, Tomus II — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Ven. Caesaris Baronii Epistulae et Opuscula, Tomus II — English translation",
+   "url": "https://archive.org/details/baronii-epistulae-opuscula-tomus-2-english"
+  },
+  {
+   "date": "2026-09-20T04:29:21Z",
+   "desc": "Baluze, Miscellanea (Mansi edition), Tomus III — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Baluze, Miscellanea (Mansi edition), Tomus III — English translation",
+   "url": "https://archive.org/details/baluze-miscellanea-mansi-tomus-3-english"
+  },
+  {
+   "date": "2026-09-20T03:52:57Z",
+   "desc": "Ven. Caesaris Baronii Epistulae et Opuscula, Tomus I — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Ven. Caesaris Baronii Epistulae et Opuscula, Tomus I — English translation",
+   "url": "https://archive.org/details/baronii-epistulae-opuscula-tomus-1-english"
+  },
+  {
+   "date": "2026-09-20T03:14:06Z",
+   "desc": "Baluze, Miscellanea (Mansi edition), Tomus IV — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Baluze, Miscellanea (Mansi edition), Tomus IV — English translation",
+   "url": "https://archive.org/details/baluze-miscellanea-mansi-tomus-4-english"
+  },
+  {
+   "date": "2026-09-20T03:05:51Z",
+   "desc": "Purpura Sancta seu Vita Caesaris Baronii (Life of Cardinal Cesare Baronio), 1651 — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "platform": "PS Vita",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Purpura Sancta seu Vita Caesaris Baronii (Life of Cardinal Cesare Baronio), 1651 — English translation",
+   "url": "https://archive.org/details/purpura-sancta-vita-caesaris-baronii-english"
+  },
+  {
+   "date": "2026-09-20T02:59:54Z",
+   "desc": "Baluze, Miscellanea (Mansi edition), Tomus II — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Baluze, Miscellanea (Mansi edition), Tomus II — English translation",
+   "url": "https://archive.org/details/baluze-miscellanea-mansi-tomus-2-english"
+  },
+  {
+   "date": "2026-09-20T02:39:42Z",
+   "desc": "Annales Cistercienses (The Cistercian Annals), Tomus II — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Annales Cistercienses (The Cistercian Annals), Tomus II — English translation",
+   "url": "https://archive.org/details/annales-cistercienses-manrique-tomus-2-english"
+  },
+  {
+   "date": "2026-09-20T00:27:35Z",
+   "desc": "Annales Cistercienses (The Cistercian Annals), Tomus I — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Annales Cistercienses (The Cistercian Annals), Tomus I — English translation",
+   "url": "https://archive.org/details/annales-cistercienses-manrique-tomus-1-english"
+  },
+  {
+   "date": "2026-09-17T15:23:24Z",
+   "desc": "Mashariq Anwar Yaqeen English Translation FREE",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Mashariq Anwar Yaqeen English Translation FREE",
+   "url": "https://archive.org/details/mashariq-anwar-yaqeen"
+  },
+  {
+   "date": "2026-09-17T15:07:27Z",
+   "desc": "A Bhikkhu's Comprehensive Handbook (Pāḷi with Chinese & English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "A Bhikkhu's Comprehensive Handbook (Pāḷi with Chinese & English Translation)",
+   "url": "https://archive.org/details/bhikkhu-comprehensive-handbook-galduwa-2011"
+  },
+  {
+   "date": "2026-09-16T12:28:24Z",
+   "desc": "Anglo Marathi Translation Series Part 2 By Dwarkanath Raghoba Tarkhadkar Marathi And English Translation Missing Pages Bombay 1907 Nirnaya Sagar Press",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Anglo Marathi Translation Series Part 2 By Dwarkanath Raghoba Tarkhadkar Marathi And English Translation Missing Pages Bombay 1907 Nirnaya Sagar Press",
+   "url": "https://archive.org/details/kktr-anglo-marathi-translation-series-part-2-by-dwarkan"
+  },
+  {
+   "date": "2026-09-16T06:51:16Z",
+   "desc": "Annales Ordinis Sancti Benedicti, Tomus V (Paris, 1713) — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Annales Ordinis Sancti Benedicti, Tomus V (Paris, 1713) — English translation",
+   "url": "https://archive.org/details/annales-osb-mabillon-tomus-5-english"
+  },
+  {
+   "date": "2026-09-15T20:04:11Z",
+   "desc": "Silent Hill - Chapter One (2006, Java J2ME) English Translation Patch",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Silent Hill - Chapter One (2006, Java J2ME) English Translation Patch",
+   "url": "https://archive.org/details/silent-hill-mobile-dx-chapter-1-english"
+  },
+  {
+   "date": "2026-09-15T13:22:05Z",
+   "desc": "Annales Ordinis Sancti Benedicti, Tomus II (Paris, 1704) — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Annales Ordinis Sancti Benedicti, Tomus II (Paris, 1704) — English translation",
+   "url": "https://archive.org/details/annales-osb-mabillon-tomus-2-english"
+  },
+  {
+   "date": "2026-09-15T13:13:33Z",
+   "desc": "Annales Ordinis Sancti Benedicti, Tomus III (Paris, 1706) — English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Annales Ordinis Sancti Benedicti, Tomus III (Paris, 1706) — English translation",
+   "url": "https://archive.org/details/annales-osb-mabillon-tomus-3-english"
+  },
+  {
+   "date": "2026-09-14T14:12:05Z",
+   "desc": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1988, Arcade) English Translation Patch",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "platform": "NES",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1988, Arcade) English Translation Patch",
+   "url": "https://archive.org/details/mqj-c0"
+  },
+  {
+   "date": "2026-09-14T13:53:41Z",
+   "desc": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1990, NES / Famicom) English Translation Patch",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "platform": "NES",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1990, NES / Famicom) English Translation Patch",
+   "url": "https://archive.org/details/labyrinth-island-famicom-english"
+  },
+  {
+   "date": "2026-09-14T12:29:41Z",
+   "desc": "Sri Malinivijayottara Tantra English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Sri Malinivijayottara Tantra English Translation",
+   "url": "https://archive.org/details/malinivijaya-a-5-final"
+  },
+  {
+   "date": "2026-09-14T06:21:16Z",
+   "desc": "KIEV-4 (START 7229) Soviet radio kit manual, 1990, with English translation / Радиоприёмник \"КИЕВ-4\", Старт 7229, инструкция по сборке и регулировке",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "KIEV-4 (START 7229) Soviet radio kit manual, 1990, with English translation / Радиоприёмник \"КИЕВ-4\", Старт 7229, инструкция по сборке и регулировке",
+   "url": "https://archive.org/details/kiev-4-start-7229-radio-kit-1990"
+  },
+  {
+   "date": "2026-09-13T19:52:05Z",
+   "desc": "GOG AND MAGOG IN THE QUR'AN AND HADITH by Sheikh Imran Hosein | English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "GOG AND MAGOG IN THE QUR'AN AND HADITH by Sheikh Imran Hosein | English translation",
+   "url": "https://archive.org/details/gog-and-magog-in-the-qur-an-and-hadith-by-sheikh-imran-hosein_202609"
+  },
+  {
+   "date": "2026-09-13T11:16:53Z",
+   "desc": "[PC-9801] Eve Burst Error - English Patch",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "[PC-9801] Eve Burst Error - English Patch",
+   "url": "https://archive.org/details/eve-burst-error-pc98-en"
+  },
+  {
+   "date": "2026-09-13T10:17:56Z",
+   "desc": "Vetera monumenta Poloniae et Lithuaniae. Volume II (John XXIII - Pius V, 1410-1572). English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Vetera monumenta Poloniae et Lithuaniae. Volume II (John XXIII - Pius V, 1410-1572). English translation",
+   "url": "https://archive.org/details/vetera-monumenta-poloniae-lithuaniae-theiner-vol2-english"
+  },
+  {
+   "date": "2026-09-13T10:03:12Z",
+   "desc": "Vetera monumenta Poloniae et Lithuaniae. Volume IV (Innocent XII - Pius VI, 1697-1775). English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Vetera monumenta Poloniae et Lithuaniae. Volume IV (Innocent XII - Pius VI, 1697-1775). English translation",
+   "url": "https://archive.org/details/vetera-monumenta-poloniae-lithuaniae-theiner-vol4-english"
+  },
+  {
+   "date": "2026-09-13T09:58:45Z",
+   "desc": "Vetera monumenta Poloniae et Lithuaniae. Volume I (Honorius III - Gregory XII, 1217-1409). English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Vetera monumenta Poloniae et Lithuaniae. Volume I (Honorius III - Gregory XII, 1217-1409). English translation",
+   "url": "https://archive.org/details/vetera-monumenta-poloniae-lithuaniae-theiner-vol1-english"
+  },
+  {
+   "date": "2026-09-13T09:20:16Z",
+   "desc": "Vetera monumenta Poloniae et Lithuaniae. Volume III (Sixtus V - Innocent XII, 1585-1696). English translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Vetera monumenta Poloniae et Lithuaniae. Volume III (Sixtus V - Innocent XII, 1585-1696). English translation",
+   "url": "https://archive.org/details/vetera-monumenta-poloniae-lithuaniae-theiner-vol3-english"
+  },
+  {
+   "date": "2026-09-12T20:51:04Z",
+   "desc": "Japansese Movie Program - They Live (1988) [English Translation]",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Japansese Movie Program - They Live (1988) [English Translation]",
+   "url": "https://archive.org/details/jmp-they-live-t-eng"
+  },
+  {
+   "date": "2026-09-12T16:18:50Z",
+   "desc": "Dioszegi The Belief World Of The Pagan Hungarians Scholarly English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Dioszegi The Belief World Of The Pagan Hungarians Scholarly English Translation",
+   "url": "https://archive.org/details/dioszegi-the-belief-world-of-the-pagan-hungarians-scholarly-english-translation"
+  },
+  {
+   "date": "2026-09-12T15:24:14Z",
+   "desc": "Ipolyi Magyar Mythologia Complete Scholarly English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Ipolyi Magyar Mythologia Complete Scholarly English Translation",
+   "url": "https://archive.org/details/ipolyi-magyar-mythologia-complete-scholarly-english-translation-final_202609"
+  },
+  {
+   "date": "2026-09-12T14:21:19Z",
+   "desc": "Ipolyi Magyar Mythologia Complete Scholarly English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Ipolyi Magyar Mythologia Complete Scholarly English Translation",
+   "url": "https://archive.org/details/ipolyi-magyar-mythologia-complete-scholarly-english-translation-final"
+  },
+  {
+   "date": "2026-09-12T00:37:12Z",
+   "desc": "Avicenna, The Healing, Logic Isagoge A New Edition, English Translation And Commentary Of The Kitāb Al Madḫal Of Avicenna’s",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Avicenna, The Healing, Logic Isagoge A New Edition, English Translation And Commentary Of The Kitāb Al Madḫal Of Avicenna’s",
+   "url": "https://archive.org/details/avicenna-the-healing-logic-isagoge-a-new-edition-english-translation-and-comment"
+  },
+  {
+   "date": "2026-09-10T20:38:23Z",
+   "desc": "Holy Quran English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Holy Quran English Translation",
+   "url": "https://archive.org/details/english-quran-pdf"
+  },
+  {
+   "date": "2026-09-10T07:41:39Z",
+   "desc": "Enchiridion Historiae Ecclesiasticae Universae, Vol. I (1909): The First Age --- Christian Antiquity (AD 1--692) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Enchiridion Historiae Ecclesiasticae Universae, Vol. I (1909): The First Age --- Christian Antiquity (AD 1--692) - English Translation",
+   "url": "https://archive.org/details/albers-enchiridion-historiae-ecclesiasticae-vol1-english"
+  },
+  {
+   "date": "2026-09-10T04:33:33Z",
+   "desc": "Donkey Kong 3: The Great Counterattack (1984, Sharp X1) English Translation Patch",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Donkey Kong 3: The Great Counterattack (1984, Sharp X1) English Translation Patch",
+   "url": "https://archive.org/details/donkey-kong-3-the-great-counterattack-english-sharp-x-1"
+  },
+  {
+   "date": "2026-09-10T04:29:04Z",
+   "desc": "Donkey Kong 3: The Great Counterattack (1984, PC-88) English Translation Patch",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Donkey Kong 3: The Great Counterattack (1984, PC-88) English Translation Patch",
+   "url": "https://archive.org/details/donkey-kong-3-the-great-counterattack-english-pc-88-mame"
+  },
+  {
+   "date": "2026-09-09T21:59:06Z",
+   "desc": "Final Fantasy IV - V Jump - One-Shot Manga - Ken Noguchi - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Final Fantasy IV - V Jump - One-Shot Manga - Ken Noguchi - English Translation",
+   "url": "https://archive.org/details/final-fantasy-iv-manga"
+  },
+  {
+   "date": "2026-09-09T20:42:24Z",
+   "desc": "box (or b*x or ha*co) RPGMaker by nununu (English Translation by MemoriesOfFear",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "box (or b*x or ha*co) RPGMaker by nununu (English Translation by MemoriesOfFear",
+   "url": "https://archive.org/details/box_english"
+  },
+  {
+   "date": "2026-09-09T20:27:47Z",
+   "desc": "Enchiridion Historiae Ecclesiasticae Universae, Vol. II (1910): The Second Age --- The Middle Ages (692--1517) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Enchiridion Historiae Ecclesiasticae Universae, Vol. II (1910): The Second Age --- The Middle Ages (692--1517) - English Translation",
+   "url": "https://archive.org/details/albers-enchiridion-historiae-ecclesiasticae-vol2-english"
+  },
+  {
+   "date": "2026-09-09T14:52:21Z",
+   "desc": "The Wizard and the Princess (1983, PC-88) English Translation Patch",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "The Wizard and the Princess (1983, PC-88) English Translation Patch",
+   "url": "https://archive.org/details/the-wizard-and-the-princess-pc-88-disk-2-english"
+  },
+  {
+   "date": "2026-09-09T14:49:05Z",
+   "desc": "The Wizard and the Princess (1983, FM-7) English Translation Patch",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "The Wizard and the Princess (1983, FM-7) English Translation Patch",
+   "url": "https://archive.org/details/the-wizard-and-the-princess-fm-7-floppy-english"
+  },
+  {
+   "date": "2026-09-09T13:09:13Z",
+   "desc": "1st Issue La Solidaridad Spanish And English Translation Feb 15 1889",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "1st Issue La Solidaridad Spanish And English Translation Feb 15 1889",
+   "url": "https://archive.org/details/1st-issue-la-solidaridad-spanish-and-english-translation-feb-15-1889"
+  },
+  {
+   "date": "2026-09-09T11:30:56Z",
+   "desc": "TURBO FANZINE ENGLISH TRANSLATION",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "TURBO FANZINE ENGLISH TRANSLATION",
+   "url": "https://archive.org/details/turbo-fanzine-english-translation"
+  },
+  {
+   "date": "2026-09-09T10:46:32Z",
+   "desc": "Bullarium Franciscanum - (Rome 1761 edition) (1761) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Bullarium Franciscanum - (Rome 1761 edition) (1761) - English Translation",
+   "url": "https://archive.org/details/bullarium-franciscanum-1761-english"
+  },
+  {
+   "date": "2026-09-09T10:44:25Z",
+   "desc": "Bullarium Franciscanum - Tomus V (1798) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Bullarium Franciscanum - Tomus V (1798) - English Translation",
+   "url": "https://archive.org/details/bullarium-franciscanum-tomus-05-1798-english"
+  },
+  {
+   "date": "2026-09-09T10:43:39Z",
+   "desc": "Bullarium Franciscanum - Tomus II (1759) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Bullarium Franciscanum - Tomus II (1759) - English Translation",
+   "url": "https://archive.org/details/bullarium-franciscanum-tomus-02-1759-english"
+  },
+  {
+   "date": "2026-09-09T09:52:52Z",
+   "desc": "Bullarium Franciscanum - Tomus III (1765) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Bullarium Franciscanum - Tomus III (1765) - English Translation",
+   "url": "https://archive.org/details/bullarium-franciscanum-tomus-03-1765-english"
+  },
+  {
+   "date": "2026-09-08T20:10:01Z",
+   "desc": "Adolf Eichmann: The Argentina Interview (English Translation)",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Adolf Eichmann: The Argentina Interview (English Translation)",
+   "url": "https://archive.org/details/adolf-eichmann-argentina-interview-1957-ocr-en"
+  },
+  {
+   "date": "2026-09-08T20:02:53Z",
+   "desc": "Bullarium Ordinis Capuccinorum - Tomus VII (1752) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Bullarium Ordinis Capuccinorum - Tomus VII (1752) - English Translation",
+   "url": "https://archive.org/details/bullarium-capuccinorum-tomus-07-1752-english"
+  },
+  {
+   "date": "2026-09-08T19:13:24Z",
+   "desc": "Bullarium Ordinis Capuccinorum - Tomus VI (1750) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Bullarium Ordinis Capuccinorum - Tomus VI (1750) - English Translation",
+   "url": "https://archive.org/details/bullarium-capuccinorum-tomus-06-1750-english"
+  },
+  {
+   "date": "2026-09-08T18:30:11Z",
+   "desc": "Bullarium Ordinis Capuccinorum - Tomus V (1748) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Bullarium Ordinis Capuccinorum - Tomus V (1748) - English Translation",
+   "url": "https://archive.org/details/bullarium-capuccinorum-tomus-05-1748-english"
+  },
+  {
+   "date": "2026-09-08T17:22:36Z",
+   "desc": "Bullarium Ordinis Capuccinorum - Tomus IV (1746) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Bullarium Ordinis Capuccinorum - Tomus IV (1746) - English Translation",
+   "url": "https://archive.org/details/bullarium-capuccinorum-tomus-04-1746-english"
+  },
+  {
+   "date": "2026-09-08T17:04:03Z",
+   "desc": "Bullarium Ordinis Capuccinorum - Tomus III (1745) - English Translation",
+   "found": "2026-10-20T19:23:22Z",
+   "label": "Human translation",
+   "rom": false,
+   "src": "Internet Archive",
+   "title": "Bullarium Ordinis Capuccinorum - Tomus III (1745) - English Translation",
+   "url": "https://archive.org/details/bullarium-capuccinorum-tomus-03-1745-english"
+  },
+  {
+   "date": "2026-10-20T19:13:13Z",
+   "desc": "A physics-driven gladiator fighting game with localized damage, custom movesets, solo combat, and multiplayer arenas.",
+   "found": "2026-10-20T13:09:51Z",
+   "k": "catboats63597ganged/gladio-mori",
+   "label": "Human translation",
+   "src": "GitHub",
+   "stars": 0,
+   "title": "Gladio Mori",
+   "url": "https://github.com/catboats63597ganged/Gladio-Mori"
+  },
+  {
+   "date": "2026-10-20T19:09:36Z",
+   "desc": "Source reconstruction of 東方花映塚 ～ Phantasmagoria of Flower View 1.50a",
+   "found": "2026-10-20T13:09:51Z",
+   "k": "n0zom1z0/th09",
+   "label": "Human translation",
+   "src": "GitHub",
+   "stars": 9,
+   "title": "th09",
+   "url": "https://github.com/N0zoM1z0/th09"
+  },
+  {
+   "date": "2026-10-20T19:03:56Z",
    "desc": "Wisp's Lost Lanterns player — offline-first PWA with GPS and QR unlocks, six-stop quests, and experimental localization (5 shipped locales: EN, ES, FR, DE, PT). Playable at zqmlabs.com/games/hunt-for-wisps/",
    "found": "2026-10-20T13:09:51Z",
    "k": "zqm-labs/quest-player",
@@ -19,7 +893,18 @@
    "url": "https://github.com/ZQM-Labs/quest-player"
   },
   {
-   "date": "2026-10-20T13:07:51Z",
+   "date": "2026-10-20T19:00:16Z",
+   "desc": "Biohazard Outbreak File 1 and File 2 (Japan), statically recompiled for Mac: English, keyboard and mouse, online on obsrv.org",
+   "found": "2026-10-20T13:09:51Z",
+   "k": "hab3x/biohazard-outbreak-mac",
+   "label": "Human translation",
+   "src": "GitHub",
+   "stars": 0,
+   "title": "Biohazard Outbreak Mac",
+   "url": "https://github.com/HAB3X/Biohazard-Outbreak-Mac"
+  },
+  {
+   "date": "2026-10-20T18:58:36Z",
    "desc": "Reverse-engineering tooling and Farsi localization for Armored Core (PS1, SLUS-01323). No game data — patch-based, bring your own disc.",
    "found": "2026-10-20T13:09:51Z",
    "k": "byroweb/ac1_re",
@@ -31,26 +916,15 @@
    "url": "https://github.com/byroweb/AC1_RE"
   },
   {
-   "date": "2026-10-20T13:02:51Z",
-   "desc": "Vision-LLM localization defect detector for mobile games, evaluated against an OCR baseline",
+   "date": "2026-10-20T16:19:26Z",
+   "desc": "Diff-only security audit bot for Morphe patch repos, 4h cron",
    "found": "2026-10-20T13:09:51Z",
-   "k": "anton-borodin-inr/ai-localization-checker",
-   "label": "Machine translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "ai localization checker",
-   "url": "https://github.com/anton-borodin-inr/ai-localization-checker"
-  },
-  {
-   "date": "2026-10-20T12:58:05Z",
-   "desc": "Source reconstruction of 東方花映塚 ～ Phantasmagoria of Flower View 1.50a",
-   "found": "2026-10-20T13:09:51Z",
-   "k": "n0zom1z0/th09",
+   "k": "ngocthanhgl/morphe-audit-bot",
    "label": "Human translation",
    "src": "GitHub",
-   "stars": 9,
-   "title": "th09",
-   "url": "https://github.com/N0zoM1z0/th09"
+   "stars": 0,
+   "title": "morphe audit bot",
+   "url": "https://github.com/ngocthanhgl/morphe-audit-bot"
   },
   {
    "date": "2026-10-20T12:49:58Z",
@@ -75,28 +949,6 @@
    "url": "https://github.com/richard1222/SHC-cheats-for-ps3"
   },
   {
-   "date": "2026-10-20T12:40:57Z",
-   "desc": "Biohazard Outbreak File 1 and File 2 (Japan), statically recompiled for Mac: English, keyboard and mouse, online on obsrv.org",
-   "found": "2026-10-20T13:09:51Z",
-   "k": "hab3x/biohazard-outbreak-mac",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "Biohazard Outbreak Mac",
-   "url": "https://github.com/HAB3X/Biohazard-Outbreak-Mac"
-  },
-  {
-   "date": "2026-10-20T12:21:27Z",
-   "desc": "A physics-driven gladiator fighting game with localized damage, custom movesets, solo combat, and multiplayer arenas.",
-   "found": "2026-10-20T13:09:51Z",
-   "k": "catboats63597ganged/gladio-mori",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "Gladio Mori",
-   "url": "https://github.com/catboats63597ganged/Gladio-Mori"
-  },
-  {
    "date": "2026-10-20T12:19:51Z",
    "desc": "Black Souls II — AI Edition — AI-powered interactive mod for Black Souls II. Local AI, no subscriptions.",
    "found": "2026-10-20T13:09:51Z",
@@ -106,17 +958,6 @@
    "stars": 0,
    "title": "black souls 2 ai edition",
    "url": "https://github.com/ClaspFighter/black-souls-2-ai-edition"
-  },
-  {
-   "date": "2026-10-20T10:54:53Z",
-   "desc": "Diff-only security audit bot for Morphe patch repos, 4h cron",
-   "found": "2026-10-20T13:09:51Z",
-   "k": "ngocthanhgl/morphe-audit-bot",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "morphe audit bot",
-   "url": "https://github.com/ngocthanhgl/morphe-audit-bot"
   },
   {
    "date": "2026-10-20T09:44:22Z",
@@ -201,7 +1042,7 @@
    "k": "touhouworldcup/thprac",
    "label": "Human translation",
    "src": "GitHub",
-   "stars": 446,
+   "stars": 447,
    "title": "thprac",
    "url": "https://github.com/touhouworldcup/thprac"
   },
@@ -466,7 +1307,7 @@
    "label": "Human translation",
    "platform": "PS2",
    "src": "GitHub",
-   "stars": 1,
+   "stars": 2,
    "title": "King of Colosseum II",
    "url": "https://github.com/kactusken/King-of-Colosseum-II-English"
   },
@@ -773,7 +1614,7 @@
    "label": "Human translation",
    "platform": "PS1",
    "src": "GitHub",
-   "stars": 4,
+   "stars": 5,
    "title": "Hellnight Recompiled",
    "url": "https://github.com/goodshepherd23/Hellnight-Recompiled"
   },
@@ -1841,18 +2682,19 @@
    "url": "https://github.com/AGTTeam/MushishiData"
   },
   {
-   "date": "2026-10-20T13:09:43Z",
-   "desc": "A website to track English translations and undub projects for Japanese console games.",
+   "date": "2026-10-20T19:03:26Z",
+   "desc": "Work in progress",
    "found": "2026-10-20T12:30:37Z",
-   "k": "strawman97/patch-watch",
-   "label": "Undub",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "label": "Human translation",
+   "platform": "3DS",
    "src": "GitHub",
-   "stars": 0,
-   "title": "watch",
-   "url": "https://github.com/Strawman97/patch-watch"
+   "stars": 16,
+   "title": "dqxi 3ds",
+   "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch"
   },
   {
-   "date": "2026-10-20T13:02:23Z",
+   "date": "2026-10-20T19:01:47Z",
    "desc": "An anime, Japan, music, and culture news aggregator with automatic updates, English translations of Japanese sources, and combined or per-source RSS feeds.",
    "found": "2026-10-20T12:30:37Z",
    "k": "chintu-io/aninews-hub",
@@ -1861,6 +2703,96 @@
    "stars": 1,
    "title": "aninews hub",
    "url": "https://github.com/chintu-io/aninews-hub"
+  },
+  {
+   "date": "2026-10-20T18:33:00Z",
+   "desc": "Hikaru no Go 3 (ヒカルの碁3 / ヒカルの碁３) English translation patch for Nintendo GameCube / GCN (GHTJA4). Editable dialogue, source tools, BPS patch and no-code Windows patcher. Version 1.0.2 beta.",
+   "found": "2026-10-20T12:30:37Z",
+   "k": "kodakwizard/hikaru-no-go-3-english",
+   "label": "Machine translation",
+   "platform": "GameCube",
+   "src": "GitHub",
+   "stars": 4,
+   "title": "hikaru no go 3",
+   "url": "https://github.com/KodakWizard/hikaru-no-go-3-english"
+  },
+  {
+   "date": "2026-10-20T17:22:36Z",
+   "desc": "Translate retro games with AI on your own computer: extract the text, translate, validate, reinsert and export a patch. GBA, NDS, NES, SNES, PS1, PS2, PSP and GameCube (experimental).",
+   "found": "2026-10-20T12:30:37Z",
+   "k": "crimsondawnacademy-design/romtranslate-studio",
+   "label": "Machine translation",
+   "platform": "PSP",
+   "src": "GitHub",
+   "stars": 6,
+   "title": "romtranslate studio",
+   "url": "https://github.com/crimsondawnacademy-design/romtranslate-studio"
+  },
+  {
+   "date": "2026-10-20T17:00:40Z",
+   "desc": "French Amstrad CPC game from 1987, english translation, trainer and modernized version playable in browser",
+   "found": "2026-10-20T12:30:37Z",
+   "k": "jaymanu79/relief-action",
+   "label": "Human translation",
+   "src": "GitHub",
+   "stars": 1,
+   "title": "relief action",
+   "url": "https://github.com/jaymanu79/relief-action"
+  },
+  {
+   "date": "2026-10-20T16:54:59Z",
+   "found": "2026-10-20T12:30:37Z",
+   "k": "dolphag/skyrim-fight-with-me-japanese-translations-patch",
+   "label": "Human translation",
+   "src": "GitHub",
+   "stars": 0,
+   "title": "Skyrim Fight With Me Japanese translations",
+   "url": "https://github.com/dolphag/Skyrim-Fight-With-Me-Japanese-translations-patch"
+  },
+  {
+   "date": "2026-10-20T16:51:14Z",
+   "desc": "English translation tools and PS3 xdelta patches for Super Robot Taisen Z3: Rengoku-hen (NPJB00689).",
+   "found": "2026-10-20T12:30:37Z",
+   "k": "retro-trans/srw-z3-r",
+   "label": "Human translation",
+   "platform": "PS3",
+   "src": "GitHub",
+   "stars": 2,
+   "title": "SRW Z3 R",
+   "url": "https://github.com/retro-trans/SRW-Z3-R"
+  },
+  {
+   "date": "2026-10-20T16:49:15Z",
+   "desc": "Windows patcher, verified game release manifests, and automatic translation patch catalog",
+   "found": "2026-10-20T12:30:37Z",
+   "k": "retro-trans/retro-trans-tools",
+   "label": "Human translation",
+   "src": "GitHub",
+   "stars": 0,
+   "title": "retro trans tools",
+   "url": "https://github.com/retro-trans/retro-trans-tools"
+  },
+  {
+   "date": "2026-10-20T15:58:13Z",
+   "desc": "Gintama - Gintoki vs Hijikata! - Kabukichou Gintama Daisoudatsusen!! game translation mod/romhack. still WIP",
+   "found": "2026-10-20T12:30:37Z",
+   "k": "zthegin/gintama---gintoki-vs-hijikata-game-english-translation",
+   "label": "Human translation",
+   "src": "GitHub",
+   "stars": 0,
+   "title": "Gintama Gintoki vs Hijikata game",
+   "url": "https://github.com/zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation"
+  },
+  {
+   "date": "2026-10-20T13:19:09Z",
+   "desc": "A website to track English translations and undub projects for Japanese console games.",
+   "found": "2026-10-20T12:30:37Z",
+   "k": "strawman97/patch-watch",
+   "label": "Undub",
+   "src": "GitHub",
+   "stars": 0,
+   "title": "watch",
+   "url": "https://github.com/Strawman97/patch-watch"
   },
   {
    "date": "2026-10-20T12:55:56Z",
@@ -1953,16 +2885,6 @@
    "url": "https://github.com/HeronScissors59/sharin-no-kuni-english-patch"
   },
   {
-   "date": "2026-10-20T12:24:38Z",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "dolphag/skyrim-fight-with-me-japanese-translations-patch",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "Skyrim Fight With Me Japanese translations",
-   "url": "https://github.com/dolphag/Skyrim-Fight-With-Me-Japanese-translations-patch"
-  },
-  {
    "date": "2026-10-20T12:20:53Z",
    "desc": "Muv-Luv Alternative Translation Patch — free Muv-Luv mod (2026), no key, Windows 10/11",
    "found": "2026-10-20T12:30:37Z",
@@ -2007,17 +2929,6 @@
    "url": "https://github.com/iron-jay/gameshelf"
   },
   {
-   "date": "2026-10-20T10:23:45Z",
-   "desc": "Gintama - Gintoki vs Hijikata! - Kabukichou Gintama Daisoudatsusen!! game translation mod/romhack. still WIP",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "zthegin/gintama---gintoki-vs-hijikata-game-english-translation",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "Gintama Gintoki vs Hijikata game",
-   "url": "https://github.com/zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation"
-  },
-  {
    "date": "2026-10-20T09:56:44Z",
    "desc": "GitHub template for a retro-game fan-translation repo, set up for the translate-retro-game agent skill: AGENTS.md/CLAUDE.md, glossary, decisions and status logs, ROM hash check, gitignore for dumps and savestates.",
    "found": "2026-10-20T12:30:37Z",
@@ -2027,17 +2938,6 @@
    "stars": 0,
    "title": "template",
    "url": "https://github.com/minhnhattonthat/fan-translation-template"
-  },
-  {
-   "date": "2026-10-20T09:52:40Z",
-   "desc": "French Amstrad CPC game from 1987, english translation, trainer and modernized version playable in browser",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "jaymanu79/relief-action",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 1,
-   "title": "relief action",
-   "url": "https://github.com/jaymanu79/relief-action"
   },
   {
    "date": "2026-10-20T09:17:45Z",
@@ -2137,21 +3037,9 @@
    "k": "gymzatan/smt-nine-recomp",
    "label": "Human translation",
    "src": "GitHub",
-   "stars": 20,
+   "stars": 21,
    "title": "smt nine recomp",
    "url": "https://github.com/gymzatan/smt-nine-recomp"
-  },
-  {
-   "date": "2026-10-20T05:27:40Z",
-   "desc": "Translate retro games with AI on your own computer: extract the text, translate, validate, reinsert and export a patch. GBA, NDS, NES, SNES, PS1, PS2, PSP and GameCube (experimental).",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "crimsondawnacademy-design/romtranslate-studio",
-   "label": "Machine translation",
-   "platform": "PSP",
-   "src": "GitHub",
-   "stars": 5,
-   "title": "romtranslate studio",
-   "url": "https://github.com/crimsondawnacademy-design/romtranslate-studio"
   },
   {
    "date": "2026-10-20T05:02:47Z",
@@ -2480,7 +3368,7 @@
    "label": "Human translation",
    "platform": "3DS",
    "src": "GitHub",
-   "stars": 20,
+   "stars": 21,
    "title": "DQXI 3DS",
    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch"
   },
@@ -2531,17 +3419,6 @@
    "url": "https://github.com/RiFa-Innovation/pkmn-azoth-translation"
   },
   {
-   "date": "2026-10-19T20:16:23Z",
-   "desc": "Live Japanese captions for macOS, with furigana and English translation, transcribed on your own GPU",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "graywzc/live-trans",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "live trans",
-   "url": "https://github.com/graywzc/live-trans"
-  },
-  {
    "date": "2026-10-19T18:47:36Z",
    "desc": "English fan translation of Tales of the World: Radiant Mythology 3 (PSP, NPJH50353): xdelta patch, Python tools and translation files to rebuild it or make your own.",
    "found": "2026-10-20T12:30:37Z",
@@ -2552,29 +3429,6 @@
    "stars": 0,
    "title": "Tales of Radiant Mythology 3",
    "url": "https://github.com/Azzulin/Tales-of-Radiant-Mythology-3-English-Translation"
-  },
-  {
-   "date": "2026-10-19T18:11:21Z",
-   "desc": "Work in progress",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "label": "Human translation",
-   "platform": "3DS",
-   "src": "GitHub",
-   "stars": 16,
-   "title": "dqxi 3ds",
-   "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch"
-  },
-  {
-   "date": "2026-10-19T17:51:06Z",
-   "desc": "Windows patcher, verified game release manifests, and automatic translation patch catalog",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "retro-trans/retro-trans-tools",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "retro trans tools",
-   "url": "https://github.com/retro-trans/retro-trans-tools"
   },
   {
    "date": "2026-10-19T17:47:10Z",
@@ -2599,18 +3453,6 @@
    "stars": 12,
    "title": "umineko portable",
    "url": "https://github.com/kotcrab/umineko-portable-english"
-  },
-  {
-   "date": "2026-10-19T14:01:34Z",
-   "desc": "Hikaru no Go 3 (ヒカルの碁3 / ヒカルの碁３) English translation patch for Nintendo GameCube / GCN (GHTJA4). Editable dialogue, source tools, BPS patch and no-code Windows patcher. Version 1.0.2 beta.",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "kodakwizard/hikaru-no-go-3-english",
-   "label": "Machine translation",
-   "platform": "GameCube",
-   "src": "GitHub",
-   "stars": 4,
-   "title": "hikaru no go 3",
-   "url": "https://github.com/KodakWizard/hikaru-no-go-3-english"
   },
   {
    "date": "2026-10-19T12:01:29Z",
@@ -2766,17 +3608,6 @@
    "url": "https://github.com/JAOT/3x3eyes-seima-kourinden-en"
   },
   {
-   "date": "2026-10-18T18:31:22Z",
-   "desc": "Unofficial English fan translation of the Japanese PC game The Typing of the Dead 2: words, modes, menus, graphics, subtitles and 1080p widescreen, built from your own copy",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "metroid98/totd2-english",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "totd2",
-   "url": "https://github.com/metroid98/totd2-english"
-  },
-  {
    "date": "2026-10-18T16:46:05Z",
    "desc": "Translation tools and English patch for Macross Ultimate Frontier (PSP, NPJH-50050)",
    "found": "2026-10-20T12:30:37Z",
@@ -2811,18 +3642,6 @@
    "stars": 3,
    "title": "blue seed kushinada hiroku den",
    "url": "https://github.com/retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation"
-  },
-  {
-   "date": "2026-10-18T14:05:36Z",
-   "desc": "English fan-translation BPS patch for Zoids Dash (Japanese Nintendo DS release). By StepPhone / StepHackerZ. Beta release.",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "stepphone/zoids-dash-english",
-   "label": "Human translation",
-   "platform": "DS",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "zoids dash",
-   "url": "https://github.com/StepPhone/zoids-dash-english"
   },
   {
    "date": "2026-10-18T14:05:05Z",
@@ -3052,18 +3871,6 @@
    "url": "https://github.com/ohabibo/chaindive-english-patch"
   },
   {
-   "date": "2026-10-16T17:09:46Z",
-   "desc": "English translation patch for Super Robot Wars OG: The Moon Dwellers (PS3, BLJS10335) on RPCS3 - v0.1 beta. Follows our 2nd OG names; proportional-font renderer patch; built from your own game dump.",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "dragoonant/srw-og-moon-dwellers-translation",
-   "label": "Human translation",
-   "platform": "PS3",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "srw og moon dwellers",
-   "url": "https://github.com/dragoonant/srw-og-moon-dwellers-translation"
-  },
-  {
    "date": "2026-10-16T16:45:18Z",
    "desc": "AI-assisted English translation patches for Japanese WonderSwan and WonderSwan Color games",
    "found": "2026-10-20T12:30:37Z",
@@ -3088,25 +3895,13 @@
    "url": "https://github.com/retro-trans/ACE"
   },
   {
-   "date": "2026-10-16T15:06:27Z",
-   "desc": "English fan translation patch and tooling for Spectral Force: Itoshiki Jaaku (PS1, SLPS-02233)",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "dienp/spectral-force-3-eng-patch",
-   "label": "Human translation",
-   "platform": "PS1",
-   "src": "GitHub",
-   "stars": 1,
-   "title": "spectral force 3",
-   "url": "https://github.com/dienp/spectral-force-3-eng-patch"
-  },
-  {
    "date": "2026-10-16T14:35:25Z",
    "desc": "An English patch for Princess Connect! ReDive JP server 64bit IL2CPP version",
    "found": "2026-10-20T12:30:37Z",
    "k": "imaterialc/priconnere-tl",
    "label": "Human translation",
    "src": "GitHub",
-   "stars": 185,
+   "stars": 186,
    "title": "Priconne Re",
    "url": "https://github.com/ImaterialC/PriconneRe-TL"
   },
@@ -3154,18 +3949,6 @@
    "stars": 0,
    "title": "dragon quest heroes switch",
    "url": "https://github.com/topcatromhacking-lgtm/dragon-quest-heroes-switch-english-undub"
-  },
-  {
-   "date": "2026-10-15T16:08:56Z",
-   "desc": "English translation tools and PS3 xdelta patches for Super Robot Taisen Z3: Rengoku-hen (NPJB00689).",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "retro-trans/srw-z3-r",
-   "label": "Human translation",
-   "platform": "PS3",
-   "src": "GitHub",
-   "stars": 2,
-   "title": "SRW Z3 R",
-   "url": "https://github.com/retro-trans/SRW-Z3-R"
   },
   {
    "date": "2026-10-15T05:36:54Z",
@@ -3371,7 +4154,7 @@
    "k": "githubuser420x/fgoac-scooby",
    "label": "Human translation",
    "src": "GitHub",
-   "stars": 189,
+   "stars": 190,
    "title": "FGOAC scooby",
    "url": "https://github.com/githubuser420x/FGOAC-scooby"
   },
@@ -3616,36 +4399,6 @@
    "stars": 2,
    "title": "detective conan kakokara nds",
    "url": "https://github.com/yingyangtongxue/detective-conan-kakokara-nds-en-patch"
-  },
-  {
-   "date": "2026-05-06T19:48:54Z",
-   "desc": "English-patched software for the Russian WizardProg-55 (TOP2000B clone) EPROM programmer. Binary-edited from the original Russian version. Tested on Windows XP/10 (32/64-bit) using RS232 Serial via Prolific PL2303-HX. A restoration project ",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "rgimenes1/wizardprog-55-english",
-   "label": "Human translation",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "wizardprog 55",
-   "url": "https://github.com/rgimenes1/wizardprog-55-english"
-  },
-  {
-   "date": "2026-03-06T18:11:43Z",
-   "found": "2026-10-20T12:30:37Z",
-   "k": "donsebastianbot/persona-psp-undub-es",
-   "label": "Undub",
-   "platform": "PSP",
-   "src": "GitHub",
-   "stars": 0,
-   "title": "persona psp es",
-   "url": "https://github.com/donsebastianbot/persona-psp-undub-es"
-  },
-  {
-   "found": "2026-10-20T12:30:37Z",
-   "label": "Human translation",
-   "platform": "Mega Drive",
-   "src": "Romhack Plaza",
-   "title": "SEGA Genesis",
-   "url": "https://romhackplaza.org/translations/quackshot-starring-donald-duck-force-english-text-english-translation-sega-genesis"
   }
  ],
  "version": 1
