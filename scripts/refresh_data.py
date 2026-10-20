@@ -429,10 +429,18 @@ def refresh_pages(projects):
         last_hit[host] = time.time()
         prev = pages.get(u) or {}
         try:
-            raw = http_get(links[u], {"Accept": "text/html,application/xhtml+xml"}, tries=2, missing_ok=False)
-            h = (raw or b"").decode("utf-8", "replace")
-            info = A.parse_page(links[u], h)
-            e = {k: v for k, v in info.items() if v not in (None, "", [], {})}
+            ident = A.archive_id(links[u])
+            if ident:                                        # Internet Archive items are read through its metadata API
+                j = json.loads(http_get(ARCHIVE_META + urllib.parse.quote(ident), tries=2, missing_ok=False) or b"{}")
+                if not j.get("metadata"):
+                    raise HttpStatus(404)                    # the API answers {} for items that don't exist (any more)
+                info = A.parse_archive_item(ident, j)
+                info.pop("patch", None)
+            else:
+                raw = http_get(links[u], {"Accept": "text/html,application/xhtml+xml"}, tries=2, missing_ok=False)
+                h = (raw or b"").decode("utf-8", "replace")
+                info = A.parse_page(links[u], h)
+            e = {k: v for k, v in info.items() if v not in (None, "", [], {}, False)}
             e["checked"] = NOW
             pages[u] = e
             ok += 1
@@ -454,12 +462,20 @@ def refresh_pages(projects):
     return write_json_if_changed(path, data)
 
 # ---------------------------------------------------------------- newly found patches
-GH_QUERIES = ["topic:undub", "topic:fan-translation", "topic:english-translation", "topic:translation-patch", "topic:english-patch",
+GH_QUERIES = ["topic:undub", "topic:fan-translation", "topic:english-translation", "topic:translation-patch", "topic:english-patch", "topic:romhacking translation",
               "undub in:name,description", '"english patch" in:name,description', '"english translation" in:name,description',
-              '"fan translation" in:name,description', '"translation patch" in:name,description']
+              '"fan translation" in:name,description', '"translation patch" in:name,description', 'localize in:description', 'localization in:name,description patch',
+              'undub in:readme', '"english patch" in:readme', '"fan translation" in:readme xdelta']
+PATCHY = re.compile(r"translat|locali[sz]|undub|english|\beng?\b|\bpatch|voice|dub", re.I)
 NON_ENGLISH = re.compile(r"\b(spanish|espa[nñ]ol|portugu[eê]s|portuguese|brazilian|pt-?br|french|fran[cç]ais|german|deutsch|italian|italiano|russian|chinese|korean|vietnamese|indonesian|polish|turkish|arabic|ukrainian|thai|traduc|traduz|übersetzung|перевод)\b", re.I)
 GAMEY = re.compile(r"\b(game|rpg|visual novel|vn|rom|iso|patch|undub|xdelta|ips|bps|ppf|japanese|japan|famicom|nintendo|sega|playstation|ps[1-5p]|psx|vita|nds|3ds|gba|snes|sfc|n64|gamecube|wii|switch|saturn|dreamcast|pc ?engine|mega ?drive|genesis)\b", re.I)
 TOOLISH = re.compile(r"\b(tool|toolkit|library|framework|sdk|editor|extractor|unpacker|compressor|plugin|api|bot|website|font)\b", re.I)
+ARCHIVE_META = os.environ.get("PW_ARCHIVE_META", "https://archive.org/metadata/")
+ARCHIVE_SCRAPE = os.environ.get("PW_ARCHIVE_SCRAPE", "https://archive.org/services/search/v1/scrape")
+ARCHIVE_QUERY = '(title:undub OR title:"english patch" OR title:"translation patch" OR title:"english translation" OR title:"fan translation") AND mediatype:(software OR data OR texts)'
+MAX_ARCHIVE_CHECKS = int(os.environ.get("PW_MAX_ARCHIVE_CHECKS", "80"))   # new archive.org items checked for game files per run
+# Uploaders and GitHub accounts known for translations and undubs. Add more in overrides.json under "watch".
+WATCH_DEFAULTS = {"archiveCreators": ["swosho"], "githubOwners": ["lifebottle", "SymphoniaLauren", "AGTTeam", "Kaisaan", "Arks-Layer", "blashy101", "Supper", "pleonex"]}
 GAMEBREW_LISTS = {"PSP": "List_of_PSP_Rom_Hacks", "PS Vita": "List_of_Vita_Rom_Hacks", "DS": "List_of_all_DS_Rom_Hacks", "3DS": "List_of_all_3DS_Rom_Hacks",
                   "Wii": "List_of_Wii_rom_hacks", "Switch": "List_of_Switch_rom_hacks", "GBA": "List_of_all_GBA_Rom_Hacks"}
 
@@ -468,6 +484,67 @@ def gh_search(q, token):
     url = "https://api.github.com/search/repositories?" + urllib.parse.urlencode({"q": f"{q} fork:false pushed:>={since}", "sort": "updated", "order": "desc", "per_page": "50"})
     raw = http_get(url, {"Accept": "application/vnd.github+json", **({"Authorization": "Bearer " + token} if token else {})})
     return (json.loads(raw).get("items") if raw else None) or []
+
+def gh_item(it, text, src):
+    name = it.get("name", "")
+    title = re.sub(r"\b(english|eng|en|translation|translated|tl|patch|undub|fan|project|full voice edition)\b", lambda m: m.group(0) if m.group(0).lower() == "full voice edition" else "",
+                   re.sub(r"[-_.]+", " ", re.sub(r"([a-z])([A-Z])", r"\1 \2", name)), flags=re.I)
+    return {"url": it.get("html_url"), "k": it.get("full_name", "").lower(), "title": re.sub(r"\s+", " ", title).strip() or name,
+            "platform": A.detect_platform(text), "src": src, "desc": (it.get("description") or "")[:240], "stars": it.get("stargazers_count"),
+            "date": it.get("pushed_at"), "label": "Undub" if re.search(r"undub", text, re.I) else ("Machine translation" if A.MTL_RE.search(text) else "Human translation")}
+
+
+def archive_search(q, fields="identifier,title,publicdate,creator"):
+    url = ARCHIVE_SCRAPE + "?" + urllib.parse.urlencode({"q": q, "fields": fields, "count": "1000", "sorts": "publicdate desc"})
+    return (json.loads(http_get(url) or b"{}").get("items")) or []
+
+
+def archive_candidates(watch, prev, known, bad):
+    """New patch items on the Internet Archive: everything from the watched uploaders, plus keyword matches. Items that hold
+    game files (ROMs or disc images) are left out; only patches are listed."""
+    hits = []
+    for creator in watch.get("archiveCreators") or []:
+        try:
+            hits += [(i, f"Internet Archive ({creator})") for i in archive_search(f"creator:({creator})")]
+        except Exception as e:
+            log(f"  Internet Archive uploader {creator} couldn't be searched ({e})")
+    try:
+        hits += [(i, "Internet Archive") for i in archive_search(ARCHIVE_QUERY)[:300]]
+    except Exception as e:
+        log(f"  Internet Archive search failed ({e})")
+    out, checks, skipped = [], 0, 0
+    seen = set()
+    for it, src in hits:
+        ident = it.get("identifier") or ""
+        url = "https://archive.org/details/" + ident
+        title = it.get("title") if isinstance(it.get("title"), str) else " ".join(it.get("title") or [])
+        if not ident or url in seen or url in known or url in bad or not re.search(r"undub|patch|translat|subtit|english", title or "", re.I):
+            continue
+        seen.add(url)
+        if NON_ENGLISH.search(title) and not re.search(r"\benglish\b", title, re.I):
+            continue
+        p = prev.get(url)
+        if p is None or "rom" not in p:
+            if checks >= MAX_ARCHIVE_CHECKS:
+                continue                                  # checked on a later run
+            checks += 1
+            try:
+                info = A.parse_archive_item(ident, json.loads(http_get(ARCHIVE_META + urllib.parse.quote(ident)) or b"{}"))
+            except Exception:
+                continue
+            time.sleep(0.5)
+            p = {"rom": info.get("rom"), "platform": info.get("plat") or A.detect_platform(title), "date": info.get("upd")}
+        if p.get("rom"):
+            bad.add(url)
+            skipped += 1
+            continue                                      # holds game files, not just a patch: never listed
+        clean = re.sub(r"\s*(UNDUB|undub|English|Translation|Translated)?\s*(patch(es)?|addendum)\b.*$", "", title).strip(" -–:/") or title
+        clean = re.sub(r"\s*\((PS2|PS3|PSV|PSP|GBA|DS|3DS|Wii|PC|PS1|PSX)\)\s*$", "", clean).strip()
+        out.append({"url": url, "title": clean, "platform": p.get("platform") or A.detect_platform(title), "src": src, "date": p.get("date") or it.get("publicdate"),
+                    "label": "Undub" if re.search(r"undub", title, re.I) else "Human translation", "desc": title, "rom": False})
+    log(f"  Internet Archive: {len(out)} patch items, {skipped} left out because they contain game files, {checks} newly checked")
+    return out
+
 
 def refresh_discover(projects):
     path = os.path.join(DATA, "discover.json")
@@ -508,11 +585,23 @@ def refresh_discover(projects):
                 continue
             if not GAMEY.search(text) or (TOOLISH.search(it.get("description") or "") and not re.search(r"\b(patch|undub)\b", text, re.I)):
                 continue
-            name = it.get("name", "")
-            title = re.sub(r"\b(english|eng|en|translation|translated|tl|patch|undub|fan|project)\b", "", re.sub(r"[-_.]+", " ", re.sub(r"([a-z])([A-Z])", r"\1 \2", name)), flags=re.I)
-            found.append({"url": it.get("html_url"), "k": it.get("full_name", "").lower(), "title": re.sub(r"\s+", " ", title).strip() or name,
-                          "platform": A.detect_platform(text), "src": "GitHub", "desc": (it.get("description") or "")[:240], "stars": it.get("stargazers_count"),
-                          "date": it.get("pushed_at"), "label": "Undub" if re.search(r"undub", text, re.I) else ("Machine translation" if A.MTL_RE.search(text) else "Human translation")})
+            found.append(gh_item(it, text, "GitHub"))
+    watch = {**WATCH_DEFAULTS, **((load_overrides().get("watch")) or {})}
+    # GitHub accounts known for translations: every repository of theirs that looks like a patch
+    for owner in watch.get("githubOwners") or []:
+        time.sleep(2.5)
+        try:
+            items = gh_search(f"user:{owner}", token)
+        except Exception as e:
+            log(f"  GitHub account {owner} couldn't be searched ({e})"); continue
+        for it in items:
+            text = " ".join([it.get("full_name", ""), it.get("description") or "", " ".join(it.get("topics") or [])])
+            if not PATCHY.search(text) or (TOOLISH.search(it.get("description") or "") and not re.search(r"\b(patch|undub|locali[sz]e)\b", text, re.I)):
+                continue
+            found.append(gh_item(it, text, f"GitHub ({owner})"))
+    bad = set(data.get("archiveGameFiles") or [])          # items found to hold game files: never checked or listed again
+    found += archive_candidates(watch, prev, known, bad)
+    data["archiveGameFiles"] = sorted(bad)
     items, seen = [], set()
     for it in found:
         u = norm_link(it.get("url"))

@@ -4,5 +4,20 @@
   "updated": "2026-10-20",
   "projects": {},
   "added": {},
-  "ignoreFound": []
+  "ignoreFound": [],
+  "watch": {
+    "archiveCreators": [
+      "swosho"
+    ],
+    "githubOwners": [
+      "lifebottle",
+      "SymphoniaLauren",
+      "AGTTeam",
+      "Kaisaan",
+      "Arks-Layer",
+      "blashy101",
+      "Supper",
+      "pleonex"
+    ]
+  }
 }

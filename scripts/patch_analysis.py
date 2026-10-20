@@ -356,3 +356,43 @@ def gamebrew_entries(base, h, platform):
             out.append({"url": url, "title": re.sub(r"\s*[-–]?\s*(English )?(Translation|Localization)( Patch| Project)?\s*$", "", name, flags=re.I).strip() or name,
                         "platform": platform, "src": "GameBrew", "label": "Undub" if undub else "Human translation", "desc": rowtext[:200]})
     return out
+
+
+# ---------------------------------------------------------------- Internet Archive items
+ROM_FILE = re.compile(r"\.(iso|bin|cue|chd|cso|zso|rvz|wbfs|wia|gcz|ciso|nsp|xci|nsz|3ds|cia|nds|gba|gbc|gb|sfc|smc|nes|fds|z64|n64|v64|pbp|vpk|gdi|cdi|mdf|mds|img|ecm|pkg)$", re.I)
+PATCH_FILE = re.compile(r"\.(xdelta3?|vcdiff|ppf|ips|bps|ups|aps|patch|diff)$|patch|undub|translat", re.I)
+IA_SKIP = re.compile(r"(_meta\.xml|_files\.xml|_meta\.sqlite|_reviews\.xml|__ia_thumb\.jpg|_archive\.torrent|_thumb\.jpg|_itemimage\.\w+)$", re.I)
+
+
+def archive_id(url):
+    m = re.match(r"^https?://(?:www\.)?archive\.org/details/([^/?#]+)", url or "", re.I)
+    return m.group(1) if m else ""
+
+
+def parse_archive_item(ident, j):
+    """Reads an item from archive.org/metadata/<id>: title, last change, version, platform guess, screenshots, and whether it
+    holds game files (ROMs or disc images) rather than just a patch."""
+    md = j.get("metadata") or {}
+    files = [f for f in (j.get("files") or []) if f.get("name") and not IA_SKIP.search(f["name"]) and f.get("source") != "metadata"]
+    as_text = lambda v: " ".join(v) if isinstance(v, list) else str(v or "")
+    title, desc = as_text(md.get("title")), html_text(as_text(md.get("description")))
+    out = {"title": title[:160]}
+    times = [int(f["mtime"]) for f in files if str(f.get("mtime", "")).isdigit()]
+    if times:
+        out["upd"] = datetime.datetime.fromtimestamp(max(times), datetime.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    else:
+        out["upd"] = parse_date(as_text(md.get("publicdate")))
+    m = re.search(r"\bv(?:er(?:sion)?)?\.? ?(\d+(?:\.\d+){0,3}[a-z]?)\b", title + " " + " ".join(f["name"] for f in files), F)
+    if m:
+        out["ver"] = m.group(1)
+    plat = detect_platform(" ".join([title, as_text(md.get("subject")), desc[:2000]]))
+    if plat:
+        out["plat"] = plat
+    shots = ["https://archive.org/download/%s/%s" % (ident, urllib.parse.quote(f["name"])) for f in files
+             if re.search(r"\.(png|jpe?g|gif|webp)$", f["name"], re.I) and not re.search(r"cover|box|logo|icon", f["name"], re.I)]
+    if shots:
+        out["shots"] = shots[:8]
+    out["rom"] = any(ROM_FILE.search(f["name"]) for f in files)
+    out["patch"] = any(PATCH_FILE.search(f["name"]) for f in files) or bool(re.search(r"\bpatch|undub|translat", title, re.I))
+    out["a"] = analyze_patch(title + "\n" + desc[:20000])
+    return out

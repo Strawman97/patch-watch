@@ -25,7 +25,7 @@ A single-page tracker for English fan translations and undubs of Japanese consol
 
 ## What it does
 
-- **Starts with 490+ projects** across the Super Famicom, Satellaview, Game Boy Advance, DS, 3DS, Wii, Switch, PS1, PS2, PS3, PSP, PS Vita, Saturn, Dreamcast and more.
+- **Starts with 670+ projects** across the Super Famicom, Satellaview, Game Boy Advance, DS, 3DS, Wii, Switch, PS1, PS2, PS3, PSP, PS Vita, Saturn, Dreamcast and more, including about 170 undubs from swosho's Internet Archive uploads.
 - **Filters** by label, coverage, status, platform, where the patch is hosted, extras and when it was last updated, plus a search across English titles, Japanese titles and group names.
 - **Links** straight to the page hosting each patch or mod (GitHub, GameBrew, Romhack Plaza, Romhacking.net, GBAtemp, itch.io and so on), and to the download page and project site when that page names them.
 - **List and grid views,** with box art from libretro-thumbnails, SteamGridDB and Wikipedia. Games with several patches (a translation and an undub, or two competing translations) are grouped into one entry with a tab for each. **Group by game** turns this off.
@@ -53,8 +53,8 @@ Most patch pages can't be read from a web page, so a scheduled GitHub Actions wo
 | File | What it holds |
 | --- | --- |
 | `data/status.json` | Every tracked GitHub and GitLab project's latest release, last activity, README screenshots and what its README says about labels, coverage and extras |
-| `data/pages.json` | Every other patch page: whether it still exists, its version, last-updated date, status, download and project links, screenshots and coverage hints. Up to 150 pages are read per run, oldest first, so every page is re-read every few runs |
-| `data/discover.json` | English translations and undubs found on Romhack Plaza's newest translations, GameBrew's translation lists and GitHub (topics such as `undub` and `fan-translation`, and keywords such as "english patch") that Patch Watch doesn't list yet. They show in **Find a game** |
+| `data/pages.json` | Every other patch page (Internet Archive items are read through archive.org's metadata API): whether it still exists, its version, last-updated date, status, download and project links, screenshots and coverage hints. Up to 150 pages are read per run, oldest first, so every page is re-read every few runs |
+| `data/discover.json` | English translations and undubs that Patch Watch doesn't list yet, found on Romhack Plaza's newest translations, GameBrew's translation lists, GitHub (topics such as `undub` and `fan-translation`, keywords such as "english patch" and "localize", and every repository of the watched accounts) and the Internet Archive (everything from the watched uploaders, plus items titled as undubs or English patches). Internet Archive items that hold game files (ROMs or disc images) instead of just a patch are never listed. They show in **Find a game** |
 | `data/itch.json` | The latest devlog posts of projects hosted on itch.io |
 | `data/covers.json` | SteamGridDB covers for games without libretro box art (needs the `SGDB_API_KEY` secret) |
 | `data/screens.json` | IGDB screenshots of the original games (needs the `IGDB_CLIENT_ID` and `IGDB_CLIENT_SECRET` secrets) |
@@ -81,6 +81,8 @@ Patch Watch has no server, accounts or analytics. Your data never leaves your br
 - [GameBrew](https://www.gamebrew.org): the PSP, PS Vita, DS, 3DS, Wii, Switch and GBA translation and undub lists
 - [GBAtemp's list of English fan translations and translation ports](https://gbatemp.net/threads/list-of-english-fantranslations-and-translation-ports.612951/): the Switch projects
 - [Romhack Plaza](https://romhackplaza.org) and [Romhacking.net](https://www.romhacking.net): patch pages
+- [swosho's uploads on the Internet Archive](https://archive.org/details/@swosho): undub patches
+- [Life Bottle Productions](https://github.com/lifebottle): Tales series translations and undubs
 - [libretro-thumbnails](https://github.com/libretro-thumbnails): box art and original-game screenshots
 - [SteamGridDB](https://www.steamgriddb.com) and [IGDB](https://www.igdb.com): covers and screenshots
 - Every translator, hacker and undubber whose work is tracked here
@@ -120,6 +122,16 @@ All game titles, trademarks and box art belong to their respective owners. Patch
 - **`projects`**, keyed by the GitHub repository (`owner/repo`) or by `link:` plus the patch page's link. Fields: `title`, `jp`, `cover`, `platform`, `labels` (any of `Human translation`, `Machine translation`, `Undub`), `coverage` (`Complete`, `Story only`, `Partial`, `Menus only`, `Not stated`), `coverageNote`, `pct`, `status` (`Released`, `Partial release`, `In progress`, `Abandoned`, `Unknown`), `extras` (`retrans`, `port`, `subs`, `restore`, `uncensor`, `fixes`, `gameplay`, `gfx`, `dual`), `hideScreens`, `screens`, `hide` (removes the project) and `note`.
 - **`added`**, projects added for everyone, with `link`, `title`, `jp`, `platform`, `labels`, `coverage`, `coverageNote`, `status`, `extras`, `cover` and `description`.
 - **`ignoreFound`**, links of newly found patches that aren't relevant, so they stop showing in Find a game.
+- **`watch`**, the accounts the refresh checks in full, beyond its keyword searches. Anything here adds to the built-in lists:
+
+  ```json
+  "watch": {
+    "archiveCreators": ["swosho"],
+    "githubOwners": ["lifebottle", "SymphoniaLauren", "AGTTeam", "Kaisaan", "Arks-Layer", "blashy101", "Supper", "pleonex"]
+  }
+  ```
+
+  `archiveCreators` are Internet Archive uploaders (the name after `@` in their profile link); `githubOwners` are GitHub users or organisations. Their repositories don't need topics or particular words in their names: any repository whose name or description mentions translating, localizing, an English patch, voices or an undub is picked up. Add an account here whenever you find a group whose projects were missed. This file is edited by hand; **Export fixes for everyone** keeps whatever is already in it.
 
 ```json
 "added": {
