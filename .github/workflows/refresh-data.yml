@@ -1,0 +1,69 @@
+name: Refresh data
+
+# Every 3 hours (at 23 minutes past, to avoid the busy top of the hour), a manual "Run workflow" button,
+# and right after overrides.json, index.html, the scripts or this file change, so changes take effect within minutes.
+# (The workflow's own commits to data/ don't trigger it again.)
+on:
+  schedule:
+    - cron: "23 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - overrides.json
+      - index.html
+      - "scripts/**"
+      - .github/workflows/refresh-data.yml
+
+# The job only needs to commit the files in data/.
+permissions:
+  contents: write
+
+# Never run two refreshes at once.
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v5
+        with:
+          # Always start from the latest main, so re-runs and back-to-back uploads don't push on top of an old copy.
+          ref: main
+          fetch-depth: 0
+
+      - name: Refresh project status, patch pages, new patches, covers and screenshots
+        env:
+          SGDB_API_KEY: ${{ secrets.SGDB_API_KEY }}
+          # Twitch developer app credentials for IGDB screenshots (Settings > Secrets and variables > Actions).
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
+          # The job's own token reads public repositories through GitHub's API.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: a fine-grained personal token (public repositories, read-only) if the job's token ever runs short.
+          PW_GH_TOKEN: ${{ secrets.PW_GH_TOKEN }}
+        run: python3 scripts/refresh_data.py
+
+      - name: Commit changed data
+        run: |
+          if [ -z "$(git status --porcelain -- data)" ]; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Refresh data"
+          # If main moved on while the job ran, put this commit on top of it and try again.
+          # Only this workflow writes data/, so this doesn't conflict.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "Push attempt $attempt didn't go through; retrying."
+            sleep $((attempt * 5))
+          done
+          echo "Couldn't push the refreshed data after 3 attempts."
+          exit 1
