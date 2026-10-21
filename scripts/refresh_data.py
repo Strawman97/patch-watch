@@ -864,6 +864,138 @@ def refresh_nsfw(projects):
     data["generated"] = NOW
     return write_json_if_changed(path, data)
 
+# ---------------------------------------------------------------- LaunchBox Games Database covers
+# LaunchBox publishes its whole games database every day as one zip, with each game's alternate names (including
+# romanized and Japanese titles) and its box art per region. Box art is served from images.launchbox-app.com.
+LB_URL = os.environ.get("PW_LAUNCHBOX_URL", "https://gamesdb.launchbox-app.com/Metadata.zip")
+LB_IMG = "https://images.launchbox-app.com/"
+LB_CACHE = os.path.join(ROOT, ".cache", "launchbox")
+LB_PLATFORMS = {"Nintendo Entertainment System": "NES", "Nintendo Famicom Disk System": "FDS", "Super Nintendo Entertainment System": "SNES",
+                "Nintendo Satellaview": "Satellaview", "Nintendo Game Boy": "Game Boy", "Nintendo Game Boy Color": "Game Boy Color",
+                "Nintendo Game Boy Advance": "GBA", "Nintendo Virtual Boy": "Virtual Boy", "Nintendo 64": "N64", "Nintendo GameCube": "GameCube",
+                "Nintendo Wii": "Wii", "Nintendo Wii U": "Wii U", "Nintendo Switch": "Switch", "Nintendo DS": "DS", "Nintendo 3DS": "3DS",
+                "Sony Playstation": "PS1", "Sony Playstation 2": "PS2", "Sony Playstation 3": "PS3", "Sony Playstation 4": "PS4", "Sony PSP": "PSP",
+                "Sony Playstation Vita": "PS Vita", "Sega Genesis": "Mega Drive", "Sega CD": "Mega CD", "Sega 32X": "32X", "Sega Master System": "Master System",
+                "Sega Game Gear": "Game Gear", "Sega Saturn": "Saturn", "Sega Dreamcast": "Dreamcast", "NEC TurboGrafx-16": "PC Engine",
+                "NEC TurboGrafx-CD": "PC Engine CD", "NEC PC-FX": "PC-FX", "WonderSwan": "WonderSwan", "WonderSwan Color": "WonderSwan Color",
+                "SNK Neo Geo Pocket Color": "Neo Geo Pocket Color", "Microsoft Xbox 360": "Xbox 360", "Windows": "PC"}
+LB_TYPES = ["Box - Front", "Box - Front - Reconstructed", "Fanart - Box - Front"]
+LB_JP_FIRST = ["Japan", "Asia", "World", "", "North America", "United States", "Europe"]
+LB_WEST_FIRST = ["North America", "United States", "World", "", "Europe", "United Kingdom", "Australia", "Japan", "Asia"]
+
+def launchbox_zip():
+    """The cached Metadata.zip, downloaded again when it's over a week old (the workflow keeps .cache between runs)."""
+    os.makedirs(LB_CACHE, exist_ok=True)
+    path, stamp = os.path.join(LB_CACHE, "Metadata.zip"), os.path.join(LB_CACHE, "downloaded")
+    try:
+        when = float(open(stamp).read().strip())       # file times change when the cache is restored, so the date is kept in a file
+    except (OSError, ValueError):
+        when = 0
+    if not os.path.exists(path) or time.time() - when > 7 * 86400:
+        log("  downloading the LaunchBox Games Database")
+        req = urllib.request.Request(LB_URL, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=600) as r, open(path + ".part", "wb") as f:
+            while True:
+                chunk = r.read(1 << 20)
+                if not chunk:
+                    break
+                f.write(chunk)
+        os.replace(path + ".part", path)
+        open(stamp, "w").write(str(time.time()))
+    return path
+
+def refresh_launchbox(projects):
+    import zipfile
+    path = os.path.join(DATA, "launchbox.json")
+    data = load_json(path, {"format": "patch-watch-launchbox", "version": 1, "games": {}})
+    games = data.setdefault("games", {})
+    keys = {p.get("k") or p["id"]: p for p in projects}
+    last = data.get("generated") or "2000-01-01T00:00:00Z"
+    age = (datetime.datetime.now(datetime.timezone.utc) - datetime.datetime.fromisoformat(last.replace("Z", "+00:00"))).days
+    missing = [k for k in keys if k not in games]
+    if age < 7 and not missing:
+        log("  nothing new to look up (the database is matched again weekly)")
+        return False
+    try:
+        zpath = launchbox_zip()
+    except Exception as e:
+        log(f"  the LaunchBox Games Database couldn't be downloaded ({e})")
+        return False
+    names_by_plat, plat_of, images = {}, {}, {}
+    wanted_plats = {LB_PLATFORMS.get(x) for x in LB_PLATFORMS} & {p.get("p") for p in projects}
+    def text(el, tag):
+        x = el.find(tag)
+        return (x.text or "").strip() if x is not None and x.text else ""
+    with zipfile.ZipFile(zpath) as z:
+        member = next((n for n in z.namelist() if n.lower().endswith("metadata.xml")), None)
+        if not member:
+            log("  Metadata.xml isn't in the zip; skipping")
+            return False
+        alt_rows = []
+        with z.open(member) as f:
+            for _, el in ET.iterparse(f, events=("end",)):
+                tag = el.tag
+                if tag == "Game":
+                    plat = LB_PLATFORMS.get(text(el, "Platform"))
+                    gid = text(el, "DatabaseID")
+                    if plat in wanted_plats and gid:
+                        plat_of[gid] = plat
+                        names_by_plat.setdefault(plat, []).append((text(el, "Name"), gid))
+                    el.clear()
+                elif tag == "GameAlternateName":
+                    alt_rows.append((text(el, "DatabaseID"), text(el, "AlternateName")))
+                    el.clear()
+                elif tag == "GameImage":
+                    gid, typ = text(el, "DatabaseID"), text(el, "Type")
+                    if typ in LB_TYPES:
+                        images.setdefault(gid, []).append((typ, text(el, "Region"), text(el, "FileName")))
+                    el.clear()
+                elif tag in ("EmulatorPlatform", "GameHash", "PlatformAlternateName"):   # never "Platform": it is also a field inside <Game>
+                    el.clear()
+        for gid, alt in alt_rows:
+            plat = plat_of.get(gid)
+            if plat and alt:
+                names_by_plat[plat].append((alt, gid))
+    index = {}
+    for plat, rows in names_by_plat.items():
+        by_norm = {}
+        for name, gid in rows:
+            by_norm.setdefault(norm(name), []).append((name, gid))
+        index[plat] = (rows, by_norm)
+    extra = known_names()
+    found = 0
+    for key, p in keys.items():
+        plat = p.get("p")
+        if plat not in index:
+            continue
+        rows, by_norm = index[plat]
+        titles = [t for t in dict.fromkeys([strip_parens(p.get("g", "")), strip_parens(p.get("jp") or "")] + extra.get(key, [])) if t]
+        gid, matched = None, ""
+        for t in titles:
+            exact = [r for r in by_norm.get(norm(t), []) if images.get(r[1])]
+            if exact:
+                matched, gid = exact[0]
+                break
+        if not gid:
+            for t in titles:
+                cands = [r for r in rows if images.get(r[1]) and same_game(t, r[0])]
+                if cands:
+                    matched, gid = cands[0]
+                    break
+        if not gid:
+            games.pop(key, None)
+            continue
+        order = LB_WEST_FIRST if "Undub" in (p.get("lb") or []) else LB_JP_FIRST
+        imgs = sorted(images[gid], key=lambda x: (LB_TYPES.index(x[0]), order.index(x[1]) if x[1] in order else len(order)))
+        typ, region, fn = imgs[0]
+        games[key] = {"url": LB_IMG + urllib.parse.quote(fn), "name": matched, "region": region or "", "id": gid}
+        found += 1
+    for k in [k for k in games if k not in keys]:
+        del games[k]
+    log(f"  LaunchBox: box art for {found} of {len(keys)} games")
+    data["generated"] = NOW
+    return write_json_if_changed(path, data)
+
 # ---------------------------------------------------------------- main
 def main():
     only = set(a for a in sys.argv[1:])                  # e.g. "pages discover" to run just those steps
@@ -877,7 +1009,8 @@ def main():
              ("itch", "itch.io devlogs:", lambda: refresh_itch(projects)),
              ("screens", "IGDB covers and screenshots:", lambda: refresh_screens(projects)),
              ("nsfw", "VNDB covers and NSFW ratings:", lambda: refresh_nsfw(projects)),
-             ("covers", "SteamGridDB covers:", lambda: refresh_covers(projects))]
+             ("covers", "SteamGridDB covers:", lambda: refresh_covers(projects)),
+             ("launchbox", "LaunchBox covers:", lambda: refresh_launchbox(projects))]
     for name, title, fn in steps:
         if only and name not in only:
             continue

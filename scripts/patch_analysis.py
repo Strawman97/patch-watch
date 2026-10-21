@@ -33,6 +33,22 @@ COV_RES = [
     ("Complete", re.compile(r"\b100\s?% (translated|complete|done)\b|\bfully translated\b|\bcomplete (english )?translation\b|\btranslation is (now )?complete\b|\ball (of the )?(text|dialogue|script) (is |has been )?translated\b", F)),
 ]
 ADULT_RE = re.compile(r"\b(hentai|eroge|ecchi|nsfw|r-?18|18\+ (only|content|game|patch|version)|adults? only|adult (content|game|visual novel|scenes?)|explicit (sexual|content|scenes?)|sexual content|h-?scenes?)\b", F)
+OTHER_PATCH_RE = re.compile(r"\b(other|previous|older|earlier|prior|old|existing|original|first|another|floating around|someone else'?s?|was|were|used to be)\b[^.\n]{0,60}\b(patch|patches|translation|translations|release|version)\b|\b(patch|patches|translation|translations)\b[^.\n]{0,40}\bby (?!this|us|me|our)\w+", F)
+STRONG_COMPLETE_RE = re.compile(r"\b(completely|fully|entirely) translat|\btranslates the (entire|whole|full|complete) game\b|\b100\s?% (translated|complete|done)\b|\bcomplete (english )?translation\b|\bevery(thing| line| text)\b[^.\n]{0,30}\btranslated\b", F)
+
+
+def coverage_of(t):
+    """Coverage judged sentence by sentence (see coverageOf in index.html): sentences about other or older patches are
+    ignored, and a clear 'completely translates the game' outranks a passing 'partial'."""
+    ss = [s.strip() for s in re.split(r"\n+|(?<=[.!?;])\s+|,\s+(?:but|while|whereas|although)\s+", str(t or "")) if s.strip() and not OTHER_PATCH_RE.search(s)]
+    has = lambda rx: any(rx.search(s) for s in ss)
+    by = dict(COV_RES)
+    for name, rx in (("Menus only", by["Menus only"]), ("Story only", by["Story only"]), ("Complete", STRONG_COMPLETE_RE), ("Partial", by["Partial"]), ("Complete", by["Complete"])):
+        if has(rx):
+            return name
+    return None
+
+
 PCT_RE = re.compile(r"\b(\d{1,3})\s?% (translated|complete|done)\b", F)
 
 
@@ -43,10 +59,9 @@ def analyze_patch(text):
         out["mtl"] = True
     if UNDUB_RE.search(t):
         out["undub"] = True
-    for c, rx in COV_RES:
-        if rx.search(t):
-            out["cov"] = c
-            break
+    cov = coverage_of(t)
+    if cov:
+        out["cov"] = cov
     m = PCT_RE.search(t)
     if m and int(m.group(1)) <= 100:
         out["pct"] = int(m.group(1))

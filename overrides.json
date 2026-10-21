@@ -1,8 +1,132 @@
 {
   "format": "patch-watch-overrides",
   "version": 1,
-  "updated": "2026-10-20",
-  "projects": {},
+  "updated": "2026-10-21",
+  "projects": {
+    "blashy101/clock-maker-english-patch": {
+      "cover": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_900/store/software/switch/70010000057548/b69723c8c162d8bf35349d647b6aa6d1a4d767792c8f1dcdee5aeb7d749b9f68",
+      "_game": "Clock Maker"
+    },
+    "blashy101/irochi-mikke-english-patch": {
+      "title": "Irochi Mikke!",
+      "cover": "https://ninten-switch.com/wp-content/uploads/2023/11/irochi-mitsukeru-1kasho-matigai-noutore-for-nintendo-switch-announce.jpg"
+    },
+    "blashy101/letscolorwithsanriocharactersenglish": {
+      "cover": "https://cdn.shopify.com/s/files/1/0683/0194/7201/files/sanrio-characters-bad-badtz-maru-universe_copy.jpg?v=1707116035",
+      "_game": "Let's Color With Sanrio Characters"
+    },
+    "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
+      "title": "Metal Gear Solid 3: Snake Eater - HD Edition",
+      "cover": "https://cdn2.steamgriddb.com/thumb/6b79a0215c73e76af87c36f6a8a8ee7e.jpg"
+    },
+    "lifebottle/tales-of-phantasia-x": {
+      "cover": "https://cdn2.steamgriddb.com/thumb/dd13b096a5d3ccec0f30d39e013d98f5.jpg",
+      "_game": "Tales of Phantasia: Cross Edition"
+    },
+    "link:https://archive.org/details/earth_defense_force_3_vita_undub_patch": {
+      "cover": "https://howlongtobeat.com/games/127044_Earth_Defense_Force_2017_Portable.jpg?width=250",
+      "_game": "Earth Defense Force 2017 Portable"
+    },
+    "link:https://archive.org/details/fire_heroes_undub_patch": {
+      "cover": "https://image.jeuxvideo.com/images-sm/p2/f/i/fihep20f.jpg",
+      "_game": "Fire Heroes"
+    },
+    "link:https://gamebanana.com/mods/480082": {
+      "cover": "https://cdn.dekudeals.com/images/5d17f2d4930bdd6e918f0e54464d39543f6c076f/w540.jpg",
+      "_game": "Yo-kai Watch Jam: Y School Heroes - Bustlin' School Life"
+    },
+    "link:https://gbatemp.net/threads/chikippudansazu-norinoridansu-de-kokoro-mo-odoru-english-patch.670569": {
+      "cover": "https://d3tvwjfge35btc.cloudfront.net/Assets/86/172/p0173117286.jpg",
+      "_game": "Chikippudansazu: Norinoridansu de Kokoro mo Odoru"
+    },
+    "link:https://gbatemp.net/threads/cyanotype-daydream-hakuchuumu-no-aojashin-translation-mod.625925": {
+      "cover": "https://s.pacn.ws/1/p/14l/cyanotype-daydream-730595.1.jpg?v=rh7bri&width=800",
+      "_game": "Cyanotype Daydream"
+    },
+    "link:https://gbatemp.net/threads/dragon-quest-x-offline-english-mod.643968": {
+      "cover": "https://thumbnails.pcgamingwiki.com/c/ce/Dragon_Quest_X_Offline_cover.jpg/300px-Dragon_Quest_X_Offline_cover.jpg",
+      "_game": "Dragon Quest X Offline"
+    },
+    "link:https://gbatemp.net/threads/futago-usagi-no-gokinjo-turismo-english-patch.658259": {
+      "cover": "https://s.pacn.ws/1/p/17t/futago-usagi-no-gokinjo-turismo-788851.7.jpg?v=sd5gqo&width=300&crop=879,1414",
+      "_game": "Futago Usagi no Gokinjo Turismo"
+    },
+    "link:https://gbatemp.net/threads/g-mode-37-english-patch.672694": {
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7wxs.jpg",
+      "_game": "G-Mode Archives 37"
+    },
+    "link:https://gbatemp.net/threads/kanken-smart-strategy-english-translation-switch.681131": {
+      "cover": "https://s.pacn.ws/1/p/14u/kanken-smart-taisaku-735035.1.jpg?v=riwiac&width=800",
+      "_game": "KanKen SMART Strategy"
+    },
+    "link:https://gbatemp.net/threads/saikoro-psycho-seventh-heaven-english-translation-mod.656500": {
+      "cover": "https://t.vndb.org/cv.t/99/81999.jpg",
+      "_game": "Saikoro Psycho: Seventh Heaven"
+    },
+    "link:https://gbatemp.net/threads/tabe-o-ja-eng-lish-translation-project.592472": {
+      "cover": "https://nintendoeverything.com/wp-content/uploads/tabe-o-ja-656x369.jpg",
+      "_game": "Tabe-O-Ja"
+    },
+    "link:https://gbatemp.net/threads/toaru-majutsu-no-virtual-on-english-translation-xdelta-patches.679584": {
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6c60.jpg",
+      "_game": "Toaru Majutsu to Kagaku no Virtual-On"
+    },
+    "link:https://gbatemp.net/threads/wip-rasenreijo-spiral-hair-super-lady-makina-english-patch.646890": {
+      "cover": "https://s.pacn.ws/1/p/16h/spiral-ojosama-chohatsu-no-makina-764911.1.jpg?v=rz07bd&width=300&crop=450,736",
+      "_game": "Rasenreijo: Spiral Hair Super Lady Makina"
+    },
+    "link:https://gbatemp.net/threads/yu-gi-oh-rush-duel-saikyo-battle-royale-lets-go-go-rush-2022-eng-translation.657123": {
+      "cover": "https://ms.yugipedia.com//thumb/b/b0/SaikyoBattleRoyaleLetsGoGoRush-VideoGameJP.png/257px-SaikyoBattleRoyaleLetsGoGoRush-VideoGameJP.png",
+      "_game": "Yu-Gi-Oh! Rush Duel: Saikyo Battle Royale!! Let's Go! Go Rush!!"
+    },
+    "link:https://www.gamebrew.org/wiki/Ciel_Nosurge:_Ushinawareta_Hoshi_e_Sasagu_Uta_Offline_Vita_-_English_Translation": {
+      "title": "Ciel Nosurge -Ushinawareta Hoshi e Sasagu Uta- DX",
+      "cover": "https://cdn2.steamgriddb.com/thumb/117dada989505e6ec4b88040b64bb596.jpg"
+    },
+    "link:https://www.gamebrew.org/wiki/Fushigi_no_Gensokyo_TOD_Reloaded_English_Vita": {
+      "cover": "https://s.pacn.ws/1/p/r8/fushigi-no-gensokyo-tod-reloaded-490115.1.jpg?v=rbfpz9&width=800",
+      "_game": "Fushigi no Gensokyo TOD Reloaded"
+    },
+    "link:https://www.gamebrew.org/wiki/Hyperdimension_Neptunia_ReBirth_3_Retranslation_HENkaku_Vita": {
+      "title": "Hyperdimension Neptunia Re;Birth3 V Generation",
+      "cover": "https://cdn2.steamgriddb.com/thumb/51afa273824c3298d1b576cd0ab1c1d5.jpg"
+    },
+    "link:https://www.gamebrew.org/wiki/Hyperdimension_Neptunia_ReBirth_3_Retranslation_RePatch_Vita": {
+      "title": "Hyperdimension Neptunia Re;Birth3 V Generation",
+      "cover": "https://cdn2.steamgriddb.com/thumb/51afa273824c3298d1b576cd0ab1c1d5.jpg"
+    },
+    "link:https://www.gamebrew.org/wiki/Mahou_Shoujo_Lyrical_Nanoha_A%27s_Portable:_The_Battle_of_Aces_PSP_-_English_Translation": {
+      "cover": "https://solarisjapan.com/cdn/shop/products/93891_original_b9d0b158-3d8e-4177-ba50-32907d442cf2.jpeg?v=1571439084&width=900",
+      "_game": "Mahou Shoujo Lyrical Nanoha A's Portable: The Battle of Aces"
+    },
+    "link:https://www.gamebrew.org/wiki/Night_of_the_Sacrifice_English_Translation_Wii": {
+      "title": "Ikenie no Yoru"
+    },
+    "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Radiant_Adventure_Squad_Fan_Translation_Wii": {
+      "title": "Pokémon Mystery Dungeon: Go For It! Light Adventure Squad",
+      "cover": "https://www.giantbomb.com/a/uploads/scale_super/13/135472/2127103-20090715_fnd3.jpg"
+    },
+    "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Tempest_Adventure_Squad_Fan_Translation_Wii": {
+      "cover": "https://www.giantbomb.com/a/uploads/scale_super/13/135472/2127103-20090715_fnd3.jpg",
+      "_game": "Pokemon Mystery Dungeon: Let's Go! Stormy Adventure Squad"
+    },
+    "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Wildfire_Adventure_Squad_Fan_Translation_Wii": {
+      "cover": "https://www.giantbomb.com/a/uploads/scale_super/13/135472/2127103-20090715_fnd3.jpg",
+      "_game": "Pokemon Mystery Dungeon: Keep Going! Blazing Adventure Squad"
+    },
+    "link:https://www.gamebrew.org/wiki/Shin-chan_Adventures_in_Cinemaland_GBA": {
+      "cover": "https://media.gamestats.com/gg/image/crayonshinchancinemaland_gbabox.jpg",
+      "_game": "Shin-chan: Adventures in Cinemaland"
+    },
+    "link:https://www.gamebrew.org/wiki/Shinseiki_Evangelion:_Koutetsu_no_Girlfriend_2nd_Portable_PSP_-_English_Translation": {
+      "cover": "https://i.ebayimg.com/images/g/efoAAOSwmRZZ4srx/s-l500.jpg",
+      "_game": "Shinseiki Evangelion: Koutetsu no Girlfriend 2nd Portable"
+    },
+    "link:https://www.gamebrew.org/wiki/Yu-Gi-Oh_Saikyo_Card_Battle_English_Translation_3DS": {
+      "cover": "https://cdn2.steamgriddb.com/logo_thumb/17f187d1996682b77d756ee6d6e6c91b.png",
+      "_game": "Yu-Gi-Oh! Saikyo Card Battle"
+    }
+  },
   "added": {},
   "ignoreFound": [],
   "watch": {
