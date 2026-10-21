@@ -1,6 +1,11 @@
 {
  "format": "patch-watch-nsfw",
  "games": {
+  "agtteam/resonancetranslation": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Soul Eater: Battle Resonance"
+  },
   "arceler0/okayunyumu-nsw-eng": {
    "checked": "2026-10-21T07:42:14Z",
    "img": "https://t.vndb.org/cv/37/107637.jpg",
@@ -10,6 +15,16 @@
    "sexual": 0,
    "title": "Okayu Nyumu!",
    "vn": "v53291"
+  },
+  "baslqc/steins-gate-psp-patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "img": "https://t.vndb.org/cv/19/77819.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "STEINS;GATE",
+   "sexual": 0,
+   "title": "Steins;Gate",
+   "vn": "v2002"
   },
   "blashy101/clock-maker-english-patch": {
    "checked": "2026-10-21T07:42:14Z",
@@ -51,6 +66,31 @@
    "title": "Aonatsu Line",
    "vn": "v24702"
   },
+  "brokenmesh/kimikiss_ai_translation": {
+   "checked": "2026-10-21T12:03:04Z",
+   "img": "https://t.vndb.org/cv/14/98914.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "KimiKiss",
+   "sexual": 0,
+   "title": "KimiKiss",
+   "vn": "v1187"
+  },
+  "camd11/srw-og-gaiden-en": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Super Robot Taisen OG Gaiden"
+  },
+  "chivien99999/khamrai-english": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Khamrai"
+  },
+  "exxistancedc/segagaga-english-translation": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Segagaga"
+  },
   "gitlab.com/neurochitin/miko_kaleido_patch": {
    "checked": "2026-10-21T07:42:14Z",
    "img": "https://t.vndb.org/cv/24/96324.jpg",
@@ -61,10 +101,600 @@
    "title": "Gensou Rougoku no Kaleidoscope",
    "vn": "v25583"
   },
+  "hexerkat/langrisser3-english": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Langrisser III"
+  },
+  "julianow/tales-of-symphonia-ngc-undub": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Symphonia"
+  },
+  "kaisaan/lostkefin": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Ys V: Lost Kefin - Kingdom of Sand"
+  },
+  "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Metal Gear Solid 3: Snake Eater HD"
+  },
+  "lifebottle/narikiri-dungeon-x": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Phantasia: Narikiri Dungeon X"
+  },
+  "lifebottle/radiant-mythology-2": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of the World: Radiant Mythology 2"
+  },
+  "lifebottle/tales-of-destiny-2": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Destiny 2"
+  },
+  "lifebottle/tales-of-destiny-dc": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Destiny"
+  },
+  "lifebottle/tales-of-fandom-vol.1": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Fandom Vol. 1"
+  },
+  "lifebottle/tales-of-innocence-r": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Innocence R"
+  },
+  "lifebottle/tales-of-legendia-undub": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Legendia"
+  },
+  "lifebottle/tales-of-phantasia-full-voice-edition": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Phantasia: Full Voice Edition"
+  },
+  "lifebottle/tales-of-phantasia-x": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Phantasia: Cross Edition"
+  },
+  "lifebottle/tales-of-the-abyss-undub": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of the Abyss"
+  },
   "link:http://watercrown.info/second-verse-same-as-the-first/": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": "Breath of Fire II: The Fated Child"
+  },
+  "link:https://archive.org/details/10000_bullets_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "10,000 Bullets"
+  },
+  "link:https://archive.org/details/aerowings_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "AeroWings"
+  },
+  "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "AirForce Delta Strike"
+  },
+  "link:https://archive.org/details/ape_escape_3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Ape Escape 3"
+  },
+  "link:https://archive.org/details/ape_escape_portable_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Ape Escape: On the Loose"
+  },
+  "link:https://archive.org/details/arc_rise_fantasia_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Arc Rise Fantasia"
+  },
+  "link:https://archive.org/details/arc_the_lad_eod_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Arc the Lad: End of Darkness"
+  },
+  "link:https://archive.org/details/arc_the_lad_tots_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Arc the Lad: Twilight of the Spirits"
+  },
+  "link:https://archive.org/details/armored_core_2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core 2"
+  },
+  "link:https://archive.org/details/armored_core_2aa_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core 2: Another Age"
+  },
+  "link:https://archive.org/details/armored_core_3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core 3"
+  },
+  "link:https://archive.org/details/armored_core_3p_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core 3 Portable"
+  },
+  "link:https://archive.org/details/armored_core_4_ps3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core 4"
+  },
+  "link:https://archive.org/details/armored_core_fa_ps3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core: For Answer"
+  },
+  "link:https://archive.org/details/armored_core_lr_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core: Last Raven"
+  },
+  "link:https://archive.org/details/armored_core_lrp_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core: Last Raven Portable"
+  },
+  "link:https://archive.org/details/armored_core_moa_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core: Master of Arena"
+  },
+  "link:https://archive.org/details/armored_core_nb_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core: Nine Breaker"
+  },
+  "link:https://archive.org/details/armored_core_nexus_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core: Nexus"
+  },
+  "link:https://archive.org/details/armored_core_pp_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core: Project Phantasma"
+  },
+  "link:https://archive.org/details/armored_core_sl_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Silent Line: Armored Core"
+  },
+  "link:https://archive.org/details/armored_core_slp_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core: Silent Line Portable"
+  },
+  "link:https://archive.org/details/armored_core_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core"
+  },
+  "link:https://archive.org/details/armored_core_v_ps3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core V"
+  },
+  "link:https://archive.org/details/armored_core_vd_ps3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Armored Core: Verdict Day"
+  },
+  "link:https://archive.org/details/astro_boy_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Astro Boy"
+  },
+  "link:https://archive.org/details/baroque_ps2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Baroque"
+  },
+  "link:https://archive.org/details/baroque_wii_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Baroque"
+  },
+  "link:https://archive.org/details/binary_domain_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Binary Domain"
+  },
+  "link:https://archive.org/details/boktai_2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Boktai 2: Solar Boy Django"
+  },
+  "link:https://archive.org/details/boktai_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Boktai: The Sun Is in Your Hand"
+  },
+  "link:https://archive.org/details/bomberman_generation_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Bomberman Generation"
+  },
+  "link:https://archive.org/details/bomberman_jetters_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Bomberman Jetters"
+  },
+  "link:https://archive.org/details/bujingai_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Bujingai: The Forsaken City"
+  },
+  "link:https://archive.org/details/castle_shikigami_2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Castle Shikigami 2"
+  },
+  "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Castlevania: Order of Ecclesia"
+  },
+  "link:https://archive.org/details/chaos_legion_ps2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Chaos Legion"
+  },
+  "link:https://archive.org/details/clock_tower_3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Clock Tower 3"
+  },
+  "link:https://archive.org/details/code_name_steam_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Code Name: S.T.E.A.M."
+  },
+  "link:https://archive.org/details/code_of_princess_3ds_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Code of Princess"
+  },
+  "link:https://archive.org/details/crimson_gem_saga_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Crimson Gem Saga"
+  },
+  "link:https://archive.org/details/crimson_tears_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Crimson Tears"
+  },
+  "link:https://archive.org/details/crisis_core_final_fantasy_vii_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Crisis Core: Final Fantasy VII"
+  },
+  "link:https://archive.org/details/dark_cloud_2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dark Cloud 2"
+  },
+  "link:https://archive.org/details/digimon_world_data_squad_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Digimon World Data Squad"
+  },
+  "link:https://archive.org/details/dirge_of_cerberus_ff7_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dirge of Cerberus: Final Fantasy VII"
+  },
+  "link:https://archive.org/details/doctor_lautrec_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Doctor Lautrec and the Forgotten Knights"
+  },
+  "link:https://archive.org/details/dokapon_kingdom_ps2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dokapon Kingdom"
+  },
+  "link:https://archive.org/details/doshin_the_giant_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Doshin the Giant"
+  },
+  "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dragon Ball Z: Tenkaichi Tag Team"
+  },
+  "link:https://archive.org/details/dragon_quest_swords_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dragon Quest Swords: The Masked Queen and the Tower of Mirrors"
+  },
+  "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dragon Quest VIII: Journey of the Cursed King"
+  },
+  "link:https://archive.org/details/dragons_crown_ps3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dragon's Crown"
+  },
+  "link:https://archive.org/details/dragons_crown_vita_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dragon's Crown"
+  },
+  "link:https://archive.org/details/drakengard_2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Drakengard 2"
+  },
+  "link:https://archive.org/details/dual_hearts_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dual Hearts"
+  },
+  "link:https://archive.org/details/dw-5-empires-undub-patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors 5: Empires"
+  },
+  "link:https://archive.org/details/dynasty-warriors-5-usa-undub": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors 5"
+  },
+  "link:https://archive.org/details/dynasty-warriors-5-usa-xtreme-legends-undub": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors 5: Xtreme Legends"
+  },
+  "link:https://archive.org/details/dynasty_warriors_2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors 2"
+  },
+  "link:https://archive.org/details/dynasty_warriors_4_ps2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors 4"
+  },
+  "link:https://archive.org/details/dynasty_warriors_4_xl_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors 4: Xtreme Legends"
+  },
+  "link:https://archive.org/details/dynasty_warriors_6_empires_ps3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors 6: Empires"
+  },
+  "link:https://archive.org/details/dynasty_warriors_6_ps2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors 6"
+  },
+  "link:https://archive.org/details/dynasty_warriors_advance_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors Advance"
+  },
+  "link:https://archive.org/details/dynasty_warriors_next_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors Next"
+  },
+  "link:https://archive.org/details/dynasty_warriors_sf_ps3_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors: Strikeforce"
+  },
+  "link:https://archive.org/details/dynasty_warriors_sf_psp_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dynasty Warriors: Strikeforce"
+  },
+  "link:https://archive.org/details/earth_defense_force_3_vita_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Earth Defense Force 2017 Portable"
+  },
+  "link:https://archive.org/details/echo_night_beyond_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Echo Night: Beyond"
+  },
+  "link:https://archive.org/details/echo_night_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Echo Night"
+  },
+  "link:https://archive.org/details/elemental_gimmick_gear_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Elemental Gimmick Gear"
+  },
+  "link:https://archive.org/details/escape_from_bug_island_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Escape from Bug Island"
+  },
+  "link:https://archive.org/details/eternal_poison_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Eternal Poison"
+  },
+  "link:https://archive.org/details/eternal_ring_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Eternal Ring"
+  },
+  "link:https://archive.org/details/etrian_odyssey_untold_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Etrian Odyssey Untold: The Millennium Girl"
+  },
+  "link:https://archive.org/details/eureka_seven_vol1_tnw_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Eureka Seven Vol. 1: The New Wave"
+  },
+  "link:https://archive.org/details/eureka_seven_vol2_tnv_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Eureka Seven Vol. 2: The New Vision"
+  },
+  "link:https://archive.org/details/evergrace_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Evergrace"
+  },
+  "link:https://archive.org/details/extermination_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Extermination"
+  },
+  "link:https://archive.org/details/ffcc_echoes_of_time_ds_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Final Fantasy Crystal Chronicles: Echoes of Time"
+  },
+  "link:https://archive.org/details/ffcc_echoes_of_time_wii_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Final Fantasy Crystal Chronicles: Echoes of Time"
+  },
+  "link:https://archive.org/details/ffcc_the_crystal_bearers_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Final Fantasy Crystal Chronicles: The Crystal Bearers"
+  },
+  "link:https://archive.org/details/final_fantasy_explorers_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Final Fantasy Explorers"
+  },
+  "link:https://archive.org/details/final_fantasy_x_x-2_vita_undub_patches": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Final Fantasy X/X-2 HD Remaster"
+  },
+  "link:https://archive.org/details/fire_heroes_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Fire Heroes"
+  },
+  "link:https://archive.org/details/forever_kingdom_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Forever Kingdom"
+  },
+  "link:https://archive.org/details/front_mission_5_translated_opening": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Front Mission 5: Scars of the War"
+  },
+  "link:https://archive.org/details/glass_rose_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Glass Rose"
+  },
+  "link:https://archive.org/details/god_eater_2rb_vita_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "God Eater 2: Rage Burst"
+  },
+  "link:https://archive.org/details/god_eater_resurrection_vita_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "God Eater Resurrection"
+  },
+  "link:https://archive.org/details/graffiti_kingdom_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Graffiti Kingdom"
+  },
+  "link:https://archive.org/details/gregory_horror_show_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Gregory Horror Show"
+  },
+  "link:https://archive.org/details/growlanser_iv_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Growlanser: Wayfarer of Time"
+  },
+  "link:https://archive.org/details/growlanser_v_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Growlanser: Heritage of War"
+  },
+  "link:https://archive.org/details/gungrave_od_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Gungrave: Overdose"
+  },
+  "link:https://archive.org/details/hexyz_force_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Hexyz Force"
+  },
+  "link:https://archive.org/details/jade_cocoon_2_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Jade Cocoon 2"
+  },
+  "link:https://archive.org/details/jade_cocoon_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Jade Cocoon: Story of the Tamamayu"
+  },
+  "link:https://archive.org/details/jeanne_darc_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Jeanne d'Arc"
+  },
+  "link:https://archive.org/details/kingdom_hearts_com_gba_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Kingdom Hearts: Chain of Memories"
+  },
+  "link:https://archive.org/details/phantasy_star_portable_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Phantasy Star Portable"
+  },
+  "link:https://archive.org/details/unchained_blades_3ds_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Unchained Blades"
+  },
+  "link:https://archive.org/details/unchained_blades_psp_undub_patch": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Unchained Blades"
   },
   "link:https://bszelda.zeldalegends.net/ce.shtml": {
    "checked": "2026-10-21T06:05:34Z",
@@ -80,6 +710,16 @@
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": "The BS Legend of Zelda"
+  },
+  "link:https://community.romhackplaza.org/threads/4921/post-7422": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Yu Yu Hakusho Gaiden"
+  },
+  "link:https://community.romhackplaza.org/threads/5055/post-7417": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Gundam Assault Survive"
   },
   "link:https://gamebanana.com/mods/480082": {
    "checked": "2026-10-21T07:42:14Z",
@@ -166,6 +806,21 @@
    "iv": 1,
    "title": "Ouchi de Rilakkuma: Rilakkuma ga Ouchi ni Yatte Kita"
   },
+  "link:https://gbatemp.net/threads/release-amagami-english-version.668601/": {
+   "checked": "2026-10-21T12:03:04Z",
+   "img": "https://t.vndb.org/cv/65/101465.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Amagami",
+   "sexual": 0,
+   "title": "Amagami",
+   "vn": "v1281"
+  },
+  "link:https://gbatemp.net/threads/release-gundemonims-english-patch.504100/": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Gundemonium Collection"
+  },
   "link:https://gbatemp.net/threads/saikoro-psycho-seventh-heaven-english-translation-mod.656500/": {
    "checked": "2026-10-21T07:42:14Z",
    "iv": 1,
@@ -190,6 +845,11 @@
    "checked": "2026-10-21T07:42:14Z",
    "iv": 1,
    "title": "The Legend of Heroes: Trails of Cold Steel (Kai)"
+  },
+  "link:https://gbatemp.net/threads/toaru-majutsu-no-virtual-on-english-translation-xdelta-patches.679584/": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Toaru Majutsu to Kagaku no Virtual-On"
   },
   "link:https://gbatemp.net/threads/true-urban-legends-shin-hayarigami.605265/": {
    "checked": "2026-10-21T07:42:14Z",
@@ -225,6 +885,71 @@
    "checked": "2026-10-21T07:42:14Z",
    "iv": 1,
    "title": "Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. & Zoku Omatome Set"
+  },
+  "link:https://growlanser6english.blogspot.com/": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Growlanser VI: Precarious World"
+  },
+  "link:https://retrogametalk.com/threads/release-tales-of-destiny-2-ps2-psp-english-ai-translation.26456/": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Tales of Destiny 2"
+  },
+  "link:https://retrogametalk.com/threads/shin-megami-tensei-ii-playstation-english-translation-w-enhancements.26848/": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Shin Megami Tensei II"
+  },
+  "link:https://romhackplaza.org/translations/chaindive-english-translation-playstation-2": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "ChainDive"
+  },
+  "link:https://romhackplaza.org/translations/dragon-ball-3-the-legend-of-goku-english-translation-nintendo-entertainment-system": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Dragon Ball 3: The Legend of Goku"
+  },
+  "link:https://romhackplaza.org/translations/germs-nerawareta-machi-english-translation-playstation": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Germs: Nerawareta Machi"
+  },
+  "link:https://romhackplaza.org/translations/gunsmoke-english-translation-family-computer-disk-system": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Gun.Smoke"
+  },
+  "link:https://romhackplaza.org/translations/jojo-no-kimyou-na-bouken-phantom-blood-english-translation-playstation-2": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "JoJo no Kimyou na Bouken: Phantom Blood"
+  },
+  "link:https://romhackplaza.org/translations/mazinger-z-super-famicom-eng-spa-msu1-english-spanish-translation-super-nintendo": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Mazinger Z"
+  },
+  "link:https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Pocket MuuMuu"
+  },
+  "link:https://romhackplaza.org/translations/shin-sd-gundam-gaiden-knight-gundam-monogatari-english-translation-game-boy": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Shin SD Gundam Gaiden: Knight Gundam Monogatari"
+  },
+  "link:https://romhackplaza.org/translations/street-fighter-zero-3-english-translation-english-translation-sega-saturn": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Street Fighter Zero 3"
+  },
+  "link:https://romhackplaza.org/translations/youchien-senki-madara-english-translation-super-nintendo": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Youchien Senki Madara"
   },
   "link:https://www.gamebrew.org/wiki/7th_Dragon": {
    "checked": "2026-10-21T07:42:14Z",
@@ -2007,6 +2732,21 @@
    "iv": 1,
    "title": "Area 88"
   },
+  "link:https://www.romhacking.net/hacks/6127/": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Mega Man X4"
+  },
+  "link:https://www.romhacking.net/hacks/6452/": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Bloody Roar 3"
+  },
+  "link:https://www.romhacking.net/hacks/6461/": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Bloody Roar 3"
+  },
   "link:https://www.romhacking.net/translations/1063/": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
@@ -2542,10 +3282,40 @@
    "iv": 1,
    "title": "Umineko no Naku Koro ni Saku"
   },
+  "pepasjc/snatcher-translated": {
+   "checked": "2026-10-21T12:03:04Z",
+   "img": "https://t.vndb.org/cv/23/88223.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "SNATCHER",
+   "sexual": 0,
+   "title": "Snatcher",
+   "vn": "v1305"
+  },
   "peterlemon/snes": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": "Albert Odyssey"
+  },
+  "pumpkinhasapatch/dokodemo-psp-english": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Doko Demo Issyo"
+  },
+  "rikimtasu/summon-night-5-undub": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Summon Night 5"
+  },
+  "soyjxck/fma-broken-angel-undub": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Fullmetal Alchemist and the Broken Angel"
+  },
+  "soyjxck/fma-crimson-elixir-undub": {
+   "checked": "2026-10-21T12:03:04Z",
+   "iv": 1,
+   "title": "Fullmetal Alchemist 2: Curse of the Crimson Elixir"
   },
   "symphonialauren/tales-of-rebirth": {
    "checked": "2026-10-21T07:42:14Z",
@@ -2563,6 +3333,6 @@
    "vn": "v30937"
   }
  },
- "generated": "2026-10-21T07:42:14Z",
+ "generated": "2026-10-21T12:03:04Z",
  "version": 1
 }
