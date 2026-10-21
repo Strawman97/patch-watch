@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-pages",
- "generated": "2026-10-20T19:23:22Z",
+ "generated": "2026-10-20T23:58:41Z",
  "pages": {
   "http://watercrown.info/second-verse-same-as-the-first": {
    "a": {
@@ -11,6 +11,471 @@
    "checked": "2026-10-20T12:30:37Z",
    "title": "Second Verse, Same As The First? « Watercrown Productions",
    "ver": "1.2b"
+  },
+  "https://archive.org/details/10000_bullets_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS4",
+   "title": "10,000 Bullets UNDUB patch",
+   "upd": "2022-07-28T18:32:36Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/aerowings_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Dreamcast",
+   "title": "AeroWings UNDUB patch",
+   "upd": "2022-11-22T00:47:45Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/airforce_delta_strike_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "AirForce Delta Strike UNDUB patch",
+   "upd": "2022-12-27T10:32:03Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/ape_escape_3_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Ape Escape 3 UNDUB patch",
+   "upd": "2021-04-25T00:42:32Z",
+   "ver": "1.1a"
+  },
+  "https://archive.org/details/ape_escape_portable_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Ape Escape P / On the Loose UNDUB patch",
+   "upd": "2025-11-13T12:14:44Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/arc_rise_fantasia_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Wii",
+   "title": "Arc Rise Fantasia UNDUB patch",
+   "upd": "2026-07-31T04:48:46Z",
+   "ver": "1.2"
+  },
+  "https://archive.org/details/arc_the_lad_eod_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Arc the Lad: End of Darkness UNDUB patch",
+   "upd": "2025-12-13T23:52:54Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/arc_the_lad_tots_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Arc the Lad: Twilight of the Spirits UNDUB patch",
+   "upd": "2025-12-13T23:13:26Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/armored_core_2_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Armored Core 2 UNDUB patch",
+   "upd": "2021-09-30T14:45:16Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/armored_core_2aa_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Armored Core 2: Another Age UNDUB patch",
+   "upd": "2022-02-01T01:17:57Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/armored_core_3_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Armored Core 3 UNDUB patch",
+   "upd": "2021-08-09T02:56:24Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/armored_core_3p_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Armored Core 3 Portable UNDUB patch",
+   "upd": "2025-11-26T10:54:31Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/armored_core_4_ps3_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Armored Core 4 UNDUB patch (PS3)",
+   "upd": "2022-08-20T19:58:36Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/armored_core_fa_ps3_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Armored Core: For Answer UNDUB patch (PS3)",
+   "upd": "2022-08-20T20:42:26Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/armored_core_lr_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Armored Core: Last Raven UNDUB patch",
+   "upd": "2022-07-13T15:06:38Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/armored_core_lrp_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Armored Core: Last Raven Portable UNDUB patch",
+   "upd": "2024-06-19T23:07:21Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/armored_core_moa_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS1",
+   "title": "Armored Core: Master of Arena UNDUB patch",
+   "upd": "2021-11-30T00:46:01Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/armored_core_nb_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Armored Core: Nine Breaker UNDUB patch",
+   "upd": "2021-08-10T23:16:15Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/armored_core_nexus_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Armored Core: Nexus UNDUB patch",
+   "upd": "2021-08-10T13:28:42Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/armored_core_pp_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS1",
+   "title": "Armored Core: Project Phantasma UNDUB patch",
+   "upd": "2021-11-30T00:46:23Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/armored_core_sl_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Silent Line: Armored Core UNDUB patch",
+   "upd": "2021-08-09T07:13:36Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/armored_core_slp_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Armored Core: Silent Line Portable UNDUB patch",
+   "upd": "2024-06-19T23:08:01Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/armored_core_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS1",
+   "title": "Armored Core UNDUB patch",
+   "upd": "2021-11-30T00:14:21Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/armored_core_v_ps3_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Armored Core V UNDUB patch (PS3)",
+   "upd": "2022-12-13T07:53:29Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/armored_core_vd_ps3_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Armored Core: Verdict Day UNDUB patch (PS3)",
+   "upd": "2024-04-27T00:01:12Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/astro_boy_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Astro Boy UNDUB patch",
+   "upd": "2026-01-06T21:07:12Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/baroque_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "shots": [
+    "https://archive.org/download/baroque_ps2_undub_patch/Decluttered%20HUD%20patch/baroque%20ps2%20-%20optional%20decluttered%20hud.gif"
+   ],
+   "title": "Baroque UNDUB patch (PS2)",
+   "upd": "2025-04-17T12:37:42Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/baroque_wii_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Baroque UNDUB patch (Wii)",
+   "upd": "2025-05-12T04:48:06Z",
+   "ver": "1.2.7z"
+  },
+  "https://archive.org/details/binary_domain_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Binary Domain UNDUB / Japanese audio patch",
+   "upd": "2025-09-27T13:43:04Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/boktai_2_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "GBA",
+   "title": "Boktai 2: Solar Boy Django UNDUB patch",
+   "upd": "2024-12-13T01:53:47Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/boktai_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "GBA",
+   "title": "Boktai: The Sun is in Your Hand UNDUB patch",
+   "upd": "2024-12-13T01:49:48Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/bomberman_generation_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "GameCube",
+   "title": "Bomberman Generation UNDUB patch",
+   "upd": "2025-05-22T08:11:47Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/bomberman_jetters_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "GameCube",
+   "title": "Bomberman Jetters UNDUB patch",
+   "upd": "2026-07-16T22:48:17Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/bujingai_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Bujingai: Swordmaster / The Forsaken City UNDUB patch",
+   "upd": "2023-08-22T00:27:14Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/castle_shikigami_2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Castle Shikigami 2 UNDUB patch",
+   "upd": "2021-04-23T15:27:53Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "DS",
+   "title": "Castlevania: Order of Ecclesia UNDUB patch",
+   "upd": "2024-12-08T22:47:23Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/chaos_legion_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "dual": true,
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Chaos Legion UNDUB patch (PS2)",
+   "upd": "2023-12-25T12:36:37Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/clock_tower_3_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Clock Tower 3 UNDUB patch",
+   "upd": "2021-10-14T02:36:53Z"
+  },
+  "https://archive.org/details/code_name_steam_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "3DS",
+   "title": "Code Name: S.T.E.A.M. UNDUB patch",
+   "upd": "2024-06-14T22:08:27Z",
+   "ver": "1.0.7z"
   },
   "https://archive.org/details/code_of_princess_3ds_undub_patch": {
    "a": {
@@ -23,6 +488,1014 @@
    "upd": "2024-06-14T23:07:05Z",
    "ver": "1.0.7z"
   },
+  "https://archive.org/details/crimson_gem_saga_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "Crimson Gem Saga UNDUB patch",
+   "upd": "2025-11-13T10:05:20Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/crimson_tears_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Crimson Tears UNDUB patch",
+   "upd": "2021-08-18T04:26:44Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/crisis_core_final_fantasy_vii_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Crisis Core: Final Fantasy VII UNDUB patch",
+   "upd": "2025-11-21T08:01:00Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/dark_cloud_2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dark Cloud 2 UNDUB patch",
+   "upd": "2026-01-26T10:29:23Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/digimon_world_data_squad_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Digimon World: Data Squad UNDUB patch",
+   "upd": "2026-07-23T00:28:53Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/dirge_of_cerberus_ff7_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dirge of Cerberus: Final Fantasy VII UNDUB patch",
+   "upd": "2023-06-23T14:20:26Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/doctor_lautrec_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "3DS",
+   "title": "Doctor Lautrec and the Forgotten Knights UNDUB patch",
+   "upd": "2024-06-14T23:32:22Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/dokapon_kingdom_ps2_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dokapon Kingdom UNDUB patch (PS2)",
+   "upd": "2022-07-20T13:43:24Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/doshin_the_giant_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "GameCube",
+   "title": "Doshin the Giant UNDUB patch",
+   "upd": "2025-05-22T09:23:38Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Dragon Ball Z: Tenkaichi Tag Team UNDUB patch",
+   "upd": "2025-06-09T23:12:58Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/dragon_quest_swords_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Wii",
+   "title": "Dragon Quest Swords: The Masked Queen and the Tower of Mirrors UNDUB patch",
+   "upd": "2025-05-01T11:48:06Z",
+   "ver": "1.1.7z"
+  },
+  "https://archive.org/details/dragon_quest_viii_3ds_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "uncensor": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "3DS",
+   "title": "Dragon Quest VIII: Journey of the Cursed King UNDUB / 3ED patch (3DS)",
+   "upd": "2025-04-08T03:03:51Z",
+   "ver": "5"
+  },
+  "https://archive.org/details/dragons_crown_ps3_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "Dragon's Crown UNDUB & Orchestra OST patch (PS3)",
+   "upd": "2026-07-25T03:53:28Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/dragons_crown_vita_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "Dragon's Crown UNDUB & Orchestra OST patch (PSV)",
+   "upd": "2026-07-25T03:29:37Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/drakengard_2_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Drakengard 2 UNDUB patch",
+   "upd": "2021-04-27T18:26:49Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/dual_hearts_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dual Hearts UNDUB patch",
+   "upd": "2022-07-20T19:36:45Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/dw-5-empires-undub-patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "DW 5 Empires Undub Patch",
+   "upd": "2023-05-27T06:21:03Z"
+  },
+  "https://archive.org/details/dynasty-warriors-5-usa-undub": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dynasty Warriors 5 ( USA) Undub",
+   "upd": "2023-05-11T19:17:55Z"
+  },
+  "https://archive.org/details/dynasty-warriors-5-usa-xtreme-legends-undub": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dynasty Warriors 5 ( USA) Xtreme Legends Undub",
+   "upd": "2023-05-17T15:49:08Z"
+  },
+  "https://archive.org/details/dynasty_warriors_2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dynasty Warriors 2 UNDUB patch",
+   "upd": "2026-01-15T01:21:17Z",
+   "ver": "1.4"
+  },
+  "https://archive.org/details/dynasty_warriors_4_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dynasty Warriors 4 UNDUB patch (PS2)",
+   "upd": "2022-01-20T07:40:08Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/dynasty_warriors_4_xl_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dynasty Warriors 4: Xtreme Legends UNDUB patch",
+   "upd": "2022-01-20T07:58:29Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/dynasty_warriors_6_empires_ps3_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Dynasty Warriors 6: Empires UNDUB patch (PS3)",
+   "upd": "2023-05-20T02:29:49Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/dynasty_warriors_6_ps2_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Dynasty Warriors 6 UNDUB patch (PS2)",
+   "upd": "2021-12-11T14:11:53Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/dynasty_warriors_advance_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "GBA",
+   "title": "Dynasty Warriors Advance UNDUB patch",
+   "upd": "2024-12-13T02:02:29Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/dynasty_warriors_next_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "Dynasty Warriors Next UNDUB patch",
+   "upd": "2021-12-12T04:04:02Z"
+  },
+  "https://archive.org/details/dynasty_warriors_sf_ps3_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Dynasty Warriors: Strikeforce UNDUB patch (PS3)",
+   "upd": "2023-08-23T00:11:03Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/dynasty_warriors_sf_psp_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Dynasty Warriors: Strikeforce UNDUB patch (PSP)",
+   "upd": "2025-11-13T10:20:37Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/earth_defense_force_3_vita_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "Earth Defense Force 2017 Portable UNDUB patch (PSV)",
+   "upd": "2026-07-27T22:04:07Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/echo_night_beyond_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Echo Night: Beyond UNDUB patch",
+   "upd": "2022-10-11T02:26:22Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/echo_night_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS1",
+   "title": "Echo Night UNDUB patch",
+   "upd": "2022-11-09T07:46:12Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/elemental_gimmick_gear_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Dreamcast",
+   "title": "Elemental Gimmick Gear UNDUB patch",
+   "upd": "2024-09-25T22:50:24Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/escape_from_bug_island_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Wii",
+   "title": "Escape from Bug Island UNDUB patch",
+   "upd": "2025-05-01T13:02:26Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/eternal_poison_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Eternal Poison UNDUB patch",
+   "upd": "2021-05-24T20:05:22Z",
+   "ver": "1.1a"
+  },
+  "https://archive.org/details/eternal_ring_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Eternal Ring UNDUB patch",
+   "upd": "2021-10-07T14:27:34Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/etrian_odyssey_untold_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "3DS",
+   "title": "Etrian Odyssey Untold: The Millennium Girl UNDUB patch",
+   "upd": "2026-02-15T19:47:54Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/eureka_seven_vol1_tnw_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Eureka Seven Vol. 1: The New Wave UNDUB patch",
+   "upd": "2022-01-23T19:21:55Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/eureka_seven_vol2_tnv_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Eureka Seven Vol. 2: The New Vision UNDUB patch",
+   "upd": "2022-01-23T18:24:53Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/evergrace_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Evergrace UNDUB patch",
+   "upd": "2021-10-03T08:46:52Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/extermination_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Extermination UNDUB patch",
+   "upd": "2024-03-05T02:01:35Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/ffcc_echoes_of_time_ds_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Wii",
+   "title": "Final Fantasy Crystal Chronicles: Echoes of Time UNDUB patch (DS)",
+   "upd": "2022-08-20T18:37:48Z",
+   "ver": "1.2"
+  },
+  "https://archive.org/details/ffcc_echoes_of_time_wii_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Wii",
+   "title": "Final Fantasy Crystal Chronicles: Echoes of Time UNDUB patch (Wii)",
+   "upd": "2025-05-01T13:58:06Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/ffcc_the_crystal_bearers_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Wii",
+   "title": "Final Fantasy Crystal Chronicles: The Crystal Bearers UNDUB patch",
+   "upd": "2025-08-08T17:39:19Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/final_fantasy_explorers_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "3DS",
+   "title": "Final Fantasy Explorers UNDUB patch",
+   "upd": "2024-06-14T22:35:01Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/final_fantasy_x_x-2_vita_undub_patches": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "Final Fantasy X / X-2 HD Remaster UNDUB patches (PSV)",
+   "upd": "2021-10-26T02:23:16Z"
+  },
+  "https://archive.org/details/fire_heroes_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Fire Heroes UNDUB patch",
+   "upd": "2025-01-21T02:11:29Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/forever_kingdom_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Forever Kingdom UNDUB patch",
+   "upd": "2021-07-26T23:51:05Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/front_mission_5_translated_opening": {
+   "a": {
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Front Mission 5: Scars of the War – Translated OP addendum",
+   "upd": "2024-09-02T20:23:52Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/glass_rose_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true,
+     "uncensor": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Glass Rose UNDUB patch",
+   "upd": "2026-01-07T22:21:10Z",
+   "ver": "1.0b"
+  },
+  "https://archive.org/details/god_eater_2rb_vita_undub_patch": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "pct": 100,
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "God Eater 2: Rage Burst UNDUB patch (PSV)",
+   "upd": "2026-07-21T09:36:16Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/god_eater_resurrection_vita_undub_patch": {
+   "a": {
+    "cov": "Partial",
+    "ex": {},
+    "pct": 100,
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "God Eater Resurrection UNDUB patch (PSV)",
+   "upd": "2026-07-21T10:48:03Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/graffiti_kingdom_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Graffiti Kingdom UNDUB patch",
+   "upd": "2022-07-15T17:10:05Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/gregory_horror_show_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Gregory Horror Show UNDUB patch",
+   "upd": "2022-08-26T04:23:57Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/growlanser_iv_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Growlanser: Wayfarer of Time UNDUB patch",
+   "upd": "2026-04-18T19:50:16Z",
+   "ver": "1.3"
+  },
+  "https://archive.org/details/growlanser_v_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Growlanser: Heritage of War UNDUB patch",
+   "upd": "2026-07-17T03:59:24Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/gungrave_od_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Gungrave: Overdose UNDUB patch",
+   "upd": "2021-05-18T07:40:19Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/hexyz_force_undub_patch": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Hexyz Force UNDUB patch",
+   "upd": "2025-11-13T10:30:19Z",
+   "ver": "1.2b"
+  },
+  "https://archive.org/details/jade_cocoon_2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Jade Cocoon 2 UNDUB patch",
+   "upd": "2022-07-19T18:23:41Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/jade_cocoon_undub_patch": {
+   "a": {
+    "ex": {
+     "fixes": true,
+     "gameplay": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS1",
+   "title": "Jade Cocoon: Story of the Tamamayu UNDUB patch",
+   "upd": "2023-01-23T08:19:49Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/jeanne_darc_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Jeanne d'Arc UNDUB patch",
+   "upd": "2025-12-08T06:57:49Z",
+   "ver": "1.2"
+  },
+  "https://archive.org/details/kingdom_hearts_com_gba_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "GBA",
+   "title": "Kingdom Hearts: Chain of Memories UNDUB patch (GBA)",
+   "upd": "2024-12-13T01:41:57Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/liberation_maiden_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "3DS",
+   "title": "Liberation Maiden UNDUB patch",
+   "upd": "2024-06-14T23:13:44Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/lord_of_magna_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "3DS",
+   "title": "Lord of Magna: Maiden Heaven UNDUB patch",
+   "upd": "2024-06-14T23:10:17Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/magic_pengel_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Magic Pengel: The Quest for Color UNDUB patch",
+   "upd": "2024-07-17T00:27:57Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/maken_x_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Maken X UNDUB patch",
+   "upd": "2021-05-25T08:59:54Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/maximo_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Maximo: Ghosts to Glory UNDUB patch",
+   "upd": "2023-07-29T01:31:19Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/mega_man_mhx_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "Mega Man Maverick Hunter X UNDUB patch",
+   "upd": "2025-11-18T04:43:05Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/mega_man_pu_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Mega Man Powered Up UNDUB patch",
+   "upd": "2025-11-18T04:14:21Z",
+   "ver": "1.3"
+  },
+  "https://archive.org/details/mega_man_x7_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Mega Man X7 UNDUB patch (PS2)",
+   "upd": "2024-02-05T12:41:37Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/mega_man_x_cm_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Mega Man X: Command Mission UNDUB patch (PS2)",
+   "upd": "2024-02-05T18:56:32Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/mimana_iyar_chronicle_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "Mimana Iyar Chronicle UNDUB patch",
+   "upd": "2025-11-13T11:51:35Z",
+   "ver": "1.2b"
+  },
+  "https://archive.org/details/mr_driller_2_gba_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "GBA",
+   "title": "Mr. Driller 2 UNDUB patch (GBA)",
+   "upd": "2025-12-15T08:27:46Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/mystic_heroes_undub_patch_ps2": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Mystic Heroes UNDUB patch (PS2)",
+   "upd": "2025-01-31T07:40:09Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/neverland_card_battles_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Neverland Card Battles UNDUB patch",
+   "upd": "2025-11-13T10:17:54Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/new_little_kings_story_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "New Little King's Story UNDUB patch",
+   "upd": "2024-12-23T15:56:13Z",
+   "ver": "2.0"
+  },
+  "https://archive.org/details/nightshade_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Nightshade UNDUB patch",
+   "upd": "2022-07-28T18:36:50Z",
+   "ver": "1.1a"
+  },
+  "https://archive.org/details/onimusha_2_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Onimusha 2: Samurai's Destiny UNDUB patch",
+   "upd": "2021-02-14T00:33:39Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/onimusha_3_pc_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Onimusha 3: Demon Siege UNDUB patch (PC)",
+   "upd": "2024-01-02T17:17:18Z",
+   "ver": "1.0.7z"
+  },
+  "https://archive.org/details/onimusha_3_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Onimusha 3: Demon Siege UNDUB patch (PS2)",
+   "upd": "2021-03-01T07:43:42Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/onimusha_bw_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Onimusha: Blade Warriors UNDUB patch",
+   "upd": "2021-02-12T20:29:15Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/pandoras_tower_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Wii",
+   "title": "Pandora's Tower UNDUB patch",
+   "upd": "2025-04-27T23:20:45Z",
+   "ver": "1.3.7z"
+  },
   "https://archive.org/details/phantasy_star_portable_undub_patch": {
    "a": {
     "ex": {},
@@ -33,6 +1506,251 @@
    "title": "Phantasy Star Portable UNDUB patch",
    "upd": "2025-11-13T03:29:28Z",
    "ver": "1.1a"
+  },
+  "https://archive.org/details/phantasy_star_zero_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "DS",
+   "title": "Phantasy Star 0 UNDUB patch",
+   "upd": "2023-04-08T18:04:24Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/professor_layton_ds_undub_patches": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "DS",
+   "title": "Professor Layton DS UNDUB patches",
+   "upd": "2022-07-22T17:26:44Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/project_zero_2_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS3",
+   "title": "Project Zero II: Crimson Butterfly UNDUB patch (PS2)",
+   "upd": "2025-04-10T08:27:36Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/project_zero_2_wii_undub_patch": {
+   "a": {
+    "cov": "Partial",
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Project Zero 2: Wii Edition UNDUB patch",
+   "upd": "2025-05-12T07:27:45Z",
+   "ver": "1.1a"
+  },
+  "https://archive.org/details/project_zero_3_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Project Zero 3: The Tormented UNDUB patch",
+   "upd": "2024-02-06T16:55:50Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/record_of_lodoss_war_aoc_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true,
+     "uncensor": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "Dreamcast",
+   "title": "Record of Lodoss War UNDUB patch",
+   "upd": "2022-12-17T12:26:40Z",
+   "ver": "1.1a"
+  },
+  "https://archive.org/details/riviera_gba_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "GBA",
+   "title": "Riviera: The Promised Land UNDUB patch (GBA)",
+   "upd": "2024-12-13T02:14:41Z",
+   "ver": "1.0a"
+  },
+  "https://archive.org/details/robot_warlords_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Robot Warlords UNDUB patch",
+   "upd": "2022-07-06T12:02:47Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/romancing_saga_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Romancing SaGa UNDUB patch (PS2)",
+   "upd": "2021-06-06T03:42:47Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/samurai_warriors_2_empires_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Samurai Warriors 2: Empires UNDUB patch (PS2)",
+   "upd": "2021-12-29T09:05:58Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/samurai_warriors_2_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Samurai Warriors 2 UNDUB patch (PS2)",
+   "upd": "2022-01-03T12:06:14Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Samurai Warriors 2: Xtreme Legends UNDUB patch (PS2)",
+   "upd": "2021-12-29T08:45:39Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/samurai_warriors_sow_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Samurai Warriors: State of War UNDUB patch",
+   "upd": "2025-11-13T12:38:10Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/shadow_hearts_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Shadow Hearts UNDUB patch",
+   "upd": "2025-11-25T18:10:11Z",
+   "ver": "1.2"
+  },
+  "https://archive.org/details/shadow_tower_abyss_hardsub": {
+   "a": {
+    "ex": {
+     "subs": true
+    }
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Shadow Tower Abyss – Improved English FMV Subtitles addendum",
+   "upd": "2025-05-16T03:10:26Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/shining_force_exa_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Shining Force EXA UNDUB patch",
+   "upd": "2025-01-10T10:40:18Z",
+   "ver": "1.2"
+  },
+  "https://archive.org/details/shining_force_neo_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS2",
+   "title": "Shining Force Neo UNDUB patch",
+   "upd": "2021-11-25T02:19:20Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/shinobido_2_roz_undub_patch": {
+   "a": {
+    "cov": "Partial",
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PS Vita",
+   "title": "Shinobido 2: Revenge of Zen UNDUB patch",
+   "upd": "2025-05-21T08:32:42Z",
+   "ver": "1.1"
+  },
+  "https://archive.org/details/shinobido_totn_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "plat": "PSP",
+   "title": "Shinobido: Tales of the Ninja UNDUB patch",
+   "upd": "2025-11-13T06:24:20Z",
+   "ver": "1.0"
   },
   "https://archive.org/details/unchained_blades_3ds_undub_patch": {
    "a": {
@@ -77,6 +1795,38 @@
    "checked": "2026-10-20T12:30:37Z",
    "title": "The Legend of BSZelda - MottZilla Project",
    "ver": "0.93"
+  },
+  "https://community.romhackplaza.org/threads/4921/post-7422": {
+   "a": {
+    "ex": {
+     "gfx": true
+    }
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "dl": "https://www.patchclan.com/patches/yu-yu-hakusho-gaiden-en.ips",
+   "shots": [
+    "https://community.romhackplaza.org/data/attachments/0/2x/457-bd68c2d2ca2446f719353290989fdca1.jpg?hash=62TstjD8i5",
+    "https://community.romhackplaza.org/data/attachments/0/2x/458-677590bd73686eb6ed27ff5c5260541a.jpg?hash=6CI-r3bzKd",
+    "https://community.romhackplaza.org/data/attachments/0/2x/459-4babd37b21458844e4e9e8420ac98d07.jpg?hash=zADAsy-yDu",
+    "https://community.romhackplaza.org/data/attachments/0/2x/460-325d78bb6adfce311a8d332a740fe162.jpg?hash=P6EisrGlW9",
+    "https://community.romhackplaza.org/data/attachments/0/2x/461-b3decaafeb5cb410f627e763dc4374ff.jpg?hash=7cR9t0tb4Y"
+   ],
+   "title": "[Release] Yu Yu Hakusho Gaiden (Mega Drive, 1994) is now fully playable in English",
+   "ver": "1.0"
+  },
+  "https://community.romhackplaza.org/threads/5055/post-7417": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "dl": "https://github.com/Llamapixels/Gundam-Assault-Survive-100-English-Translation-Patch--PSP",
+   "shots": [
+    "https://community.romhackplaza.org/data/attachments/0/2x/595-7f06f0489e4d7169895c2829ce90769b.jpg?hash=jyxgK4AC_B",
+    "https://community.romhackplaza.org/data/attachments/0/2x/596-d5cce2e3115239d02407528582f388c8.jpg?hash=u5yxgE4_qR",
+    "https://community.romhackplaza.org/data/attachments/0/2x/597-959d3ee3d5f20eae9ff3d55e2dc80a1c.jpg?hash=UsOKDPPVmx",
+    "https://community.romhackplaza.org/data/attachments/0/2x/598-b86c354b854ff59baa0e6066e46e1483.jpg?hash=v959-EwZCC"
+   ],
+   "title": "Gundam Assault Survive (PSP) is now fully playable in English!"
   },
   "https://gamebanana.com/mods/480082": {
    "a": {
@@ -137,6 +1887,14 @@
    "checked": "2026-10-20T19:23:22Z",
    "http": 403
   },
+  "https://gbatemp.net/threads/release-amagami-english-version.668601": {
+   "checked": "2026-10-20T23:58:41Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/release-gundemonims-english-patch.504100": {
+   "checked": "2026-10-20T23:58:41Z",
+   "http": 403
+  },
   "https://gbatemp.net/threads/saikoro-psycho-seventh-heaven-english-translation-mod.656500": {
    "checked": "2026-10-20T19:23:22Z",
    "http": 403
@@ -155,6 +1913,10 @@
   },
   "https://gbatemp.net/threads/the-legend-of-heroes-trails-of-cold-steel-kai-english-translation-mod.609253": {
    "checked": "2026-10-20T19:23:22Z",
+   "http": 403
+  },
+  "https://gbatemp.net/threads/toaru-majutsu-no-virtual-on-english-translation-xdelta-patches.679584": {
+   "checked": "2026-10-20T23:58:41Z",
    "http": 403
   },
   "https://gbatemp.net/threads/true-urban-legends-shin-hayarigami.605265": {
@@ -183,6 +1945,64 @@
    },
    "checked": "2026-10-20T19:23:22Z",
    "title": "Oregairu Game Zoku Translation"
+  },
+  "https://growlanser6english.blogspot.com": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "mtl": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "shots": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2EDe3ISMwvwabjx7PPClkJWTvi_pSGwIABu2b56GStKrKwACT0IuL8zOfl7uGwMdEL5bWBxaPFHJNcBYND3URg1NTHV2xWJ0eFnPdps4CMMdF1bBLXSfZrkCEHFkUgqcw-WMIh4MzcWsoNfHE-xaFdE_1eJa3etMe24ap_Xl9nmr9cgt5PoRAYOlXD4ZS/s600/Screenshot%202025-06-02%20193427.jpg"
+   ],
+   "title": "Growlanser VI: Precarious World English Translation Patch Project",
+   "ver": "0.2.0"
+  },
+  "https://retrogametalk.com/threads/release-tales-of-destiny-2-ps2-psp-english-ai-translation.26456": {
+   "a": {
+    "cov": "Partial",
+    "ex": {
+     "retrans": true
+    },
+    "mtl": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "shots": [
+    "https://retrogametalk.com/attachments/1000039525-png.215478/",
+    "https://retrogametalk.com/attachments/1000039527-jpg.215480/",
+    "https://retrogametalk.com/attachments/1785002143422-png.215592/",
+    "https://retrogametalk.com/attachments/1000039530-jpg.215625/",
+    "https://retrogametalk.com/data/attachments/215/215629-907423a7f3e85917b37188f3d49fc66d.jpg?hash=vSP7ILybzV",
+    "https://retrogametalk.com/attachments/nanomachines-mgspwn3r-3903710009-gif.215660/",
+    "https://retrogametalk.com/data/attachments/215/215650-1c01f4ef3fe51403938105fe436ea3ba.jpg?hash=VPP9hq2z0x",
+    "https://retrogametalk.com/attachments/1000039534-gif.215711/"
+   ],
+   "st": "RSS",
+   "title": "Release! Tales of Destiny 2 (PS2) + (PSP) English AI translation",
+   "ver": "0.3.2"
+  },
+  "https://retrogametalk.com/threads/shin-megami-tensei-ii-playstation-english-translation-w-enhancements.26848": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "retrans": true
+    },
+    "mtl": true
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "shots": [
+    "https://retrogametalk.com/attachments/1785773252259-png.219202/",
+    "https://retrogametalk.com/attachments/1785785305800-png.219257/",
+    "https://retrogametalk.com/attachments/1785973664766-jpeg.220326/",
+    "https://retrogametalk.com/attachments/1792533352094-png.253791/",
+    "https://retrogametalk.com/attachments/1792533369048-png.253792/",
+    "https://retrogametalk.com/attachments/1792533384010-png.253793/",
+    "https://retrogametalk.com/attachments/1792533396470-png.253794/"
+   ],
+   "st": "RSS",
+   "title": "Shin Megami Tensei II (PlayStation) English translation w/enhancements"
   },
   "https://romhackplaza.org/translations/chaindive-english-translation-playstation-2": {
    "a": {
@@ -243,6 +2063,23 @@
    "upd": "2024-02-05T00:00:00Z",
    "ver": "1.8"
   },
+  "https://romhackplaza.org/translations/gunsmoke-english-translation-family-computer-disk-system": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/SoLeDfFxO74jexT0PRowVNzOWU2OeNhk2O7VivU2.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4532/snWYRfqMWL1Sqk67bUEyeuDtY7puk5mUV23bl2WZ.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4532/wgetA4OoSX4mlYhzosS89jDauU14PbVJux0aE4NG.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4532/RrBOjkgPrJM9D3aI8FafjDGKIQJ7kgPM59WfwVU5.png"
+   ],
+   "st": "Complete",
+   "title": "Gun.Smoke (English Translation) Family Computer Disk System",
+   "upd": "2026-10-06T00:00:00Z",
+   "ver": "1.0"
+  },
   "https://romhackplaza.org/translations/jojo-no-kimyou-na-bouken-phantom-blood-english-translation-playstation-2": {
    "a": {
     "ex": {}
@@ -259,6 +2096,25 @@
    "title": "JoJo No Kimyou Na Bouken: Phantom Blood (English Translation) PlayStation 2",
    "upd": "2021-08-15T00:00:00Z",
    "ver": "1.15"
+  },
+  "https://romhackplaza.org/translations/mazinger-z-super-famicom-eng-spa-msu1-english-spanish-translation-super-nintendo": {
+   "a": {
+    "ex": {
+     "gfx": true
+    }
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/xOtkrOv3BdGdZRWytD3xQHKwqLjXjY6RDGWSy9yC.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4566/UiXRPPzQKPrlqGsAw72KPpy7s6vVPPtqGNlmgCPg.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4566/Nlj1lGMPslwG8Xk89x6hiBnu2xo7QJC1mSLTpt7Y.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4566/vMGc2crB41638sAQ62kz3jl1InSpqRXWIQkFwFts.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4566/lhBbmLxGwmR52b9falGXXs5aLCELzXMdej8FmdCU.png"
+   ],
+   "st": "Complete",
+   "title": "Mazinger Z Super Famicom ENG-SPA MSU1 (English, Spanish Translation) Super Nintendo",
+   "upd": "2026-10-18T00:00:00Z",
+   "ver": "0.9"
   },
   "https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": {
    "a": {
@@ -318,6 +2174,20 @@
    "title": "Street Fighter Zero 3 - English Translation (English Translation) SEGA Saturn",
    "upd": "2026-10-15T00:00:00Z",
    "ver": "1.1"
+  },
+  "https://romhackplaza.org/translations/youchien-senki-madara-english-translation-super-nintendo": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-20T23:58:41Z",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/jVUrAa4nmvlNKohj8rLldCjNVnYUOLz6rV2SaTP3.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4533/B62TMC8e5APMqI4MezDSOz00GJ6zjdovNHaIvDqo.png"
+   ],
+   "st": "Complete",
+   "title": "Youchien Senki Madara (English Translation) Super Nintendo",
+   "upd": "2026-10-09T00:00:00Z",
+   "ver": "0.2"
   },
   "https://www.gamebrew.org/wiki/7th_Dragon": {
    "a": {
