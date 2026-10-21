@@ -625,6 +625,7 @@ IGDB_PLATFORMS = {"NES": 18, "FDS": 51, "SNES": 19, "Satellaview": 306, "Game Bo
                   "Mega Drive": 29, "Mega CD": 78, "32X": 30, "Master System": 64, "Game Gear": 35, "Saturn": 32, "Dreamcast": 23, "PC Engine": 86,
                   "PC Engine CD": 150, "PC-FX": 274, "WonderSwan": 57, "WonderSwan Color": 123, "Neo Geo Pocket Color": 120, "Xbox 360": 12, "Arcade": 52}
 MAX_IGDB = int(os.environ.get("PW_MAX_IGDB", "400"))
+IGDB_EROTIC = 42                                         # IGDB's theme id for "Erotic"
 
 def igdb_token(cid, secret):
     body = urllib.parse.urlencode({"client_id": cid, "client_secret": secret, "grant_type": "client_credentials"}).encode()
@@ -682,7 +683,7 @@ def refresh_screens(projects):
         del mapping[k]
     now = datetime.datetime.now(datetime.timezone.utc)
     todo = [(q, t, j, pid) for q, (t, j, pid) in wanted.items()
-            if not (games.get(q) and (games[q].get("shots") or (now - datetime.datetime.fromisoformat(games[q].get("checked", "2000-01-01T00:00:00Z").replace("Z", "+00:00"))).days < 30))]
+            if not (games.get(q) and games[q].get("tv") and (games[q].get("shots") or (now - datetime.datetime.fromisoformat(games[q].get("checked", "2000-01-01T00:00:00Z").replace("Z", "+00:00"))).days < 30))]
     log(f"  {len(todo)} games to look up on IGDB (max {MAX_IGDB} this run)")
     found = 0
     for q, title, jp, pid in todo[:MAX_IGDB]:
@@ -692,7 +693,7 @@ def refresh_screens(projects):
                 continue
             safe = t.replace('"', "").replace("\\", "")
             try:
-                res = igdb_query(cid, token, f'search "{safe}"; fields name,alternative_names.name,screenshots.image_id; where platforms = ({pid}); limit 8;')
+                res = igdb_query(cid, token, f'search "{safe}"; fields name,alternative_names.name,screenshots.image_id,themes; where platforms = ({pid}); limit 8;')
             except Exception as e:
                 log(f"  {t}: IGDB error ({e})"); res = []
             time.sleep(0.3)
@@ -702,7 +703,9 @@ def refresh_screens(projects):
         if m:
             score, g = m
             shots = [s["image_id"] for s in (g.get("screenshots") or []) if s.get("image_id")][:6]
-            games[q] = {"name": g.get("name"), "id": g.get("id"), "shots": shots, "match": round(score, 3), "checked": NOW}
+            games[q] = {"name": g.get("name"), "id": g.get("id"), "shots": shots, "match": round(score, 3), "checked": NOW, "tv": 1}
+            if IGDB_EROTIC in (g.get("themes") or []):
+                games[q]["nsfw"] = True                   # IGDB lists the game under its "Erotic" theme
             found += bool(shots)
         else:
             games[q] = {"shots": [], "checked": NOW}
@@ -710,6 +713,79 @@ def refresh_screens(projects):
     for q in [q for q in games if q not in used]:
         del games[q]
     log(f"  IGDB: screenshots found for {found} of {min(len(todo), MAX_IGDB)} looked up")
+    data["generated"] = NOW
+    return write_json_if_changed(path, data)
+
+# ---------------------------------------------------------------- NSFW cover art (VNDB)
+VNDB_API = os.environ.get("PW_VNDB_API", "https://api.vndb.org/kana/vn")
+MAX_VNDB = int(os.environ.get("PW_MAX_VNDB", "150"))   # VNDB allows 200 requests every 5 minutes
+VNDB_PLATFORMS = {"NES": "nes", "FDS": "nes", "SNES": "sfc", "Game Boy": "gba", "GBA": "gba", "N64": "n64", "GameCube": "gcn", "Wii": "wii", "Wii U": "wiu",
+                  "Switch": "swi", "DS": "nds", "3DS": "n3d", "PS1": "ps1", "PS2": "ps2", "PS3": "ps3", "PS4": "ps4", "PSP": "psp", "PS Vita": "psv",
+                  "Saturn": "sat", "Dreamcast": "drc", "Mega Drive": "smd", "Mega CD": "scd", "PC Engine": "pce", "PC Engine CD": "pce", "PC-FX": "pcf",
+                  "WonderSwan": "wsw", "WonderSwan Color": "wsw", "Xbox 360": "xb3", "PC": "win"}
+NSFW_SEXUAL = 1.0                                        # VNDB rates cover images 0 (safe), 1 (suggestive) and 2 (explicit); blur from suggestive up
+
+def vndb_query(title):
+    body = json.dumps({"filters": ["search", "=", title], "fields": "title, alttitle, titles.title, platforms, image.sexual, image.violence", "results": 8}).encode()
+    req = urllib.request.Request(VNDB_API, data=body, headers={"Content-Type": "application/json", "User-Agent": UA})
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return json.loads(r.read()).get("results") or []
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < 2:
+                time.sleep(30); continue
+            raise
+
+def refresh_nsfw(projects):
+    """Looks each game up on VNDB (visual novels) and records how sexual its cover art is rated, so the page can blur it."""
+    path = os.path.join(DATA, "nsfw.json")
+    data = load_json(path, {"format": "patch-watch-nsfw", "version": 1, "games": {}})
+    games = data.setdefault("games", {})
+    now = datetime.datetime.now(datetime.timezone.utc)
+    keys = {p.get("k") or p["id"] for p in projects}
+    for k in [k for k in games if k not in keys]:
+        del games[k]
+    todo = []
+    for p in projects:
+        key = p.get("k") or p["id"]
+        g = games.get(key)
+        if g and g.get("title") == p.get("g") and (now - datetime.datetime.fromisoformat(g.get("checked", "2000-01-01T00:00:00Z").replace("Z", "+00:00"))).days < 60:
+            continue
+        todo.append(p)
+    log(f"  {len(todo)} games to look up on VNDB (max {MAX_VNDB} this run)")
+    hits = 0
+    for p in todo[:MAX_VNDB]:
+        key = p.get("k") or p["id"]
+        titles = [t for t in [strip_parens(p.get("g", "")), strip_parens(p.get("jp") or "")] if t]
+        best, plat = None, VNDB_PLATFORMS.get(p.get("p") or "")
+        try:
+            for t in titles:
+                for vn in vndb_query(t):
+                    names = [vn.get("title"), vn.get("alttitle")] + [x.get("title") for x in (vn.get("titles") or [])]
+                    score = max((1.0 if norm(n) == norm(tt) else difflib.SequenceMatcher(None, norm(n), norm(tt)).ratio())
+                                for n in names if n for tt in titles)
+                    if numbers(norm(names[0] or "")) != numbers(norm(titles[0])):
+                        score -= 0.3
+                    if plat and plat not in (vn.get("platforms") or []):
+                        score -= 0.15                     # same title, but VNDB doesn't list it on this platform
+                    if score >= 0.9 and (best is None or score > best[0]):
+                        best = (score, vn)
+                time.sleep(1.6)
+                if best:
+                    break
+        except Exception as e:
+            log(f"  {titles[0] if titles else key}: VNDB error ({e})")
+            continue
+        e = {"title": p.get("g"), "checked": NOW}
+        if best:
+            img = best[1].get("image") or {}
+            e.update({"vn": best[1].get("id"), "name": best[1].get("title"), "sexual": img.get("sexual"), "match": round(best[0], 3)})
+            if (img.get("sexual") or 0) >= NSFW_SEXUAL:
+                e["nsfw"] = True
+                hits += 1
+        games[key] = e
+    log(f"  VNDB: {hits} covers rated suggestive or explicit")
     data["generated"] = NOW
     return write_json_if_changed(path, data)
 
@@ -725,7 +801,8 @@ def main():
              ("discover", "New patches:", lambda: refresh_discover(projects)),
              ("itch", "itch.io devlogs:", lambda: refresh_itch(projects)),
              ("covers", "Covers:", lambda: refresh_covers(projects)),
-             ("screens", "IGDB screenshots:", lambda: refresh_screens(projects))]
+             ("screens", "IGDB screenshots:", lambda: refresh_screens(projects)),
+             ("nsfw", "NSFW cover art (VNDB):", lambda: refresh_nsfw(projects))]
     for name, title, fn in steps:
         if only and name not in only:
             continue

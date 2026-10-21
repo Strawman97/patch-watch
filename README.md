@@ -34,6 +34,7 @@ A single-page tracker for English fan translations and undubs of Japanese consol
 - **Alerts** for new releases and versions, updated patch pages, newly listed projects and links that stop working.
 - **Find a game:** search Patch Watch's list, see newly found patches that aren't listed yet, search GitHub from the page, or jump to Romhack Plaza, Romhacking.net, GameBrew, GitHub, r/fantranslation or the web with the game's name filled in.
 - **Add project:** track anything else by its link. GitHub and GitLab links are checked straight away.
+- **NSFW blur, on by default:** cover art and screenshots of games marked NSFW are blurred with an NSFW label. A game is marked when VNDB rates its cover suggestive or explicit, when IGDB lists it under its Erotic theme, when its README or patch page mentions adult content, or when you or the maintainer mark it. Click a blurred cover in a project's details to show it, set any project to "always blur" or "never blur" in its edits, or turn the blur off in **Settings**.
 - **Malware-lure warnings** for GitHub repositories that look like malware disguised as patches.
 
 ## Getting started
@@ -57,6 +58,7 @@ Most patch pages can't be read from a web page, so a scheduled GitHub Actions wo
 | `data/discover.json` | English translations and undubs that Patch Watch doesn't list yet, found on Romhack Plaza's newest translations, GameBrew's translation lists, GitHub (topics such as `undub` and `fan-translation`, keywords such as "english patch" and "localize", and every repository of the watched accounts) and the Internet Archive (everything from the watched uploaders, plus items titled as undubs or English patches). Internet Archive items that hold game files (ROMs or disc images) instead of just a patch are never listed. They show in **Find a game** |
 | `data/itch.json` | The latest devlog posts of projects hosted on itch.io |
 | `data/covers.json` | SteamGridDB covers for games without libretro box art (needs the `SGDB_API_KEY` secret) |
+| `data/nsfw.json` | Each game's VNDB match and how its cover art is rated (safe, suggestive or explicit), used for the NSFW blur. Up to 150 games are looked up per run and re-checked every 60 days |
 | `data/screens.json` | IGDB screenshots of the original games (needs the `IGDB_CLIENT_ID` and `IGDB_CLIENT_SECRET` secrets) |
 
 What the refresh reads from a README or patch page (machine translation mentioned, coverage, extras) is a hint. The built-in list and the maintainer's shared fixes always win, and each project's details say where every value came from.
@@ -83,6 +85,7 @@ Patch Watch has no server, accounts or analytics. Your data never leaves your br
 - [Romhack Plaza](https://romhackplaza.org) and [Romhacking.net](https://www.romhacking.net): patch pages
 - [swosho's uploads on the Internet Archive](https://archive.org/details/@swosho): undub patches
 - [Life Bottle Productions](https://github.com/lifebottle): Tales series translations and undubs
+- [VNDB](https://vndb.org): cover art ratings for the NSFW blur
 - [libretro-thumbnails](https://github.com/libretro-thumbnails): box art and original-game screenshots
 - [SteamGridDB](https://www.steamgriddb.com) and [IGDB](https://www.igdb.com): covers and screenshots
 - Every translator, hacker and undubber whose work is tracked here
@@ -119,7 +122,7 @@ All game titles, trademarks and box art belong to their respective owners. Patch
 
 `overrides.json` has three sections:
 
-- **`projects`**, keyed by the GitHub repository (`owner/repo`) or by `link:` plus the patch page's link. Fields: `title`, `jp`, `cover`, `platform`, `labels` (any of `Human translation`, `Machine translation`, `Undub`), `coverage` (`Complete`, `Story only`, `Partial`, `Menus only`, `Not stated`), `coverageNote`, `pct`, `status` (`Released`, `Partial release`, `In progress`, `Abandoned`, `Unknown`), `extras` (`retrans`, `port`, `subs`, `restore`, `uncensor`, `fixes`, `gameplay`, `gfx`, `dual`), `hideScreens`, `screens`, `hide` (removes the project) and `note`.
+- **`projects`**, keyed by the GitHub repository (`owner/repo`) or by `link:` plus the patch page's link. Fields: `title`, `jp`, `cover`, `platform`, `labels` (any of `Human translation`, `Machine translation`, `Undub`), `coverage` (`Complete`, `Story only`, `Partial`, `Menus only`, `Not stated`), `coverageNote`, `pct`, `status` (`Released`, `Partial release`, `In progress`, `Abandoned`, `Unknown`), `extras` (`retrans`, `port`, `subs`, `restore`, `uncensor`, `fixes`, `gameplay`, `gfx`, `dual`), `nsfw` (`true` always blurs the art, `false` never does), `hideScreens`, `screens`, `hide` (removes the project) and `note`.
 - **`added`**, projects added for everyone, with `link`, `title`, `jp`, `platform`, `labels`, `coverage`, `coverageNote`, `status`, `extras`, `cover` and `description`.
 - **`ignoreFound`**, links of newly found patches that aren't relevant, so they stop showing in Find a game.
 - **`watch`**, the accounts the refresh checks in full, beyond its keyword searches. Anything here adds to the built-in lists:

@@ -32,6 +32,7 @@ COV_RES = [
     ("Partial", re.compile(r"\bpartial(ly)?( translat|\b)|\bwork[- ]in[- ]progress\b|\bwip\b|\bdemo patch\b|\bprologue (patch|translation)\b|\bincomplete\b|\b(?:[1-9]|[1-9]\d)\s?% (translated|complete|done)\b", F)),
     ("Complete", re.compile(r"\b100\s?% (translated|complete|done)\b|\bfully translated\b|\bcomplete (english )?translation\b|\btranslation is (now )?complete\b|\ball (of the )?(text|dialogue|script) (is |has been )?translated\b", F)),
 ]
+ADULT_RE = re.compile(r"\b(hentai|eroge|ecchi|nsfw|r-?18|18\+ (only|content|game|patch|version)|adults? only|adult (content|game|visual novel|scenes?)|explicit (sexual|content|scenes?)|sexual content|h-?scenes?)\b", F)
 PCT_RE = re.compile(r"\b(\d{1,3})\s?% (translated|complete|done)\b", F)
 
 
@@ -52,6 +53,8 @@ def analyze_patch(text):
     for i, rx in EXTRAS:
         if rx.search(t):
             out["ex"][i] = True
+    if ADULT_RE.search(t):
+        out["adult"] = True
     return out
 
 
