@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-pages",
- "generated": "2026-10-21T05:05:51Z",
+ "generated": "2026-10-21T06:05:34Z",
  "pages": {
   "http://watercrown.info/second-verse-same-as-the-first": {
    "a": {
@@ -2260,7 +2260,7 @@
    "http": 403
   },
   "https://gbatemp.net/threads/dokapon-up-translation-release.593755": {
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "http": 403
   },
   "https://gbatemp.net/threads/dragon-quest-x-offline-english-mod.643968": {
@@ -2268,11 +2268,11 @@
    "http": 403
   },
   "https://gbatemp.net/threads/finished-yo-kai-watch-4-full-text-translation-english-mod.626032": {
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "http": 403
   },
   "https://gbatemp.net/threads/futago-usagi-no-gokinjo-turismo-english-patch.658259": {
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "http": 403
   },
   "https://gbatemp.net/threads/g-mode-37-english-patch.672694": {
@@ -2280,7 +2280,7 @@
    "http": 403
   },
   "https://gbatemp.net/threads/g-mode-archives-44-dragonxdragon-english-patch.673127": {
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "http": 403
   },
   "https://gbatemp.net/threads/honey-vibes-english-translation.680425": {
@@ -2288,7 +2288,7 @@
    "http": 403
   },
   "https://gbatemp.net/threads/kanken-smart-strategy-english-translation-switch.681131": {
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "http": 403
   },
   "https://gbatemp.net/threads/menherafflesia-flowering-abyss-english-translation-mod.656636": {
@@ -2340,7 +2340,7 @@
    "http": 403
   },
   "https://gbatemp.net/threads/wip-yo-kai-watch-1-switch-english-translation-project.577591": {
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "http": 403
   },
   "https://gbatemp.net/threads/wip-yo-kai-watch-4-switch-english-translation-project.580560": {
@@ -2348,7 +2348,7 @@
    "http": 403
   },
   "https://gbatemp.net/threads/yu-gi-oh-rush-duel-saikyo-battle-royale-lets-go-go-rush-2022-eng-translation.657123": {
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "http": 403
   },
   "https://gertram.github.io/OregairuVitaSwitch/oregairu_zoku.html": {
@@ -2608,7 +2608,8 @@
      "retrans": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/e/e9/7thdragonpatch2.png",
    "shots": [
     "https://www.gamebrew.org/images/e/e9/7thdragonpatch2.png",
     "https://dlhb.gamebrew.org/dshomebrew/7thdragonpatch3.png",
@@ -2682,7 +2683,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/gs3gbaenglish.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/4/4a/Gs3gbaenglish2.png",
@@ -2700,7 +2701,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/2/2c/Gyakutenkenji2eng3.png",
    "shots": [
     "https://www.gamebrew.org/images/2/2c/Gyakutenkenji2eng3.png",
     "https://dlhb.gamebrew.org/dshomebrew/gyakutenkenji2eng4.png",
@@ -2720,7 +2722,8 @@
     },
     "undub": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/0/02/Aceattorneyundub2.png",
    "shots": [
     "https://www.gamebrew.org/images/0/02/Aceattorneyundub2.png",
     "https://dlhb.gamebrew.org/dshomebrew/aceattorneyundub5.png",
@@ -2783,7 +2786,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/atelierlydiesuellevita.7z?k33p0fil35",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/atelierlydiesuellevita6.png",
@@ -2819,7 +2822,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/b/bb/Ayanamidspatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/neon.genesis.evangelion.ayanami.raising.project.english.translation.ips.patch.file.rar",
    "shots": [
     "https://www.gamebrew.org/images/b/bb/Ayanamidspatch2.png",
@@ -2859,7 +2863,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/f/fa/Blackbutlerpg2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/blackbutlerpg.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/f/fa/Blackbutlerpg2.png",
@@ -2880,7 +2885,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/bleachvcwiien3.jpg",
@@ -2901,7 +2906,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/0/00/Bahamutds2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/bahamut107.rar",
    "shots": [
     "https://www.gamebrew.org/images/0/00/Bahamutds2.png",
@@ -2969,7 +2975,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/captainrainbowwiien.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/captainrainbowwiien3.png",
@@ -2991,7 +2997,8 @@
     "pct": 100,
     "undub": true
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/3/35/Tsupatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tsupatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/3/35/Tsupatch.png",
@@ -3042,7 +3049,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/chaos.rings.iii.translation.rar",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/chaosringiiiengvita3.png",
@@ -3062,7 +3069,7 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/chibiroboenglishtranslationwii.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/chibiroboenglishtranslationwii-01.png",
@@ -3080,7 +3087,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/9/99/Csmmgpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/chou.soujuu.mecha.mg_en_v1.1.zip",
    "shots": [
     "https://www.gamebrew.org/images/9/99/Csmmgpatch2.png",
@@ -3138,7 +3146,8 @@
     "ex": {},
     "pct": 90
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/6/6d/Crosstreasuresenpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/crosstreasuresenpatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/6/6d/Crosstreasuresenpatch.png",
@@ -3158,7 +3167,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/4/45/Culdceptpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/culdceptpatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/4/45/Culdceptpatch2.png",
@@ -3176,7 +3186,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/8/8d/Dgraymankamieng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/d_gray_man_kami_no_shitotachi_eng.zip",
    "shots": [
     "https://www.gamebrew.org/images/8/8d/Dgraymankamieng2.png",
@@ -3251,7 +3262,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/3/34/Kiragamepatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/kiragamepatch.zip",
    "shots": [
     "https://www.gamebrew.org/images/3/34/Kiragamepatch2.png",
@@ -3283,7 +3295,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/dbfci.eng.translation.v1.20.zip",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/dengekibunkovita3.png",
@@ -3304,7 +3316,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/e/ed/Dctpconankindaichi3.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/dctp_conankindaichi_englishpatch.zip",
    "shots": [
     "https://www.gamebrew.org/images/e/ed/Dctpconankindaichi3.png",
@@ -3362,7 +3375,8 @@
      "fixes": true
     }
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/d/db/Digimonstorylostevolutiondsenglish.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/od_dsle_1.1.zip",
    "shots": [
     "https://www.gamebrew.org/images/d/db/Digimonstorylostevolutiondsenglish.png",
@@ -3397,7 +3411,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/digimon.world.next.0rder.pcsh00261.repatch.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/digimonworldnextorderengvita10.png",
@@ -3457,7 +3471,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/dqmch_100.rar",
    "shots": [
     "https://www.gamebrew.org/images/8/83/Dgmchpatch2.png",
@@ -3510,7 +3524,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/8/83/Windariadspatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/windariadspatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/8/83/Windariadspatch.png",
@@ -3549,7 +3564,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/earthseekerwiien.7z?k33p0fil35",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/earthseekerwiien3.png",
@@ -3603,7 +3618,8 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/6/62/Elementhunters2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/element.hunters.english.translation.patch_v2.1.rar",
    "shots": [
     "https://www.gamebrew.org/images/6/62/Elementhunters2.png",
@@ -3638,7 +3654,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/f_zero_climax_english_patch_1.1.rar",
    "shots": [
     "https://www.gamebrew.org/images/2/26/Fzeroclimaxenglish2.png",
@@ -3659,7 +3675,8 @@
     },
     "undub": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/d/df/Ffcceotundub2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/final.fantasy.crystal.chronicles_echoes.of.time.e.u.undub.zip",
    "shots": [
     "https://www.gamebrew.org/images/d/df/Ffcceotundub2.png"
@@ -3676,7 +3693,8 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/5/5d/Fabstyleenpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/FabStyle_English_Project_v2.0.7z",
    "shots": [
     "https://www.gamebrew.org/images/5/5d/Fabstyleenpatch.png",
@@ -3740,7 +3758,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/switchhomebrews/finalfantasyxx2undubnx.7z",
    "site": "https://gbatemp.net/threads/final-fantasy-x-x-2-undub.536858/",
    "title": "Final Fantasy X X-2 Undub Switch",
@@ -3752,7 +3770,8 @@
     "cov": "Menus only",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/a/aa/Fe12dsenglish2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/fe12_v3.01.zip",
    "shots": [
     "https://www.gamebrew.org/images/a/aa/Fe12dsenglish2.png",
@@ -3775,7 +3794,7 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/ff6localization.7z?1.2.1",
    "shots": [
     "https://www.gamebrew.org/images/c/c4/Ff6localization2.png",
@@ -3796,7 +3815,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/freedomwarsengvita.7z",
    "site": "https://gbatemp.net/threads/release-freedom-wars-en-patch-jp-voice-synthesis.477523/",
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
@@ -3808,7 +3827,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/sonata_of_memories_patch.zip",
    "shots": [
     "https://www.gamebrew.org/images/c/c7/Sonataofmemoriespatch2.png",
@@ -3904,7 +3923,8 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/d/d8/GameCenterCX2EngTrans.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/rgc2eng_v15.rar",
    "shots": [
     "https://www.gamebrew.org/images/d/d8/GameCenterCX2EngTrans.png",
@@ -3944,7 +3964,7 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/scsenglish.7z",
    "shots": [
     "https://www.gamebrew.org/images/2/22/Scsenglish2.png",
@@ -3966,7 +3986,7 @@
     },
     "pct": 99
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/gintama_engpatch_v2.rar",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/gintmaranbuengvita3.png",
@@ -3984,7 +4004,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/5/5d/Loverenopatcher2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/loverevopatcher_v1.1.zip",
    "shots": [
     "https://www.gamebrew.org/images/5/5d/Loverenopatcher2.png",
@@ -4193,7 +4214,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/hajimenoippo.zip",
    "shots": [
     "https://www.gamebrew.org/images/a/a4/Hajimenoippoeng2.png",
@@ -4331,7 +4352,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/vita.rebirth3.retranslation.patch_0.90.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/hyperdimension3enggilvita4.png"
@@ -4363,7 +4384,7 @@
     "ex": {},
     "pct": 100
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/iavtcolorfulenglishvita.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/iavtcolorfulenglishvita3.png",
@@ -4403,7 +4424,7 @@
      "fixes": true
     }
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://gbatemp.net/threads/ikenie-to-yuki-no-setsuna-i-am-setsuna-vita-localization-project.443941/",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/iamsetsunaenglishvita3.png",
@@ -4438,7 +4459,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "shots": [
     "https://www.gamebrew.org/images/f/fa/Inazuma11go2undub2.png"
    ],
@@ -4488,7 +4509,8 @@
      "retrans": true
     }
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/f/f2/JetImpulseEng.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/JetImpulseEng.7z",
    "shots": [
     "https://www.gamebrew.org/images/f/f2/JetImpulseEng.png",
@@ -4505,7 +4527,8 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/6/6a/Jusenglishpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/jump!.ultimate.stars.english.patch.zip",
    "shots": [
     "https://www.gamebrew.org/images/6/6a/Jusenglishpatch2.png",
@@ -4573,7 +4596,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/4/40/Ketsuipatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/ketsui_v02.zip",
    "shots": [
     "https://www.gamebrew.org/images/4/40/Ketsuipatch2.png",
@@ -4653,7 +4677,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/klonoaheroesenglish.7z",
    "shots": [
     "https://www.gamebrew.org/images/e/e0/Klonoaheroesenglish2.png",
@@ -4672,7 +4696,8 @@
     "ex": {},
     "mtl": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/a/a6/Koisurupurineng.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/KoisuruPurin_Eng_v07b.7z",
    "shots": [
     "https://www.gamebrew.org/images/a/a6/Koisurupurineng.png",
@@ -4690,7 +4715,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/konosuba.full.english.patch_pcsg01093.v1.01.zip",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/konosubaengvita3.png",
@@ -4750,7 +4775,8 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/1/1e/Prologuepatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/ProLoguePatch_v1.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/1/1e/Prologuepatch.png",
@@ -4805,7 +4831,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/lineattackheroeswiien.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/lineattackheroeswiien7.png",
@@ -4857,7 +4883,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/6/65/Lovepluspatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/loveplusv10n_patcher.zip",
    "shots": [
     "https://www.gamebrew.org/images/6/65/Lovepluspatch2.png",
@@ -4879,7 +4906,8 @@
     "ex": {},
     "mtl": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/8/86/Luminousarc3patch11.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/luminous.arc.3.english.patch_v.1.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/8/86/Luminousarc3patch11.png",
@@ -4932,7 +4960,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/magical_vacation_translation.zip",
    "shots": [
     "https://www.gamebrew.org/images/0/0b/Magicalvacationen2.png",
@@ -4992,7 +5020,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/mahoukakoukouengvita.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/mahoukakoukouengvita3.png",
@@ -5024,7 +5052,8 @@
     "mtl": true,
     "pct": 100
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/7/75/Maplestorydsenpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/maplestorydsenpatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/7/75/Maplestorydsenpatch.png",
@@ -5043,7 +5072,8 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/d/d1/Mcdonaldecdpds.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/mcdonaldecdpds.7z",
    "shots": [
     "https://www.gamebrew.org/images/d/d1/Mcdonaldecdpds.png",
@@ -5063,7 +5093,8 @@
     },
     "undub": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/3/35/Zxaundub2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/zxa_undub_1.00.zip",
    "shots": [
     "https://www.gamebrew.org/images/3/35/Zxaundub2.png",
@@ -5085,7 +5116,8 @@
     },
     "undub": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/1/10/Zxundub2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/zxundub.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/1/10/Zxundub2.png",
@@ -5104,7 +5136,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/9/90/Metalmax2reloadedeng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/mm2r1_0.zip",
    "shots": [
     "https://www.gamebrew.org/images/9/90/Metalmax2reloadedeng2.png",
@@ -5122,7 +5155,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/7/7d/Metalmax3patcher2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/metal_max_3_patcher_1.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/7/7d/Metalmax3patcher2.png",
@@ -5165,7 +5199,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "site": "https://gbatemp.net/threads/metroid-other-m-true-japanese-mod-english-fan-translation.625069/",
    "title": "Metroid Other M - True Japanese Mod Wii",
    "upd": "2024-01-29T11:19:33Z",
@@ -5210,7 +5244,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/mother_1_2_english_v1.01.zip",
    "shots": [
     "https://www.gamebrew.org/images/f/f4/Mother12english2.png",
@@ -5235,7 +5269,7 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/mother3english.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/4/47/Mother3english2.png",
@@ -5254,7 +5288,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/3/3a/Endlessfrontierexceedeng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/endless.frontier.exceed_en_artema_translations_v1.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/3/3a/Endlessfrontierexceedeng2.png",
@@ -5273,7 +5308,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/0/07/Mushishienpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/MushishiPatch_v1.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/0/07/Mushishienpatch.png",
@@ -5311,7 +5347,7 @@
     },
     "mtl": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://newloveplus.loc.moe/download/",
    "shots": [
     "https://www.gamebrew.org/images/5/5a/Newlovepluspluspatch2.png",
@@ -5327,7 +5363,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/0/0b/Thenamelessgameeng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/eng_the_nameless_game_v1.2.zip",
    "shots": [
     "https://www.gamebrew.org/images/0/0b/Thenamelessgameeng2.png",
@@ -5343,7 +5380,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/c/c4/Thenamelessgamemeeng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/eng_the_nameless_game_eye_v1_13.zip",
    "shots": [
     "https://www.gamebrew.org/images/c/c4/Thenamelessgamemeeng2.png",
@@ -5363,7 +5401,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/napoleonpatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/a/a5/Napoleonpatch2.png",
@@ -5379,7 +5417,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/2/28/NarutoRPG2PatchEngTrans.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/NarutoRPG2PatchEngTrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/2/28/NarutoRPG2PatchEngTrans.png",
@@ -5440,7 +5479,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/nekketsu_monogatari_advance_v20100627_t_eng.zip",
    "shots": [
     "https://www.gamebrew.org/images/0/0e/Nmagbaenglish2.png",
@@ -5514,7 +5553,8 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/1/19/Ninokunieng2.png",
    "shots": [
     "https://www.gamebrew.org/images/1/19/Ninokunieng2.png",
     "https://dlhb.gamebrew.org/dshomebrew/ninokunieng3.png",
@@ -5534,7 +5574,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/nightofthesacrificewiien.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/nightofthesacrificewiien3.jpg",
@@ -5552,7 +5592,7 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/night.of.azure.2_psv.english.patch_beta.v1.rar",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/nightsofazure2engvita6.png",
@@ -5608,7 +5648,8 @@
      "gfx": true
     }
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/9/9b/Noratranslationds2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/Noratranslationds.7z",
    "shots": [
     "https://www.gamebrew.org/images/9/9b/Noratranslationds2.png",
@@ -5630,7 +5671,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/4/46/Odekakeearthseekereng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/odekake!.go.go.earth.seeker.english.patch_v0100.dsi.zip",
    "shots": [
     "https://www.gamebrew.org/images/4/46/Odekakeearthseekereng2.png",
@@ -5646,7 +5688,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/6/6a/Okaerichibipatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/okaerichibipatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/6/6a/Okaerichibipatch2.png",
@@ -5686,7 +5729,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/opoonarelocalizationpatchwii.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/opoonarelocalizationpatchwii-01.png",
@@ -5702,7 +5745,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/7/7f/Mamorupatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/mamorupatch1.2.zip",
    "shots": [
     "https://www.gamebrew.org/images/7/7f/Mamorupatch2.png",
@@ -5739,7 +5783,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/orientalblue10.zip",
    "shots": [
     "https://www.gamebrew.org/images/1/11/Orientalbluegba2.png",
@@ -5755,7 +5799,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/ougonnokizunawiiengtrans.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/ougonnokizunawiiengtrans-01.png",
@@ -5772,7 +5816,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/1/1a/Pdpeng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/pdpeng025.zip",
    "shots": [
     "https://www.gamebrew.org/images/1/1a/Pdpeng2.png",
@@ -5863,7 +5908,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/gs1_english_h3rmit_spazzery_006.zip",
    "shots": [
     "https://www.gamebrew.org/images/f/f7/Gs1gbaenglish2.png"
@@ -5947,7 +5992,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/pmdradiantsquadwiien.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/pmdradiantsquadwiien3.png",
@@ -5966,7 +6011,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/pmdtempestsquadwiien.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/pmdtempestsquadwiien3.png",
@@ -5985,7 +6030,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/pmdwildfiresquadwiien.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/pmdwildfiresquadwiien3.png",
@@ -6001,7 +6046,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/7/73/Gakupuridspatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/GakupuriDSPatch_v1_1LightPatcher.zip",
    "shots": [
     "https://www.gamebrew.org/images/7/73/Gakupuridspatch.png",
@@ -6055,7 +6101,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/8/8d/Petitevaeng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/petit.eva.eng_v1.zip",
    "shots": [
     "https://www.gamebrew.org/images/8/8d/Petitevaeng2.png",
@@ -6092,7 +6139,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/a/a1/Puyopuyo15patch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/pp15patch_v1.2_0866.zip",
    "shots": [
     "https://www.gamebrew.org/images/a/a1/Puyopuyo15patch2.png",
@@ -6113,7 +6161,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/9/97/Puyo20theng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/patchv1.2.zip",
    "shots": [
     "https://www.gamebrew.org/images/9/97/Puyo20theng2.png",
@@ -6131,7 +6180,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/2/2c/Puyo20thname2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/puyo.puyo.fever.names.zip",
    "shots": [
     "https://www.gamebrew.org/images/2/2c/Puyo20thname2.png"
@@ -6146,7 +6196,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/8/8c/Puyopuyo7patch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/pp7patchxd_v1.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/8/8c/Puyopuyo7patch2.png",
@@ -6165,7 +6216,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/puyopuyo7wiien.7z?k33p0fil35",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/puyopuyo7wiien3.png",
@@ -6198,7 +6249,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/4/47/Puzzleseriesakari.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/Puzzle_Series_Vol.12_Akari_English_Translation.zip",
    "shots": [
     "https://www.gamebrew.org/images/4/47/Puzzleseriesakari.png",
@@ -6217,7 +6269,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/a/aa/Puzzleseries5slitherlink2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/puzzle.series.vol.5_slither.link_v.0.7.zip",
    "shots": [
     "https://www.gamebrew.org/images/a/aa/Puzzleseries5slitherlink2.png",
@@ -6312,7 +6365,8 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/3/34/Rgcundub2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/retrogamechallengeundub.zip",
    "shots": [
     "https://www.gamebrew.org/images/3/34/Rgcundub2.png",
@@ -6334,7 +6388,7 @@
     },
     "pct": 100
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/rhythmheavensilvergba.7z",
    "shots": [
     "https://www.gamebrew.org/images/9/91/Rhythmheavensilvergba2.png",
@@ -6354,7 +6408,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/6/6a/Tlbt2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tlbt_v1.1.zip",
    "shots": [
     "https://www.gamebrew.org/images/6/6a/Tlbt2.png",
@@ -6389,7 +6444,7 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/megamanbn45_englishtranslation_complete_v1_1a.zip",
    "shots": [
     "https://www.gamebrew.org/images/c/c2/Megamanbn45english2.png",
@@ -6410,7 +6465,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/7/7c/Rockmanexeosstranslation2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/rockman_exe_oss_translation.zip",
    "shots": [
     "https://www.gamebrew.org/images/7/7c/Rockmanexeosstranslation2.png",
@@ -6444,7 +6500,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/8/8b/Rosariovampiredseng3.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/jjjewel_rosario_20150515.zip",
    "shots": [
     "https://www.gamebrew.org/images/8/8b/Rosariovampiredseng3.png",
@@ -6487,7 +6544,8 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/a/a8/Saga2hihoudensetsu3.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/saga.2_hihou.densetsu_goddess.of.destiny_v2.12_english.7z",
    "shots": [
     "https://www.gamebrew.org/images/a/a8/Saga2hihoudensetsu3.png",
@@ -6505,7 +6563,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/d/dd/Saga3patch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/saga3eng_beta_2.0.830.zip",
    "shots": [
     "https://www.gamebrew.org/images/d/dd/Saga3patch2.png",
@@ -6522,7 +6581,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/switchhomebrews/sagascarletgraceambitionsundubnx.7z",
    "site": "https://gbatemp.net/threads/saga-scarlet-grace-ambitions-undub.584683/",
    "title": "SaGa Scarlet Grace - Ambitions Undub Switch",
@@ -6554,7 +6613,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/b/b6/Sailormoontheshiningmoon2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/sailor_moon_the_shining_moon.zip",
    "shots": [
     "https://www.gamebrew.org/images/b/b6/Sailormoontheshiningmoon2.png",
@@ -6629,7 +6689,7 @@
     "ex": {},
     "pct": 100
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/cinemalandpatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/f/f8/Cinemalandpatch2.png",
@@ -6647,7 +6707,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/shinbok_e_0.7b.zip",
    "shots": [
     "https://www.gamebrew.org/images/e/eb/Shinbokpatch2.png",
@@ -6748,7 +6808,8 @@
     "ex": {},
     "pct": 98
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/3/3f/Somapatch4.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/somapatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/3/3f/Somapatch4.png",
@@ -6806,7 +6867,8 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/c/c7/Medusapatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/medusapatch1.2.zip",
    "shots": [
     "https://www.gamebrew.org/images/c/c7/Medusapatch2.png",
@@ -6827,7 +6889,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/souleatermonotonewiien.7z?k33p0fil35",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/souleatermonotonewiien3.png",
@@ -6848,7 +6910,8 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/d/d4/Bokutoholopatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/bokutoholopatch.zip",
    "shots": [
     "https://www.gamebrew.org/images/d/d4/Bokutoholopatch2.png",
@@ -6869,7 +6932,8 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/4/47/Umiowatarupatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/umiowatarupatch.zip",
    "shots": [
     "https://www.gamebrew.org/images/4/47/Umiowatarupatch2.png",
@@ -6887,7 +6951,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/9/98/Kkp3eng.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/KKP3_Eng_v040b.7z",
    "shots": [
     "https://www.gamebrew.org/images/9/98/Kkp3eng.png",
@@ -7060,7 +7125,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/4/41/Summonxen.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/summonx_e.zip",
    "shots": [
     "https://www.gamebrew.org/images/4/41/Summonxen.png",
@@ -7141,7 +7207,7 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/switchhomebrews/superrobottaisentseamusicnx.7z",
    "site": "https://gbatemp.net/threads/super-robot-taisen-t-sea-english-premium-anime-sound-edition-patch.550655/",
    "title": "Super Robot Taisen T SEA English Premium Anime and Sound Edition Patch Switch",
@@ -7154,7 +7220,7 @@
      "restore": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/switchhomebrews/superrobottaisenvseamusicnx.7z",
    "site": "https://gbatemp.net/threads/super-robot-taisen-v-sea-english-premium-anime-sound-edition-patch.550654/",
    "title": "Super Robot Taisen V SEA English Premium Anime and Sound Edition Patch Switch",
@@ -7165,7 +7231,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/switchhomebrews/superrobottaisenxseamusicnx.7z",
    "site": "https://gbatemp.net/threads/super-robot-taisen-x-sea-english-premium-anime-sound-edition-patch.584882/",
    "title": "Super Robot Taisen X SEA English Premium Anime and Sound Edition Patch Switch",
@@ -7177,7 +7243,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/3/38/Superrobotwarsweng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/srww11.zip",
    "shots": [
     "https://www.gamebrew.org/images/3/38/Superrobotwarsweng2.png",
@@ -7260,7 +7327,7 @@
     "ex": {},
     "pct": 100
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/taktofmagicwiien.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/taktofmagicwiien3.jpg",
@@ -7311,7 +7378,8 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/0/00/Toids.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/toi_1.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/0/00/Toids.png",
@@ -7332,7 +7400,8 @@
     "cov": "Menus only",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/5/52/Talesofkerorodsenglish.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tales.of.keroro.ds.eng.patch_v0.5.5.zip",
    "shots": [
     "https://www.gamebrew.org/images/5/52/Talesofkerorodsenglish.png",
@@ -7375,7 +7444,8 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/a/ab/Tottpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tott_1.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/a/ab/Tottpatch2.png",
@@ -7410,7 +7480,8 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/3/3f/Tenchudsundub2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tenchu_dark.secret.e.u.undub.zip",
    "shots": [
     "https://www.gamebrew.org/images/3/3f/Tenchudsundub2.png"
@@ -7427,7 +7498,8 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/f/f7/Gurrenlagannpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/gurrenlagannpatch.zip",
    "shots": [
     "https://www.gamebrew.org/images/f/f7/Gurrenlagannpatch2.png",
@@ -7445,7 +7517,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/3/3c/Girlsbegraciousenpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/girlsbegraciousenpatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/3/3c/Girlsbegraciousenpatch.png",
@@ -7496,7 +7569,8 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/9/99/Chokuretsupatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/chokuretsupatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/9/99/Chokuretsupatch2.png",
@@ -7515,7 +7589,7 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/3dshomebrews/TimeTravelers3DSEnglTrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/e/e4/TimeTravelers3DSEnglTrans.PNG",
@@ -7581,7 +7655,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/a/a0/Tokimemogs1patch7.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tokimemogs1_finalpatch.zip",
    "shots": [
     "https://www.gamebrew.org/images/a/a0/Tokimemogs1patch7.png",
@@ -7599,7 +7674,8 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/1/19/Tsgm2patch7.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tokimeki.memorial.girls.side.2nd.season_v6.patch.rar",
    "shots": [
     "https://www.gamebrew.org/images/1/19/Tsgm2patch7.png",
@@ -7618,7 +7694,8 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/b/bc/Tsgm3patcher11.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tsgm3patcher.7z",
    "shots": [
     "https://www.gamebrew.org/images/b/bc/Tsgm3patcher11.png",
@@ -7660,7 +7737,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/gbahomebrews/tomatoadvenglish.7z",
    "shots": [
     "https://www.gamebrew.org/images/f/f1/Tomatoadvenglish2.png",
@@ -7678,7 +7755,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/9/93/Tomodachicollectionpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tomodachicollectionrev080.zip",
    "shots": [
     "https://www.gamebrew.org/images/9/93/Tomodachicollectionpatch2.png",
@@ -7767,7 +7845,7 @@
      "fixes": true
     }
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/tlohtitsfce_english_1.1a.zip",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/trailsintheskyfcengvita3.png",
@@ -7783,7 +7861,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/trailsintheskyscengvita.7z?k33p0fil35",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/trailsintheskyscengvita3.png",
@@ -7836,7 +7914,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/c/cd/Vampirepatch8.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/vampirepatch.zip",
    "shots": [
     "https://www.gamebrew.org/images/c/cd/Vampirepatch8.png",
@@ -7892,7 +7971,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/4/41/Wizardryengpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/wizardry_seimei_no_kusabi_engpatch_30102015.rar",
    "shots": [
     "https://www.gamebrew.org/images/4/41/Wizardryengpatch2.png",
@@ -7912,7 +7992,7 @@
      "uncensor": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/switchhomebrews/Xenoblade-X-DE-Unburger.zip",
    "shots": [
     "https://dlhb.gamebrew.org/switchhomebrews/images/XenobladeXDESwitchRetrans-01.png",
@@ -8042,7 +8122,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/3dshomebrews/Yu-Gi-Oh_Saikyou_Card_Battle_En_2026.zip",
    "shots": [
     "https://www.gamebrew.org/images/c/ce/Yugiohsaikyocardbattleenglish2.png",
@@ -8083,7 +8163,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/zangekinoreginleivwiien.7z",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/zangekinoreginleivwiien3.jpg",
@@ -8112,7 +8192,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
    "dl": "https://dlhb.gamebrew.org/wiihomebrews/zerotsukihamiwiien.7z?k33p0fil35",
    "shots": [
     "https://dlhb.gamebrew.org/wiihomebrews/zerotsukihamiwiien3.jpg",
@@ -8152,7 +8232,8 @@
     "ex": {},
     "pct": 100
    },
-   "checked": "2026-10-20T13:09:51Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/e/e3/Zoidssagads2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/zoidssagads.7z",
    "shots": [
     "https://www.gamebrew.org/images/e/e3/Zoidssagads2.png",
@@ -8170,7 +8251,8 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-20T19:23:22Z",
+   "checked": "2026-10-21T06:05:34Z",
+   "cover": "https://www.gamebrew.org/images/8/85/Zombidiisukienpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/Zombi_Daisuki_V.0.6.zip",
    "shots": [
     "https://www.gamebrew.org/images/8/85/Zombidiisukienpatch.png",
