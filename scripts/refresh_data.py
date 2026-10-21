@@ -88,6 +88,35 @@ def norm(t):
 ROMAN = {"ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6", "vii": "7", "viii": "8", "ix": "9", "x": "10"}
 def numbers(t): return sorted(ROMAN.get(w, w) for w in t.split() if w.isdigit() or w in ROMAN)
 
+FILLER = {"the", "a", "an", "of", "and", "no", "wo", "ga", "ni", "to", "game", "video"}
+
+def tokens(t):
+    return [w for w in norm(t).split() if w]
+
+def same_game(query, name):
+    """True when name is the same game as query, not a sibling or a different release of it. Fuzzy matching alone takes
+    'Trails in the Sky FC Evolution' for 'Trails in the Sky SC', or a PC release for a console port, so every word that
+    tells versions apart has to agree: whatever one title has and the other lacks may only be filler words, or a series
+    name before a colon ('The Legend of Heroes: Trails in the Sky' and 'Trails in the Sky')."""
+    q, n = norm(query), norm(name)
+    if not q or not n:
+        return False
+    if q == n:
+        return True
+    def variants(t):
+        out = {t}
+        if ":" in t:
+            out.add(t.split(":", 1)[1])
+        return out
+    for qa in variants(query):
+        for na in variants(name):
+            qt, nt = set(tokens(qa)), set(tokens(na))
+            if not qt or not nt:
+                continue
+            if (qt - nt) <= FILLER and (nt - qt) <= FILLER:
+                return True
+    return False
+
 def strip_parens(t):
     prev = None
     while prev != t:
@@ -154,6 +183,8 @@ def sgdb_lookup(title, key):
     hits = (json.loads(res).get("data") if res else None) or []
     q, best = norm(title), None
     for h in hits:
+        if not same_game(title, h.get("name", "")):
+            continue                      # a sibling game or another version (for example the PC release of a console port)
         n = norm(h.get("name", ""))
         score = 1.0 if n == q else difflib.SequenceMatcher(None, q, n).ratio()
         if numbers(q) != numbers(n):
@@ -204,8 +235,9 @@ def refresh_covers(projects):
         seen.add(ck)
         title = strip_parens(p.get("g", ""))
         if ck in covers:
-            if covers[ck].get("title") in [title, strip_parens(p.get("jp") or "")] + names.get(ck, []):
-                continue
+            alts = [title, strip_parens(p.get("jp") or "")] + names.get(ck, [])
+            if covers[ck].get("title") in alts and any(same_game(a, covers[ck].get("name") or "") for a in alts if a):
+                continue                  # still the right game; covers matched under the older, looser rules are looked up again
             covers.pop(ck, None); misses.pop(ck, None)      # the title was corrected: look it up again
         miss = misses.get(ck)
         if miss and (datetime.datetime.now(datetime.timezone.utc) - datetime.datetime.fromisoformat(miss.replace("Z", "+00:00"))).days < RETRY_MISSES_DAYS:
@@ -639,7 +671,7 @@ IGDB_PLATFORMS = {"NES": 18, "FDS": 51, "SNES": 19, "Satellaview": 306, "Game Bo
                   "Mega Drive": 29, "Mega CD": 78, "32X": 30, "Master System": 64, "Game Gear": 35, "Saturn": 32, "Dreamcast": 23, "PC Engine": 86,
                   "PC Engine CD": 150, "PC-FX": 274, "WonderSwan": 57, "WonderSwan Color": 123, "Neo Geo Pocket Color": 120, "Xbox 360": 12, "Arcade": 52}
 MAX_IGDB = int(os.environ.get("PW_MAX_IGDB", "400"))
-IGDB_TV = 2                                              # bumped when the lookup changes, so every game is looked up again once
+IGDB_TV = 3                                              # bumped when the lookup changes, so every game is looked up again once
 IGDB_EROTIC = 42                                         # IGDB's theme id for "Erotic"
 
 def igdb_token(cid, secret):
@@ -663,7 +695,10 @@ def igdb_match(titles, results):
     for title in [t for t in titles if t]:
         q = norm(title)
         for g in results or []:
-            for n in [norm(g.get("name", ""))] + [norm(a.get("name", "")) for a in (g.get("alternative_names") or [])]:
+            for raw in [g.get("name", "")] + [a.get("name", "") for a in (g.get("alternative_names") or [])]:
+                if not same_game(title, raw):
+                    continue
+                n = norm(raw)
                 score = 1.0 if n == q else difflib.SequenceMatcher(None, q, n).ratio()
                 if numbers(q) != numbers(n):
                     score -= 0.3
@@ -720,7 +755,9 @@ def refresh_screens(projects):
             if t:
                 safe = t.replace('"', "").replace("\\", "")
                 tries.append((f'search "{safe}"; {fields} limit 8;', 0.97))
+        any_plat = False
         for body, need in tries:
+            any_plat = "platforms" not in body
             try:
                 res = igdb_query(cid, token, body)
             except Exception as e:
@@ -736,6 +773,8 @@ def refresh_screens(projects):
             games[q] = {"name": g.get("name"), "id": g.get("id"), "shots": shots, "match": round(score, 3), "checked": NOW, "tv": IGDB_TV}
             if (g.get("cover") or {}).get("image_id"):
                 games[q]["cover"] = g["cover"]["image_id"]
+            if any_plat:
+                games[q]["anyPlat"] = True                # matched on another platform: its cover may show a different release
             if IGDB_EROTIC in (g.get("themes") or []):
                 games[q]["nsfw"] = True                   # IGDB lists the game under its "Erotic" theme
             found += bool(shots)
@@ -795,6 +834,8 @@ def refresh_nsfw(projects):
             for t in titles:
                 for vn in vndb_query(t):
                     names = [vn.get("title"), vn.get("alttitle")] + [x.get("title") for x in (vn.get("titles") or [])]
+                    if not any(same_game(tt, n) for n in names if n for tt in titles):
+                        continue
                     score = max((1.0 if norm(n) == norm(tt) else difflib.SequenceMatcher(None, norm(n), norm(tt)).ratio())
                                 for n in names if n for tt in titles)
                     if numbers(norm(names[0] or "")) != numbers(norm(titles[0])):

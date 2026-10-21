@@ -189,6 +189,8 @@ dialog.shotbox .bar .cap{flex:1;color:var(--muted)}
 .cover.nsfw img.bg{filter:blur(30px) brightness(.45)}
 .cover .nsfwtag{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:1;background:rgba(15,20,28,.78);color:#fff;font-size:11.5px;font-weight:700;letter-spacing:.04em;padding:3px 8px;border-radius:4px;pointer-events:none;white-space:nowrap}
 .cover:not(.nsfw) .nsfwtag{display:none}
+#shotImg.nsfw{filter:blur(30px)}
+#shotShow[hidden]{display:none!important}
 .shot.nsfw img{filter:blur(16px) brightness(.8)}
 .shot.nsfw{position:relative;overflow:hidden}
 .shot.nsfw::after{content:"NSFW";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);background:rgba(15,20,28,.78);color:#fff;font-size:11px;font-weight:700;padding:2px 7px;border-radius:4px;line-height:1.4}
@@ -383,8 +385,8 @@ dialog .row2{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
   <div class="row2"><button class="btn primary" id="addSave">Add project</button><button class="btn" id="addCancel">Cancel</button></div>
 </dialog>
 <dialog id="projDlg" class="proj" aria-labelledby="projTitle"><div id="projBody"></div></dialog>
-<dialog id="shotDlg" class="shotbox" aria-label="Screenshot"><img id="shotImg" alt="" referrerpolicy="no-referrer">
-  <div class="bar"><span class="cap" id="shotCap"></span><button class="btn" id="shotPrev">Previous</button><button class="btn" id="shotNext">Next</button>
+<dialog id="shotDlg" class="shotbox" aria-label="Screenshot" tabindex="-1"><img id="shotImg" alt="" referrerpolicy="no-referrer">
+  <div class="bar"><span class="cap" id="shotCap"></span><button class="btn" id="shotShow" hidden>Show image</button><button class="btn" id="shotPrev">Previous</button><button class="btn" id="shotNext">Next</button>
   <button class="btn" id="shotHide" title="Hide this screenshot from this project. Export fixes for everyone to share it.">Hide this screenshot</button><button class="btn primary" id="shotClose">Close</button></div></dialog>
 <div class="toast" id="toast" role="status"></div>
 
@@ -554,14 +556,18 @@ function shotsHTML(v){
 const SHOTBOX={pid:"",i:0,list:[]};
 function shotView(pid){const p=allProjects().find(x=>x.id===pid);return p?view(p):null;}
 function openShot(pid,i){
-  const v=shotView(pid);if(!v)return;SHOTBOX.pid=pid;SHOTBOX.list=shotsFor(v);SHOTBOX.i=Math.max(0,Math.min(i,SHOTBOX.list.length-1));paintShot(v);
+  const v=shotView(pid);if(!v)return;SHOTBOX.pid=pid;SHOTBOX.reveal=false;SHOTBOX.list=shotsFor(v);SHOTBOX.i=Math.max(0,Math.min(i,SHOTBOX.list.length-1));paintShot(v);
   const d=$("#shotDlg");if(!d.open)d.showModal();
 }
 function paintShot(v){
   const x=SHOTBOX.list[SHOTBOX.i];if(!x){$("#shotDlg").close();return;}
   $("#shotImg").src=x.u;$("#shotImg").alt="Screenshot "+(SHOTBOX.i+1)+" of "+(v?v.game:"");
   $("#shotCap").innerHTML=`${SHOTBOX.i+1} of ${SHOTBOX.list.length} · from ${esc(x.src)} · <a href="${esc(x.u)}" target="_blank" rel="noopener">open full size</a>`;
-  $("#shotPrev").disabled=SHOTBOX.i===0;$("#shotNext").disabled=SHOTBOX.i>=SHOTBOX.list.length-1;
+  const nb=!!(v&&v.nsfw&&blurOn());$("#shotImg").classList.toggle("nsfw",nb&&!SHOTBOX.reveal);$("#shotShow").hidden=!nb||SHOTBOX.reveal;
+  // keep keyboard focus inside the view: a focused button that becomes disabled would drop focus onto the page behind
+  const a=document.activeElement,atStart=SHOTBOX.i===0,atEnd=SHOTBOX.i>=SHOTBOX.list.length-1;
+  $("#shotPrev").disabled=atStart;$("#shotNext").disabled=atEnd;
+  if((a===$("#shotPrev")&&atStart)||(a===$("#shotNext")&&atEnd))$("#shotDlg").focus();
 }
 
 /* ---------------- malware-lure detection (GitHub repos) ---------------- */
@@ -806,7 +812,11 @@ function applySharedAll(list){
   if(sharedN||pagesN)S.lastShared=newest(REPO.statusAt,REPO.pagesAt,REPO.itchAt);
   return {sharedN,pagesN};
 }
-let syncing=false;
+let syncing=false,syncPending=false;
+// a sync that arrives while you're typing or have a project open is shown once you're done, so nothing moves under the cursor
+function flushSync(){if(!syncPending||$("#projDlg").open)return;const a=document.activeElement;if(a&&/^(INPUT|TEXTAREA|SELECT)$/.test(a.tagName)&&a.id!=="q")return;syncPending=false;if(UI.tab==="find")renderFindResults();else render();}
+document.addEventListener("focusout",()=>setTimeout(flushSync,300));
+document.addEventListener("close",e=>{if(e.target&&e.target.id==="projDlg")setTimeout(flushSync,50);},true);
 async function syncShared(){
   if(syncing||running||HOSTED_UI||S.settings.autoMode==="off")return;
   syncing=true;newThisRun=0;
@@ -814,7 +824,7 @@ async function syncShared(){
   syncing=false;
   setStatus();renderUpdates();renderFilters();
   const typing=document.activeElement&&/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName)&&document.activeElement.id!=="q";
-  if(!$("#projDlg").open&&!typing){if(UI.tab==="find")renderFindResults();else render();}
+  if(!$("#projDlg").open&&!typing){if(UI.tab==="find")renderFindResults();else render();}else syncPending=true;
   if(newThisRun){toast(newThisRun+" update"+(newThisRun>1?"s":"")+" from Patch Watch's shared data.");notifyDesktop(newThisRun);}
 }
 
@@ -922,12 +932,17 @@ function coverFor(v){
   if(so.cover&&!myRename)return {u:so.cover,s:"Patch Watch's shared fixes"};
   if(v.p.sharedCover&&!myRename)return {u:v.p.sharedCover,s:"Patch Watch's maintainer"};
   const sc=seedCover(v.p);if(sc&&!myRename&&!so.title)return sc;
-  const key=v.p.k||v.p.id;
-  const rc=REPO.covers[key];if(rc&&rc.url&&!myRename)return {u:rc.url,s:"SteamGridDB",page:rc.name||""};
-  if(!myRename){const ig=REPO.screens&&REPO.screens.games[REPO.screens.map[key]];if(ig&&ig.cover)return {u:IGDB_IMG(ig.cover,"cover_big"),s:"IGDB",page:ig.name||""};
-    const vn=REPO.nsfw[key];if(vn&&vn.img)return {u:vn.img,s:"VNDB",page:vn.name||""};}
-  const c=S.covers[coverKey(v)];if(c&&c.u)return c;
+  // Covers made for this platform's release come first; SteamGridDB (mostly PC releases) and IGDB matches found on
+  // another platform come after them, so a console port shows its own box art rather than another version's.
+  const key=v.p.k||v.p.id;const c=S.covers[coverKey(v)];
+  if(!myRename){
+    const ig=REPO.screens&&REPO.screens.games[REPO.screens.map[key]];if(ig&&ig.cover&&!ig.anyPlat)return {u:IGDB_IMG(ig.cover,"cover_big"),s:"IGDB",page:ig.name||""};
+    if(c&&c.u&&/libretro/.test(c.s||""))return c;
+    const vn=REPO.nsfw[key];if(vn&&vn.img)return {u:vn.img,s:"VNDB",page:vn.name||""};
+    const rc=REPO.covers[key];if(rc&&rc.url)return {u:rc.url,s:"SteamGridDB",page:rc.name||""};
+    if(ig&&ig.cover)return {u:IGDB_IMG(ig.cover,"cover_big"),s:"IGDB (another release)",page:ig.name||""};}
   if(v.pg&&v.pg.cover)return {u:v.pg.cover,s:v.host+" (the patch page)"};
+  if(c&&c.u)return c;
   return null;}
 function sgdbSearchURL(v){return "https://www.steamgriddb.com/search/grids?term="+encodeURIComponent(coverTitle(v));}
 async function wikiQ(params){const r=await fetch("https://en.wikipedia.org/w/api.php?format=json&formatversion=2&origin=*&"+new URLSearchParams(params));return r.ok?r.json():null;}
@@ -1292,7 +1307,13 @@ $("#shotPrev").addEventListener("click",()=>{SHOTBOX.i--;paintShot(shotView(SHOT
 $("#shotNext").addEventListener("click",()=>{SHOTBOX.i++;paintShot(shotView(SHOTBOX.pid));});
 $("#shotClose").addEventListener("click",()=>$("#shotDlg").close());
 $("#shotDlg").addEventListener("click",e=>{if(e.target===$("#shotDlg"))$("#shotDlg").close();});
-$("#shotDlg").addEventListener("keydown",e=>{if(e.key==="ArrowLeft"&&!$("#shotPrev").disabled)$("#shotPrev").click();else if(e.key==="ArrowRight"&&!$("#shotNext").disabled)$("#shotNext").click();});
+// Arrow keys page through screenshots wherever focus is (captured first, so the page behind never scrolls)
+document.addEventListener("keydown",e=>{
+  if(!$("#shotDlg").open||(e.key!=="ArrowLeft"&&e.key!=="ArrowRight"))return;
+  e.preventDefault();e.stopPropagation();
+  if(e.key==="ArrowLeft"&&!$("#shotPrev").disabled)$("#shotPrev").click();else if(e.key==="ArrowRight"&&!$("#shotNext").disabled)$("#shotNext").click();
+},true);
+$("#shotShow").addEventListener("click",()=>{SHOTBOX.reveal=true;paintShot(shotView(SHOTBOX.pid));$("#shotDlg").focus();});
 $("#shotHide").addEventListener("click",()=>{const x=SHOTBOX.list[SHOTBOX.i];if(!x)return;const o=S.ov[SHOTBOX.pid]||(S.ov[SHOTBOX.pid]={});o.hideScreens=[...new Set([...(o.hideScreens||[]),x.u])];save();
   const v=shotView(SHOTBOX.pid);SHOTBOX.list=v?shotsFor(v):[];if(SHOTBOX.i>=SHOTBOX.list.length)SHOTBOX.i=SHOTBOX.list.length-1;paintShot(v);
   toast("Screenshot hidden. Use Export fixes for everyone to hide it for all visitors.");refreshOpen(SHOTBOX.pid);});
