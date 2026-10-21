@@ -1,6 +1,66 @@
 {
  "format": "patch-watch-nsfw",
  "games": {
+  "arceler0/okayunyumu-nsw-eng": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/37/107637.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Okayu Nyumu!",
+   "sexual": 0,
+   "title": "Okayu Nyumu!",
+   "vn": "v53291"
+  },
+  "blashy101/clock-maker-english-patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Clock Maker"
+  },
+  "blashy101/dadadaungoenglish": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Da Da Daungo"
+  },
+  "blashy101/dingdongenglishpatch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ding Dong"
+  },
+  "blashy101/irochi-mikke-english-patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Irochi Mikke!"
+  },
+  "blashy101/letscolorwithsanriocharactersenglish": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Let's Color With Sanrio Characters"
+  },
+  "blashy101/visualquizwhat-sthisenglishpatch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Visual Quiz What's This?"
+  },
+  "blue-overture/aonatsu-line": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/45/81645.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Aonatsu Line",
+   "sexual": 0,
+   "title": "Aonatsu Line",
+   "vn": "v24702"
+  },
+  "gitlab.com/neurochitin/miko_kaleido_patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/24/96324.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Gensou Rougoku no Kaleidoscope",
+   "sexual": 0,
+   "title": "Gensou Rougoku no Kaleidoscope",
+   "vn": "v25583"
+  },
   "link:http://watercrown.info/second-verse-same-as-the-first/": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
@@ -21,6 +81,156 @@
    "iv": 1,
    "title": "The BS Legend of Zelda"
   },
+  "link:https://gamebanana.com/mods/480082": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Yo-kai Watch Jam: Y School Heroes - Bustlin' School Life"
+  },
+  "link:https://gbatemp.net/threads/chikippudansazu-norinoridansu-de-kokoro-mo-odoru-english-patch.670569/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Chikippudansazu: Norinoridansu de Kokoro mo Odoru"
+  },
+  "link:https://gbatemp.net/threads/cyanotype-daydream-hakuchuumu-no-aojashin-translation-mod.625925/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Cyanotype Daydream"
+  },
+  "link:https://gbatemp.net/threads/dei-gratia-no-rashinban-english-translation-mod.655654/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/45/79045.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Dei Gratia no Rashinban",
+   "sexual": 0,
+   "title": "Dei Gratia no Rashinban",
+   "vn": "v16435"
+  },
+  "link:https://gbatemp.net/threads/dokapon-up-translation-release.593755/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Dokapon Up! Mugen no Roulette"
+  },
+  "link:https://gbatemp.net/threads/dragon-quest-x-offline-english-mod.643968/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Dragon Quest X Offline"
+  },
+  "link:https://gbatemp.net/threads/finished-yo-kai-watch-4-full-text-translation-english-mod.626032/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Yo-kai Watch 4++"
+  },
+  "link:https://gbatemp.net/threads/futago-usagi-no-gokinjo-turismo-english-patch.658259/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Futago Usagi no Gokinjo Turismo"
+  },
+  "link:https://gbatemp.net/threads/g-mode-37-english-patch.672694/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "G-Mode Archives 37"
+  },
+  "link:https://gbatemp.net/threads/g-mode-archives-44-dragonxdragon-english-patch.673127/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "G-Mode Archives 44: Dragon x Dragon"
+  },
+  "link:https://gbatemp.net/threads/honey-vibes-english-translation.680425/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/02/91702.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Honey Vibes",
+   "sexual": 0,
+   "title": "Honey Vibes",
+   "vn": "v49600"
+  },
+  "link:https://gbatemp.net/threads/kanken-smart-strategy-english-translation-switch.681131/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "KanKen SMART Strategy"
+  },
+  "link:https://gbatemp.net/threads/menherafflesia-flowering-abyss-english-translation-mod.656636/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/94/81994.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Menherafflesia: Flowering Abyss",
+   "sexual": 0.07,
+   "title": "Menherafflesia: Flowering Abyss",
+   "vn": "v30423"
+  },
+  "link:https://gbatemp.net/threads/ouchi-de-rilakkuma-rilakkuma-ga-ouchi-ni-yatte-kita-english-translation-patch.668464/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ouchi de Rilakkuma: Rilakkuma ga Ouchi ni Yatte Kita"
+  },
+  "link:https://gbatemp.net/threads/saikoro-psycho-seventh-heaven-english-translation-mod.656500/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Saikoro Psycho: Seventh Heaven"
+  },
+  "link:https://gbatemp.net/threads/summer-pockets-reflection-blue-translation-mod.618629/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Summer Pockets Reflection Blue"
+  },
+  "link:https://gbatemp.net/threads/tabe-o-ja-eng-lish-translation-project.592472/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tabe-O-Ja"
+  },
+  "link:https://gbatemp.net/threads/the-legend-of-heroes-trails-of-cold-steel-2-kai-english-translation-mod.612318/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "The Legend of Heroes: Trails of Cold Steel II (Kai)"
+  },
+  "link:https://gbatemp.net/threads/the-legend-of-heroes-trails-of-cold-steel-kai-english-translation-mod.609253/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "The Legend of Heroes: Trails of Cold Steel (Kai)"
+  },
+  "link:https://gbatemp.net/threads/true-urban-legends-shin-hayarigami.605265/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/03/132003.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Shin Hayarigami",
+   "sexual": 0,
+   "title": "True Urban Legends: Shin Hayarigami",
+   "vn": "v18456"
+  },
+  "link:https://gbatemp.net/threads/wip-rasenreijo-spiral-hair-super-lady-makina-english-patch.646890/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Rasenreijo: Spiral Hair Super Lady Makina"
+  },
+  "link:https://gbatemp.net/threads/wip-yo-kai-watch-1-switch-english-translation-project.577591/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Yo-kai Watch"
+  },
+  "link:https://gbatemp.net/threads/wip-yo-kai-watch-4-switch-english-translation-project.580560/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Yo-kai Watch 4++"
+  },
+  "link:https://gbatemp.net/threads/yu-gi-oh-rush-duel-saikyo-battle-royale-lets-go-go-rush-2022-eng-translation.657123/": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Yu-Gi-Oh! Rush Duel: Saikyo Battle Royale!! Let's Go! Go Rush!!"
+  },
+  "link:https://gertram.github.io/OregairuVitaSwitch/oregairu_zoku.html": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. & Zoku Omatome Set"
+  },
+  "link:https://www.gamebrew.org/wiki/7th_Dragon": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "7th Dragon"
+  },
   "link:https://www.gamebrew.org/wiki/7th_Dragon_2020-II_English_Translation_PSP": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -40,6 +250,21 @@
    "sexual": 0,
    "title": "Air",
    "vn": "v36"
+  },
+  "link:https://www.gamebrew.org/wiki/Ace_Attorney_-_Trials_and_Tribulations_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Phoenix Wright: Ace Attorney - Trials and Tribulations"
+  },
+  "link:https://www.gamebrew.org/wiki/Ace_Attorney_Investigations_-_Miles_Edgeworth_-_Prosecutors_Path": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ace Attorney Investigations: Miles Edgeworth - Prosecutor's Path"
+  },
+  "link:https://www.gamebrew.org/wiki/Ace_Attorney_The_Complete_Series_Undub": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ace Attorney Trilogy"
   },
   "link:https://www.gamebrew.org/wiki/Air_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
@@ -81,6 +306,11 @@
    "iv": 1,
    "title": "Attack on Titan 2"
   },
+  "link:https://www.gamebrew.org/wiki/Ayanami_Raising_Project_with_Asuka_Supplementing_Project": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku"
+  },
   "link:https://www.gamebrew.org/wiki/Bakemonogatari_Portable_English_Patch_PSP": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
@@ -95,6 +325,16 @@
    "sexual": 0,
    "title": "Black Butler: Phantom & Ghost",
    "vn": "v20926"
+  },
+  "link:https://www.gamebrew.org/wiki/Bleach:_Versus_Crusade_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Bleach: Versus Crusade"
+  },
+  "link:https://www.gamebrew.org/wiki/Blood_of_Bahamut": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Blood of Bahamut"
   },
   "link:https://www.gamebrew.org/wiki/Blue_Reflection_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -122,6 +362,11 @@
    "title": "Boku to Nurse no Kenshuu Nisshi",
    "vn": "v22445"
   },
+  "link:https://www.gamebrew.org/wiki/Captain_Rainbow_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Captain Rainbow"
+  },
   "link:https://www.gamebrew.org/wiki/Captain_Tsubasa_-_New_Kick_Off_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -147,6 +392,16 @@
    "iv": 1,
    "title": "Chaos Rings III"
   },
+  "link:https://www.gamebrew.org/wiki/Chibi-Robo!_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Chibi-Robo!"
+  },
+  "link:https://www.gamebrew.org/wiki/Chou_Soujuu_Mecha_MG_Full_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Chou Soujuu Mecha MG"
+  },
   "link:https://www.gamebrew.org/wiki/Ciel_Nosurge:_Ushinawareta_Hoshi_e_Sasagu_Uta_Offline_Vita_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -166,6 +421,16 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Cross Treasures"
+  },
+  "link:https://www.gamebrew.org/wiki/Culdcept_DS_Open_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Culdcept DS"
+  },
+  "link:https://www.gamebrew.org/wiki/D_Gray_Man_Kami_no_Shitotachi": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "D.Gray-man: Kami no Shitotachi"
   },
   "link:https://www.gamebrew.org/wiki/Danball_Senki_Boost_Translation_PSP": {
    "checked": "2026-10-21T07:14:34Z",
@@ -207,6 +472,11 @@
    "iv": 1,
    "title": "Dengeki Bunko: Fighting Climax Ignition"
   },
+  "link:https://www.gamebrew.org/wiki/Detective_Conan_and_Kindaichi_Case_Files_-_Chance_Encounter_of_2_Great_Detectives": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Meitantei Conan & Kindaichi Shounen no Jikenbo"
+  },
   "link:https://www.gamebrew.org/wiki/Diabolik_Lovers_Limited_V_Edition_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -242,6 +512,11 @@
    "iv": 1,
    "title": "Dragon Quest Heroes II"
   },
+  "link:https://www.gamebrew.org/wiki/Dragon_Quest_Monsters_-_Caravan_Heart_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Dragon Quest Monsters: Caravan Heart"
+  },
   "link:https://www.gamebrew.org/wiki/Dragon_Quest_and_Final_Fantasy_in_Itadaki_Street_Portable_PSP_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -252,10 +527,20 @@
    "iv": 1,
    "title": "Dragon's Crown"
   },
+  "link:https://www.gamebrew.org/wiki/Dungeon_of_Windaria_English_translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Dungeon of Windaria"
+  },
   "link:https://www.gamebrew.org/wiki/EBKore%2B_Amagami_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": "EBKore+ Amagami"
+  },
+  "link:https://www.gamebrew.org/wiki/Earth_Seeker_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Earth Seeker"
   },
   "link:https://www.gamebrew.org/wiki/Echo_Night_-_The_First_Voyage_English_Translation_PSP": {
    "checked": "2026-10-21T06:05:34Z",
@@ -267,10 +552,30 @@
    "iv": 1,
    "title": "The Legend of Heroes: Trails to Azure"
   },
+  "link:https://www.gamebrew.org/wiki/Element_Hunter_Translation_Project": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Element Hunter"
+  },
   "link:https://www.gamebrew.org/wiki/Ever17:_The_Out_of_Infinity_Premium_Edition_PSP_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Ever17: The Out of Infinity Premium Edition"
+  },
+  "link:https://www.gamebrew.org/wiki/F-Zero_-_Climax_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "F-Zero Climax"
+  },
+  "link:https://www.gamebrew.org/wiki/FFCC_-_Echoes_of_Time_Undub_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Final Fantasy Crystal Chronicles: Echoes of Time"
+  },
+  "link:https://www.gamebrew.org/wiki/FabStyle_English_Project": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Wagamama Fashion: Girls Mode (FabStyle)"
   },
   "link:https://www.gamebrew.org/wiki/Fate/Extra_CCC_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
@@ -287,10 +592,30 @@
    "iv": 1,
    "title": "Final Fantasy Type-0"
   },
+  "link:https://www.gamebrew.org/wiki/Final_Fantasy_X_X-2_Undub_Switch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Final Fantasy X/X-2 HD Remaster"
+  },
+  "link:https://www.gamebrew.org/wiki/Fire_Emblem_-_Heroes_of_Light_and_Shadow": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Fire Emblem: Heroes of Light and Shadow"
+  },
+  "link:https://www.gamebrew.org/wiki/Fire_Emblem_-_The_Binding_Blade_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Fire Emblem: The Binding Blade"
+  },
   "link:https://www.gamebrew.org/wiki/Freedom_Wars_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Freedom Wars"
+  },
+  "link:https://www.gamebrew.org/wiki/Fullmetal_Alchemist_-_Sonata_of_Memories_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Fullmetal Alchemist: Sonata of Memories"
   },
   "link:https://www.gamebrew.org/wiki/Fushigi_No_Dungeon_%E2%80%93_Fuurai_No_Shiren_4_Plus_%E2%80%93_Kami_No_Hitomi_to_Akuma_No_Heso_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
@@ -317,6 +642,11 @@
    "title": "GA Geijutsuka Art Design Class: Slapstick Wonderland",
    "vn": "v7899"
   },
+  "link:https://www.gamebrew.org/wiki/Game_Center_CX:_Arino_no_Chousenjou_2_DS_-_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Game Center CX: Arino no Chousenjou 2"
+  },
   "link:https://www.gamebrew.org/wiki/Gensou_Rougoku_no_Kaleidoscope_Vita_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
    "img": "https://t.vndb.org/cv/24/96324.jpg",
@@ -327,10 +657,25 @@
    "title": "Gensou Rougoku no Kaleidoscope",
    "vn": "v25583"
   },
+  "link:https://www.gamebrew.org/wiki/Gensou_Suikoden_Card_Stories_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Gensou Suikoden Card Stories"
+  },
   "link:https://www.gamebrew.org/wiki/Gintama_Rumble_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Gintama Rumble"
+  },
+  "link:https://www.gamebrew.org/wiki/Girlish_Love_Revolution_English_Fan_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/46/81346.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Otometeki Koi Kakumei★Love Revo!!",
+   "sexual": 0,
+   "title": "Girlish Love Revolution",
+   "vn": "v3549"
   },
   "link:https://www.gamebrew.org/wiki/Gochumon_Wa_Usagi_Desu_Ka_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -386,6 +731,11 @@
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": ".hack//Link"
+  },
+  "link:https://www.gamebrew.org/wiki/Hajime_no_Ippo_-_The_Fighting_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Hajime no Ippo: The Fighting!"
   },
   "link:https://www.gamebrew.org/wiki/Hakuouki_SSL_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -447,6 +797,11 @@
    "iv": 1,
    "title": "The Idolm@ster SP"
   },
+  "link:https://www.gamebrew.org/wiki/Inazuma_Eleven_GO_2_Chrono_Stone_Neppu_Raimei_Undub_3DS": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Inazuma Eleven GO 2: Chrono Stone"
+  },
   "link:https://www.gamebrew.org/wiki/Is_It_Wrong_To_Try_To_Pick_Up_Girls_In_A_Dungeon_Infinite_Combate_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -461,6 +816,11 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Jet Impulse"
+  },
+  "link:https://www.gamebrew.org/wiki/Jump_Ultimate_Stars": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Jump Ultimate Stars"
   },
   "link:https://www.gamebrew.org/wiki/K-ON!_Houkago_Live!!_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
@@ -477,6 +837,11 @@
    "iv": 1,
    "title": "Kantai Collection Kai"
   },
+  "link:https://www.gamebrew.org/wiki/Ketsui:_Death_Label_Open_Translation_Project": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ketsui: Kizuna Jigoku Tachi - Death Label"
+  },
   "link:https://www.gamebrew.org/wiki/Kidou_Senshi_Gundam:_Gihren_no_Yabou_-_Axis_no_Kyoui_V_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
@@ -491,6 +856,16 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Kingdom Hearts: Birth by Sleep Final Mix"
+  },
+  "link:https://www.gamebrew.org/wiki/Klonoa_Heroes_-_Densetsu_no_Star_Medal_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Klonoa Heroes: Densetsu no Star Medal"
+  },
+  "link:https://www.gamebrew.org/wiki/Koisuru_Purin!_Pudding_in_Love_DS_-_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Koisuru Purin!"
   },
   "link:https://www.gamebrew.org/wiki/Konosuba_Attack_Of_The_Destroyer_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -522,6 +897,11 @@
    "iv": 1,
    "title": "Last Ranker"
   },
+  "link:https://www.gamebrew.org/wiki/Line_Attack_Heroes_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Line Attack Heroes"
+  },
   "link:https://www.gamebrew.org/wiki/Little_Busters_CE_English_Patch_PSP": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -532,6 +912,21 @@
    "iv": 1,
    "title": "Love Live! School Idol Paradise"
   },
+  "link:https://www.gamebrew.org/wiki/Love_Plus_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/95/90895.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Love Plus",
+   "sexual": 0,
+   "title": "Love Plus",
+   "vn": "v2099"
+  },
+  "link:https://www.gamebrew.org/wiki/Luminous_Arc_3_English_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Luminous Arc 3"
+  },
   "link:https://www.gamebrew.org/wiki/Lunar_-_Silver_Star_Harmony_Complete_Undub_PSP": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -541,6 +936,11 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Puella Magi Madoka Magica: The Battle Pentagram"
+  },
+  "link:https://www.gamebrew.org/wiki/Magical_Vacation_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Magical Vacation"
   },
   "link:https://www.gamebrew.org/wiki/Mahou_Shoujo_Lyrical_Nanoha_A%27s_Portable:_The_Battle_of_Aces_PSP_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
@@ -577,10 +977,35 @@
    "iv": 1,
    "title": "McDonald's eCDP"
   },
+  "link:https://www.gamebrew.org/wiki/Mega_Man_ZX_Advent_Undub": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Mega Man ZX Advent"
+  },
+  "link:https://www.gamebrew.org/wiki/Mega_Man_ZX_Undub": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Mega Man ZX"
+  },
+  "link:https://www.gamebrew.org/wiki/Metal_Max_2_-_Reloaded": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Metal Max 2: Reloaded"
+  },
+  "link:https://www.gamebrew.org/wiki/Metal_Max_3": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Metal Max 3"
+  },
   "link:https://www.gamebrew.org/wiki/Metal_Max_Xeno_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Metal Max Xeno"
+  },
+  "link:https://www.gamebrew.org/wiki/Metroid_Other_M_-_True_Japanese_Mod_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Metroid: Other M"
   },
   "link:https://www.gamebrew.org/wiki/Miracle_girls_Festival_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -592,6 +1017,21 @@
    "iv": 1,
    "title": "Monster Hunter Portable 3rd"
   },
+  "link:https://www.gamebrew.org/wiki/Mother_1_and_2_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Mother 1+2"
+  },
+  "link:https://www.gamebrew.org/wiki/Mother_3_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Mother 3"
+  },
+  "link:https://www.gamebrew.org/wiki/Mugen_no_Frontier_EXCEED_-_Super_Robot_Taisen_OG_Saga": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Mugen no Frontier Exceed: Super Robot Taisen OG Saga"
+  },
   "link:https://www.gamebrew.org/wiki/Mushishi:_Amefuru_Sato_DS_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -601,6 +1041,41 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Musou Stars"
+  },
+  "link:https://www.gamebrew.org/wiki/NEW_LOVE_PLUS_PLUS_3DS": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/16/46116.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "New Love Plus",
+   "sexual": 0,
+   "title": "New Love Plus+",
+   "vn": "v4006"
+  },
+  "link:https://www.gamebrew.org/wiki/Nanashi_no_Game": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/29/10429.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Nanashi no Game",
+   "sexual": 0,
+   "title": "Nanashi no Game",
+   "vn": "v8182"
+  },
+  "link:https://www.gamebrew.org/wiki/Nanashi_no_Game_Me": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/78/27678.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Nanashi no Game: Me",
+   "sexual": 0,
+   "title": "Nanashi no Game: Me",
+   "vn": "v18972"
+  },
+  "link:https://www.gamebrew.org/wiki/Napoleon:_L%27Aigle_de_Guerre_GBA_-_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Napoleon"
   },
   "link:https://www.gamebrew.org/wiki/Naruto_RPG_2:_Chidori_vs._Rasengan_DS_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
@@ -616,6 +1091,11 @@
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": "Nayuta no Kiseki"
+  },
+  "link:https://www.gamebrew.org/wiki/Nekketsu_Monogatari_Advance_English_Translation_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Nekketsu Monogatari Advance"
   },
   "link:https://www.gamebrew.org/wiki/Nelke_and_the_Legendary_Alchemists_English_Translation_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -641,6 +1121,16 @@
    "sexual": 0,
    "title": "New Game! The Challenge Stage!",
    "vn": "v19717"
+  },
+  "link:https://www.gamebrew.org/wiki/Ni_no_Kuni_The_Jet_Black_Mage": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ni no Kuni: The Jet-Black Mage"
+  },
+  "link:https://www.gamebrew.org/wiki/Night_of_the_Sacrifice_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Night of the Sacrifice"
   },
   "link:https://www.gamebrew.org/wiki/Nights_Of_Azure_2_-_PSV_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -672,10 +1162,25 @@
    "iv": 1,
    "title": "Odekake! Earth Seeker"
   },
+  "link:https://www.gamebrew.org/wiki/Okaeri_-_Chibi-Robo_-_Happy_Richie_Oosouji": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Chibi-Robo: Clean Sweep!"
+  },
   "link:https://www.gamebrew.org/wiki/Omega_Labyrinth_Z_Vita_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Omega Labyrinth Z"
+  },
+  "link:https://www.gamebrew.org/wiki/Opoona_Re-localization_Patch_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Opoona"
+  },
+  "link:https://www.gamebrew.org/wiki/Ore_ga_Omae_o_Mamoru": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ore ga Omae o Mamoru"
   },
   "link:https://www.gamebrew.org/wiki/Oreimo_Tsuzuku_PSP_English_Patch": {
    "checked": "2026-10-21T06:05:34Z",
@@ -686,6 +1191,21 @@
    "sexual": 0,
    "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai",
    "vn": "v55519"
+  },
+  "link:https://www.gamebrew.org/wiki/Oriental_Blue:_Ao_no_Tengai_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Oriental Blue: Ao no Tengai"
+  },
+  "link:https://www.gamebrew.org/wiki/Ougon_No_Kizuna_Wii_-_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ougon no Kizuna"
+  },
+  "link:https://www.gamebrew.org/wiki/Panel_de_Pon_DS_Translation_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Panel de Pon DS"
   },
   "link:https://www.gamebrew.org/wiki/Persona_2:_Eternal_Punishment_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
@@ -706,6 +1226,16 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Phantom Kingdom Portable"
+  },
+  "link:https://www.gamebrew.org/wiki/Phoenix_Wright_-_Ace_Attorney_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/88/88088.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Gyakuten Saiban",
+   "sexual": 0,
+   "title": "Phoenix Wright: Ace Attorney",
+   "vn": "v711"
   },
   "link:https://www.gamebrew.org/wiki/PhotoKano_Kiss_English_Translation_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -742,6 +1272,26 @@
    "title": "Plastic Memories",
    "vn": "v19441"
   },
+  "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Radiant_Adventure_Squad_Fan_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Pokemon Mystery Dungeon: Shine On! Light Adventure Squad"
+  },
+  "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Tempest_Adventure_Squad_Fan_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Pokemon Mystery Dungeon: Let's Go! Stormy Adventure Squad"
+  },
+  "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Wildfire_Adventure_Squad_Fan_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Pokemon Mystery Dungeon: Keep Going! Blazing Adventure Squad"
+  },
+  "link:https://www.gamebrew.org/wiki/Prince_of_Tennis_Motto_Gakuensai_no_Oujisama_English_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Prince of Tennis: Motto Gakuensai no Oujisama"
+  },
   "link:https://www.gamebrew.org/wiki/Princess_Guide_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -752,15 +1302,55 @@
    "iv": 1,
    "title": "Hatsune Miku: Project DIVA f"
   },
+  "link:https://www.gamebrew.org/wiki/Puchi_Eva_-_Evangelion_Game": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Puchi Eva: Evangelion@Game"
+  },
   "link:https://www.gamebrew.org/wiki/Puella_Magi_Madoka_Magica_Portable_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": "Puella Magi Madoka Magica Portable"
   },
+  "link:https://www.gamebrew.org/wiki/Puyo_Puyo_-_15th_Anniversary": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Puyo Puyo! 15th Anniversary"
+  },
+  "link:https://www.gamebrew.org/wiki/Puyo_Puyo_20th_Anniversary_English_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Puyo Puyo!! 20th Anniversary"
+  },
+  "link:https://www.gamebrew.org/wiki/Puyo_Puyo_20th_Anniversary_Name_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Puyo Puyo!! 20th Anniversary"
+  },
+  "link:https://www.gamebrew.org/wiki/Puyo_Puyo_7": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Puyo Puyo 7"
+  },
+  "link:https://www.gamebrew.org/wiki/Puyo_Puyo_7_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Puyo Puyo 7"
+  },
   "link:https://www.gamebrew.org/wiki/Puyo_Puyo_Tetris_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Puyo Puyo Tetris"
+  },
+  "link:https://www.gamebrew.org/wiki/Puzzle_Series_Vol_12_-_Akari": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Puzzle Series Vol. 12: Akari"
+  },
+  "link:https://www.gamebrew.org/wiki/Puzzle_Series_Vol_5_-_Slither_Link": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Puzzle Series Vol. 5: Slither Link"
   },
   "link:https://www.gamebrew.org/wiki/Queen%27s_Blade:_Spiral_Chaos_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
@@ -792,25 +1382,80 @@
    "title": "Remember11: The Age of Infinity",
    "vn": "v13"
   },
+  "link:https://www.gamebrew.org/wiki/Retro_Game_Challenge_Undub": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Retro Game Challenge"
+  },
+  "link:https://www.gamebrew.org/wiki/Rhythm_Heaven_Silver_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Rhythm Heaven Silver"
+  },
+  "link:https://www.gamebrew.org/wiki/Ripened_Tingles_Balloon_Trip_of_Love": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Ripened Tingle's Balloon Trip of Love"
+  },
   "link:https://www.gamebrew.org/wiki/RoboticsNotes_Elite_English_Translation_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Robotics;Notes Elite"
+  },
+  "link:https://www.gamebrew.org/wiki/Rockman_EXE_4.5_-_Real_Operation_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Rockman EXE 4.5: Real Operation"
+  },
+  "link:https://www.gamebrew.org/wiki/Rockman_EXE_Operate_Shooting_Star_Translation_Project": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Rockman EXE: Operate Shooting Star"
   },
   "link:https://www.gamebrew.org/wiki/Rodem_The_Wild_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Rodem the Wild"
   },
+  "link:https://www.gamebrew.org/wiki/Rosario_and_Vampire_DS_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/19/100819.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Rosario to Vampire: Tanabata no Miss Youkai Gakuen",
+   "sexual": 0,
+   "title": "Rosario to Vampire: Tanabata no Miss Youkai Gakuen",
+   "vn": "v5301"
+  },
   "link:https://www.gamebrew.org/wiki/SD_Gundam_G_Generation_Overworld_Translation_PSP": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "SD Gundam G Generation Overworld"
   },
+  "link:https://www.gamebrew.org/wiki/SaGa_2_-_Legend_of_the_Relics_-_Goddess_of_Destiny": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "SaGa 2: Hihou Densetsu - Goddess of Destiny"
+  },
+  "link:https://www.gamebrew.org/wiki/SaGa_3_-_Rulers_of_Time_and_Space_-_Shadow_or_Light": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "SaGa 3: Jikuu no Hasha - Shadow or Light"
+  },
+  "link:https://www.gamebrew.org/wiki/SaGa_Scarlet_Grace_-_Ambitions_Undub_Switch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "SaGa Scarlet Grace: Ambitions"
+  },
   "link:https://www.gamebrew.org/wiki/Saga_Scarlet_Grace_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "SaGa: Scarlet Grace"
+  },
+  "link:https://www.gamebrew.org/wiki/Sailor_Moon_-_La_Luna_Splende": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Sailor Moon: La Luna Splende"
   },
   "link:https://www.gamebrew.org/wiki/Sakurasou_no_Pet_na_Kanojo_PSP_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
@@ -831,6 +1476,16 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Valkyria Chronicles 3"
+  },
+  "link:https://www.gamebrew.org/wiki/Shin-chan_Adventures_in_Cinemaland_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Shin-chan: Adventures in Cinemaland"
+  },
+  "link:https://www.gamebrew.org/wiki/Shin_Bokura_no_Taiyou_-_Gyakushuu_no_Sabata_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Shin Bokura no Taiyou: Gyakushuu no Sabata"
   },
   "link:https://www.gamebrew.org/wiki/Shining_Blade_PSP_-_English_Translation": {
    "checked": "2026-10-21T06:05:34Z",
@@ -857,6 +1512,11 @@
    "iv": 1,
    "title": "Sol Trigger"
   },
+  "link:https://www.gamebrew.org/wiki/Soma_Bringer_Open_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Soma Bringer"
+  },
   "link:https://www.gamebrew.org/wiki/Sora_no_Woto_-_Otome_no_Gojuusou_Translation_PSP": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -866,6 +1526,36 @@
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": "Soul Eater: Battle Resonance"
+  },
+  "link:https://www.gamebrew.org/wiki/Soul_Eater_-_Medusa_no_Inbou": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Soul Eater: Medusa no Inbou"
+  },
+  "link:https://www.gamebrew.org/wiki/Soul_Eater_-_Monotone_Princess_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Soul Eater: Monotone Princess"
+  },
+  "link:https://www.gamebrew.org/wiki/Spice_and_Wolf_-_My_Year_with_Holo_English_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/50/113950.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Ookami to Koushinryou - Boku to Holo no Ichinen",
+   "sexual": 0,
+   "title": "Spice and Wolf: My Year with Holo",
+   "vn": "v1391"
+  },
+  "link:https://www.gamebrew.org/wiki/Spice_and_Wolf_-_The_Wind_that_Spans_the_Sea_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/39/127239.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Ookami to Koushinryou - Umi o Wataru Kaze",
+   "sexual": 0,
+   "title": "Spice and Wolf: The Wind that Spans the Sea",
+   "vn": "v4699"
   },
   "link:https://www.gamebrew.org/wiki/Spinning_Princess_3_English_Translation_Patch": {
    "checked": "2026-10-21T07:14:34Z",
@@ -942,6 +1632,11 @@
    "iv": 1,
    "title": "Suikoden: Woven Web of the Centuries"
   },
+  "link:https://www.gamebrew.org/wiki/Summon_Night_X_Tears_Crown_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Summon Night X: Tears Crown"
+  },
   "link:https://www.gamebrew.org/wiki/Super_DanganRonpa_2:_Sayonara_Zetsubou_Gakuen_PSP_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -956,6 +1651,21 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Super Robot Taisen A Portable"
+  },
+  "link:https://www.gamebrew.org/wiki/Super_Robot_Taisen_T_SEA_English_Premium_Anime_and_Sound_Edition_Patch_Switch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Super Robot Wars T"
+  },
+  "link:https://www.gamebrew.org/wiki/Super_Robot_Taisen_V_SEA_English_Premium_Anime_and_Sound_Edition_Patch_Switch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Super Robot Wars V"
+  },
+  "link:https://www.gamebrew.org/wiki/Super_Robot_Taisen_X_SEA_English_Premium_Anime_and_Sound_Edition_Patch_Switch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Super Robot Wars X"
   },
   "link:https://www.gamebrew.org/wiki/Super_Robot_Wars_W": {
    "checked": "2026-10-21T07:14:34Z",
@@ -982,6 +1692,11 @@
    "iv": 1,
    "title": "Taiko no Tatsujin: V Version"
   },
+  "link:https://www.gamebrew.org/wiki/Takt_Of_Magic_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Takt of Magic"
+  },
   "link:https://www.gamebrew.org/wiki/Tales_Of_Innocence_R_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -992,10 +1707,25 @@
    "iv": 1,
    "title": "Tales of Hearts R"
   },
+  "link:https://www.gamebrew.org/wiki/Tales_of_Innocence_English_Localization": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tales of Innocence"
+  },
+  "link:https://www.gamebrew.org/wiki/Tales_of_Keroro_DS_-_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tales of Keroro"
+  },
   "link:https://www.gamebrew.org/wiki/Tales_of_Rebirth_English_Menu_Patch_PSP": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": "Tales of Rebirth"
+  },
+  "link:https://www.gamebrew.org/wiki/Tales_of_the_Tempest": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tales of the Tempest"
   },
   "link:https://www.gamebrew.org/wiki/Tantei_Opera_Milky_Holmes_English_Patch_PSP": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1006,6 +1736,21 @@
    "sexual": 0,
    "title": "Tantei Opera Milky Holmes",
    "vn": "v3226"
+  },
+  "link:https://www.gamebrew.org/wiki/Tenchu_-_Dark_Secret_Undub_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tenchu: Dark Secret"
+  },
+  "link:https://www.gamebrew.org/wiki/Tengen_Toppa_Gurren_Lagann": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tengen Toppa Gurren Lagann"
+  },
+  "link:https://www.gamebrew.org/wiki/Tenipuri_Girls_be_Gracious_Open_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tenipuri Girls be Gracious"
   },
   "link:https://www.gamebrew.org/wiki/The_Haunted_Zone_English_Translation_PSP": {
    "checked": "2026-10-21T06:05:34Z",
@@ -1027,6 +1772,16 @@
    "title": "The Series of Haruhi Suzumiya",
    "vn": "v6239"
   },
+  "link:https://www.gamebrew.org/wiki/Time_Travelers_3DS_-_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/62/99662.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Time Travelers",
+   "sexual": 0,
+   "title": "Time Travelers",
+   "vn": "v10856"
+  },
   "link:https://www.gamebrew.org/wiki/To_Love_Ru_Darkness:_Battle_Ecstasy_Vita_-_English_Translation": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
@@ -1047,6 +1802,26 @@
    "iv": 1,
    "title": "Toaru Majutsu no Index"
   },
+  "link:https://www.gamebrew.org/wiki/Tokimeki_Memorial_Girls_Side_1st_Love_Plus_English_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tokimeki Memorial Girl's Side: 1st Love Plus"
+  },
+  "link:https://www.gamebrew.org/wiki/Tokimeki_Memorial_Girls_Side_2nd_Season": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tokimeki Memorial Girl's Side: 2nd Season"
+  },
+  "link:https://www.gamebrew.org/wiki/Tokimeki_Memorial_Girls_Side_3rd_Story": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/60/87460.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Tokimeki Memorial Girl's Side: 3rd Story",
+   "sexual": 0,
+   "title": "Tokimeki Memorial Girl's Side: 3rd Story",
+   "vn": "v2956"
+  },
   "link:https://www.gamebrew.org/wiki/Tokimeki_Memorial_Girls_Side_Premium_3rd_Story_English_Patch_PSP": {
    "checked": "2026-10-21T07:14:34Z",
    "img": "https://t.vndb.org/cv/60/87460.jpg",
@@ -1056,6 +1831,16 @@
    "sexual": 0,
    "title": "Tokimeki Memorial Girl's Side Premium: 3rd Story",
    "vn": "v2956"
+  },
+  "link:https://www.gamebrew.org/wiki/Tomato_Adventure_GBA": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tomato Adventure"
+  },
+  "link:https://www.gamebrew.org/wiki/Tomodachi_Collection_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tomodachi Collection"
   },
   "link:https://www.gamebrew.org/wiki/Toradora_Portable_English_Patch_PSP": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1102,6 +1887,16 @@
    "iv": 1,
    "title": "Uppers"
   },
+  "link:https://www.gamebrew.org/wiki/Vampire_Knight_DS_English_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/82/35282.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Vampire Knight DS",
+   "sexual": 0,
+   "title": "Vampire Knight DS",
+   "vn": "v4598"
+  },
   "link:https://www.gamebrew.org/wiki/Variable_Barricade_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "img": "https://t.vndb.org/cv/51/82651.jpg",
@@ -1116,6 +1911,16 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Way of the Samurai Portable"
+  },
+  "link:https://www.gamebrew.org/wiki/Wizardry_Seimei_no_Kusabi": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Wizardry: Seimei no Kusabi"
+  },
+  "link:https://www.gamebrew.org/wiki/Xenoblade_X_DE_Switch_-_Retranslation_and_Uncensor_Patch": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Xenoblade Chronicles X: Definitive Edition"
   },
   "link:https://www.gamebrew.org/wiki/YUNO_A_Girl_Who_Chants_Love_at_the_Bound_of_this_World_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1147,15 +1952,30 @@
    "iv": 1,
    "title": "Yu-Gi-Oh! 5D's Tag Force 6"
   },
+  "link:https://www.gamebrew.org/wiki/Yu-Gi-Oh_Saikyo_Card_Battle_English_Translation_3DS": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Yu-Gi-Oh! Saikyo Card Battle"
+  },
   "link:https://www.gamebrew.org/wiki/Yuusha_30_Second_English_Translation_PSP": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Yuusha 30 Second"
   },
+  "link:https://www.gamebrew.org/wiki/Zangeki_No_Reginleiv_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Zangeki no Reginleiv"
+  },
   "link:https://www.gamebrew.org/wiki/Zanki_Zero_English_Patch_Vita": {
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Zanki Zero"
+  },
+  "link:https://www.gamebrew.org/wiki/Zero_Tsukihami_no_Kamen_English_Translation_Wii": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Fatal Frame: Mask of the Lunar Eclipse"
   },
   "link:https://www.gamebrew.org/wiki/Zettai_Zetsumei_Toshi_3_Translation_Patch_PSP": {
    "checked": "2026-10-21T06:05:34Z",
@@ -1166,6 +1986,11 @@
    "checked": "2026-10-21T07:14:34Z",
    "iv": 1,
    "title": "Zoids Saga DS"
+  },
+  "link:https://www.gamebrew.org/wiki/Zombie_Daisuki_English_Translation": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Zombie Daisuki"
   },
   "link:https://www.romhacking.net/hacks/1386/": {
    "checked": "2026-10-21T06:05:34Z",
@@ -1702,12 +2527,42 @@
    "iv": 1,
    "title": "Fire Emblem: Mystery of the Emblem"
   },
+  "masagrator/higurashienx": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/92/78092.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Higurashi no Naku Koro ni Hou",
+   "sexual": 0,
+   "title": "Higurashi no Naku Koro ni Hou",
+   "vn": "v15523"
+  },
+  "ooa113y/umineko-catbox-english": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Umineko no Naku Koro ni Saku"
+  },
   "peterlemon/snes": {
    "checked": "2026-10-21T06:05:34Z",
    "iv": 1,
    "title": "Albert Odyssey"
+  },
+  "symphonialauren/tales-of-rebirth": {
+   "checked": "2026-10-21T07:42:14Z",
+   "iv": 1,
+   "title": "Tales of Rebirth"
+  },
+  "thesola10/yc_english": {
+   "checked": "2026-10-21T07:42:14Z",
+   "img": "https://t.vndb.org/cv/10/114910.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Yuru Camp△ - Have a Nice Day!",
+   "sexual": 0,
+   "title": "Laid-Back Camp: Have a Nice Day!",
+   "vn": "v30937"
   }
  },
- "generated": "2026-10-21T07:14:34Z",
+ "generated": "2026-10-21T07:42:14Z",
  "version": 1
 }

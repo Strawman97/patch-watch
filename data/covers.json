@@ -40,14 +40,6 @@
    "title": "Gensou Rougoku no Kaleidoscope",
    "url": "https://cdn2.steamgriddb.com/grid/c52c39af658b29ab8acfad0064308eb1.jpg"
   },
-  "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
-   "added": "2026-10-21T07:14:34Z",
-   "match": 1.0,
-   "name": "Metal Gear Solid 3: Snake Eater - HD Edition",
-   "thumb": "https://cdn2.steamgriddb.com/thumb/6b79a0215c73e76af87c36f6a8a8ee7e.jpg",
-   "title": "Metal Gear Solid 3: Snake Eater - HD Edition",
-   "url": "https://cdn2.steamgriddb.com/grid/6b79a0215c73e76af87c36f6a8a8ee7e.jpg"
-  },
   "lifebottle/narikiri-dungeon-x": {
    "added": "2026-10-20T12:30:37Z",
    "match": 1.0,
@@ -1162,7 +1154,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-10-21T07:14:34Z",
+ "generated": "2026-10-21T07:42:14Z",
  "misses": {
   "arceler0/okayunyumu-nsw-eng": "2026-10-20T12:30:37Z",
   "blashy101/clock-maker-english-patch": "2026-10-20T12:30:37Z",
@@ -1171,6 +1163,7 @@
   "blashy101/irochi-mikke-english-patch": "2026-10-20T12:30:37Z",
   "blashy101/letscolorwithsanriocharactersenglish": "2026-10-20T12:30:37Z",
   "blashy101/visualquizwhat-sthisenglishpatch": "2026-10-20T12:30:37Z",
+  "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "2026-10-21T07:42:14Z",
   "lifebottle/tales-of-phantasia-x": "2026-10-20T13:09:51Z",
   "link:https://archive.org/details/earth_defense_force_3_vita_undub_patch": "2026-10-20T13:09:51Z",
   "link:https://archive.org/details/fire_heroes_undub_patch": "2026-10-20T13:09:51Z",

@@ -2,7 +2,8 @@
  "format": "patch-watch-screens",
  "games": {
   "10 000 bullets|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co490o",
    "id": 14727,
    "match": 1.0,
    "name": "10,000 Bullets",
@@ -11,7 +12,7 @@
     "bnnce33kp0hmr9er2z7w",
     "npnfxdqzzysnoxqltnmo"
    ],
-   "tv": 1
+   "tv": 3
   },
   "3x3 eyes juuma houkan|19": {
    "anyPlat": true,
@@ -144,12 +145,13 @@
    "tv": 3
   },
   "aerowings|23": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5xwq",
    "id": 3709,
    "match": 1.0,
    "name": "AeroWings",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "aim for the ace ace tennis|19": {
    "anyPlat": true,
@@ -166,7 +168,8 @@
    "tv": 3
   },
   "airforce delta strike|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6lyz",
    "id": 24187,
    "match": 1.0,
    "name": "AirForce Delta Strike",
@@ -176,7 +179,7 @@
     "scsr29",
     "scsr2a"
    ],
-   "tv": 1
+   "tv": 3
   },
   "air|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -297,15 +300,17 @@
    "tv": 3
   },
   "aonatsu line|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co54eq",
    "id": 214547,
    "match": 1.0,
    "name": "Aonatsu Line",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "ape escape 3|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6b7x",
    "id": 6064,
    "match": 1.0,
    "name": "Ape Escape 3",
@@ -315,10 +320,11 @@
     "bd7ekwzxmieytlaeci0f",
     "kuhzghg2n5ohtymygd0g"
    ],
-   "tv": 1
+   "tv": 3
   },
   "ape escape on the loose|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co51kp",
    "id": 44530,
    "match": 1.0,
    "name": "Ape Escape: On the Loose",
@@ -327,7 +333,7 @@
     "scggv0",
     "scggv1"
    ],
-   "tv": 1
+   "tv": 3
   },
   "arabian nights desert spirit king|19": {
    "anyPlat": true,
@@ -346,7 +352,8 @@
    "tv": 3
   },
   "arc rise fantasia|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "coazjc",
    "id": 4678,
    "match": 1.0,
    "name": "Arc Rise Fantasia",
@@ -358,18 +365,20 @@
     "bjjhorzkopi6j2axddut",
     "hpnkbkx4tedhsxxfghmb"
    ],
-   "tv": 1
+   "tv": 3
   },
   "arc the lad end of darkness|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4pwc",
    "id": 43649,
    "match": 1.0,
    "name": "Arc the Lad: End of Darkness",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "arc the lad twilight of the spirits|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1osr",
    "id": 21558,
    "match": 1.0,
    "name": "Arc the Lad: Twilight of the Spirits",
@@ -380,7 +389,7 @@
     "scarpl",
     "scarpm"
    ],
-   "tv": 1
+   "tv": 3
   },
   "area 88|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -423,7 +432,8 @@
    "tv": 3
   },
   "armored core 2 another age|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4eey",
    "id": 46029,
    "match": 1.0,
    "name": "Armored Core 2: Another Age",
@@ -432,10 +442,11 @@
     "sc7ifu",
     "sc7ifw"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core 2|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4dtx",
    "id": 31719,
    "match": 1.0,
    "name": "Armored Core 2",
@@ -446,18 +457,20 @@
     "sc13b6n",
     "sc13b6o"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core 3 portable|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4wu0",
    "id": 38453,
    "match": 1.0,
    "name": "Armored Core 3 Portable",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "armored core 3|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co9qqs",
    "id": 19414,
    "match": 1.0,
    "name": "Armored Core 3",
@@ -465,10 +478,11 @@
     "sc7ig3",
     "sc7ig4"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core 4|9": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4ki0",
    "id": 5491,
    "match": 1.0,
    "name": "Armored Core 4",
@@ -479,10 +493,11 @@
     "sc7ie2",
     "sc7ie3"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core for answer|9": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6fzn",
    "id": 5493,
    "match": 1.0,
    "name": "Armored Core: For Answer",
@@ -494,18 +509,20 @@
     "sc14hbc",
     "sc7iec"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core last raven portable|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co48ot",
    "id": 38480,
    "match": 1.0,
    "name": "Armored Core: Last Raven Portable",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "armored core last raven|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1w5q",
    "id": 19410,
    "match": 1.0,
    "name": "Armored Core: Last Raven",
@@ -514,10 +531,11 @@
     "sc7igb",
     "sc7igc"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core master of arena|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3tm5",
    "id": 19424,
    "match": 1.0,
    "name": "Armored Core: Master of Arena",
@@ -527,10 +545,11 @@
     "scxw0r",
     "scxw0q"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core nexus|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4wtz",
    "id": 19412,
    "match": 1.0,
    "name": "Armored Core: Nexus",
@@ -538,20 +557,22 @@
     "sc7ig8",
     "sc7ig9"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core nine breaker|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1w5o",
    "id": 23146,
    "match": 1.0,
    "name": "Armored Core: Nine Breaker",
    "shots": [
     "sc7ig7"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core project phantasma|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2ich",
    "id": 19428,
    "match": 1.0,
    "name": "Armored Core: Project Phantasma",
@@ -560,20 +581,22 @@
     "sc7ifp",
     "sc7ifq"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core silent line portable|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3tmj",
    "id": 21757,
    "match": 1.0,
    "name": "Armored Core: Silent Line Portable",
    "shots": [
     "bkmxtplvvgg4kde07vhr"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core verdict day|9": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5x33",
    "id": 5494,
    "match": 1.0,
    "name": "Armored Core: Verdict Day",
@@ -583,10 +606,11 @@
     "tnrbio4rt3rrekdyh8hl",
     "pm6cxg9lrcz72xohxvr0"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core v|9": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4wp0",
    "id": 5492,
    "match": 1.0,
    "name": "Armored Core V",
@@ -596,10 +620,11 @@
     "jknso79gxd15lhyxrzci",
     "dmlourfmco0ujw2weuhe"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored core|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co9qr0",
    "id": 4144,
    "match": 1.0,
    "name": "Armored Core",
@@ -608,7 +633,7 @@
     "sc66s4",
     "sc66s5"
    ],
-   "tv": 1
+   "tv": 3
   },
   "armored police metal jack|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -640,7 +665,8 @@
    "tv": 3
   },
   "astro boy|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6y4r",
    "id": 121365,
    "match": 1.0,
    "name": "Astro Boy",
@@ -649,7 +675,7 @@
     "sch6e4",
     "sch6e5"
    ],
-   "tv": 1
+   "tv": 3
   },
   "atelier lydie and suelle|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -720,7 +746,8 @@
    "tv": 3
   },
   "baroque|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2g8g",
    "id": 4705,
    "match": 1.0,
    "name": "Baroque",
@@ -732,10 +759,11 @@
     "scxwr5",
     "scxwr0"
    ],
-   "tv": 1
+   "tv": 3
   },
   "baroque|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2g8g",
    "id": 4705,
    "match": 1.0,
    "name": "Baroque",
@@ -747,7 +775,7 @@
     "scxwr5",
     "scxwr0"
    ],
-   "tv": 1
+   "tv": 3
   },
   "bastard dark god of destruction|19": {
    "anyPlat": true,
@@ -832,14 +860,15 @@
    "tv": 3
   },
   "bloody roar 3|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7z9w",
    "id": 3824,
    "match": 1.0,
    "name": "Bloody Roar 3",
    "shots": [
     "hc8ucib650pcokyo1yyb"
    ],
-   "tv": 1
+   "tv": 3
   },
   "blue reflection|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -857,7 +886,8 @@
    "tv": 3
   },
   "boktai 2 solar boy django|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2hbu",
    "id": 6329,
    "match": 1.0,
    "name": "Boktai 2: Solar Boy Django",
@@ -869,10 +899,11 @@
     "sc7n8j",
     "sc7n8h"
    ],
-   "tv": 1
+   "tv": 3
   },
   "boktai the sun is in your hand|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2n1b",
    "id": 6326,
    "match": 1.0,
    "name": "Boktai: The Sun Is in Your Hand",
@@ -884,7 +915,7 @@
     "sc7n8x",
     "sc7n8t"
    ],
-   "tv": 1
+   "tv": 3
   },
   "boku to joi no shinsatsu nisshi|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -916,7 +947,8 @@
    "tv": 3
   },
   "bomberman generation|21": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2w96",
    "id": 3832,
    "match": 1.0,
    "name": "Bomberman Generation",
@@ -928,10 +960,11 @@
     "schy2p",
     "schy2i"
    ],
-   "tv": 1
+   "tv": 3
   },
   "bomberman jetters|21": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5gh1",
    "id": 3833,
    "match": 1.0,
    "name": "Bomberman Jetters",
@@ -941,7 +974,7 @@
     "scncka",
     "scnckb"
    ],
-   "tv": 1
+   "tv": 3
   },
   "brandish 2 the planet buster|19": {
    "anyPlat": true,
@@ -1049,7 +1082,8 @@
    "tv": 3
   },
   "bujingai the forsaken city|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1ote",
    "id": 19413,
    "match": 1.0,
    "name": "Bujingai: The Forsaken City",
@@ -1059,7 +1093,7 @@
     "scsr2i",
     "scsr2h"
    ],
-   "tv": 1
+   "tv": 3
   },
   "captain rainbow|5": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1104,7 +1138,8 @@
    "tv": 3
   },
   "castle shikigami 2|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co8iyf",
    "id": 4149,
    "match": 1.0,
    "name": "Castle Shikigami 2",
@@ -1113,10 +1148,11 @@
     "scm6mu",
     "scm6mv"
    ],
-   "tv": 1
+   "tv": 3
   },
   "castlevania order of ecclesia|20": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cob9km",
    "id": 1141,
    "match": 1.0,
    "name": "Castlevania: Order of Ecclesia",
@@ -1128,7 +1164,7 @@
     "tftg9ayqsai6ahs03jv3",
     "mpw40ut8l2l4uy7tlkjd"
    ],
-   "tv": 1
+   "tv": 3
   },
   "catherine full body|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1147,7 +1183,8 @@
    "tv": 3
   },
   "chaindive|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4ehb",
    "id": 66743,
    "match": 1.0,
    "name": "ChainDive",
@@ -1155,7 +1192,7 @@
     "scqe9a",
     "scqe9b"
    ],
-   "tv": 1
+   "tv": 3
   },
   "chaos child|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1174,7 +1211,8 @@
    "tv": 3
   },
   "chaos legion|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4psj",
    "id": 2917,
    "match": 1.0,
    "name": "Chaos Legion",
@@ -1185,7 +1223,7 @@
     "b0cit97q7cadcqglkrmx",
     "qvtus857c3yggocv53jf"
    ],
-   "tv": 1
+   "tv": 3
   },
   "chaos rings iii|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1260,8 +1298,9 @@
    "tv": 3
   },
   "chikippudansazu norinoridansu de kokoro mo odoru|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "chou soujuu mecha mg|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1324,11 +1363,13 @@
    "tv": 3
   },
   "clock maker|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "clock tower 3|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1otl",
    "id": 18305,
    "match": 1.0,
    "name": "Clock Tower 3",
@@ -1340,7 +1381,7 @@
     "scn7sd",
     "scn7sa"
    ],
-   "tv": 1
+   "tv": 3
   },
   "clock tower|19": {
    "anyPlat": true,
@@ -1368,7 +1409,8 @@
    "tv": 3
   },
   "code name s t e a m|37": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co21q1",
    "id": 7392,
    "match": 1.0,
    "name": "Code Name: S.T.E.A.M.",
@@ -1380,10 +1422,11 @@
     "kt42gpvuns2k1wrixkcv",
     "xvwhxx7iilgzlhgq0nyn"
    ],
-   "tv": 1
+   "tv": 3
   },
   "code of princess|37": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1twu",
    "id": 6751,
    "match": 1.0,
    "name": "Code of Princess",
@@ -1395,7 +1438,7 @@
     "v16tamqg2cra6mqe7mos",
     "odlcwna7ahjplt0vn5be"
    ],
-   "tv": 1
+   "tv": 3
   },
   "cooly skunk|306": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1414,17 +1457,19 @@
    "tv": 3
   },
   "crimson gem saga|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nif",
    "id": 19640,
    "match": 1.0,
    "name": "Crimson Gem Saga",
    "shots": [
     "scey5m"
    ],
-   "tv": 1
+   "tv": 3
   },
   "crimson tears|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co95yn",
    "id": 22300,
    "match": 1.0,
    "name": "Crimson Tears",
@@ -1434,10 +1479,11 @@
     "selvqcwdyx6vcu37qeps",
     "hr1ufjobgfgshbgcmz2h"
    ],
-   "tv": 1
+   "tv": 3
   },
   "crisis core final fantasy vii|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1trb",
    "id": 2407,
    "match": 1.0,
    "name": "Crisis Core: Final Fantasy VII",
@@ -1445,7 +1491,7 @@
     "akcoqrryb1nykxldwfgv",
     "ukii4rqvimhadcmruotu"
    ],
-   "tv": 1
+   "tv": 3
   },
   "cross treasures|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1497,8 +1543,9 @@
    "tv": 3
   },
   "cyanotype daydream|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "cyber knight ii chikyuu teikoku no yabou|19": {
    "anyPlat": true,
@@ -1546,7 +1593,8 @@
    "tv": 3
   },
   "da da daungo|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7fhk",
    "id": 277131,
    "match": 1.0,
    "name": "Da Da Daungo",
@@ -1558,7 +1606,7 @@
     "scpkdb",
     "scpkdd"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dai 4 ji super robot taisen|19": {
    "anyPlat": true,
@@ -1613,7 +1661,8 @@
    "tv": 3
   },
   "dark cloud 2|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2zhm",
    "id": 1215,
    "match": 1.0,
    "name": "Dark Cloud 2",
@@ -1625,7 +1674,7 @@
     "scawm6",
     "scawm7"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dark half|19": {
    "anyPlat": true,
@@ -1686,8 +1735,9 @@
    "tv": 3
   },
   "dei gratia no rashinban|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "dengeki bunko fighting climax ignition|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1781,7 +1831,8 @@
    "tv": 3
   },
   "digimon world data squad|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2px7",
    "id": 20761,
    "match": 1.0,
    "name": "Digimon World Data Squad",
@@ -1790,7 +1841,7 @@
     "sc103p5",
     "sc103p6"
    ],
-   "tv": 1
+   "tv": 3
   },
   "digimon world next order|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1819,7 +1870,8 @@
    "tv": 3
   },
   "ding dong|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5riv",
    "id": 57883,
    "match": 1.0,
    "name": "Ding Dong",
@@ -1831,10 +1883,11 @@
     "scvrqg",
     "scvrqh"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dirge of cerberus final fantasy vii|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co205e",
    "id": 18068,
    "match": 1.0,
    "name": "Dirge of Cerberus: Final Fantasy VII",
@@ -1844,7 +1897,7 @@
     "scfbgo",
     "scfbgp"
    ],
-   "tv": 1
+   "tv": 3
   },
   "do re mi fantasy milons quest|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1852,8 +1905,19 @@
    "tv": 3
   },
   "doctor lautrec and the forgotten knights|20": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5tv6",
+   "id": 6757,
+   "match": 1.0,
+   "name": "Doctor Lautrec and the Forgotten Knights",
+   "shots": [
+    "i90gwrdh2mocfcwjptru",
+    "ep596irutuyiq5z76o1a",
+    "xqw6exnntzaqihhms27w",
+    "uekwl9qc8bnujel7qdcv"
+   ],
+   "tv": 3
   },
   "dokapon 3 2 1 from friendship to mayhem|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -1861,7 +1925,8 @@
    "tv": 3
   },
   "dokapon kingdom|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2ngu",
    "id": 4816,
    "match": 1.0,
    "name": "Dokapon Kingdom",
@@ -1873,10 +1938,11 @@
     "kehujafw9kpkplh7fywz",
     "lr5qd2ru82u9vdupczxn"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dokapon up mugen no roulette|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "coax9g",
    "id": 139184,
    "match": 1.0,
    "name": "Dokapon UP! Mugen no Roulette",
@@ -1888,11 +1954,24 @@
     "sc10nlp",
     "sc10nlq"
    ],
-   "tv": 1
+   "tv": 3
   },
   "doko demo issyo|38": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4hmi",
+   "id": 72565,
+   "match": 1.0,
+   "name": "Doko Demo Issyo",
+   "shots": [
+    "sclvcu",
+    "sclvcv",
+    "sclvco",
+    "sclvcp",
+    "sclvcq",
+    "sclvcr"
+   ],
+   "tv": 3
   },
   "donald duck and the magical hat|19": {
    "anyPlat": true,
@@ -1920,7 +1999,8 @@
    "tv": 3
   },
   "doshin the giant|21": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4d12",
    "id": 3894,
    "match": 1.0,
    "name": "Doshin the Giant",
@@ -1932,7 +2012,7 @@
     "scbu5q",
     "scbu5r"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dossun ganseki battle|19": {
    "anyPlat": true,
@@ -1945,8 +2025,9 @@
    "tv": 3
   },
   "dragon ball 3 the legend of goku|18": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "dragon ball z hyper dimension|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2001,7 +2082,8 @@
    "tv": 3
   },
   "dragon ball z tenkaichi tag team|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co53mc",
    "id": 2572,
    "match": 1.0,
    "name": "Dragon Ball Z: Tenkaichi Tag Team",
@@ -2011,7 +2093,7 @@
     "l9cg6vov5xrvtomfj80e",
     "hkpxfe2b5a9wakmq9kz2"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dragon ball z ultime menace|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2079,7 +2161,8 @@
    "tv": 3
   },
   "dragon quest monsters caravan heart|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2w3i",
    "id": 6388,
    "match": 1.0,
    "name": "Dragon Quest Monsters: Caravan Heart",
@@ -2091,10 +2174,11 @@
     "sc7nca",
     "sc7nc7"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dragon quest swords the masked queen and the tower of mirrors|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7zey",
    "id": 1822,
    "match": 1.0,
    "name": "Dragon Quest Swords: The Masked Queen and the Tower of Mirrors",
@@ -2106,7 +2190,7 @@
     "ynxanwhzdh85d4k7vw16",
     "lniq2ulfoshw1clskchi"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dragon quest v hand of the heavenly bride|19": {
    "anyPlat": true,
@@ -2160,7 +2244,8 @@
    "tv": 3
   },
   "dragon quest viii journey of the cursed king|37": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2xc0",
    "id": 145528,
    "match": 1.0,
    "name": "Dragon Quest VIII: Journey of the Cursed King",
@@ -2168,11 +2253,12 @@
     "sc9862",
     "sc9863"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dragon quest x offline|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "dragons crown|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2189,7 +2275,8 @@
    "tv": 3
   },
   "dragons crown|9": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3wc6",
    "id": 3002,
    "match": 1.0,
    "name": "Dragon's Crown",
@@ -2199,10 +2286,11 @@
     "rtmkclzgajlc5azgzbw8",
     "mzlboajae2m4bles2d4g"
    ],
-   "tv": 1
+   "tv": 3
   },
   "drakengard 2|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co25ox",
    "id": 11663,
    "match": 1.0,
    "name": "Drakengard 2",
@@ -2211,7 +2299,7 @@
     "b1cbbddtgqiusbevflpj",
     "armthu5yi5jqvi7g8d4n"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dream maze the kigurumi adventure|19": {
    "anyPlat": true,
@@ -2227,7 +2315,8 @@
    "tv": 3
   },
   "dual hearts|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3tlq",
    "id": 44717,
    "match": 1.0,
    "name": "Dual Hearts",
@@ -2239,7 +2328,7 @@
     "schjjc",
     "schjjd"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dungeon of windaria|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2258,11 +2347,23 @@
    "tv": 3
   },
   "dynasty warriors 2|7": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1oui",
+   "id": 2983,
+   "match": 1.0,
+   "name": "Dynasty Warriors 2",
+   "shots": [
+    "vayn0e0xp33redhywyjc",
+    "zn5j8sr93wdpghoqafie",
+    "scih0z",
+    "scih10"
+   ],
+   "tv": 3
   },
   "dynasty warriors 4 xtreme legends|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co8af7",
    "id": 19631,
    "match": 1.0,
    "name": "Dynasty Warriors 4: Xtreme Legends",
@@ -2273,10 +2374,11 @@
     "scm8g2",
     "scm8g3"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors 4|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1ouk",
    "id": 3007,
    "match": 1.0,
    "name": "Dynasty Warriors 4",
@@ -2288,10 +2390,11 @@
     "sciywy",
     "sciyxd"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors 5 empires|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6fc0",
    "id": 19624,
    "match": 1.0,
    "name": "Dynasty Warriors 5: Empires",
@@ -2303,10 +2406,11 @@
     "scm9kc",
     "scm9kd"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors 5 xtreme legends|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co45su",
    "id": 19618,
    "match": 1.0,
    "name": "Dynasty Warriors 5: Xtreme Legends",
@@ -2317,10 +2421,11 @@
     "scm9k3",
     "scm9k4"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors 5|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nhx",
    "id": 5820,
    "match": 1.0,
    "name": "Dynasty Warriors 5",
@@ -2330,10 +2435,11 @@
     "scm8gg",
     "scm8gh"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors 6 empires|9": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co45v1",
    "id": 19636,
    "match": 1.0,
    "name": "Dynasty Warriors 6: Empires",
@@ -2345,10 +2451,11 @@
     "scazmu",
     "scazmv"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors 6|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7taq",
    "id": 287843,
    "match": 1.0,
    "name": "Dynasty Warriors 6",
@@ -2358,10 +2465,11 @@
     "scqp0y",
     "scqp1y"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors advance|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2q0x",
    "id": 6394,
    "match": 1.0,
    "name": "Dynasty Warriors Advance",
@@ -2373,10 +2481,11 @@
     "scm9y5",
     "scm9y6"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors next|46": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4p6q",
    "id": 19267,
    "match": 1.0,
    "name": "Dynasty Warriors Next",
@@ -2387,10 +2496,11 @@
     "vnpyijud4bvdlzokhi8w",
     "do4ufqbajhoexkrihovh"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors strikeforce|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co60k0",
    "id": 6983,
    "match": 1.0,
    "name": "Dynasty Warriors: Strikeforce",
@@ -2402,10 +2512,11 @@
     "scancu",
     "scancv"
    ],
-   "tv": 1
+   "tv": 3
   },
   "dynasty warriors strikeforce|9": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co60k0",
    "id": 6983,
    "match": 1.0,
    "name": "Dynasty Warriors: Strikeforce",
@@ -2417,10 +2528,11 @@
     "scancu",
     "scancv"
    ],
-   "tv": 1
+   "tv": 3
   },
   "earth defense force 2017 portable|46": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co60qg",
    "id": 21583,
    "match": 1.0,
    "name": "Earth Defense Force 2017 Portable",
@@ -2431,7 +2543,7 @@
     "m91puarrwzmhnivys06y",
     "wwagyd2qdy4nyyoazmo1"
    ],
-   "tv": 1
+   "tv": 3
   },
   "earth seeker|5": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2455,7 +2567,8 @@
    "tv": 3
   },
   "echo night beyond|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4psa",
    "id": 9515,
    "match": 1.0,
    "name": "Echo Night: Beyond",
@@ -2465,7 +2578,7 @@
     "vwmrmbkonqjdnubpp9lp",
     "fp1mwbhmcgddojpelt9y"
    ],
-   "tv": 1
+   "tv": 3
   },
   "echo night the first voyage|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2479,7 +2592,8 @@
    "tv": 3
   },
   "echo night|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "coa1a6",
    "id": 9514,
    "match": 1.0,
    "name": "Echo Night",
@@ -2490,7 +2604,7 @@
     "scxoxz",
     "scxoy0"
    ],
-   "tv": 1
+   "tv": 3
   },
   "element hunter|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2498,7 +2612,8 @@
    "tv": 3
   },
   "elemental gimmick gear|23": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nvx",
    "id": 45862,
    "match": 1.0,
    "name": "Elemental Gimmick Gear",
@@ -2510,7 +2625,7 @@
     "sc8xud",
     "sc8xue"
    ],
-   "tv": 1
+   "tv": 3
   },
   "emerald dragon|19": {
    "anyPlat": true,
@@ -2539,8 +2654,18 @@
    "tv": 3
   },
   "escape from bug island|8": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7lud",
+   "id": 4835,
+   "match": 1.0,
+   "name": "Escape from Bug Island",
+   "shots": [
+    "scq3n4",
+    "scq3n5",
+    "scq3n6"
+   ],
+   "tv": 3
   },
   "eternal filena|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2548,17 +2673,19 @@
    "tv": 3
   },
   "eternal poison|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1uh6",
    "id": 21334,
    "match": 1.0,
    "name": "Eternal Poison",
    "shots": [
     "cvoux3dkrdeskgc5s1hx"
    ],
-   "tv": 1
+   "tv": 3
   },
   "eternal ring|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3tov",
    "id": 10905,
    "match": 1.0,
    "name": "Eternal Ring",
@@ -2570,10 +2697,11 @@
     "sc9f8y",
     "sc9f8z"
    ],
-   "tv": 1
+   "tv": 3
   },
   "etrian odyssey untold the millennium girl|37": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2w9v",
    "id": 6768,
    "match": 1.0,
    "name": "Etrian Odyssey Untold: The Millennium Girl",
@@ -2585,21 +2713,23 @@
     "buv0bjznvsmt0x0rr1py",
     "v0esav3djtlpjorseuqn"
    ],
-   "tv": 1
+   "tv": 3
   },
   "eureka seven vol 1 the new wave|8": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "eureka seven vol 2 the new vision|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "qomwj6malpaesiixpr5x",
    "id": 21439,
    "match": 1.0,
    "name": "Eureka Seven Vol. 2: The New Vision",
    "shots": [
     "x9schnhbbbiju34bz3lg"
    ],
-   "tv": 1
+   "tv": 3
   },
   "ever17 the out of infinity premium edition|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2607,7 +2737,8 @@
    "tv": 3
   },
   "evergrace|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3tgq",
    "id": 10904,
    "match": 1.0,
    "name": "Evergrace",
@@ -2616,10 +2747,11 @@
     "scdepz",
     "scdeq0"
    ],
-   "tv": 1
+   "tv": 3
   },
   "extermination|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cobutj",
    "id": 10914,
    "match": 1.0,
    "name": "Extermination",
@@ -2629,7 +2761,7 @@
     "scso3e",
     "sckae1"
    ],
-   "tv": 1
+   "tv": 3
   },
   "f 1 grand prix part ii|19": {
    "anyPlat": true,
@@ -2736,7 +2868,8 @@
    "tv": 3
   },
   "final fantasy crystal chronicles echoes of time|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co26f0",
    "id": 23016,
    "match": 1.0,
    "name": "Final Fantasy: Crystal Chronicles - Echoes of Time",
@@ -2748,10 +2881,11 @@
     "cbsldtccwh9kfirxz7iw",
     "bswimra8mb4qvwre5edu"
    ],
-   "tv": 1
+   "tv": 3
   },
   "final fantasy crystal chronicles the crystal bearers|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1vjl",
    "id": 401,
    "match": 1.0,
    "name": "Final Fantasy: Crystal Chronicles - The Crystal Bearers",
@@ -2760,10 +2894,11 @@
     "hwfdqrrblzqm0jnawp6z",
     "xopmbvdwlosfshjav7md"
    ],
-   "tv": 1
+   "tv": 3
   },
   "final fantasy explorers|37": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1vjp",
    "id": 7413,
    "match": 1.0,
    "name": "Final Fantasy: Explorers",
@@ -2775,7 +2910,7 @@
     "umkkvvxqyc6sq29adwoe",
     "stz6nsmrb2yqenpaov45"
    ],
-   "tv": 1
+   "tv": 3
   },
   "final fantasy iv namingway edition|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2880,7 +3015,8 @@
    "tv": 3
   },
   "final fantasy x x 2 hd remaster|46": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2zpl",
    "id": 14144,
    "match": 1.0,
    "name": "Final Fantasy X/X-2 HD Remaster",
@@ -2892,7 +3028,7 @@
     "sc9idr",
     "sc9idw"
    ],
-   "tv": 1
+   "tv": 3
   },
   "fire emblem heroes of light and shadow|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2972,14 +3108,15 @@
    "tv": 3
   },
   "forever kingdom|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2wrb",
    "id": 10907,
    "match": 1.0,
    "name": "Forever Kingdom",
    "shots": [
     "sc93my"
    ],
-   "tv": 1
+   "tv": 3
   },
   "freedom wars|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -2996,7 +3133,8 @@
    "tv": 3
   },
   "front mission 5 scars of the war|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co398p",
    "id": 1506,
    "match": 1.0,
    "name": "Front Mission 5: Scars of the War",
@@ -3006,7 +3144,7 @@
     "wp2aztocmqrubyjttv7c",
     "vo8uboki80yrc64hu4aj"
    ],
-   "tv": 1
+   "tv": 3
   },
   "front mission series gun hazard|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3028,7 +3166,8 @@
    "tv": 3
   },
   "fullmetal alchemist 2 curse of the crimson elixir|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cobmmg",
    "id": 19072,
    "match": 1.0,
    "name": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
@@ -3039,10 +3178,11 @@
     "mdsxpypsitwpmw3miy2i",
     "evjo8ninmxdcuhtn8h9p"
    ],
-   "tv": 1
+   "tv": 3
   },
   "fullmetal alchemist and the broken angel|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1ovf",
    "id": 19071,
    "match": 1.0,
    "name": "Fullmetal Alchemist and the Broken Angel",
@@ -3053,7 +3193,7 @@
     "gjxchczuyx7fsibj0eo3",
     "dxbepxyiledimbqrglk2"
    ],
-   "tv": 1
+   "tv": 3
   },
   "fullmetal alchemist sonata of memories|24": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3105,15 +3245,18 @@
    "tv": 3
   },
   "futago usagi no gokinjo turismo|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "g mode archives 37|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "g mode archives 44 dragon x dragon|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7x2z",
    "id": 241041,
    "match": 1.0,
    "name": "G-Mode Archives 44: Dragon x Dragon",
@@ -3124,7 +3267,7 @@
     "scr9eb",
     "scr9ec"
    ],
-   "tv": 1
+   "tv": 3
   },
   "g o d growth or devolution heed the call to awaken|19": {
    "anyPlat": true,
@@ -3224,7 +3367,8 @@
    "tv": 3
   },
   "gensou rougoku no kaleidoscope|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1wav",
    "id": 121533,
    "match": 1.0,
    "name": "Kaleidoscope of Phantasm Prison",
@@ -3234,7 +3378,7 @@
     "sc8lre",
     "sc8lrf"
    ],
-   "tv": 1
+   "tv": 3
   },
   "gensou rougoku no kaleidoscope|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3251,7 +3395,8 @@
    "tv": 3
   },
   "gensou suikoden card stories|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cobxl0",
    "id": 1451,
    "match": 1.0,
    "name": "Genso Suikoden Card Stories",
@@ -3263,17 +3408,18 @@
     "ajq8okmpjfd8m5kezqxc",
     "sc7ns7"
    ],
-   "tv": 1
+   "tv": 3
   },
   "germs nerawareta machi|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7upj",
    "id": 62438,
    "match": 1.0,
    "name": "Germs: Nerawareta Machi",
    "shots": [
     "scosyt"
    ],
-   "tv": 1
+   "tv": 3
   },
   "ghost chaser densei|19": {
    "anyPlat": true,
@@ -3315,7 +3461,8 @@
    "tv": 3
   },
   "glass rose|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5tst",
    "id": 43441,
    "match": 1.0,
    "name": "Glass Rose",
@@ -3324,7 +3471,7 @@
     "sc15c1g",
     "sc15c1e"
    ],
-   "tv": 1
+   "tv": 3
   },
   "go go ackman|19": {
    "anyPlat": true,
@@ -3341,7 +3488,8 @@
    "tv": 3
   },
   "god eater 2 rage burst|46": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1nmt",
    "id": 11857,
    "match": 1.0,
    "name": "God Eater 2: Rage Burst",
@@ -3352,7 +3500,7 @@
     "vuna2cden7pxqd0c7q2o",
     "txhzdn6bk3lbunrz2ka7"
    ],
-   "tv": 1
+   "tv": 3
   },
   "god eater 2|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3394,7 +3542,8 @@
    "tv": 3
   },
   "god eater resurrection|46": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3vp1",
    "id": 11858,
    "match": 1.0,
    "name": "God Eater Resurrection",
@@ -3405,7 +3554,7 @@
     "uzprwnvrmvza1abgpoxb",
     "vq5lo5qt2akykbkyffnz"
    ],
-   "tv": 1
+   "tv": 3
   },
   "gourmet sentai barayarou|19": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3413,7 +3562,8 @@
    "tv": 3
   },
   "graffiti kingdom|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4chp",
    "id": 11358,
    "match": 1.0,
    "name": "Graffiti Kingdom",
@@ -3425,7 +3575,7 @@
     "scoq0e",
     "scoq0f"
    ],
-   "tv": 1
+   "tv": 3
   },
   "grand knights history|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3483,7 +3633,8 @@
    "tv": 3
   },
   "gregory horror show|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "coayiy",
    "id": 22252,
    "match": 1.0,
    "name": "Gregory Horror Show",
@@ -3493,7 +3644,7 @@
     "wkppilt76wmojltp5avx",
     "luwi6mdrsydks2cxp3r1"
    ],
-   "tv": 1
+   "tv": 3
   },
   "grisaia no kajitsu side episode|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3524,17 +3675,19 @@
    "tv": 3
   },
   "growlanser heritage of war|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2wiu",
    "id": 21308,
    "match": 1.0,
    "name": "Growlanser: Heritage of War",
    "shots": [
     "iz4gmvpfkgi5jzbrsrwm"
    ],
-   "tv": 1
+   "tv": 3
   },
   "growlanser vi precarious world|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2wit",
    "id": 21314,
    "match": 1.0,
    "name": "Growlanser VI: Precarious World",
@@ -3542,11 +3695,12 @@
     "scm69j",
     "scm69k"
    ],
-   "tv": 1
+   "tv": 3
   },
   "growlanser wayfarer of time|38": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "gun gun pixies|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3566,7 +3720,8 @@
    "tv": 3
   },
   "gun smoke|51": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6nzl",
    "id": 40965,
    "match": 1.0,
    "name": "Gun.Smoke",
@@ -3575,19 +3730,26 @@
     "sc15bmi",
     "sc15bmj"
    ],
-   "tv": 1
+   "tv": 3
   },
   "gundam assault survive|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1pq5",
    "id": 67126,
    "match": 1.0,
    "name": "Gundam Assault Survive",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "gundemonium collection|38": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cob1ma",
+   "id": 138096,
+   "match": 1.0,
+   "name": "Gundemonium Collection",
+   "shots": [],
+   "tv": 3
   },
   "gundemonium collection|46": {
    "anyPlat": true,
@@ -3600,7 +3762,8 @@
    "tv": 3
   },
   "gungrave overdose|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6il2",
    "id": 22452,
    "match": 1.0,
    "name": "Gungrave: Overdose",
@@ -3610,7 +3773,7 @@
     "scp9as",
     "scp9au"
    ],
-   "tv": 1
+   "tv": 3
   },
   "gurumin a monstrous adventure|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3741,7 +3904,8 @@
    "tv": 3
   },
   "hexyz force|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2no6",
    "id": 42884,
    "match": 1.0,
    "name": "Hexyz Force",
@@ -3750,10 +3914,11 @@
     "sc6spk",
     "sc6spj"
    ],
-   "tv": 1
+   "tv": 3
   },
   "higurashi no naku koro ni hou|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6kkm",
    "id": 251461,
    "match": 1.0,
    "name": "Higurashi no Naku Koro ni Hou",
@@ -3764,10 +3929,11 @@
     "scmr4r",
     "scmr4p"
    ],
-   "tv": 1
+   "tv": 3
   },
   "honey vibes|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7skf",
    "id": 287894,
    "match": 1.0,
    "name": "Honey Vibes",
@@ -3779,7 +3945,7 @@
     "scuhjs",
     "scuhji"
    ],
-   "tv": 1
+   "tv": 3
   },
   "hyperdimension neptunia re birth2 sisters generation|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3868,8 +4034,13 @@
    "tv": 3
   },
   "irochi mikke|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "id": 276464,
+   "match": 1.0,
+   "name": "Irochi Mikke!",
+   "shots": [],
+   "tv": 3
   },
   "is it wrong to try to pick up girls in a dungeon infinite combate|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3922,7 +4093,8 @@
    "tv": 3
   },
   "jade cocoon 2|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2ni9",
    "id": 18079,
    "match": 1.0,
    "name": "Jade Cocoon 2",
@@ -3931,10 +4103,11 @@
     "scvqsq",
     "scvqsr"
    ],
-   "tv": 1
+   "tv": 3
   },
   "jade cocoon story of the tamamayu|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "coa69e",
    "id": 45000,
    "match": 1.0,
    "name": "Jade Cocoon: Story of the Tamamayu",
@@ -3946,10 +4119,11 @@
     "scy59y",
     "scy5a0"
    ],
-   "tv": 1
+   "tv": 3
   },
   "jeanne darc|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1pnd",
    "id": 11326,
    "match": 1.0,
    "name": "Jeanne d'Arc",
@@ -3960,7 +4134,7 @@
     "nxjetucagwz07qyllzi9",
     "rw0hm9k8tecw8noxtgef"
    ],
-   "tv": 1
+   "tv": 3
   },
   "jet impulse|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -3975,8 +4149,9 @@
    "tv": 3
   },
   "jojo no kimyou na bouken phantom blood|8": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "jump ultimate stars|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4021,8 +4196,9 @@
    "tv": 3
   },
   "kanken smart strategy|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "kantai collection kai|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4046,12 +4222,13 @@
    "tv": 3
   },
   "khamrai|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5oy6",
    "id": 91879,
    "match": 1.0,
    "name": "Khamrai",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "kidou senshi gundam gihren no yabou axis no kyoui v|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4068,7 +4245,8 @@
    "tv": 3
   },
   "kimikiss|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cockuz",
    "id": 70540,
    "match": 1.0,
    "name": "KimiKiss",
@@ -4078,7 +4256,7 @@
     "scaf24",
     "scaf25"
    ],
-   "tv": 1
+   "tv": 3
   },
   "kingdom hearts birth by sleep final mix|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4095,7 +4273,8 @@
    "tv": 3
   },
   "kingdom hearts chain of memories|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2wrx",
    "id": 1220,
    "match": 1.0,
    "name": "Kingdom Hearts: Chain of Memories",
@@ -4107,7 +4286,7 @@
     "sc8e5g",
     "sc8e5e"
    ],
-   "tv": 1
+   "tv": 3
   },
   "klonoa heroes densetsu no star medal|24": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4183,7 +4362,8 @@
    "tv": 3
   },
   "laid back camp have a nice day|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co47rp",
    "id": 146334,
    "match": 1.0,
    "name": "Laid-Back Camp: Have a nice day!",
@@ -4192,10 +4372,11 @@
     "sceklr",
     "scekls"
    ],
-   "tv": 1
+   "tv": 3
   },
   "langrisser iii|32": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2wi1",
    "id": 69532,
    "match": 1.0,
    "name": "Langrisser III",
@@ -4204,7 +4385,7 @@
     "sc156g9",
     "sc156ga"
    ],
-   "tv": 1
+   "tv": 3
   },
   "last ranker|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4221,7 +4402,8 @@
    "tv": 3
   },
   "last story|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cob8gc",
    "id": 4966,
    "match": 1.0,
    "name": "The Last Story",
@@ -4233,10 +4415,11 @@
     "nnts3t9d0t8xu2bcukbw",
     "yvyvyzfgygqohvgvn4fq"
    ],
-   "tv": 1
+   "tv": 3
   },
   "legend of dragoon|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4pan",
    "id": 3140,
    "match": 1.0,
    "name": "The Legend of Dragoon",
@@ -4247,7 +4430,7 @@
     "yngizlmywtk6jxsr3elu",
     "ozbxg2pvlngsoylwcjzb"
    ],
-   "tv": 1
+   "tv": 3
   },
   "legend of heroes trails from zero evolution|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4306,27 +4489,38 @@
    "tv": 3
   },
   "legend of heroes trails of cold steel ii|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "id": 78114,
-   "match": 0.952,
-   "name": "The Legend of Heroes: Trails of Cold Steel II - Kai",
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co44mb",
+   "id": 13558,
+   "match": 1.0,
+   "name": "The Legend of Heroes: Trails of Cold Steel II",
    "shots": [
-    "sce0sf",
-    "sce0sh",
-    "sce0sj",
-    "sce0si",
-    "sce0sg",
-    "sce0sm"
+    "eluraotjt5a3ugsixi91",
+    "dowbcato46zluyor6uxh",
+    "q24mhyzoq6nxz1lpdjpb",
+    "zowt1e7oh0z32c1d4p8h",
+    "qdsamwehydkdwzkxytdt",
+    "scwqsn"
    ],
-   "tv": 1
+   "tv": 3
   },
   "legend of heroes trails of cold steel|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "id": 75973,
-   "match": 0.925,
-   "name": "The Legend of Heroes: Trails of Cold Steel I - Kai",
-   "shots": [],
-   "tv": 1
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co44ma",
+   "id": 13557,
+   "match": 1.0,
+   "name": "The Legend of Heroes: Trails of Cold Steel",
+   "shots": [
+    "ihabfaqvh4ffoyjgfp2y",
+    "nljdqfgmu65ac4gk736p",
+    "mv8zru3ikbkbdfgz7e79",
+    "ytgvdrvmtpn0hgexujc2",
+    "bvtujddvpiaehfbad7lw",
+    "scwqlo"
+   ],
+   "tv": 3
   },
   "legend of heroes trails to azure|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4340,8 +4534,9 @@
    "tv": 3
   },
   "lets color with sanrio characters|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "liar princess and the blind prince|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4359,7 +4554,8 @@
    "tv": 3
   },
   "liberation maiden|37": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "oevuv8jpcieauh2hscqw",
    "id": 21007,
    "match": 1.0,
    "name": "Liberation Maiden",
@@ -4371,7 +4567,7 @@
     "m9o1lsgm6lqruvk1ugw0",
     "bsscnxuli8hvwj1mn5d3"
    ],
-   "tv": 1
+   "tv": 3
   },
   "line attack heroes|5": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4399,7 +4595,8 @@
    "tv": 3
   },
   "lord of magna maiden heaven|37": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5s1b",
    "id": 20020,
    "match": 1.0,
    "name": "Lord of Magna: Maiden Heaven",
@@ -4411,7 +4608,7 @@
     "z5ijw3wt8a3apel5a3ff",
     "x74nzex1o0bkcg3krrjr"
    ],
-   "tv": 1
+   "tv": 3
   },
   "love live school idol paradise|46": {
    "anyPlat": true,
@@ -4454,7 +4651,8 @@
    "tv": 3
   },
   "magic pengel the quest for color|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cocbuc",
    "id": 11357,
    "match": 1.0,
    "name": "Magic Pengel: The Quest for Color",
@@ -4466,7 +4664,7 @@
     "scqait",
     "scqaiu"
    ],
-   "tv": 1
+   "tv": 3
   },
   "magical land of wozz|19": {
    "anyPlat": true,
@@ -4516,7 +4714,8 @@
    "tv": 3
   },
   "maken x|23": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2ygi",
    "id": 46378,
    "match": 1.0,
    "name": "Maken X",
@@ -4526,7 +4725,7 @@
     "mxeqhsiqmoe38vlmecpr",
     "pwudf2ymvyq58vdhq5jc"
    ],
-   "tv": 1
+   "tv": 3
   },
   "making lovers|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4554,7 +4753,8 @@
    "tv": 3
   },
   "maximo ghosts to glory|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4d4s",
    "id": 22054,
    "match": 1.0,
    "name": "Maximo: Ghosts to Glory",
@@ -4562,11 +4762,21 @@
     "scfejl",
     "scfejm"
    ],
-   "tv": 1
+   "tv": 3
   },
   "mazinger z|19": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cob4yx",
+   "id": 153841,
+   "match": 1.0,
+   "name": "Mazinger Z",
+   "shots": [
+    "scasd6",
+    "scasd7",
+    "scasd5"
+   ],
+   "tv": 3
   },
   "mcdonalds ecdp|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4585,7 +4795,8 @@
    "tv": 3
   },
   "mega man maverick hunter x|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co8ymw",
    "id": 24275,
    "match": 1.0,
    "name": "Mega Man: Maverick Hunter X",
@@ -4596,10 +4807,11 @@
     "xrzcmvfjw7fzsswzqfcv",
     "sfjdm20u9tokmfhzambe"
    ],
-   "tv": 1
+   "tv": 3
   },
   "mega man powered up|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1pnq",
    "id": 12937,
    "match": 1.0,
    "name": "Mega Man Powered Up",
@@ -4609,10 +4821,11 @@
     "r5q7zbjmipobjjhljody",
     "olys3mpr56abdqkraw3o"
    ],
-   "tv": 1
+   "tv": 3
   },
   "mega man x command mission|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "coblt2",
    "id": 1751,
    "match": 1.0,
    "name": "Mega Man X: Command Mission",
@@ -4624,10 +4837,11 @@
     "sc994w",
     "sc994x"
    ],
-   "tv": 1
+   "tv": 3
   },
   "mega man x4|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "coar91",
    "id": 1744,
    "match": 1.0,
    "name": "Mega Man X4",
@@ -4638,10 +4852,11 @@
     "sc110bj",
     "sc110bk"
    ],
-   "tv": 1
+   "tv": 3
   },
   "mega man x7|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7otp",
    "id": 1747,
    "match": 1.0,
    "name": "Mega Man X7",
@@ -4653,7 +4868,7 @@
     "sc8c13",
     "sc8c14"
    ],
-   "tv": 1
+   "tv": 3
   },
   "mega man zx advent|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4691,7 +4906,8 @@
    "tv": 3
   },
   "menherafflesia flowering abyss|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co322a",
    "id": 151691,
    "match": 1.0,
    "name": "Menherafflesia Flowering Abyss",
@@ -4703,22 +4919,12 @@
     "scaeym",
     "scaeyo"
    ],
-   "tv": 1
+   "tv": 3
   },
   "metal gear solid 3 snake eater hd|9": {
-   "checked": "2026-10-21T05:05:51Z",
-   "id": 99821,
-   "match": 0.892,
-   "name": "Metal Gear Solid 3: Snake Eater - HD Edition",
-   "shots": [
-    "sc15a2x",
-    "sc15a2y",
-    "sc15a30",
-    "sc79cx",
-    "sc79cz",
-    "sc79cy"
-   ],
-   "tv": 1
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "metal max 2 reloaded|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4770,14 +4976,15 @@
    "tv": 3
   },
   "mimana iyar chronicle|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2npx",
    "id": 80165,
    "match": 1.0,
    "name": "Mimana Iyar Chronicle",
    "shots": [
     "scey5p"
    ],
-   "tv": 1
+   "tv": 3
   },
   "miracle girls festival|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4811,7 +5018,8 @@
    "tv": 3
   },
   "mother 1 2|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co28i8",
    "id": 78585,
    "match": 1.0,
    "name": "Mother 1+2",
@@ -4823,7 +5031,7 @@
     "sc7nlx",
     "sc7nm0"
    ],
-   "tv": 1
+   "tv": 3
   },
   "mother 3|24": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4842,7 +5050,8 @@
    "tv": 3
   },
   "mr driller 2|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co68ad",
    "id": 49260,
    "match": 1.0,
    "name": "Mr. Driller 2",
@@ -4851,7 +5060,7 @@
     "xlak3otwwnfm1yis4a9n",
     "kicjjbeim34pzcu5etm8"
    ],
-   "tv": 1
+   "tv": 3
   },
   "mugen no frontier exceed super robot taisen og saga|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4906,7 +5115,8 @@
    "tv": 3
   },
   "mystic heroes|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co27ji",
    "id": 50583,
    "match": 1.0,
    "name": "Mystic Heroes",
@@ -4915,7 +5125,7 @@
     "sc897o",
     "sc897p"
    ],
-   "tv": 1
+   "tv": 3
   },
   "nanashi no game me|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -4985,12 +5195,13 @@
    "tv": 3
   },
   "nekketsu monogatari advance|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co739m",
    "id": 266916,
    "match": 1.0,
    "name": "Nekketsu Monogatari Advance",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "nelke and the legendary alchemists|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5022,12 +5233,13 @@
    "tv": 3
   },
   "neverland card battles|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2ofa",
    "id": 42773,
    "match": 1.0,
    "name": "Neverland Card Battles",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "new game the challenge stage|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5039,7 +5251,8 @@
    "tv": 3
   },
   "new little kings story|46": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2h0q",
    "id": 19911,
    "match": 1.0,
    "name": "New Little King's Story",
@@ -5050,7 +5263,7 @@
     "iz4woxjogx9aidab6p4d",
     "zfy1lyvtl7jbza6cpf8c"
    ],
-   "tv": 1
+   "tv": 3
   },
   "new love plus|37": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5109,7 +5322,8 @@
    "tv": 3
   },
   "nightshade|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1oxv",
    "id": 10224,
    "match": 1.0,
    "name": "Nightshade",
@@ -5119,7 +5333,7 @@
     "b1chfkq0jy7rxwsdge6c",
     "dkt6usu08d3mfnxqeoqv"
    ],
-   "tv": 1
+   "tv": 3
   },
   "ninki seiyuu how to make a pop voice actress|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5152,7 +5366,8 @@
    "tv": 3
   },
   "note|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2xg0",
    "id": 76728,
    "match": 1.0,
    "name": "The Note",
@@ -5161,7 +5376,7 @@
     "sc8117",
     "sc8118"
    ],
-   "tv": 1
+   "tv": 3
   },
   "odekake earth seeker|20": {
    "anyPlat": true,
@@ -5173,7 +5388,8 @@
    "tv": 3
   },
   "okayu nyumu|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co8zax",
    "id": 320166,
    "match": 1.0,
    "name": "Okayu Nyumu!",
@@ -5182,7 +5398,7 @@
     "scub56",
     "scub57"
    ],
-   "tv": 1
+   "tv": 3
   },
   "omega labyrinth z|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5198,7 +5414,8 @@
    "tv": 3
   },
   "onimusha 2 samurais destiny|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4qzs",
    "id": 11757,
    "match": 1.0,
    "name": "Onimusha 2: Samurai's Destiny",
@@ -5209,10 +5426,11 @@
     "emvyfpacpedganwteie8",
     "gqyrelurq7psoj3wn97l"
    ],
-   "tv": 1
+   "tv": 3
   },
   "onimusha 3 demon siege|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4qts",
    "id": 11758,
    "match": 1.0,
    "name": "Onimusha 3: Demon Siege",
@@ -5222,10 +5440,11 @@
     "i5gxouzdzrnoaa64y8jn",
     "tkethi4g3klovmlg2zha"
    ],
-   "tv": 1
+   "tv": 3
   },
   "onimusha blade warriors|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4rz4",
    "id": 10551,
    "match": 1.0,
    "name": "Onimusha: Blade Warriors",
@@ -5236,7 +5455,7 @@
     "sch3zg",
     "sch3zh"
    ],
-   "tv": 1
+   "tv": 3
   },
   "opoona|5": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5284,7 +5503,8 @@
    "tv": 3
   },
   "oriental blue ao no tengai|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1r7g",
    "id": 49414,
    "match": 1.0,
    "name": "Oriental Blue: Ao no Tengai",
@@ -5296,10 +5516,11 @@
     "sc7nma",
     "sc7nmc"
    ],
-   "tv": 1
+   "tv": 3
   },
   "ouchi de rilakkuma rilakkuma ga ouchi ni yatte kita|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7g7g",
    "id": 145396,
    "match": 1.0,
    "name": "Ouchi de Rilakkuma: Rilakkuma ga Ouchi ni Yatte Kita",
@@ -5309,7 +5530,7 @@
     "scpt03",
     "scpt05"
    ],
-   "tv": 1
+   "tv": 3
   },
   "ougon no kizuna|5": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5324,7 +5545,8 @@
    "tv": 3
   },
   "pandoras tower|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cocbuk",
    "id": 5090,
    "match": 1.0,
    "name": "Pandora's Tower",
@@ -5336,7 +5558,7 @@
     "bb1rnlfuyi0dgqgzmjov",
     "oanim0bk50mrxtfejmik"
    ],
-   "tv": 1
+   "tv": 3
   },
   "panel de pon ds|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5362,7 +5584,8 @@
    "tv": 3
   },
   "phantasy star 0|20": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2hcn",
    "id": 21091,
    "match": 1.0,
    "name": "Phantasy Star 0",
@@ -5374,7 +5597,7 @@
     "dbhxxef0y6gta5cxeemp",
     "t5aafadhut6ufygkeovf"
    ],
-   "tv": 1
+   "tv": 3
   },
   "phantasy star nova|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5406,7 +5629,8 @@
    "tv": 3
   },
   "phantasy star portable|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3zah",
    "id": 21873,
    "match": 1.0,
    "name": "Phantasy Star Portable",
@@ -5415,7 +5639,7 @@
     "scpvgj",
     "scpvgk"
    ],
-   "tv": 1
+   "tv": 3
   },
   "phantom kingdom portable|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5504,7 +5728,8 @@
    "tv": 3
   },
   "pocket muumuu|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6t2m",
    "id": 72991,
    "match": 1.0,
    "name": "Pocket MuuMuu",
@@ -5514,7 +5739,7 @@
     "sc15anv",
     "sc15anu"
    ],
-   "tv": 1
+   "tv": 3
   },
   "pokemon mystery dungeon keep going blazing adventure squad|5": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5569,11 +5794,13 @@
    "tv": 3
   },
   "professor layton|20": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "project zero 2 wii edition|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3vow",
    "id": 14409,
    "match": 1.0,
    "name": "Project Zero 2: Wii Edition",
@@ -5585,10 +5812,11 @@
     "zzxvzix0jaggavom1m6x",
     "sdz1qou9hnloaicmgwxx"
    ],
-   "tv": 1
+   "tv": 3
   },
   "project zero 3 the tormented|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1ov1",
    "id": 5107,
    "match": 0.931,
    "name": "Fatal Frame III: The Tormented",
@@ -5600,10 +5828,11 @@
     "scp0cz",
     "scp0d0"
    ],
-   "tv": 1
+   "tv": 3
   },
   "project zero ii crimson butterfly|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1ov0",
    "id": 5105,
    "match": 1.0,
    "name": "Fatal Frame II: Crimson Butterfly",
@@ -5615,7 +5844,7 @@
     "jrjdorgq1lywptwsdtrv",
     "sc5j9j"
    ],
-   "tv": 1
+   "tv": 3
   },
   "puchi eva evangelion game|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5794,11 +6023,13 @@
    "tv": 3
   },
   "rasenreijo spiral hair super lady makina|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "record of lodoss war|23": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co8fm0",
    "id": 69656,
    "match": 1.0,
    "name": "Record of Lodoss War",
@@ -5810,7 +6041,7 @@
     "sc89kw",
     "sc89ku"
    ],
-   "tv": 1
+   "tv": 3
   },
   "remember11 the age of infinity|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5863,7 +6094,8 @@
    "tv": 3
   },
   "riviera the promised land|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nz4",
    "id": 6559,
    "match": 1.0,
    "name": "Riviera: The Promised Land",
@@ -5875,7 +6107,7 @@
     "sclr0p",
     "sclr0q"
    ],
-   "tv": 1
+   "tv": 3
   },
   "robotics notes elite|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5937,7 +6169,8 @@
    "tv": 3
   },
   "romancing saga|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co9ypx",
    "id": 141296,
    "match": 1.0,
    "name": "Romancing SaGa",
@@ -5947,7 +6180,7 @@
     "sc8sc4",
     "sc8sc5"
    ],
-   "tv": 1
+   "tv": 3
   },
   "rosario to vampire tanabata no miss youkai gakuen|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6022,8 +6255,9 @@
    "tv": 3
   },
   "saikoro psycho seventh heaven|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "sailor moon la luna splende|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6045,7 +6279,8 @@
    "tv": 3
   },
   "samurai warriors 2 empires|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co9bkb",
    "id": 7174,
    "match": 1.0,
    "name": "Samurai Warriors 2 Empires",
@@ -6056,10 +6291,11 @@
     "cfly2lwwzauwnh2gpsjd",
     "prmqhyjeogz9rwl8jau7"
    ],
-   "tv": 1
+   "tv": 3
   },
   "samurai warriors 2 xtreme legends|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co9bg7",
    "id": 7175,
    "match": 1.0,
    "name": "Samurai Warriors 2 Xtreme Legends",
@@ -6070,10 +6306,11 @@
     "vwuptcriaa5pqt4ev2om",
     "kblopoya08zfznihfe2y"
    ],
-   "tv": 1
+   "tv": 3
   },
   "samurai warriors 2|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2niw",
    "id": 7173,
    "match": 1.0,
    "name": "Samurai Warriors 2",
@@ -6082,10 +6319,11 @@
     "ud9upu4zfamwbtilvloi",
     "z63kk1abzeteh5nxtava"
    ],
-   "tv": 1
+   "tv": 3
   },
   "samurai warriors state of war|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nz5",
    "id": 12299,
    "match": 1.0,
    "name": "Samurai Warriors: State of War",
@@ -6094,7 +6332,7 @@
     "sc6waj",
     "sc6wai"
    ],
-   "tv": 1
+   "tv": 3
   },
   "sd gundam g generation overworld|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6109,7 +6347,8 @@
    "tv": 3
   },
   "segagaga|23": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6yxb",
    "id": 28151,
    "match": 1.0,
    "name": "Segagaga",
@@ -6117,7 +6356,7 @@
     "djs5ewmxp7dmbzvhoy3l",
     "gybsbvobgqhssphrsovb"
    ],
-   "tv": 1
+   "tv": 3
   },
   "sen no hatou tsukisome no kouki|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6146,7 +6385,8 @@
    "tv": 3
   },
   "shadow hearts|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7nmo",
    "id": 4170,
    "match": 1.0,
    "name": "Shadow Hearts",
@@ -6155,10 +6395,11 @@
     "uermqixbrhiaxev11suu",
     "rtkqctihzjt72mnffd6y"
    ],
-   "tv": 1
+   "tv": 3
   },
   "shadow tower abyss|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co39vl",
    "id": 9503,
    "match": 1.0,
    "name": "Shadow Tower: Abyss",
@@ -6170,7 +6411,7 @@
     "sc13olx",
     "sc13oly"
    ],
-   "tv": 1
+   "tv": 3
   },
   "shin bokura no taiyou gyakushuu no sabata|24": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6194,7 +6435,8 @@
    "tv": 3
   },
   "shin megami tensei ii|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co72cm",
    "id": 252800,
    "match": 1.0,
    "name": "Shin Megami Tensei II",
@@ -6204,10 +6446,11 @@
     "scwvh2",
     "scwvh3"
    ],
-   "tv": 1
+   "tv": 3
   },
   "shin sd gundam gaiden knight gundam monogatari|33": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co9def",
    "id": 64567,
    "match": 1.0,
    "name": "Shin SD Gundam Gaiden: Knight Gundam Monogatari",
@@ -6219,7 +6462,7 @@
     "scipgj",
     "sck4nt"
    ],
-   "tv": 1
+   "tv": 3
   },
   "shining blade|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6235,7 +6478,8 @@
    "tv": 3
   },
   "shining force exa|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2j2x",
    "id": 19254,
    "match": 1.0,
    "name": "Shining Force EXA",
@@ -6243,10 +6487,11 @@
     "scevcn",
     "scevco"
    ],
-   "tv": 1
+   "tv": 3
   },
   "shining force neo|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1p02",
    "id": 22562,
    "match": 1.0,
    "name": "Shining Force Neo",
@@ -6254,10 +6499,11 @@
     "scevc0",
     "scevc1"
    ],
-   "tv": 1
+   "tv": 3
   },
   "shinobido 2 revenge of zen|46": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co61cd",
    "id": 10900,
    "match": 1.0,
    "name": "Shinobido 2: Revenge of Zen",
@@ -6268,15 +6514,16 @@
     "mav1a9q8i8vjnie59qn2",
     "n0ju4qkw8vkhqduormem"
    ],
-   "tv": 1
+   "tv": 3
   },
   "shinobido tales of the ninja|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nz7",
    "id": 23108,
    "match": 1.0,
    "name": "Shinobido: Tales of the Ninja",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "shinseiki evangelion koutetsu no girlfriend 2nd portable|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6289,7 +6536,8 @@
    "tv": 3
   },
   "silent bomber|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "coaatk",
    "id": 24131,
    "match": 1.0,
    "name": "Silent Bomber",
@@ -6301,10 +6549,11 @@
     "scwr4a",
     "scwr4b"
    ],
-   "tv": 1
+   "tv": 3
   },
   "silent line armored core|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1p0e",
    "id": 44703,
    "match": 1.0,
    "name": "Silent Line: Armored Core",
@@ -6316,18 +6565,20 @@
     "sc13ciq",
     "sc13cir"
    ],
-   "tv": 1
+   "tv": 3
   },
   "sky odyssey|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1p0o",
    "id": 43662,
    "match": 1.0,
    "name": "Sky Odyssey",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "snatcher|7": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cocvgd",
    "id": 417289,
    "match": 1.0,
    "name": "Snatcher",
@@ -6337,7 +6588,7 @@
     "sc156sf",
     "sc156sg"
    ],
-   "tv": 1
+   "tv": 3
   },
   "sol trigger|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6367,7 +6618,8 @@
    "tv": 3
   },
   "sonic battle|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1zvd",
    "id": 6600,
    "match": 1.0,
    "name": "Sonic Battle",
@@ -6379,7 +6631,7 @@
     "scabhv",
     "scabhw"
    ],
-   "tv": 1
+   "tv": 3
   },
   "sora no woto otome no gojuusou|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6426,7 +6678,8 @@
    "tv": 3
   },
   "soul sacrifice delta|46": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2es7",
    "id": 6061,
    "match": 1.0,
    "name": "Soul Sacrifice Delta",
@@ -6436,10 +6689,11 @@
     "y9ldieiab2sliqjmuabi",
     "luvl5irhytdklwuceu3r"
    ],
-   "tv": 1
+   "tv": 3
   },
   "space invaders get even|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co9i9g",
    "id": 21789,
    "match": 1.0,
    "name": "Space Invaders Get Even",
@@ -6451,10 +6705,11 @@
     "xsqzjecvcjpsisaajhih",
     "efnyzvdwkjxhmgcqxvt6"
    ],
-   "tv": 1
+   "tv": 3
   },
   "spectrobes origins|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co27rc",
    "id": 5173,
    "match": 1.0,
    "name": "Spectrobes: Origins",
@@ -6464,7 +6719,7 @@
     "sc6jlb",
     "sc6jlc"
    ],
-   "tv": 1
+   "tv": 3
   },
   "spice and wolf my year with holo|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6495,7 +6750,8 @@
    "tv": 3
   },
   "steambot chronicles|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co9jjj",
    "id": 19619,
    "match": 1.0,
    "name": "Steambot Chronicles",
@@ -6507,7 +6763,7 @@
     "schjka",
     "schjkb"
    ],
-   "tv": 1
+   "tv": 3
   },
   "steins gate 0|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6600,7 +6856,8 @@
    "tv": 3
   },
   "stella deus the gate of eternity|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "cobgv9",
    "id": 13094,
    "match": 1.0,
    "name": "Stella Deus: The Gate of Eternity",
@@ -6612,7 +6869,7 @@
     "sc11nc5",
     "sc11nce"
    ],
-   "tv": 1
+   "tv": 3
   },
   "storm lover kai|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6628,7 +6885,8 @@
    "tv": 3
   },
   "street fighter zero 3|32": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6akq",
    "id": 242649,
    "match": 1.0,
    "name": "Street Fighter Zero 3",
@@ -6639,7 +6897,7 @@
     "sclszt",
     "sclszu"
    ],
-   "tv": 1
+   "tv": 3
   },
   "strike witches silver wings|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6647,14 +6905,15 @@
    "tv": 3
   },
   "suikoden tactics|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4pwg",
    "id": 1450,
    "match": 1.0,
    "name": "Suikoden Tactics",
    "shots": [
     "scstkt"
    ],
-   "tv": 1
+   "tv": 3
   },
   "suikoden woven web of the centuries|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6673,7 +6932,8 @@
    "tv": 3
   },
   "summer pockets reflection blue|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4tok",
    "id": 127571,
    "match": 1.0,
    "name": "Summer Pockets Reflection Blue",
@@ -6685,14 +6945,27 @@
     "sc81m5",
     "sc11yjk"
    ],
-   "tv": 1
+   "tv": 3
   },
   "summon night 5|8": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2h7g",
+   "id": 13110,
+   "match": 1.0,
+   "name": "Summon Night 5",
+   "shots": [
+    "mpcdn3g8v6m8ttsfwlvy",
+    "gsxl6k9krnzkm2mxm0w3",
+    "a0xntkcudwyvjpro2gq5",
+    "cphhnmky8u2rxwcj6op9",
+    "ckdrzbd5qt0nexndu9ab"
+   ],
+   "tv": 3
   },
   "summon night swordcraft story 2|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2w42",
    "id": 6616,
    "match": 1.0,
    "name": "Summon Night: Swordcraft Story 2",
@@ -6704,7 +6977,7 @@
     "sc7nso",
     "sc7nsm"
    ],
-   "tv": 1
+   "tv": 3
   },
   "summon night x tears crown|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6721,14 +6994,15 @@
    "tv": 3
   },
   "super dragon ball z|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co50f5",
    "id": 2581,
    "match": 1.0,
    "name": "Super Dragon Ball Z",
    "shots": [
     "p6sdla1ff6unv68w7pwo"
    ],
-   "tv": 1
+   "tv": 3
   },
   "super heroine chronicle|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6754,12 +7028,13 @@
    "tv": 3
   },
   "super robot taisen og gaiden|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2umu",
    "id": 72741,
    "match": 1.0,
    "name": "Super Robot Taisen OG Gaiden",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "super robot taisen w|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6880,7 +7155,8 @@
    "tv": 3
   },
   "sword of etheria|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4pte",
    "id": 10901,
    "match": 1.0,
    "name": "The Sword of Etheria",
@@ -6888,10 +7164,11 @@
     "sc97bk",
     "sc97bl"
    ],
-   "tv": 1
+   "tv": 3
   },
   "swords of destiny|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4lvv",
    "id": 23007,
    "match": 1.0,
    "name": "Swords of Destiny",
@@ -6899,11 +7176,12 @@
     "scqe92",
     "scqe93"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tabe o ja|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "taiko no tatsujin v version|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -6935,7 +7213,8 @@
    "tv": 3
   },
   "tales of destiny 2|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1p27",
    "id": 1203,
    "match": 1.0,
    "name": "Tales of Destiny 2",
@@ -6945,21 +7224,23 @@
     "onqttq2hng8ijentvsq9",
     "asqjlebqiz8tvepbrknb"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tales of destiny|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7zo0",
    "id": 229160,
    "match": 1.0,
    "name": "Tales of Destiny",
    "shots": [
     "sc108xf"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tales of fandom vol 1|7": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "tales of hearts r|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7006,7 +7287,8 @@
    "tv": 3
   },
   "tales of legendia|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1p28",
    "id": 1206,
    "match": 1.0,
    "name": "Tales of Legendia",
@@ -7018,10 +7300,20 @@
     "sc9e39",
     "sc9e3a"
    ],
-   "tv": 1
+   "tv": 3
+  },
+  "tales of phantasia cross edition|38": {
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "coa25a",
+   "id": 351694,
+   "match": 1.0,
+   "name": "Tales of Phantasia: Cross Edition",
+   "shots": [],
+   "tv": 3
   },
   "tales of phantasia full voice edition|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3u7q",
    "id": 152164,
    "match": 1.0,
    "name": "Tales of Phantasia: Full Voice Edition",
@@ -7030,10 +7322,11 @@
     "scghsu",
     "scghsv"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tales of phantasia narikiri dungeon x|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4mo6",
    "id": 42864,
    "match": 1.0,
    "name": "Tales of Phantasia: Narikiri Dungeon X",
@@ -7042,14 +7335,11 @@
     "scgi03",
     "scgi04"
    ],
-   "tv": 1
-  },
-  "tales of phantasia x|38": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "tv": 3
   },
   "tales of phantasia|24": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4mub",
    "id": 196654,
    "match": 1.0,
    "name": "Tales of Phantasia",
@@ -7058,7 +7348,7 @@
     "scgitr",
     "scgits"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tales of rebirth|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7072,17 +7362,19 @@
    "tv": 3
   },
   "tales of rebirth|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2ywc",
    "id": 1205,
    "match": 1.0,
    "name": "Tales of Rebirth",
    "shots": [
     "sc83cs"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tales of symphonia dawn of the new world|5": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5mt1",
    "id": 5210,
    "match": 1.0,
    "name": "Tales of Symphonia: Dawn of the New World",
@@ -7094,10 +7386,11 @@
     "ipy0r3ll4sjxubjgpoav",
     "ojyri526kqlxmpmr33nu"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tales of symphonia|21": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1peo",
    "id": 1204,
    "match": 1.0,
    "name": "Tales of Symphonia",
@@ -7108,10 +7401,11 @@
     "bktrfgfwqohj8xnlq7pk",
     "jjmu8ybytrqkyppimxue"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tales of the abyss|37": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5oud",
    "id": 20972,
    "match": 1.0,
    "name": "Tales of the Abyss",
@@ -7119,10 +7413,11 @@
     "sciyt7",
     "sciyt8"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tales of the abyss|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co4yw8",
    "id": 1207,
    "match": 1.0,
    "name": "Tales of the Abyss",
@@ -7134,7 +7429,7 @@
     "lhczvmnutlqokmnamoq3",
     "svjmt5punkgtobor7det"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tales of the tempest|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7152,15 +7447,17 @@
    "tv": 3
   },
   "tales of the world radiant mythology 2|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nzu",
    "id": 42794,
    "match": 1.0,
    "name": "Tales of the World: Radiant Mythology 2",
    "shots": [],
-   "tv": 1
+   "tv": 3
   },
   "tales of the world radiant mythology|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co25yj",
    "id": 19159,
    "match": 1.0,
    "name": "Tales of the World: Radiant Mythology",
@@ -7172,7 +7469,7 @@
     "sc9eaq",
     "sc9eat"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tantei opera milky holmes|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7203,7 +7500,8 @@
    "tv": 3
   },
   "tenchu shadow assassins|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nzv",
    "id": 5216,
    "match": 1.0,
    "name": "Tenchu: Shadow Assassins",
@@ -7215,10 +7513,11 @@
     "tnfdtupwahbfsmnqtzng",
     "ebljydcotifkbibv0r5m"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tenchu time of the assassins|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nzx",
    "id": 44512,
    "match": 1.0,
    "name": "Tenchu: Time Of The Assassins",
@@ -7228,7 +7527,7 @@
     "scudbr",
     "scudbs"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tengen toppa gurren lagann|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7302,8 +7601,9 @@
    "tv": 3
   },
   "toaru majutsu to kagaku no virtual on|46": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "tokimeki memorial girls side 1st love plus|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7362,7 +7662,8 @@
    "tv": 3
   },
   "tokobot plus mysteries of the karakuri|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2xc8",
    "id": 20663,
    "match": 1.0,
    "name": "Tokobot Plus: Mysteries of the Karakuri",
@@ -7374,7 +7675,7 @@
     "sc8fz2",
     "sc8fz3"
    ],
-   "tv": 1
+   "tv": 3
   },
   "tomato adventure|24": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7467,15 +7768,37 @@
    "tv": 3
   },
   "true urban legends shin hayarigami|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2zih",
+   "id": 79331,
+   "match": 1.0,
+   "name": "Shin Hayarigami",
+   "shots": [
+    "sc9h1n"
+   ],
+   "tv": 3
   },
   "umineko no naku koro ni saku|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2znu",
+   "id": 146941,
+   "match": 1.0,
+   "name": "Umineko no Naku Koro ni Saku",
+   "shots": [
+    "scp0f0",
+    "scp0f1",
+    "scp0f2",
+    "scp0f3",
+    "scp0f4",
+    "scp0f5"
+   ],
+   "tv": 3
   },
   "unchained blades|37": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2o02",
    "id": 6906,
    "match": 1.0,
    "name": "Unchained Blades",
@@ -7487,10 +7810,11 @@
     "kgkb2ptfuygru64xxdbp",
     "tdzo5f6rpb4pj3i9j0z4"
    ],
-   "tv": 1
+   "tv": 3
   },
   "unchained blades|38": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2o02",
    "id": 6906,
    "match": 1.0,
    "name": "Unchained Blades",
@@ -7502,10 +7826,11 @@
     "kgkb2ptfuygru64xxdbp",
     "tdzo5f6rpb4pj3i9j0z4"
    ],
-   "tv": 1
+   "tv": 3
   },
   "unlimited saga|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co5uw4",
    "id": 11314,
    "match": 1.0,
    "name": "Unlimited SaGa",
@@ -7517,7 +7842,7 @@
     "scltmf",
     "scltmg"
    ],
-   "tv": 1
+   "tv": 3
   },
   "uppers|46": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7536,7 +7861,8 @@
    "tv": 3
   },
   "valhalla knights 3|46": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co61e4",
    "id": 20072,
    "match": 1.0,
    "name": "Valhalla Knights 3",
@@ -7547,7 +7873,7 @@
     "w5stiu7lu1qy7bnh2zbf",
     "w25xoccmkjwqyqczdwas"
    ],
-   "tv": 1
+   "tv": 3
   },
   "valkyria chronicles 3|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7597,8 +7923,9 @@
    "tv": 3
   },
   "visual quiz whats this|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "wagamama fashion girls mode|20": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7614,7 +7941,8 @@
    "tv": 3
   },
   "warriors orochi 2|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co2nkv",
    "id": 7243,
    "match": 1.0,
    "name": "Warriors Orochi 2",
@@ -7624,10 +7952,11 @@
     "scsopu",
     "scsopr"
    ],
-   "tv": 1
+   "tv": 3
   },
   "warriors orochi|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3df1",
    "id": 7242,
    "match": 1.0,
    "name": "Warriors Orochi",
@@ -7637,10 +7966,11 @@
     "scson8",
     "scson9"
    ],
-   "tv": 1
+   "tv": 3
   },
   "way of the samurai 2|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3gbf",
    "id": 10157,
    "match": 1.0,
    "name": "Way of the Samurai 2",
@@ -7651,7 +7981,7 @@
     "hsoeaj9vetn48rs4ovaq",
     "ny7jbbq2w54ckiyk2zby"
    ],
-   "tv": 1
+   "tv": 3
   },
   "way of the samurai portable|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7683,7 +8013,8 @@
    "tv": 3
   },
   "yahari game demo ore no seishun love come wa machigatteiru and zoku omatome set|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co1qzc",
    "id": 77499,
    "match": 1.0,
    "name": "Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. & Zoku Omatome Set",
@@ -7695,7 +8026,7 @@
     "sckjhg",
     "sckjhh"
    ],
-   "tv": 1
+   "tv": 3
   },
   "yarudora double cast|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7708,7 +8039,8 @@
    "tv": 3
   },
   "yo kai watch 4|130": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7l9s",
    "id": 96246,
    "match": 1.0,
    "name": "Yo-kai Watch 4",
@@ -7719,26 +8051,52 @@
     "sc69ha",
     "sc69hb"
    ],
-   "tv": 1
+   "tv": 3
   },
   "yo kai watch jam y school heroes bustlin school life|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "yo kai watch|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co7l9q",
+   "id": 11197,
+   "match": 1.0,
+   "name": "Yo-kai Watch",
+   "shots": [
+    "anwqlmxttoors6ej9wuf",
+    "id8prvjjxt0icc3ukkei",
+    "kpug7xx3u6v5wusudqfe",
+    "i9kq6r57dzfln0aqyipr",
+    "wp6w6gdou6tmrcqf8edg",
+    "rucnnq94mcawc8yvcx6t"
+   ],
+   "tv": 3
   },
   "youchien senki madara|19": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "anyPlat": true,
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co3c07",
+   "id": 57072,
+   "match": 1.0,
+   "name": "Madara Saga: Youchien Senki Madara",
+   "shots": [
+    "sc1314d",
+    "sc1314e",
+    "sc1314f"
+   ],
+   "tv": 3
   },
   "ys the ark of napishtim|8": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "ys v lost kefin kingdom of sand|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6ivo",
    "id": 168535,
    "match": 1.0,
    "name": "Ys V: Lost Kefin, Kingdom of Sand",
@@ -7746,7 +8104,7 @@
     "scm626",
     "scm627"
    ],
-   "tv": 1
+   "tv": 3
   },
   "ys vs sora no kiseki alternative saga|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7791,8 +8149,9 @@
    "tv": 3
   },
   "yu gi oh rush duel saikyo battle royale lets go go rush|130": {
-   "checked": "2026-10-21T05:05:51Z",
-   "shots": []
+   "checked": "2026-10-21T07:42:14Z",
+   "shots": [],
+   "tv": 3
   },
   "yu gi oh saikyo card battle|37": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7816,7 +8175,8 @@
    "tv": 3
   },
   "yu yu hakusho gaiden|29": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co6bq9",
    "id": 45606,
    "match": 1.0,
    "name": "YuYu Hakusho Gaiden",
@@ -7825,7 +8185,7 @@
     "sc15p1v",
     "sc15p1u"
    ],
-   "tv": 1
+   "tv": 3
   },
   "yuusha 30 second|38": {
    "checked": "2026-10-21T07:14:34Z",
@@ -7897,7 +8257,8 @@
    "tv": 3
   },
   "zone of the enders|8": {
-   "checked": "2026-10-21T05:05:51Z",
+   "checked": "2026-10-21T07:42:14Z",
+   "cover": "co260o",
    "id": 1472,
    "match": 1.0,
    "name": "Zone of the Enders",
@@ -7908,10 +8269,10 @@
     "stim26q06baq2zyqxcyu",
     "wpjosdjyt4vjsp8a9k8q"
    ],
-   "tv": 1
+   "tv": 3
   }
  },
- "generated": "2026-10-21T07:14:34Z",
+ "generated": "2026-10-21T07:42:14Z",
  "map": {
   "agtteam/resonancetranslation": "soul eater battle resonance|38",
   "arceler0/okayunyumu-nsw-eng": "okayu nyumu|130",
@@ -7940,7 +8301,7 @@
   "lifebottle/tales-of-innocence-r": "tales of innocence r|46",
   "lifebottle/tales-of-legendia-undub": "tales of legendia|8",
   "lifebottle/tales-of-phantasia-full-voice-edition": "tales of phantasia full voice edition|38",
-  "lifebottle/tales-of-phantasia-x": "tales of phantasia x|38",
+  "lifebottle/tales-of-phantasia-x": "tales of phantasia cross edition|38",
   "lifebottle/tales-of-the-abyss-undub": "tales of the abyss|8",
   "link:http://watercrown.info/second-verse-same-as-the-first/": "breath of fire ii the fated child|19",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
