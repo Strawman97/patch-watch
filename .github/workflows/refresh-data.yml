@@ -36,6 +36,18 @@ jobs:
           ref: main
           fetch-depth: 0
 
+      # The LaunchBox Games Database (one large zip) is kept between runs and downloaded again weekly.
+      - name: Work out this week's cache key
+        id: week
+        run: echo "key=launchbox-$(date -u +%G-%V)" >> "$GITHUB_OUTPUT"
+
+      - name: Restore the LaunchBox Games Database
+        uses: actions/cache@v4
+        with:
+          path: .cache/launchbox
+          key: ${{ steps.week.outputs.key }}
+          restore-keys: launchbox-
+
       - name: Refresh project status, patch pages, new patches, covers, screenshots and NSFW ratings
         env:
           SGDB_API_KEY: ${{ secrets.SGDB_API_KEY }}
