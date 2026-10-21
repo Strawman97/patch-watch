@@ -1341,9 +1341,21 @@
    ],
    "tv": 3
   },
-  "ciel nosurge offline|46": {
-   "checked": "2026-10-21T07:14:34Z",
-   "shots": [],
+  "ciel nosurge ushinawareta hoshi e sasagu uta dx|46": {
+   "anyPlat": true,
+   "checked": "2026-10-21T12:14:43Z",
+   "cover": "co2ury",
+   "id": 139995,
+   "match": 1.0,
+   "name": "Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX",
+   "shots": [
+    "sc94er",
+    "sc94es",
+    "sc94et",
+    "sc94ev",
+    "sc94ex",
+    "sc94eu"
+   ],
    "tv": 3
   },
   "clannad|46": {
@@ -3962,9 +3974,19 @@
    ],
    "tv": 3
   },
-  "hyperdimension neptunia re birth3|46": {
-   "checked": "2026-10-21T07:14:34Z",
-   "shots": [],
+  "hyperdimension neptunia re birth3 v generation|46": {
+   "checked": "2026-10-21T12:14:43Z",
+   "cover": "cobqxv",
+   "id": 9869,
+   "match": 1.0,
+   "name": "Hyperdimension Neptunia Re;Birth3: V Generation",
+   "shots": [
+    "cuix2ltubyyzn2qg27tr",
+    "xq715x4b2nltuyurkgzw",
+    "dhfzjhzjmxl1ad2zhoim",
+    "alf5navlbdfujfznodwu",
+    "cqgvi6vx0nnlbtqeeiph"
+   ],
    "tv": 3
   },
   "i am setsuna|46": {
@@ -4025,6 +4047,22 @@
     "egfqwi7q1nno8jho2zg1",
     "itiijr2dkudhcyco2yk6",
     "zkmjhejldmf2tfcj7a66"
+   ],
+   "tv": 3
+  },
+  "ikenie no yoru|5": {
+   "checked": "2026-10-21T12:14:43Z",
+   "cover": "co28fo",
+   "id": 66234,
+   "match": 1.0,
+   "name": "Ikenie no Yoru",
+   "shots": [
+    "scghvk",
+    "scghvj",
+    "scghvi",
+    "scghvh",
+    "scghvg",
+    "scghvp"
    ],
    "tv": 3
   },
@@ -4921,9 +4959,20 @@
    ],
    "tv": 3
   },
-  "metal gear solid 3 snake eater hd|9": {
-   "checked": "2026-10-21T07:42:14Z",
-   "shots": [],
+  "metal gear solid 3 snake eater hd edition|9": {
+   "checked": "2026-10-21T12:14:43Z",
+   "cover": "co98hv",
+   "id": 99821,
+   "match": 1.0,
+   "name": "Metal Gear Solid 3: Snake Eater - HD Edition",
+   "shots": [
+    "sc15a2x",
+    "sc15a2y",
+    "sc15a30",
+    "sc79cx",
+    "sc79cz",
+    "sc79cy"
+   ],
    "tv": 3
   },
   "metal max 2 reloaded|20": {
@@ -5282,11 +5331,6 @@
    "id": 18856,
    "match": 1.0,
    "name": "Ni no Kuni: Dominion of the Dark Djinn",
-   "shots": [],
-   "tv": 3
-  },
-  "night of the sacrifice|5": {
-   "checked": "2026-10-21T07:14:34Z",
    "shots": [],
    "tv": 3
   },
@@ -5741,17 +5785,17 @@
    ],
    "tv": 3
   },
+  "pokemon mystery dungeon go for it light adventure squad|5": {
+   "checked": "2026-10-21T12:14:43Z",
+   "shots": [],
+   "tv": 3
+  },
   "pokemon mystery dungeon keep going blazing adventure squad|5": {
    "checked": "2026-10-21T07:14:34Z",
    "shots": [],
    "tv": 3
   },
   "pokemon mystery dungeon lets go stormy adventure squad|5": {
-   "checked": "2026-10-21T07:14:34Z",
-   "shots": [],
-   "tv": 3
-  },
-  "pokemon mystery dungeon shine on light adventure squad|5": {
    "checked": "2026-10-21T07:14:34Z",
    "shots": [],
    "tv": 3
@@ -5793,9 +5837,68 @@
    ],
    "tv": 3
   },
-  "professor layton|20": {
-   "checked": "2026-10-21T07:42:14Z",
-   "shots": [],
+  "professor layton and the curious village|20": {
+   "checked": "2026-10-21T12:14:43Z",
+   "cover": "coc6k5",
+   "id": 1397,
+   "match": 1.0,
+   "name": "Professor Layton and the Curious Village",
+   "shots": [
+    "a8bssjsiidwq1nmzhj2s",
+    "q6mn4pyqej1kxwefvdoe",
+    "b6bvqoqma3yac9ywofai",
+    "nnvzmkdyp7oiemraxshc",
+    "wsf9dsdyahmagesogvrz",
+    "hieywzwlivr8fmtrardl"
+   ],
+   "tv": 3
+  },
+  "professor layton and the diabolical box|20": {
+   "checked": "2026-10-21T12:14:43Z",
+   "cover": "cobauy",
+   "id": 1398,
+   "match": 1.0,
+   "name": "Professor Layton and the Diabolical Box",
+   "shots": [
+    "aayzekhffbxbpjnweqrt",
+    "h6bic0utwrnnmdyyqvhb",
+    "q5iiz9nghwnq265afycl",
+    "pjxozib0iyj7t2lohzku",
+    "fscxewdzgygfxnfon971",
+    "szhaa8o1cz2seteg5c3a"
+   ],
+   "tv": 3
+  },
+  "professor layton and the last specter|20": {
+   "checked": "2026-10-21T12:14:43Z",
+   "cover": "cob8lu",
+   "id": 1400,
+   "match": 1.0,
+   "name": "Professor Layton and the Last Specter",
+   "shots": [
+    "kbkgg8ej2oxqyokm9huz",
+    "mtdnixqkvqhhzfjcmovx",
+    "jcttc8xk15jswea5ozpl",
+    "x1yoke2yyxresrbrd1kt",
+    "ruhyfxkeq3ajmpjyyo6u",
+    "smdkwhccm7sdyjvyjspg"
+   ],
+   "tv": 3
+  },
+  "professor layton and the unwound future|20": {
+   "checked": "2026-10-21T12:14:43Z",
+   "cover": "cobav0",
+   "id": 1399,
+   "match": 1.0,
+   "name": "Professor Layton and the Unwound Future",
+   "shots": [
+    "gbwqfjxvdzrvukaxx9pw",
+    "mmgaajzgrgonmwxnt0jk",
+    "v7q9axn3wh9bfsdbemdn",
+    "zx8q5q5mfbmklnyj4wos",
+    "lumnjrryiknqaz1k9kci",
+    "gytsuh24zhtpiywvuiub"
+   ],
    "tv": 3
   },
   "project zero 2 wii edition|5": {
@@ -8272,7 +8375,7 @@
    "tv": 3
   }
  },
- "generated": "2026-10-21T07:42:14Z",
+ "generated": "2026-10-21T12:14:43Z",
  "map": {
   "agtteam/resonancetranslation": "soul eater battle resonance|38",
   "arceler0/okayunyumu-nsw-eng": "okayu nyumu|130",
@@ -8292,7 +8395,7 @@
   "hexerkat/langrisser3-english": "langrisser iii|32",
   "julianow/tales-of-symphonia-ngc-undub": "tales of symphonia|21",
   "kaisaan/lostkefin": "ys v lost kefin kingdom of sand|8",
-  "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd|9",
+  "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd edition|9",
   "lifebottle/narikiri-dungeon-x": "tales of phantasia narikiri dungeon x|38",
   "lifebottle/radiant-mythology-2": "tales of the world radiant mythology 2|38",
   "lifebottle/tales-of-destiny-2": "tales of destiny 2|8",
@@ -8424,7 +8527,10 @@
   "link:https://archive.org/details/pandoras_tower_undub_patch": "pandoras tower|5",
   "link:https://archive.org/details/phantasy_star_portable_undub_patch": "phantasy star portable|38",
   "link:https://archive.org/details/phantasy_star_zero_undub_patch": "phantasy star 0|20",
-  "link:https://archive.org/details/professor_layton_ds_undub_patches": "professor layton|20",
+  "link:https://archive.org/details/professor_layton_ds_undub_patches#professor-layton-and-the-curious-village": "professor layton and the curious village|20",
+  "link:https://archive.org/details/professor_layton_ds_undub_patches#professor-layton-and-the-diabolical-box": "professor layton and the diabolical box|20",
+  "link:https://archive.org/details/professor_layton_ds_undub_patches#professor-layton-and-the-last-specter": "professor layton and the last specter|20",
+  "link:https://archive.org/details/professor_layton_ds_undub_patches#professor-layton-and-the-unwound-future": "professor layton and the unwound future|20",
   "link:https://archive.org/details/project_zero_2_ps2_undub_patch": "project zero ii crimson butterfly|8",
   "link:https://archive.org/details/project_zero_2_wii_undub_patch": "project zero 2 wii edition|5",
   "link:https://archive.org/details/project_zero_3_undub_patch": "project zero 3 the tormented|8",
@@ -8548,7 +8654,7 @@
   "link:https://www.gamebrew.org/wiki/Chaos_Rings_III_Translation_Project_Vita": "chaos rings iii|46",
   "link:https://www.gamebrew.org/wiki/Chibi-Robo!_English_Translation_Wii": "chibi robo|5",
   "link:https://www.gamebrew.org/wiki/Chou_Soujuu_Mecha_MG_Full_Translation": "chou soujuu mecha mg|20",
-  "link:https://www.gamebrew.org/wiki/Ciel_Nosurge:_Ushinawareta_Hoshi_e_Sasagu_Uta_Offline_Vita_-_English_Translation": "ciel nosurge offline|46",
+  "link:https://www.gamebrew.org/wiki/Ciel_Nosurge:_Ushinawareta_Hoshi_e_Sasagu_Uta_Offline_Vita_-_English_Translation": "ciel nosurge ushinawareta hoshi e sasagu uta dx|46",
   "link:https://www.gamebrew.org/wiki/Clannad_Vita_English_Translation": "clannad|46",
   "link:https://www.gamebrew.org/wiki/Cross_Treasures_DS_-_English_Translation": "cross treasures|20",
   "link:https://www.gamebrew.org/wiki/Culdcept_DS_Open_Translation": "culdcept ds|20",
@@ -8614,8 +8720,8 @@
   "link:https://www.gamebrew.org/wiki/Hatsune_Miku:_Project_Diva_2nd_(Okaidoku_Ban)_PSP_-_English_Translation": "hatsune miku project diva 2nd|38",
   "link:https://www.gamebrew.org/wiki/Hatsune_Miku:_Project_Diva_2nd_PSP_-_English_Translation": "hatsune miku project diva 2nd|38",
   "link:https://www.gamebrew.org/wiki/Hyperdimension_Neptunia_ReBirth2_English_Retranslation_Vita": "hyperdimension neptunia re birth2 sisters generation|46",
-  "link:https://www.gamebrew.org/wiki/Hyperdimension_Neptunia_ReBirth_3_Retranslation_HENkaku_Vita": "hyperdimension neptunia re birth3|46",
-  "link:https://www.gamebrew.org/wiki/Hyperdimension_Neptunia_ReBirth_3_Retranslation_RePatch_Vita": "hyperdimension neptunia re birth3|46",
+  "link:https://www.gamebrew.org/wiki/Hyperdimension_Neptunia_ReBirth_3_Retranslation_HENkaku_Vita": "hyperdimension neptunia re birth3 v generation|46",
+  "link:https://www.gamebrew.org/wiki/Hyperdimension_Neptunia_ReBirth_3_Retranslation_RePatch_Vita": "hyperdimension neptunia re birth3 v generation|46",
   "link:https://www.gamebrew.org/wiki/IAVT_Colorful_English_Vita": "ia vt colorful|46",
   "link:https://www.gamebrew.org/wiki/ISLAND_Vita_-_English_Translation": "island|46",
   "link:https://www.gamebrew.org/wiki/I_Am_Setsuna_English_Vita": "i am setsuna|46",
@@ -8679,7 +8785,7 @@
   "link:https://www.gamebrew.org/wiki/Never7:_The_End_of_Infinity_PSP_-_English_Translation": "never7 the end of infinity|38",
   "link:https://www.gamebrew.org/wiki/New_Game_The_Challenge_Stage_English_Patch_Vita": "new game the challenge stage|46",
   "link:https://www.gamebrew.org/wiki/Ni_no_Kuni_The_Jet_Black_Mage": "ni no kuni the jet black mage|20",
-  "link:https://www.gamebrew.org/wiki/Night_of_the_Sacrifice_English_Translation_Wii": "night of the sacrifice|5",
+  "link:https://www.gamebrew.org/wiki/Night_of_the_Sacrifice_English_Translation_Wii": "ikenie no yoru|5",
   "link:https://www.gamebrew.org/wiki/Nights_Of_Azure_2_-_PSV_English_Patch_Vita": "nights of azure 2 bride of the new moon|46",
   "link:https://www.gamebrew.org/wiki/Nights_of_Azure_English_Patch_Vita": "nights of azure|46",
   "link:https://www.gamebrew.org/wiki/Ninki_Seiyuu_Vita_English_Patch": "ninki seiyuu how to make a pop voice actress|46",
@@ -8702,7 +8808,7 @@
   "link:https://www.gamebrew.org/wiki/Piofiore_Fated_Memories_English_Patch_Vita": "piofiore fated memories|46",
   "link:https://www.gamebrew.org/wiki/Planetarian_-_Chiisana_Hoshi_no_Yume_English_Patch_PSP": "planetarian chiisana hoshi no yume|38",
   "link:https://www.gamebrew.org/wiki/Plastic_Memories_English_Translation_Vita": "plastic memories|46",
-  "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Radiant_Adventure_Squad_Fan_Translation_Wii": "pokemon mystery dungeon shine on light adventure squad|5",
+  "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Radiant_Adventure_Squad_Fan_Translation_Wii": "pokemon mystery dungeon go for it light adventure squad|5",
   "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Tempest_Adventure_Squad_Fan_Translation_Wii": "pokemon mystery dungeon lets go stormy adventure squad|5",
   "link:https://www.gamebrew.org/wiki/Pokemon_Mystery_Dungeon_-_Wildfire_Adventure_Squad_Fan_Translation_Wii": "pokemon mystery dungeon keep going blazing adventure squad|5",
   "link:https://www.gamebrew.org/wiki/Prince_of_Tennis_Motto_Gakuensai_no_Oujisama_English_Patch": "prince of tennis motto gakuensai no oujisama|20",
