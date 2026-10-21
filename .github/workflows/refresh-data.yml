@@ -7,6 +7,11 @@ on:
   schedule:
     - cron: "23 */3 * * *"
   workflow_dispatch:
+    inputs:
+      cdromance_pages:
+        description: "CDRomance listing pages to scan for credited sources (normal runs read 3; use 80 once to go through the whole back catalogue over a few runs)"
+        required: false
+        default: "3"
   push:
     branches: [main]
     paths:
@@ -58,6 +63,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Optional: a fine-grained personal token (public repositories, read-only) if the job's token ever runs short.
           PW_GH_TOKEN: ${{ secrets.PW_GH_TOKEN }}
+          PW_CDR_PAGES: ${{ github.event.inputs.cdromance_pages || '3' }}
         run: python3 scripts/refresh_data.py
 
       - name: Commit changed data
