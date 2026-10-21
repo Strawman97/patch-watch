@@ -171,6 +171,19 @@ def sgdb_lookup(title, key):
         return None
     return {"url": imgs[0].get("url"), "thumb": imgs[0].get("thumb"), "name": hit.get("name"), "match": round(score, 3)}
 
+def known_names():
+    """English names IGDB and VNDB matched for each game, so covers can be looked up by more than a romanized title."""
+    out = {}
+    sc = load_json(os.path.join(DATA, "screens.json"), {}) or {}
+    for key, q in (sc.get("map") or {}).items():
+        n = ((sc.get("games") or {}).get(q) or {}).get("name")
+        if n:
+            out.setdefault(key, []).append(n)
+    for key, g in ((load_json(os.path.join(DATA, "nsfw.json"), {}) or {}).get("games") or {}).items():
+        if g.get("name"):
+            out.setdefault(key, []).append(g["name"])
+    return out
+
 def refresh_covers(projects):
     key = os.environ.get("SGDB_API_KEY", "").strip()
     path = os.path.join(DATA, "covers.json")
@@ -180,6 +193,7 @@ def refresh_covers(projects):
         log("  SGDB_API_KEY isn't set; skipping covers")
         return False
     todo, seen = [], set()
+    names = known_names()
     for p in projects:
         ck = p.get("k") or p["id"]
         if p.get("pinnedCover"):
@@ -190,19 +204,19 @@ def refresh_covers(projects):
         seen.add(ck)
         title = strip_parens(p.get("g", ""))
         if ck in covers:
-            if covers[ck].get("title") in (title, strip_parens(p.get("jp") or "")):
+            if covers[ck].get("title") in [title, strip_parens(p.get("jp") or "")] + names.get(ck, []):
                 continue
             covers.pop(ck, None); misses.pop(ck, None)      # the title was corrected: look it up again
         miss = misses.get(ck)
         if miss and (datetime.datetime.now(datetime.timezone.utc) - datetime.datetime.fromisoformat(miss.replace("Z", "+00:00"))).days < RETRY_MISSES_DAYS:
             continue
         if title:
-            todo.append((ck, title, strip_parens(p.get("jp") or "")))
+            todo.append((ck, title, [strip_parens(p.get("jp") or "")] + names.get(ck, [])))
     log(f"  {len(todo)} games need a cover lookup (max {MAX_LOOKUPS} this run)")
-    for ck, title, jp in todo[:MAX_LOOKUPS]:
+    for ck, title, alts in todo[:MAX_LOOKUPS]:
         hit, used = None, title
         try:
-            for t in [title, jp]:
+            for t in dict.fromkeys([title] + alts):
                 if not t:
                     continue
                 hit, used = sgdb_lookup(t, key), t
@@ -625,6 +639,7 @@ IGDB_PLATFORMS = {"NES": 18, "FDS": 51, "SNES": 19, "Satellaview": 306, "Game Bo
                   "Mega Drive": 29, "Mega CD": 78, "32X": 30, "Master System": 64, "Game Gear": 35, "Saturn": 32, "Dreamcast": 23, "PC Engine": 86,
                   "PC Engine CD": 150, "PC-FX": 274, "WonderSwan": 57, "WonderSwan Color": 123, "Neo Geo Pocket Color": 120, "Xbox 360": 12, "Arcade": 52}
 MAX_IGDB = int(os.environ.get("PW_MAX_IGDB", "400"))
+IGDB_TV = 2                                              # bumped when the lookup changes, so every game is looked up again once
 IGDB_EROTIC = 42                                         # IGDB's theme id for "Erotic"
 
 def igdb_token(cid, secret):
@@ -683,36 +698,53 @@ def refresh_screens(projects):
         del mapping[k]
     now = datetime.datetime.now(datetime.timezone.utc)
     todo = [(q, t, j, pid) for q, (t, j, pid) in wanted.items()
-            if not (games.get(q) and games[q].get("tv") and (games[q].get("shots") or (now - datetime.datetime.fromisoformat(games[q].get("checked", "2000-01-01T00:00:00Z").replace("Z", "+00:00"))).days < 30))]
+            if not (games.get(q) and games[q].get("tv") == IGDB_TV and (games[q].get("shots") or games[q].get("cover") or (now - datetime.datetime.fromisoformat(games[q].get("checked", "2000-01-01T00:00:00Z").replace("Z", "+00:00"))).days < 30))]
     log(f"  {len(todo)} games to look up on IGDB (max {MAX_IGDB} this run)")
     found = 0
+    fields = "fields name,alternative_names.name,screenshots.image_id,cover.image_id,themes;"
     for q, title, jp, pid in todo[:MAX_IGDB]:
         m = None
+        # 1. IGDB's search on this platform, by the title and then the Japanese title. 2. The romanized or Japanese name
+        # among IGDB's alternative names (Japanese-only games are often filed under their English name). 3. Any platform,
+        # for an exact title match only (IGDB sometimes files a port under the original platform).
+        tries = []
         for t in [title, jp]:
-            if not t:
-                continue
-            safe = t.replace('"', "").replace("\\", "")
+            if t:
+                safe = t.replace('"', "").replace("\\", "")
+                tries.append((f'search "{safe}"; {fields} where platforms = ({pid}); limit 8;', 0.85))
+        for t in [jp, title]:
+            if t and len(t) >= 4:
+                safe = t.replace('"', "").replace("\\", "")
+                tries.append((f'{fields} where alternative_names.name ~ *"{safe}"* & platforms = ({pid}); limit 8;', 0.85))
+        for t in [title, jp]:
+            if t:
+                safe = t.replace('"', "").replace("\\", "")
+                tries.append((f'search "{safe}"; {fields} limit 8;', 0.97))
+        for body, need in tries:
             try:
-                res = igdb_query(cid, token, f'search "{safe}"; fields name,alternative_names.name,screenshots.image_id,themes; where platforms = ({pid}); limit 8;')
+                res = igdb_query(cid, token, body)
             except Exception as e:
-                log(f"  {t}: IGDB error ({e})"); res = []
+                log(f"  {title}: IGDB error ({e})"); res = []
             time.sleep(0.3)
             m = igdb_match([title, jp], res)
-            if m:
+            if m and m[0] >= need:
                 break
+            m = None
         if m:
             score, g = m
             shots = [s["image_id"] for s in (g.get("screenshots") or []) if s.get("image_id")][:6]
-            games[q] = {"name": g.get("name"), "id": g.get("id"), "shots": shots, "match": round(score, 3), "checked": NOW, "tv": 1}
+            games[q] = {"name": g.get("name"), "id": g.get("id"), "shots": shots, "match": round(score, 3), "checked": NOW, "tv": IGDB_TV}
+            if (g.get("cover") or {}).get("image_id"):
+                games[q]["cover"] = g["cover"]["image_id"]
             if IGDB_EROTIC in (g.get("themes") or []):
                 games[q]["nsfw"] = True                   # IGDB lists the game under its "Erotic" theme
             found += bool(shots)
         else:
-            games[q] = {"shots": [], "checked": NOW}
+            games[q] = {"shots": [], "checked": NOW, "tv": IGDB_TV}
     used = set(mapping.values())
     for q in [q for q in games if q not in used]:
         del games[q]
-    log(f"  IGDB: screenshots found for {found} of {min(len(todo), MAX_IGDB)} looked up")
+    log(f"  IGDB: matched {sum(1 for q, *_ in todo[:MAX_IGDB] if games.get(q, {}).get('id'))} of {min(len(todo), MAX_IGDB)} looked up ({found} with screenshots)")
     data["generated"] = NOW
     return write_json_if_changed(path, data)
 
@@ -726,7 +758,7 @@ VNDB_PLATFORMS = {"NES": "nes", "FDS": "nes", "SNES": "sfc", "Game Boy": "gba", 
 NSFW_SEXUAL = 1.0                                        # VNDB rates cover images 0 (safe), 1 (suggestive) and 2 (explicit); blur from suggestive up
 
 def vndb_query(title):
-    body = json.dumps({"filters": ["search", "=", title], "fields": "title, alttitle, titles.title, platforms, image.sexual, image.violence", "results": 8}).encode()
+    body = json.dumps({"filters": ["search", "=", title], "fields": "title, alttitle, titles.title, platforms, image.url, image.sexual, image.violence", "results": 8}).encode()
     req = urllib.request.Request(VNDB_API, data=body, headers={"Content-Type": "application/json", "User-Agent": UA})
     for attempt in range(3):
         try:
@@ -750,7 +782,7 @@ def refresh_nsfw(projects):
     for p in projects:
         key = p.get("k") or p["id"]
         g = games.get(key)
-        if g and g.get("title") == p.get("g") and (now - datetime.datetime.fromisoformat(g.get("checked", "2000-01-01T00:00:00Z").replace("Z", "+00:00"))).days < 60:
+        if g and g.get("iv") == 1 and g.get("title") == p.get("g") and (now - datetime.datetime.fromisoformat(g.get("checked", "2000-01-01T00:00:00Z").replace("Z", "+00:00"))).days < 60:
             continue
         todo.append(p)
     log(f"  {len(todo)} games to look up on VNDB (max {MAX_VNDB} this run)")
@@ -777,10 +809,12 @@ def refresh_nsfw(projects):
         except Exception as e:
             log(f"  {titles[0] if titles else key}: VNDB error ({e})")
             continue
-        e = {"title": p.get("g"), "checked": NOW}
+        e = {"title": p.get("g"), "checked": NOW, "iv": 1}
         if best:
             img = best[1].get("image") or {}
             e.update({"vn": best[1].get("id"), "name": best[1].get("title"), "sexual": img.get("sexual"), "match": round(best[0], 3)})
+            if img.get("url"):
+                e["img"] = img["url"]                     # the visual novel's cover, used when nothing better is found
             if (img.get("sexual") or 0) >= NSFW_SEXUAL:
                 e["nsfw"] = True
                 hits += 1
@@ -800,9 +834,9 @@ def main():
              ("pages", "Patch pages:", lambda: refresh_pages(projects)),
              ("discover", "New patches:", lambda: refresh_discover(projects)),
              ("itch", "itch.io devlogs:", lambda: refresh_itch(projects)),
-             ("covers", "Covers:", lambda: refresh_covers(projects)),
-             ("screens", "IGDB screenshots:", lambda: refresh_screens(projects)),
-             ("nsfw", "NSFW cover art (VNDB):", lambda: refresh_nsfw(projects))]
+             ("screens", "IGDB covers and screenshots:", lambda: refresh_screens(projects)),
+             ("nsfw", "VNDB covers and NSFW ratings:", lambda: refresh_nsfw(projects)),
+             ("covers", "SteamGridDB covers:", lambda: refresh_covers(projects))]
     for name, title, fn in steps:
         if only and name not in only:
             continue

@@ -229,6 +229,20 @@ def page_images(base, h, limit=8):
     return out
 
 
+def page_cover(url, h, host):
+    """The box art a patch page shows: GameBrew's infobox image or Romhack Plaza's main image."""
+    if "gamebrew.org" in host:
+        box = re.search(r"<table[^>]+class=[\"'][^\"']*infobox[\s\S]*?</table>", h, re.I)
+        m = re.search(r"<img\b[^>]*\bsrc=[\"']([^\"']*/images/[^\"']+)[\"']", box.group(0) if box else h, re.I)
+        if m and not re.search(r"logo|icon|button|banner", m.group(1), re.I):
+            return absolute(url, re.sub(r"/thumb(/[0-9a-f]/[0-9a-f]{2}/[^/]+)/\d+px-[^/]+$", r"\1", m.group(1)))
+    if "romhackplaza.org" in host:
+        m = re.search(r"[\"'](https?://[^\"']*/storage/entries/main-images/[^\"']+)[\"']", h, re.I)
+        if m:
+            return m.group(1)
+    return ""
+
+
 def anchors(base, h):
     for m in re.finditer(r"<a\b[^>]*\bhref=[\"']([^\"']+)[\"'][^>]*>([\s\S]*?)</a>", h, re.I):
         yield absolute(base, m.group(1)), html_text(m.group(2)).strip()
@@ -290,6 +304,9 @@ def parse_page(url, h):
     shots = page_images(url, body)
     if shots:
         out["shots"] = shots
+    cover = page_cover(url, h, host)
+    if cover:
+        out["cover"] = cover
     out["a"] = analyze_patch(text[:30000])
     return out
 

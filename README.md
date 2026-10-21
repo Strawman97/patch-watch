@@ -28,7 +28,7 @@ A single-page tracker for English fan translations and undubs of Japanese consol
 - **Starts with 670+ projects** across the Super Famicom, Satellaview, Game Boy Advance, DS, 3DS, Wii, Switch, PS1, PS2, PS3, PSP, PS Vita, Saturn, Dreamcast and more, including about 170 undubs from swosho's Internet Archive uploads.
 - **Filters** by label, coverage, status, platform, where the patch is hosted, extras and when it was last updated, plus a search across English titles, Japanese titles and group names.
 - **Links** straight to the page hosting each patch or mod (GitHub, GameBrew, Romhack Plaza, Romhacking.net, GBAtemp, itch.io and so on), and to the download page and project site when that page names them.
-- **List and grid views,** with box art from libretro-thumbnails, SteamGridDB and Wikipedia. Games with several patches (a translation and an undub, or two competing translations) are grouped into one entry with a tab for each. **Group by game** turns this off.
+- **List and grid views,** with box art from libretro-thumbnails, SteamGridDB, IGDB, VNDB, the patch page itself and Wikipedia. Japanese-only games listed under a romanized title are matched through IGDB's alternative names and VNDB's titles, and the English names those return are used to look the game up on SteamGridDB too. Games with several patches (a translation and an undub, or two competing translations) are grouped into one entry with a tab for each. **Group by game** turns this off.
 - **Screenshots:** the patch itself, from its README or patch page, and the original game, from IGDB and libretro-thumbnails. Click one to enlarge it.
 - **Follow list:** tap the heart on a project, then use **Check followed** to check only those.
 - **Alerts** for new releases and versions, updated patch pages, newly listed projects and links that stop working.
@@ -39,9 +39,9 @@ A single-page tracker for English fan translations and undubs of Japanese consol
 
 ## Getting started
 
-1. Open the site. It starts with a built-in list and doesn't check anything until you ask.
+1. Open the site. It syncs with Patch Watch's shared data (see below) straight away, and again every 30 minutes while it's open, so new releases, updated patch pages and newly found patches show up without clicking anything.
 2. Follow the projects you're interested in with the heart.
-3. Click **Check for updates**, or **Check followed** to refresh just those. Both use Patch Watch's shared data (see below), so no account or token is needed.
+3. **Check for updates** and **Check followed** are still there for checking GitHub projects you added yourself directly. **Settings > When I open Patch Watch** turns syncing off or adds direct checks.
 
 Everything you do (follows, edits, settings) is saved in your own browser. Use **Settings > Export backup** to keep a copy or move it to another browser.
 
@@ -57,9 +57,9 @@ Most patch pages can't be read from a web page, so a scheduled GitHub Actions wo
 | `data/pages.json` | Every other patch page (Internet Archive items are read through archive.org's metadata API): whether it still exists, its version, last-updated date, status, download and project links, screenshots and coverage hints. Up to 150 pages are read per run, oldest first, so every page is re-read every few runs |
 | `data/discover.json` | English translations and undubs that Patch Watch doesn't list yet, found on Romhack Plaza's newest translations, GameBrew's translation lists, GitHub (topics such as `undub` and `fan-translation`, keywords such as "english patch" and "localize", and every repository of the watched accounts) and the Internet Archive (everything from the watched uploaders, plus items titled as undubs or English patches). Internet Archive items that hold game files (ROMs or disc images) instead of just a patch are never listed. They show in **Find a game** |
 | `data/itch.json` | The latest devlog posts of projects hosted on itch.io |
-| `data/covers.json` | SteamGridDB covers for games without libretro box art (needs the `SGDB_API_KEY` secret) |
-| `data/nsfw.json` | Each game's VNDB match and how its cover art is rated (safe, suggestive or explicit), used for the NSFW blur. Up to 150 games are looked up per run and re-checked every 60 days |
-| `data/screens.json` | IGDB screenshots of the original games (needs the `IGDB_CLIENT_ID` and `IGDB_CLIENT_SECRET` secrets) |
+| `data/covers.json` | SteamGridDB covers for games without libretro box art, looked up by the title, the Japanese title and the English names IGDB and VNDB matched (needs the `SGDB_API_KEY` secret) |
+| `data/nsfw.json` | Each game's VNDB match, its cover (used when no other cover is found) and how that cover is rated (safe, suggestive or explicit), used for the NSFW blur. Up to 150 games are looked up per run and re-checked every 60 days |
+| `data/screens.json` | Each game's IGDB match: its cover, screenshots of the original game and whether IGDB lists it as erotic. Games are matched by title on their platform, then by romanized or Japanese alternative names, then by an exact title on any platform (needs the `IGDB_CLIENT_ID` and `IGDB_CLIENT_SECRET` secrets) |
 
 What the refresh reads from a README or patch page (machine translation mentioned, coverage, extras) is a hint. The built-in list and the maintainer's shared fixes always win, and each project's details say where every value came from.
 
