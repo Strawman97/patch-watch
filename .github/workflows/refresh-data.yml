@@ -27,7 +27,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - name: Check out the repository
         uses: actions/checkout@v5
@@ -36,7 +36,7 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Refresh project status, patch pages, new patches, covers and screenshots
+      - name: Refresh project status, patch pages, new patches, covers, screenshots and NSFW ratings
         env:
           SGDB_API_KEY: ${{ secrets.SGDB_API_KEY }}
           # Twitch developer app credentials for IGDB screenshots (Settings > Secrets and variables > Actions).
