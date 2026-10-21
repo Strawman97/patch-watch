@@ -921,7 +921,7 @@ function notifyDesktop(n){if(!S.settings.notify||!("Notification" in window)||No
 function knownLinks(){const s=new Set();for(const p of allProjects()){if(p.k)s.add(p.k);if(p.l)s.add(normLink(p.l));}return s;}
 function discoveredItems(){
   const known=knownLinks();
-  return (REPO.discover||[]).filter(it=>it&&it.url&&!known.has(normLink(it.url))&&!(it.k&&known.has(it.k))&&!S.disc.ignored[normLink(it.url)]);
+  return (REPO.discover||[]).filter(it=>it&&it.url&&!ROM_SITE.test(hostOf(it.url))&&!known.has(normLink(it.url))&&!(it.k&&known.has(it.k))&&!S.disc.ignored[normLink(it.url)]);
 }
 function noteDiscovered(){
   if(!REPO.discover)return;const items=discoveredItems();

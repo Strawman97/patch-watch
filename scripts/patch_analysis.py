@@ -431,3 +431,85 @@ def parse_archive_item(ident, j):
     out["patch"] = any(PATCH_FILE.search(f["name"]) for f in files) or bool(re.search(r"\bpatch|undub|translat", title, re.I))
     out["a"] = analyze_patch(title + "\n" + desc[:20000])
     return out
+
+
+# ---------------------------------------------------------------- CDRomance (discovery only)
+# CDRomance's translation and undub sections are read only to learn about new patches. Patch Watch never links to,
+# stores or shows a CDRomance page: each post's credited "Source:" link is followed and only that original page is listed.
+ROM_SITE = re.compile(r"romsfun|cdromance|ziperto|romspedia|vimm|coolrom|emuparadise|nsw2u|nswgame|wowroms|romsgames|consoleroms|romhustler|edgeemu|freeroms|romsmania|retrostic|romulation|retrogametalk|nxbrew|hexrom|downloadroms|romspure", re.I)
+NOT_SOURCE = re.compile(r"facebook\.com|twitter\.com|x\.com/intent|reddit\.com/submit|pinterest|tumblr\.com/share|whatsapp|t\.me/share|mailto:|/community/\d|/forum/|discord\.(gg|com/invite)|patreon|ko-?fi|paypal|youtube\.com|youtu\.be|wikipedia\.org|mobygames|gamefaqs|redump|no-intro|datomatic|imgur|amazon\.|ebay\.", re.I)
+CDR_CATEGORIES = {
+    "psx-iso": "PS1", "psx2psp-eboots": "PS1", "ps2-iso": "PS2", "psp": "PSP", "ps-vita": "PS Vita", "psvita": "PS Vita", "ps3-iso": "PS3",
+    "nes-roms": "NES", "famicom-disk-system": "FDS", "snes-rom": "SNES", "n64-roms": "N64", "gamecube": "GameCube", "wii-iso": "Wii", "wii": "Wii",
+    "gameboy-roms": "Game Boy", "gameboy-color-roms": "Game Boy Color", "gba-roms": "GBA", "nds-roms": "DS", "nds": "DS", "3ds-roms": "3DS", "3ds": "3DS",
+    "switch": "Switch", "virtual-boy": "Virtual Boy", "sega_saturn_isos": "Saturn", "dreamcast": "Dreamcast", "sega-cd": "Mega CD", "segacd": "Mega CD",
+    "sega-genesis-roms": "Mega Drive", "genesis": "Mega Drive", "master-system": "Master System", "game-gear": "Game Gear",
+    "turbografx-cd": "PC Engine CD", "pce-cd": "PC Engine CD", "turbografx-16": "PC Engine", "pc-engine": "PC Engine", "pc-fx": "PC-FX",
+    "wonderswan": "WonderSwan", "wonderswan-color": "WonderSwan Color", "neo-geo-pocket": "Neo Geo Pocket Color"}
+CDR_NOT_CONSOLE = re.compile(r"^(pc|pc-98|pc98|msx|x68000|fm-towns|dos|windows|mac|arcade|mame)", re.I)
+CDR_POST = re.compile(r"https?://(?:www\.)?cdromance\.(?:org|com)/([a-z0-9_-]+)/([a-z0-9_.%-]+)/?(?=[\"'#?])", re.I)
+CDR_NOT_POST = {"translations", "page", "tag", "category", "author", "genre", "wp-content", "wp-json", "feed", "search", "forum", "forums", "members", "request", "requests", "about", "contact", "dmca"}
+
+
+def cdromance_posts(h):
+    """Game posts linked from a CDRomance listing page, in page order: (category, slug, post URL)."""
+    out, seen = [], set()
+    for m in CDR_POST.finditer(h or ""):
+        cat, slug = m.group(1).lower(), m.group(2).lower()
+        if cat in CDR_NOT_POST or slug in ("page", "feed") or (cat, slug) in seen:
+            continue
+        seen.add((cat, slug))
+        out.append((cat, slug, m.group(0).rstrip("/") + "/"))
+    return out
+
+
+def _section(h, label):
+    """The HTML between a heading or bold label such as "Source:" and the next heading."""
+    m = re.search(r"<(h[1-6]|strong|b|dt|th)\b[^>]*>\s*(?:<[^>]+>\s*)*" + label + r"\s*:?\s*(?:</[^>]+>\s*)*", h, re.I)
+    if not m:
+        return ""
+    rest = h[m.end():]
+    end = re.search(r"<h[1-6]\b|<(strong|b|dt|th)\b[^>]*>\s*[A-Z][\w ]{2,30}:\s*<", rest, re.I)
+    return rest[:end.start() if end else 4000]
+
+
+def parse_cdromance_post(url, h, category=""):
+    """Reads one CDRomance game post. Returns the credited original source(s), authors, title, platform and label, or
+    {"skip": reason}. The post's own URL is never returned."""
+    h = h or ""
+    title = meta(h, "og:title") or ""
+    if not title:
+        m = re.search(r"<h1\b[^>]*>([\s\S]*?)</h1>", h, re.I)
+        title = html_text(m.group(1)) if m else ""
+    title = re.sub(r"\s*[-–|]\s*CDRomance\s*$", "", htmllib.unescape(title), flags=re.I)
+    title = re.sub(r"\s+(ISO|ROM|Eboot|CHD|NSP|Game)\s*$", "", title, flags=re.I)
+    title = re.sub(r"\s+(PSX|PS1|PS2|PSP|GBA|GBC|GB|NES|SNES|N64|NDS|3DS|Wii|GCN|GameCube|Saturn|Dreamcast|PCE|TG-?16|TurboGrafx-CD|Sega CD|Genesis|PSV|Vita|Switch)\s*$", "", title, flags=re.I)
+    text = html_text(h)
+    lang = field(text, ["Language", "Languages"], r"([^\n]{1,160})") or ""
+    probe = lang or text[:6000]
+    undub = bool(re.search(r"\bundub", probe, re.I))
+    english = bool(re.search(r"english", probe, re.I))
+    if not undub and not english:
+        return {"skip": "not English"}
+    src_html = _section(h, r"Sources?") or _section(h, r"Original (?:source|release|patch)")
+    links = []
+    for u, _t in anchors(url, src_html):
+        if not u.startswith("http") or ROM_SITE.search(u) or NOT_SOURCE.search(u) or u in links:
+            continue
+        links.append(u)
+    if not links:   # a bare URL written as text
+        for u in re.findall(r"https?://[^\s<>\"']+", html_text(src_html)):
+            if not ROM_SITE.search(u) and not NOT_SOURCE.search(u) and u not in links:
+                links.append(u)
+    if not links:
+        return {"skip": "no credited source"}
+    src = links[0]
+    if re.search(r"romhacking\.net/hacks/", src, re.I) and not undub:
+        return {"skip": "gameplay hack"}
+    auth = [t for _u, t in anchors(url, _section(h, r"Patch authors?|Authors?|Credits?")) if t] or \
+           [t.strip() for t in re.split(r",|&| and ", html_text(_section(h, r"Patch authors?")) or "") if t.strip()]
+    mtl = bool(re.search(r"machine translation|\bmtl\b", probe + " " + title, re.I))
+    label = "Machine translation" if mtl else ("Human translation" if english and re.search(r"english patched|english translat|english \(", probe, re.I) else ("Undub" if undub else "Human translation"))
+    plat = CDR_CATEGORIES.get(category) or detect_platform(category.replace("-", " ") + " " + title)
+    return {"src": src, "more": links[1:4], "title": title.strip(), "authors": auth[:6], "platform": plat, "label": label, "undub": undub,
+            "notConsole": bool(CDR_NOT_CONSOLE.search(category))}

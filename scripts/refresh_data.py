@@ -12,7 +12,7 @@
 
 Only the Python standard library is used. Files are rewritten only when their contents change.
 """
-import datetime, difflib, json, os, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
+import hashlib, datetime, difflib, json, os, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import patch_analysis as A
@@ -592,10 +592,84 @@ def archive_candidates(watch, prev, known, bad):
     return out
 
 
+# CDRomance: a discovery signal only. Its newest translation and undub posts are read to find each one's credited
+# original source; only that source (patch page, repository, thread) is listed. CDRomance pages are never linked or stored:
+# posts already read are remembered by a hash of their path, not their address.
+CDR_BASE = os.environ.get("PW_CDR_BASE", "https://cdromance.org")
+CDR_LISTS = ["/translations/", "/translations/?language=undub"]
+CDR_PAGES = int(os.environ.get("PW_CDR_PAGES", "3"))              # listing pages read per section (about 20 posts each)
+MAX_CDR_POSTS = int(os.environ.get("PW_MAX_CDR_POSTS", "60"))     # new posts opened per run
+CDR_DELAY = float(os.environ.get("PW_CDR_DELAY", "2"))
+
+def cdr_hash(cat, slug):
+    return hashlib.sha1(f"{cat}/{slug}".encode()).hexdigest()[:16]
+
+def cdromance_candidates(prev_seen):
+    """Returns (items, seen). seen maps a post hash to the source it credits ("" when it credits none worth listing)."""
+    posts, blocked = [], False
+    for lst in CDR_LISTS:
+        for n in range(1, CDR_PAGES + 1):
+            path = lst if n == 1 else lst.replace("/translations/", f"/translations/page/{n}/")
+            try:
+                h = (http_get(CDR_BASE + path) or b"").decode("utf-8", "replace")
+            except Exception as e:
+                log(f"  CDRomance listing couldn't be read ({e}); skipped this run"); blocked = True; break
+            if re.search(r"cf-chl|challenge-platform|Just a moment", h[:5000]):
+                log("  CDRomance asked for a browser check; skipped this run"); blocked = True; break
+            got = A.cdromance_posts(h)
+            if not got:
+                break
+            posts += [(c, s, u, "undub" in lst) for c, s, u in got]
+            time.sleep(CDR_DELAY)
+        if blocked:
+            break
+    seen, items, opened, skipped = dict(prev_seen), [], 0, {}
+    done = set()
+    for cat, slug, url, from_undub in posts:
+        hk = cdr_hash(cat, slug)
+        if hk in done:
+            continue
+        done.add(hk)
+        rec = seen.get(hk)
+        if rec is None:
+            if opened >= MAX_CDR_POSTS:
+                continue                                       # read on a later run
+            opened += 1
+            time.sleep(CDR_DELAY)
+            try:
+                h = (http_get(url) or b"").decode("utf-8", "replace")
+            except Exception:
+                continue
+            info = A.parse_cdromance_post(url, h, cat)
+            if info.get("skip") or info.get("notConsole"):
+                r = info.get("skip") or "not a console"
+                skipped[r] = skipped.get(r, 0) + 1
+                seen[hk] = {"src": "", "why": r}
+                continue
+            rec = {k: info[k] for k in ("src", "title", "platform", "label", "authors", "undub") if info.get(k)}
+            if from_undub:
+                rec["undub"] = True
+            seen[hk] = rec
+        if not rec.get("src"):
+            continue
+        label = rec.get("label") or "Human translation"
+        if rec.get("undub") and label == "Human translation" and from_undub and not re.search(r"translat|english", rec.get("src", ""), re.I):
+            label = "Undub"
+        desc = "Credited source of a new release" + (f" by {', '.join(rec['authors'])}" if rec.get("authors") else "") + (" (also undubbed)" if rec.get("undub") and label != "Undub" else "")
+        items.append({"url": rec["src"], "title": rec.get("title"), "platform": rec.get("platform"), "label": label,
+                      "src": "Credited on CDRomance", "desc": desc,
+                      "k": (lambda m: m.group(1).lower() if m else None)(re.match(r"https?://github\.com/([^/]+/[^/#?]+)", rec["src"]))})
+    log(f"  CDRomance: {len(posts)} recent posts, {opened} newly read, {len(items)} credited sources" +
+        (f", skipped: {', '.join(f'{v} {k}' for k, v in skipped.items())}" if skipped else ""))
+    return items, seen
+
+
 def refresh_discover(projects):
     path = os.path.join(DATA, "discover.json")
     data = load_json(path, {"format": "patch-watch-discover", "version": 1, "items": []})
     known = {norm_link(p.get("l")) for p in projects} | {p.get("k") for p in projects if p.get("k")}
+    loose = lambda u: re.sub(r"^https?://(www\.)?", "", norm_link(u).lower())
+    known_loose = {loose(p.get("l")) for p in projects if p.get("l")}
     ignored = set((load_overrides().get("ignoreFound") or []))
     prev = {norm_link(i["url"]): i for i in data.get("items") or []}
     found = []
@@ -648,10 +722,30 @@ def refresh_discover(projects):
     bad = set(data.get("archiveGameFiles") or [])          # items found to hold game files: never checked or listed again
     found += archive_candidates(watch, prev, known, bad)
     data["archiveGameFiles"] = sorted(bad)
+    # CDRomance: credited original sources of new releases (sources that are archive.org items get the same game-file check)
+    try:
+        cdr, data["cdromanceSeen"] = cdromance_candidates(data.get("cdromanceSeen") or {})
+        for it in cdr:
+            ident = A.archive_id(it["url"]) if "archive.org/" in it["url"] else ""
+            if ident:
+                u = "https://archive.org/details/" + ident
+                if u in bad:
+                    continue
+                try:
+                    info = A.parse_archive_item(ident, json.loads(http_get(ARCHIVE_META + urllib.parse.quote(ident)) or b"{}"))
+                except Exception:
+                    continue
+                if info.get("rom"):
+                    bad.add(u); continue
+                it["url"] = u
+            found.append(it)
+        data["archiveGameFiles"] = sorted(bad)
+    except Exception as e:
+        log(f"  CDRomance step failed ({e})")
     items, seen = [], set()
     for it in found:
         u = norm_link(it.get("url"))
-        if not u or u in seen or u in known or (it.get("k") and it["k"] in known) or u in ignored:
+        if not u or u in seen or u in known or loose(u) in known_loose or (it.get("k") and it["k"] in known) or u in ignored:
             continue
         seen.add(u)
         it["url"] = u

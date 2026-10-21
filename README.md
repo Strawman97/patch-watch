@@ -56,7 +56,7 @@ Most patch pages can't be read from a web page, so a scheduled GitHub Actions wo
 | --- | --- |
 | `data/status.json` | Every tracked GitHub and GitLab project's latest release, last activity, README screenshots and what its README says about labels, coverage and extras |
 | `data/pages.json` | Every other patch page (Internet Archive items are read through archive.org's metadata API): whether it still exists, its version, last-updated date, status, download and project links, screenshots and coverage hints. Up to 150 pages are read per run, oldest first, so every page is re-read every few runs |
-| `data/discover.json` | English translations and undubs that Patch Watch doesn't list yet, found on Romhack Plaza's newest translations, GameBrew's translation lists, GitHub (topics such as `undub` and `fan-translation`, keywords such as "english patch" and "localize", and every repository of the watched accounts) and the Internet Archive (everything from the watched uploaders, plus items titled as undubs or English patches). Internet Archive items that hold game files (ROMs or disc images) instead of just a patch are never listed. They show in **Find a game** |
+| `data/discover.json` | English translations and undubs that Patch Watch doesn't list yet, found on Romhack Plaza's newest translations, GameBrew's translation lists, GitHub (topics such as `undub` and `fan-translation`, keywords such as "english patch" and "localize", and every repository of the watched accounts) and the Internet Archive (everything from the watched uploaders, plus items titled as undubs or English patches). Internet Archive items that hold game files (ROMs or disc images) instead of just a patch are never listed. Also the credited sources of CDRomance's newest English translations and undubs (see below). They show in **Find a game** |
 | `data/itch.json` | The latest devlog posts of projects hosted on itch.io |
 | `data/covers.json` | SteamGridDB covers for games without libretro box art, looked up by the title, the Japanese title and the English names IGDB and VNDB matched (needs the `SGDB_API_KEY` secret) |
 | `data/launchbox.json` | Box art matched in the [LaunchBox Games Database](https://gamesdb.launchbox-app.com), by title, Japanese title and the English names IGDB and VNDB found. The database is one large download, kept between runs in the workflow's cache and downloaded again weekly |
@@ -166,3 +166,16 @@ Open an issue with the patch's link, the game and its platform, or describe what
 ## Licence
 
 Patch Watch's own code (`index.html` and the scripts in `scripts/`) is released under the [MIT Licence](LICENSE). The licence doesn't cover the third-party data and images the site displays; those belong to their respective owners and sources.
+
+## CDRomance as a discovery signal
+
+CDRomance's translation and undub sections are updated often, and each post names the patch author and a **Source:** link. The refresh reads the newest posts (3 listing pages per section, about 60 posts) and lists **only that credited source**: the Romhacking.net or Romhack Plaza page, GitHub repository, GBAtemp thread and so on. Rules:
+
+- No CDRomance page is ever linked, shown or saved. Posts already read are remembered in `data/discover.json` (`cdromanceSeen`) by a hash of their path only.
+- Posts without a credited source, or whose only source is another ROM site, are skipped.
+- Posts that aren't English or undubs, PC titles, and Romhacking.net *hacks* (gameplay hacks rather than translations, unless they are undubs) are skipped.
+- A credited Internet Archive item gets the usual check, and is never listed if it holds game files.
+- If CDRomance blocks the runner (for example with a browser check), the step is skipped for that run and everything else carries on.
+
+To go through CDRomance's whole back catalogue once, open **Actions → Refresh data → Run workflow** and set *CDRomance listing pages* to 80. Each run reads at most 60 new posts (`PW_MAX_CDR_POSTS`), so a backfill takes a few runs to finish. The scheduled runs pick it up from there.
+
