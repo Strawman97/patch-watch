@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-22T17:20:22Z",
+ "generated": "2026-10-22T21:45:23Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -887,7 +887,7 @@
     "desc": "Notes and such for an English fan translation project for Kamaitachi no Yoru (SFC).",
     "full": "ButThouMust/kamaitachi-sfc-english",
     "lang": "Assembly",
-    "pushed": "2026-09-24T15:05:25Z",
+    "pushed": "2026-10-22T21:25:13Z",
     "size": 7697,
     "stars": 63
    },
@@ -1050,6 +1050,39 @@
     "stars": 5
    },
    "shots": []
+  },
+  "conan-patches/ps2": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-11-17T15:00:03Z",
+    "pre": false,
+    "tag": "v1.0.0-english-1",
+    "url": "https://github.com/conan-patches/ps2/releases/tag/v1.0.0-english-1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-11-16T22:47:31Z",
+    "desc": "Patch for Detective Conan PS2 Legacy of the British Empire",
+    "full": "conan-patches/ps2",
+    "lang": "Batchfile",
+    "pushed": "2024-11-21T22:31:39Z",
+    "size": 2918,
+    "stars": 52
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/conan-patches/ps2/HEAD/images/english/screenshot1.png",
+    "https://raw.githubusercontent.com/conan-patches/ps2/HEAD/images/english/screenshot2.png",
+    "https://raw.githubusercontent.com/conan-patches/ps2/HEAD/images/english/screenshot3.png"
+   ]
   },
   "corytburns/chocobo-stallion-translation": {
    "noRelease": true,
@@ -1287,6 +1320,42 @@
    },
    "shots": []
   },
+  "derekpascarella/birdcageofhorrors-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-10-03T16:42:10Z",
+    "pre": false,
+    "tag": "1.2",
+    "url": "https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/tag/1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-08-26T12:14:44Z",
+    "desc": "English translation patch for the Sega Dreamcast film series \"Birdcage of Horrors\".",
+    "full": "DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast",
+    "lang": "C++",
+    "pushed": "2026-06-04T16:09:19Z",
+    "size": 1168,
+    "stars": 41
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://raw.githubusercontent.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/main/images/controller_with_vmu.jpg",
+    "https://raw.githubusercontent.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/main/images/player.jpg",
+    "https://raw.githubusercontent.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/main/images/controls.jpg",
+    "https://raw.githubusercontent.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/main/images/cast/nao.jpg",
+    "https://raw.githubusercontent.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/main/images/cast/tetsu.jpg"
+   ]
+  },
   "derekpascarella/capcomvs.snk2-englishpatchdreamcast": {
    "assetOs": {},
    "readme": {
@@ -1466,6 +1535,77 @@
     "https://i.imgur.com/PbVgeuJ.jpg"
    ]
   },
+  "derekpascarella/superpuzzlefighter2x-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     },
+     "pct": 100
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-06-10T20:34:18Z",
+    "pre": false,
+    "tag": "1.1",
+    "url": "https://github.com/DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast/releases/tag/1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-06-04T04:47:59Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Super Puzzle Fighter 2X\".",
+    "full": "DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast",
+    "lang": null,
+    "pushed": "2025-03-18T14:36:21Z",
+    "size": 318,
+    "stars": 6
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast/main/screenshot.png"
+   ]
+  },
+  "derekpascarella/teaminnocent-englishpatchpcfx": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-02-12T19:57:15Z",
+    "pre": false,
+    "tag": "0.9.1",
+    "url": "https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/releases/tag/0.9.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-12-12T15:26:13Z",
+    "desc": "English translation patch for the NEC PC-FX game \"Team Innocent: The Point of No Return\".",
+    "full": "DerekPascarella/TeamInnocent-EnglishPatchPCFX",
+    "lang": null,
+    "pushed": "2026-08-13T21:31:24Z",
+    "size": 46166,
+    "stars": 53
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/main/images/instructions_1.png",
+    "https://raw.githubusercontent.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/main/images/whats_changed.png",
+    "https://raw.githubusercontent.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/main/images/about_the_game.png",
+    "https://raw.githubusercontent.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/main/images/controls.png",
+    "https://raw.githubusercontent.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/main/images/subtitled_fmvs.png",
+    "https://raw.githubusercontent.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/main/images/maps.png"
+   ]
+  },
   "derekpascarella/triggerheartexelica-englishpatchdreamcast": {
    "assetOs": {},
    "readme": {
@@ -1533,6 +1673,35 @@
    },
    "shots": []
   },
+  "dol-translations/kururin-squash": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-05-10T17:36:54Z",
+    "pre": false,
+    "tag": "r24",
+    "url": "https://github.com/DOL-Translations/kururin-squash/releases/tag/r24"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-06-05T21:26:44Z",
+    "desc": "Kururin Squash!",
+    "full": "DOL-Translations/kururin-squash",
+    "lang": "Assembly",
+    "pushed": "2026-01-26T02:45:36Z",
+    "size": 18534,
+    "stars": 25
+   },
+   "shots": []
+  },
   "dol-translations/lupin-iii": {
    "assetOs": {},
    "readme": {
@@ -1563,6 +1732,35 @@
     "stars": 23
    },
    "shots": []
+  },
+  "dukeblooders/sambadeamigo2000english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-04-11T11:41:16Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/dukeblooders/SambaDeAmigo2000English/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2022-12-20T08:23:13Z",
+    "desc": "English conversion for Samba de Amigo Ver. 2000",
+    "full": "dukeblooders/SambaDeAmigo2000English",
+    "lang": "C#",
+    "pushed": "2026-04-11T11:41:16Z",
+    "size": 137002,
+    "stars": 12
+   },
+   "shots": [
+    "http://img.youtube.com/vi/BrYIlFHXL88/0.jpg"
+   ]
   },
   "eadmaster/pcrown": {
    "assetOs": {},
@@ -2177,6 +2375,39 @@
    },
    "shots": []
   },
+  "hypermegacrash/mmtextgadget": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-11-16T22:04:42Z",
+    "pre": false,
+    "tag": "0.72",
+    "url": "https://github.com/hypermegacrash/MMTextGadget/releases/tag/0.72"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-11-16T21:56:42Z",
+    "desc": "An English Translation Patch for Ape Escape Million Monkeys",
+    "full": "hypermegacrash/MMTextGadget",
+    "lang": "Python",
+    "pushed": "2024-11-16T22:04:42Z",
+    "size": 2671,
+    "stars": 18
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img1.png",
+    "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img2.png",
+    "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img3.png",
+    "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img4.png"
+   ]
+  },
   "inf37sp/chn-psp-patch": {
    "noRelease": true,
    "readme": {
@@ -2728,38 +2959,6 @@
    },
    "shots": []
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Complete",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-22T01:28:45Z",
-    "pre": true,
-    "tag": "0.8.6-lute-test1",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.6-lute-test1"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-22T01:28:45Z",
-    "size": 35224,
-    "stars": 17
-   },
-   "shots": []
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -2941,7 +3140,7 @@
     "desc": "An attempt to create a patch for Narikiri Dungeon X (PSP).",
     "full": "lifebottle/Narikiri-Dungeon-X",
     "lang": "JavaScript",
-    "pushed": "2026-10-22T14:13:17Z",
+    "pushed": "2026-10-22T20:56:09Z",
     "size": 21232,
     "stars": 60
    },
@@ -3066,7 +3265,7 @@
     "lang": "Assembly",
     "pushed": "2026-08-26T01:37:35Z",
     "size": 91371,
-    "stars": 226
+    "stars": 227
    },
    "shots": [
     "https://user-images.githubusercontent.com/77897370/117694591-50db8180-b18d-11eb-852d-7aaedf63c962.png",
@@ -3448,8 +3647,8 @@
     "desc": "Decomp-derived toolset for creating an English patch for the GBA game, Kisekko Gurumi.",
     "full": "MGDays/kisekko-gurumi-eng-patch-tools",
     "lang": "Python",
-    "pushed": "2026-10-21T20:53:16Z",
-    "size": 128,
+    "pushed": "2026-10-22T19:59:39Z",
+    "size": 129,
     "stars": 0
    },
    "shots": []
@@ -3510,6 +3709,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/dancing-sword-senkou": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T12:33:31Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/dancing-sword-senkou/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-22T12:33:18Z",
+    "desc": "English fan translation of Dancing Sword: Senkou (GBA)",
+    "full": "minhnhattonthat/dancing-sword-senkou",
+    "lang": "Python",
+    "pushed": "2026-10-22T12:33:54Z",
+    "size": 104,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/dolucky-no-a-league-soccer": {
    "assetOs": {},
    "readme": {
@@ -3535,6 +3761,33 @@
     "lang": "Python",
     "pushed": "2026-10-20T07:26:52Z",
     "size": 67,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/dragon-knight-4-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T12:35:20Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/dragon-knight-4-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-22T12:34:07Z",
+    "desc": "English fan translation of Dragon Knight 4 (SNES, Banpresto 1996)",
+    "full": "minhnhattonthat/dragon-knight-4-en",
+    "lang": "Python",
+    "pushed": "2026-10-22T12:35:49Z",
+    "size": 1064,
     "stars": 0
    },
    "shots": []
@@ -3870,32 +4123,7 @@
    "shots": []
   },
   "minhnhattonthat/sugoro-quest-dicenics-en": {
-   "assetOs": {},
-   "readme": {
-    "patch": {
-     "ex": {},
-     "mtl": true
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-19T10:40:54Z",
-    "pre": false,
-    "tag": "v0.95",
-    "url": "https://github.com/minhnhattonthat/sugoro-quest-dicenics-en/releases/tag/v0.95"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-10-19T10:40:08Z",
-    "desc": "English fan translation of Sugoro Quest++: Dicenics (SNES)",
-    "full": "minhnhattonthat/sugoro-quest-dicenics-en",
-    "lang": "Python",
-    "pushed": "2026-10-20T04:12:31Z",
-    "size": 293,
-    "stars": 0
-   },
-   "shots": []
+   "notFound": true
   },
   "minhnhattonthat/super-gomoku-narabe-translation": {
    "assetOs": {},
@@ -4243,7 +4471,7 @@
     "lang": "Python",
     "pushed": "2026-10-19T09:18:29Z",
     "size": 27757,
-    "stars": 25
+    "stars": 26
    },
    "shots": []
   },
@@ -4277,7 +4505,7 @@
     "lang": null,
     "pushed": "2026-10-08T09:56:33Z",
     "size": 767,
-    "stars": 71
+    "stars": 72
    },
    "shots": []
   },
@@ -4420,7 +4648,7 @@
     "lang": "Python",
     "pushed": "2026-10-11T04:32:41Z",
     "size": 4501,
-    "stars": 93
+    "stars": 94
    },
    "shots": [
     "https://raw.githubusercontent.com/pumpkinhasapatch/dokodemo-psp-english/HEAD/textures/GUI/TITLE/TITLE.png",
@@ -4541,10 +4769,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-22T14:02:35Z",
+    "date": "2026-10-22T20:54:55Z",
     "pre": false,
-    "tag": "1.0.0",
-    "url": "https://github.com/RHAdvance/RhythmHeavenAdvance/releases/tag/1.0.0"
+    "tag": "1.0.0-hotfix",
+    "url": "https://github.com/RHAdvance/RhythmHeavenAdvance/releases/tag/1.0.0-hotfix"
    },
    "repo": {
     "archived": false,
@@ -4552,9 +4780,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-22T16:04:45Z",
-    "size": 101672,
-    "stars": 122
+    "pushed": "2026-10-22T20:54:55Z",
+    "size": 101675,
+    "stars": 132
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -4808,7 +5036,7 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-10-05T00:31:11Z",
+    "pushed": "2026-10-22T21:29:02Z",
     "size": 3214,
     "stars": 8
    },
@@ -5017,6 +5245,33 @@
    },
    "shots": []
   },
+  "tellilum/.hack-fragment-definitive-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2022-12-24T12:56:47Z",
+    "pre": false,
+    "tag": "v3.8_Hotfix",
+    "url": "https://github.com/Tellilum/.hack-fragment-Definitive-Translation/releases/tag/v3.8_Hotfix"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-09-28T04:26:23Z",
+    "desc": "The Definitive Translation For .hack//frägment!",
+    "full": "Tellilum/.hack-fragment-Definitive-Translation",
+    "lang": null,
+    "pushed": "2026-10-03T14:01:12Z",
+    "size": 5147,
+    "stars": 24
+   },
+   "shots": []
+  },
   "thesola10/yc_english": {
    "noRelease": true,
    "readme": {
@@ -5060,6 +5315,31 @@
     "pushed": "2026-10-15T17:48:39Z",
     "size": 319,
     "stars": 0
+   },
+   "shots": []
+  },
+  "vnayar/final-fantasy-iii-neoclassical": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "gameplay": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2023-10-20T22:09:01Z",
+    "desc": "A patch for the NES game Final Fantasy III.",
+    "full": "vnayar/final-fantasy-iii-neoclassical",
+    "lang": "Shell",
+    "pushed": "2023-11-12T12:14:43Z",
+    "size": 1191,
+    "stars": 8
    },
    "shots": []
   },
@@ -5149,6 +5429,27 @@
    "shots": [
     "https://raw.githubusercontent.com/zlotny/digimon-adventure-psp-translation-kit/HEAD/docs/screenshot.png"
    ]
+  },
+  "zthegin/gintama---gintoki-vs-hijikata-game-english-translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-22T15:29:58Z",
+    "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
+    "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
+    "lang": "Python",
+    "pushed": "2026-10-22T16:17:57Z",
+    "size": 2912,
+    "stars": 0
+   },
+   "shots": []
   }
  },
  "version": 1
