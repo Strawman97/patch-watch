@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-22T10:45:22Z",
+ "generated": "2026-10-22T12:06:29Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1509,6 +1509,40 @@
     "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/kamaitachi%20english%20name%20entry.gif"
    ]
   },
+  "butthoumust/otogirisou-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-10-31T08:02:35Z",
+    "pre": false,
+    "tag": "v1.2",
+    "url": "https://github.com/ButThouMust/otogirisou-english/releases/tag/v1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-11-18T00:44:42Z",
+    "desc": "Otogirisou SFC English translation patches.",
+    "full": "ButThouMust/otogirisou-english",
+    "lang": null,
+    "pushed": "2025-10-31T08:02:35Z",
+    "size": 163,
+    "stars": 38
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/ButThouMust/otogirisou-english/HEAD/images/01%20title%20screen.png",
+    "https://raw.githubusercontent.com/ButThouMust/otogirisou-english/HEAD/images/04%20normal%20text.png",
+    "https://raw.githubusercontent.com/ButThouMust/otogirisou-english/HEAD/images/02%20file%20select.png",
+    "https://raw.githubusercontent.com/ButThouMust/otogirisou-english/HEAD/images/03%20name%20entry.png"
+   ]
+  },
   "byroweb/ac1_re": {
    "noRelease": true,
    "readme": {
@@ -1526,7 +1560,7 @@
     "desc": "Reverse-engineering tooling and Farsi localization for Armored Core (PS1, SLUS-01323). No game data — patch-based, bring your own disc.",
     "full": "byroweb/AC1_RE",
     "lang": "Python",
-    "pushed": "2026-10-22T06:53:34Z",
+    "pushed": "2026-10-22T12:01:52Z",
     "size": 10067,
     "stars": 0
    },
@@ -1722,7 +1756,7 @@
     "lang": "Rust",
     "pushed": "2026-10-21T16:04:48Z",
     "size": 5645,
-    "stars": 13
+    "stars": 14
    },
    "shots": [
     "https://raw.githubusercontent.com/crimsondawnacademy-design/romtranslate-studio/HEAD/docs/assets/screenshot.png"
@@ -2018,6 +2052,80 @@
     "https://raw.githubusercontent.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast/main/ost.jpg"
    ]
   },
+  "derekpascarella/digicharatfantasy-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-12-15T21:54:11Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/DerekPascarella/DiGiCharatFantasy-EnglishPatchDreamcast/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-10-28T18:52:18Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Di Gi Charat Fantasy\".",
+    "full": "DerekPascarella/DiGiCharatFantasy-EnglishPatchDreamcast",
+    "lang": null,
+    "pushed": "2025-12-16T02:38:13Z",
+    "size": 41421,
+    "stars": 11
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/DiGiCharatFantasy-EnglishPatchDreamcast/main/images/screenshot2.png",
+    "https://raw.githubusercontent.com/DerekPascarella/DiGiCharatFantasy-EnglishPatchDreamcast/main/images/screenshot1.png"
+   ]
+  },
+  "derekpascarella/nakoruruthegiftshegaveme-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2026-09-23T13:40:20Z",
+    "pre": false,
+    "tag": "1.4",
+    "url": "https://github.com/DerekPascarella/NakoruruTheGiftSheGaveMe-EnglishPatchDreamcast/releases/tag/1.4"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-08-21T19:40:53Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Nakoruru: The Gift She Gave Me\".",
+    "full": "DerekPascarella/NakoruruTheGiftSheGaveMe-EnglishPatchDreamcast",
+    "lang": "Perl",
+    "pushed": "2026-09-23T13:40:30Z",
+    "size": 1800,
+    "stars": 55
+   },
+   "shots": [
+    "https://i.imgur.com/MDOLCgw.png",
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://i.imgur.com/5QCKdKj.png",
+    "https://i.imgur.com/bmjnVyB.png",
+    "https://i.imgur.com/PbVgeuJ.jpg"
+   ]
+  },
   "derekpascarella/triggerheartexelica-englishpatchdreamcast": {
    "assetOs": {},
    "readme": {
@@ -2261,6 +2369,41 @@
     "https://github.com/user-attachments/assets/f9b6197e-ebbd-4855-949c-f8649ab96245"
    ]
   },
+  "exxistancedc/delisoba-deluxe-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-12-25T13:37:24Z",
+    "pre": false,
+    "tag": "Release",
+    "url": "https://github.com/ExxistanceDC/Delisoba-Deluxe-English-Translation/releases/tag/Release"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-10-24T15:48:40Z",
+    "desc": "An English patch for the rarest Sega Saturn game, Delisoba Deluxe",
+    "full": "ExxistanceDC/Delisoba-Deluxe-English-Translation",
+    "lang": null,
+    "pushed": "2026-01-15T19:18:03Z",
+    "size": 15996,
+    "stars": 14
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/ExxistanceDC/Delisoba-Deluxe-English-Translation/HEAD/Images/Delisoba Deluxe (Japan)-251025-165724.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Delisoba-Deluxe-English-Translation/HEAD/Images/Delisoba Deluxe (Japan)-251025-165806.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Delisoba-Deluxe-English-Translation/HEAD/Images/Delisoba Deluxe (Japan)-251025-165854.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Delisoba-Deluxe-English-Translation/HEAD/Images/Delisoba Deluxe (Japan)-251025-165835.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Delisoba-Deluxe-English-Translation/HEAD/Images/Delisoba Deluxe (Japan)-251025-170412.png"
+   ]
+  },
   "exxistancedc/hissatsu-english-translation": {
    "assetOs": {},
    "readme": {
@@ -2442,6 +2585,42 @@
     "https://github.com/user-attachments/assets/260d6133-bd02-4823-94ec-6899a7f898dd",
     "https://github.com/user-attachments/assets/88e0d6af-0c6e-415b-a9e6-9f6a47698ef1",
     "https://github.com/user-attachments/assets/8ff55afa-6c1a-4a6e-a63c-b210eb0066e6"
+   ]
+  },
+  "exxistancedc/shinrei-jusatsushi-taromaru-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-08-28T22:35:21Z",
+    "pre": false,
+    "tag": "patches",
+    "url": "https://github.com/ExxistanceDC/Shinrei-Jusatsushi-Taromaru-English-Translation/releases/tag/patches"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-08-18T18:15:31Z",
+    "desc": "An English patch for the Sega Saturn Japanese exclusive, Shinrei Jusatsushi Taromaru",
+    "full": "ExxistanceDC/Shinrei-Jusatsushi-Taromaru-English-Translation",
+    "lang": null,
+    "pushed": "2025-08-30T01:23:11Z",
+    "size": 34057,
+    "stars": 38
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/ExxistanceDC/Shinrei-Jusatsushi-Taromaru-English-Translation/HEAD/Images/Taromaru_art.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Shinrei-Jusatsushi-Taromaru-English-Translation/HEAD/Images/TAROMARU-250818-142700.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Shinrei-Jusatsushi-Taromaru-English-Translation/HEAD/Images/TAROMARU-250818-142640.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Shinrei-Jusatsushi-Taromaru-English-Translation/HEAD/Images/TAROMARU-250818-142629.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Shinrei-Jusatsushi-Taromaru-English-Translation/HEAD/Images/TAROMARU-250818-142557.png"
    ]
   },
   "exxistancedc/willy-wombat-english-improvement-patch": {
@@ -2858,6 +3037,35 @@
    },
    "shots": []
   },
+  "jeremydecola/mystic-nights-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Menus only",
+     "ex": {},
+     "pct": 100
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-09-14T20:42:37Z",
+    "pre": false,
+    "tag": "v1.2.2",
+    "url": "https://github.com/jeremydecola/Mystic-Nights-Translation/releases/tag/v1.2.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-06-07T03:53:31Z",
+    "desc": "An English translation of Mystic Nights (A Korean PS2  Survival Horror Game)",
+    "full": "jeremydecola/Mystic-Nights-Translation",
+    "lang": null,
+    "pushed": "2025-09-14T20:42:37Z",
+    "size": 102730,
+    "stars": 31
+   },
+   "shots": []
+  },
   "jonny-anime/tokimeki-memorial-2-english-patch": {
    "assetOs": {},
    "readme": {
@@ -3219,6 +3427,38 @@
     "pushed": "2026-10-20T19:32:18Z",
     "size": 444,
     "stars": 0
+   },
+   "shots": []
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T01:28:45Z",
+    "pre": true,
+    "tag": "0.8.6-lute-test1",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.6-lute-test1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-22T01:28:45Z",
+    "size": 35224,
+    "stars": 17
    },
    "shots": []
   },
@@ -4345,10 +4585,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-22T06:14:25Z",
+    "date": "2026-10-22T11:40:22Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/smt-devil-children-2-honoo-no-sho/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/minhnhattonthat/smt-devil-children-2-honoo-no-sho/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -4356,8 +4596,8 @@
     "desc": "English fan translation of Shin Megami Tensei: Devil Children 2 Honoo no Sho / DemiKids Book of Fire (GBA)",
     "full": "minhnhattonthat/smt-devil-children-2-honoo-no-sho",
     "lang": "Python",
-    "pushed": "2026-10-22T06:14:22Z",
-    "size": 1320,
+    "pushed": "2026-10-22T10:51:27Z",
+    "size": 1330,
     "stars": 0
    },
    "shots": []
@@ -5153,6 +5393,27 @@
    },
    "shots": []
   },
+  "romh-acking/metal-slader-glory-fc-en-manual": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2021-08-19T23:56:04Z",
+    "desc": "Metal Slader Glory (Famicom): Manual English translation ",
+    "full": "romh-acking/metal-slader-glory-fc-en-manual",
+    "lang": null,
+    "pushed": "2021-11-29T14:01:12Z",
+    "size": 540925,
+    "stars": 4
+   },
+   "shots": []
+  },
   "satelliteoflove/dimguil-english": {
    "noRelease": true,
    "readme": {
@@ -5223,6 +5484,31 @@
     "stars": 1
    },
    "shots": []
+  },
+  "scatterdbrain/superlite-2000-table-hanafuda-ps2-english-translation-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2025-06-25T12:50:22Z",
+    "desc": "",
+    "full": "ScatterdBrain/SuperLite-2000-Table-Hanafuda-PS2-English-Translation-Patch",
+    "lang": null,
+    "pushed": "2026-01-15T13:34:01Z",
+    "size": 96073,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/ScatterdBrain/SuperLite-2000-Table-Hanafuda-PS2-English-Translation-Patch/HEAD/screenshots/game_select.png",
+    "https://raw.githubusercontent.com/ScatterdBrain/SuperLite-2000-Table-Hanafuda-PS2-English-Translation-Patch/HEAD/screenshots/koi_koi.png",
+    "https://raw.githubusercontent.com/ScatterdBrain/SuperLite-2000-Table-Hanafuda-PS2-English-Translation-Patch/HEAD/screenshots/championship_victory.png"
+   ]
   },
   "schil227/advancefamicomwars": {
    "noRelease": true,
@@ -5363,6 +5649,37 @@
     "stars": 1
    },
    "shots": []
+  },
+  "sonicman69/bebop-ps2-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-08-24T13:36:51Z",
+    "pre": false,
+    "tag": "V1.0.0-English",
+    "url": "https://github.com/SONICMAN69/Bebop-PS2-English/releases/tag/V1.0.0-English"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-08-20T20:49:32Z",
+    "desc": "A full (fanmade) English translation for Cowboy Bebop - Tsuioku no Serenade for the PlayStation 2",
+    "full": "SONICMAN69/Bebop-PS2-English",
+    "lang": "Batchfile",
+    "pushed": "2025-09-08T18:57:27Z",
+    "size": 12481,
+    "stars": 183
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/SONICMAN69/Bebop-PS2-English/HEAD/images/english/screenshot1.png",
+    "https://raw.githubusercontent.com/SONICMAN69/Bebop-PS2-English/HEAD/images/english/screenshot2.png",
+    "https://raw.githubusercontent.com/SONICMAN69/Bebop-PS2-English/HEAD/images/english/screenshot3.png"
+   ]
   },
   "soyjxck/fma-broken-angel-undub": {
    "assetOs": {},
