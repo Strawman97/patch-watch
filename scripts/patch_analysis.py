@@ -437,7 +437,7 @@ def parse_archive_item(ident, j):
 # CDRomance's translation and undub sections are read only to learn about new patches. Patch Watch never links to,
 # stores or shows a CDRomance page: each post's credited "Source:" link is followed and only that original page is listed.
 ROM_SITE = re.compile(r"romsfun|cdromance|ziperto|romspedia|vimm|coolrom|emuparadise|nsw2u|nswgame|wowroms|romsgames|consoleroms|romhustler|edgeemu|freeroms|romsmania|retrostic|romulation|retrogametalk|nxbrew|hexrom|downloadroms|romspure", re.I)
-NOT_SOURCE = re.compile(r"facebook\.com|twitter\.com|x\.com/intent|reddit\.com/submit|pinterest|tumblr\.com/share|whatsapp|t\.me/share|mailto:|/community/\d|/members?/|/profile/|/users?/\d|discord\.(gg|com/invite)|patreon|ko-?fi|paypal|youtube\.com|youtu\.be|wikipedia\.org|mobygames|gamefaqs|redump|no-intro|datomatic|imgur|amazon\.|ebay\.", re.I)
+NOT_SOURCE = re.compile(r"facebook\.com|twitter\.com|x\.com/intent|reddit\.com/submit|pinterest|tumblr\.com/share|whatsapp|t\.me/share|mailto:|/community/\d|/members?/|/profile/|/users?/\d|discord\.(gg|com/invite)|patreon|ko-?fi|paypal|youtube\.com|youtu\.be|wikipedia\.org|mobygames|gamefaqs|redump|no-intro|datomatic|imgur|amazon\.|ebay\.|keeplinks|ouo\.io|adf\.ly|shrink|linkvertise|mediafire|mega\.nz|drive\.google|dropbox|1fichier|pixeldrain|gofile|zippyshare|rapidgator|uptobox|krakenfiles|/download/|\.(zip|7z|rar|iso|chd|xdelta|ppf|ips|bps)(\?|$)", re.I)
 CDR_CATEGORIES = {
     "psx-iso": "PS1", "psx2psp-eboots": "PS1", "ps2-iso": "PS2", "psp": "PSP", "ps-vita": "PS Vita", "psvita": "PS Vita", "ps3-iso": "PS3",
     "nes-roms": "NES", "famicom-disk-system": "FDS", "snes-rom": "SNES", "n64-roms": "N64", "gamecube": "GameCube", "wii-iso": "Wii", "wii": "Wii",
@@ -477,6 +477,31 @@ IMG_LINK = re.compile(r"\.(png|jpe?g|gif|webp|bmp)(\?|$)|/wp-content/uploads/", 
 PATCH_PAGE = re.compile(r"romhacking\.net/(translations|hacks|homebrew|utilities)/\d+|romhackplaza\.org/|github\.com/[^/]+/[^/#?]+|gitlab\.com/[^/]+/|"
                         r"gbatemp\.net/threads/|archive\.org/details/|\.itch\.io/|gamebrew\.org/wiki/|segaxtreme\.net/resources/|"
                         r"viewtopic\.php|/threads?/|/forums?/[^/]+/\d|translat|undub|patch|/projects?/|neocities|wordpress\.com|blogspot\.|tumblr\.com/post", re.I)
+
+
+CDR_TITLE_JUNK = re.compile(r"\s*\((?:[^()]*\b(?:english|patched|translat|undub|japan|usa|europe|hack|mtl|j\+e)\b[^()]*)\)|\s*\[[^\]]*\]|\s+(?:PSX2PSP|English Patched|English Patch|Undub(?:bed)?|ISO|ROM|Eboot)\b.*$", re.I)
+
+
+def clean_cdr_title(t):
+    t = CDR_TITLE_JUNK.sub("", t or "")
+    t = re.sub(r"\s+-\s+[\w ]+ Version\b.*$", "", t, flags=re.I)
+    t = re.sub(r"(\s+(PS1|PSX|PS2|PSP|Sega|Saturn|Genesis|Mega Drive|SNES|SFC|NES|Famicom|GBA|GBC|NDS|3DS|N64|GameCube|GCN|Wii|PCE|TG-?16|Dreamcast))+\s*$", "", t, flags=re.I)
+    return re.sub(r"\s{2,}", " ", t).strip(" -–:") or (t or "").strip()
+
+
+def norm_source(u):
+    """GitHub release or tree links become the repository itself, so it matches what Patch Watch already tracks."""
+    m = re.match(r"^(https?://(?:www\.)?github\.com/[^/]+/[^/#?]+)", u or "", re.I)
+    return re.sub(r"\.git$", "", m.group(1)) if m else u
+
+
+def _rank(links, title):
+    """Links that share words with the game's title come first (a post can link several projects)."""
+    words = {w for w in re.findall(r"[a-z0-9]{3,}", (title or "").lower()) if w not in ("the", "and", "english", "patched", "patch", "translation", "japan")}
+    def score(u):
+        path = urllib.parse.unquote(u.lower())
+        return -sum(1 for w in words if w in path)
+    return sorted(links, key=score)
 
 
 def _post_body(h):
@@ -538,6 +563,7 @@ def parse_cdromance_post(url, h, category=""):
     if not links:
         others = [u for u, _t in anchors(url, body)] + [u.rstrip(").,;") for u in re.findall(r"https?://[^\s<>\"']+", html_text(body))]
         links = [u for u in dict.fromkeys(others) if keep(u) and PATCH_PAGE.search(u)]
+    links = list(dict.fromkeys(norm_source(u) for u in _rank(links, title)))
     if not links:
         return {"skip": "no credited source"}
     src = links[0]
@@ -547,6 +573,7 @@ def parse_cdromance_post(url, h, category=""):
     auth = [t.strip() for t in re.split(r",|&| and ", a) if t.strip()]
     mtl = bool(re.search(r"machine translation|\bmtl\b", probe + " " + title, re.I))
     label = "Machine translation" if mtl else ("Human translation" if english and re.search(r"english patched|english translat|english \(", probe, re.I) else ("Undub" if undub else "Human translation"))
-    plat = CDR_CATEGORIES.get(category) or detect_platform(category.replace("-", " ") + " " + title)
-    return {"src": src, "more": links[1:4], "title": title.strip(), "authors": auth[:6], "platform": plat, "label": label, "undub": undub,
+    console = field(text, ["Console", "Platform", "System"], r"([^\n]{2,40})")
+    plat = CDR_CATEGORIES.get(category) or detect_platform(console) or detect_platform(category.replace("-", " ").replace("_", " ") + " " + title)
+    return {"src": src, "more": links[1:4], "title": clean_cdr_title(title), "authors": auth[:6], "platform": plat, "label": label, "undub": undub,
             "notConsole": bool(CDR_NOT_CONSOLE.search(category))}

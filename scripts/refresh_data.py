@@ -622,7 +622,7 @@ CDR_LISTS = ["/translations/", "/translations/?language=undub"]
 CDR_PAGES = int(os.environ.get("PW_CDR_PAGES", "3"))              # listing pages read per section (about 20 posts each)
 MAX_CDR_POSTS = int(os.environ.get("PW_MAX_CDR_POSTS", "120"))     # new posts opened per run
 CDR_DELAY = float(os.environ.get("PW_CDR_DELAY", "1.5"))
-CDR_V = 4                                                        # bumped when post reading changes: skipped posts are read again
+CDR_V = 5                                                        # bumped when post reading changes: skipped posts are read again
 
 def cdr_hash(cat, slug):
     return hashlib.sha1(f"{cat}/{slug}".encode()).hexdigest()[:16]
@@ -679,7 +679,8 @@ def cdromance_candidates(prev_seen):
         if rec.get("undub") and label == "Human translation" and from_undub and not re.search(r"translat|english", rec.get("src", ""), re.I):
             label = "Undub"
         desc = "Credited source of a new release" + (f" by {', '.join(rec['authors'])}" if rec.get("authors") else "") + (" (also undubbed)" if rec.get("undub") and label != "Undub" else "")
-        items.append({"url": rec["src"], "title": rec.get("title"), "platform": rec.get("platform"), "label": label,
+        rec["src"] = A.norm_source(rec["src"])
+        items.append({"url": rec["src"], "title": A.clean_cdr_title(rec.get("title")), "platform": rec.get("platform"), "label": label,
                       "src": "Credited on CDRomance", "desc": desc,
                       "k": (lambda m: m.group(1).lower() if m else None)(re.match(r"https?://github\.com/([^/]+/[^/#?]+)", rec["src"]))})
     log(f"  CDRomance: {len(done)} recent posts, {opened} newly read, {len(items)} credited sources" +
@@ -750,8 +751,8 @@ def refresh_discover(projects):
     # CDRomance: credited original sources of new releases (sources that are archive.org items get the same game-file check)
     try:
         prev_seen = data.get("cdromanceSeen") or {}
-        if data.get("cdromanceV") != CDR_V:
-            prev_seen = {k: v for k, v in prev_seen.items() if v.get("src")}
+        if data.get("cdromanceV") != CDR_V:              # read again: posts without a usable source or platform
+            prev_seen = {k: v for k, v in prev_seen.items() if v.get("src") and v.get("platform") and not A.NOT_SOURCE.search(v["src"])}
         cdr, data["cdromanceSeen"] = cdromance_candidates(prev_seen)
         data["cdromanceV"] = CDR_V
         for it in cdr:
