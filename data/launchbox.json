@@ -1,17 +1,41 @@
 {
  "format": "patch-watch-launchbox",
  "games": {
+  "acer-2006/gyakuten-saiban-2-english-gba-": {
+   "id": "135223",
+   "name": "Gyakuten Saiban 2",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/3c92577f-90e4-4a73-a34b-b4be3eda1ba5.jpg"
+  },
+  "acer-2006/gyakuten-saiban_1_gba-english-translation": {
+   "id": "33243",
+   "name": "Gyakuten Saiban",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/eb00bde1-a246-4b44-a521-6cacb6e732fd.jpg"
+  },
   "agtteam/resonancetranslation": {
    "id": "16885",
    "name": "Soul Eater: Battle Resonance",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/e4aef105-6624-4f69-bbfe-111dd99ba98c.jpg"
   },
+  "alunonymoose/sengoku-basara-3---utage-translation": {
+   "id": "16496",
+   "name": "Sengoku Basara 3: Utage",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
+  },
   "baslqc/steins-gate-psp-patch": {
    "id": "33267",
    "name": "Steins;Gate",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/96b9b80e-2788-4533-8f8e-b5048ed5fb7c.jpg"
+  },
+  "bigbanana23/london-seirei-tanteidan": {
+   "id": "131997",
+   "name": "London Seirei Tanteidan",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/b50efeb0-a932-4278-b8df-5810da8a6220.jpg"
   },
   "brokenmesh/kimikiss_ai_translation": {
    "id": "211495",
@@ -31,11 +55,65 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/b654e976-f55c-4631-8909-10c1afb936c0.jpg"
   },
+  "closedsockets/tricolore-crise-english-patch": {
+   "id": "157872",
+   "name": "Tricolore Crise",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/8489da0d-ad50-42cd-a02d-17fe24804cd2.jpg"
+  },
+  "corytburns/chocobo-stallion-translation": {
+   "id": "146266",
+   "name": "Chocobo Stallion",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/920d8e71-6983-4bbf-b7da-c907d1c76023.jpg"
+  },
+  "damon-daemon/sangokushi-ds-3-english": {
+   "id": "185429",
+   "name": "Rekishi Simulation Game: Sangokushi DS 3",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/cbe79512-3bb3-49b4-a6a1-998017702eae.jpg"
+  },
+  "exxistancedc/cyber-doll-english-translation": {
+   "id": "123603",
+   "name": "Cyber Doll",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_021c84b7-116a-4f15-813d-ecb80732b0ae.jpg"
+  },
+  "exxistancedc/hissatsu-english-translation": {
+   "id": "140863",
+   "name": "Hissatsu!",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/03602ef1-5569-40d6-9b6e-d392de2cd3a1.jpg"
+  },
+  "exxistancedc/power-drift-english-translation": {
+   "id": "141061",
+   "name": "Sega Ages: Power Drift",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/11149ca5-b2b9-470f-93a1-83183670a0a4.jpg"
+  },
+  "exxistancedc/ragnagard-english-translation": {
+   "id": "141067",
+   "name": "Ragnagard",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/4a8e964f-1651-4fd6-b204-c544efe5f197.jpg"
+  },
   "exxistancedc/segagaga-english-translation": {
    "id": "30478",
    "name": "Segagaga",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/1559dce5-e43c-4419-9ae0-4e66e271a744.jpg"
+  },
+  "exxistancedc/willy-wombat-english-improvement-patch": {
+   "id": "33705",
+   "name": "Willy Wombat",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/e95c3cde-6278-4c26-a9a4-243ef5fba2f7.jpg"
+  },
+  "gagnonpl/spriggan-en": {
+   "id": "18396",
+   "name": "Seirei Senshi Spriggan",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/745f7df6-0839-437e-a18b-20406124d61c.jpg"
   },
   "hexerkat/langrisser3-english": {
    "id": "146550",
@@ -43,11 +121,59 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/faec4334-2c80-464f-b9d2-9fcc88ef8601.jpg"
   },
+  "itsbalanse/bokuranokazoku-english": {
+   "id": "178724",
+   "name": "Bokura no Kazoku",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/a242d3c3-0db3-47f8-b7e5-43565b1895a1.jpg"
+  },
+  "itsrevela/yakuman-ds-english": {
+   "id": "33581",
+   "name": "Yakuman DS",
+   "region": "",
+   "url": "https://images.launchbox-app.com/ea537a32-66d7-4390-a20f-af3cdf070832.jpg"
+  },
+  "jonny-anime/tokimeki-memorial-2-english-patch": {
+   "id": "164444",
+   "name": "Tokimeki Memorial 2",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/83e17f41-7292-49fc-9d75-a12d0b4bfb97.jpg"
+  },
   "julianow/tales-of-symphonia-ngc-undub": {
    "id": "10789",
    "name": "Tales of Symphonia",
    "region": "North America",
    "url": "https://images.launchbox-app.com/099a8d31-39e4-4aa0-9c52-bb74751449eb.jpg"
+  },
+  "kactusken/fire-pro-wrestling-g-english": {
+   "id": "32186",
+   "name": "Fire Pro Wrestling G",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/34d6a916-547c-4100-b47b-201c1c30a572.jpg"
+  },
+  "kactusken/fire-pro-wrestling-iron-slam-96-english": {
+   "id": "28385",
+   "name": "Fire Pro Wrestling: Iron Slam '96",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/ad9be78c-c07b-4539-8719-55f4109c2f20.jpg"
+  },
+  "kactusken/king-of-colosseum-ii-english": {
+   "id": "138603",
+   "name": "King of Colosseum II",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/5e0bc2e9-90e2-45bd-b974-ecb0e2aca933.png"
+  },
+  "kactusken/super-wrestle-angels-english": {
+   "id": "28846",
+   "name": "Super Wrestle Angels",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/0b9359ee-34b7-4879-99d5-c0597c0711d0.png"
+  },
+  "kactusken/wrestle-angels-survivor-2-english": {
+   "id": "178959",
+   "name": "Wrestle Angels Survivor 2",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/395ce584-88d1-4f8f-bf65-38678defd7e8.png"
   },
   "kaisaan/lostkefin": {
    "id": "131968",
@@ -60,6 +186,24 @@
    "name": "Metal Gear Solid 3: Snake Eater: HD Edition",
    "region": "North America",
    "url": "https://images.launchbox-app.com/aae77a48-b108-41b7-96b3-e93449a0141a.jpg"
+  },
+  "kodakwizard/hikaru-no-go-3-english": {
+   "id": "113996",
+   "name": "Hikaru no Go 3",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/4cdde0b1-94b2-4e5d-811b-d400aa37e866.jpg"
+  },
+  "legendarydoors/house-of-tarot-english": {
+   "id": "27376",
+   "name": "House of Tarot",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/9a8cb1b9-a23f-4b37-856c-0432fedf2f31.jpg"
+  },
+  "legendarydoors/tarot-mystery-english": {
+   "id": "141016",
+   "name": "Tarot Mystery",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/18b86bdd-c881-44d2-95d1-cbb705fcd4ee.png"
   },
   "lifebottle/narikiri-dungeon-x": {
    "id": "19015",
@@ -121,11 +265,23 @@
    "region": "Europe",
    "url": "https://images.launchbox-app.com/ef4e2712-6155-467b-864a-c55205d18556.jpg"
   },
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "id": "7044",
+   "name": "Sonic Gems Collection",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/8920d704-e2de-4163-a4d6-d3597dbc05db.jpg"
+  },
   "link:https://archive.org/details/aerowings_undub_patch": {
    "id": "19308",
    "name": "AeroWings",
    "region": "North America",
    "url": "https://images.launchbox-app.com/3ee6b5b4-bfcd-4fc6-aa7c-8621c58efb37.jpg"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "id": "166211",
+   "name": "Air",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/6a38612a-4371-403f-aeed-36c4bc5d81ec.jpg"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "id": "5870",
@@ -283,6 +439,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/9a55aed4-29e9-4f88-979d-d2892209ad36.jpg"
   },
+  "link:https://archive.org/details/blood-will-tell-tezuka-osamus-dororo-undub-patch": {
+   "id": "12794",
+   "name": "Blood Will Tell: Tezuka Osamu's Dororo",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/049a622f-7555-4918-a077-50e95430de3c.jpg"
+  },
   "link:https://archive.org/details/boktai_2_undub_patch": {
    "id": "3334",
    "name": "Boktai 2: Solar Boy Django",
@@ -307,11 +469,29 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/17a211be-1660-4381-b7c4-24912afbb57a.jpg"
   },
+  "link:https://archive.org/details/budokai-1-gc-undub-patch": {
+   "id": "7222",
+   "name": "Dragon Ball Z: Budokai",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/0cf4679d-281f-4e22-b3fe-943e6997febc.jpg"
+  },
   "link:https://archive.org/details/bujingai_undub_patch": {
    "id": "5907",
    "name": "Bujingai: The Forsaken City",
    "region": "North America",
    "url": "https://images.launchbox-app.com/67725e3f-0c3c-494f-9a1d-57ccbab26e83.jpg"
+  },
+  "link:https://archive.org/details/bulk-slash-english-patch": {
+   "id": "23764",
+   "name": "Bulk Slash",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/d6d6430e-3ec5-429d-bb2d-7dea4a3b19eb.jpg"
+  },
+  "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
+   "id": "23380",
+   "name": "Castle of Shikigami III",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/dce9a6a5-b177-4b97-983f-8cce1b08df59.jpg"
   },
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": {
    "id": "8782",
@@ -373,6 +553,18 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/07fa28c1-9b78-4337-b82a-be116642b465.jpg"
   },
+  "link:https://archive.org/details/date-a-live-twin-edition-rio-reincarnation-english-v-0.95vita-3k": {
+   "id": "456943",
+   "name": "Date-A-Live Twin Edition: Rio Reincarnation",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/7940dd66-9f8a-4f24-9c24-6aafbcc6864c.png"
+  },
+  "link:https://archive.org/details/dewys_adventure_undub_patch": {
+   "id": "18048",
+   "name": "Dewy's Adventure",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/4c68d63f-a353-4290-a426-69a916c00f3d.jpg"
+  },
   "link:https://archive.org/details/digimon_world_data_squad_undub_patch": {
    "id": "7213",
    "name": "Digimon World: Data Squad",
@@ -391,11 +583,23 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/6deefdb0-1e75-4e87-bf7b-fb98dad72147.jpg"
   },
+  "link:https://archive.org/details/dokapon_kingdom_wii_undub_patch": {
+   "id": "6377",
+   "name": "Dokapon Kingdom",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/b7c8c6cc-63db-4778-95dc-9f804c547b17.jpg"
+  },
   "link:https://archive.org/details/doshin_the_giant_undub_patch": {
    "id": "24223",
    "name": "Doshin the Giant",
    "region": "Europe",
    "url": "https://images.launchbox-app.com/r2_e395b1c8-e697-45cc-8ade-2e0f396fc0c9.png"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "id": "7222",
+   "name": "Dragon Ball Z: Budokai",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/0cf4679d-281f-4e22-b3fe-943e6997febc.jpg"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "id": "20572",
@@ -523,6 +727,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/25754c07-502c-48b8-83a1-7c344864c9ec.jpg"
   },
+  "link:https://archive.org/details/elebits_wii_undub_patch": {
+   "id": "7602",
+   "name": "Elebits",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/e97925b3-b434-455f-93a9-db1b1199c066.jpg"
+  },
   "link:https://archive.org/details/elemental_gimmick_gear_undub_patch": {
    "id": "2410",
    "name": "Elemental Gimmick Gear",
@@ -588,6 +798,12 @@
    "name": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
    "region": "North America",
    "url": "https://images.launchbox-app.com/774593f8-3c54-4567-8086-962731f49ed1.jpg"
+  },
+  "link:https://archive.org/details/fff_chocobos_dungeon_wii_undub_patch": {
+   "id": "12809",
+   "name": "Final Fantasy Fables: Chocobo's Dungeon",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/b720db0e-411e-4ae4-a851-d8cb1e8c5d6a.jpg"
   },
   "link:https://archive.org/details/final_fantasy_explorers_undub_patch": {
    "id": "24781",
@@ -691,6 +907,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/2461ecef-9ddd-498d-ae89-ec20dadbeff8.jpg"
   },
+  "link:https://archive.org/details/kirbys_epic_yarn_undub_patch": {
+   "id": "5608",
+   "name": "Kirby's Epic Yarn",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/31fa4b76-5261-4cdb-b914-7bd50648bb5a.jpg"
+  },
   "link:https://archive.org/details/liberation_maiden_undub_patch": {
    "id": "21033",
    "name": "Liberation Maiden",
@@ -709,6 +931,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/r2_44ff30d9-868e-41f0-9122-43ce7e19996d.jpg"
   },
+  "link:https://archive.org/details/mahou-no-shoujo-silky-lip-pal": {
+   "id": "34291",
+   "name": "Mahou no Shoujo: Silky Lip",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/71e81c96-fbe7-4a8e-b42f-91332f7e074a.jpg"
+  },
   "link:https://archive.org/details/maken_x_undub_patch": {
    "id": "5562",
    "name": "Maken X",
@@ -720,6 +948,12 @@
    "name": "Maximo: Ghosts to Glory",
    "region": "North America",
    "url": "https://images.launchbox-app.com/fec8520b-8771-4af0-a848-8df5af6c1462.jpg"
+  },
+  "link:https://archive.org/details/medarot-ds-kabuto-ver.-english-patch": {
+   "id": "154695",
+   "name": "Medarot Classics: Kabuto Version",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1a27d8fc-aecc-4142-9ae4-825f34fd1747.jpg"
   },
   "link:https://archive.org/details/mega_man_mhx_undub_patch": {
    "id": "7101",
@@ -744,6 +978,12 @@
    "name": "Mega Man X: Command Mission",
    "region": "North America",
    "url": "https://images.launchbox-app.com/68e4348f-4764-46bd-a062-60ce259fd5e4.jpg"
+  },
+  "link:https://archive.org/details/mgf-english-patch-v-1.00": {
+   "id": "203225",
+   "name": "Miracle Girls Festival",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/c22fe61d-5e37-47ac-bffc-f3cccb68de81.png"
   },
   "link:https://archive.org/details/mimana_iyar_chronicle_undub_patch": {
    "id": "14046",
@@ -780,6 +1020,12 @@
    "name": "Nightshade",
    "region": "North America",
    "url": "https://images.launchbox-app.com/2bcc40df-a0ca-4e6d-ad65-54fb915670e8.jpg"
+  },
+  "link:https://archive.org/details/nostalgia-1907-pal": {
+   "id": "34300",
+   "name": "Nostalgia 1907",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/f810f962-0ba3-4deb-ae7d-5ee8cf3fb247.jpg"
   },
   "link:https://archive.org/details/onimusha_2_undub_patch": {
    "id": "9766",
@@ -865,11 +1111,23 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/b7bbc45b-ece6-4125-a460-a3032e213ad2.jpg"
   },
+  "link:https://archive.org/details/puyopuyotetris-3ds-english-patch": {
+   "id": "131738",
+   "name": "Puyo Puyo Tetris",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/cb3057ee-ffcf-4545-abac-f5be242ae2b1.jpg"
+  },
   "link:https://archive.org/details/riviera_gba_undub_patch": {
    "id": "3498",
    "name": "Riviera: The Promised Land",
    "region": "North America",
    "url": "https://images.launchbox-app.com/ca2d8adb-e1e0-4e11-aab4-522fa7556d6c.jpg"
+  },
+  "link:https://archive.org/details/rogue_galaxy_undub_patch": {
+   "id": "9350",
+   "name": "Rogue Galaxy",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/99edb02d-8bd9-4657-b457-2ee5142760c8.png"
   },
   "link:https://archive.org/details/romancing_saga_undub_patch": {
    "id": "9790",
@@ -901,6 +1159,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/9152da1a-ae96-4b74-826f-d15d9677438e.jpg"
   },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "id": "16496",
+   "name": "Sengoku Basara 3: Utage",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
+  },
   "link:https://archive.org/details/shadow_hearts_undub_patch": {
    "id": "12753",
    "name": "Shadow Hearts",
@@ -912,6 +1176,12 @@
    "name": "Shadow Tower: Abyss",
    "region": "",
    "url": "https://images.launchbox-app.com/b16f91e5-eabc-4109-843b-5d4ca1904f31.jpg"
+  },
+  "link:https://archive.org/details/shadowrun-english-pal": {
+   "id": "23755",
+   "name": "Shadowrun",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_8e439079-3c07-44da-bd5d-f8447e7685ed.png"
   },
   "link:https://archive.org/details/shining_force_exa_undub_patch": {
    "id": "13113",
@@ -943,6 +1213,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/67cf6264-8dae-4323-904f-eb1f20a5375a.jpg"
   },
+  "link:https://archive.org/details/skies_of_arcadia_gc_undub_patch": {
+   "id": "6269",
+   "name": "Skies of Arcadia: Legends",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/8c91bfd2-6cae-4402-bc5c-fa5569dd7b68.png"
+  },
   "link:https://archive.org/details/sky_odyssey_undub_patch": {
    "id": "9811",
    "name": "Sky Odyssey",
@@ -973,6 +1249,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/508b65fa-c548-40c8-af39-376b4cd281b8.jpg"
   },
+  "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": {
+   "id": "4984",
+   "name": "Spyro the Dragon",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/0d3943ce-ea3d-4ac6-ad7d-c130da3763ab.jpg"
+  },
   "link:https://archive.org/details/steambot_chronicles_undub_patch": {
    "id": "10708",
    "name": "Steambot Chronicles",
@@ -985,11 +1267,23 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/522b7c0b-f7a5-472e-8663-8016bab6cbd2.jpg"
   },
+  "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
+   "id": "3122",
+   "name": "Street Fighter II",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/c5fd5dc7-587b-4d52-b288-39a1bdb87d01.png"
+  },
   "link:https://archive.org/details/suikoden_tactics_undub_patch": {
    "id": "12395",
    "name": "Suikoden Tactics",
    "region": "North America",
    "url": "https://images.launchbox-app.com/f27d7f20-6fd1-4890-a43d-5e12c751e86f.jpg"
+  },
+  "link:https://archive.org/details/summon-night-5-undub": {
+   "id": "98438",
+   "name": "Summon Night 5",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/478d9dca-d615-4fa7-91d4-57a080bc1488.png"
   },
   "link:https://archive.org/details/summon_night_swordcraft_story_2_undub_patch": {
    "id": "3512",
@@ -1045,6 +1339,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/fe3f59ec-2d02-49ad-a18f-2761f3ae4f1f.jpg"
   },
+  "link:https://archive.org/details/tenchu_4_wii_undub_patch": {
+   "id": "17629",
+   "name": "Tenchu: Shadow Assassins",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/f135a184-1479-452f-a804-91315d017dbe.jpg"
+  },
   "link:https://archive.org/details/tenchu_ds_undub_patch": {
    "id": "27198",
    "name": "Tenchu: Dark Secret",
@@ -1074,6 +1374,12 @@
    "name": "The Note",
    "region": "Europe",
    "url": "https://images.launchbox-app.com/cf93f06b-8ffb-4396-bd9d-81b17fa1aa02.jpg"
+  },
+  "link:https://archive.org/details/the_sky_crawlers_ia_undub_patch": {
+   "id": "16788",
+   "name": "The Sky Crawlers: Innocent Aces",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/92145b7f-df35-4fed-94fb-6e367d321cec.jpg"
   },
   "link:https://archive.org/details/the_sword_of_etheria_undub_patch": {
    "id": "18140",
@@ -1110,6 +1416,12 @@
    "name": "Valhalla Knights 3",
    "region": "North America",
    "url": "https://images.launchbox-app.com/acabd9cc-eb21-4a0d-b3f8-40490ae4ecdd.jpg"
+  },
+  "link:https://archive.org/details/valhalla_knights_eldar_saga_undub_patch": {
+   "id": "13940",
+   "name": "Valhalla Knights: Eldar Saga",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/f109b0db-ff11-49ce-964d-e6ec1ee71d90.jpg"
   },
   "link:https://archive.org/details/warriors_orochi_2_ps2_undub_patch": {
    "id": "23860",
@@ -1171,6 +1483,18 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/9705bfd4-0491-4acf-bfb6-38ce645fae84.jpg"
   },
+  "link:https://forum.klonoa.network/?topic=2175.msg30818": {
+   "id": "7653",
+   "name": "Klonoa",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/1d4c8611-b834-45d8-a313-b79470c1970c.jpg"
+  },
+  "link:https://forums.serenesforest.net/topic/97653-fe-gaiden-updated-namesfont-patch": {
+   "id": "16716",
+   "name": "Fire Emblem Gaiden",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/05697a73-f430-4fc5-bb72-4cd5a20643ef.jpg"
+  },
   "link:https://gbatemp.net/threads/dragon-quest-x-offline-english-mod.643968/": {
    "id": "466061",
    "name": "Dragon Quest X Offline",
@@ -1201,6 +1525,24 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/b486efd1-9683-47d2-8093-97ee90ecc699.jpg"
   },
+  "link:https://iwakuraproductions.wordpress.com/2023/02/15/post-mortem-serial-experiments-lain-psx": {
+   "id": "143850",
+   "name": "Serial Experiments Lain",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_43fd7f55-6a43-4b5d-8b5d-ee7e1dd5c522.jpg"
+  },
+  "link:https://mholdschool.com/viewtopic.php?t=1143": {
+   "id": "197405",
+   "name": "Monster Hunter G",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/c865ad5b-be69-40d7-8634-1f1ee5fed481.jpg"
+  },
+  "link:https://rarit.ee/patches.htm": {
+   "id": "11871",
+   "name": "Tail Concerto",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/35315dd0-b84c-4eea-a448-beda5a839e70.jpg"
+  },
   "link:https://retrogametalk.com/threads/release-tales-of-destiny-2-ps2-psp-english-ai-translation.26456/": {
    "id": "33821",
    "name": "Tales of Destiny 2",
@@ -1212,6 +1554,30 @@
    "name": "Shin Megami Tensei II",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_eb0434bf-3622-4c34-aa96-81e2cbb361fa.jpg"
+  },
+  "link:https://romhack.ing/database/content/entry/8tNv5JQBNs8FWu0C2YAi/air-management-96-english-translation": {
+   "id": "184013",
+   "name": "Air Management '96",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/5530e729-b8cc-438c-9a50-2b6b940e03a0.jpg"
+  },
+  "link:https://romhack.ing/database/content/entry/JR0-SV7QTySLhIDBUGCtAw/spriggan-mark-2-english-translation": {
+   "id": "18397",
+   "name": "Spriggan Mark 2: Re-Terraform Project",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/b9995e0e-30e8-4296-bda3-099ae7067445.jpg"
+  },
+  "link:https://romhack.ing/database/content/entry/Rd8Vbzs7RI2aIJVxhpJpKw/fushigi-no-dungeon-2-fuurai-no-shiren-english-translation": {
+   "id": "25891",
+   "name": "Fushigi no Dungeon 2: Fuurai no Shiren",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/eec8d11c-3cd2-4f8d-b120-afe415211baa.jpg"
+  },
+  "link:https://romhack.ing/database/content/entry/XTNsoT45QFecv-La1gSoQw/puyo-puyo-box-english-translation": {
+   "id": "25836",
+   "name": "Puyo Puyo Box",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/66dfd2eb-a219-4054-8601-56a9feab865a.jpg"
   },
   "link:https://romhackplaza.org/translations/chaindive-english-translation-playstation-2": {
    "id": "108229",
@@ -1236,6 +1602,12 @@
    "name": "Gun.Smoke",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/4ff04bce-9a9f-463c-8f98-9c99333a9fb3.jpg"
+  },
+  "link:https://romhackplaza.org/translations/jojo-no-kimyou-na-bouken-ougon-no-kaze-english-translation-playstation-2": {
+   "id": "29314",
+   "name": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/650536b5-ce02-4c02-95e4-11f8fc595985.jpg"
   },
   "link:https://romhackplaza.org/translations/jojo-no-kimyou-na-bouken-phantom-blood-english-translation-playstation-2": {
    "id": "29315",
@@ -1272,6 +1644,54 @@
    "name": "Youchien Senki Madara",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/c247ed7e-cf1c-422c-b870-e3748583a9a0.jpg"
+  },
+  "link:https://segaxtreme.net/resources/dark-seed-us-english-translation.409": {
+   "id": "125697",
+   "name": "Dark Seed",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/4025b32d-29dc-4a77-b89a-2b6a1d1f2609.jpg"
+  },
+  "link:https://segaxtreme.net/resources/keio-flying-squadron-2-japan-english-ntsc.435": {
+   "id": "11284",
+   "name": "Keiou Yuugekitai: Katsugeki-hen",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/c3cde1f3-238b-4a97-82b6-b86a8639bb7c.jpg"
+  },
+  "link:https://segaxtreme.net/resources/pal-keio-flying-squadron-2.104": {
+   "id": "11284",
+   "name": "Keio Flying Squadron 2",
+   "region": "Europe",
+   "url": "https://images.launchbox-app.com/f71447e5-d59a-4f1d-8b8c-f83cba922e14.jpg"
+  },
+  "link:https://segaxtreme.net/resources/saturn-bomberman-usa-story-undub.443": {
+   "id": "11326",
+   "name": "Saturn Bomberman",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/c6e50102-4818-4f59-9a03-3022be70c4b6.jpg"
+  },
+  "link:https://segaxtreme.net/resources/silhouette-mirage-english-retranslation-patch.298": {
+   "id": "33645",
+   "name": "Silhouette Mirage",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/8e20fd91-ca59-4f97-b620-810027f67666.jpg"
+  },
+  "link:https://snsc3translation.github.io/index.html": {
+   "id": "141737",
+   "name": "Summon Night: Craft Sword Monogatari: Hajimari no Ishi",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/21d94d34-7e10-4d20-b247-31cb25bcc35b.jpg"
+  },
+  "link:https://usagiru.blogspot.com/2020/03/ps2-iso-kof-maximum-impact-collection.html": {
+   "id": "476820",
+   "name": "The King of Fighters: Maximum Impact Collection",
+   "region": "World",
+   "url": "https://images.launchbox-app.com/df2fae0d-4350-445a-9e5b-62a9e551f96f.png"
+  },
+  "link:https://www.delta-island.com/forum/viewtopic.php?t=6795": {
+   "id": "171854",
+   "name": "Dark Seed II",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/164e3139-aad7-4e07-885e-b3f54d885079.jpg"
   },
   "link:https://www.gamebrew.org/wiki/7th_Dragon": {
    "id": "20214",
@@ -2803,6 +3223,24 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/bc376a00-4075-49b5-a34a-dfe8c58ce90c.jpg"
   },
+  "link:https://www.patchclan.com": {
+   "id": "122458",
+   "name": "Taekwon-Do",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/76e0e158-b322-49b9-85b9-a0c430f8b945.png"
+  },
+  "link:https://www.projectmetafalica.com": {
+   "id": "7676",
+   "name": "Ar tonelico II: Melody of Metafalica",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/4794679f-be79-4857-8099-efcd94310b5f.jpg"
+  },
+  "link:https://www.romhack.ing/database/content/entry/4wWjA83mS1ylM93H-NoGpw/suzuki-bakuhatsu-english-translation": {
+   "id": "34617",
+   "name": "Suzuki Bakuhatsu",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/e94e551c-9a8b-4e01-abd0-c1f1e1130f54.jpg"
+  },
   "link:https://www.romhacking.net/hacks/1386/": {
    "id": "174729",
    "name": "Final Fantasy VI: Ted Woolsey Uncensored Edition",
@@ -2886,6 +3324,12 @@
    "name": "Dragon Quest III",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/bd3e9657-c332-4921-aa11-568abda39ea7.jpg"
+  },
+  "link:https://www.romhacking.net/translations/1375": {
+   "id": "1310",
+   "name": "Bare Knuckle III",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/d72b9393-c6fb-4fed-b78d-29ace3506d9c.jpg"
   },
   "link:https://www.romhacking.net/translations/1384/": {
    "id": "870",
@@ -3343,6 +3787,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/e6587947-d18a-4219-b755-9a110d28b35e.png"
   },
+  "link:https://www.romhacking.net/translations/6129": {
+   "id": "20004",
+   "name": "Shin Megami Tensei",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/c999d7ad-c1d1-4cd6-853f-48574c18d41d.jpg"
+  },
   "link:https://www.romhacking.net/translations/622/": {
    "id": "90487",
    "name": "Ganpuru: Gunman's Proof",
@@ -3391,11 +3841,41 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/982d7e8e-a928-4c7e-9789-295eb7611373.png"
   },
+  "link:https://www.romhacking.net/translations/7628": {
+   "id": "141686",
+   "name": "Bomberman Land",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/51b4cd95-b05f-4d23-ae4e-d18b904df1ef.jpg"
+  },
+  "link:https://www.romhacking.net/translations/7640": {
+   "id": "178765",
+   "name": "Fullmetal Alchemist 3: Kami o Tsugu Shoujo",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/fd9d56b8-59e5-4c69-891d-fd6ba80a302d.jpg"
+  },
+  "link:https://www.romhacking.net/translations/7692": {
+   "id": "167110",
+   "name": "Ranma ½: Netsuretsu Kakutouhen",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/9fc86578-161b-40ab-9f58-7786f39fca90.jpg"
+  },
   "link:https://www.romhacking.net/translations/775/": {
    "id": "1557",
    "name": "Assault Suits Valken",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_49ea03c4-d553-4601-9e18-1d03bc169438.jpg"
+  },
+  "link:https://www.romhacking.net/translations/7758": {
+   "id": "6306",
+   "name": "Torneko no Daibouken: Fushigi no Dungeon",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/13bc7128-f954-41c1-84eb-97cfb27f398d.png"
+  },
+  "link:https://www.romhacking.net/translations/7838": {
+   "id": "566",
+   "name": "Rockman Dash: Hagane no Boukenshin",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/28789e9d-aa7c-451a-b56e-6a582e67ad16.jpg"
   },
   "link:https://www.romhacking.net/translations/848/": {
    "id": "24870",
@@ -3408,6 +3888,12 @@
    "name": "Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/2503ce0c-0056-4a3a-b56e-633c27d85d94.png"
+  },
+  "link:https://www.romhacking.net/translations/859": {
+   "id": "20012",
+   "name": "Super Robot Taisen Alpha Gaiden",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_3e5eb824-31bd-4ebd-9b8a-bcf090b036a1.jpg"
   },
   "link:https://www.romhacking.net/translations/860/": {
    "id": "122603",
@@ -3439,6 +3925,84 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/ec9051f7-7e18-43d2-a5bc-bcb311f59161.jpg"
   },
+  "megastylerc/idolmaster-dearly-stars-english": {
+   "id": "133224",
+   "name": "THE IDOLM@STER: Dearly Stars",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/02db8175-4e65-4766-a824-03b19591219c.jpg"
+  },
+  "micaelmaciel/monster-guardians-eng": {
+   "id": "173670",
+   "name": "Monster Guardians",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/dec3d3e3-7a19-4ec4-916b-dbb73a88408c.jpg"
+  },
+  "minhnhattonthat/dolucky-no-a-league-soccer": {
+   "id": "33020",
+   "name": "Dolucky no A.League Soccer",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/9f1e70df-8e5b-424b-b376-f7a902e25a19.jpg"
+  },
+  "minhnhattonthat/granbo": {
+   "id": "176656",
+   "name": "Granbo",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1f620b2f-f766-437e-bab8-194d9ef6a729.jpg"
+  },
+  "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": {
+   "id": "34751",
+   "name": "Hanjuku Hero: Ah, Sekai yo Hanjuku Nare...!!",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/f15a29c7-4a1d-43df-b7ba-72c15f889800.jpg"
+  },
+  "minhnhattonthat/kabuki-rocks": {
+   "id": "123663",
+   "name": "Kabuki Rocks",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/9353371e-938b-4b93-a3f4-97850cce1a16.png"
+  },
+  "minhnhattonthat/kidou-senshi-gundam-seed-destiny": {
+   "id": "177246",
+   "name": "Kidou Senshi Gundam SEED: Destiny",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/10d59cc3-fead-443b-b490-833a8e9d5c7b.jpg"
+  },
+  "minhnhattonthat/monster-guardians-en": {
+   "id": "173670",
+   "name": "Monster Guardians",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/dec3d3e3-7a19-4ec4-916b-dbb73a88408c.jpg"
+  },
+  "minhnhattonthat/recca-no-honoo-the-game": {
+   "id": "31603",
+   "name": "Recca no Honoo: The Game",
+   "region": "",
+   "url": "https://images.launchbox-app.com/6768053d-4f2e-4e54-adbe-74f1845a286c.jpg"
+  },
+  "minhnhattonthat/sugoro-quest-dicenics-en": {
+   "id": "139640",
+   "name": "Sugoro Quest++: Dicenics",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/5afa9654-1478-4031-818f-f0761973c989.png"
+  },
+  "minhnhattonthat/yu-yu-hakusho-2-english": {
+   "id": "25890",
+   "name": "Yu Yu Hakusho 2",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/431952bd-e392-4a32-b9e7-6178fbfbc578.jpg"
+  },
+  "minhnhattonthat/zero-one-sp-english": {
+   "id": "178926",
+   "name": "Zero One SP",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/8a45315d-4c89-4d2b-ba98-1d0698cda805.jpg"
+  },
+  "netrunner12/popful-mail-sfc-english-translation": {
+   "id": "23769",
+   "name": "Popful Mail",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/4bd6a8a1-7a4d-48d1-8944-5be7e73272e9.jpg"
+  },
   "pepasjc/snatcher-translated": {
    "id": "162363",
    "name": "Snatcher",
@@ -3450,6 +4014,42 @@
    "name": "Albert Odyssey",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/4ccfaecc-b3df-495d-8c07-335d80e4e6b0.jpg"
+  },
+  "phukyes/gunparade-march-english": {
+   "id": "159816",
+   "name": "Koukidou Gensou GPM: Gunparade March",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/ddd59ec5-a8b6-4b3e-84a0-00b24f7856fe.jpg"
+  },
+  "redeted/megami-ibunroku-persona-ps1-translation": {
+   "id": "160262",
+   "name": "Megami Ibunroku Persona",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1835deb7-d7ba-4e5a-911d-828a419af6b5.png"
+  },
+  "retro-trans/super-tokusatsu-taisen-2001": {
+   "id": "31234",
+   "name": "Super Tokusatsu Taisen 2001",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/18cf9b96-05ef-4b1d-8f18-06aec7bb69a9.jpg"
+  },
+  "satelliteoflove/dimguil-english": {
+   "id": "143809",
+   "name": "Wizardry: Dimguil",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/9e8cb786-d0a1-422e-9a29-2396cd35c0a8.jpg"
+  },
+  "saupernova13/kamigami-no-asobi-psp-en": {
+   "id": "205001",
+   "name": "Kamigami no Asobi",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/0a5e4bf8-271c-4d7b-93eb-c11eca172bca.jpg"
+  },
+  "sneekymellon/zoids-saga-gba-english-patch": {
+   "id": "32577",
+   "name": "Zoids Saga",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_da0d9734-da24-4e84-8bfd-a9d7719ab15a.png"
   },
   "soyjxck/fma-broken-angel-undub": {
    "id": "4916",
@@ -3474,8 +4074,14 @@
    "name": "ゆるキャン△ Have a nice day!",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/30030486-1f24-4bf2-83e2-f671abc664a3.jpg"
+  },
+  "wandering-heiho/vantage_master_portable_psp": {
+   "id": "172261",
+   "name": "Vantage Master Portable",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1fc02d4f-8dbd-4e2e-a2db-9e7125a10ca1.jpg"
   }
  },
- "generated": "2026-10-21T12:14:43Z",
+ "generated": "2026-10-22T09:57:51Z",
  "version": 1
 }

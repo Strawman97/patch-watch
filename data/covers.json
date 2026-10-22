@@ -1,5 +1,21 @@
 {
  "covers": {
+  "acer-2006/gyakuten-saiban-2-english-gba-": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Gyakuten Saiban 2",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/1994af8d2bc48ad02ab8858fe37cdc16.jpg",
+   "title": "Gyakuten Saiban 2",
+   "url": "https://cdn2.steamgriddb.com/grid/1994af8d2bc48ad02ab8858fe37cdc16.png"
+  },
+  "acer-2006/gyakuten-saiban_1_gba-english-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Gyakuten Saiban",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/ea5fdbf44f86b785707b62753207a015.jpg",
+   "title": "Gyakuten Saiban",
+   "url": "https://cdn2.steamgriddb.com/grid/ea5fdbf44f86b785707b62753207a015.png"
+  },
   "agtteam/resonancetranslation": {
    "added": "2026-10-20T12:30:37Z",
    "match": 1.0,
@@ -8,6 +24,22 @@
    "title": "Soul Eater: Battle Resonance",
    "url": "https://cdn2.steamgriddb.com/grid/f13eba1cb1984f793950a9f33f51871c.png"
   },
+  "agtteam/vampiretranslation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Vampire",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/02ef10130d16b81b3489bb8217de3467.jpg",
+   "title": "Vampire",
+   "url": "https://cdn2.steamgriddb.com/grid/02ef10130d16b81b3489bb8217de3467.png"
+  },
+  "alunonymoose/sengoku-basara-3---utage-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Sengoku Basara 3 Utage",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/b410e700cb8d43acc8a88c5bfa2270b1.png",
+   "title": "Sengoku Basara 3 Utage",
+   "url": "https://cdn2.steamgriddb.com/grid/b410e700cb8d43acc8a88c5bfa2270b1.png"
+  },
   "baslqc/steins-gate-psp-patch": {
    "added": "2026-10-20T12:30:37Z",
    "match": 1.0,
@@ -15,6 +47,14 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/8dd1e5dabe750b145116cbec6bb87540.jpg",
    "title": "Steins;Gate",
    "url": "https://cdn2.steamgriddb.com/grid/8dd1e5dabe750b145116cbec6bb87540.png"
+  },
+  "beato07/radiant-historia-undub": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Radiant Historia",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/572b32bde8dcd42e5964d23e7a69e138.jpg",
+   "title": "Radiant Historia",
+   "url": "https://cdn2.steamgriddb.com/grid/572b32bde8dcd42e5964d23e7a69e138.png"
   },
   "blue-overture/aonatsu-line": {
    "added": "2026-10-20T12:30:37Z",
@@ -32,6 +72,46 @@
    "title": "Super Robot Taisen OG Gaiden",
    "url": "https://cdn2.steamgriddb.com/grid/504704df949508ecbbe8d39fec53a27a.png"
   },
+  "exhilo62/dqxi-3ds-english-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Dragon Quest XI: Echoes of an Elusive Age",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/7e4e3277267d94013911b1dd05cd161b.jpg",
+   "title": "Dragon Quest XI: Echoes of an Elusive Age",
+   "url": "https://cdn2.steamgriddb.com/grid/7e4e3277267d94013911b1dd05cd161b.png"
+  },
+  "exxistancedc/power-drift-english-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Power Drift",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/29e631948d3868f04a8bde7d836738d4.jpg",
+   "title": "Power Drift",
+   "url": "https://cdn2.steamgriddb.com/grid/29e631948d3868f04a8bde7d836738d4.png"
+  },
+  "exxistancedc/ragnagard-english-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Ragnagard",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/b5ca8d258d55324dd53275e8e9c23c3b.jpg",
+   "title": "Ragnagard",
+   "url": "https://cdn2.steamgriddb.com/grid/b5ca8d258d55324dd53275e8e9c23c3b.png"
+  },
+  "exxistancedc/willy-wombat-english-improvement-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Willy Wombat",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/51e7de406749542a3643a87fbd025991.jpg",
+   "title": "Willy Wombat",
+   "url": "https://cdn2.steamgriddb.com/grid/51e7de406749542a3643a87fbd025991.png"
+  },
+  "gagnonpl/spriggan-en": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Seirei Senshi Spriggan",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/a1d36d7d289c2be5cd2dce06d4dace2f.jpg",
+   "title": "Seirei Senshi Spriggan",
+   "url": "https://cdn2.steamgriddb.com/grid/a1d36d7d289c2be5cd2dce06d4dace2f.png"
+  },
   "gitlab.com/neurochitin/miko_kaleido_patch": {
    "added": "2026-10-20T12:30:37Z",
    "match": 1.0,
@@ -39,6 +119,54 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/c52c39af658b29ab8acfad0064308eb1.jpg",
    "title": "Gensou Rougoku no Kaleidoscope",
    "url": "https://cdn2.steamgriddb.com/grid/c52c39af658b29ab8acfad0064308eb1.jpg"
+  },
+  "itsbalanse/bokuranokazoku-english": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Bokura no Kazoku",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/633e1a3bfab6dfaf6e3d0e6bc56c3b09.jpg",
+   "title": "Bokura No Kazoku",
+   "url": "https://cdn2.steamgriddb.com/grid/633e1a3bfab6dfaf6e3d0e6bc56c3b09.png"
+  },
+  "jamesaz0/rockmandash-psp-english-patcher": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Mega Man Legends",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/de46b308829039baf89d3f4aee7e22a9.jpg",
+   "title": "Mega Man Legends",
+   "url": "https://cdn2.steamgriddb.com/grid/de46b308829039baf89d3f4aee7e22a9.png"
+  },
+  "jonny-anime/tokimeki-memorial-2-english-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Tokimeki Memorial 2",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/0793057874b1eafbb24008b96133bb0d.jpg",
+   "title": "Tokimeki Memorial 2",
+   "url": "https://cdn2.steamgriddb.com/grid/0793057874b1eafbb24008b96133bb0d.png"
+  },
+  "kactusken/fire-pro-wrestling-iron-slam-96-english": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Fire Pro Wrestling: Iron Slam '96",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/8380d9aa29b6f590eb6de11228782d15.jpg",
+   "title": "Fire Pro Wrestling Iron Slam 96",
+   "url": "https://cdn2.steamgriddb.com/grid/8380d9aa29b6f590eb6de11228782d15.png"
+  },
+  "kactusken/king-of-colosseum-ii-english": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "King of Colosseum II",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/078fd82f3d8f6f6ff6bd649ffed50cf4.jpg",
+   "title": "King of Colosseum II",
+   "url": "https://cdn2.steamgriddb.com/grid/078fd82f3d8f6f6ff6bd649ffed50cf4.png"
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Dragon Quest XI: Echoes of an Elusive Age",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/7e4e3277267d94013911b1dd05cd161b.jpg",
+   "title": "Dragon Quest XI: Echoes of an Elusive Age",
+   "url": "https://cdn2.steamgriddb.com/grid/7e4e3277267d94013911b1dd05cd161b.png"
   },
   "lifebottle/narikiri-dungeon-x": {
    "added": "2026-10-20T12:30:37Z",
@@ -63,6 +191,14 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/3195c7c66636ec325ef1fd3bbcc1f8ee.jpg",
    "title": "Tales of Innocence R",
    "url": "https://cdn2.steamgriddb.com/grid/3195c7c66636ec325ef1fd3bbcc1f8ee.png"
+  },
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Sonic Gems Collection",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/224554ca07b9c4148f62ecea385b60dd.jpg",
+   "title": "Sonic Gems Collection",
+   "url": "https://cdn2.steamgriddb.com/grid/224554ca07b9c4148f62ecea385b60dd.png"
   },
   "link:https://archive.org/details/armored_core_4_ps3_undub_patch": {
    "added": "2026-10-20T13:09:51Z",
@@ -104,6 +240,46 @@
    "title": "Binary Domain",
    "url": "https://cdn2.steamgriddb.com/grid/5b0abf96f522d13db59db4705e711ac9.png"
   },
+  "link:https://archive.org/details/blood-will-tell-tezuka-osamus-dororo-undub-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Blood Will Tell: Tezuka Osamu's Dororo",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/7e619500fdac1f706695b4be49206bbc.jpg",
+   "title": "Blood Will Tell: Tezuka Osamu’s Dororo",
+   "url": "https://cdn2.steamgriddb.com/grid/7e619500fdac1f706695b4be49206bbc.png"
+  },
+  "link:https://archive.org/details/budokai-1-gc-undub-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Dragon Ball Z: Budokai",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/fc5d2ffcd6a10b1863e56d5ec5859bab.jpg",
+   "title": "Dragon Ball Z Budokai",
+   "url": "https://cdn2.steamgriddb.com/grid/fc5d2ffcd6a10b1863e56d5ec5859bab.png"
+  },
+  "link:https://archive.org/details/bulk-slash-english-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Bulk Slash",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/4387a9cd45dbc48b6840dc43c01063d5.jpg",
+   "title": "Bulk Slash",
+   "url": "https://cdn2.steamgriddb.com/grid/4387a9cd45dbc48b6840dc43c01063d5.png"
+  },
+  "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Castle of Shikigami III",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/5401545f001318910e0ba1e3f183244a.jpg",
+   "title": "Castle of Shikigami III",
+   "url": "https://cdn2.steamgriddb.com/grid/5401545f001318910e0ba1e3f183244a.jpg"
+  },
+  "link:https://archive.org/details/dewys_adventure_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Dewy's Adventure",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/28f90c70d54fa1e0d7c93f3096a8689f.jpg",
+   "title": "Dewy's Adventure",
+   "url": "https://cdn2.steamgriddb.com/grid/28f90c70d54fa1e0d7c93f3096a8689f.png"
+  },
   "link:https://archive.org/details/doctor_lautrec_undub_patch": {
    "added": "2026-10-20T13:09:51Z",
    "match": 1.0,
@@ -111,6 +287,22 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/db107d754415fec3e21ad6b9fc7bbb4d.jpg",
    "title": "Doctor Lautrec and the Forgotten Knights",
    "url": "https://cdn2.steamgriddb.com/grid/db107d754415fec3e21ad6b9fc7bbb4d.png"
+  },
+  "link:https://archive.org/details/dokapon_kingdom_wii_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Dokapon Kingdom",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/86cf5a81e3eb696f916f4ffb72d412b2.jpg",
+   "title": "Dokapon Kingdom",
+   "url": "https://cdn2.steamgriddb.com/grid/86cf5a81e3eb696f916f4ffb72d412b2.png"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Dragon Ball Z: Budokai",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/fc5d2ffcd6a10b1863e56d5ec5859bab.jpg",
+   "title": "Dragon Ball Z Budokai",
+   "url": "https://cdn2.steamgriddb.com/grid/fc5d2ffcd6a10b1863e56d5ec5859bab.png"
   },
   "link:https://archive.org/details/dragons_crown_ps3_undub_patch": {
    "added": "2026-10-20T13:09:51Z",
@@ -168,6 +360,14 @@
    "title": "Dynasty Warriors: Strikeforce",
    "url": "https://cdn2.steamgriddb.com/grid/59532e4fe41f474022009e028d6ffe59.png"
   },
+  "link:https://archive.org/details/elebits_wii_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Elebits",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/8bb48c98a8a021ca74e9aeb47eb929fe.jpg",
+   "title": "Elebits",
+   "url": "https://cdn2.steamgriddb.com/grid/8bb48c98a8a021ca74e9aeb47eb929fe.png"
+  },
   "link:https://archive.org/details/escape_from_bug_island_undub_patch": {
    "added": "2026-10-20T13:09:51Z",
    "match": 1.0,
@@ -175,6 +375,14 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/e0db13514e3f0cfb7363432118e8d6a3.jpg",
    "title": "Escape from Bug Island",
    "url": "https://cdn2.steamgriddb.com/grid/e0db13514e3f0cfb7363432118e8d6a3.png"
+  },
+  "link:https://archive.org/details/fff_chocobos_dungeon_wii_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Final Fantasy Fables: Chocobo's Dungeon",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/8504e47afe4b5702119ccbd4638e848d.jpg",
+   "title": "Final Fantasy Fables: Chocobo's Dungeon",
+   "url": "https://cdn2.steamgriddb.com/grid/8504e47afe4b5702119ccbd4638e848d.jpg"
   },
   "link:https://archive.org/details/final_fantasy_x_x-2_vita_undub_patches": {
    "added": "2026-10-20T13:09:51Z",
@@ -200,6 +408,14 @@
    "title": "God Eater Resurrection",
    "url": "https://cdn2.steamgriddb.com/grid/2db7eeae7f99ed6e1d9da81d5e97682f.jpg"
   },
+  "link:https://archive.org/details/kirbys_epic_yarn_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Kirby's Epic Yarn",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/f429d42cd075eca7b921596c641bf739.jpg",
+   "title": "Kirby's Epic Yarn",
+   "url": "https://cdn2.steamgriddb.com/grid/f429d42cd075eca7b921596c641bf739.png"
+  },
   "link:https://archive.org/details/liberation_maiden_undub_patch": {
    "added": "2026-10-20T13:09:51Z",
    "match": 1.0,
@@ -207,6 +423,22 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/a33a9a51e8f8b8acc203cabeb0295ed8.jpg",
    "title": "Liberation Maiden",
    "url": "https://cdn2.steamgriddb.com/grid/a33a9a51e8f8b8acc203cabeb0295ed8.png"
+  },
+  "link:https://archive.org/details/medarot-ds-kabuto-ver.-english-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 0.939,
+   "name": "Medarot G: Kabuto Version",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/f6aa71982d4409b501d3a808d128ec35.jpg",
+   "title": "Medarot DS: Kabuto Version",
+   "url": "https://cdn2.steamgriddb.com/grid/f6aa71982d4409b501d3a808d128ec35.png"
+  },
+  "link:https://archive.org/details/mgf-english-patch-v-1.00": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Miracle Girls Festival",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/f8cac876aa2feff9b6bf670dc7322f67.jpg",
+   "title": "Miracle Girls Festival",
+   "url": "https://cdn2.steamgriddb.com/grid/f8cac876aa2feff9b6bf670dc7322f67.jpg"
   },
   "link:https://archive.org/details/neverland_card_battles_undub_patch": {
    "added": "2026-10-20T13:09:51Z",
@@ -232,6 +464,38 @@
    "title": "Onimusha 3: Demon Siege",
    "url": "https://cdn2.steamgriddb.com/grid/4eb03dd1fe19a0c7441794a10bf4e2f0.png"
   },
+  "link:https://archive.org/details/puyopuyotetris-3ds-english-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Puyo Puyo Tetris",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/8329d1d1580949f49e1bba0a35286f5f.jpg",
+   "title": "Puyo Puyo Tetris",
+   "url": "https://cdn2.steamgriddb.com/grid/8329d1d1580949f49e1bba0a35286f5f.png"
+  },
+  "link:https://archive.org/details/rogue_galaxy_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Rogue Galaxy",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/641a19b5e880fd8d83373ba90907a120.jpg",
+   "title": "Rogue Galaxy",
+   "url": "https://cdn2.steamgriddb.com/grid/641a19b5e880fd8d83373ba90907a120.png"
+  },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Sengoku Basara 3 Utage",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/b410e700cb8d43acc8a88c5bfa2270b1.png",
+   "title": "Sengoku BASARA 3 Utage —",
+   "url": "https://cdn2.steamgriddb.com/grid/b410e700cb8d43acc8a88c5bfa2270b1.png"
+  },
+  "link:https://archive.org/details/shadowrun-english-pal": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Shadowrun",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/77d1646188a9eee6c214a13f4e4e9ba7.jpg",
+   "title": "Shadowrun",
+   "url": "https://cdn2.steamgriddb.com/grid/77d1646188a9eee6c214a13f4e4e9ba7.png"
+  },
   "link:https://archive.org/details/shinobido_2_roz_undub_patch": {
    "added": "2026-10-20T13:09:51Z",
    "match": 1.0,
@@ -248,6 +512,14 @@
    "title": "Shinobido: Tales of the Ninja",
    "url": "https://cdn2.steamgriddb.com/grid/5f131a8e4af4c0a28c8e3bb2d8cd5716.png"
   },
+  "link:https://archive.org/details/skies_of_arcadia_gc_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Skies of Arcadia: Legends",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/ae73c1f20b00bc238bb963f499f72a58.jpg",
+   "title": "Skies Of Arcadia Legends",
+   "url": "https://cdn2.steamgriddb.com/grid/ae73c1f20b00bc238bb963f499f72a58.png"
+  },
   "link:https://archive.org/details/soul_sacrifice_delta_undub_patch": {
    "added": "2026-10-20T13:09:51Z",
    "match": 1.0,
@@ -255,6 +527,38 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/09489ca5598e9d49ac0ac25f0ed0b342.jpg",
    "title": "Soul Sacrifice Delta",
    "url": "https://cdn2.steamgriddb.com/grid/09489ca5598e9d49ac0ac25f0ed0b342.png"
+  },
+  "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Spyro the Dragon",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/a99316b58bd2d4539e9153e24f616e6f.jpg",
+   "title": "Spyro the Dragon",
+   "url": "https://cdn2.steamgriddb.com/grid/a99316b58bd2d4539e9153e24f616e6f.png"
+  },
+  "link:https://archive.org/details/summon-night-5-undub": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Summon Night 5",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/d9418efcbb6871c3d20f12006cb5ee25.jpg",
+   "title": "Summon Night 5",
+   "url": "https://cdn2.steamgriddb.com/grid/d9418efcbb6871c3d20f12006cb5ee25.png"
+  },
+  "link:https://archive.org/details/tenchu_4_wii_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Tenchu: Shadow Assassins",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/889ad55766e378b684eb4846a9379b79.jpg",
+   "title": "Tenchu: Shadow Assassins",
+   "url": "https://cdn2.steamgriddb.com/grid/889ad55766e378b684eb4846a9379b79.png"
+  },
+  "link:https://archive.org/details/the_sky_crawlers_ia_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "The Sky Crawlers: Innocent Aces",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/1fc56e8c47ecf481c59eecce5769fcfd.jpg",
+   "title": "The Sky Crawlers: Innocent Aces",
+   "url": "https://cdn2.steamgriddb.com/grid/1fc56e8c47ecf481c59eecce5769fcfd.png"
   },
   "link:https://archive.org/details/unchained_blades_3ds_undub_patch": {
    "added": "2026-10-20T12:30:37Z",
@@ -280,6 +584,14 @@
    "title": "Valhalla Knights 3",
    "url": "https://cdn2.steamgriddb.com/grid/e6c7e2cc516d973fb79dbe906647a7ef.png"
   },
+  "link:https://archive.org/details/valhalla_knights_eldar_saga_undub_patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Valhalla Knights: Eldar Saga",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/9e0dcd69563a6aa22072ae26524e471a.png",
+   "title": "Valhalla Knights: Eldar Saga",
+   "url": "https://cdn2.steamgriddb.com/grid/9e0dcd69563a6aa22072ae26524e471a.png"
+  },
   "link:https://bszelda.zeldalegends.net/rh.shtml": {
    "added": "2026-10-20T12:30:37Z",
    "match": 0.9,
@@ -295,6 +607,22 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/8b827643b61e782242a44a35fa70849e.jpg",
    "title": "Gundam Assault Survive",
    "url": "https://cdn2.steamgriddb.com/grid/8b827643b61e782242a44a35fa70849e.png"
+  },
+  "link:https://forum.klonoa.network/?topic=2175.msg30818": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Klonoa",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/24839e12d7f4c77dd3f2cf855fa5542c.jpg",
+   "title": "Klonoa",
+   "url": "https://cdn2.steamgriddb.com/grid/24839e12d7f4c77dd3f2cf855fa5542c.png"
+  },
+  "link:https://forums.serenesforest.net/topic/97653-fe-gaiden-updated-namesfont-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Fire Emblem: Gaiden",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/39705bd6b1e3ae75fc4adccc54148ccd.jpg",
+   "title": "Fire Emblem Gaiden",
+   "url": "https://cdn2.steamgriddb.com/grid/39705bd6b1e3ae75fc4adccc54148ccd.png"
   },
   "link:https://gbatemp.net/threads/dei-gratia-no-rashinban-english-translation-mod.655654/": {
    "added": "2026-10-20T12:30:37Z",
@@ -367,6 +695,118 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/3a1a6def34f8603baa1e2b33495e632c.jpg",
    "title": "Yo-kai Watch 4++",
    "url": "https://cdn2.steamgriddb.com/grid/3a1a6def34f8603baa1e2b33495e632c.png"
+  },
+  "link:https://iwakuraproductions.wordpress.com/2023/02/15/post-mortem-serial-experiments-lain-psx": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Serial Experiments Lain",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/ff1bd6e5016e5aca10356877b8726d13.jpg",
+   "title": "Serial Experiments Lain",
+   "url": "https://cdn2.steamgriddb.com/grid/ff1bd6e5016e5aca10356877b8726d13.png"
+  },
+  "link:https://mholdschool.com/viewtopic.php?t=1143": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Monster Hunter G",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/c08f6e9e6f6bd522c58177731a7c85e8.jpg",
+   "title": "Monster Hunter G",
+   "url": "https://cdn2.steamgriddb.com/grid/c08f6e9e6f6bd522c58177731a7c85e8.jpg"
+  },
+  "link:https://rarit.ee/patches.htm": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Tail Concerto",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/1deefd1ccc2ff29e32e9c5b3c39bad97.png",
+   "title": "Tail Concerto",
+   "url": "https://cdn2.steamgriddb.com/grid/1deefd1ccc2ff29e32e9c5b3c39bad97.png"
+  },
+  "link:https://romhack.ing/database/content/entry/8tNv5JQBNs8FWu0C2YAi/air-management-96-english-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Air Management '96",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/ae775f5815a88c7dc52f4a8d5cab3b24.jpg",
+   "title": "Air Management '96",
+   "url": "https://cdn2.steamgriddb.com/grid/ae775f5815a88c7dc52f4a8d5cab3b24.png"
+  },
+  "link:https://romhack.ing/database/content/entry/JR0-SV7QTySLhIDBUGCtAw/spriggan-mark-2-english-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Spriggan Mark 2: Re-Terraform Project",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/9a025f33ffc95a9e73a3b3eb2c0693b8.jpg",
+   "title": "Spriggan Mark 2 - Re Terraform Project",
+   "url": "https://cdn2.steamgriddb.com/grid/9a025f33ffc95a9e73a3b3eb2c0693b8.jpg"
+  },
+  "link:https://romhack.ing/database/content/entry/Rd8Vbzs7RI2aIJVxhpJpKw/fushigi-no-dungeon-2-fuurai-no-shiren-english-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Fushigi no Dungeon 2: Fuurai no Shiren",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/34a16a67560669a957ac2a203587f4bc.jpg",
+   "title": "Fushigi no Dungeon 2: Fuurai no Shiren",
+   "url": "https://cdn2.steamgriddb.com/grid/34a16a67560669a957ac2a203587f4bc.png"
+  },
+  "link:https://romhack.ing/database/content/entry/XTNsoT45QFecv-La1gSoQw/puyo-puyo-box-english-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Puyo Puyo BOX",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/db9764a1403e9f3769fe59101e345fd7.jpg",
+   "title": "Puyo Puyo BOX",
+   "url": "https://cdn2.steamgriddb.com/grid/db9764a1403e9f3769fe59101e345fd7.png"
+  },
+  "link:https://romhackplaza.org/translations/jojo-no-kimyou-na-bouken-ougon-no-kaze-english-translation-playstation-2": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Jojo no Kimyou na Bouken: Ougon no Kaze",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/1aa9620845e01db92bf07e8306695aba.jpg",
+   "title": "Jojo no Kimyou na Bouken: Ougon no Kaze",
+   "url": "https://cdn2.steamgriddb.com/grid/1aa9620845e01db92bf07e8306695aba.jpg"
+  },
+  "link:https://segaxtreme.net/resources/dark-seed-us-english-translation.409": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Dark Seed",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/0106aa64e5ebf8d8924cbdb7f0bcf41b.jpg",
+   "title": "Dark Seed",
+   "url": "https://cdn2.steamgriddb.com/grid/0106aa64e5ebf8d8924cbdb7f0bcf41b.png"
+  },
+  "link:https://segaxtreme.net/resources/pal-keio-flying-squadron-2.104": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Keio Flying Squadron 2",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/a77d299ee00dfee2de17de8fcd02c69a.jpg",
+   "title": "Keio Flying Squadron 2",
+   "url": "https://cdn2.steamgriddb.com/grid/a77d299ee00dfee2de17de8fcd02c69a.png"
+  },
+  "link:https://segaxtreme.net/resources/saturn-bomberman-usa-story-undub.443": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Saturn Bomberman",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/8d05220365abf618527db2c24f3854c1.jpg",
+   "title": "Saturn Bomberman",
+   "url": "https://cdn2.steamgriddb.com/grid/8d05220365abf618527db2c24f3854c1.png"
+  },
+  "link:https://segaxtreme.net/resources/silhouette-mirage-english-retranslation-patch.298": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Silhouette Mirage",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/e8d9c0dc16cef91cdf4719e3a025eb10.jpg",
+   "title": "Silhouette Mirage",
+   "url": "https://cdn2.steamgriddb.com/grid/e8d9c0dc16cef91cdf4719e3a025eb10.png"
+  },
+  "link:https://snsc3translation.github.io/index.html": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Summon Night Craft Sword Monogatari: Hajimari no Ishi",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/4fec6f5aadef67b317028c6eec96a9fc.jpg",
+   "title": "Summon Night Craft Sword Monogatari: Hajimari no Ishi",
+   "url": "https://cdn2.steamgriddb.com/grid/4fec6f5aadef67b317028c6eec96a9fc.png"
+  },
+  "link:https://www.delta-island.com/forum/viewtopic.php?t=6795": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Dark Seed II",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/ac407c5d578b9336aa1cbad419117d88.jpg",
+   "title": "Dark Seed II",
+   "url": "https://cdn2.steamgriddb.com/grid/ac407c5d578b9336aa1cbad419117d88.png"
   },
   "link:https://www.gamebrew.org/wiki/Amagami_Vita_-_English_Translation": {
    "added": "2026-10-20T12:30:37Z",
@@ -1120,6 +1560,22 @@
    "title": "Zettai Zetsumei Toshi 3",
    "url": "https://cdn2.steamgriddb.com/grid/dd0d9efb4fba9bc1bf157577f2cc3ce1.png"
   },
+  "link:https://www.projectmetafalica.com": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Ar tonelico II: Melody of Metafalica",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/647cde6efbb2fc246c3d34145d589ea7.jpg",
+   "title": "Ar tonelico II: Melody of Metafalica",
+   "url": "https://cdn2.steamgriddb.com/grid/647cde6efbb2fc246c3d34145d589ea7.png"
+  },
+  "link:https://www.romhack.ing/database/content/entry/4wWjA83mS1ylM93H-NoGpw/suzuki-bakuhatsu-english-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Suzuki Bakuhatsu",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/7c83a14a3053b1ead235987ac904b61c.jpg",
+   "title": "Suzuki Bakuhatsu",
+   "url": "https://cdn2.steamgriddb.com/grid/7c83a14a3053b1ead235987ac904b61c.png"
+  },
   "link:https://www.romhacking.net/translations/337/": {
    "added": "2026-10-20T12:30:37Z",
    "match": 1.0,
@@ -1127,6 +1583,94 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/8cc234b05dc974b46e36522aa47f105c.jpg",
    "title": "Dragon Quest I & II",
    "url": "https://cdn2.steamgriddb.com/grid/8cc234b05dc974b46e36522aa47f105c.png"
+  },
+  "link:https://www.romhacking.net/translations/6129": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Shin Megami Tensei",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/f6ea82acaa78fa2d65096bb2c51c8080.jpg",
+   "title": "Shin Megami Tensei",
+   "url": "https://cdn2.steamgriddb.com/grid/f6ea82acaa78fa2d65096bb2c51c8080.png"
+  },
+  "link:https://www.romhacking.net/translations/7628": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Bomberman Land",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/7f55a40f65ee1acd6331e7eeac926eb3.jpg",
+   "title": "Bomberman Land",
+   "url": "https://cdn2.steamgriddb.com/grid/7f55a40f65ee1acd6331e7eeac926eb3.png"
+  },
+  "link:https://www.romhacking.net/translations/7758": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Torneko no Daibouken: Fushigi no Dungeon",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/40c417d07a32c66d6c4385f95aa71332.jpg",
+   "title": "Torneko no Daibouken: Fushigi no Dungeon",
+   "url": "https://cdn2.steamgriddb.com/grid/40c417d07a32c66d6c4385f95aa71332.png"
+  },
+  "link:https://www.romhacking.net/translations/7838": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Rockman Dash: Hagane no Boukenshin",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/4f421d3dbd6f27865c9045fd4617f07b.jpg",
+   "title": "RockMan DASH: Hagane no Boukenshin",
+   "url": "https://cdn2.steamgriddb.com/grid/4f421d3dbd6f27865c9045fd4617f07b.jpg"
+  },
+  "link:https://www.romhacking.net/translations/859": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Super Robot Taisen Alpha Gaiden",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/2b3366a110dd79e4a5af1f0acec3b239.jpg",
+   "title": "Super Robot Taisen Alpha Gaiden",
+   "url": "https://cdn2.steamgriddb.com/grid/2b3366a110dd79e4a5af1f0acec3b239.png"
+  },
+  "micaelmaciel/monster-guardians-eng": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Monster Guardians",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/45a09eefe5eb32129e1e136e56b6f0eb.jpg",
+   "title": "Monster Guardians",
+   "url": "https://cdn2.steamgriddb.com/grid/45a09eefe5eb32129e1e136e56b6f0eb.png"
+  },
+  "minhnhattonthat/granbo": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Granbo",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/faa495f7423b9905fb66b70fad135085.jpg",
+   "title": "Granbo",
+   "url": "https://cdn2.steamgriddb.com/grid/faa495f7423b9905fb66b70fad135085.png"
+  },
+  "minhnhattonthat/monster-guardians-en": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Monster Guardians",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/45a09eefe5eb32129e1e136e56b6f0eb.jpg",
+   "title": "Monster Guardians",
+   "url": "https://cdn2.steamgriddb.com/grid/45a09eefe5eb32129e1e136e56b6f0eb.png"
+  },
+  "minhnhattonthat/recca-no-honoo-the-game": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Recca no Honoo: The Game",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/75df8ca95ecb474dd59bd06285abbcf7.jpg",
+   "title": "Recca No Honoo The Game",
+   "url": "https://cdn2.steamgriddb.com/grid/75df8ca95ecb474dd59bd06285abbcf7.png"
+  },
+  "mykaadev/monhun-nikki-poka-poka-airu-mura-g-psp-translation-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "MonHun Nikki: Poka Poka Airu Mura G",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/fb637d368cdd0c6d18cf546250f520e2.jpg",
+   "title": "MonHun Nikki: Poka Poka Airu Mura G",
+   "url": "https://cdn2.steamgriddb.com/grid/fb637d368cdd0c6d18cf546250f520e2.png"
+  },
+  "netrunner12/popful-mail-sfc-english-translation": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Popful Mail",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/2a2085b14cd8cf2af2e22bcc1863dba9.jpg",
+   "title": "Popful Mail",
+   "url": "https://cdn2.steamgriddb.com/grid/2a2085b14cd8cf2af2e22bcc1863dba9.jpg"
   },
   "ooa113y/umineko-catbox-english": {
    "added": "2026-10-20T12:30:37Z",
@@ -1144,6 +1688,14 @@
    "title": "Doko Demo Issyo",
    "url": "https://cdn2.steamgriddb.com/grid/7b87337fe9cb0e50b7051c67e0e432ce.jpg"
   },
+  "retro-trans/super-tokusatsu-taisen-2001": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Super Tokusatsu Taisen 2001",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/8ecff693a0b1accd14271b395fb7c7de.jpg",
+   "title": "Super Tokusatsu Taisen 2001",
+   "url": "https://cdn2.steamgriddb.com/grid/8ecff693a0b1accd14271b395fb7c7de.png"
+  },
   "rikimtasu/summon-night-5-undub": {
    "added": "2026-10-20T12:30:37Z",
    "match": 1.0,
@@ -1151,25 +1703,131 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/d9418efcbb6871c3d20f12006cb5ee25.jpg",
    "title": "Summon Night 5",
    "url": "https://cdn2.steamgriddb.com/grid/d9418efcbb6871c3d20f12006cb5ee25.png"
+  },
+  "sneekymellon/zoids-saga-gba-english-patch": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Zoids Saga",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/23659fdf7249719cf7ed06e834821bc0.jpg",
+   "title": "Zoids Saga",
+   "url": "https://cdn2.steamgriddb.com/grid/23659fdf7249719cf7ed06e834821bc0.png"
+  },
+  "wandering-heiho/vantage_master_portable_psp": {
+   "added": "2026-10-22T09:57:51Z",
+   "match": 1.0,
+   "name": "Vantage Master Portable",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/4ec6ff462040552fcd21eef056b50743.jpg",
+   "title": "Vantage Master Portable",
+   "url": "https://cdn2.steamgriddb.com/grid/4ec6ff462040552fcd21eef056b50743.jpg"
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-10-21T07:42:14Z",
+ "generated": "2026-10-22T09:57:51Z",
  "misses": {
+  "agtteam/bakedata": "2026-10-22T09:57:51Z",
+  "agtteam/baketranslation": "2026-10-22T09:57:51Z",
+  "agtteam/fmakamidata": "2026-10-22T09:57:51Z",
+  "agtteam/fmakamitranslation": "2026-10-22T09:57:51Z",
+  "agtteam/geasstranslation": "2026-10-22T09:57:51Z",
+  "agtteam/gurrendata": "2026-10-22T09:57:51Z",
+  "agtteam/gurrentranslation": "2026-10-22T09:57:51Z",
+  "agtteam/kiragamedata": "2026-10-22T09:57:51Z",
+  "agtteam/lsuccessorsdata": "2026-10-22T09:57:51Z",
+  "agtteam/lsuccessorstranslation": "2026-10-22T09:57:51Z",
+  "agtteam/mamorudata": "2026-10-22T09:57:51Z",
+  "agtteam/medusadata": "2026-10-22T09:57:51Z",
+  "agtteam/medusatranslation": "2026-10-22T09:57:51Z",
+  "agtteam/monopridata": "2026-10-22T09:57:51Z",
+  "agtteam/monopritranslation": "2026-10-22T09:57:51Z",
+  "agtteam/mushishidata": "2026-10-22T09:57:51Z",
+  "agtteam/mushishitranslation": "2026-10-22T09:57:51Z",
+  "agtteam/narutorpg2data": "2026-10-22T09:57:51Z",
+  "agtteam/narutorpg2translation": "2026-10-22T09:57:51Z",
+  "agtteam/ookami2data": "2026-10-22T09:57:51Z",
+  "agtteam/ookamidata": "2026-10-22T09:57:51Z",
+  "agtteam/ookamitranslation": "2026-10-22T09:57:51Z",
+  "agtteam/prologuedata": "2026-10-22T09:57:51Z",
+  "agtteam/prologuetranslation": "2026-10-22T09:57:51Z",
+  "agtteam/resonancedata": "2026-10-22T09:57:51Z",
+  "agtteam/shitodata": "2026-10-22T09:57:51Z",
+  "agtteam/shitotranslation": "2026-10-22T09:57:51Z",
+  "agtteam/vampiredata": "2026-10-22T09:57:51Z",
+  "akoi89/dqmj3p-english-fixed": "2026-10-22T09:57:51Z",
+  "akoi89/puyopuyotetris-3ds-english-patch": "2026-10-22T09:57:51Z",
+  "akoi89/rocketslime-3ds-english-fixup": "2026-10-22T09:57:51Z",
+  "albertodellisola/patchclan-site": "2026-10-22T09:57:51Z",
   "arceler0/okayunyumu-nsw-eng": "2026-10-20T12:30:37Z",
+  "azzulin/tales-of-radiant-mythology-3-english-translation": "2026-10-22T09:57:51Z",
+  "bentolanh/masou-kishin-english-patch": "2026-10-22T09:57:51Z",
+  "bigbanana23/london-seirei-tanteidan": "2026-10-22T09:57:51Z",
+  "blackhowling2020/kettou-beast-wars-gbc-english": "2026-10-22T09:57:51Z",
   "blashy101/clock-maker-english-patch": "2026-10-20T12:30:37Z",
   "blashy101/dadadaungoenglish": "2026-10-20T12:30:37Z",
   "blashy101/dingdongenglishpatch": "2026-10-21T07:14:34Z",
   "blashy101/irochi-mikke-english-patch": "2026-10-20T12:30:37Z",
   "blashy101/letscolorwithsanriocharactersenglish": "2026-10-20T12:30:37Z",
+  "blashy101/touchbattletankspwiiuenglish": "2026-10-22T09:57:51Z",
   "blashy101/visualquizwhat-sthisenglishpatch": "2026-10-20T12:30:37Z",
+  "bruder-grimm/animal_forest_psp": "2026-10-22T09:57:51Z",
+  "byroweb/ac1_re": "2026-10-22T09:57:51Z",
+  "caribbeansc/mdr-navi-i18n": "2026-10-22T09:57:51Z",
+  "closedsockets/tricolore-crise-english-patch": "2026-10-22T09:57:51Z",
+  "consolesplayingconsoles/game-translations": "2026-10-22T09:57:51Z",
+  "corytburns/chocobo-stallion-translation": "2026-10-22T09:57:51Z",
+  "crimsondawnacademy-design/romtranslate-studio": "2026-10-22T09:57:51Z",
+  "damon-daemon/nobunaga-ds-2-english": "2026-10-22T09:57:51Z",
+  "damon-daemon/nobunaga-soutenroku-puk-english": "2026-10-22T09:57:51Z",
+  "damon-daemon/sangokushi-6-puk-english": "2026-10-22T09:57:51Z",
+  "damon-daemon/sangokushi-ds-3-english": "2026-10-22T09:57:51Z",
+  "damon-daemon/taiko-risshiden-5-english": "2026-10-22T09:57:51Z",
+  "deucebucket/sabers-shc-english-patch": "2026-10-22T09:57:51Z",
+  "donsebastianbot/persona-psp-undub-es": "2026-10-22T09:57:51Z",
+  "eadmaster/pcrown": "2026-10-22T09:57:51Z",
+  "excalz/ps4-retranslation": "2026-10-22T09:57:51Z",
+  "exxistancedc/cyber-doll-english-translation": "2026-10-22T09:57:51Z",
+  "exxistancedc/hissatsu-english-translation": "2026-10-22T09:57:51Z",
+  "fiksr/yuno-android": "2026-10-22T09:57:51Z",
+  "flukeylukey1/nappletaleengpatchfix": "2026-10-22T09:57:51Z",
+  "gengaislop/mm8saturnundub": "2026-10-22T09:57:51Z",
+  "gingka8233/happiness-sakura-celebration-english-patch-nintendo-switch": "2026-10-22T09:57:51Z",
+  "hexerkat/langrisser3-strategy-guide": "2026-10-22T09:57:51Z",
+  "inf37sp/chn-psp-patch": "2026-10-22T09:57:51Z",
+  "itsrevela/yakuman-ds-english": "2026-10-22T09:57:51Z",
+  "kactusken/fire-pro-wrestling-g-english": "2026-10-22T09:57:51Z",
+  "kactusken/super-wrestle-angels-english": "2026-10-22T09:57:51Z",
+  "kactusken/wrestle-angels-survivor-2-english": "2026-10-22T09:57:51Z",
+  "kaisaan/gachitora": "2026-10-22T09:57:51Z",
+  "kaisaan/newtheory": "2026-10-22T09:57:51Z",
+  "kaisaan/sn1-ds-trans": "2026-10-22T09:57:51Z",
+  "kaisaan/wanderers": "2026-10-22T09:57:51Z",
+  "kakuna285/saki-zenkokuhen-plus-tl-eng": "2026-10-22T09:57:51Z",
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "2026-10-21T07:42:14Z",
+  "kodakwizard/hikaru-no-go-3-english": "2026-10-22T09:57:51Z",
+  "kotcrab/umineko-portable-english": "2026-10-22T09:57:51Z",
+  "krkpdf/pokeemerald-latin": "2026-10-22T09:57:51Z",
+  "legendarydoors/house-of-tarot-english": "2026-10-22T09:57:51Z",
+  "legendarydoors/tarot-mystery-english": "2026-10-22T09:57:51Z",
+  "lifebottle/star-ocean-2": "2026-10-22T09:57:51Z",
   "lifebottle/tales-of-phantasia-x": "2026-10-20T13:09:51Z",
+  "link:https://archive.org/details/air-english-patch-psp": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/date-a-live-twin-edition-rio-reincarnation-english-v-0.95vita-3k": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/dt-1144-a3": "2026-10-22T09:57:51Z",
   "link:https://archive.org/details/earth_defense_force_3_vita_undub_patch": "2026-10-20T13:09:51Z",
   "link:https://archive.org/details/fire_heroes_undub_patch": "2026-10-20T13:09:51Z",
+  "link:https://archive.org/details/hatsujo-switch-english-patch": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/labyrinth-island-famicom-english": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/mahou-no-shoujo-silky-lip-pal": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/mqj-c0": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/nfsu-2-sha-do-english-english-patch": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/nfsu-j-tune-english-language-select": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/nostalgia-1907-pal": "2026-10-22T09:57:51Z",
   "link:https://archive.org/details/professor_layton_ds_undub_patches": "2026-10-20T13:09:51Z",
   "link:https://archive.org/details/project_zero_3_undub_patch": "2026-10-20T13:09:51Z",
+  "link:https://archive.org/details/purpura-sancta-vita-caesaris-baronii-english": "2026-10-22T09:57:51Z",
   "link:https://archive.org/details/robot_warlords_undub_patch": "2026-10-20T13:09:51Z",
+  "link:https://archive.org/details/skylanders-english-patch-wii-u": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "2026-10-22T09:57:51Z",
   "link:https://bszelda.zeldalegends.net/ce.shtml": "2026-10-20T12:30:37Z",
   "link:https://bszelda.zeldalegends.net/fq.shtmll": "2026-10-20T12:30:37Z",
   "link:https://gamebanana.com/mods/480082": "2026-10-20T12:30:37Z",
@@ -1185,12 +1843,21 @@
   "link:https://gbatemp.net/threads/menherafflesia-flowering-abyss-english-translation-mod.656636/": "2026-10-20T12:30:37Z",
   "link:https://gbatemp.net/threads/ouchi-de-rilakkuma-rilakkuma-ga-ouchi-ni-yatte-kita-english-translation-patch.668464/": "2026-10-20T12:30:37Z",
   "link:https://gbatemp.net/threads/release-gundemonims-english-patch.504100/": "2026-10-21T07:14:34Z",
+  "link:https://gbatemp.net/threads/rockman-zx-mega-man-zx-full-undub.492408": "2026-10-22T09:57:51Z",
   "link:https://gbatemp.net/threads/saikoro-psycho-seventh-heaven-english-translation-mod.656500/": "2026-10-21T07:14:34Z",
   "link:https://gbatemp.net/threads/tabe-o-ja-eng-lish-translation-project.592472/": "2026-10-20T12:30:37Z",
   "link:https://gbatemp.net/threads/toaru-majutsu-no-virtual-on-english-translation-xdelta-patches.679584/": "2026-10-20T12:30:37Z",
   "link:https://gbatemp.net/threads/wip-rasenreijo-spiral-hair-super-lady-makina-english-patch.646890/": "2026-10-20T12:30:37Z",
   "link:https://gbatemp.net/threads/yu-gi-oh-rush-duel-saikyo-battle-royale-lets-go-go-rush-2022-eng-translation.657123/": "2026-10-21T07:14:34Z",
   "link:https://gertram.github.io/OregairuVitaSwitch/oregairu_zoku.html": "2026-10-21T07:14:34Z",
+  "link:https://romhack.ing/database/content/entry/-fQC78bOQKq64yezGGgHmw/madou-monogatari-english-translation": "2026-10-22T09:57:51Z",
+  "link:https://romhackplaza.org/translations/ghost-sweeper-mikami-the-excorcist-with-a-nice-body-english-translation-super-nintendo": "2026-10-22T09:57:51Z",
+  "link:https://romhackplaza.org/translations/macross-do-you-remember-love-english-translation-playstation": "2026-10-22T09:57:51Z",
+  "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": "2026-10-22T09:57:51Z",
+  "link:https://romhackplaza.org/translations/quackshot-starring-donald-duck-force-english-text-english-translation-sega-genesis": "2026-10-22T09:57:51Z",
+  "link:https://romhackplaza.org/translations/street-fighter-alpha-3-english-translation-sega-saturn": "2026-10-22T09:57:51Z",
+  "link:https://segaxtreme.net/resources/keio-flying-squadron-2-japan-english-ntsc.435": "2026-10-22T09:57:51Z",
+  "link:https://usagiru.blogspot.com/2020/03/ps2-iso-kof-maximum-impact-collection.html": "2026-10-22T09:57:51Z",
   "link:https://www.gamebrew.org/wiki/AIR_English_Translation_Patch_Vita": "2026-10-20T12:30:37Z",
   "link:https://www.gamebrew.org/wiki/Ace_Attorney_The_Complete_Series_Undub": "2026-10-20T12:30:37Z",
   "link:https://www.gamebrew.org/wiki/Amamane_Vita_-_English_Translation": "2026-10-20T12:30:37Z",
@@ -1265,10 +1932,58 @@
   "link:https://www.gamebrew.org/wiki/Yu-Gi-Oh_Saikyo_Card_Battle_English_Translation_3DS": "2026-10-20T12:30:37Z",
   "link:https://www.gamebrew.org/wiki/Zanki_Zero_English_Patch_Vita": "2026-10-20T12:30:37Z",
   "link:https://www.gamebrew.org/wiki/Zoids_Saga_DS_English_Translation": "2026-10-21T07:14:34Z",
+  "link:https://www.patchclan.com": "2026-10-22T09:57:51Z",
+  "link:https://www.romhacking.net/translations/1375": "2026-10-22T09:57:51Z",
+  "link:https://www.romhacking.net/translations/1682": "2026-10-22T09:57:51Z",
+  "link:https://www.romhacking.net/translations/2260": "2026-10-22T09:57:51Z",
   "link:https://www.romhacking.net/translations/5370/": "2026-10-20T12:30:37Z",
   "link:https://www.romhacking.net/translations/712/": "2026-10-20T12:30:37Z",
+  "link:https://www.romhacking.net/translations/7640": "2026-10-22T09:57:51Z",
+  "link:https://www.romhacking.net/translations/7692": "2026-10-22T09:57:51Z",
+  "llamapixels/gundam-assault-survive-100-english-translation-patch--psp": "2026-10-22T09:57:51Z",
   "masagrator/higurashienx": "2026-10-21T07:14:34Z",
-  "thesola10/yc_english": "2026-10-20T12:30:37Z"
+  "megastylerc/idolmaster-dearly-stars-english": "2026-10-22T09:57:51Z",
+  "mgdays/kisekko-gurumi-eng-patch-tools": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/cb-chara-wars-en": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/dolucky-no-a-league-soccer": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/erementar-gerad": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/evangelion-sound-impact-en": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/gachasute-dino-device-2-en": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/great-battle-gaiden-2-english": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/kabuki-rocks": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/kidou-senshi-gundam-seed-destiny": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/little-master-en": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/smt-devil-children-2-honoo-no-sho": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/sugoro-quest-dicenics-en": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/super-gomoku-narabe-translation": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/translate-retro-game": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/yu-yu-hakusho-2-english": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/zero-one-sp-english": "2026-10-22T09:57:51Z",
+  "mr-shizzy/everybodys-golf-coca-cola-psp-english-patch": "2026-10-22T09:57:51Z",
+  "mys7icfox/evangelion2-en-patch": "2026-10-22T09:57:51Z",
+  "neokitsune5/qg_english_patch": "2026-10-22T09:57:51Z",
+  "nn-exe/pokemon-hyper-emerald-5.7-qol": "2026-10-22T09:57:51Z",
+  "nonagongoron/tornekos-great-adventure-sfc-with-remaster-script": "2026-10-22T09:57:51Z",
+  "nrlemo/super-robot-wars-alpha-psx-english-ver": "2026-10-22T09:57:51Z",
+  "originheartgold/origin-heart-gold-en-translation": "2026-10-22T09:57:51Z",
+  "phamkv/gotokano": "2026-10-22T09:57:51Z",
+  "phukyes/gunparade-march-english": "2026-10-22T09:57:51Z",
+  "pokemongodb/wonderswan-english-patches": "2026-10-22T09:57:51Z",
+  "promptpirate-x/evangelion-64-english": "2026-10-22T09:57:51Z",
+  "redeted/megami-ibunroku-persona-ps1-translation": "2026-10-22T09:57:51Z",
+  "retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation": "2026-10-22T09:57:51Z",
+  "rockefellera/tdq-en": "2026-10-22T09:57:51Z",
+  "satelliteoflove/dimguil-english": "2026-10-22T09:57:51Z",
+  "saupernova13/kamigami-no-asobi-psp-en": "2026-10-22T09:57:51Z",
+  "scatterdbrain/pachipara-12-oumi-to-natsu-no-omoide-ps2-english-translation-patch": "2026-10-22T09:57:51Z",
+  "scienceandresearch/ogre-battle-gaiden-english-plus": "2026-10-22T09:57:51Z",
+  "smokej-git/letsgo-eternal-wings-english": "2026-10-22T09:57:51Z",
+  "tangobunny/gb-sailor-moon-english": "2026-10-22T09:57:51Z",
+  "thesola10/yc_english": "2026-10-20T12:30:37Z",
+  "topcatromhacking-lgtm/dragon-quest-heroes-switch-english-undub": "2026-10-22T09:57:51Z",
+  "yingyangtongxue/detective-conan-kakokara-nds-en-patch": "2026-10-22T09:57:51Z",
+  "zlotny/digimon-adventure-psp-translation-kit": "2026-10-22T09:57:51Z"
  },
  "version": 1
 }
