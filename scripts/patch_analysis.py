@@ -581,5 +581,10 @@ def parse_cdromance_post(url, h, category=""):
     label = "Machine translation" if mtl else ("Human translation" if english and re.search(r"english patched|english translat|english \(", probe, re.I) else ("Undub" if undub else "Human translation"))
     console = field(text, ["Console", "Platform", "System"], r"([^\n]{2,40})")
     plat = CDR_CATEGORIES.get(category) or detect_platform(console) or detect_platform(category.replace("-", " ").replace("_", " ") + " " + title)
-    return {"src": src, "more": links[1:4], "title": clean_cdr_title(title), "authors": auth[:6], "platform": plat, "label": label, "undub": undub,
+    # the game information table names the game ("Game Name") and its Japanese title ("Original Title")
+    name = field(text, ["Game Name", "Name"], r"([^\n]{2,120})")
+    jp = field(text, ["Original Title", "Japanese Title"], r"([^\n]{1,120})")
+    jp = jp if re.search(r"[\u3040-\u30ff\u4e00-\u9fff]", jp or "") else ""
+    return {"src": src, "more": links[1:4], "title": clean_cdr_title(title), "name": clean_cdr_title(name) if name else "", "jp": jp,
+            "authors": auth[:6], "platform": plat, "label": label, "undub": undub,
             "notConsole": bool(CDR_NOT_CONSOLE.search(category))}

@@ -658,7 +658,7 @@ function foundProjects(list){
   const out=[];
   for(const e of list){if(!e||typeof e!=="object"||!/^https?:\/\//i.test(String(e.l||""))||ROM_SITE.test(hostOf(e.l)))continue;
     const k=e.k?String(e.k).toLowerCase():null;
-    out.push({id:k||("link:"+normLink(e.l)),k,g:String(e.g||""),jp:"",p:String(e.p||"Unknown"),lb:cleanLabels(e.lb)||["Human translation"],l:String(e.l),
+    out.push({id:k||("link:"+normLink(e.l)),k,g:String(e.g||""),jp:String(e.jp||""),p:String(e.p||"Unknown"),lb:cleanLabels(e.lb)||["Human translation"],l:String(e.l),
       src:String(e.src||"Found automatically"),grp:String(e.grp||""),d:String(e.d||""),fa:String(e.fa||""),found:true});}
   return out;
 }

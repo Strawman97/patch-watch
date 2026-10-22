@@ -628,9 +628,9 @@ def archive_candidates(watch, prev, known, bad):
 CDR_BASE = os.environ.get("PW_CDR_BASE", "https://cdromance.org")
 CDR_LISTS = ["/translations/", "/translations/?language=undub"]
 CDR_PAGES = int(os.environ.get("PW_CDR_PAGES", "3"))              # listing pages read per section (about 20 posts each)
-MAX_CDR_POSTS = int(os.environ.get("PW_MAX_CDR_POSTS", "120"))     # new posts opened per run
+MAX_CDR_POSTS = int(os.environ.get("PW_MAX_CDR_POSTS", "200"))     # new posts opened per run
 CDR_DELAY = float(os.environ.get("PW_CDR_DELAY", "1.5"))
-CDR_V = 6                                                        # bumped when post reading changes: skipped posts are read again
+CDR_V = 7                                                        # bumped when post reading changes: skipped posts are read again
 
 def cdr_hash(cat, slug):
     return hashlib.sha1(f"{cat}/{slug}".encode()).hexdigest()[:16]
@@ -711,7 +711,8 @@ def cdromance_candidates(prev_seen, cursor=None):
                 skipped[r] = skipped.get(r, 0) + 1
                 seen[hk] = {"src": "", "why": r}
                 continue
-            rec = {k: info[k] for k in ("src", "title", "platform", "label", "authors", "undub") if info.get(k)}
+            rec = {k: info[k] for k in ("src", "title", "name", "jp", "platform", "label", "authors", "undub") if info.get(k)}
+            rec["r"] = CDR_V
             if from_undub:
                 rec["undub"] = True
             seen[hk] = rec
@@ -722,7 +723,8 @@ def cdromance_candidates(prev_seen, cursor=None):
             label = "Undub"
         desc = "Credited source of a new release" + (f" by {', '.join(rec['authors'])}" if rec.get("authors") else "") + (" (also undubbed)" if rec.get("undub") and label != "Undub" else "")
         rec["src"] = A.norm_source(rec["src"])
-        items.append({"url": rec["src"], "title": A.clean_cdr_title(rec.get("title")), "platform": rec.get("platform"), "label": label,
+        items.append({"url": rec["src"], "title": rec.get("name") or A.clean_cdr_title(rec.get("title")), "jp": rec.get("jp"),
+                      "alt": A.clean_cdr_title(rec.get("title")) if rec.get("name") else None, "platform": rec.get("platform"), "label": label,
                       "src": "Credited on CDRomance", "desc": desc, "authors": rec.get("authors"),
                       "k": (lambda m: m.group(1).lower() if m else None)(re.match(r"https?://github\.com/([^/]+/[^/#?]+)", rec["src"]))})
     log(f"  CDRomance: {len(done)} recent posts, {opened} newly read, {len(items)} credited sources" +
@@ -750,6 +752,45 @@ def source_rank(u):
     h = A.host_of(u)
     return next((i for i, s in enumerate(SOURCE_RANK) if h == s or h.endswith("." + s)), len(SOURCE_RANK))
 
+GENERIC_REPO_WORD = re.compile(r"(rom)?translat\w*|rom|roms|retro|games?|studio|tools?|toolkit|kit|patch\w*|site|project|hacks?|romhacks?|english|eng|en|fan|tl|ai|gpt|llm|auto\w*|data|the|for|and", re.I)
+TOOL_DESC = re.compile(r"agent skill|translate (retro |japanese |your )?(roms?|games)\b|with ai on your own|\bany (game|rom)s?\b|toolkit for|framework for|library for|strategy guide|walkthrough|android port|\bios port|native port|website\b|\.com\s+[-–—]|\btranslation data for\b|reverse[- ]engineering tooling", re.I)
+MULTI_DESC = re.compile(r"\b(patches|translations|hacks)\b[^.]{0,60}\bgames\b|\bvarious games\b|\bseveral games\b|\bmultiple games\b|\bcollection of\b", re.I)
+MORE_LANGS = re.compile(r"\b(farsi|persian|latin|hebrew|greek|catalan|galician|basque|romanian|hungarian|czech|swedish|norwegian|danish|finnish|dutch|malay|tagalog|filipino|hindi|bengali)\b|[-_](es|pt|br|ptbr|fr|de|it|ru|zh|cn|ko|vi|id|pl|tr|ar|fa|la)$", re.I)
+DESC_GAME = [re.compile(p, re.I) for p in [
+    r"\b(?:translation|translated|patch(?:es)?|undub|re-?translation|locali[sz]ation|fix-?up|rebuild|translation patch project|translation project|fan[- ]translation)\b(?:\s+(?:project|patch(?:es)?|work))?\s+(?:for|of)\s+(?:the\s+)?(?:japanese\s+)?(?:(?:ps ?vita|psp|gba|nds|snes|sfc|ps[1-3]|sega dreamcast|nintendo ds)\s+)?(?:game,?\s+)?(?P<g>.+?)(?=\s+\(|\s+(?:for|on)\s+(?:the\s+)?(?:nintendo|sega|sony|super|ps|psp|nds|ds\b|gba|snes|sfc|wii|3ds|switch|playstation|game ?boy|neo|n64|gamecube|famicom|saturn|dreamcast|mega|genesis|wonderswan|pc engine|ppsspp)|[.;]\s|,\s|\s+[-–—]\s|:\s+xdelta|\s*$)",
+    r"^(?P<g>[A-Z][^.()]{2,80}?)\s+(?:\((?:[^)]*)\)\s+)?(?:english\s+)?(?:fan[- ]?)?(?:translation|patch|undub)\b"]]
+
+def repo_name_words(name):
+    words = re.findall(r"[a-z0-9]+", re.sub(r"([a-z])([A-Z])", r"\1 \2", name).lower())
+    return [w for w in words if not GENERIC_REPO_WORD.fullmatch(w)]
+
+GAME_KEYWORD = re.compile(r"(english|eng|fan|translation|translated|patch(es)?|undub|project|game|rom|iso)", re.I)
+
+def desc_game(desc, name):
+    """The game a repository is for, as its description names it ("English translation of Hanjuku Hero (SNES)").
+    The name has to fit the repository's own name (shared words, or its initials) so a stray phrase isn't taken."""
+    words = repo_name_words(name)
+    found = []
+    for rx in DESC_GAME:
+        for m in rx.finditer(desc or ""):
+            g = re.sub(r"^[\"'“”]+|[\"'“”]+$", "", m.group("g")).strip(" –:,")
+            g = re.sub(r"^(?:the\s+)?(?:\d{4}\s+)?(?:release|version|edition)\s+of\s+", "", g, flags=re.I)
+            g = re.split(r"\s+(?:made|built|using|by|that|which|based|featuring)\s", g)[0]
+            g = re.split(r"\b(?:translation|patch|undub)\s+(?:of|for)\s+", g, flags=re.I)[-1]
+            g = re.sub(r"\s+[-–—]+$", "", g)
+            g = g.title() if g == g.lower() else g
+            g = A.clean_cdr_title(g).rstrip(". ") or g
+            if not (2 <= len(g) <= 90) or GAME_KEYWORD.fullmatch(g) or re.search(r"\b(games|roms|your|any|unofficial|fix-?up|translation|patch|english)\b", g, re.I):
+                continue
+            flat = re.sub(r"[^a-z0-9]", "", g.lower())
+            initials = "".join(w[0] for w in re.findall(r"[A-Za-z0-9]+", g)).lower()
+            if not words or len("".join(words)) <= 3 or any(w in flat or (len(flat) >= 3 and flat in w) or w == initials for w in words):
+                found.append(g)
+        if found:
+            return found[-1]                               # "fix-up for X's translation of GAME": the last one is the game
+    return ""
+
+
 def auto_add_reason(it, tracked):
     """Why a found patch is not added to the list on its own ("" = add it). tracked: (title, platform, label) of everything listed."""
     u, title, plat = it.get("url") or "", (it.get("title") or "").strip(), it.get("platform")
@@ -764,7 +805,15 @@ def auto_add_reason(it, tracked):
     if (NON_ENGLISH.search(text) or NON_ENGLISH_URL.search(u)) and not re.search(r"\benglish\b|\beng\b", text, re.I):
         return "not English"
     if host in ("github.com", "gitlab.com"):
-        name = u.rstrip("/").split("/")[-1].replace("-", " ").replace("_", " ")
+        raw_name = u.rstrip("/").split("/")[-1]
+        name = raw_name.replace("-", " ").replace("_", " ")
+        desc = it.get("desc") or ""
+        if TOOL_DESC.search(desc) or not repo_name_words(raw_name) and not it.get("gameFromDesc"):
+            return "a tool, not a patch"
+        if MULTI_DESC.search(desc) or re.search(r"(patches|translations|romhacks|hacks)$", raw_name, re.I) and not it.get("gameFromDesc"):
+            return "several games in one project"
+        if MORE_LANGS.search(raw_name) or MORE_LANGS.search(desc[:160]) and not re.search(r"\benglish\b", desc[:160], re.I):
+            return "not English"
         if TOOL_REPO.search(name + " " + (it.get("desc") or "")[:120]) and not re.search(r"translat|undub|english|localiz|\beng\b", name, re.I):
             return "a tool, not a patch"
         if it.get("src") == "Credited on CDRomance" and A.title_overlap(u, title) == 0:
@@ -786,8 +835,18 @@ def auto_add(found_items, base_projects, over):
     ignored = {norm_link(u) for u in (over.get("ignoreFound") or [])}
     prev = {norm_link(p["l"]): p for p in load_found()}
     cands = [{"url": p["l"], "k": p.get("k"), "title": p.get("g"), "platform": p.get("p"), "label": (p.get("lb") or ["Human translation"])[0],
-              "src": p.get("src"), "authors": p.get("grp"), "desc": p.get("d"), "found": p.get("fa")} for p in prev.values()]
+              "src": p.get("src"), "authors": p.get("grp"), "desc": p.get("d"), "found": p.get("fa"), "jp": p.get("jp")} for p in prev.values()]
     cands += [it for it in found_items if norm_link(it.get("url")) not in prev]
+    # CDRomance's name for a game wins when it credits the same project another source found
+    cdr_by_url = {norm_link(it["url"]): it for it in found_items if it.get("src") == "Credited on CDRomance"}
+    for it in cands:
+        c = cdr_by_url.get(norm_link(it.get("url")))
+        if c and it.get("src") != "Credited on CDRomance":
+            it["title"], it["jp"] = c.get("title") or it.get("title"), c.get("jp") or it.get("jp")
+        elif re.search(r"(github|gitlab)\.com/", it.get("url") or "") and it.get("src") != "Credited on CDRomance":
+            g = desc_game(it.get("desc"), (it.get("url") or "").rstrip("/").split("/")[-1])
+            if g:
+                it["title"], it["gameFromDesc"] = g, True
     cands.sort(key=lambda it: (source_rank(it.get("url") or ""), it.get("found") or NOW))
     tracked = [(p.get("g") or "", p.get("p"), (p.get("lb") or ["Human translation"])[0]) for p in base_projects]
     known = {norm_link(p.get("l")) for p in base_projects} | {p.get("k") for p in base_projects if p.get("k")}
@@ -801,7 +860,7 @@ def auto_add(found_items, base_projects, over):
             why[r] = why.get(r, 0) + 1
             continue
         lb = it.get("label") or "Human translation"
-        e = {"id": k or "link:" + u, "k": k, "g": tidy_title(it["title"]), "p": it["platform"], "lb": [lb], "l": u, "src": it.get("src") or "Found automatically",
+        e = {"id": k or "link:" + u, "k": k, "g": it["title"].strip() if it.get("gameFromDesc") else tidy_title(it["title"]), "jp": it.get("jp"), "p": it["platform"], "lb": [lb], "l": u, "src": it.get("src") or "Found automatically",
              "grp": it.get("authors") if isinstance(it.get("authors"), str) else ", ".join(it.get("authors") or []),
              "d": "" if (it.get("desc") or "").startswith("Credited source") else (it.get("desc") or "")[:240], "fa": it.get("found") or NOW}
         out.append({k2: v for k2, v in e.items() if v not in (None, "", [])})
@@ -882,8 +941,8 @@ def refresh_discover(projects):
         if data.get("cdromanceV") != CDR_V:              # read again: posts without a usable source or platform
             def still_good(v):
                 src = v.get("src") or ""
-                if not src or not v.get("platform") or A.NOT_SOURCE.search(src):
-                    return False
+                if not src or not v.get("platform") or A.NOT_SOURCE.search(src) or v.get("r") != CDR_V:
+                    return False                             # read again (this version also takes the game's name and Japanese title)
                 # a repository that shares no word with the game may be another project the post also linked
                 return not (re.search(r"github\.com|gitlab\.com", src) and A.title_overlap(src, v.get("title")) == 0)
             prev_seen = {k: v for k, v in prev_seen.items() if still_good(v)}

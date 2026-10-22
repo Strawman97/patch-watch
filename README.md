@@ -189,8 +189,11 @@ A found patch is added to the list only if:
 - it has a console or handheld platform (patches whose platform can't be worked out are left out, which drops most stray GitHub results);
 - its link is a patch page or project, not a social post, store page, download host or ROM site;
 - it's English (Spanish, Portuguese, French and other translations are left out);
-- a GitHub or GitLab repository is a translation or undub rather than a tool, and a repository credited on CDRomance shares words with the game it was credited for;
+- a GitHub or GitLab repository is a translation or undub for one game: translation tools, AI translation kits, data-only repositories, strategy guides, ports and repositories covering several games are left out, and a repository credited on CDRomance has to share words with the game it was credited for;
+- it isn't for another language (Spanish, Portuguese, Farsi, Latin and so on, including repositories ending in `-es`, `-pt` and similar);
 - it isn't a gameplay hack;
 - the same game isn't already listed on the same platform with the same label (the same patch posted on another site). When two finds are the same game, the one on Romhacking.net, Romhack Plaza, romhack.ing or GitHub is kept.
 
-The refresh log's **added to the list** line counts what was added and why the rest wasn't. Names taken from repository names (such as `ShitoData`) can be poor: fix the title in the project's edits panel, and the cover lookups use the corrected name on the next run.
+The refresh log's **added to the list** line counts what was added and why the rest wasn't.
+
+Names: a game found through CDRomance takes the post's **Game Name** (usually the English title) and **Original Title** (the Japanese title, which helps the cover lookups); this also renames a GitHub project when CDRomance credits it. A GitHub repository otherwise takes the game's name from its description ("English translation of Ys III: Wanderers From Ys on PS2"), and only falls back to the repository's name when the description doesn't name the game. Anything still wrong can be fixed in the project's edits panel.
