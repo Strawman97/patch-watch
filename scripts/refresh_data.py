@@ -635,8 +635,18 @@ CDR_V = 6                                                        # bumped when p
 def cdr_hash(cat, slug):
     return hashlib.sha1(f"{cat}/{slug}".encode()).hexdigest()[:16]
 
-def cdromance_candidates(prev_seen):
-    """Returns (items, seen). seen maps a post hash to the source it credits ("" when it credits none worth listing)."""
+CDR_BACKFILL_PAGES = int(os.environ.get("PW_CDR_BACKFILL_PAGES", "40"))   # older listing pages walked per run until the back catalogue is done
+
+def cdr_listing(path):
+    h = (http_get(CDR_BASE + path) or b"").decode("utf-8", "replace")
+    if re.search(r"cf-chl|challenge-platform|Just a moment", h[:5000]):
+        raise RuntimeError("asked for a browser check")
+    return A.cdromance_posts(h)
+
+def cdromance_candidates(prev_seen, cursor=None):
+    """Returns (items, seen, cursor). seen maps a post hash to the source it credits ("" when it credits none worth listing).
+    cursor remembers how far into the older listing pages the back catalogue has been read (0 = all done)."""
+    cursor = dict(cursor or {})
     posts, blocked = [], False
     for lst in CDR_LISTS:
         for n in range(1, CDR_PAGES + 1):
@@ -654,6 +664,30 @@ def cdromance_candidates(prev_seen):
             time.sleep(CDR_DELAY)
         if blocked:
             break
+    # The back catalogue: a few older listing pages each run, only as many as this run can read, so nothing is skipped
+    budget = MAX_CDR_POSTS - len({cdr_hash(c, s) for c, s, _u, _x in posts} - set(prev_seen))
+    listed = {cdr_hash(c, s) for c, s, _u, _x in posts}
+    for lst in ([] if blocked else CDR_LISTS):
+        n, walked = cursor.get(lst, CDR_PAGES + 1), 0
+        while n and budget > 0 and walked < CDR_BACKFILL_PAGES:
+            time.sleep(CDR_DELAY)
+            try:
+                got = cdr_listing(lst.replace("/translations/", f"/translations/page/{n}/"))
+            except Exception as e:
+                log(f"  CDRomance older listing page couldn't be read ({e})"); break
+            walked += 1
+            if not got:
+                n = 0                                          # past the last page: the back catalogue is done
+                break
+            new = {cdr_hash(c, s) for c, s, _u in got} - set(prev_seen) - listed
+            if len(new) > budget:
+                break                                          # finished on a later run
+            posts += [(c, s, u, "undub" in lst) for c, s, u in got]
+            listed |= new
+            budget -= len(new)
+            n += 1
+        cursor[lst] = n
+    left = [lst for lst in CDR_LISTS if cursor.get(lst)]
     seen, items, opened, skipped = dict(prev_seen), [], 0, {}
     done = set()
     for cat, slug, url, from_undub in posts:
@@ -693,7 +727,8 @@ def cdromance_candidates(prev_seen):
                       "k": (lambda m: m.group(1).lower() if m else None)(re.match(r"https?://github\.com/([^/]+/[^/#?]+)", rec["src"]))})
     log(f"  CDRomance: {len(done)} recent posts, {opened} newly read, {len(items)} credited sources" +
         (f", skipped: {', '.join(f'{v} {k}' for k, v in skipped.items())}" if skipped else ""))
-    return items, seen
+    log("  CDRomance back catalogue: " + ("all read" if not left else "continuing from " + ", ".join(f"page {cursor[l]} of {'undubs' if 'undub' in l else 'translations'}" for l in left)))
+    return items, seen, cursor
 
 
 # ---------------------------------------------------------------- adding found patches automatically
@@ -852,7 +887,7 @@ def refresh_discover(projects):
                 # a repository that shares no word with the game may be another project the post also linked
                 return not (re.search(r"github\.com|gitlab\.com", src) and A.title_overlap(src, v.get("title")) == 0)
             prev_seen = {k: v for k, v in prev_seen.items() if still_good(v)}
-        cdr, data["cdromanceSeen"] = cdromance_candidates(prev_seen)
+        cdr, data["cdromanceSeen"], data["cdromanceCursor"] = cdromance_candidates(prev_seen, data.get("cdromanceCursor"))
         data["cdromanceV"] = CDR_V
         for it in cdr:
             ident = A.archive_id(it["url"]) if "archive.org/" in it["url"] else ""
