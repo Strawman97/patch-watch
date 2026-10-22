@@ -614,7 +614,7 @@ CDR_LISTS = ["/translations/", "/translations/?language=undub"]
 CDR_PAGES = int(os.environ.get("PW_CDR_PAGES", "3"))              # listing pages read per section (about 20 posts each)
 MAX_CDR_POSTS = int(os.environ.get("PW_MAX_CDR_POSTS", "120"))     # new posts opened per run
 CDR_DELAY = float(os.environ.get("PW_CDR_DELAY", "1.5"))
-CDR_V = 2                                                        # bumped when post reading changes: skipped posts are read again
+CDR_V = 3                                                        # bumped when post reading changes: skipped posts are read again
 
 def cdr_hash(cat, slug):
     return hashlib.sha1(f"{cat}/{slug}".encode()).hexdigest()[:16]

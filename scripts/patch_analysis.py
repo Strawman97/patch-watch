@@ -437,7 +437,7 @@ def parse_archive_item(ident, j):
 # CDRomance's translation and undub sections are read only to learn about new patches. Patch Watch never links to,
 # stores or shows a CDRomance page: each post's credited "Source:" link is followed and only that original page is listed.
 ROM_SITE = re.compile(r"romsfun|cdromance|ziperto|romspedia|vimm|coolrom|emuparadise|nsw2u|nswgame|wowroms|romsgames|consoleroms|romhustler|edgeemu|freeroms|romsmania|retrostic|romulation|retrogametalk|nxbrew|hexrom|downloadroms|romspure", re.I)
-NOT_SOURCE = re.compile(r"facebook\.com|twitter\.com|x\.com/intent|reddit\.com/submit|pinterest|tumblr\.com/share|whatsapp|t\.me/share|mailto:|/community/\d|/forum/|discord\.(gg|com/invite)|patreon|ko-?fi|paypal|youtube\.com|youtu\.be|wikipedia\.org|mobygames|gamefaqs|redump|no-intro|datomatic|imgur|amazon\.|ebay\.", re.I)
+NOT_SOURCE = re.compile(r"facebook\.com|twitter\.com|x\.com/intent|reddit\.com/submit|pinterest|tumblr\.com/share|whatsapp|t\.me/share|mailto:|/community/\d|/members?/|/profile/|/users?/\d|discord\.(gg|com/invite)|patreon|ko-?fi|paypal|youtube\.com|youtu\.be|wikipedia\.org|mobygames|gamefaqs|redump|no-intro|datomatic|imgur|amazon\.|ebay\.", re.I)
 CDR_CATEGORIES = {
     "psx-iso": "PS1", "psx2psp-eboots": "PS1", "ps2-iso": "PS2", "psp": "PSP", "ps-vita": "PS Vita", "psvita": "PS Vita", "ps3-iso": "PS3",
     "nes-roms": "NES", "famicom-disk-system": "FDS", "snes-rom": "SNES", "n64-roms": "N64", "gamecube": "GameCube", "wii-iso": "Wii", "wii": "Wii",
@@ -465,12 +465,38 @@ def cdromance_posts(h):
 
 def _section(h, label):
     """The HTML between a heading or bold label such as "Source:" and the next heading."""
-    m = re.search(r"<(h[1-6]|strong|b|dt|th)\b[^>]*>\s*(?:<[^>]+>\s*)*" + label + r"\s*:?\s*(?:</[^>]+>\s*)*", h, re.I)
+    m = re.search(r"<(h[1-6]|strong|b|dt|th)(?=[\s>])[^>]*>\s*(?:<[^>]+>\s*)*" + label + r"\s*:?\s*(?:</[^>]+>\s*)*", h, re.I)
     if not m:
         return ""
     rest = h[m.end():]
     end = re.search(r"<h[1-6]\b|<(strong|b|dt|th)\b[^>]*>\s*[A-Z][\w ]{2,30}:\s*<", rest, re.I)
     return rest[:end.start() if end else 4000]
+
+
+IMG_LINK = re.compile(r"\.(png|jpe?g|gif|webp|bmp)(\?|$)|/wp-content/uploads/", re.I)
+PATCH_PAGE = re.compile(r"romhacking\.net/(translations|hacks|homebrew|utilities)/\d+|romhackplaza\.org/|github\.com/[^/]+/[^/#?]+|gitlab\.com/[^/]+/|"
+                        r"gbatemp\.net/threads/|archive\.org/details/|\.itch\.io/|gamebrew\.org/wiki/|segaxtreme\.net/resources/|"
+                        r"viewtopic\.php|/threads?/|/forums?/[^/]+/\d|translat|undub|patch|/projects?/|neocities|wordpress\.com|blogspot\.|tumblr\.com/post", re.I)
+
+
+def _post_body(h):
+    """The post itself: from the title to the download section, without menus, sidebars and related posts."""
+    low = h.lower()
+    a = low.find("<h1")
+    a = a if a >= 0 else 0
+    ends = [i for i in (low.find("related games", a), low.find("<h2", low.find(">download", a)) if low.find(">download", a) >= 0 else -1,
+                        low.find(">download", a), low.find('id="comments"', a), low.find("<aside", a), low.find("<footer", a)) if i > a]
+    return h[a:min(ends)] if ends else h[a:]
+
+
+def _source_html(body):
+    """HTML after a "Source:" / "Sources:" / "Original source:" label (heading, bold or plain line) up to the next heading or label."""
+    m = re.search(r">\s*(?:Original\s+)?Sources?\s*:?\s*<|(?:^|>|\n)\s*(?:Original\s+)?Sources?\s*:", body, re.I)
+    if not m:
+        return ""
+    rest = body[m.end():]
+    end = re.search(r"<h[1-6]\b|<(strong|b)\b[^>]*>\s*[A-Z][\w ]{2,30}:?\s*</(strong|b)>|\n\s*[A-Z][\w ]{2,30}:\s", rest)
+    return rest[:end.start() if end else 3000]
 
 
 def parse_cdromance_post(url, h, category=""):
@@ -493,23 +519,29 @@ def parse_cdromance_post(url, h, category=""):
     english = bool(re.search(r"english", probe, re.I))
     if not undub and not english:
         return {"skip": "not English"}
-    src_html = _section(h, r"Sources?") or _section(h, r"Original (?:source|release|patch)")
+    # The credit is written several ways: a "Source(s):" heading or line, an info box whose "Version" links to the patch
+    # page, or a link in the description. Links under a "Source" label win, then links that look like patch pages.
+    body = _post_body(h)
     links = []
-    for u, _t in anchors(url, src_html):
-        if not u.startswith("http") or ROM_SITE.search(u) or NOT_SOURCE.search(u) or u in links:
-            continue
-        links.append(u)
-    if not links:   # a bare URL written as text
-        for u in re.findall(r"https?://[^\s<>\"']+", html_text(src_html)):
-            if not ROM_SITE.search(u) and not NOT_SOURCE.search(u) and u not in links:
-                links.append(u)
+    def keep(u):
+        return u.startswith("http") and not ROM_SITE.search(u) and not NOT_SOURCE.search(u) and not IMG_LINK.search(u) and u not in links
+    for u, _t in anchors(url, _source_html(body)):
+        if keep(u):
+            links.append(u)
+    for u in re.findall(r"https?://[^\s<>\"']+", html_text(_source_html(body))):
+        u = u.rstrip(").,;")
+        if keep(u):
+            links.append(u)
+    if not links:
+        others = [u for u, _t in anchors(url, body)] + [u.rstrip(").,;") for u in re.findall(r"https?://[^\s<>\"']+", html_text(body))]
+        links = [u for u in dict.fromkeys(others) if keep(u) and PATCH_PAGE.search(u)]
     if not links:
         return {"skip": "no credited source"}
     src = links[0]
     if re.search(r"romhacking\.net/hacks/", src, re.I) and not undub:
         return {"skip": "gameplay hack"}
-    auth = [t for _u, t in anchors(url, _section(h, r"Patch authors?|Authors?|Credits?")) if t] or \
-           [t.strip() for t in re.split(r",|&| and ", html_text(_section(h, r"Patch authors?")) or "") if t.strip()]
+    a = field(html_text(body), ["Patch authors?", "Authors?", "Translated by", "Patch by"], r"([^\n]{2,80})")
+    auth = [t.strip() for t in re.split(r",|&| and ", a) if t.strip()]
     mtl = bool(re.search(r"machine translation|\bmtl\b", probe + " " + title, re.I))
     label = "Machine translation" if mtl else ("Human translation" if english and re.search(r"english patched|english translat|english \(", probe, re.I) else ("Undub" if undub else "Human translation"))
     plat = CDR_CATEGORIES.get(category) or detect_platform(category.replace("-", " ") + " " + title)
