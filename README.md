@@ -177,5 +177,5 @@ CDRomance's translation and undub sections are updated often, and each post name
 - A credited Internet Archive item gets the usual check, and is never listed if it holds game files.
 - If CDRomance blocks the runner (for example with a browser check), the step is skipped for that run and everything else carries on.
 
-To go through CDRomance's whole back catalogue once, open **Actions → Refresh data → Run workflow** and set *CDRomance listing pages* to 80. Each run reads at most 60 new posts (`PW_MAX_CDR_POSTS`), so a backfill takes a few runs to finish. The scheduled runs pick it up from there.
+To go through CDRomance's whole back catalogue once, open **Actions → Refresh data → Run workflow** and set *CDRomance listing pages* to 80. Each run reads at most 120 new posts (`PW_MAX_CDR_POSTS`), so a backfill takes a number of runs to finish. The scheduled runs pick it up from there.
 

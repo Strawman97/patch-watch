@@ -208,7 +208,7 @@ def meta(h, *names):
 def field(text, labels, value=r"([^\n]{1,80})"):
     """'Version: 1.2', 'Version\\n1.2' or 'Version 1.2' style fields in a page's text."""
     for lab in labels:
-        m = re.search(r"(?im)^\s*" + lab + r"\s*:?\s*(?:\n\s*)?" + value, text)
+        m = re.search(r"(?im)^\s*" + lab + r"(?![a-z])\s*:?\s*(?:\n\s*)?" + value, text)
         if m:
             return m.group(1).strip()
     return ""
@@ -485,8 +485,10 @@ def parse_cdromance_post(url, h, category=""):
     title = re.sub(r"\s+(ISO|ROM|Eboot|CHD|NSP|Game)\s*$", "", title, flags=re.I)
     title = re.sub(r"\s+(PSX|PS1|PS2|PSP|GBA|GBC|GB|NES|SNES|N64|NDS|3DS|Wii|GCN|GameCube|Saturn|Dreamcast|PCE|TG-?16|TurboGrafx-CD|Sega CD|Genesis|PSV|Vita|Switch)\s*$", "", title, flags=re.I)
     text = html_text(h)
-    lang = field(text, ["Language", "Languages"], r"([^\n]{1,160})") or ""
-    probe = lang or text[:6000]
+    lang = field(text, ["Languages", "Language"], r"([^\n]{1,160})") or ""
+    # the game information table links each language to a filter such as ?ep_filter_language=english-patched
+    tags = " ".join(m.group(1).replace("-", " ") for m in re.finditer(r"ep_filter_language=([a-z0-9-]+)", h[:h.lower().find("related games")] if "related games" in h.lower() else h, re.I))
+    probe = (lang + " " + tags).strip() or title
     undub = bool(re.search(r"\bundub", probe, re.I))
     english = bool(re.search(r"english", probe, re.I))
     if not undub and not english:

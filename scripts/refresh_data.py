@@ -531,6 +531,20 @@ def gh_search(q, token):
     raw = http_get(url, {"Accept": "application/vnd.github+json", **({"Authorization": "Bearer " + token} if token else {})})
     return (json.loads(raw).get("items") if raw else None) or []
 
+def gh_repos(owner, token):
+    """Every public repository of a user or organisation, most recently pushed first (None if the account doesn't exist)."""
+    hdr = {"Accept": "application/vnd.github+json", **({"Authorization": "Bearer " + token} if token else {})}
+    out = []
+    for page in (1, 2, 3):
+        raw = http_get(f"https://api.github.com/users/{urllib.parse.quote(owner)}/repos?type=owner&sort=pushed&per_page=100&page={page}", hdr)
+        if raw is None:
+            return None if page == 1 else out
+        got = json.loads(raw) or []
+        out += [r for r in got if not r.get("fork")]
+        if len(got) < 100:
+            break
+    return out
+
 def gh_item(it, text, src):
     name = it.get("name", "")
     title = re.sub(r"\b(english|eng|en|translation|translated|tl|patch|undub|fan|project|full voice edition)\b", lambda m: m.group(0) if m.group(0).lower() == "full voice edition" else "",
@@ -598,8 +612,9 @@ def archive_candidates(watch, prev, known, bad):
 CDR_BASE = os.environ.get("PW_CDR_BASE", "https://cdromance.org")
 CDR_LISTS = ["/translations/", "/translations/?language=undub"]
 CDR_PAGES = int(os.environ.get("PW_CDR_PAGES", "3"))              # listing pages read per section (about 20 posts each)
-MAX_CDR_POSTS = int(os.environ.get("PW_MAX_CDR_POSTS", "60"))     # new posts opened per run
-CDR_DELAY = float(os.environ.get("PW_CDR_DELAY", "2"))
+MAX_CDR_POSTS = int(os.environ.get("PW_MAX_CDR_POSTS", "120"))     # new posts opened per run
+CDR_DELAY = float(os.environ.get("PW_CDR_DELAY", "1.5"))
+CDR_V = 2                                                        # bumped when post reading changes: skipped posts are read again
 
 def cdr_hash(cat, slug):
     return hashlib.sha1(f"{cat}/{slug}".encode()).hexdigest()[:16]
@@ -659,7 +674,7 @@ def cdromance_candidates(prev_seen):
         items.append({"url": rec["src"], "title": rec.get("title"), "platform": rec.get("platform"), "label": label,
                       "src": "Credited on CDRomance", "desc": desc,
                       "k": (lambda m: m.group(1).lower() if m else None)(re.match(r"https?://github\.com/([^/]+/[^/#?]+)", rec["src"]))})
-    log(f"  CDRomance: {len(posts)} recent posts, {opened} newly read, {len(items)} credited sources" +
+    log(f"  CDRomance: {len(done)} recent posts, {opened} newly read, {len(items)} credited sources" +
         (f", skipped: {', '.join(f'{v} {k}' for k, v in skipped.items())}" if skipped else ""))
     return items, seen
 
@@ -711,9 +726,11 @@ def refresh_discover(projects):
     for owner in watch.get("githubOwners") or []:
         time.sleep(2.5)
         try:
-            items = gh_search(f"user:{owner}", token)
+            items = gh_repos(owner, token)
         except Exception as e:
-            log(f"  GitHub account {owner} couldn't be searched ({e})"); continue
+            log(f"  GitHub account {owner} couldn't be read ({e})"); continue
+        if items is None:
+            log(f"  GitHub account {owner} doesn't exist (check the name under watch.githubOwners in overrides.json)"); continue
         for it in items:
             text = " ".join([it.get("full_name", ""), it.get("description") or "", " ".join(it.get("topics") or [])])
             if not PATCHY.search(text) or (TOOLISH.search(it.get("description") or "") and not re.search(r"\b(patch|undub|locali[sz]e)\b", text, re.I)):
@@ -724,7 +741,11 @@ def refresh_discover(projects):
     data["archiveGameFiles"] = sorted(bad)
     # CDRomance: credited original sources of new releases (sources that are archive.org items get the same game-file check)
     try:
-        cdr, data["cdromanceSeen"] = cdromance_candidates(data.get("cdromanceSeen") or {})
+        prev_seen = data.get("cdromanceSeen") or {}
+        if data.get("cdromanceV") != CDR_V:
+            prev_seen = {k: v for k, v in prev_seen.items() if v.get("src")}
+        cdr, data["cdromanceSeen"] = cdromance_candidates(prev_seen)
+        data["cdromanceV"] = CDR_V
         for it in cdr:
             ident = A.archive_id(it["url"]) if "archive.org/" in it["url"] else ""
             if ident:
