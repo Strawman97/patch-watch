@@ -47,7 +47,7 @@ jobs:
         run: echo "key=launchbox-$(date -u +%G-%V)" >> "$GITHUB_OUTPUT"
 
       - name: Restore the LaunchBox Games Database
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: .cache/launchbox
           key: ${{ steps.week.outputs.key }}
