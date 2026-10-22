@@ -1,7 +1,719 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-22T09:57:51Z",
+ "generated": "2026-10-22T10:24:13Z",
  "repos": {
+  "acer-2006/gyakuten-saiban-2-english-gba-": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-15T01:36:57Z",
+    "pre": false,
+    "tag": "GS2_English",
+    "url": "https://github.com/Acer-2006/Gyakuten-Saiban-2-English-GBA-/releases/tag/GS2_English"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-12T20:55:23Z",
+    "desc": "A fan translation that inserts the official Capcom localization and graphics into GS2 for the GBA",
+    "full": "Acer-2006/Gyakuten-Saiban-2-English-GBA-",
+    "lang": "HTML",
+    "pushed": "2026-10-15T20:12:50Z",
+    "size": 2401,
+    "stars": 4
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21"
+   ]
+  },
+  "acer-2006/gyakuten-saiban_1_gba-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-14T22:51:59Z",
+    "pre": false,
+    "tag": "GS1_English",
+    "url": "https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation/releases/tag/GS1_English"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-05T22:33:42Z",
+    "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
+    "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
+    "lang": "C",
+    "pushed": "2026-10-15T13:24:57Z",
+    "size": 23076,
+    "stars": 9
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
+    "https://github.com/user-attachments/assets/a4848271-bf45-4878-a246-ee208322477c",
+    "https://github.com/user-attachments/assets/942c3f48-7369-4f5d-91e1-10f1bfbc49fe",
+    "https://github.com/user-attachments/assets/bc671ce4-43ab-479b-aad4-f8b56e09e376",
+    "https://github.com/user-attachments/assets/3adf2a09-3236-4dbf-8b87-ed302ffd06e9"
+   ]
+  },
+  "agtteam/bakedata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-08T06:54:36Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/AGTTeam/BakeData/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-11-13T15:50:43Z",
+    "desc": "Translation data for Bakemonogatari Portable on the PSP.",
+    "full": "AGTTeam/BakeData",
+    "lang": "Batchfile",
+    "pushed": "2024-09-03T09:31:48Z",
+    "size": 500236,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/baketranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-07-28T20:34:49Z",
+    "pre": false,
+    "tag": "v1.2.0",
+    "url": "https://github.com/AGTTeam/BakeTranslation/releases/tag/v1.2.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-11-13T15:37:51Z",
+    "desc": "Translation patch project for Bakemonogatari Portable on the PSP.",
+    "full": "AGTTeam/BakeTranslation",
+    "lang": "Python",
+    "pushed": "2024-09-03T09:32:18Z",
+    "size": 149,
+    "stars": 18
+   },
+   "shots": []
+  },
+  "agtteam/fmakamidata": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2024-04-10T10:37:56Z",
+    "desc": "Translation data for Fullmetal Alchemist 3: Kami wo Tsugu Shoujo on the PS2.",
+    "full": "AGTTeam/FMAKamiData",
+    "lang": null,
+    "pushed": "2026-08-28T12:20:05Z",
+    "size": 30308,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/fmakamitranslation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2024-04-10T12:20:52Z",
+    "desc": "Translation patch project for Fullmetal Alchemist 3: Kami wo Tsugu Shoujo on the PS2.",
+    "full": "AGTTeam/FMAKamiTranslation",
+    "lang": "Python",
+    "pushed": "2026-08-10T08:59:52Z",
+    "size": 203,
+    "stars": 4
+   },
+   "shots": []
+  },
+  "agtteam/geasstranslation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": true,
+    "created": "2022-02-26T12:41:02Z",
+    "desc": "Translation patch project for Code Geass: Hangyaku no Lelouch on the NDS.",
+    "full": "AGTTeam/GeassTranslation",
+    "lang": "Python",
+    "pushed": "2024-04-10T12:44:44Z",
+    "size": 65,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "agtteam/gurrendata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-04T20:45:59Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/AGTTeam/GurrenData/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-08-30T22:37:56Z",
+    "desc": "Translation data for Tengen Toppa Gurren Lagann on the NDS.",
+    "full": "AGTTeam/GurrenData",
+    "lang": null,
+    "pushed": "2024-09-03T09:32:40Z",
+    "size": 7063,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "agtteam/gurrentranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-02-23T17:07:31Z",
+    "pre": false,
+    "tag": "v1.5.1",
+    "url": "https://github.com/AGTTeam/GurrenTranslation/releases/tag/v1.5.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-08-17T14:54:45Z",
+    "desc": "Translation patch project for Tengen Toppa Gurren Lagann on the NDS.",
+    "full": "AGTTeam/GurrenTranslation",
+    "lang": "Python",
+    "pushed": "2024-09-03T09:32:52Z",
+    "size": 234,
+    "stars": 3
+   },
+   "shots": []
+  },
+  "agtteam/kiragamedata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-01-28T19:53:16Z",
+    "pre": false,
+    "tag": "1.3",
+    "url": "https://github.com/AGTTeam/KiraGameData/releases/tag/1.3"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-04-19T12:48:16Z",
+    "desc": "Translation data for Death Note: Kira Game on the NDS.",
+    "full": "AGTTeam/KiraGameData",
+    "lang": "Assembly",
+    "pushed": "2025-01-28T19:53:16Z",
+    "size": 57949,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/lsuccessorsdata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-09-23T15:38:22Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/AGTTeam/LSuccessorsData/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2022-02-26T07:56:39Z",
+    "desc": "Translation data for DEATH NOTE ~L wo Tsugumono~ on the NDS.",
+    "full": "AGTTeam/LSuccessorsData",
+    "lang": "B (Formal Method)",
+    "pushed": "2026-09-24T07:27:26Z",
+    "size": 14433,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/lsuccessorstranslation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2020-05-01T18:00:39Z",
+    "desc": "Translation patch project for DEATH NOTE ~L wo Tsugumono~ on the NDS.",
+    "full": "AGTTeam/LSuccessorsTranslation",
+    "lang": "Python",
+    "pushed": "2026-09-23T15:34:27Z",
+    "size": 262,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/mamorudata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-04T15:51:48Z",
+    "pre": false,
+    "tag": "1.2",
+    "url": "https://github.com/AGTTeam/MamoruData/releases/tag/1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-04-17T10:29:12Z",
+    "desc": "Translation data for Ore ga Omae o Mamoru (I Will Protect You) on the NDS",
+    "full": "AGTTeam/MamoruData",
+    "lang": "JavaScript",
+    "pushed": "2026-09-25T15:04:16Z",
+    "size": 2433,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/medusadata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-03T05:30:31Z",
+    "pre": false,
+    "tag": "1.2",
+    "url": "https://github.com/AGTTeam/MedusaData/releases/tag/1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-09-02T14:58:54Z",
+    "desc": "Translation data for Soul Eater: Medusa no Inbou on the NDS.",
+    "full": "AGTTeam/MedusaData",
+    "lang": "HTML",
+    "pushed": "2024-09-03T09:34:05Z",
+    "size": 15626,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/medusatranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-07-29T17:24:35Z",
+    "pre": false,
+    "tag": "v1.5.0",
+    "url": "https://github.com/AGTTeam/MedusaTranslation/releases/tag/v1.5.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-09-06T13:30:20Z",
+    "desc": "Translation patch project for Soul Eater: Medusa no Inbou on the NDS.",
+    "full": "AGTTeam/MedusaTranslation",
+    "lang": "Python",
+    "pushed": "2024-09-03T09:34:17Z",
+    "size": 74,
+    "stars": 9
+   },
+   "shots": []
+  },
+  "agtteam/monopridata": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2019-09-12T14:16:03Z",
+    "desc": "Translation data for Soul Eater: Monotone Princess on the Wii.",
+    "full": "AGTTeam/MonoPriData",
+    "lang": "Batchfile",
+    "pushed": "2024-09-03T09:37:10Z",
+    "size": 42293,
+    "stars": 3
+   },
+   "shots": []
+  },
+  "agtteam/monopritranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-07-28T21:01:28Z",
+    "pre": false,
+    "tag": "v1.6.0",
+    "url": "https://github.com/AGTTeam/MonoPriTranslation/releases/tag/v1.6.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-09-17T19:53:05Z",
+    "desc": "Translation patch project for Soul Eater: Monotone Princess on the Wii.",
+    "full": "AGTTeam/MonoPriTranslation",
+    "lang": "Python",
+    "pushed": "2024-09-03T09:37:36Z",
+    "size": 97,
+    "stars": 6
+   },
+   "shots": []
+  },
+  "agtteam/mushishidata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-08-06T12:29:37Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/AGTTeam/MushishiData/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-04-13T12:54:23Z",
+    "desc": "Translation data for Mushishi ~Amefuru Sato~ on the NDS.",
+    "full": "AGTTeam/MushishiData",
+    "lang": null,
+    "pushed": "2025-11-13T20:51:25Z",
+    "size": 7941,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "agtteam/mushishitranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-01-25T13:23:28Z",
+    "pre": false,
+    "tag": "v1.1.0",
+    "url": "https://github.com/AGTTeam/MushishiTranslation/releases/tag/v1.1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-04-13T12:52:36Z",
+    "desc": "Translation patch project for Mushishi ~Amefuru Sato~ on the NDS.",
+    "full": "AGTTeam/MushishiTranslation",
+    "lang": "Python",
+    "pushed": "2025-08-06T13:51:01Z",
+    "size": 180,
+    "stars": 5
+   },
+   "shots": []
+  },
+  "agtteam/narutorpg2data": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-09-02T17:24:58Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/AGTTeam/NarutoRPG2Data/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2022-02-23T14:48:00Z",
+    "desc": "Translation data for Naruto RPG 2: Chidori vs Rasengan on the NDS.",
+    "full": "AGTTeam/NarutoRPG2Data",
+    "lang": null,
+    "pushed": "2025-04-16T06:33:45Z",
+    "size": 10489,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "agtteam/narutorpg2translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-03-21T07:03:20Z",
+    "pre": false,
+    "tag": "v1.1.0",
+    "url": "https://github.com/AGTTeam/NarutoRPG2Translation/releases/tag/v1.1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2022-02-25T17:03:22Z",
+    "desc": "Translation patch project for Naruto RPG 2: Chidori vs Rasengan on the NDS.",
+    "full": "AGTTeam/NarutoRPG2Translation",
+    "lang": "Python",
+    "pushed": "2024-09-03T09:37:47Z",
+    "size": 236,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/ookami2data": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-08T06:50:18Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/AGTTeam/Ookami2Data/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-09-03T22:05:50Z",
+    "desc": "Translation data for Ookami to Koushinryou: Umi wo Wataru Kaze on the NDS.",
+    "full": "AGTTeam/Ookami2Data",
+    "lang": null,
+    "pushed": "2024-09-03T09:38:06Z",
+    "size": 31268,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "agtteam/ookamidata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-07T11:55:45Z",
+    "pre": false,
+    "tag": "1.3",
+    "url": "https://github.com/AGTTeam/OokamiData/releases/tag/1.3"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-09-03T22:03:36Z",
+    "desc": "Translation data for Ookami to Koushinryou: Boku to Holo no Ichinen on the NDS.",
+    "full": "AGTTeam/OokamiData",
+    "lang": null,
+    "pushed": "2024-09-03T09:38:17Z",
+    "size": 25588,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/ookamitranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-07-29T22:02:38Z",
+    "pre": false,
+    "tag": "v1.9.0",
+    "url": "https://github.com/AGTTeam/OokamiTranslation/releases/tag/v1.9.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-09-07T22:24:27Z",
+    "desc": "Translation patch project for Spice & Wolf (Ookami to Koushinryou) on the NDS.",
+    "full": "AGTTeam/OokamiTranslation",
+    "lang": "Python",
+    "pushed": "2024-09-03T09:38:44Z",
+    "size": 185,
+    "stars": 14
+   },
+   "shots": []
+  },
+  "agtteam/prologuedata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-08T06:54:22Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/AGTTeam/ProLogueData/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2022-02-25T22:19:00Z",
+    "desc": "Translation data for L the proLogue to DEATH NOTE on the NDS.",
+    "full": "AGTTeam/ProLogueData",
+    "lang": null,
+    "pushed": "2025-04-16T06:33:50Z",
+    "size": 12046,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/prologuetranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-06-23T19:28:52Z",
+    "pre": false,
+    "tag": "v1.1.4",
+    "url": "https://github.com/AGTTeam/ProLogueTranslation/releases/tag/v1.1.4"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-05-01T16:03:21Z",
+    "desc": "Translation patch project for L the proLogue to DEATH NOTE on the NDS.",
+    "full": "AGTTeam/ProLogueTranslation",
+    "lang": "Python",
+    "pushed": "2026-06-23T19:28:52Z",
+    "size": 240,
+    "stars": 3
+   },
+   "shots": []
+  },
+  "agtteam/resonancedata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-08T06:53:42Z",
+    "pre": false,
+    "tag": "1.1",
+    "url": "https://github.com/AGTTeam/ResonanceData/releases/tag/1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2019-12-29T16:03:16Z",
+    "desc": "Translation data for Soul Eater: Battle Resonance on the PSP and PS2.",
+    "full": "AGTTeam/ResonanceData",
+    "lang": null,
+    "pushed": "2024-09-03T09:39:24Z",
+    "size": 25099,
+    "stars": 0
+   },
+   "shots": []
+  },
   "agtteam/resonancetranslation": {
    "assetOs": {},
    "readme": {
@@ -26,6 +738,262 @@
     "pushed": "2025-05-19T17:41:48Z",
     "size": 120,
     "stars": 5
+   },
+   "shots": []
+  },
+  "agtteam/shitodata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-06-12T11:04:54Z",
+    "pre": false,
+    "tag": "1.1",
+    "url": "https://github.com/AGTTeam/ShitoData/releases/tag/1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-12-04T16:40:25Z",
+    "desc": "Translation data for Evangelion: Shito Ikusei on the WonderSwan.",
+    "full": "AGTTeam/ShitoData",
+    "lang": "Rich Text Format",
+    "pushed": "2025-06-12T11:04:54Z",
+    "size": 1356,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/shitotranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-06-12T11:05:31Z",
+    "pre": false,
+    "tag": "v1.4.0",
+    "url": "https://github.com/AGTTeam/ShitoTranslation/releases/tag/v1.4.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-12-05T16:00:04Z",
+    "desc": "Translation patch project for Evangelion: Shito Ikusei on the WonderSwan.",
+    "full": "AGTTeam/ShitoTranslation",
+    "lang": "Python",
+    "pushed": "2025-06-26T09:16:33Z",
+    "size": 112,
+    "stars": 10
+   },
+   "shots": []
+  },
+  "agtteam/vampiredata": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-08-08T06:45:43Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/AGTTeam/VampireData/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-04-03T21:46:22Z",
+    "desc": "Translation data for Vampire Knight on the NDS.",
+    "full": "AGTTeam/VampireData",
+    "lang": null,
+    "pushed": "2026-07-17T17:04:21Z",
+    "size": 18173,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "agtteam/vampiretranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-07-29T17:48:06Z",
+    "pre": false,
+    "tag": "v1.3.0",
+    "url": "https://github.com/AGTTeam/VampireTranslation/releases/tag/v1.3.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-04-05T07:08:19Z",
+    "desc": "Translation patch project for Vampire Knight on the NDS.",
+    "full": "AGTTeam/VampireTranslation",
+    "lang": "Python",
+    "pushed": "2024-09-03T09:40:38Z",
+    "size": 170,
+    "stars": 4
+   },
+   "shots": []
+  },
+  "akoi89/dqmj3p-english-fixed": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-07T03:07:49Z",
+    "pre": false,
+    "tag": "v2.21",
+    "url": "https://github.com/Akoi89/DQMJ3P-english-fixed/releases/tag/v2.21"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-13T18:01:15Z",
+    "desc": "Dragon Quest Monsters: Joker 3 Professional (3DS), the 2021 English fan translation rebuilt with its defects fixed. Two xdelta patches for the Japanese game.",
+    "full": "Akoi89/DQMJ3P-english-fixed",
+    "lang": "Batchfile",
+    "pushed": "2026-10-07T03:07:45Z",
+    "size": 523923,
+    "stars": 18
+   },
+   "shots": []
+  },
+  "akoi89/puyopuyotetris-3ds-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T03:04:26Z",
+    "pre": true,
+    "tag": "test-t5",
+    "url": "https://github.com/Akoi89/puyopuyotetris-3ds-english-patch/releases/tag/test-t5"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-04T22:41:10Z",
+    "desc": "Sega's official English text and voices carried onto the Japanese 3DS Puyo Puyo Tetris, DLC included",
+    "full": "Akoi89/puyopuyotetris-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-21T03:04:26Z",
+    "size": 342,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "akoi89/rocketslime-3ds-english-fixup": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-12T06:20:39Z",
+    "pre": false,
+    "tag": "fixup-14",
+    "url": "https://github.com/Akoi89/rocketslime-3ds-english-fixup/releases/tag/fixup-14"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-11T23:32:35Z",
+    "desc": "Unofficial fix-up for Team Rocket Slime's English RC1 translation of Slime MoriMori Dragon Quest 3 (3DS), as one xdelta patch. No game data.",
+    "full": "Akoi89/rocketslime-3ds-english-fixup",
+    "lang": "Python",
+    "pushed": "2026-10-12T06:20:38Z",
+    "size": 129,
+    "stars": 9
+   },
+   "shots": []
+  },
+  "albertodellisola/patchclan-site": {
+   "assetOs": {},
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-09-29T21:56:53Z",
+    "pre": false,
+    "tag": "magic-knight-rayearth-2-v1.5",
+    "url": "https://github.com/albertodellisola/patchclan-site/releases/tag/magic-knight-rayearth-2-v1.5"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-07T11:49:43Z",
+    "desc": "patchclan.com — English patches for Famicom and Super Famicom games that never left Japan",
+    "full": "albertodellisola/patchclan-site",
+    "lang": "HTML",
+    "pushed": "2026-10-22T09:28:57Z",
+    "size": 130688,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "alunonymoose/sengoku-basara-3---utage-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-10T19:16:00Z",
+    "pre": true,
+    "tag": "v0.1.0-rc1",
+    "url": "https://github.com/Alunonymoose/Sengoku-Basara-3---Utage-Translation/releases/tag/v0.1.0-rc1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-10T10:29:31Z",
+    "desc": "English translation patch for Sengoku BASARA 3 Utage on PS3 (BLJM60389), with translated UI, dialogue, textures, subtitles and patching tools.",
+    "full": "Alunonymoose/Sengoku-Basara-3---Utage-Translation",
+    "lang": "HTML",
+    "pushed": "2026-10-10T19:15:59Z",
+    "size": 7791,
+    "stars": 0
    },
    "shots": []
   },
@@ -56,6 +1024,34 @@
    },
    "shots": []
   },
+  "azzulin/tales-of-radiant-mythology-3-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-19T18:22:09Z",
+    "pre": true,
+    "tag": "en35",
+    "url": "https://github.com/Azzulin/Tales-of-Radiant-Mythology-3-English-Translation/releases/tag/en35"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-28T11:55:50Z",
+    "desc": "English fan translation of Tales of the World: Radiant Mythology 3 (PSP, NPJH50353): xdelta patch, Python tools and translation files to rebuild it or make your own.",
+    "full": "Azzulin/Tales-of-Radiant-Mythology-3-English-Translation",
+    "lang": "Python",
+    "pushed": "2026-10-19T18:47:36Z",
+    "size": 14591,
+    "stars": 0
+   },
+   "shots": []
+  },
   "baslqc/steins-gate-psp-patch": {
    "noRelease": true,
    "readme": {
@@ -79,6 +1075,125 @@
    "shots": [
     "http://i.imgur.com/P8ypaT4.png"
    ]
+  },
+  "beato07/radiant-historia-undub": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-31T16:38:46Z",
+    "pre": false,
+    "tag": "v1.0.0",
+    "url": "https://github.com/beato07/radiant-historia-undub/releases/tag/v1.0.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-30T16:02:54Z",
+    "desc": "An automated Python utility to build a Japanese audio undub for Radiant Historia: Perfect Chronology (3DS).",
+    "full": "beato07/radiant-historia-undub",
+    "lang": "Python",
+    "pushed": "2026-08-31T16:38:46Z",
+    "size": 1250,
+    "stars": 1
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/0f779785-7557-4cb4-a77e-d6470f13a005"
+   ]
+  },
+  "bentolanh/masou-kishin-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-07T10:46:40Z",
+    "pre": false,
+    "tag": "lord-of-elemental-v1.31",
+    "url": "https://github.com/bentolanh/masou-kishin-english-patch/releases/tag/lord-of-elemental-v1.31"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-07T10:46:25Z",
+    "desc": "English fan translation patches for Super Robot Taisen OG Saga: Masou Kishin – The Lord of Elemental and Masou Kishin II – Revelation of Evil God (PSP)",
+    "full": "bentolanh/masou-kishin-english-patch",
+    "lang": null,
+    "pushed": "2026-10-07T10:46:39Z",
+    "size": 4,
+    "stars": 3
+   },
+   "shots": []
+  },
+  "bigbanana23/london-seirei-tanteidan": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-15T14:48:31Z",
+    "pre": false,
+    "tag": "1.2.2",
+    "url": "https://github.com/bigbanana23/london-seirei-tanteidan/releases/tag/1.2.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-03T19:19:03Z",
+    "desc": "English translation patch for JP PSX RPG London Seirei Tanteidan",
+    "full": "bigbanana23/london-seirei-tanteidan",
+    "lang": null,
+    "pushed": "2026-08-15T14:48:31Z",
+    "size": 5,
+    "stars": 39
+   },
+   "shots": []
+  },
+  "blackhowling2020/kettou-beast-wars-gbc-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gameplay": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-15T12:12:39Z",
+    "pre": false,
+    "tag": "v0.31",
+    "url": "https://github.com/blackhowling2020/kettou-beast-wars-gbc-english/releases/tag/v0.31"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-15T04:34:04Z",
+    "desc": "Unofficial, noncommercial English fan translation of Kettou Beast Wars: Beast Senshi Saikyou Ketteisen for Game Boy Color. AI-assisted translation with edited text, redesigned English title graphics, and a player guide. Patches only; no ROM included.",
+    "full": "blackhowling2020/kettou-beast-wars-gbc-english",
+    "lang": null,
+    "pushed": "2026-10-15T12:12:39Z",
+    "size": 921,
+    "stars": 0
+   },
+   "shots": []
   },
   "blashy101/clock-maker-english-patch": {
    "noRelease": true,
@@ -191,6 +1306,28 @@
    },
    "shots": []
   },
+  "blashy101/touchbattletankspwiiuenglish": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-05-24T17:34:21Z",
+    "desc": "Partial translation of Touch Battle Tank SP for Wii U",
+    "full": "blashy101/TouchBattleTankSPWiiUEnglish",
+    "lang": null,
+    "pushed": "2026-05-24T17:38:39Z",
+    "size": 5530,
+    "stars": 0
+   },
+   "shots": []
+  },
   "blashy101/visualquizwhat-sthisenglishpatch": {
    "noRelease": true,
    "readme": {
@@ -264,6 +1401,50 @@
    },
    "shots": []
   },
+  "bruder-grimm/animal_forest_psp": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-01T10:46:02Z",
+    "desc": "Port of animal forest to the psp",
+    "full": "bruder-grimm/animal_forest_psp",
+    "lang": "C",
+    "pushed": "2026-10-08T11:38:15Z",
+    "size": 842,
+    "stars": 12
+   },
+   "shots": []
+  },
+  "byroweb/ac1_re": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-06-06T21:44:33Z",
+    "desc": "Reverse-engineering tooling and Farsi localization for Armored Core (PS1, SLUS-01323). No game data — patch-based, bring your own disc.",
+    "full": "byroweb/AC1_RE",
+    "lang": "Python",
+    "pushed": "2026-10-22T06:53:34Z",
+    "size": 10067,
+    "stars": 0
+   },
+   "shots": []
+  },
   "camd11/srw-og-gaiden-en": {
    "assetOs": {},
    "readme": {
@@ -300,6 +1481,38 @@
     "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/01_title.png"
    ]
   },
+  "caribbeansc/mdr-navi-i18n": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true,
+     "pct": 60
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-03T14:53:12Z",
+    "pre": false,
+    "tag": "v2026.10.03-822db99",
+    "url": "https://github.com/caribbeansc/mdr-navi-i18n/releases/tag/v2026.10.03-822db99"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-18T15:40:46Z",
+    "desc": "Translate Medarot Navi (GBA, 2001) without reverse-engineering anything: tooling plus es-419 and English language packs",
+    "full": "caribbeansc/mdr-navi-i18n",
+    "lang": "Python",
+    "pushed": "2026-10-03T14:53:12Z",
+    "size": 1237,
+    "stars": 4
+   },
+   "shots": []
+  },
   "chivien99999/khamrai-english": {
    "noRelease": true,
    "readme": {
@@ -321,6 +1534,583 @@
     "stars": 6
    },
    "shots": []
+  },
+  "closedsockets/tricolore-crise-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-07-14T23:02:20Z",
+    "pre": false,
+    "tag": "v1.0.2",
+    "url": "https://github.com/closedsockets/tricolore-crise-english-patch/releases/tag/v1.0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-09T19:55:05Z",
+    "desc": "English fan-translation patch for the Sega Dreamcast game Tricolore Crise, built with Dreamcast Translation Kit.",
+    "full": "closedsockets/tricolore-crise-english-patch",
+    "lang": "Python",
+    "pushed": "2026-07-14T23:07:00Z",
+    "size": 21210,
+    "stars": 5
+   },
+   "shots": []
+  },
+  "consolesplayingconsoles/game-translations": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-06T18:13:36Z",
+    "pre": true,
+    "tag": "densha-de-go-2-kousoku-hen-japan-v0.5-alpha",
+    "url": "https://github.com/consolesplayingconsoles/game-translations/releases/tag/densha-de-go-2-kousoku-hen-japan-v0.5-alpha"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-25T19:35:07Z",
+    "desc": "",
+    "full": "consolesplayingconsoles/game-translations",
+    "lang": null,
+    "pushed": "2026-10-06T18:13:36Z",
+    "size": 10614,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "corytburns/chocobo-stallion-translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T03:10:58Z",
+    "desc": "English translation patches for Chocobo Stallion (PlayStation)",
+    "full": "corytburns/chocobo-stallion-translation",
+    "lang": null,
+    "pushed": "2026-10-20T03:11:06Z",
+    "size": 5956,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "crimsondawnacademy-design/romtranslate-studio": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-20T01:28:24Z",
+    "pre": true,
+    "tag": "v0.1.10",
+    "url": "https://github.com/crimsondawnacademy-design/romtranslate-studio/releases/tag/v0.1.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-15T18:17:34Z",
+    "desc": "Translate retro games with AI on your own computer: extract the text, translate, validate, reinsert and export a patch. GBA, NDS, NES, SNES, PS1, PS2, PSP and GameCube (experimental).",
+    "full": "crimsondawnacademy-design/romtranslate-studio",
+    "lang": "Rust",
+    "pushed": "2026-10-21T16:04:48Z",
+    "size": 5645,
+    "stars": 13
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/crimsondawnacademy-design/romtranslate-studio/HEAD/docs/assets/screenshot.png"
+   ]
+  },
+  "damon-daemon/nobunaga-ds-2-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T22:17:04Z",
+    "pre": true,
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/nobunaga-ds-2-english/releases/tag/v0.9.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-17T23:57:39Z",
+    "desc": "English fan translation patch for Nobunaga's Ambition DS 2 (Nobunaga no Yabou DS 2, Nintendo DS)",
+    "full": "damon-daemon/nobunaga-ds-2-english",
+    "lang": "Python",
+    "pushed": "2026-10-21T15:28:11Z",
+    "size": 1589,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ds-2-english/HEAD/docs/screenshots/01_start_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ds-2-english/HEAD/docs/screenshots/02_scenario_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ds-2-english/HEAD/docs/screenshots/03_daimyo_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ds-2-english/HEAD/docs/screenshots/04_strategy.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ds-2-english/HEAD/docs/screenshots/05_advisor.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ds-2-english/HEAD/docs/screenshots/06_battle.png"
+   ]
+  },
+  "damon-daemon/nobunaga-soutenroku-puk-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-20T15:19:22Z",
+    "pre": true,
+    "tag": "v0.9.0",
+    "url": "https://github.com/damon-daemon/nobunaga-soutenroku-puk-english/releases/tag/v0.9.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T15:18:56Z",
+    "desc": "English fan translation of Nobunaga no Yabou: Soutenroku with Power-Up Kit (PS2)",
+    "full": "damon-daemon/nobunaga-soutenroku-puk-english",
+    "lang": "Python",
+    "pushed": "2026-10-21T15:27:58Z",
+    "size": 1927,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/01_main_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/02_scenario.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/03_lord_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/04_event.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/05_council.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/06_map.png"
+   ]
+  },
+  "damon-daemon/sangokushi-6-puk-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T19:31:55Z",
+    "pre": true,
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/sangokushi-6-puk-english/releases/tag/v0.9.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-21T14:19:39Z",
+    "desc": "English fan translation of Sangokushi VI with Power-Up Kit (PS1)",
+    "full": "damon-daemon/sangokushi-6-puk-english",
+    "lang": "Python",
+    "pushed": "2026-10-21T19:31:53Z",
+    "size": 1484,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-6-puk-english/HEAD/docs/screenshots/01_main_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-6-puk-english/HEAD/docs/screenshots/02_scenario.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-6-puk-english/HEAD/docs/screenshots/03_ruler_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-6-puk-english/HEAD/docs/screenshots/04_event.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-6-puk-english/HEAD/docs/screenshots/05_map.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-6-puk-english/HEAD/docs/screenshots/06_dialogue.png"
+   ]
+  },
+  "damon-daemon/sangokushi-ds-3-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T21:52:56Z",
+    "pre": true,
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/sangokushi-ds-3-english/releases/tag/v0.9.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-17T23:49:06Z",
+    "desc": "English fan translation patch for Romance of the Three Kingdoms DS 3 (Sangokushi DS 3, Nintendo DS)",
+    "full": "damon-daemon/sangokushi-ds-3-english",
+    "lang": "Python",
+    "pushed": "2026-10-21T15:28:07Z",
+    "size": 1417,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-ds-3-english/HEAD/docs/screenshots/01_start_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-ds-3-english/HEAD/docs/screenshots/02_scenario_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-ds-3-english/HEAD/docs/screenshots/03_ruler_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-ds-3-english/HEAD/docs/screenshots/04_event.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-ds-3-english/HEAD/docs/screenshots/05_strategy.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-ds-3-english/HEAD/docs/screenshots/06_deploy.png"
+   ]
+  },
+  "damon-daemon/taiko-risshiden-5-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-19T12:01:30Z",
+    "pre": true,
+    "tag": "v0.10.1",
+    "url": "https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.10.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-18T20:07:10Z",
+    "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
+    "full": "damon-daemon/taiko-risshiden-5-english",
+    "lang": "Python",
+    "pushed": "2026-10-21T15:28:02Z",
+    "size": 4915,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/01_main_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/02_scenario.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/03_hero_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/04_abilities.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/05_dialogue.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/06_council.png"
+   ]
+  },
+  "deucebucket/sabers-shc-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-07T10:50:11Z",
+    "pre": false,
+    "tag": "v3.1",
+    "url": "https://github.com/deucebucket/sabers-shc-english-patch/releases/tag/v3.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-06T11:49:20Z",
+    "desc": "Saber's English Patch for Super Heroine Chronicle (PS3, 2014): fan English text patch, one-click installer, no game files",
+    "full": "deucebucket/sabers-shc-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-13T12:38:31Z",
+    "size": 1597,
+    "stars": 3
+   },
+   "shots": []
+  },
+  "donsebastianbot/persona-psp-undub-es": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {},
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-03-06T18:11:41Z",
+    "desc": "",
+    "full": "donsebastianbot/persona-psp-undub-es",
+    "lang": "Python",
+    "pushed": "2026-03-06T18:11:43Z",
+    "size": 14,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "eadmaster/pcrown": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-07-31T19:24:04Z",
+    "pre": true,
+    "tag": "v1.1b2",
+    "url": "https://github.com/eadmaster/pcrown/releases/tag/v1.1b2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-02-12T21:26:46Z",
+    "desc": "Princess Crown Translation GPL Edition",
+    "full": "eadmaster/pcrown",
+    "lang": "C++",
+    "pushed": "2026-08-23T21:31:44Z",
+    "size": 17680,
+    "stars": 246
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo1.png",
+    "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo2.png",
+    "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo3.png"
+   ]
+  },
+  "excalz/ps4-retranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "retrans": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-15T23:48:27Z",
+    "pre": false,
+    "tag": "v1.05",
+    "url": "https://github.com/ExcalZ/ps4-retranslation/releases/tag/v1.05"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-18T17:40:12Z",
+    "desc": "A retranslation project for Phantasy Star IV for the Sega Genesis.",
+    "full": "ExcalZ/ps4-retranslation",
+    "lang": "Assembly",
+    "pushed": "2026-10-15T23:48:06Z",
+    "size": 29523,
+    "stars": 8
+   },
+   "shots": []
+  },
+  "exhilo62/dqxi-3ds-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T01:42:59Z",
+    "pre": false,
+    "tag": "v0.1.21",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.21"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-11T01:39:42Z",
+    "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
+    "full": "Exhilo62/DQXI-3DS-English-Patch",
+    "lang": "Python",
+    "pushed": "2026-10-22T01:42:59Z",
+    "size": 56006,
+    "stars": 24
+   },
+   "shots": [
+    "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
+   ]
+  },
+  "exxistancedc/cyber-doll-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-09-20T16:29:08Z",
+    "pre": false,
+    "tag": "v1.0.1",
+    "url": "https://github.com/ExxistanceDC/Cyber-Doll-English-Translation/releases/tag/v1.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-08-31T17:16:15Z",
+    "desc": "An English translation patch for the Sega Saturn Cyberpunk RPG, Cyber Doll",
+    "full": "ExxistanceDC/Cyber-Doll-English-Translation",
+    "lang": null,
+    "pushed": "2026-09-20T16:29:08Z",
+    "size": 144,
+    "stars": 33
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/06ba3a7e-c970-4f23-a39a-09dd583ceb5b",
+    "https://github.com/user-attachments/assets/afca9145-d597-4981-98e3-333ee6e6f95c",
+    "https://github.com/user-attachments/assets/1fc83b99-a845-4c86-841e-830b8bc80df2",
+    "https://github.com/user-attachments/assets/7aeba4cb-1959-423b-adfd-3faca7ab42a7",
+    "https://github.com/user-attachments/assets/c333dc33-652b-49f7-a64b-70c0a62f0db7",
+    "https://github.com/user-attachments/assets/f9b6197e-ebbd-4855-949c-f8649ab96245"
+   ]
+  },
+  "exxistancedc/hissatsu-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-07-20T13:42:38Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/ExxistanceDC/Hissatsu-English-Translation/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-05-28T18:22:46Z",
+    "desc": "An English translation patch for the Japanese exclusive Sega Saturn game, Hissatsu!",
+    "full": "ExxistanceDC/Hissatsu-English-Translation",
+    "lang": null,
+    "pushed": "2026-08-07T12:12:23Z",
+    "size": 79,
+    "stars": 5
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/76481047-7cbb-4700-b28a-5cf4b96506b6",
+    "https://github.com/user-attachments/assets/6f4a09fd-95f1-4bdc-ba8e-d643187dc959",
+    "https://github.com/user-attachments/assets/551d58a8-8b1d-4d7b-89ff-d66a270b9d47",
+    "https://github.com/user-attachments/assets/4cfacb1c-d444-48a6-822f-1a47ed51a3e3",
+    "https://github.com/user-attachments/assets/22a3d63c-9513-4bf4-9769-a3523948f61a",
+    "https://github.com/user-attachments/assets/a109c817-d755-42ef-bb9d-00caf25534fe"
+   ]
+  },
+  "exxistancedc/power-drift-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-20T03:13:46Z",
+    "pre": false,
+    "tag": "v1.0.1",
+    "url": "https://github.com/ExxistanceDC/Power-Drift-English-Translation/releases/tag/v1.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-18T22:23:55Z",
+    "desc": "",
+    "full": "ExxistanceDC/Power-Drift-English-Translation",
+    "lang": null,
+    "pushed": "2026-08-20T03:17:41Z",
+    "size": 28,
+    "stars": 4
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/34e8dc03-fda1-4d9e-b7c9-5dfceaf85e2b",
+    "https://github.com/user-attachments/assets/99446dae-a9e2-48f4-81da-076e93c65faf"
+   ]
+  },
+  "exxistancedc/ragnagard-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "port": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-06-02T22:05:32Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/ExxistanceDC/Ragnagard-English-Translation/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-05-17T16:32:21Z",
+    "desc": "An English translation patch for the exclusive Sega Saturn fighting game, Shinouken",
+    "full": "ExxistanceDC/Ragnagard-English-Translation",
+    "lang": null,
+    "pushed": "2026-06-12T14:17:23Z",
+    "size": 108,
+    "stars": 6
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/e8e0947a-3f3b-4b72-9b72-905a247a33de",
+    "https://github.com/user-attachments/assets/1e61971a-c562-46fb-98e0-e70bef0cb142",
+    "https://github.com/user-attachments/assets/e57e4caf-9ef4-4cf6-81f9-d3d8c3ab3f46",
+    "https://github.com/user-attachments/assets/1c20063f-1ef2-43ce-8860-70acd7e30e76",
+    "https://github.com/user-attachments/assets/a230f987-ea7e-408f-99aa-bd332112dc28",
+    "https://github.com/user-attachments/assets/2a9c08c8-1be3-46d1-b420-906026f744f0"
+   ]
   },
   "exxistancedc/segagaga-english-translation": {
    "assetOs": {},
@@ -361,6 +2151,189 @@
     "https://github.com/user-attachments/assets/88e0d6af-0c6e-415b-a9e6-9f6a47698ef1",
     "https://github.com/user-attachments/assets/8ff55afa-6c1a-4a6e-a63c-b210eb0066e6"
    ]
+  },
+  "exxistancedc/willy-wombat-english-improvement-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-28T12:05:13Z",
+    "pre": false,
+    "tag": "v2.0",
+    "url": "https://github.com/ExxistanceDC/Willy-Wombat-English-Improvement-Patch/releases/tag/v2.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-11-19T15:53:51Z",
+    "desc": "An English improvement patch for the Sega Saturn Japanese exclusive, Willy Wombat",
+    "full": "ExxistanceDC/Willy-Wombat-English-Improvement-Patch",
+    "lang": null,
+    "pushed": "2026-08-28T12:07:21Z",
+    "size": 15889,
+    "stars": 16
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/ExxistanceDC/Willy-Wombat-English-Improvement-Patch/HEAD/Images/Willy_Wombat_art.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Willy-Wombat-English-Improvement-Patch/HEAD/Images/Willy Wombat (Japan)-251119-123658.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Willy-Wombat-English-Improvement-Patch/HEAD/Images/Willy Wombat (Japan)-251119-123708.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Willy-Wombat-English-Improvement-Patch/HEAD/Images/Willy Wombat (Japan)-251119-123338.png",
+    "https://raw.githubusercontent.com/ExxistanceDC/Willy-Wombat-English-Improvement-Patch/HEAD/Images/Willy Wombat (Japan)-251119-123716.png",
+    "https://github.com/user-attachments/assets/1ebd2c95-0a24-4139-8288-239c2264d466"
+   ]
+  },
+  "fiksr/yuno-android": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T15:59:57Z",
+    "pre": false,
+    "tag": "v1.0.2",
+    "url": "https://github.com/fiksr/yuno-android/releases/tag/v1.0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-21T08:03:43Z",
+    "desc": "Native Android port of YU-NO (2011 English Translation & Sega Saturn Voice Patch)",
+    "full": "fiksr/yuno-android",
+    "lang": "C",
+    "pushed": "2026-10-21T15:59:57Z",
+    "size": 166225,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "flukeylukey1/nappletaleengpatchfix": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-27T08:51:53Z",
+    "pre": false,
+    "tag": "Patch",
+    "url": "https://github.com/flukeylukey1/NappleTaleEngPatchFix/releases/tag/Patch"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-27T08:32:09Z",
+    "desc": "I’ve fixed the memo bug in the English-patched GDI that caused the To-Do list to clear after it was first opened and prevented the Notes and Requests lists from populating. Credit to Rolly for the original 2019 English Patch. Thank you to Dereck (ateam) for Universal Dreamcast Patcher and advice on sharing. ",
+    "full": "flukeylukey1/NappleTaleEngPatchFix",
+    "lang": null,
+    "pushed": "2026-08-27T12:32:04Z",
+    "size": 8,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "gagnonpl/spriggan-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "gameplay": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T03:52:03Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/gagnonpl/spriggan-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-16T01:02:46Z",
+    "desc": "English version patch for Seirei Senshi Spriggan on PC Engine CD-ROM²",
+    "full": "gagnonpl/spriggan-en",
+    "lang": null,
+    "pushed": "2026-10-21T03:49:55Z",
+    "size": 193,
+    "stars": 4
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/gagnonpl/spriggan-en/HEAD/screenshots/title-screen.png",
+    "https://raw.githubusercontent.com/gagnonpl/spriggan-en/HEAD/screenshots/cutscene-1.png",
+    "https://raw.githubusercontent.com/gagnonpl/spriggan-en/HEAD/screenshots/story-cutscene.png",
+    "https://raw.githubusercontent.com/gagnonpl/spriggan-en/HEAD/screenshots/weapons-demo.png",
+    "https://raw.githubusercontent.com/gagnonpl/spriggan-en/HEAD/screenshots/cutscene-2.png",
+    "https://raw.githubusercontent.com/gagnonpl/spriggan-en/HEAD/screenshots/act-title.png"
+   ]
+  },
+  "gengaislop/mm8saturnundub": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T22:01:54Z",
+    "pre": false,
+    "tag": "1.2.0",
+    "url": "https://github.com/gengaislop/MM8SaturnUndub/releases/tag/1.2.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-05-18T12:52:52Z",
+    "desc": "Undub patch for MM8 on Saturn",
+    "full": "gengaislop/MM8SaturnUndub",
+    "lang": "Python",
+    "pushed": "2026-10-18T22:07:55Z",
+    "size": 195,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "gingka8233/happiness-sakura-celebration-english-patch-nintendo-switch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T23:30:26Z",
+    "desc": "English patch for Happiness! Sakura Celebration for Nintendo Switch.",
+    "full": "gingka8233/Happiness-Sakura-Celebration-English-Patch-Nintendo-Switch",
+    "lang": null,
+    "pushed": "2026-10-20T23:32:12Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
   },
   "gitlab.com/neurochitin/miko_kaleido_patch": {
    "readme": {
@@ -414,6 +2387,188 @@
    },
    "shots": []
   },
+  "hexerkat/langrisser3-strategy-guide": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-18T12:58:23Z",
+    "desc": "Strategy guide for Langrisser III (Sega Saturn), built with the English translation patch",
+    "full": "hexerkat/langrisser3-strategy-guide",
+    "lang": "Python",
+    "pushed": "2026-10-18T13:09:35Z",
+    "size": 5571,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "inf37sp/chn-psp-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-09-08T18:45:48Z",
+    "desc": "An English patch for Chaos;Head Noah for PSP (for now the repository description is in Spanish) -- STILL IN PROGRESS",
+    "full": "Inf37SP/CHN-PSP-Patch",
+    "lang": "Batchfile",
+    "pushed": "2026-10-21T15:25:29Z",
+    "size": 10201,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00001.jpg",
+    "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00017.jpg",
+    "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00018.jpg",
+    "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00019.jpg",
+    "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00023.jpg",
+    "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00024.jpg"
+   ]
+  },
+  "itsbalanse/bokuranokazoku-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gameplay": true,
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-13T22:42:51Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/itsbalanse/BokuraNoKazoku-English/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-13T22:42:32Z",
+    "desc": "English fan translation patch for Bokura no Kazoku (PS2, 2005) - apply to your own copy of the game",
+    "full": "itsbalanse/BokuraNoKazoku-English",
+    "lang": "Python",
+    "pushed": "2026-10-13T22:42:51Z",
+    "size": 3644,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/itsbalanse/BokuraNoKazoku-English/HEAD/docs/screenshots/01_title.png",
+    "https://raw.githubusercontent.com/itsbalanse/BokuraNoKazoku-English/HEAD/docs/screenshots/02_diary.png",
+    "https://raw.githubusercontent.com/itsbalanse/BokuraNoKazoku-English/HEAD/docs/screenshots/05_status.png",
+    "https://raw.githubusercontent.com/itsbalanse/BokuraNoKazoku-English/HEAD/docs/screenshots/07_ending.png"
+   ]
+  },
+  "itsrevela/yakuman-ds-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-20T17:27:50Z",
+    "pre": false,
+    "tag": "v0.1.0",
+    "url": "https://github.com/itsRevela/yakuman-ds-english/releases/tag/v0.1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T17:25:27Z",
+    "desc": "English fan translation patch for Yakuman DS (Nintendo DS), using Mahjong Soul terminology",
+    "full": "itsRevela/yakuman-ds-english",
+    "lang": "Python",
+    "pushed": "2026-10-20T17:55:47Z",
+    "size": 1393,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/hand-result.png",
+    "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/opening-captions.png",
+    "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/save-select.png",
+    "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/main-menu.png",
+    "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/single-player-menu.png",
+    "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/character-select.png"
+   ]
+  },
+  "jamesaz0/rockmandash-psp-english-patcher": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Menus only",
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-13T21:43:19Z",
+    "pre": false,
+    "tag": "v1.01",
+    "url": "https://github.com/JamesAZ0/RockmanDASH-PSP-English-Patcher/releases/tag/v1.01"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-11T04:03:17Z",
+    "desc": "Rockman DASH PSP English Patcher for Multiple Platforms",
+    "full": "JamesAZ0/RockmanDASH-PSP-English-Patcher",
+    "lang": "C++",
+    "pushed": "2026-10-13T21:39:28Z",
+    "size": 1010,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "jonny-anime/tokimeki-memorial-2-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-15T22:11:26Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/jonny-anime/tokimeki-memorial-2-english-patch/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-15T01:21:59Z",
+    "desc": "Fan translation of Tokimeki Memorial 2 for PS1",
+    "full": "jonny-anime/tokimeki-memorial-2-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-18T04:47:02Z",
+    "size": 5231,
+    "stars": 5
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/jonny-anime/tokimeki-memorial-2-english-patch/HEAD/translated_screenshots/Screenshot%202026-10-14%20215828.png"
+   ]
+  },
   "julianow/tales-of-symphonia-ngc-undub": {
    "assetOs": {},
    "readme": {
@@ -449,6 +2604,175 @@
     "https://user-images.githubusercontent.com/6155506/134822118-a568d578-94e1-4b00-a0c8-5a40b4e53fc2.png"
    ]
   },
+  "kactusken/fire-pro-wrestling-g-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-20T01:47:17Z",
+    "pre": false,
+    "tag": "v0.3",
+    "url": "https://github.com/kactusken/Fire-Pro-Wrestling-G-English/releases/tag/v0.3"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-15T11:35:48Z",
+    "desc": "English translation for Fire Pro Wrestling G for PS1",
+    "full": "kactusken/Fire-Pro-Wrestling-G-English",
+    "lang": "Python",
+    "pushed": "2026-10-21T16:22:41Z",
+    "size": 3499,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "kactusken/fire-pro-wrestling-iron-slam-96-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-17T23:30:27Z",
+    "pre": false,
+    "tag": "v0.1",
+    "url": "https://github.com/kactusken/Fire-Pro-Wrestling-Iron-Slam-96-English/releases/tag/v0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-17T23:17:41Z",
+    "desc": "English translation for Fire Pro Wrestling Iron Slam '96 for PS1",
+    "full": "kactusken/Fire-Pro-Wrestling-Iron-Slam-96-English",
+    "lang": "Python",
+    "pushed": "2026-10-21T16:28:15Z",
+    "size": 920,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "kactusken/king-of-colosseum-ii-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-17T03:02:34Z",
+    "pre": false,
+    "tag": "v0.1",
+    "url": "https://github.com/kactusken/King-of-Colosseum-II-English/releases/tag/v0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-17T01:46:28Z",
+    "desc": "English translation for King of Colosseum II for PS2",
+    "full": "kactusken/King-of-Colosseum-II-English",
+    "lang": "Python",
+    "pushed": "2026-10-21T16:28:16Z",
+    "size": 8472,
+    "stars": 3
+   },
+   "shots": []
+  },
+  "kactusken/super-wrestle-angels-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T16:23:40Z",
+    "pre": false,
+    "tag": "v0.1",
+    "url": "https://github.com/kactusken/Super-Wrestle-Angels-English/releases/tag/v0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-21T15:02:57Z",
+    "desc": "English Translation for Super Wrestle Angels (SNES)",
+    "full": "kactusken/Super-Wrestle-Angels-English",
+    "lang": "Python",
+    "pushed": "2026-10-21T19:17:01Z",
+    "size": 360,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "kactusken/wrestle-angels-survivor-2-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T21:17:23Z",
+    "pre": false,
+    "tag": "v0.2",
+    "url": "https://github.com/kactusken/Wrestle-Angels-Survivor-2-English/releases/tag/v0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-19T10:57:11Z",
+    "desc": "English translation for Wrestle Angels: Survivor 2 for PS2",
+    "full": "kactusken/Wrestle-Angels-Survivor-2-English",
+    "lang": "Python",
+    "pushed": "2026-10-21T21:12:47Z",
+    "size": 8740,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "kaisaan/gachitora": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-05-15T03:40:23Z",
+    "desc": "English Translation of GachiTora! Abarenbou Kyoushi in High School on PSP",
+    "full": "Kaisaan/gachitora",
+    "lang": "Python",
+    "pushed": "2026-06-20T03:58:31Z",
+    "size": 82,
+    "stars": 0
+   },
+   "shots": []
+  },
   "kaisaan/lostkefin": {
    "assetOs": {},
    "readme": {
@@ -479,6 +2803,138 @@
    },
    "shots": []
   },
+  "kaisaan/newtheory": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-05-09T02:54:58Z",
+    "desc": "English Translation of Ys IV: Mask of the Sun - A New Theory on PS2",
+    "full": "Kaisaan/newtheory",
+    "lang": "Python",
+    "pushed": "2026-09-28T01:16:43Z",
+    "size": 1095,
+    "stars": 5
+   },
+   "shots": []
+  },
+  "kaisaan/sn1-ds-trans": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-02T07:50:43Z",
+    "desc": "Summon Night 1 (NDS) Translation work",
+    "full": "Kaisaan/SN1-DS-Trans",
+    "lang": "Python",
+    "pushed": "2026-10-05T06:25:56Z",
+    "size": 28658,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "kaisaan/wanderers": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-08T03:12:09Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/Kaisaan/wanderers/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-05-09T02:53:04Z",
+    "desc": "English translation of Ys III: Wanderers From Ys on PS2",
+    "full": "Kaisaan/wanderers",
+    "lang": "Python",
+    "pushed": "2026-08-08T05:24:26Z",
+    "size": 95067,
+    "stars": 17
+   },
+   "shots": []
+  },
+  "kakuna285/saki-zenkokuhen-plus-tl-eng": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-19T20:23:46Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/KaKuna285/saki-zenkokuhen-plus-TL-ENG/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-16T14:48:13Z",
+    "desc": "Translation project of the Japanese PSVITA game Saki Zenkoku-hen PLUS",
+    "full": "KaKuna285/saki-zenkokuhen-plus-TL-ENG",
+    "lang": "Python",
+    "pushed": "2026-10-20T19:32:18Z",
+    "size": 444,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T01:28:45Z",
+    "pre": true,
+    "tag": "0.8.6-lute-test1",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.6-lute-test1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-22T01:28:45Z",
+    "size": 35224,
+    "stars": 17
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -503,6 +2959,167 @@
     "stars": 5
    },
    "shots": []
+  },
+  "kodakwizard/hikaru-no-go-3-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-19T14:01:34Z",
+    "pre": true,
+    "tag": "v1.0.2",
+    "url": "https://github.com/KodakWizard/hikaru-no-go-3-english/releases/tag/v1.0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-19T01:03:04Z",
+    "desc": "Hikaru no Go 3 (ヒカルの碁3 / ヒカルの碁３) English translation patch for Nintendo GameCube / GCN (GHTJA4). Editable dialogue, source tools, BPS patch and no-code Windows patcher. Version 1.0.2 beta.",
+    "full": "KodakWizard/hikaru-no-go-3-english",
+    "lang": "Python",
+    "pushed": "2026-10-20T18:33:00Z",
+    "size": 18935,
+    "stars": 4
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/KodakWizard/hikaru-no-go-3-english/HEAD/screenshot-title-v101.png",
+    "https://raw.githubusercontent.com/KodakWizard/hikaru-no-go-3-english/HEAD/screenshot-modes.png",
+    "https://raw.githubusercontent.com/KodakWizard/hikaru-no-go-3-english/HEAD/screenshot-room-dialogue.png",
+    "https://raw.githubusercontent.com/KodakWizard/hikaru-no-go-3-english/HEAD/screenshot-map-dialogue.png",
+    "https://raw.githubusercontent.com/KodakWizard/hikaru-no-go-3-english/HEAD/screenshot-name-entry.png",
+    "https://raw.githubusercontent.com/KodakWizard/hikaru-no-go-3-english/HEAD/screenshot-match.png"
+   ]
+  },
+  "kotcrab/umineko-portable-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Menus only",
+     "ex": {
+      "subs": true
+     },
+     "pct": 100
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-19T16:47:24Z",
+    "pre": false,
+    "tag": "v2.0",
+    "url": "https://github.com/kotcrab/umineko-portable-english/releases/tag/v2.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-08T07:07:17Z",
+    "desc": "English translation patch for the Umineko Portable PSP games",
+    "full": "kotcrab/umineko-portable-english",
+    "lang": "Kotlin",
+    "pushed": "2026-10-19T16:47:24Z",
+    "size": 109,
+    "stars": 12
+   },
+   "shots": []
+  },
+  "krkpdf/pokeemerald-latin": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-06-10T13:03:37Z",
+    "pre": false,
+    "tag": "v0.2.3.1",
+    "url": "https://github.com/krkpdf/pokeemerald-latin/releases/tag/v0.2.3.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-03-21T09:14:24Z",
+    "desc": "Latin Translation of Pokémon Emerald",
+    "full": "krkpdf/pokeemerald-latin",
+    "lang": "Python",
+    "pushed": "2026-08-25T08:55:31Z",
+    "size": 3657,
+    "stars": 6
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/krkpdf/pokeemerald-latin/HEAD/header.png"
+   ]
+  },
+  "legendarydoors/house-of-tarot-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-09-27T02:55:17Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/LegendaryDoors/house-of-tarot-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-27T02:54:54Z",
+    "desc": "English translation patch for House of Tarot, a 1991 Game Gear tarot-reading program by Sega.",
+    "full": "LegendaryDoors/house-of-tarot-english",
+    "lang": "Python",
+    "pushed": "2026-09-27T02:55:17Z",
+    "size": 114,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/LegendaryDoors/house-of-tarot-english/HEAD/screenshots/house.png",
+    "https://raw.githubusercontent.com/LegendaryDoors/house-of-tarot-english/HEAD/screenshots/tellers.png",
+    "https://raw.githubusercontent.com/LegendaryDoors/house-of-tarot-english/HEAD/screenshots/card.png",
+    "https://raw.githubusercontent.com/LegendaryDoors/house-of-tarot-english/HEAD/screenshots/reading.png"
+   ]
+  },
+  "legendarydoors/tarot-mystery-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-09-26T03:11:21Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/LegendaryDoors/tarot-mystery-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-26T03:10:17Z",
+    "desc": "English translation patch for Tarot Mystery, a 1995 Super Famicom tarot-reading program by Visit/Ukiyotei.",
+    "full": "LegendaryDoors/tarot-mystery-english",
+    "lang": "Python",
+    "pushed": "2026-09-26T03:11:19Z",
+    "size": 675,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/LegendaryDoors/tarot-mystery-english/HEAD/screenshots/title.png",
+    "https://raw.githubusercontent.com/LegendaryDoors/tarot-mystery-english/HEAD/screenshots/menu.png",
+    "https://raw.githubusercontent.com/LegendaryDoors/tarot-mystery-english/HEAD/screenshots/reading.png",
+    "https://raw.githubusercontent.com/LegendaryDoors/tarot-mystery-english/HEAD/screenshots/zodiac.png"
+   ]
   },
   "lifebottle/narikiri-dungeon-x": {
    "assetOs": {},
@@ -563,6 +3180,36 @@
     "stars": 12
    },
    "shots": []
+  },
+  "lifebottle/star-ocean-2": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "offsite"
+   ],
+   "repo": {
+    "archived": false,
+    "created": "2022-10-23T14:50:12Z",
+    "desc": "An attempt to create an English patch for Star Ocean Second Evolution (Vita)",
+    "full": "lifebottle/Star-Ocean-2",
+    "lang": null,
+    "pushed": "2024-04-28T18:49:10Z",
+    "size": 545,
+    "stars": 11
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/lifebottle/Star-Ocean-2/HEAD/img/so2_01.png",
+    "https://raw.githubusercontent.com/lifebottle/Star-Ocean-2/HEAD/img/so2_decrypt.gif",
+    "https://raw.githubusercontent.com/lifebottle/Star-Ocean-2/HEAD/img/so2_psarc01.png",
+    "https://raw.githubusercontent.com/lifebottle/Star-Ocean-2/HEAD/img/so2_quickbms01.png",
+    "https://raw.githubusercontent.com/lifebottle/Star-Ocean-2/HEAD/img/so2psv_repack.png",
+    "https://raw.githubusercontent.com/lifebottle/Star-Ocean-2/HEAD/img/so2_quickbms02.png"
+   ]
   },
   "lifebottle/tales-of-destiny-2": {
    "assetOs": {},
@@ -813,6 +3460,35 @@
    },
    "shots": []
   },
+  "llamapixels/gundam-assault-survive-100-english-translation-patch--psp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-16T06:20:56Z",
+    "pre": false,
+    "tag": "V1.1",
+    "url": "https://github.com/Llamapixels/Gundam-Assault-Survive-100-English-Translation-Patch--PSP/releases/tag/V1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-16T06:17:05Z",
+    "desc": "Gundam Assault Survive English Translation Patch - PSP 100%",
+    "full": "Llamapixels/Gundam-Assault-Survive-100-English-Translation-Patch--PSP",
+    "lang": null,
+    "pushed": "2026-10-16T13:43:06Z",
+    "size": 7,
+    "stars": 8
+   },
+   "shots": []
+  },
   "masagrator/higurashienx": {
    "assetOs": {},
    "readme": {
@@ -849,6 +3525,847 @@
     "https://i.imgur.com/D7JE22Q.jpg"
    ]
   },
+  "megastylerc/idolmaster-dearly-stars-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-07-26T07:06:08Z",
+    "pre": false,
+    "tag": "v0.4",
+    "url": "https://github.com/megastylerC/idolmaster-dearly-stars-english/releases/tag/v0.4"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-11T07:30:47Z",
+    "desc": "English fan-translation patch + tools for THE iDOLM@STER: Dearly Stars (NDS). No ROM or Japanese script included.",
+    "full": "megastylerC/idolmaster-dearly-stars-english",
+    "lang": "Python",
+    "pushed": "2026-07-26T07:06:08Z",
+    "size": 479,
+    "stars": 5
+   },
+   "shots": []
+  },
+  "mgdays/kisekko-gurumi-eng-patch-tools": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-21T19:27:06Z",
+    "desc": "Decomp-derived toolset for creating an English patch for the GBA game, Kisekko Gurumi.",
+    "full": "MGDays/kisekko-gurumi-eng-patch-tools",
+    "lang": "Python",
+    "pushed": "2026-10-21T20:53:16Z",
+    "size": 128,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "micaelmaciel/monster-guardians-eng": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T04:04:38Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/micaelmaciel/monster-guardians-eng/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-21T13:40:16Z",
+    "desc": "MTL translation patch for monster guardians made with open-weight models.",
+    "full": "micaelmaciel/monster-guardians-eng",
+    "lang": "Python",
+    "pushed": "2026-10-22T05:56:40Z",
+    "size": 616,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/cb-chara-wars-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-11T03:36:37Z",
+    "pre": false,
+    "tag": "v0.2",
+    "url": "https://github.com/minhnhattonthat/cb-chara-wars-en/releases/tag/v0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-11T03:36:05Z",
+    "desc": "English fan translation of CB Chara Wars: Ushinawareta Gag (SNES)",
+    "full": "minhnhattonthat/cb-chara-wars-en",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:11:57Z",
+    "size": 104,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/dolucky-no-a-league-soccer": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-20T07:26:33Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/dolucky-no-a-league-soccer/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T07:25:30Z",
+    "desc": "English fan translation of Dolucky no A.League Soccer (SNES)",
+    "full": "minhnhattonthat/dolucky-no-a-league-soccer",
+    "lang": "Python",
+    "pushed": "2026-10-20T07:26:52Z",
+    "size": 67,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/erementar-gerad": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T23:52:12Z",
+    "pre": false,
+    "tag": "v0.9.1-beta",
+    "url": "https://github.com/minhnhattonthat/erementar-gerad/releases/tag/v0.9.1-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-18T23:51:29Z",
+    "desc": "English fan translation patch for Erementar Gerad: Tozasareshi Uta (GBA)",
+    "full": "minhnhattonthat/erementar-gerad",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:04Z",
+    "size": 667,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/evangelion-sound-impact-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-19T23:56:23Z",
+    "pre": false,
+    "tag": "v0.9.1",
+    "url": "https://github.com/minhnhattonthat/evangelion-sound-impact-en/releases/tag/v0.9.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-13T02:46:00Z",
+    "desc": "English fan translation patch for Rebuild of Evangelion -Sound Impact- (PSP)",
+    "full": "minhnhattonthat/evangelion-sound-impact-en",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:06Z",
+    "size": 60,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/gachasute-dino-device-2-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-20T06:17:46Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/gachasute-dino-device-2-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T06:16:32Z",
+    "desc": "English fan translation of Gachasute! Dino Device 2 - Dragon / Phoenix (GBA)",
+    "full": "minhnhattonthat/gachasute-dino-device-2-en",
+    "lang": "Python",
+    "pushed": "2026-10-20T06:18:10Z",
+    "size": 338,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/granbo": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T22:55:31Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/granbo/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-17T23:05:14Z",
+    "desc": "English fan translation of Granbo (GBA)",
+    "full": "minhnhattonthat/granbo",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:09Z",
+    "size": 926,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/great-battle-gaiden-2-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-10T12:09:54Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/great-battle-gaiden-2-english/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-10T11:55:27Z",
+    "desc": "English fan translation of The Great Battle Gaiden 2: Matsuri da Wasshoi (SNES, 1994)",
+    "full": "minhnhattonthat/great-battle-gaiden-2-english",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:11Z",
+    "size": 267,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T23:50:41Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-21T23:50:21Z",
+    "desc": "English fan translation of Hanjuku Hero: Ah, Sekai yo Hanjuku Nare...!! (SNES, 1992, Square)",
+    "full": "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare",
+    "lang": "Python",
+    "pushed": "2026-10-21T23:51:17Z",
+    "size": 331,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/kabuki-rocks": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-20T09:17:45Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/kabuki-rocks/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T09:17:28Z",
+    "desc": "English translation patch for Kabuki Rocks (SNES)",
+    "full": "minhnhattonthat/kabuki-rocks",
+    "lang": "Python",
+    "pushed": "2026-10-20T09:17:45Z",
+    "size": 411,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/kidou-senshi-gundam-seed-destiny": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-19T11:42:15Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/kidou-senshi-gundam-seed-destiny/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-19T11:41:00Z",
+    "desc": "English fan translation of Mobile Suit Gundam SEED Destiny (GBA)",
+    "full": "minhnhattonthat/kidou-senshi-gundam-seed-destiny",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:13Z",
+    "size": 150,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/little-master-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-10T09:37:14Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/little-master-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-10T09:37:00Z",
+    "desc": "English translation patch for Little Master: Nijiiro no Maseki (SNES)",
+    "full": "minhnhattonthat/little-master-en",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:16Z",
+    "size": 546,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/monster-guardians-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-20T04:01:02Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/monster-guardians-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T03:54:34Z",
+    "desc": "English fan translation of Monster Guardians (GBA, Konami 2001)",
+    "full": "minhnhattonthat/monster-guardians-en",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:00:58Z",
+    "size": 508,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/recca-no-honoo-the-game": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-16T05:58:55Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/recca-no-honoo-the-game/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-16T05:58:28Z",
+    "desc": "English fan translation of Recca no Honoo - The Game (GBA)",
+    "full": "minhnhattonthat/recca-no-honoo-the-game",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:19Z",
+    "size": 202,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/smt-devil-children-2-honoo-no-sho": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T06:14:25Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/smt-devil-children-2-honoo-no-sho/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-22T06:13:46Z",
+    "desc": "English fan translation of Shin Megami Tensei: Devil Children 2 Honoo no Sho / DemiKids Book of Fire (GBA)",
+    "full": "minhnhattonthat/smt-devil-children-2-honoo-no-sho",
+    "lang": "Python",
+    "pushed": "2026-10-22T06:14:22Z",
+    "size": 1320,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/sugoro-quest-dicenics-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-19T10:40:54Z",
+    "pre": false,
+    "tag": "v0.95",
+    "url": "https://github.com/minhnhattonthat/sugoro-quest-dicenics-en/releases/tag/v0.95"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-19T10:40:08Z",
+    "desc": "English fan translation of Sugoro Quest++: Dicenics (SNES)",
+    "full": "minhnhattonthat/sugoro-quest-dicenics-en",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:31Z",
+    "size": 293,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/super-gomoku-narabe-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-15T04:34:21Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/super-gomoku-narabe-translation/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-15T04:34:00Z",
+    "desc": "English and Vietnamese fan translation of Super Gomoku Narabe Renju (SFC)",
+    "full": "minhnhattonthat/super-gomoku-narabe-translation",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:34Z",
+    "size": 249,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/translate-retro-game": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-08T23:04:28Z",
+    "desc": "Agent skill + tested tools for fan-translating Japanese retro games (SNES, GBA, NDS, PS1, PSP) into English: recon, text extract/insert, VWF, graphics text, parallel translator agents, headless emulator QA, BPS/xdelta releases.",
+    "full": "minhnhattonthat/translate-retro-game",
+    "lang": "Python",
+    "pushed": "2026-10-22T05:05:57Z",
+    "size": 415,
+    "stars": 3
+   },
+   "shots": []
+  },
+  "minhnhattonthat/yu-yu-hakusho-2-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-10T12:10:57Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/yu-yu-hakusho-2-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-10T12:10:00Z",
+    "desc": "English fan translation of Yu Yu Hakusho 2: Kakutou no Shou (SNES)",
+    "full": "minhnhattonthat/yu-yu-hakusho-2-english",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:36Z",
+    "size": 134,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/zero-one-sp-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-10T08:49:11Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/zero-one-sp-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-10T08:48:09Z",
+    "desc": "English fan translation of Zero One SP (GBA, 2004)",
+    "full": "minhnhattonthat/zero-one-sp-english",
+    "lang": "Python",
+    "pushed": "2026-10-20T04:12:39Z",
+    "size": 2792,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "mr-shizzy/everybodys-golf-coca-cola-psp-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-14T02:46:56Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-14T02:46:41Z",
+    "desc": "Everybody's Golf Portable: Coca-Cola Special Edition (PSP) English Translation Patch",
+    "full": "Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch",
+    "lang": null,
+    "pushed": "2026-10-14T02:46:56Z",
+    "size": 863,
+    "stars": 3
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch/HEAD/screenshots/01_title_screen.webp",
+    "https://raw.githubusercontent.com/Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch/HEAD/screenshots/02_single_player_menu.webp",
+    "https://raw.githubusercontent.com/Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch/HEAD/screenshots/03_confirmation_screen.webp",
+    "https://raw.githubusercontent.com/Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch/HEAD/screenshots/04_in_round_hud.webp"
+   ]
+  },
+  "mykaadev/monhun-nikki-poka-poka-airu-mura-g-psp-translation-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-07-24T21:01:36Z",
+    "desc": "as simple as it is, the translation patch of all important dialogue of the game",
+    "full": "mykaadev/MonHun-Nikki-Poka-Poka-Airu-Mura-G-PSP-Translation-Patch",
+    "lang": "Batchfile",
+    "pushed": "2026-07-25T14:02:10Z",
+    "size": 1336,
+    "stars": 10
+   },
+   "shots": []
+  },
+  "mys7icfox/evangelion2-en-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-10T23:39:03Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/mys7icfox/Evangelion2-EN-Patch/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-10T03:43:15Z",
+    "desc": "Neon Genesis Evangelion 2 English Patch",
+    "full": "mys7icfox/Evangelion2-EN-Patch",
+    "lang": "Python",
+    "pushed": "2026-10-18T05:12:15Z",
+    "size": 2222,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "neokitsune5/qg_english_patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-07-21T09:34:57Z",
+    "pre": false,
+    "tag": "v1.3.2",
+    "url": "https://github.com/Neokitsune5/QG_English_Patch/releases/tag/v1.3.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-21T09:33:39Z",
+    "desc": "English translation patch for Queen's Gate: Spiral Chaos (PPSSPP, ULJS00377)",
+    "full": "Neokitsune5/QG_English_Patch",
+    "lang": null,
+    "pushed": "2026-07-21T10:59:36Z",
+    "size": 1,
+    "stars": 11
+   },
+   "shots": []
+  },
+  "netrunner12/popful-mail-sfc-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T23:45:50Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/Netrunner12/Popful-Mail-SFC-English-Translation/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-18T15:50:47Z",
+    "desc": "English translation patch for the 1994 release of Popful Mail on the Super Famicom",
+    "full": "Netrunner12/Popful-Mail-SFC-English-Translation",
+    "lang": "Python",
+    "pushed": "2026-10-20T21:32:16Z",
+    "size": 877,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/title.png",
+    "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/intro.png",
+    "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/town001.png",
+    "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/town002.png",
+    "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/town003.png",
+    "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/town004.png"
+   ]
+  },
+  "nn-exe/pokemon-hyper-emerald-5.7-qol": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "gameplay": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-16T04:21:32Z",
+    "pre": false,
+    "tag": "v1.9",
+    "url": "https://github.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/releases/tag/v1.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-13T08:14:44Z",
+    "desc": "English translation + modern QoL patches for Pokemon Hyper Emerald: Lost Artifacts v5.7 (GBA ROM hack), built without source",
+    "full": "Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL",
+    "lang": "Python",
+    "pushed": "2026-10-22T07:24:30Z",
+    "size": 80673,
+    "stars": 21
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-v1.9.gif",
+    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-maps-travel.gif",
+    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-bag-menus.gif",
+    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-dexnav.gif",
+    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-story-bosses.gif",
+    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/pokedex.gif"
+   ]
+  },
+  "nonagongoron/tornekos-great-adventure-sfc-with-remaster-script": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-09-24T07:24:34Z",
+    "desc": "An addendum + ROMHack that aims to provide the updated script of the HD Remaster, and add little cosmetic \"improvements\" to the game and menus. Two Patches: DQ if you want modern Dragon Quest. DW if you want localizations and terminology so be Dragon Warrior (pre-2005) and use American English.",
+    "full": "NonagonGoron/Tornekos-Great-Adventure-SFC-with-Remaster-Script",
+    "lang": null,
+    "pushed": "2026-10-16T02:40:02Z",
+    "size": 30758,
+    "stars": 8
+   },
+   "shots": []
+  },
+  "nrlemo/super-robot-wars-alpha-psx-english-ver": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-17T22:27:35Z",
+    "pre": false,
+    "tag": "v1.00",
+    "url": "https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-05T10:39:02Z",
+    "desc": "Super Robot Wars Alpha (PSX) English Ver. — fan translation patch (xdelta) for Super Robot Taisen Alpha (SLPS-02636)",
+    "full": "Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver",
+    "lang": null,
+    "pushed": "2026-10-17T22:27:57Z",
+    "size": 3061,
+    "stars": 7
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f03100_320x240_16.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f03120_320x240_16.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f03900_320x240_16.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f03900_320x240_163.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f06340_320x240_16.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f29300_320x240_16.png"
+   ]
+  },
   "ooa113y/umineko-catbox-english": {
    "assetOs": {},
    "readme": {
@@ -873,6 +4390,34 @@
     "pushed": "2024-06-27T09:36:28Z",
     "size": 833504,
     "stars": 111
+   },
+   "shots": []
+  },
+  "originheartgold/origin-heart-gold-en-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-13T12:19:43Z",
+    "pre": false,
+    "tag": "v1.0.0-rc8",
+    "url": "https://github.com/originheartgold/origin-heart-gold-EN-translation/releases/tag/v1.0.0-rc8"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-04T10:51:23Z",
+    "desc": "Official English translation of Pokémon Origin HeartGold (起源心金): xdelta patch, guide and Pokédex",
+    "full": "originheartgold/origin-heart-gold-EN-translation",
+    "lang": "Python",
+    "pushed": "2026-10-19T09:18:29Z",
+    "size": 27757,
+    "stars": 25
    },
    "shots": []
   },
@@ -931,6 +4476,126 @@
    },
    "shots": []
   },
+  "phamkv/gotokano": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-16T09:27:55Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/phamkv/gotokano/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-15T15:15:05Z",
+    "desc": "English Patch for The Quintessential Quintuplets: Five Promises Made With Her (Switch)",
+    "full": "phamkv/gotokano",
+    "lang": null,
+    "pushed": "2026-10-16T09:29:34Z",
+    "size": 77112,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "phukyes/gunparade-march-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T21:15:27Z",
+    "pre": false,
+    "tag": "GPM-EN62",
+    "url": "https://github.com/phukyes/Gunparade-March-English/releases/tag/GPM-EN62"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-29T22:01:26Z",
+    "desc": "English fan translation patch for Koukidou Gensou Gunparade March (PS1)",
+    "full": "phukyes/Gunparade-March-English",
+    "lang": null,
+    "pushed": "2026-10-18T21:15:27Z",
+    "size": 4,
+    "stars": 7
+   },
+   "shots": []
+  },
+  "pokemongodb/wonderswan-english-patches": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-15T21:38:34Z",
+    "pre": false,
+    "tag": "dekotora-v1.1",
+    "url": "https://github.com/PokemonGoDB/wonderswan-english-patches/releases/tag/dekotora-v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-13T02:56:52Z",
+    "desc": "AI-assisted English translation patches for Japanese WonderSwan and WonderSwan Color games",
+    "full": "PokemonGoDB/wonderswan-english-patches",
+    "lang": "JavaScript",
+    "pushed": "2026-10-16T16:45:18Z",
+    "size": 4912,
+    "stars": 2
+   },
+   "shots": []
+  },
+  "promptpirate-x/evangelion-64-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-06T02:09:02Z",
+    "pre": false,
+    "tag": "v0.5",
+    "url": "https://github.com/promptpirate-x/evangelion-64-english/releases/tag/v0.5"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-06T02:06:15Z",
+    "desc": "English fan translation patch for Neon Genesis Evangelion (Nintendo 64), with the tools used to make it",
+    "full": "promptpirate-x/evangelion-64-english",
+    "lang": "Python",
+    "pushed": "2026-10-06T02:51:50Z",
+    "size": 5473,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/promptpirate-x/evangelion-64-english/HEAD/screenshots/titlecard.png",
+    "https://raw.githubusercontent.com/promptpirate-x/evangelion-64-english/HEAD/screenshots/briefing.png",
+    "https://raw.githubusercontent.com/promptpirate-x/evangelion-64-english/HEAD/screenshots/narration1.png",
+    "https://raw.githubusercontent.com/promptpirate-x/evangelion-64-english/HEAD/screenshots/pause.png",
+    "https://raw.githubusercontent.com/promptpirate-x/evangelion-64-english/HEAD/screenshots/destroyed.png",
+    "https://raw.githubusercontent.com/promptpirate-x/evangelion-64-english/HEAD/screenshots/mainmenu.png"
+   ]
+  },
   "pumpkinhasapatch/dokodemo-psp-english": {
    "assetOs": {},
    "readme": {
@@ -968,6 +4633,105 @@
     "https://www.romhacking.net/utilities/screenshots/598screenshot1.png"
    ]
   },
+  "redeted/megami-ibunroku-persona-ps1-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gameplay": true,
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-14T03:59:22Z",
+    "pre": false,
+    "tag": "v1.0.2",
+    "url": "https://github.com/Redeted/megami-ibunroku-persona-ps1-translation/releases/tag/v1.0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-10T18:08:36Z",
+    "desc": "English translation of Megami Ibunroku Persona (PS1, SLPS-00500) with an optional 60 fps / QoL patch",
+    "full": "Redeted/megami-ibunroku-persona-ps1-translation",
+    "lang": "Python",
+    "pushed": "2026-10-18T01:02:09Z",
+    "size": 3224,
+    "stars": 5
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
+    "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/2.png",
+    "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/3.png",
+    "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/4.png",
+    "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/5.png",
+    "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/6.png"
+   ]
+  },
+  "retro-trans/super-tokusatsu-taisen-2001": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T09:37:14Z",
+    "pre": false,
+    "tag": "v0.3.27",
+    "url": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.27"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-08T09:57:56Z",
+    "desc": "English translation toolchain for Super Tokusatsu Taisen 2001 (PS1, SLPS-02863)",
+    "full": "retro-trans/Super-Tokusatsu-Taisen-2001",
+    "lang": "Python",
+    "pushed": "2026-10-22T09:53:09Z",
+    "size": 1903,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T18:52:33Z",
+    "pre": true,
+    "tag": "v0.1.10-beta",
+    "url": "https://github.com/retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation/releases/tag/v0.1.10-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-11T10:08:10Z",
+    "desc": "English beta patch for Blue Seed: Kushinada Hirokuden (Saturn). Testing and translation review in progress. Volunteer testers wanted: report translation/display bugs with screenshots. ROM-free release.",
+    "full": "retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation",
+    "lang": null,
+    "pushed": "2026-10-21T18:52:33Z",
+    "size": 30,
+    "stars": 3
+   },
+   "shots": []
+  },
   "rikimtasu/summon-night-5-undub": {
    "noRelease": true,
    "readme": {
@@ -989,6 +4753,188 @@
     "pushed": "2026-10-15T10:59:16Z",
     "size": 1017,
     "stars": 0
+   },
+   "shots": []
+  },
+  "rockefellera/tdq-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T15:40:15Z",
+    "pre": true,
+    "tag": "v0.1.0-beta",
+    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v0.1.0-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-21T15:20:44Z",
+    "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
+    "full": "RockefellerA/TDQ-EN",
+    "lang": null,
+    "pushed": "2026-10-21T16:01:38Z",
+    "size": 4,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "satelliteoflove/dimguil-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-03T20:09:17Z",
+    "desc": "English translation patch for Wizardry: Dimguil (PS1, SLPS-02691 Rev 1)",
+    "full": "satelliteoflove/dimguil-english",
+    "lang": "Python",
+    "pushed": "2026-10-20T12:47:24Z",
+    "size": 10516,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/satelliteoflove/dimguil-english/HEAD/docs/screenshots/combat.png",
+    "https://raw.githubusercontent.com/satelliteoflove/dimguil-english/HEAD/docs/screenshots/guy-and-alstron.png",
+    "https://raw.githubusercontent.com/satelliteoflove/dimguil-english/HEAD/docs/screenshots/tavern-recruit.png"
+   ]
+  },
+  "saupernova13/kamigami-no-asobi-psp-en": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-06T18:40:05Z",
+    "desc": "A complete machine and llm translation of Kamigami no Asobi on the PSP",
+    "full": "Saupernova13/kamigami-no-asobi-psp-en",
+    "lang": "Python",
+    "pushed": "2026-10-07T06:56:02Z",
+    "size": 4303,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "scatterdbrain/pachipara-12-oumi-to-natsu-no-omoide-ps2-english-translation-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2025-04-29T08:26:49Z",
+    "desc": "",
+    "full": "ScatterdBrain/PachiPara-12-Oumi-to-Natsu-no-Omoide-PS2-English-Translation-Patch",
+    "lang": "Python",
+    "pushed": "2026-10-20T17:06:49Z",
+    "size": 46633,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "scienceandresearch/ogre-battle-gaiden-english-plus": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-12T00:04:16Z",
+    "pre": false,
+    "tag": "v1.0.0",
+    "url": "https://github.com/scienceandresearch/ogre-battle-gaiden-english-plus/releases/tag/v1.0.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-10T12:02:26Z",
+    "desc": "English fan translation of Densetsu no Ogre Battle Gaiden: Zenobia no Ouji (Neo Geo Pocket Color): BPS patch + Windows player. Bring your own cartridge dump; contains no game data.",
+    "full": "scienceandresearch/ogre-battle-gaiden-english-plus",
+    "lang": "Python",
+    "pushed": "2026-10-12T00:26:54Z",
+    "size": 1285,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "smokej-git/letsgo-eternal-wings-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-09-27T07:35:11Z",
+    "pre": false,
+    "tag": "v1.0.2",
+    "url": "https://github.com/SmokeJ-Git/letsgo-eternal-wings-english/releases/tag/v1.0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-24T08:29:02Z",
+    "desc": "🏎️ English fan translation patch for Bakusou Kyoudai Let's & Go!! Eternal Wings (PS1, SLPS-01489) 🇬🇧",
+    "full": "SmokeJ-Git/letsgo-eternal-wings-english",
+    "lang": null,
+    "pushed": "2026-09-27T07:35:11Z",
+    "size": 1688,
+    "stars": 4
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/SmokeJ-Git/letsgo-eternal-wings-english/HEAD/screenshots/screenshot-1-dialogue.png",
+    "https://raw.githubusercontent.com/SmokeJ-Git/letsgo-eternal-wings-english/HEAD/screenshots/screenshot-2-world-map.png",
+    "https://raw.githubusercontent.com/SmokeJ-Git/letsgo-eternal-wings-english/HEAD/screenshots/screenshot-3-mode-select.png"
+   ]
+  },
+  "sneekymellon/zoids-saga-gba-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-19T06:54:06Z",
+    "desc": "English patch for the Japanese Zoids Saga GBA Rom ",
+    "full": "SneekyMellon/Zoids-Saga-GBA-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-19T06:57:55Z",
+    "size": 300,
+    "stars": 1
    },
    "shots": []
   },
@@ -1083,6 +5029,33 @@
     "https://raw.githubusercontent.com/SymphoniaLauren/Tales-of-Rebirth/main/assets_archives/readme/pak1.png"
    ]
   },
+  "tangobunny/gb-sailor-moon-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-26T14:31:16Z",
+    "pre": false,
+    "tag": "v1.1.1",
+    "url": "https://github.com/TangoBunny/GB-Sailor-Moon-English/releases/tag/v1.1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-08T14:41:50Z",
+    "desc": "Fan-translation and added features for Bishoujo Senshi Sailor Moon on Game Boy.  For the gaming zine at tangopunk.com",
+    "full": "TangoBunny/GB-Sailor-Moon-English",
+    "lang": null,
+    "pushed": "2026-10-21T16:54:17Z",
+    "size": 125,
+    "stars": 8
+   },
+   "shots": []
+  },
   "thesola10/yc_english": {
    "noRelease": true,
    "readme": {
@@ -1105,6 +5078,116 @@
     "stars": 16
    },
    "shots": []
+  },
+  "topcatromhacking-lgtm/dragon-quest-heroes-switch-english-undub": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {},
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-13T16:17:06Z",
+    "desc": "",
+    "full": "topcatromhacking-lgtm/dragon-quest-heroes-switch-english-undub",
+    "lang": "Python",
+    "pushed": "2026-10-15T17:48:39Z",
+    "size": 319,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "wandering-heiho/vantage_master_portable_psp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-01T23:02:53Z",
+    "pre": false,
+    "tag": "Releases",
+    "url": "https://github.com/Wandering-Heiho/Vantage_Master_Portable_PSP/releases/tag/Releases"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-03T04:54:01Z",
+    "desc": "Personal project to translate the gameplay/menu text of the game into English.",
+    "full": "Wandering-Heiho/Vantage_Master_Portable_PSP",
+    "lang": null,
+    "pushed": "2026-10-14T20:16:51Z",
+    "size": 189361,
+    "stars": 3
+   },
+   "shots": []
+  },
+  "yingyangtongxue/detective-conan-kakokara-nds-en-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "retrans": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-06-06T22:07:56Z",
+    "desc": "Detective Conan NDS - English Fan Translation",
+    "full": "yingyangtongxue/detective-conan-kakokara-nds-en-patch",
+    "lang": "Python",
+    "pushed": "2026-06-06T22:44:11Z",
+    "size": 29512,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/yingyangtongxue/detective-conan-kakokara-nds-en-patch/HEAD/docs/screenshots/0.png",
+    "https://raw.githubusercontent.com/yingyangtongxue/detective-conan-kakokara-nds-en-patch/HEAD/docs/screenshots/1.png",
+    "https://raw.githubusercontent.com/yingyangtongxue/detective-conan-kakokara-nds-en-patch/HEAD/docs/screenshots/2.png",
+    "https://raw.githubusercontent.com/yingyangtongxue/detective-conan-kakokara-nds-en-patch/HEAD/docs/screenshots/3.png",
+    "https://raw.githubusercontent.com/yingyangtongxue/detective-conan-kakokara-nds-en-patch/HEAD/docs/screenshots/preview2.gif"
+   ]
+  },
+  "zlotny/digimon-adventure-psp-translation-kit": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-05-31T17:47:04Z",
+    "desc": "Translation kit for the game Digimon Adventure for PSP. You provide the ISO, tools extract text+images. Just translate and generate a patch!",
+    "full": "zlotny/digimon-adventure-psp-translation-kit",
+    "lang": "Python",
+    "pushed": "2026-10-21T12:22:15Z",
+    "size": 602,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/zlotny/digimon-adventure-psp-translation-kit/HEAD/docs/screenshot.png"
+   ]
   }
  },
  "version": 1
