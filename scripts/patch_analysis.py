@@ -446,7 +446,7 @@ CDR_CATEGORIES = {
     "sega-genesis-roms": "Mega Drive", "genesis": "Mega Drive", "master-system": "Master System", "game-gear": "Game Gear",
     "turbografx-cd": "PC Engine CD", "pce-cd": "PC Engine CD", "turbografx-16": "PC Engine", "pc-engine": "PC Engine", "pc-fx": "PC-FX",
     "wonderswan": "WonderSwan", "wonderswan-color": "WonderSwan Color", "neo-geo-pocket": "Neo Geo Pocket Color"}
-CDR_NOT_CONSOLE = re.compile(r"^(pc|pc-98|pc98|msx|x68000|fm-towns|dos|windows|mac|arcade|mame)", re.I)
+CDR_NOT_CONSOLE = re.compile(r"^(pc|pc-?games?|pc-?isos?|pc-?98|msx\d?|msx-?roms?|x68000|sharp-x68000|fm-towns|dos|windows|mac|arcade|mame)$", re.I)   # whole category names: "pc-engine" is a console
 CDR_POST = re.compile(r"https?://(?:www\.)?cdromance\.(?:org|com)/([a-z0-9_-]+)/([a-z0-9_.%-]+)/?(?=[\"'#?])", re.I)
 CDR_NOT_POST = {"translations", "page", "tag", "category", "author", "genre", "wp-content", "wp-json", "feed", "search", "forum", "forums", "members", "request", "requests", "about", "contact", "dmca"}
 
@@ -479,7 +479,7 @@ PATCH_PAGE = re.compile(r"romhacking\.net/(translations|hacks|homebrew|utilities
                         r"viewtopic\.php|/threads?/|/forums?/[^/]+/\d|translat|undub|patch|/projects?/|neocities|wordpress\.com|blogspot\.|tumblr\.com/post", re.I)
 
 
-CDR_TITLE_JUNK = re.compile(r"\s*\((?:[^()]*\b(?:english|patched|translat|undub|japan|usa|europe|hack|mtl|j\+e)\b[^()]*)\)|\s*\[[^\]]*\]|\s+(?:PSX2PSP|English Patched|English Patch|Undub(?:bed)?|ISO|ROM|Eboot)\b.*$", re.I)
+CDR_TITLE_JUNK = re.compile(r"\s*\((?:[^()]*\b(?:english|patched|translat|undub|japan|usa|europe|hack|mtl|j\+e)\b[^()]*)\)|\s*\[[^\]]*\]|\s+(?:PSX2PSP|English Patched|English Patch|Undub(?:bed)?|ISO|ROM|Eboot|Download)\b.*$", re.I)
 
 
 def clean_cdr_title(t):
@@ -493,6 +493,12 @@ def norm_source(u):
     """GitHub release or tree links become the repository itself, so it matches what Patch Watch already tracks."""
     m = re.match(r"^(https?://(?:www\.)?github\.com/[^/]+/[^/#?]+)", u or "", re.I)
     return re.sub(r"\.git$", "", m.group(1)) if m else u
+
+
+def title_overlap(u, title):
+    words = {w for w in re.findall(r"[a-z0-9]{3,}", (title or "").lower()) if w not in ("the", "and", "english", "patched", "patch", "translation", "japan")}
+    path = urllib.parse.unquote((u or "").lower())
+    return sum(1 for w in words if w in path)
 
 
 def _rank(links, title):

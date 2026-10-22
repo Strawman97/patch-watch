@@ -32,7 +32,7 @@ A single-page tracker for English fan translations and undubs of Japanese consol
 - **Screenshots:** the patch itself, from its README or patch page, and the original game, from IGDB and libretro-thumbnails. Click one to enlarge it; the arrow keys page through them.
 - **Follow list:** tap the heart on a project, then use **Check followed** to check only those.
 - **Alerts** for new releases and versions, updated patch pages, newly listed projects and links that stop working.
-- **Find a game:** search Patch Watch's list, see newly found patches that aren't listed yet, search GitHub from the page, or jump to Romhack Plaza, Romhacking.net, GameBrew, GitHub, r/fantranslation or the web with the game's name filled in.
+- **New patches are added on their own:** every refresh looks for new English translations and undubs (Romhack Plaza, GameBrew, GitHub, the Internet Archive and the sources credited on CDRomance) and adds the ones that pass the checks below straight to the list. They show up like any other project, and the Activity tab says what was added.
 - **Add project:** track anything else by its link. GitHub and GitLab links are checked straight away.
 - **NSFW blur, on by default:** cover art and screenshots of games marked NSFW are blurred with an NSFW label. A game is marked when VNDB rates its cover suggestive or explicit, when IGDB lists it under its Erotic theme, when its README or patch page mentions adult content, or when you or the maintainer mark it. Click a blurred cover in a project's details to show it, set any project to "always blur" or "never blur" in its edits, or turn the blur off in **Settings**.
 - **Uploads that hold several games** (for example one Internet Archive item with undubs for all four Professor Layton DS games) are listed as one entry per game, grouped under the upload with a tab for each game.
@@ -56,7 +56,8 @@ Most patch pages can't be read from a web page, so a scheduled GitHub Actions wo
 | --- | --- |
 | `data/status.json` | Every tracked GitHub and GitLab project's latest release, last activity, README screenshots and what its README says about labels, coverage and extras |
 | `data/pages.json` | Every other patch page (Internet Archive items are read through archive.org's metadata API): whether it still exists, its version, last-updated date, status, download and project links, screenshots and coverage hints. Up to 150 pages are read per run, oldest first, so every page is re-read every few runs |
-| `data/discover.json` | English translations and undubs that Patch Watch doesn't list yet, found on Romhack Plaza's newest translations, GameBrew's translation lists, GitHub (topics such as `undub` and `fan-translation`, keywords such as "english patch" and "localize", and every repository of the watched accounts) and the Internet Archive (everything from the watched uploaders, plus items titled as undubs or English patches). Internet Archive items that hold game files (ROMs or disc images) instead of just a patch are never listed. Also the credited sources of CDRomance's newest English translations and undubs (see below). They show in **Find a game** |
+| `data/discover.json` | English translations and undubs that Patch Watch doesn't list yet, found on Romhack Plaza's newest translations, GameBrew's translation lists, GitHub (topics such as `undub` and `fan-translation`, keywords such as "english patch" and "localize", and every repository of the watched accounts) and the Internet Archive (everything from the watched uploaders, plus items titled as undubs or English patches). Internet Archive items that hold game files (ROMs or disc images) instead of just a patch are never listed. Also the credited sources of CDRomance's newest English translations and undubs (see below). Kept as working data for the refresh (nothing on the page reads it) |
+| `data/found.json` | The patches the refresh found and added to the list by itself. Rebuilt every run: an entry drops out on its own once it's built in, added by hand, hidden or ignored |
 | `data/itch.json` | The latest devlog posts of projects hosted on itch.io |
 | `data/covers.json` | SteamGridDB covers for games without libretro box art, looked up by the title, the Japanese title and the English names IGDB and VNDB matched (needs the `SGDB_API_KEY` secret) |
 | `data/launchbox.json` | Box art matched in the [LaunchBox Games Database](https://gamesdb.launchbox-app.com), by title, Japanese title and the English names IGDB and VNDB found. The database is one large download, kept between runs in the workflow's cache and downloaded again weekly |
@@ -120,7 +121,7 @@ All game titles, trademarks and box art belong to their respective owners. Patch
 
 **Fixing or adding a project for everyone:**
 
-1. In Patch Watch, correct the project as usual (title, Japanese title, cover, platform, labels, coverage, percentage, what's covered, status, extras), or add one with **Add project** or **Add…** in Find a game.
+1. In Patch Watch, correct the project as usual (title, Japanese title, cover, platform, labels, coverage, percentage, what's covered, status, extras), or add one with **Add project**.
 2. Open **Settings > Export fixes for everyone**. This downloads a complete `overrides.json`: the current shared fixes plus your own.
 3. Upload it to the repository, replacing the old file. Visitors see the fixes on their next visit, and the refresh reads newly added pages within minutes.
 
@@ -128,7 +129,7 @@ All game titles, trademarks and box art belong to their respective owners. Patch
 
 - **`projects`**, keyed by the GitHub repository (`owner/repo`) or by `link:` plus the patch page's link. Fields: `title`, `jp`, `cover`, `platform`, `labels` (any of `Human translation`, `Machine translation`, `Undub`), `coverage` (`Complete`, `Story only`, `Partial`, `Menus only`, `Not stated`), `coverageNote`, `pct`, `status` (`Released`, `Partial release`, `In progress`, `Abandoned`, `Unknown`), `extras` (`retrans`, `port`, `subs`, `restore`, `uncensor`, `fixes`, `gameplay`, `gfx`, `dual`), `nsfw` (`true` always blurs the art, `false` never does), `separate` (`true` keeps the project apart from same-named games on other platforms, `false` groups it with them), `hideScreens`, `screens`, `hide` (removes the project) and `note`.
 - **`added`**, projects added for everyone, with `link`, `title`, `jp`, `platform`, `labels`, `coverage`, `coverageNote`, `status`, `extras`, `cover` and `description`.
-- **`ignoreFound`**, links of newly found patches that aren't relevant, so they stop showing in Find a game.
+- **`ignoreFound`**, links of found patches that shouldn't be added automatically. Removing an automatically added project in its edits panel (then **Export fixes for everyone**) does the same through `hide`.
 - **`watch`**, the accounts the refresh checks in full, beyond its keyword searches. Anything here adds to the built-in lists:
 
   ```json
@@ -179,3 +180,17 @@ CDRomance's translation and undub sections are updated often, and each post name
 
 To go through CDRomance's whole back catalogue once, open **Actions → Refresh data → Run workflow** and set *CDRomance listing pages* to 80. Each run reads at most 120 new posts (`PW_MAX_CDR_POSTS`), so a backfill takes a number of runs to finish. The scheduled runs pick it up from there.
 
+
+
+## What gets added automatically
+
+A found patch is added to the list only if:
+
+- it has a console or handheld platform (patches whose platform can't be worked out are left out, which drops most stray GitHub results);
+- its link is a patch page or project, not a social post, store page, download host or ROM site;
+- it's English (Spanish, Portuguese, French and other translations are left out);
+- a GitHub or GitLab repository is a translation or undub rather than a tool, and a repository credited on CDRomance shares words with the game it was credited for;
+- it isn't a gameplay hack;
+- the same game isn't already listed on the same platform with the same label (the same patch posted on another site). When two finds are the same game, the one on Romhacking.net, Romhack Plaza, romhack.ing or GitHub is kept.
+
+The refresh log's **added to the list** line counts what was added and why the rest wasn't. Names taken from repository names (such as `ShitoData`) can be poor: fix the title in the project's edits panel, and the cover lookups use the corrected name on the next run.

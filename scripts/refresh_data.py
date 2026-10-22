@@ -164,12 +164,20 @@ def load_added(over):
                     "jp": e.get("jp") or "", "p": e.get("platform") or "Unknown", "cover": e.get("cover") or ""})
     return out
 
-def all_projects(seed, over):
+FOUND_PATH = os.path.join(DATA, "found.json")
+
+def load_found():
+    """Projects the refresh found and added on its own (data/found.json)."""
+    return [p for p in (load_json(FOUND_PATH, {}) or {}).get("projects") or [] if isinstance(p, dict) and p.get("l")]
+
+def all_projects(seed, over, with_found=True):
     fixes = over.get("projects") or {}
     links = {norm_link(p.get("l")) for p in seed} | {p.get("k") for p in seed if p.get("k")}
     added = [p for p in load_added(over) if not (p["k"] in links or norm_link(p["l"]) in links)]
+    links |= {norm_link(p.get("l")) for p in added} | {p.get("k") for p in added if p.get("k")}
+    found = [p for p in load_found() if not (p.get("k") in links or norm_link(p["l"]) in links)] if with_found else []
     out = []
-    for p in seed + added:
+    for p in seed + added + found:
         f = fix_for(p, fixes)
         if f.get("hide"):
             continue
@@ -622,7 +630,7 @@ CDR_LISTS = ["/translations/", "/translations/?language=undub"]
 CDR_PAGES = int(os.environ.get("PW_CDR_PAGES", "3"))              # listing pages read per section (about 20 posts each)
 MAX_CDR_POSTS = int(os.environ.get("PW_MAX_CDR_POSTS", "120"))     # new posts opened per run
 CDR_DELAY = float(os.environ.get("PW_CDR_DELAY", "1.5"))
-CDR_V = 5                                                        # bumped when post reading changes: skipped posts are read again
+CDR_V = 6                                                        # bumped when post reading changes: skipped posts are read again
 
 def cdr_hash(cat, slug):
     return hashlib.sha1(f"{cat}/{slug}".encode()).hexdigest()[:16]
@@ -681,16 +689,101 @@ def cdromance_candidates(prev_seen):
         desc = "Credited source of a new release" + (f" by {', '.join(rec['authors'])}" if rec.get("authors") else "") + (" (also undubbed)" if rec.get("undub") and label != "Undub" else "")
         rec["src"] = A.norm_source(rec["src"])
         items.append({"url": rec["src"], "title": A.clean_cdr_title(rec.get("title")), "platform": rec.get("platform"), "label": label,
-                      "src": "Credited on CDRomance", "desc": desc,
+                      "src": "Credited on CDRomance", "desc": desc, "authors": rec.get("authors"),
                       "k": (lambda m: m.group(1).lower() if m else None)(re.match(r"https?://github\.com/([^/]+/[^/#?]+)", rec["src"]))})
     log(f"  CDRomance: {len(done)} recent posts, {opened} newly read, {len(items)} credited sources" +
         (f", skipped: {', '.join(f'{v} {k}' for k, v in skipped.items())}" if skipped else ""))
     return items, seen
 
 
+# ---------------------------------------------------------------- adding found patches automatically
+NOT_A_PROJECT = re.compile(r"(^|\.)(reddit\.com|x\.com|twitter\.com|facebook\.com|retroachievements\.org|discord\.(gg|com)|youtube\.com|youtu\.be|tiktok\.com|instagram\.com|bsky\.app|threads\.net|play\.google\.com|apps\.apple\.com|store\.steampowered\.com|steamcommunity\.com|nintendo\.com|playstation\.com|amazon\.\w+|ebay\.\w+|wikipedia\.org|gamefaqs\.gamespot\.com|mobygames\.com)$", re.I)
+
+def tidy_title(t):
+    """Readable game names: no '(Japan) (PS1) English Translation' tails, and repository-style names in title case."""
+    t = A.clean_cdr_title(t or "")
+    t = re.sub(r"\s*[-–:]?\s*\b(english|eng|en)\b\s*(fan[- ]?)?(translation|translated|patch|tl|localization|version)?\b.*$", "", t, flags=re.I).strip(" -–:") or t
+    t = re.sub(r"\s*\((?:PS1|PSX|PS2|PSP|NDS|DS|GBA|SNES|NES|Wii|GC|Saturn|DC|Vita|3DS)\)", "", t, flags=re.I).strip()
+    if t and t == t.lower():
+        t = " ".join(w if re.fullmatch(r"(ds|3ds|gba|psp|ps[1-5]|snes|nes|n64|ii|iii|iv|vi{0,3}|ix|x)", w) is None else w.upper() for w in t.title().split())
+    return t
+NON_ENGLISH_URL = re.compile(r"traduc|traduz|uebersetz|übersetz|perevod|/es/|/pt-br/|/fr/|/de/|/it/|spanish|espanol|portugues|french|francais|german|italiano|russian", re.I)
+TOOL_REPO = re.compile(r"patcher|pnacher|\btools?\b|toolkit|extractor|unpacker|editor|compressor|decompressor|\blib\b|library|framework|\bsdk\b|\bapi\b|\bbot\b|emulator|plugin|font", re.I)
+SOURCE_RANK = ["romhacking.net", "romhackplaza.org", "romhack.ing", "github.com", "gitlab.com", "gamebrew.org", "gbatemp.net", "segaxtreme.net", "archive.org", "itch.io"]
+
+def source_rank(u):
+    h = A.host_of(u)
+    return next((i for i, s in enumerate(SOURCE_RANK) if h == s or h.endswith("." + s)), len(SOURCE_RANK))
+
+def auto_add_reason(it, tracked):
+    """Why a found patch is not added to the list on its own ("" = add it). tracked: (title, platform, label) of everything listed."""
+    u, title, plat = it.get("url") or "", (it.get("title") or "").strip(), it.get("platform")
+    host = A.host_of(u)
+    if not title:
+        return "no title"
+    if not plat or plat not in IGDB_PLATFORMS or plat == "Arcade":
+        return "no console platform"
+    if A.ROM_SITE.search(host) or NOT_A_PROJECT.search(host) or A.NOT_SOURCE.search(u):
+        return "not a patch page"
+    text = " ".join([title, it.get("desc") or "", u])
+    if (NON_ENGLISH.search(text) or NON_ENGLISH_URL.search(u)) and not re.search(r"\benglish\b|\beng\b", text, re.I):
+        return "not English"
+    if host in ("github.com", "gitlab.com"):
+        name = u.rstrip("/").split("/")[-1].replace("-", " ").replace("_", " ")
+        if TOOL_REPO.search(name + " " + (it.get("desc") or "")[:120]) and not re.search(r"translat|undub|english|localiz|\beng\b", name, re.I):
+            return "a tool, not a patch"
+        if it.get("src") == "Credited on CDRomance" and A.title_overlap(u, title) == 0:
+            return "repository doesn't match the game"
+        if it.get("src") != "Credited on CDRomance" and not re.search(r"translat|undub|english|\beng\b|locali[sz]|\bfan[- ]?tl\b|\btl\b|voice", name + " " + (it.get("desc") or ""), re.I):
+            return "not a translation or undub"
+    if re.search(r"romhackplaza\.org/romhacks/|romhacking\.net/hacks/", u) and not re.search(r"translat|undub|english", title + " " + u, re.I):
+        return "a gameplay hack"
+    label = it.get("label") or "Human translation"
+    for t, p, lb in tracked:
+        if p == plat and lb == label and same_game(title, t):
+            return "same game already listed"
+    return ""
+
+def auto_add(found_items, base_projects, over):
+    """Turns found patches into listed projects (data/found.json). Earlier additions are re-checked every run, so a
+    project that is now built in, added by hand, hidden or ignored drops out on its own."""
+    fixes = over.get("projects") or {}
+    ignored = {norm_link(u) for u in (over.get("ignoreFound") or [])}
+    prev = {norm_link(p["l"]): p for p in load_found()}
+    cands = [{"url": p["l"], "k": p.get("k"), "title": p.get("g"), "platform": p.get("p"), "label": (p.get("lb") or ["Human translation"])[0],
+              "src": p.get("src"), "authors": p.get("grp"), "desc": p.get("d"), "found": p.get("fa")} for p in prev.values()]
+    cands += [it for it in found_items if norm_link(it.get("url")) not in prev]
+    cands.sort(key=lambda it: (source_rank(it.get("url") or ""), it.get("found") or NOW))
+    tracked = [(p.get("g") or "", p.get("p"), (p.get("lb") or ["Human translation"])[0]) for p in base_projects]
+    known = {norm_link(p.get("l")) for p in base_projects} | {p.get("k") for p in base_projects if p.get("k")}
+    out, why = [], {}
+    for it in cands:
+        u = norm_link(it.get("url"))
+        k = it.get("k") or (link_key(u) if "github.com/" in u else None)
+        f = fixes.get(k or "") or fixes.get("link:" + u) or {}
+        r = "already listed" if (u in known or (k and k in known)) else ("hidden or ignored" if (f.get("hide") or u in ignored) else auto_add_reason(it, tracked))
+        if r:
+            why[r] = why.get(r, 0) + 1
+            continue
+        lb = it.get("label") or "Human translation"
+        e = {"id": k or "link:" + u, "k": k, "g": tidy_title(it["title"]), "p": it["platform"], "lb": [lb], "l": u, "src": it.get("src") or "Found automatically",
+             "grp": it.get("authors") if isinstance(it.get("authors"), str) else ", ".join(it.get("authors") or []),
+             "d": "" if (it.get("desc") or "").startswith("Credited source") else (it.get("desc") or "")[:240], "fa": it.get("found") or NOW}
+        out.append({k2: v for k2, v in e.items() if v not in (None, "", [])})
+        known.add(u)
+        if k:
+            known.add(k)
+        tracked.append((e["g"], e["p"], lb))
+    new = sum(1 for e in out if norm_link(e["l"]) not in prev)
+    log(f"  added to the list: {len(out)} found projects ({new} new this run)" + (f"; not added: {', '.join(f'{v} {k}' for k, v in sorted(why.items(), key=lambda x: -x[1]))}" if why else ""))
+    write_json_if_changed(FOUND_PATH, {"format": "patch-watch-found", "version": 1, "generated": NOW, "projects": out})
+    return out
+
+
 def refresh_discover(projects):
     path = os.path.join(DATA, "discover.json")
     data = load_json(path, {"format": "patch-watch-discover", "version": 1, "items": []})
+    projects = [p for p in projects if not p.get("fa")]          # patches added earlier are re-checked by auto_add
     known = {norm_link(p.get("l")) for p in projects} | {p.get("k") for p in projects if p.get("k")}
     loose = lambda u: re.sub(r"^https?://(www\.)?", "", norm_link(u).lower())
     known_loose = {loose(p.get("l")) for p in projects if p.get("l")}
@@ -752,7 +845,13 @@ def refresh_discover(projects):
     try:
         prev_seen = data.get("cdromanceSeen") or {}
         if data.get("cdromanceV") != CDR_V:              # read again: posts without a usable source or platform
-            prev_seen = {k: v for k, v in prev_seen.items() if v.get("src") and v.get("platform") and not A.NOT_SOURCE.search(v["src"])}
+            def still_good(v):
+                src = v.get("src") or ""
+                if not src or not v.get("platform") or A.NOT_SOURCE.search(src):
+                    return False
+                # a repository that shares no word with the game may be another project the post also linked
+                return not (re.search(r"github\.com|gitlab\.com", src) and A.title_overlap(src, v.get("title")) == 0)
+            prev_seen = {k: v for k, v in prev_seen.items() if still_good(v)}
         cdr, data["cdromanceSeen"] = cdromance_candidates(prev_seen)
         data["cdromanceV"] = CDR_V
         for it in cdr:
@@ -782,7 +881,9 @@ def refresh_discover(projects):
         it["found"] = (prev.get(u) or {}).get("found") or NOW
         items.append({k: v for k, v in it.items() if v not in (None, "")})
     items.sort(key=lambda x: (x["found"], x.get("date") or ""), reverse=True)
-    log(f"  {len(items)} patches found that Patch Watch doesn't list yet")
+    log(f"  {len(items)} patches found that Patch Watch didn't list yet")
+    over = load_overrides()
+    auto_add(items, all_projects(seed_projects(), over, with_found=False), over)
     data["items"] = items[:400]
     data["generated"] = NOW
     return write_json_if_changed(path, data)
@@ -1143,6 +1244,8 @@ def main():
             fn()
         except Exception as e:                           # one failing source shouldn't stop the others
             log(f"  {name} failed: {e}")
+        if name == "discover":
+            projects[:] = all_projects(seed, over)        # covers, screenshots and ratings for the newly added projects too
 
 if __name__ == "__main__":
     main()
