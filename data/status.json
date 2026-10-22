@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-22T10:24:13Z",
+ "generated": "2026-10-22T10:45:22Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -939,6 +939,27 @@
    },
    "shots": []
   },
+  "alarixnia/daichikun-crisis-en": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-01-31T20:32:31Z",
+    "desc": "Reverse-engineering Daichi-kun Crisis: Do Natural",
+    "full": "alarixnia/daichikun-crisis-en",
+    "lang": "C",
+    "pushed": "2026-05-23T09:28:39Z",
+    "size": 133,
+    "stars": 2
+   },
+   "shots": []
+  },
   "albertodellisola/patchclan-site": {
    "assetOs": {},
    "readme": {
@@ -1021,6 +1042,36 @@
     "pushed": "2026-06-09T23:57:38Z",
     "size": 1,
     "stars": 0
+   },
+   "shots": []
+  },
+  "astraleamalthea/magicthegatheringdreamcasteng": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-09T02:53:56Z",
+    "pre": false,
+    "tag": "patchrelease3",
+    "url": "https://github.com/AstraleAmalthea/MagicTheGatheringDreamcastENG/releases/tag/patchrelease3"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-27T05:31:13Z",
+    "desc": "An english translation of the Sega Dreamcast game Magic The Gathering. ",
+    "full": "AstraleAmalthea/MagicTheGatheringDreamcastENG",
+    "lang": null,
+    "pushed": "2026-08-09T02:56:49Z",
+    "size": 49656,
+    "stars": 17
    },
    "shots": []
   },
@@ -1421,6 +1472,42 @@
     "stars": 12
    },
    "shots": []
+  },
+  "butthoumust/kamaitachi-sfc-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-08-03T01:58:08Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/ButThouMust/kamaitachi-sfc-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-04-03T00:08:17Z",
+    "desc": "Notes and such for an English fan translation project for Kamaitachi no Yoru (SFC).",
+    "full": "ButThouMust/kamaitachi-sfc-english",
+    "lang": "Assembly",
+    "pushed": "2026-09-24T15:05:25Z",
+    "size": 7697,
+    "stars": 63
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/title%20screen%20screenshot.png",
+    "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/file%20select%20screen%20translated.png",
+    "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/english%20script%20insertion.png",
+    "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/english%20name%20entry%207%20chars.png",
+    "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/name%20entry%20grid%20original%20jp.png",
+    "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/kamaitachi%20english%20name%20entry.gif"
+   ]
   },
   "byroweb/ac1_re": {
    "noRelease": true,
@@ -1827,6 +1914,147 @@
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/06_council.png"
    ]
   },
+  "demmis98/3s-psp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-04-19T22:57:15Z",
+    "pre": false,
+    "tag": "1.1",
+    "url": "https://github.com/demmis98/3s-psp/releases/tag/1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-02-26T17:15:02Z",
+    "desc": "trying to port 3rd strike to the psp (doesn't work on psp-1000)",
+    "full": "demmis98/3s-psp",
+    "lang": "C",
+    "pushed": "2026-05-03T04:25:02Z",
+    "size": 624741,
+    "stars": 104
+   },
+   "shots": []
+  },
+  "derekpascarella/capcomvs.snk2-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-05-08T11:35:05Z",
+    "pre": false,
+    "tag": "1.2",
+    "url": "https://github.com/DerekPascarella/Capcomvs.SNK2-EnglishPatchDreamcast/releases/tag/1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-06-07T13:22:03Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Capcom vs. SNK 2\".",
+    "full": "DerekPascarella/Capcomvs.SNK2-EnglishPatchDreamcast",
+    "lang": "Perl",
+    "pushed": "2026-05-08T11:35:05Z",
+    "size": 3177,
+    "stars": 79
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/Capcom-vs.-SNK-2-English-Patch-Dreamcast/main/images/screenshot1.png",
+    "https://i.imgur.com/XsUAGA0.png",
+    "https://raw.githubusercontent.com/DerekPascarella/Capcom-vs.-SNK-2-English-Patch-Dreamcast/main/images/bonus_content.gif"
+   ]
+  },
+  "derekpascarella/coolcooltoon-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2026-05-09T13:45:59Z",
+    "pre": false,
+    "tag": "1.2",
+    "url": "https://github.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast/releases/tag/1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-04-07T20:51:18Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Cool Cool Toon\".",
+    "full": "DerekPascarella/CoolCoolToon-EnglishPatchDreamcast",
+    "lang": "Perl",
+    "pushed": "2026-05-09T13:46:30Z",
+    "size": 3914,
+    "stars": 25
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast/main/screenshot.png",
+    "https://raw.githubusercontent.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast/main/trailer.jpg",
+    "https://raw.githubusercontent.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast/main/bonus.gif",
+    "https://raw.githubusercontent.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast/main/ost.jpg"
+   ]
+  },
+  "derekpascarella/triggerheartexelica-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2026-05-04T13:32:55Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/DerekPascarella/TriggerheartExelica-EnglishPatchDreamcast/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-04-16T20:20:50Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Triggerheart Exelica\".",
+    "full": "DerekPascarella/TriggerheartExelica-EnglishPatchDreamcast",
+    "lang": "Perl",
+    "pushed": "2026-05-04T14:36:12Z",
+    "size": 5470,
+    "stars": 10
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/TriggerheartExelica-EnglishPatchDreamcast/main/images/screenshot_1.png",
+    "https://raw.githubusercontent.com/DerekPascarella/TriggerheartExelica-EnglishPatchDreamcast/main/images/invincibility_mode.png",
+    "https://raw.githubusercontent.com/DerekPascarella/TriggerheartExelica-EnglishPatchDreamcast/main/images/ost.png"
+   ]
+  },
   "deucebucket/sabers-shc-english-patch": {
    "assetOs": {},
    "readme": {
@@ -1909,6 +2137,33 @@
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo2.png",
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo3.png"
    ]
+  },
+  "eight-mansions/mahjaventure": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-07-27T20:45:48Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/Eight-Mansions/Mahjaventure/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-03-24T05:36:56Z",
+    "desc": "Translation for Mahjaventure Mahjong Senki on the Famicom",
+    "full": "Eight-Mansions/Mahjaventure",
+    "lang": "Python",
+    "pushed": "2026-07-27T20:45:48Z",
+    "size": 327,
+    "stars": 6
+   },
+   "shots": []
   },
   "excalz/ps4-retranslation": {
    "assetOs": {},
@@ -2041,6 +2296,43 @@
     "https://github.com/user-attachments/assets/4cfacb1c-d444-48a6-822f-1a47ed51a3e3",
     "https://github.com/user-attachments/assets/22a3d63c-9513-4bf4-9769-a3523948f61a",
     "https://github.com/user-attachments/assets/a109c817-d755-42ef-bb9d-00caf25534fe"
+   ]
+  },
+  "exxistancedc/ninku-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-04-06T14:32:18Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/ExxistanceDC/Ninku-English-Translation/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-04-05T13:00:56Z",
+    "desc": "An English translation patch for the Sega Saturn game Ninku: Tsuyokina Yatsura no Daigekitotsu!",
+    "full": "ExxistanceDC/Ninku-English-Translation",
+    "lang": null,
+    "pushed": "2026-04-06T23:48:36Z",
+    "size": 25,
+    "stars": 10
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/11cbccaf-8235-4f87-ac31-3a4233510b84",
+    "https://github.com/user-attachments/assets/0ee7f1e6-dea6-446f-95cd-6c04e20c6e51",
+    "https://github.com/user-attachments/assets/a4faceb9-e800-4916-8d35-2a99fbc188ac",
+    "https://github.com/user-attachments/assets/c5dbecbf-6447-47a5-b2c5-ce765699a2fa",
+    "https://github.com/user-attachments/assets/fe4020dd-314d-4daa-a638-2888c4fcad13",
+    "https://github.com/user-attachments/assets/d69aa6df-763a-4424-9719-7b13108ac183"
    ]
   },
   "exxistancedc/power-drift-english-translation": {
@@ -2508,6 +2800,33 @@
     "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/character-select.png"
    ]
   },
+  "jadetheda/talltwinstowerenglish": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-06-10T09:43:21Z",
+    "pre": false,
+    "tag": "v2.2",
+    "url": "https://github.com/jadetheda/TallTwinsTowerEnglish/releases/tag/v2.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2025-07-26T04:58:19Z",
+    "desc": "English translation patch for the Japan-only puzzle game \"Tall: Twins Tower\"",
+    "full": "jadetheda/TallTwinsTowerEnglish",
+    "lang": null,
+    "pushed": "2026-06-18T19:53:02Z",
+    "size": 514,
+    "stars": 6
+   },
+   "shots": []
+  },
   "jamesaz0/rockmandash-psp-english-patcher": {
    "assetOs": {},
    "readme": {
@@ -2903,38 +3222,6 @@
    },
    "shots": []
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Complete",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-22T01:28:45Z",
-    "pre": true,
-    "tag": "0.8.6-lute-test1",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.6-lute-test1"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-22T01:28:45Z",
-    "size": 35224,
-    "stars": 17
-   },
-   "shots": []
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -3299,6 +3586,33 @@
    },
    "shots": []
   },
+  "lifebottle/tales-of-hearts-r-infinite-evolve": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-12-25T17:38:26Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/lifebottle/Tales-of-Hearts-R-Infinite-Evolve/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-08-12T16:28:23Z",
+    "desc": "Tales of Hearts R - Infinite Evolve",
+    "full": "lifebottle/Tales-of-Hearts-R-Infinite-Evolve",
+    "lang": "Python",
+    "pushed": "2024-04-28T18:27:15Z",
+    "size": 317233,
+    "stars": 9
+   },
+   "shots": []
+  },
   "lifebottle/tales-of-innocence-r": {
    "assetOs": {},
    "readme": {
@@ -3524,6 +3838,62 @@
     "https://i.imgur.com/mdtsycg.jpg",
     "https://i.imgur.com/D7JE22Q.jpg"
    ]
+  },
+  "medabots/medarot1": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-11-04T04:58:49Z",
+    "pre": false,
+    "tag": "tr_EN+nightly.20241104",
+    "url": "https://github.com/Medabots/medarot1/releases/tag/tr_EN%2Bnightly.20241104"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2016-08-27T04:46:36Z",
+    "desc": "Medarot 1 GB disassembly/translation",
+    "full": "Medabots/medarot1",
+    "lang": "Assembly",
+    "pushed": "2026-03-18T02:09:44Z",
+    "size": 2253,
+    "stars": 49
+   },
+   "shots": []
+  },
+  "medabots/medarot3": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T07:06:07Z",
+    "pre": false,
+    "tag": "tr_EN-US+nightly.20261022",
+    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN-US%2Bnightly.20261022"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2020-10-15T02:08:15Z",
+    "desc": "Medarot 3 GBC disassembly/translation",
+    "full": "Medabots/medarot3",
+    "lang": "Assembly",
+    "pushed": "2026-10-22T07:06:07Z",
+    "size": 10175,
+    "stars": 49
+   },
+   "shots": []
   },
   "megastylerc/idolmaster-dearly-stars-english": {
    "assetOs": {},
@@ -4698,7 +5068,7 @@
     "full": "retro-trans/Super-Tokusatsu-Taisen-2001",
     "lang": "Python",
     "pushed": "2026-10-22T09:53:09Z",
-    "size": 1903,
+    "size": 2089,
     "stars": 0
    },
    "shots": []
@@ -4854,6 +5224,34 @@
    },
    "shots": []
   },
+  "schil227/advancefamicomwars": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-05-07T21:24:40Z",
+    "desc": "A patch for Famicom Wars which overhauls much of the gameplay (damage, movement, etc.) to be similar to Advance Wars",
+    "full": "schil227/AdvanceFamicomWars",
+    "lang": null,
+    "pushed": "2026-05-17T17:15:20Z",
+    "size": 940,
+    "stars": 4
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/schil227/AdvanceFamicomWars/HEAD/images/map_view.png",
+    "https://raw.githubusercontent.com/schil227/AdvanceFamicomWars/HEAD/images/installation_instructions.PNG",
+    "https://raw.githubusercontent.com/schil227/AdvanceFamicomWars/HEAD/images/vanilla_damage_table.PNG",
+    "https://raw.githubusercontent.com/schil227/AdvanceFamicomWars/HEAD/images/nice_shot.png",
+    "https://raw.githubusercontent.com/schil227/AdvanceFamicomWars/HEAD/images/vanilla_cost_chart.PNG",
+    "https://raw.githubusercontent.com/schil227/AdvanceFamicomWars/HEAD/images/move_chart.PNG"
+   ]
+  },
   "scienceandresearch/ogre-battle-gaiden-english-plus": {
    "assetOs": {},
    "readme": {
@@ -4881,6 +5279,34 @@
     "pushed": "2026-10-12T00:26:54Z",
     "size": 1285,
     "stars": 0
+   },
+   "shots": []
+  },
+  "scrambled-beans/puyo1-md-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-07-06T19:58:48Z",
+    "pre": false,
+    "tag": "V1.1",
+    "url": "https://github.com/Scrambled-Beans/puyo1-md-translation/releases/tag/V1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-06T19:41:58Z",
+    "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
+    "full": "Scrambled-Beans/puyo1-md-translation",
+    "lang": "Assembly",
+    "pushed": "2026-10-05T00:31:11Z",
+    "size": 3214,
+    "stars": 8
    },
    "shots": []
   },

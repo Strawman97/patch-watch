@@ -49,6 +49,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_c9519cf1-a06a-417e-b992-84c096076690.jpg"
   },
+  "butthoumust/otogirisou-english": {
+   "id": "132317",
+   "name": "Otogirisou",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1a83327b-1873-4ee8-8775-8e1e1827f325.png"
+  },
   "camd11/srw-og-gaiden-en": {
    "id": "152608",
    "name": "Super Robot Taisen OG Gaiden",
@@ -97,6 +103,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_021c84b7-116a-4f15-813d-ecb80732b0ae.jpg"
   },
+  "exxistancedc/delisoba-deluxe-english-translation": {
+   "id": "172591",
+   "name": "Delisoba Deluxe",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_d26cce3a-286f-40f0-ad23-00140a8c6dc3.jpg"
+  },
   "exxistancedc/hissatsu-english-translation": {
    "id": "140863",
    "name": "Hissatsu!",
@@ -126,6 +138,12 @@
    "name": "Segagaga",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/1559dce5-e43c-4419-9ae0-4e66e271a744.jpg"
+  },
+  "exxistancedc/shinrei-jusatsushi-taromaru-english-patch": {
+   "id": "31100",
+   "name": "Shinrei Jusatsushi Taroumaru",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/a6ab3711-0085-4f32-9949-082657c3ebfb.jpg"
   },
   "exxistancedc/willy-wombat-english-improvement-patch": {
    "id": "33705",
@@ -162,6 +180,12 @@
    "name": "Tall: Twins Tower",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/1d671659-69af-4ac3-bbbe-82f07d7000f8.jpg"
+  },
+  "jeremydecola/mystic-nights-translation": {
+   "id": "180318",
+   "name": "Mystic Nights",
+   "region": "Korea",
+   "url": "https://images.launchbox-app.com/5d41e7d8-f7ff-479e-86ef-44623213292b.png"
   },
   "jonny-anime/tokimeki-memorial-2-english-patch": {
    "id": "164444",
@@ -283,6 +307,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/1e4e73f6-11bd-494c-93e2-714cea0566a2.jpg"
   },
+  "link:http://cubanraul.altervista.org/drac": {
+   "id": "16793",
+   "name": "Castlevania: Rondo of Blood",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/fd0cfde9-1dd2-4742-8aa3-dbb6c446bc42.png"
+  },
   "link:http://watercrown.info/second-verse-same-as-the-first/": {
    "id": "870",
    "name": "Breath of Fire II: The Fated Child",
@@ -301,11 +331,23 @@
    "region": "World",
    "url": "https://images.launchbox-app.com/r2_ef0155b0-bfc2-4062-ae51-4cc5dac7ac2b.png"
   },
+  "link:https://aeongenesis.net/projects/paranoiascape": {
+   "id": "143841",
+   "name": "Paranoia Scape",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/6235e588-5145-487f-a3cf-634cde6b0405.jpg"
+  },
   "link:https://aeongenesis.net/projects/splatterworld": {
    "id": "462821",
    "name": "Splatterworld: Rick to Kyoufu no Daiou",
    "region": "World",
    "url": "https://images.launchbox-app.com/r2_b7ecd653-0614-408c-8e5b-e9736461c43c.jpg"
+  },
+  "link:https://agtteam.net/mushishi": {
+   "id": "184485",
+   "name": "Mushishi: Ame Furu Sato",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/87b3bf1e-0edb-4984-8de1-6bde478fc5ba.jpg"
   },
   "link:https://archive.org/details/10000_bullets_undub_patch": {
    "id": "18703",
@@ -313,17 +355,17 @@
    "region": "Europe",
    "url": "https://images.launchbox-app.com/ef4e2712-6155-467b-864a-c55205d18556.jpg"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "id": "7044",
-   "name": "Sonic Gems Collection",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/8920d704-e2de-4163-a4d6-d3597dbc05db.jpg"
-  },
   "link:https://archive.org/details/aerowings_undub_patch": {
    "id": "19308",
    "name": "AeroWings",
    "region": "North America",
    "url": "https://images.launchbox-app.com/3ee6b5b4-bfcd-4fc6-aa7c-8621c58efb37.jpg"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "id": "166211",
+   "name": "Air",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/6a38612a-4371-403f-aeed-36c4bc5d81ec.jpg"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "id": "5870",
@@ -553,6 +595,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/f74f0aa7-6f7d-42fc-b502-d74ce1059e9a.jpg"
   },
+  "link:https://archive.org/details/clock-tower-for-wonder-swan-english-v-1-1": {
+   "id": "27594",
+   "name": "Clock Tower for WonderSwan",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_08f4f00e-5e36-4295-9717-fba3a7835c78.jpg"
+  },
   "link:https://archive.org/details/clock_tower_3_undub_patch": {
    "id": "9644",
    "name": "Clock Tower 3",
@@ -636,6 +684,12 @@
    "name": "Doshin the Giant",
    "region": "Europe",
    "url": "https://images.launchbox-app.com/r2_e395b1c8-e697-45cc-8ade-2e0f396fc0c9.png"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "id": "7222",
+   "name": "Dragon Ball Z: Budokai",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/0cf4679d-281f-4e22-b3fe-943e6997febc.jpg"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "id": "20572",
@@ -1195,6 +1249,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/9152da1a-ae96-4b74-826f-d15d9677438e.jpg"
   },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "id": "16496",
+   "name": "Sengoku Basara 3: Utage",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
+  },
   "link:https://archive.org/details/shadow_hearts_undub_patch": {
    "id": "12753",
    "name": "Shadow Hearts",
@@ -1531,6 +1591,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/1d4c8611-b834-45d8-a313-b79470c1970c.jpg"
   },
+  "link:https://forum.rippersanime.info/viewtopic.php?t=1109": {
+   "id": "158273",
+   "name": "Gunnm: Martian Memory",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_b3b453a7-18b7-4c28-9e5a-b07e682e157d.jpg"
+  },
   "link:https://forums.dolphin-emu.org/Thread-tetrastrackers-navi-tracker-translation-02-05-2023": {
    "id": "6996",
    "name": "Zelda no Densetsu: 4-tsu no Tsurugi+",
@@ -1555,6 +1621,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/62f122e8-5b4c-4f7e-b945-cb5415f3e22e.jpg"
   },
+  "link:https://gbatemp.net/threads/dragon-drive-d-masters-shot-gamecube-project.659079": {
+   "id": "33971",
+   "name": "Dragon Drive: D-Masters Shot",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/c4c70f52-5642-42ab-9336-a40e6d81225f.jpg"
+  },
   "link:https://gbatemp.net/threads/dragon-quest-x-offline-english-mod.643968/": {
    "id": "466061",
    "name": "Dragon Quest X Offline",
@@ -1566,6 +1638,12 @@
    "name": "Yo-Kai Watch 4",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/44be7c3b-9217-4c15-be5e-1a0c90c90b91.png"
+  },
+  "link:https://gbatemp.net/threads/itadaki-street-ds-menu-translation.658699": {
+   "id": "143229",
+   "name": "Itadaki Street DS",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/98b9012b-964d-497a-896e-29fc0a82d6ae.jpg"
   },
   "link:https://gbatemp.net/threads/the-legend-of-heroes-trails-of-cold-steel-2-kai-english-translation-mod.612318/": {
    "id": "205055",
@@ -1591,17 +1669,35 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_43fd7f55-6a43-4b5d-8b5d-ee7e1dd5c522.jpg"
   },
+  "link:https://josekenshin.blogspot.com/p/tobal-2.html": {
+   "id": "12480",
+   "name": "Tobal 2",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/75b8d26d-09c3-4b17-b784-b6dc6e7f96c5.jpg"
+  },
   "link:https://mholdschool.com/viewtopic.php?t=1143": {
    "id": "197405",
    "name": "Monster Hunter G",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/c865ad5b-be69-40d7-8634-1f1ee5fed481.jpg"
   },
+  "link:https://mijet.eludevisibility.org/TwinkleTale/TwinkleTale.html": {
+   "id": "14706",
+   "name": "Twinkle Tale",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_f2e3d2f5-e353-48ec-bf4a-b3fe63e4d119.png"
+  },
   "link:https://nebulous.group/index.php/projects/translations/hybrid-front": {
    "id": "20383",
    "name": "The Hybrid Front",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/a0b663fd-a334-404f-997c-b1cdd4176cd4.jpg"
+  },
+  "link:https://nervetower.neocities.org/credits.html": {
+   "id": "141656",
+   "name": "Baroque",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/49b0c95e-c5ad-450e-93fa-81cee9976584.jpg"
   },
   "link:https://patches.tsukimiya.moe/kagayakukisetsuetrial": {
    "id": "185784",
@@ -1675,6 +1771,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/66dfd2eb-a219-4054-8601-56a9feab865a.jpg"
   },
+  "link:https://romhack.ing/database/content/entry/Z9Nv5JQBNs8FWu0C8ofc/spelunker-ii-yuushahe-no-chousen-english-translation": {
+   "id": "27282",
+   "name": "Spelunker II: Yuusha e no Chousen",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/25434816-6314-48fd-b06c-2770168a76b7.jpg"
+  },
   "link:https://romhack.ing/database/content/entry/eEPooG-eRDeqySMY7KbNKQ/mabino-style-english-translation-patch": {
    "id": "177747",
    "name": "Mabino x Style",
@@ -1698,6 +1800,12 @@
    "name": "Brightis",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/e1135ae5-bb37-4184-aec4-3fad8ee0ff24.jpg"
+  },
+  "link:https://romhackplaza.org/romhacks/bloody-roar-extreme-english-overhaul-patch-nintendo-gamecube": {
+   "id": "6944",
+   "name": "Bloody Roar: Extreme",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/a103ea8e-4da6-4c13-a918-f635141f1a6b.jpg"
   },
   "link:https://romhackplaza.org/translations/chaindive-english-translation-playstation-2": {
    "id": "108229",
@@ -1741,6 +1849,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/e2e4b7ed-b939-4f5c-8b40-271868d124f4.png"
   },
+  "link:https://romhackplaza.org/translations/magi-nation-english-translation-game-boy-advance": {
+   "id": "176786",
+   "name": "Magi Nation",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/c7d3ea76-1b5b-49c5-8859-97d1d76b8899.png"
+  },
   "link:https://romhackplaza.org/translations/mazinger-z-super-famicom-eng-spa-msu1-english-spanish-translation-super-nintendo": {
    "id": "18798",
    "name": "Mazinger Z",
@@ -1764,6 +1878,12 @@
    "name": "Shin SD Gundam Gaiden: Knight Gundam Monogatari",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_5e98055e-e941-4e9a-bc0e-2d9d8dd2a9e8.jpg"
+  },
+  "link:https://romhackplaza.org/translations/sonic-gems-collection-english-translation-nintendo-gamecube": {
+   "id": "7044",
+   "name": "Sonic Gems Collection",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/8920d704-e2de-4163-a4d6-d3597dbc05db.jpg"
   },
   "link:https://romhackplaza.org/translations/street-fighter-zero-3-english-translation-english-translation-sega-saturn": {
    "id": "137977",
@@ -1842,6 +1962,24 @@
    "name": "Silhouette Mirage",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/8e20fd91-ca59-4f97-b620-810027f67666.jpg"
+  },
+  "link:https://segaxtreme.net/resources/wizardry-vi-vii-complete-english-translation-patch.457": {
+   "id": "176166",
+   "name": "Wizardry VI & VII Complete",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_7d0c5338-f2b4-4193-a215-2b0367a17eb5.png"
+  },
+  "link:https://segaxtreme.net/threads/dragon-ball-z-the-legend-english-translation.37310": {
+   "id": "24379",
+   "name": "Dragon Ball Z: Idainaru Dragon Ball Densetsu",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/a6339946-a6d4-416e-a991-eeaa16ba834e.jpg"
+  },
+  "link:https://silentenigma.neocities.org/ff6rose": {
+   "id": "462775",
+   "name": "Final Fantasy VI: Revised Old Style Edition",
+   "region": "World",
+   "url": "https://images.launchbox-app.com/0d2c38be-d314-48d5-afa9-9a456fd4bf13.jpg"
   },
   "link:https://sites.google.com/view/imas-sp-en-tl/home": {
    "id": "161893",
@@ -3541,6 +3679,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/43cd0565-87f4-4e5f-a50f-a737e10218c6.jpg"
   },
+  "link:https://www.romhacking.net/translations/149": {
+   "id": "26882",
+   "name": "Fuzzical Fighter",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/fb443856-35d9-40f0-b210-4a6144d2b553.jpg"
+  },
   "link:https://www.romhacking.net/translations/1537/": {
    "id": "1800",
    "name": "Dragon Ball Z: Hyper Dimension",
@@ -3552,6 +3696,12 @@
    "name": "Heracles no Eikō II: Titan no Metsubō",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/3976b841-85ef-4a59-a538-4a875c571517.jpg"
+  },
+  "link:https://www.romhacking.net/translations/1542": {
+   "id": "25405",
+   "name": "Insector X",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1f3f0c9b-d89d-4290-b625-9deaee6d6342.jpg"
   },
   "link:https://www.romhacking.net/translations/1549": {
    "id": "21067",
@@ -3570,6 +3720,18 @@
    "name": "Hourai Gakuen No Bouken!: Tenkousei Scramble",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/1619057d-280f-4d16-9446-e214d77014a1.png"
+  },
+  "link:https://www.romhacking.net/translations/1621": {
+   "id": "2003",
+   "name": "Parodius Da!",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/cc51779f-cf6d-4e6d-987d-87a8e229e76b.jpg"
+  },
+  "link:https://www.romhacking.net/translations/1695": {
+   "id": "141363",
+   "name": "Taiyou no Tenshi Marlowe: Ohanabatake wa Dai-panic",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/6f37c188-c3a8-4b61-8c61-c165dfa0a532.png"
   },
   "link:https://www.romhacking.net/translations/1710/": {
    "id": "14814",
@@ -3595,6 +3757,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/4a3155e7-cd2d-490b-86f0-826ae0fac57b.jpg"
   },
+  "link:https://www.romhacking.net/translations/2044": {
+   "id": "7605",
+   "name": "Zero: Tsukihami no Kamen",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1ac8c4dc-79e9-4a89-8fc1-3f887f87b7ea.png"
+  },
   "link:https://www.romhacking.net/translations/2181/": {
    "id": "24871",
    "name": "Chaos Seed: Feng Shui Chronicles",
@@ -3606,6 +3774,18 @@
    "name": "ClockWerx",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_24ef216f-a920-4074-af10-1a27b682c225.jpg"
+  },
+  "link:https://www.romhacking.net/translations/2316": {
+   "id": "105582",
+   "name": "Wizardry Empire",
+   "region": "",
+   "url": "https://images.launchbox-app.com/3382807a-af44-4a78-bfa4-d8aca35c33e0.jpg"
+  },
+  "link:https://www.romhacking.net/translations/2322": {
+   "id": "163762",
+   "name": "Wizardry Empire: Fukkatsu no Tsue",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/593038ea-0930-412c-b024-8893a34ac80a.jpg"
   },
   "link:https://www.romhacking.net/translations/2339/": {
    "id": "29689",
@@ -3637,11 +3817,29 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/9c789701-0acb-487b-a263-7de2ce7053ca.png"
   },
+  "link:https://www.romhacking.net/translations/2588": {
+   "id": "122334",
+   "name": "Paaman: Enban wo Torikaese!!",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/9b657701-ac31-413b-98f5-2709f4f87f09.png"
+  },
+  "link:https://www.romhacking.net/translations/2594": {
+   "id": "27228",
+   "name": "Rainbow Silkroad",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/f6d9f6b2-e62c-481f-a871-cb721cd3f65a.png"
+  },
   "link:https://www.romhacking.net/translations/2624/": {
    "id": "21489",
    "name": "The Amazing Spider-Man: Lethal Foes",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/a84d0113-907c-413f-8c07-7afe10e94aee.jpg"
+  },
+  "link:https://www.romhacking.net/translations/2629": {
+   "id": "26775",
+   "name": "Doraemon",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/f312521e-0c7a-4169-909a-b82b7b2da984.jpg"
   },
   "link:https://www.romhacking.net/translations/2655/": {
    "id": "26524",
@@ -3654,6 +3852,12 @@
    "name": "Sailor Moon Super S: Floating Panic",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/e5959af6-5071-4b1a-b611-d36d2cd7c5f0.png"
+  },
+  "link:https://www.romhacking.net/translations/2755": {
+   "id": "1072",
+   "name": "Bomberman 64",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/bcf81674-1d78-42d8-8a93-6c54cc7c8d93.png"
   },
   "link:https://www.romhacking.net/translations/278/": {
    "id": "13938",
@@ -3696,6 +3900,12 @@
    "name": "Bastard!!: Dark God of Destruction",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_20e5e57b-03c6-4e02-a8f7-0d32f858b1b4.jpg"
+  },
+  "link:https://www.romhacking.net/translations/2947": {
+   "id": "32054",
+   "name": "Densha de Go! 64",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/fa1be8d2-abb1-41f2-a895-9d37cebdedec.jpg"
   },
   "link:https://www.romhacking.net/translations/302/": {
    "id": "34732",
@@ -3745,6 +3955,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/b45e0af8-d77f-4a6f-9e37-0c3f1fbe743c.jpg"
   },
+  "link:https://www.romhacking.net/translations/3153": {
+   "id": "27144",
+   "name": "Indora no Hikari",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/2e8788ac-85cf-4a9c-b15a-e80ffd299ce9.jpg"
+  },
   "link:https://www.romhacking.net/translations/316/": {
    "id": "3557",
    "name": "Dragon Ball Z: Super Gokuu Den - Kakusei Hen",
@@ -3780,6 +3996,12 @@
    "name": "Dragon Ball Z: Ultime Menace",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/b35f4943-942b-4b9c-85b5-beef531bc4fb.png"
+  },
+  "link:https://www.romhacking.net/translations/3365": {
+   "id": "131374",
+   "name": "Glory of Heracles, The: Snap Story",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_aaa8a301-396d-4da2-bafe-9c3309e99474.jpg"
   },
   "link:https://www.romhacking.net/translations/337/": {
    "id": "19047",
@@ -3907,6 +4129,18 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/c676f051-abcd-4d3c-89f5-c4cc2e25cbff.png"
   },
+  "link:https://www.romhacking.net/translations/4222": {
+   "id": "19105",
+   "name": "Dragon Ball Z II: Gekishin Freeza!!",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/21f17191-28b2-4f77-a8ad-c86cc8f98717.jpg"
+  },
+  "link:https://www.romhacking.net/translations/4303": {
+   "id": "27212",
+   "name": "Moero!! Juudou Warriors",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/c78c043d-5e91-4306-b401-e782f9d1e794.jpg"
+  },
   "link:https://www.romhacking.net/translations/4349/": {
    "id": "26329",
    "name": "F-1 Grand Prix: Part II",
@@ -3942,6 +4176,12 @@
    "name": "Mysterious Dungeon 2: Shiren the Wanderer",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/eec8d11c-3cd2-4f8d-b120-afe415211baa.jpg"
+  },
+  "link:https://www.romhacking.net/translations/526": {
+   "id": "127331",
+   "name": "Doraemon Kart",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/8b4573d0-5079-401e-9a84-31cecc1a600c.jpg"
   },
   "link:https://www.romhacking.net/translations/528/": {
    "id": "3624",
@@ -3979,6 +4219,18 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/2e31e1d3-1e64-4f40-b835-d43cec426b20.png"
   },
+  "link:https://www.romhacking.net/translations/5472": {
+   "id": "27317",
+   "name": "Tetrastar: The Fighter",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/2e99fd2b-cd87-44e1-ab21-0959ed1e58cc.png"
+  },
+  "link:https://www.romhacking.net/translations/5482": {
+   "id": "31000",
+   "name": "SD Gundam Gaiden: Knight Gundam Monogatari",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_c5547958-b0c8-437a-ac59-96d79805bbbb.jpg"
+  },
   "link:https://www.romhacking.net/translations/5486/": {
    "id": "1909",
    "name": "The 4.6 Billion Year Saga: To Faraway Eden",
@@ -4015,6 +4267,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/e6587947-d18a-4219-b755-9a110d28b35e.png"
   },
+  "link:https://www.romhacking.net/translations/6027": {
+   "id": "129049",
+   "name": "Mizzurna Falls",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_0c71cdf9-7048-47dc-8e0a-762b7009124a.jpg"
+  },
   "link:https://www.romhacking.net/translations/6129": {
    "id": "20004",
    "name": "Shin Megami Tensei",
@@ -4026,6 +4284,18 @@
    "name": "Ganpuru: Gunman's Proof",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/c27360e3-83bb-46eb-972b-986cd5942bb6.jpg"
+  },
+  "link:https://www.romhacking.net/translations/6236": {
+   "id": "123698",
+   "name": "Mobile Golf",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/393fca01-9f00-48f0-b146-dcbce6f5b39e.jpg"
+  },
+  "link:https://www.romhacking.net/translations/634": {
+   "id": "26873",
+   "name": "Hikari no Senshi Foton: The Ultimate Game on Planet Earth",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/4418fce9-b2ec-48f7-b688-d4911113084a.jpg"
   },
   "link:https://www.romhacking.net/translations/6361": {
    "id": "1029",
@@ -4068,6 +4338,42 @@
    "name": "Accele Brid",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_0c462159-d196-4652-9a65-9fb57d33b41a.jpg"
+  },
+  "link:https://www.romhacking.net/translations/7420": {
+   "id": "19104",
+   "name": "Dragon Ball Z: Kyoushuu! Saiya Jin",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/f276d1a7-8b64-42c7-9734-2f008c73ec58.jpg"
+  },
+  "link:https://www.romhacking.net/translations/7425": {
+   "id": "120019",
+   "name": "Chobits: Atashi Dake no Hito",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/d5baaf98-3fad-4d80-83aa-652804f7378d.jpg"
+  },
+  "link:https://www.romhacking.net/translations/7428": {
+   "id": "98274",
+   "name": "PoPoRoGue",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/79a8f619-0b60-4f45-a9d1-8d5bf1dd33c8.png"
+  },
+  "link:https://www.romhacking.net/translations/7446": {
+   "id": "177125",
+   "name": "Viewpoint 2064",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/08f20821-7bcb-433c-b82f-459151ac5baf.png"
+  },
+  "link:https://www.romhacking.net/translations/7447": {
+   "id": "131398",
+   "name": "Metalgun Slinger",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_9ed14e87-6d1a-4b15-baba-372f944e001d.jpg"
+  },
+  "link:https://www.romhacking.net/translations/7464": {
+   "id": "159964",
+   "name": "Magical Date: Doki Doki Kokuhaku Daisakusen",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/9fda94d8-f028-43bf-ac23-996d0a42ac34.jpg"
   },
   "link:https://www.romhacking.net/translations/7490": {
    "id": "211502",
@@ -4188,6 +4494,12 @@
    "name": "Fire Emblem: Seisen no Keifu",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_4a0d03d5-d0e7-45f4-bf97-faf28e453483.jpg"
+  },
+  "link:https://www.romhacking.net/translations/898": {
+   "id": "19107",
+   "name": "Dragon Ball Z III: Ressen Jinzou Ningen",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1473abf6-bbf5-4b02-af7a-ec890682d3ea.jpg"
   },
   "link:https://www.romhacking.net/translations/910/": {
    "id": "20006",
@@ -4321,6 +4633,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/18cf9b96-05ef-4b1d-8f18-06aec7bb69a9.jpg"
   },
+  "romh-acking/metal-slader-glory-fc-en-manual": {
+   "id": "30791",
+   "name": "Metal Slader Glory",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/64e5a262-e8f7-47aa-937e-9d63c4cb061c.jpg"
+  },
   "satelliteoflove/dimguil-english": {
    "id": "143809",
    "name": "Wizardry: Dimguil",
@@ -4350,6 +4668,12 @@
    "name": "Zoids Saga",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_da0d9734-da24-4e84-8bfd-a9d7719ab15a.png"
+  },
+  "sonicman69/bebop-ps2-english": {
+   "id": "105632",
+   "name": "Cowboy Bebop: Tsuioku no Serenade",
+   "region": "",
+   "url": "https://images.launchbox-app.com/62adec6d-551c-4338-a64a-db5bfc5f5fd7.jpg"
   },
   "soyjxck/fma-broken-angel-undub": {
    "id": "4916",
@@ -4382,6 +4706,6 @@
    "url": "https://images.launchbox-app.com/1fc02d4f-8dbd-4e2e-a2db-9e7125a10ca1.jpg"
   }
  },
- "generated": "2026-10-22T10:24:13Z",
+ "generated": "2026-10-22T10:45:22Z",
  "version": 1
 }

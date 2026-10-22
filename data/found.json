@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-22T10:24:13Z",
+ "generated": "2026-10-22T10:45:22Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -435,6 +435,416 @@
    "src": "Credited on CDRomance"
   },
   {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "SNK vs Capcom: Card Fighters 2 Expand Edition Neo Geo Pocket Color",
+   "id": "link:https://www.romhacking.net/translations/82",
+   "l": "https://www.romhacking.net/translations/82",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Neo Geo Pocket Color",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Nazo Puyo: Arle no Roux Game Gear",
+   "id": "link:https://www.romhacking.net/translations/6227",
+   "l": "https://www.romhacking.net/translations/6227",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Gear",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Mobile Golf",
+   "id": "link:https://www.romhacking.net/translations/6236",
+   "l": "https://www.romhacking.net/translations/6236",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Boy Color",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Magical Date: Doki Doki Kokuhaku Daisakusen",
+   "id": "link:https://www.romhacking.net/translations/7464",
+   "l": "https://www.romhacking.net/translations/7464",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Line Attack Heroes WiiWare WAD",
+   "id": "link:https://www.romhacking.net/translations/6343",
+   "l": "https://www.romhacking.net/translations/6343",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Wii",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Zero: Tsukihami no kamen",
+   "id": "link:https://www.romhacking.net/translations/2044",
+   "l": "https://www.romhacking.net/translations/2044",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Wii",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "PoPoRoGue",
+   "id": "link:https://www.romhacking.net/translations/7428",
+   "l": "https://www.romhacking.net/translations/7428",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Doraemon Kart",
+   "id": "link:https://www.romhacking.net/translations/526",
+   "l": "https://www.romhacking.net/translations/526",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Boy",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Parodius Da!",
+   "id": "link:https://www.romhacking.net/translations/1621",
+   "l": "https://www.romhacking.net/translations/1621",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Metalgun Slinger",
+   "id": "link:https://www.romhacking.net/translations/7447",
+   "l": "https://www.romhacking.net/translations/7447",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Viewpoint 2064",
+   "id": "link:https://www.romhacking.net/translations/7446",
+   "l": "https://www.romhacking.net/translations/7446",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "N64",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Mizzurna Falls",
+   "grp": "Cirosan/nikita a patch made from scratch, it uses ResidentEvie translation as ba",
+   "id": "link:https://www.romhacking.net/translations/6027",
+   "l": "https://www.romhacking.net/translations/6027",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Ninja Hattori-kun: Ninja wa Syugyou de Gozaru",
+   "grp": "pacnsacdave",
+   "id": "link:https://www.romhacking.net/translations/2220",
+   "l": "https://www.romhacking.net/translations/2220",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Kuroshitsuji: Phantom & Ghost DS",
+   "id": "link:https://www.romhacking.net/translations/4271",
+   "l": "https://www.romhacking.net/translations/4271",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Death Note: Kira Game DS",
+   "id": "link:https://www.romhacking.net/translations/6452",
+   "l": "https://www.romhacking.net/translations/6452",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Kaze no Klonoa: Moonlight Museum WonderSwan",
+   "id": "link:https://www.romhacking.net/translations/6511",
+   "l": "https://www.romhacking.net/translations/6511",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "WonderSwan",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Doraemon",
+   "id": "link:https://www.romhacking.net/translations/2629",
+   "l": "https://www.romhacking.net/translations/2629",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Hikari no Senshi Foton: The Ultimate Game on Planet Earth",
+   "id": "link:https://www.romhacking.net/translations/634",
+   "l": "https://www.romhacking.net/translations/634",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Insector X",
+   "id": "link:https://www.romhacking.net/translations/1542",
+   "l": "https://www.romhacking.net/translations/1542",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Indora no Hikari",
+   "id": "link:https://www.romhacking.net/translations/3153",
+   "l": "https://www.romhacking.net/translations/3153",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Moero!! Juudou Warriors",
+   "id": "link:https://www.romhacking.net/translations/4303",
+   "l": "https://www.romhacking.net/translations/4303",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Fuzzical Fighter",
+   "id": "link:https://www.romhacking.net/translations/149",
+   "l": "https://www.romhacking.net/translations/149",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "The Glory of Heracles: Snap Story",
+   "grp": "(s): aishsha, Stardust Crusaders",
+   "id": "link:https://www.romhacking.net/translations/3365",
+   "l": "https://www.romhacking.net/translations/3365",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Boy",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Chobits - Atashi Dake no Hito",
+   "id": "link:https://www.romhacking.net/translations/7425",
+   "l": "https://www.romhacking.net/translations/7425",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-panic",
+   "id": "link:https://www.romhacking.net/translations/1695",
+   "l": "https://www.romhacking.net/translations/1695",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Boy",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Perman - Enban wo Torikaese!!",
+   "id": "link:https://www.romhacking.net/translations/2588",
+   "l": "https://www.romhacking.net/translations/2588",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "SD Gundam Gaiden: Knight Gundam Monogatari",
+   "id": "link:https://www.romhacking.net/translations/5482",
+   "l": "https://www.romhacking.net/translations/5482",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Dragon Ball Z II - Gekishin Freeza!!",
+   "id": "link:https://www.romhacking.net/translations/4222",
+   "l": "https://www.romhacking.net/translations/4222",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Dragon Ball 3: Gokuuden",
+   "id": "link:https://www.romhacking.net/translations/549",
+   "l": "https://www.romhacking.net/translations/549",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Densha de Go! 64",
+   "id": "link:https://www.romhacking.net/translations/2947",
+   "l": "https://www.romhacking.net/translations/2947",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "N64",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Dragon Ball Z III - Ressen Jinzou Ningen",
+   "id": "link:https://www.romhacking.net/translations/898",
+   "l": "https://www.romhacking.net/translations/898",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Rainbow Silkroad",
+   "id": "link:https://www.romhacking.net/translations/2594",
+   "l": "https://www.romhacking.net/translations/2594",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Tetrastar - The Fighter",
+   "id": "link:https://www.romhacking.net/translations/5472",
+   "l": "https://www.romhacking.net/translations/5472",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Wizardry Empire - Fukkatsu no Tsue",
+   "id": "link:https://www.romhacking.net/translations/2322",
+   "l": "https://www.romhacking.net/translations/2322",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Boy Color",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Wizardry Empire",
+   "id": "link:https://www.romhacking.net/translations/2316",
+   "l": "https://www.romhacking.net/translations/2316",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Boy Color",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Dragon Ball Z - Kyoushuu! Saiya Jin",
+   "id": "link:https://www.romhacking.net/translations/7420",
+   "l": "https://www.romhacking.net/translations/7420",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Bomberman 64",
+   "id": "link:https://www.romhacking.net/translations/2755",
+   "l": "https://www.romhacking.net/translations/2755",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "N64",
+   "src": "Credited on CDRomance"
+  },
+  {
    "fa": "2026-10-22T09:18:31Z",
    "g": "SEGA",
    "id": "link:https://romhackplaza.org/translations/street-fighter-alpha-3-english-translation-sega-saturn",
@@ -544,6 +954,52 @@
     "Human translation"
    ],
    "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:24:13Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Romhack Plaza"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Magi Nation",
+   "grp": "(s): Aplier, Normmatt",
+   "id": "link:https://romhackplaza.org/translations/magi-nation-english-translation-game-boy-advance",
+   "l": "https://romhackplaza.org/translations/magi-nation-english-translation-game-boy-advance",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Sonic Gems Collection",
+   "grp": "(s): Masaru",
+   "id": "link:https://romhackplaza.org/translations/sonic-gems-collection-english-translation-nintendo-gamecube",
+   "l": "https://romhackplaza.org/translations/sonic-gems-collection-english-translation-nintendo-gamecube",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Bloody Roar: Extreme",
+   "id": "link:https://romhackplaza.org/romhacks/bloody-roar-extreme-english-overhaul-patch-nintendo-gamecube",
+   "l": "https://romhackplaza.org/romhacks/bloody-roar-extreme-english-overhaul-patch-nintendo-gamecube",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
    "src": "Credited on CDRomance"
   },
   {
@@ -700,6 +1156,39 @@
     "Human translation"
    ],
    "p": "WonderSwan",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Spelunker II: Yuusha e no Chousen",
+   "id": "link:https://romhack.ing/database/content/entry/Z9Nv5JQBNs8FWu0C8ofc/spelunker-ii-yuushahe-no-chousen-english-translation",
+   "l": "https://romhack.ing/database/content/entry/Z9Nv5JQBNs8FWu0C8ofc/spelunker-ii-yuushahe-no-chousen-english-translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Sword World",
+   "id": "link:https://romhack.ing/database/content/entry/xisHPNIlSTCWa5JkDpJpIw/sword-world-sfc-english-translation",
+   "l": "https://romhack.ing/database/content/entry/xisHPNIlSTCWa5JkDpJpIw/sword-world-sfc-english-translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Farland Story FX PC-FX",
+   "id": "link:https://romhack.ing/database/content/entry/3BAn4gzlRzKufRgCTLPnTQ/farland-story-fx-english-translation",
+   "l": "https://romhack.ing/database/content/entry/3BAn4gzlRzKufRgCTLPnTQ/farland-story-fx-english-translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PC-FX",
    "src": "Credited on CDRomance"
   },
   {
@@ -2532,6 +3021,19 @@
    "src": "Credited on CDRomance"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-10-22T09:57:51Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T10:24:13Z",
    "g": "Magic: The Gathering DC",
    "id": "astraleamalthea/magicthegatheringdreamcasteng",
@@ -2718,6 +3220,117 @@
    "src": "Credited on CDRomance"
   },
   {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Delisoba Deluxe",
+   "grp": "ExxistanceDC",
+   "id": "exxistancedc/delisoba-deluxe-english-translation",
+   "k": "exxistancedc/delisoba-deluxe-english-translation",
+   "l": "https://github.com/ExxistanceDC/Delisoba-Deluxe-English-Translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Di Gi Charat Fantasy DC",
+   "id": "derekpascarella/digicharatfantasy-englishpatchdreamcast",
+   "k": "derekpascarella/digicharatfantasy-englishpatchdreamcast",
+   "l": "https://github.com/DerekPascarella/DiGiCharatFantasy-EnglishPatchDreamcast",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Dreamcast",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "SuperLite 2000 Table Hanafuda",
+   "grp": "(s): ScatterBrain",
+   "id": "scatterdbrain/superlite-2000-table-hanafuda-ps2-english-translation-patch",
+   "k": "scatterdbrain/superlite-2000-table-hanafuda-ps2-english-translation-patch",
+   "l": "https://github.com/ScatterdBrain/SuperLite-2000-Table-Hanafuda-PS2-English-Translation-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Otogirisou",
+   "grp": "(s): ButThouMust",
+   "id": "butthoumust/otogirisou-english",
+   "k": "butthoumust/otogirisou-english",
+   "l": "https://github.com/ButThouMust/otogirisou-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Mystic Nights",
+   "id": "jeremydecola/mystic-nights-translation",
+   "k": "jeremydecola/mystic-nights-translation",
+   "l": "https://github.com/jeremydecola/Mystic-Nights-Translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Metal Slader Glory",
+   "id": "romh-acking/metal-slader-glory-fc-en-manual",
+   "k": "romh-acking/metal-slader-glory-fc-en-manual",
+   "l": "https://github.com/romh-acking/metal-slader-glory-fc-en-manual",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "NES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Nakoruru: Ano Hito Kara no Okurimono DC",
+   "id": "derekpascarella/nakoruruthegiftshegaveme-englishpatchdreamcast",
+   "k": "derekpascarella/nakoruruthegiftshegaveme-englishpatchdreamcast",
+   "l": "https://github.com/DerekPascarella/NakoruruTheGiftSheGaveMe-EnglishPatchDreamcast",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Dreamcast",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Shinrei Jusatsushi Taroumaru",
+   "id": "exxistancedc/shinrei-jusatsushi-taromaru-english-patch",
+   "k": "exxistancedc/shinrei-jusatsushi-taromaru-english-patch",
+   "l": "https://github.com/ExxistanceDC/Shinrei-Jusatsushi-Taromaru-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Cowboy Bebop: Tsuioku no Serenade",
+   "id": "sonicman69/bebop-ps2-english",
+   "k": "sonicman69/bebop-ps2-english",
+   "l": "https://github.com/SONICMAN69/Bebop-PS2-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -2735,6 +3348,28 @@
    "grp": "(s): deathkill781",
    "id": "link:https://gbatemp.net/threads/another-dragonball-kai-ultimate-butouden-translation.278158/page-40",
    "l": "https://gbatemp.net/threads/another-dragonball-kai-ultimate-butouden-translation.278158/page-40",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Dragon Drive: D-Masters Shot",
+   "id": "link:https://gbatemp.net/threads/dragon-drive-d-masters-shot-gamecube-project.659079",
+   "l": "https://gbatemp.net/threads/dragon-drive-d-masters-shot-gamecube-project.659079",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Itadaki Street DS DS",
+   "id": "link:https://gbatemp.net/threads/itadaki-street-ds-menu-translation.658699",
+   "l": "https://gbatemp.net/threads/itadaki-street-ds-menu-translation.658699",
    "lb": [
     "Human translation"
    ],
@@ -2839,6 +3474,29 @@
    "grp": "(s): NoahSteam",
    "id": "link:https://segaxtreme.net/resources/sakura-wars-2-english-translation.412",
    "l": "https://segaxtreme.net/resources/sakura-wars-2-english-translation.412",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Wizardry VI & VII Complete",
+   "grp": "Remisse",
+   "id": "link:https://segaxtreme.net/resources/wizardry-vi-vii-complete-english-translation-patch.457",
+   "l": "https://segaxtreme.net/resources/wizardry-vi-vii-complete-english-translation-patch.457",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Dragon Ball Z: Idainaru Dragon Ball Densetsu",
+   "id": "link:https://segaxtreme.net/threads/dragon-ball-z-the-legend-english-translation.37310",
+   "l": "https://segaxtreme.net/threads/dragon-ball-z-the-legend-english-translation.37310",
    "lb": [
     "Human translation"
    ],
@@ -3023,18 +3681,6 @@
     "Human translation"
    ],
    "p": "Saturn",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-10-22T09:57:51Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
@@ -3247,6 +3893,65 @@
     "Human translation"
    ],
    "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-10-22T10:24:13Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Internet Archive"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Clock Tower for WonderSwan WonderSwan",
+   "id": "link:https://archive.org/details/clock-tower-for-wonder-swan-english-v-1-1",
+   "l": "https://archive.org/details/clock-tower-for-wonder-swan-english-v-1-1",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "WonderSwan",
    "src": "Credited on CDRomance"
   },
   {
@@ -3535,6 +4240,143 @@
     "Human translation"
    ],
    "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Final Fantasy VI: Revised Old Style Edition",
+   "grp": "(s): SilentEnigma",
+   "id": "link:https://silentenigma.neocities.org/ff6rose",
+   "l": "https://silentenigma.neocities.org/ff6rose",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Twinkle Tale",
+   "id": "link:https://mijet.eludevisibility.org/TwinkleTale/TwinkleTale.html",
+   "l": "https://mijet.eludevisibility.org/TwinkleTale/TwinkleTale.html",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Mega Drive",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Pocket Monsters: Red, Green & Blue Version",
+   "id": "link:https://www.pokecommunity.com/threads/pocketrgb-en-a-full-red-green-and-blue-translation-of-the-original-pocket-monsters.492958",
+   "l": "https://www.pokecommunity.com/threads/pocketrgb-en-a-full-red-green-and-blue-translation-of-the-original-pocket-monsters.492958",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Boy",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Super Thracia",
+   "id": "link:https://feuniverse.us/t/fe5-super-thracia-english-menu-translation/7855",
+   "l": "https://feuniverse.us/t/fe5-super-thracia-english-menu-translation/7855",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta Offline",
+   "grp": "description:",
+   "id": "link:https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here",
+   "l": "https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS Vita",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "The King of Fighters: Battle de Paradise Neo Geo Pocket Color",
+   "grp": "(s): Marc Max, Kensu William, xenophile",
+   "id": "link:https://www.marcrobledo.com/neo-geo-pocket/king-of-fighters-battle-de-paradise-english-translation",
+   "l": "https://www.marcrobledo.com/neo-geo-pocket/king-of-fighters-battle-de-paradise-english-translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Neo Geo Pocket Color",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Castlevania: Rondo of Blood",
+   "id": "link:http://cubanraul.altervista.org/drac",
+   "l": "http://cubanraul.altervista.org/drac",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PC Engine CD",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Tobal 2",
+   "grp": "(s): VincentNL",
+   "id": "link:https://josekenshin.blogspot.com/p/tobal-2.html",
+   "l": "https://josekenshin.blogspot.com/p/tobal-2.html",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Paranoia Scape",
+   "id": "link:https://aeongenesis.net/projects/paranoiascape",
+   "l": "https://aeongenesis.net/projects/paranoiascape",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Baroque",
+   "id": "link:https://nervetower.neocities.org/credits.html",
+   "l": "https://nervetower.neocities.org/credits.html",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "GUNNM Martian Memory",
+   "id": "link:https://forum.rippersanime.info/viewtopic.php?t=1109",
+   "l": "https://forum.rippersanime.info/viewtopic.php?t=1109",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-22T10:45:22Z",
+   "g": "Mushishi: Ame Furu Sato",
+   "grp": "(s): Anime Game Translations Team",
+   "id": "link:https://agtteam.net/mushishi",
+   "l": "https://agtteam.net/mushishi",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
    "src": "Credited on CDRomance"
   }
  ],
