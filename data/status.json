@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-22T12:06:29Z",
+ "generated": "2026-10-22T12:22:11Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -981,7 +981,7 @@
     "desc": "patchclan.com — English patches for Famicom and Super Famicom games that never left Japan",
     "full": "albertodellisola/patchclan-site",
     "lang": "HTML",
-    "pushed": "2026-10-22T09:28:57Z",
+    "pushed": "2026-10-22T12:22:08Z",
     "size": 130688,
     "stars": 0
    },
@@ -1560,7 +1560,7 @@
     "desc": "Reverse-engineering tooling and Farsi localization for Armored Core (PS1, SLUS-01323). No game data — patch-based, bring your own disc.",
     "full": "byroweb/AC1_RE",
     "lang": "Python",
-    "pushed": "2026-10-22T12:01:52Z",
+    "pushed": "2026-10-22T12:15:40Z",
     "size": 10067,
     "stars": 0
    },
@@ -2190,6 +2190,37 @@
     "pushed": "2026-10-13T12:38:31Z",
     "size": 1597,
     "stars": 3
+   },
+   "shots": []
+  },
+  "dol-translations/lupin-iii": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-05-18T20:08:30Z",
+    "pre": false,
+    "tag": "r205",
+    "url": "https://github.com/DOL-Translations/lupin-III/releases/tag/r205"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-06-05T21:26:57Z",
+    "desc": "Lupin III: Umi ni Kieta Hihou",
+    "full": "DOL-Translations/lupin-III",
+    "lang": "Assembly",
+    "pushed": "2025-05-18T20:08:30Z",
+    "size": 19211,
+    "stars": 23
    },
    "shots": []
   },
@@ -3233,10 +3264,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-21T16:23:40Z",
+    "date": "2026-10-22T12:19:10Z",
     "pre": false,
-    "tag": "v0.1",
-    "url": "https://github.com/kactusken/Super-Wrestle-Angels-English/releases/tag/v0.1"
+    "tag": "v0.2",
+    "url": "https://github.com/kactusken/Super-Wrestle-Angels-English/releases/tag/v0.2"
    },
    "repo": {
     "archived": false,
@@ -3244,7 +3275,7 @@
     "desc": "English Translation for Super Wrestle Angels (SNES)",
     "full": "kactusken/Super-Wrestle-Angels-English",
     "lang": "Python",
-    "pushed": "2026-10-21T19:17:01Z",
+    "pushed": "2026-10-22T12:13:14Z",
     "size": 360,
     "stars": 2
    },
@@ -3427,38 +3458,6 @@
     "pushed": "2026-10-20T19:32:18Z",
     "size": 444,
     "stars": 0
-   },
-   "shots": []
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Complete",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-22T01:28:45Z",
-    "pre": true,
-    "tag": "0.8.6-lute-test1",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.6-lute-test1"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-22T01:28:45Z",
-    "size": 35224,
-    "stars": 17
    },
    "shots": []
   },
