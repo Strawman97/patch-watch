@@ -467,8 +467,13 @@ def refresh_pages(projects):
     log(f"  {len(links)} patch pages tracked; reading {len(todo)} this run (oldest first)")
     last_hit = {}
     ok = gone = failed = 0
+    blocked = {}                                             # hosts that refused this run (bot protection): not asked again until next run
     for u in todo:
         host = A.host_of(u)
+        if host in blocked:
+            pages[u] = {**(pages.get(u) or {}), "checked": NOW}
+            blocked[host] += 1
+            continue
         wait = PAGE_DELAY - (time.time() - last_hit.get(host, 0))
         if wait > 0:
             time.sleep(wait)
@@ -499,11 +504,14 @@ def refresh_pages(projects):
                 gone += 1
             else:
                 failed += 1                                  # blocked or a server error: keep what we had
+                if ex.code in (403, 429, 503):
+                    blocked[host] = 0
             pages[u] = e
         except Exception as ex:
             pages[u] = {**prev, "checked": NOW, "err": str(ex)[:120]}
             failed += 1
-    log(f"  pages: {ok} read, {gone} missing, {failed} couldn't be read (kept the previous data)")
+    log(f"  pages: {ok} read, {gone} missing, {failed} couldn't be read (kept the previous data)" +
+        (f"; refused by {', '.join(f'{h} ({n + 1} pages kept as they were)' for h, n in blocked.items())}" if blocked else ""))
     data["generated"] = NOW
     return write_json_if_changed(path, data)
 
@@ -614,7 +622,7 @@ CDR_LISTS = ["/translations/", "/translations/?language=undub"]
 CDR_PAGES = int(os.environ.get("PW_CDR_PAGES", "3"))              # listing pages read per section (about 20 posts each)
 MAX_CDR_POSTS = int(os.environ.get("PW_MAX_CDR_POSTS", "120"))     # new posts opened per run
 CDR_DELAY = float(os.environ.get("PW_CDR_DELAY", "1.5"))
-CDR_V = 3                                                        # bumped when post reading changes: skipped posts are read again
+CDR_V = 4                                                        # bumped when post reading changes: skipped posts are read again
 
 def cdr_hash(cat, slug):
     return hashlib.sha1(f"{cat}/{slug}".encode()).hexdigest()[:16]

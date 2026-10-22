@@ -484,8 +484,11 @@ def _post_body(h):
     low = h.lower()
     a = low.find("<h1")
     a = a if a >= 0 else 0
-    ends = [i for i in (low.find("related games", a), low.find("<h2", low.find(">download", a)) if low.find(">download", a) >= 0 else -1,
-                        low.find(">download", a), low.find('id="comments"', a), low.find("<aside", a), low.find("<footer", a)) if i > a]
+    # the download section starts with a heading such as "Download: Giftpia (English Patched) ISO"; the info table's
+    # "Downloads" row must not end the post early
+    dl = re.compile(r"<h[1-6]\b[^>]*>(?:\s*<[^>]+>)*\s*download", re.I).search(h, a)
+    ends = [i for i in (low.find("related games", a), dl.start() if dl else -1, low.find('id="comments"', a),
+                        low.find("<aside", a), low.find("<footer", a)) if i > a]
     return h[a:min(ends)] if ends else h[a:]
 
 
