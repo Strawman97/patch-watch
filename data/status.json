@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-22T21:45:23Z",
+ "generated": "2026-10-23T05:03:31Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -518,6 +518,35 @@
     "http://i.imgur.com/P8ypaT4.png"
    ]
   },
+  "beanutrom/psx-jailbreaker-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T20:55:43Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/BeanutROM/PSX-Jailbreaker-English-Patch/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T23:34:52Z",
+    "desc": "",
+    "full": "BeanutROM/PSX-Jailbreaker-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-22T20:55:42Z",
+    "size": 680,
+    "stars": 1
+   },
+   "shots": []
+  },
   "beato07/radiant-historia-undub": {
    "assetOs": {},
    "readme": {
@@ -888,7 +917,7 @@
     "full": "ButThouMust/kamaitachi-sfc-english",
     "lang": "Assembly",
     "pushed": "2026-10-22T21:25:13Z",
-    "size": 7697,
+    "size": 7702,
     "stars": 63
    },
    "shots": [
@@ -1142,6 +1171,41 @@
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-ds-2-english/HEAD/docs/screenshots/06_battle.png"
    ]
   },
+  "damon-daemon/nobunaga-reppuuden-puk-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T18:11:22Z",
+    "pre": true,
+    "tag": "v0.9.0",
+    "url": "https://github.com/damon-daemon/nobunaga-reppuuden-puk-english/releases/tag/v0.9.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-22T18:06:11Z",
+    "desc": "English fan translation (full machine translation) of Nobunaga no Yabou: Reppuuden with Power-Up Kit for the PlayStation",
+    "full": "damon-daemon/nobunaga-reppuuden-puk-english",
+    "lang": "Python",
+    "pushed": "2026-10-22T18:27:00Z",
+    "size": 1566,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-reppuuden-puk-english/HEAD/docs/screenshots/01_main_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-reppuuden-puk-english/HEAD/docs/screenshots/02_scenario.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-reppuuden-puk-english/HEAD/docs/screenshots/03_scenario_intro.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-reppuuden-puk-english/HEAD/docs/screenshots/04_clan_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-reppuuden-puk-english/HEAD/docs/screenshots/05_map.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-reppuuden-puk-english/HEAD/docs/screenshots/06_command_bar.png"
+   ]
+  },
   "damon-daemon/nobunaga-soutenroku-puk-english": {
    "assetOs": {},
    "readme": {
@@ -1280,7 +1344,7 @@
     "lang": "Python",
     "pushed": "2026-10-21T15:28:02Z",
     "size": 4915,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/01_main_menu.png",
@@ -1461,6 +1525,46 @@
     "https://raw.githubusercontent.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast/main/ost.jpg"
    ]
   },
+  "derekpascarella/deathcrimson2altarofmelanito-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2024-02-13T18:21:49Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-02-12T18:05:36Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Death Crimson 2\".",
+    "full": "DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast",
+    "lang": "Perl",
+    "pushed": "2025-11-25T18:43:58Z",
+    "size": 7312,
+    "stars": 22
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/main/images/case.png",
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/main/images/screenshot.png",
+    "https://raw.githubusercontent.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/main/images/vmu.gif",
+    "https://raw.githubusercontent.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast/main/images/bonus.gif"
+   ]
+  },
   "derekpascarella/digicharatfantasy-englishpatchdreamcast": {
    "assetOs": {},
    "readme": {
@@ -1493,6 +1597,42 @@
     "https://i.imgur.com/r4b04e7.png",
     "https://raw.githubusercontent.com/DerekPascarella/DiGiCharatFantasy-EnglishPatchDreamcast/main/images/screenshot2.png",
     "https://raw.githubusercontent.com/DerekPascarella/DiGiCharatFantasy-EnglishPatchDreamcast/main/images/screenshot1.png"
+   ]
+  },
+  "derekpascarella/jungrhythm-englishpatchsaturn": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-04-19T22:02:59Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-04-18T13:06:58Z",
+    "desc": "English translation patch for the Sega Saturn game \"Jung Rhythm\".",
+    "full": "DerekPascarella/JungRhythm-EnglishPatchSaturn",
+    "lang": "Perl",
+    "pushed": "2025-04-02T21:29:34Z",
+    "size": 702,
+    "stars": 15
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/main/images/patcher.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/main/images/screenshot_1.png",
+    "https://raw.githubusercontent.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/main/images/screenshot_2.png"
    ]
   },
   "derekpascarella/nakoruruthegiftshegaveme-englishpatchdreamcast": {
@@ -1533,6 +1673,36 @@
     "https://i.imgur.com/5QCKdKj.png",
     "https://i.imgur.com/bmjnVyB.png",
     "https://i.imgur.com/PbVgeuJ.jpg"
+   ]
+  },
+  "derekpascarella/rabbit-englishpatchsaturn": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-03-13T16:21:39Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-03-13T15:50:21Z",
+    "desc": "English translation patch for the Sega Saturn game \"Rabbit\".",
+    "full": "DerekPascarella/Rabbit-EnglishPatchSaturn",
+    "lang": "Perl",
+    "pushed": "2025-04-26T12:55:15Z",
+    "size": 402,
+    "stars": 22
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/Rabbit-EnglishPatchSaturn/main/images/patcher.png",
+    "https://raw.githubusercontent.com/DerekPascarella/Rabbit-EnglishPatchSaturn/main/images/options.png"
    ]
   },
   "derekpascarella/superpuzzlefighter2x-englishpatchdreamcast": {
@@ -1643,6 +1813,71 @@
     "https://raw.githubusercontent.com/DerekPascarella/TriggerheartExelica-EnglishPatchDreamcast/main/images/ost.png"
    ]
   },
+  "derekpascarella/trizeal-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-10-10T16:44:54Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/DerekPascarella/Trizeal-EnglishPatchDreamcast/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-10-10T15:27:31Z",
+    "desc": "About English translation patch for the Sega Dreamcast game \"Trizeal\".",
+    "full": "DerekPascarella/Trizeal-EnglishPatchDreamcast",
+    "lang": null,
+    "pushed": "2025-03-18T14:33:45Z",
+    "size": 167,
+    "stars": 12
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/Trizeal-EnglishPatchDreamcast/main/images/screenshot.png",
+    "https://raw.githubusercontent.com/DerekPascarella/Trizeal-EnglishPatchDreamcast/main/images/unlt_cont_toggle.png"
+   ]
+  },
+  "derekpascarella/virtuacop2-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-09-25T14:45:18Z",
+    "pre": false,
+    "tag": "1.1",
+    "url": "https://github.com/DerekPascarella/VirtuaCop2-EnglishPatchDreamcast/releases/tag/1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2024-05-23T13:08:58Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Virtua Cop 2\".",
+    "full": "DerekPascarella/VirtuaCop2-EnglishPatchDreamcast",
+    "lang": null,
+    "pushed": "2026-09-25T15:02:28Z",
+    "size": 230,
+    "stars": 12
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/VirtuaCop2-EnglishPatchDreamcast/main/screenshot.png"
+   ]
+  },
   "deucebucket/sabers-shc-english-patch": {
    "assetOs": {},
    "readme": {
@@ -1670,6 +1905,33 @@
     "pushed": "2026-10-13T12:38:31Z",
     "size": 1597,
     "stars": 3
+   },
+   "shots": []
+  },
+  "dol-translations/donkey-konga-3": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-07-07T21:19:35Z",
+    "pre": false,
+    "tag": "r7",
+    "url": "https://github.com/DOL-Translations/donkey-konga-3/releases/tag/r7"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-06-05T21:26:03Z",
+    "desc": "Donkey Konga 3",
+    "full": "DOL-Translations/donkey-konga-3",
+    "lang": "ReScript",
+    "pushed": "2026-03-03T20:33:45Z",
+    "size": 1438,
+    "stars": 13
    },
    "shots": []
   },
@@ -1733,6 +1995,33 @@
    },
    "shots": []
   },
+  "dol-translations/taxi-3": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-08-01T18:57:49Z",
+    "pre": false,
+    "tag": "r5",
+    "url": "https://github.com/DOL-Translations/taxi-3/releases/tag/r5"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-06-05T21:27:24Z",
+    "desc": "Taxi 3: The Game",
+    "full": "DOL-Translations/taxi-3",
+    "lang": "Assembly",
+    "pushed": "2023-12-06T15:50:24Z",
+    "size": 318,
+    "stars": 2
+   },
+   "shots": []
+  },
   "dukeblooders/sambadeamigo2000english": {
    "assetOs": {},
    "readme": {
@@ -1792,6 +2081,35 @@
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo2.png",
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo3.png"
    ]
+  },
+  "eight-mansions/linda-cubed-again": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2024-03-23T02:46:39Z",
+    "pre": false,
+    "tag": "release-9",
+    "url": "https://github.com/Eight-Mansions/linda-cubed-again/releases/tag/release-9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-07-15T01:11:31Z",
+    "desc": "",
+    "full": "Eight-Mansions/linda-cubed-again",
+    "lang": "C++",
+    "pushed": "2024-03-30T03:54:07Z",
+    "size": 192329,
+    "stars": 123
+   },
+   "shots": []
   },
   "eight-mansions/mahjaventure": {
    "assetOs": {},
@@ -1861,10 +2179,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-22T01:42:59Z",
+    "date": "2026-10-22T23:57:37Z",
     "pre": false,
-    "tag": "v0.1.21",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.21"
+    "tag": "v0.1.22",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.22"
    },
    "repo": {
     "archived": false,
@@ -1872,8 +2190,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-22T01:42:59Z",
-    "size": 56006,
+    "pushed": "2026-10-22T23:57:37Z",
+    "size": 58793,
     "stars": 24
    },
    "shots": [
@@ -2272,6 +2590,27 @@
     "https://raw.githubusercontent.com/gagnonpl/spriggan-en/HEAD/screenshots/act-title.png"
    ]
   },
+  "gameblabla/divi-dead": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2019-07-05T00:37:40Z",
+    "desc": "Divi-Dead interpreter by Soywiz. Ports for RS-97, RS-90, Bittboy",
+    "full": "gameblabla/divi-dead",
+    "lang": "C++",
+    "pushed": "2021-03-28T06:45:01Z",
+    "size": 21964,
+    "stars": 8
+   },
+   "shots": []
+  },
   "gengaislop/mm8saturnundub": {
    "assetOs": {},
    "readme": {
@@ -2343,6 +2682,33 @@
     "pushed": "2023-09-05T22:45:35.613Z",
     "stars": 3
    }
+  },
+  "grubgamer-woah/frontmissionalternative": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-15T02:18:20Z",
+    "pre": false,
+    "tag": "TranslationPatch",
+    "url": "https://github.com/grubgamer-woah/FrontMissionAlternative/releases/tag/TranslationPatch"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-15T01:02:41Z",
+    "desc": "Front Mission Alternative English Patch and Translation Studio",
+    "full": "grubgamer-woah/FrontMissionAlternative",
+    "lang": null,
+    "pushed": "2026-10-15T02:18:20Z",
+    "size": 2,
+    "stars": 3
+   },
+   "shots": []
   },
   "hexerkat/langrisser3-english": {
    "assetOs": {
@@ -2623,6 +2989,44 @@
    },
    "shots": [
     "https://raw.githubusercontent.com/jonny-anime/tokimeki-memorial-2-english-patch/HEAD/translated_screenshots/Screenshot%202026-10-14%20215828.png"
+   ]
+  },
+  "jose-tissei/densha-de-go-yamanote-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T19:54:29Z",
+    "pre": true,
+    "tag": "build-8-e3cb783",
+    "url": "https://github.com/jose-tissei/densha-de-go-yamanote-english/releases/tag/build-8-e3cb783"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-29T23:05:08Z",
+    "desc": "Full English translation mod for Densha de GO!! Hashiro Yamanote-sen on Nintendo Switch",
+    "full": "jose-tissei/densha-de-go-yamanote-english",
+    "lang": "Python",
+    "pushed": "2026-10-22T19:54:29Z",
+    "size": 133756,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/jose-tissei/densha-de-go-yamanote-english/HEAD/media/screenshot_save_dialog.png",
+    "https://raw.githubusercontent.com/jose-tissei/densha-de-go-yamanote-english/HEAD/media/screenshot_save_select.png",
+    "https://raw.githubusercontent.com/jose-tissei/densha-de-go-yamanote-english/HEAD/media/screenshot_main_menu.png",
+    "https://raw.githubusercontent.com/jose-tissei/densha-de-go-yamanote-english/HEAD/media/screenshot_drivers_path.png",
+    "https://raw.githubusercontent.com/jose-tissei/densha-de-go-yamanote-english/HEAD/media/screenshot_train_card.png",
+    "https://raw.githubusercontent.com/jose-tissei/densha-de-go-yamanote-english/HEAD/media/screenshot_mission_goals.png"
    ]
   },
   "julianow/tales-of-symphonia-ngc-undub": {
@@ -2959,6 +3363,38 @@
    },
    "shots": []
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-23T01:01:46Z",
+    "pre": true,
+    "tag": "0.8.7",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.7"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-23T01:01:45Z",
+    "size": 36481,
+    "stars": 17
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -3141,7 +3577,7 @@
     "full": "lifebottle/Narikiri-Dungeon-X",
     "lang": "JavaScript",
     "pushed": "2026-10-22T20:56:09Z",
-    "size": 21232,
+    "size": 21716,
     "stars": 60
    },
    "shots": [
@@ -3657,7 +4093,8 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {},
+     "mtl": true
     },
     "v": 1
    },
@@ -3674,8 +4111,8 @@
     "desc": "MTL translation patch for monster guardians made with open-weight models.",
     "full": "micaelmaciel/monster-guardians-eng",
     "lang": "Python",
-    "pushed": "2026-10-22T13:52:30Z",
-    "size": 617,
+    "pushed": "2026-10-23T01:36:52Z",
+    "size": 622,
     "stars": 1
    },
    "shots": []
@@ -4041,6 +4478,60 @@
    },
    "shots": []
   },
+  "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T19:53:23Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-22T19:52:52Z",
+    "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch (GBA)",
+    "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en",
+    "lang": "Python",
+    "pushed": "2026-10-22T19:53:02Z",
+    "size": 765,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T21:29:48Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-22T21:29:18Z",
+    "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party (GBA)",
+    "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en",
+    "lang": "Python",
+    "pushed": "2026-10-22T21:29:48Z",
+    "size": 4016,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/monster-guardians-en": {
    "assetOs": {},
    "readme": {
@@ -4123,7 +4614,32 @@
    "shots": []
   },
   "minhnhattonthat/sugoro-quest-dicenics-en": {
-   "notFound": true
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T20:41:32Z",
+    "pre": false,
+    "tag": "v0.96",
+    "url": "https://github.com/minhnhattonthat/sugoro-quest-dicenics-en/releases/tag/v0.96"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-19T10:40:08Z",
+    "desc": "English fan translation of Sugoro Quest++: Dicenics (SNES)",
+    "full": "minhnhattonthat/sugoro-quest-dicenics-en",
+    "lang": "Python",
+    "pushed": "2026-10-22T20:41:29Z",
+    "size": 323,
+    "stars": 0
+   },
+   "shots": []
   },
   "minhnhattonthat/super-gomoku-narabe-translation": {
    "assetOs": {},
@@ -4781,8 +5297,8 @@
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
     "pushed": "2026-10-22T20:54:55Z",
-    "size": 101675,
-    "stars": 132
+    "size": 101677,
+    "stars": 135
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -5036,8 +5552,8 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-10-22T21:29:02Z",
-    "size": 3214,
+    "pushed": "2026-10-22T23:28:08Z",
+    "size": 3282,
     "stars": 8
    },
    "shots": []
@@ -5184,6 +5700,27 @@
     "pushed": "2026-10-12T10:03:40Z",
     "size": 148,
     "stars": 6
+   },
+   "shots": []
+  },
+  "stickteo/jetters": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2022-09-17T09:25:39Z",
+    "desc": "Jetters Translation Project",
+    "full": "stickteo/jetters",
+    "lang": "Assembly",
+    "pushed": "2023-06-11T03:45:49Z",
+    "size": 1273,
+    "stars": 19
    },
    "shots": []
   },
@@ -5343,6 +5880,111 @@
    },
    "shots": []
   },
+  "waifoof/city-shrouded-in-shadow-english-translation-": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-22T19:33:52Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/waifoof/City-Shrouded-in-Shadow-English-Translation-/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-21T22:10:09Z",
+    "desc": "Unofficial English fan translation of 巨影都市 / City Shrouded in Shadow (PS4, JP CUSA03562 v1.03). Full script, menus, HUD and 168 redrawn images. Patch kit only, no game files. Runs on PS4 and jailbroken PS5.",
+    "full": "waifoof/City-Shrouded-in-Shadow-English-Translation-",
+    "lang": "Python",
+    "pushed": "2026-10-22T21:48:49Z",
+    "size": 13940,
+    "stars": 1
+   },
+   "shots": [
+    "https://img.youtube.com/vi/lB-wLC9MY5E/hqdefault.jpg",
+    "https://raw.githubusercontent.com/waifoof/City-Shrouded-in-Shadow-English-Translation-/HEAD/docs/images/controls.jpg",
+    "https://raw.githubusercontent.com/waifoof/City-Shrouded-in-Shadow-English-Translation-/HEAD/docs/images/stage_cards.jpg",
+    "https://raw.githubusercontent.com/waifoof/City-Shrouded-in-Shadow-English-Translation-/HEAD/docs/images/options.jpg",
+    "https://raw.githubusercontent.com/waifoof/City-Shrouded-in-Shadow-English-Translation-/HEAD/docs/images/notice.jpg",
+    "https://raw.githubusercontent.com/waifoof/City-Shrouded-in-Shadow-English-Translation-/HEAD/docs/images/ps5_dialogue.jpg"
+   ]
+  },
+  "waifoof/elan-plus-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T02:24:36Z",
+    "pre": false,
+    "tag": "v1.0.2",
+    "url": "https://github.com/waifoof/Elan-Plus-English-Patch/releases/tag/v1.0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-20T23:52:44Z",
+    "desc": "English translation patch for Élan Plus (PS1, SLPS-02759). Machine-translated, then edited and play-tested. Covers the full story, menus, mail, redrawn graphics, and movie captions. Applies with xdelta.",
+    "full": "waifoof/Elan-Plus-English-Patch",
+    "lang": "Python",
+    "pushed": "2026-10-21T02:42:05Z",
+    "size": 5853,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/waifoof/Elan-Plus-English-Patch/HEAD/docs/screenshots/01_prologue.png",
+    "https://raw.githubusercontent.com/waifoof/Elan-Plus-English-Patch/HEAD/docs/screenshots/02_dialogue_narusawa.png",
+    "https://raw.githubusercontent.com/waifoof/Elan-Plus-English-Patch/HEAD/docs/screenshots/06_mail.png",
+    "https://raw.githubusercontent.com/waifoof/Elan-Plus-English-Patch/HEAD/docs/screenshots/07_staff_roll_cast.png"
+   ]
+  },
+  "waifoof/koukidou-gensou-gunparade-march-mtl-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-21T01:28:59Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-04T00:58:01Z",
+    "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
+    "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-21T01:28:58Z",
+    "size": 5408,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/0_title.png",
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/1_dialogue.png",
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/2_field.png",
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/3_battle_menu.png",
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/4_skills.png"
+   ]
+  },
   "wandering-heiho/vantage_master_portable_psp": {
    "assetOs": {},
    "readme": {
@@ -5445,7 +6087,7 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-22T16:17:57Z",
+    "pushed": "2026-10-23T04:11:27Z",
     "size": 2912,
     "stars": 0
    },
