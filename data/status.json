@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-23T17:17:32Z",
+ "generated": "2026-10-23T21:31:12Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -240,8 +240,8 @@
    },
    "shots": []
   },
-  "agtteam/vampiretranslation": {
-   "assetOs": {},
+  "agtteam/shugotranslation": {
+   "noRelease": true,
    "readme": {
     "patch": {
      "ex": {}
@@ -249,21 +249,15 @@
     "v": 1
    },
    "readmeLure": [],
-   "release": {
-    "date": "2023-07-29T17:48:06Z",
-    "pre": false,
-    "tag": "v1.3.0",
-    "url": "https://github.com/AGTTeam/VampireTranslation/releases/tag/v1.3.0"
-   },
    "repo": {
     "archived": false,
-    "created": "2021-04-05T07:08:19Z",
-    "desc": "Translation patch project for Vampire Knight on the NDS.",
-    "full": "AGTTeam/VampireTranslation",
+    "created": "2025-01-09T08:04:53Z",
+    "desc": "Translation patch project for Shugo Chara! Norinori! Chara-narhythm♪ on the NDS.",
+    "full": "AGTTeam/ShugoTranslation",
     "lang": "Python",
-    "pushed": "2024-09-03T09:40:38Z",
-    "size": 170,
-    "stars": 4
+    "pushed": "2026-10-23T16:44:50Z",
+    "size": 86,
+    "stars": 0
    },
    "shots": []
   },
@@ -1055,7 +1049,7 @@
     "lang": "Python",
     "pushed": "2026-10-03T14:53:12Z",
     "size": 1237,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -1703,6 +1697,68 @@
     "https://i.imgur.com/PbVgeuJ.jpg"
    ]
   },
+  "derekpascarella/neongenesisevangeliontypingprojectadvanced-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2021-11-20T00:22:16Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/DerekPascarella/NeonGenesisEvangelionTypingProjectAdvanced-EnglishPatchDreamcast/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-06-29T15:09:05Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Neon Genesis Evangelion - Typing Project Advanced\".",
+    "full": "DerekPascarella/NeonGenesisEvangelionTypingProjectAdvanced-EnglishPatchDreamcast",
+    "lang": null,
+    "pushed": "2021-11-20T00:24:01Z",
+    "size": 1749,
+    "stars": 15
+   },
+   "shots": []
+  },
+  "derekpascarella/neongenesisevangeliontypingprojecte-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "fixes": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2021-01-24T16:33:11Z",
+    "pre": false,
+    "tag": "2.0",
+    "url": "https://github.com/DerekPascarella/NeonGenesisEvangelionTypingProjectE-EnglishPatchDreamcast/releases/tag/2.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-01-15T17:05:10Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Neon Genesis Evangelion - Typing Project E\".",
+    "full": "DerekPascarella/NeonGenesisEvangelionTypingProjectE-EnglishPatchDreamcast",
+    "lang": "Batchfile",
+    "pushed": "2022-06-17T17:32:13Z",
+    "size": 7098,
+    "stars": 24
+   },
+   "shots": []
+  },
   "derekpascarella/rabbit-englishpatchsaturn": {
    "assetOs": {},
    "readme": {
@@ -1732,6 +1788,39 @@
     "https://raw.githubusercontent.com/DerekPascarella/Rabbit-EnglishPatchSaturn/main/images/patcher.png",
     "https://raw.githubusercontent.com/DerekPascarella/Rabbit-EnglishPatchSaturn/main/images/options.png"
    ]
+  },
+  "derekpascarella/rainbowcotton-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2021-07-30T14:47:05Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/DerekPascarella/RainbowCotton-EnglishPatchDreamcast/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-07-05T15:53:40Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Rainbow Cotton\".",
+    "full": "DerekPascarella/RainbowCotton-EnglishPatchDreamcast",
+    "lang": "Perl",
+    "pushed": "2023-03-08T20:09:04Z",
+    "size": 7319,
+    "stars": 22
+   },
+   "shots": []
   },
   "derekpascarella/sakurawarscolumns2-englishpatchdreamcast": {
    "assetOs": {},
@@ -1801,6 +1890,36 @@
     "https://i.imgur.com/r4b04e7.png",
     "https://raw.githubusercontent.com/DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast/main/screenshot.png"
    ]
+  },
+  "derekpascarella/taxi2thegame-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-14T11:57:36Z",
+    "pre": false,
+    "tag": "1.1",
+    "url": "https://github.com/DerekPascarella/Taxi2TheGame-EnglishPatchDreamcast/releases/tag/1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-02-03T02:21:57Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Taxi 2 - The Game\".",
+    "full": "DerekPascarella/Taxi2TheGame-EnglishPatchDreamcast",
+    "lang": "Batchfile",
+    "pushed": "2026-10-14T12:05:24Z",
+    "size": 72517,
+    "stars": 9
+   },
+   "shots": []
   },
   "derekpascarella/teaminnocent-englishpatchpcfx": {
    "assetOs": {},
@@ -3148,6 +3267,35 @@
     "https://user-images.githubusercontent.com/6155506/134822118-a568d578-94e1-4b00-a0c8-5a40b4e53fc2.png"
    ]
   },
+  "kactusken/bishoujo-wrestler-retsuden-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-23T16:57:22Z",
+    "pre": false,
+    "tag": "v0.1",
+    "url": "https://github.com/kactusken/Bishoujo-Wrestler-Retsuden-English/releases/tag/v0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-23T16:53:43Z",
+    "desc": "English Translation for Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!! (SNES/SFC)",
+    "full": "kactusken/Bishoujo-Wrestler-Retsuden-English",
+    "lang": "Python",
+    "pushed": "2026-10-23T17:00:52Z",
+    "size": 674,
+    "stars": 0
+   },
+   "shots": []
+  },
   "kactusken/fire-pro-wrestling-g-english": {
    "assetOs": {},
    "readme": {
@@ -3465,38 +3613,6 @@
     "pushed": "2026-10-23T04:20:11Z",
     "size": 253077,
     "stars": 0
-   },
-   "shots": []
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Complete",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-23T01:01:46Z",
-    "pre": true,
-    "tag": "0.8.7",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.7"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-23T01:01:45Z",
-    "size": 36481,
-    "stars": 17
    },
    "shots": []
   },
@@ -4581,35 +4697,6 @@
    },
    "shots": []
   },
-  "minhnhattonthat/little-master-en": {
-   "assetOs": {},
-   "readme": {
-    "patch": {
-     "ex": {
-      "subs": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-10T09:37:14Z",
-    "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/little-master-en/releases/tag/v1.0"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-10-10T09:37:00Z",
-    "desc": "English translation patch for Little Master: Nijiiro no Maseki (SNES)",
-    "full": "minhnhattonthat/little-master-en",
-    "lang": "Python",
-    "pushed": "2026-10-20T04:12:16Z",
-    "size": 546,
-    "stars": 0
-   },
-   "shots": []
-  },
   "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en": {
    "assetOs": {},
    "readme": {
@@ -5028,7 +5115,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T07:24:30Z",
     "size": 80673,
-    "stars": 21
+    "stars": 23
    },
    "shots": [
     "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-v1.9.gif",
@@ -5149,7 +5236,7 @@
     "lang": "Python",
     "pushed": "2026-10-19T09:18:29Z",
     "size": 27757,
-    "stars": 26
+    "stars": 27
    },
    "shots": []
   },
@@ -5525,8 +5612,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-22T20:54:55Z",
-    "size": 101677,
+    "pushed": "2026-10-23T17:46:19Z",
+    "size": 101687,
     "stars": 143
    },
    "shots": [
@@ -5567,10 +5654,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-21T15:40:15Z",
+    "date": "2026-10-23T17:55:15Z",
     "pre": true,
-    "tag": "v0.1.0-beta",
-    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v0.1.0-beta"
+    "tag": "v0.1.1-beta",
+    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v0.1.1-beta"
    },
    "repo": {
     "archived": false,
@@ -5578,11 +5665,13 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-21T16:01:38Z",
-    "size": 4,
+    "pushed": "2026-10-23T19:51:02Z",
+    "size": 7,
     "stars": 0
    },
-   "shots": []
+   "shots": [
+    "https://github.com/user-attachments/assets/531a62da-7afa-4c90-9318-2c3b0a045d08"
+   ]
   },
   "romh-acking/metal-slader-glory-fc-en-manual": {
    "noRelease": true,
@@ -5775,6 +5864,33 @@
     "pushed": "2026-10-22T23:28:08Z",
     "size": 3282,
     "stars": 8
+   },
+   "shots": []
+  },
+  "silentheii/outbreak-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2020-12-08T01:56:23Z",
+    "pre": false,
+    "tag": "v2.1",
+    "url": "https://github.com/SilentHeII/Outbreak-Translation/releases/tag/v2.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2018-07-22T23:46:52Z",
+    "desc": "Repository for the Resident Evil Outbreak Fan Translation",
+    "full": "SilentHeII/Outbreak-Translation",
+    "lang": null,
+    "pushed": "2020-12-08T01:56:23Z",
+    "size": 14,
+    "stars": 33
    },
    "shots": []
   },
@@ -6075,6 +6191,38 @@
    },
    "shots": []
   },
+  "vinheim3/sakurawars1-disasm": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2021-11-07T07:34:09Z",
+    "pre": false,
+    "tag": "0.0.1",
+    "url": "https://github.com/vinheim3/sakuraWars1-disasm/releases/tag/0.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-08-08T07:35:13Z",
+    "desc": "",
+    "full": "vinheim3/sakuraWars1-disasm",
+    "lang": "Assembly",
+    "pushed": "2021-11-08T19:31:48Z",
+    "size": 88127,
+    "stars": 36
+   },
+   "shots": []
+  },
   "vnayar/final-fantasy-iii-neoclassical": {
    "noRelease": true,
    "readme": {
@@ -6296,6 +6444,7 @@
    "noRelease": true,
    "readme": {
     "patch": {
+     "cov": "Partial",
      "ex": {}
     },
     "v": 1
@@ -6307,8 +6456,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-23T16:52:37Z",
-    "size": 3472,
+    "pushed": "2026-10-23T17:45:14Z",
+    "size": 3531,
     "stars": 0
    },
    "shots": []
