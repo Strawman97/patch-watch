@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-23T11:50:40Z",
+ "generated": "2026-10-23T17:17:32Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -432,6 +432,34 @@
     "lang": null,
     "pushed": "2026-06-09T23:57:38Z",
     "size": 1,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "arch9sk7/jetterscol-eng": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-23T06:52:34Z",
+    "pre": false,
+    "tag": "0.8",
+    "url": "https://github.com/Arch9SK7/JettersCol-Eng/releases/tag/0.8"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-23T06:48:41Z",
+    "desc": "English fan translation for Bomberman Jetters Game Collection on GBA",
+    "full": "Arch9SK7/JettersCol-Eng",
+    "lang": null,
+    "pushed": "2026-10-23T06:59:36Z",
+    "size": 19,
     "stars": 0
    },
    "shots": []
@@ -1704,6 +1732,41 @@
     "https://raw.githubusercontent.com/DerekPascarella/Rabbit-EnglishPatchSaturn/main/images/patcher.png",
     "https://raw.githubusercontent.com/DerekPascarella/Rabbit-EnglishPatchSaturn/main/images/options.png"
    ]
+  },
+  "derekpascarella/sakurawarscolumns2-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true,
+      "restore": true,
+      "subs": true
+     },
+     "pct": 100
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2022-03-05T15:12:14Z",
+    "pre": false,
+    "tag": "1.2",
+    "url": "https://github.com/DerekPascarella/SakuraWarsColumns2-EnglishPatchDreamcast/releases/tag/1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2021-04-05T17:33:42Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Sakura Wars: Columns 2\".",
+    "full": "DerekPascarella/SakuraWarsColumns2-EnglishPatchDreamcast",
+    "lang": "Perl",
+    "pushed": "2022-03-05T15:34:36Z",
+    "size": 13399,
+    "stars": 26
+   },
+   "shots": []
   },
   "derekpascarella/superpuzzlefighter2x-englishpatchdreamcast": {
    "assetOs": {},
@@ -3171,7 +3234,7 @@
     "lang": "Python",
     "pushed": "2026-10-21T16:28:16Z",
     "size": 8472,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -3405,6 +3468,38 @@
    },
    "shots": []
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-23T01:01:46Z",
+    "pre": true,
+    "tag": "0.8.7",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.7"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-23T01:01:45Z",
+    "size": 36481,
+    "stars": 17
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -3586,8 +3681,8 @@
     "desc": "An attempt to create a patch for Narikiri Dungeon X (PSP).",
     "full": "lifebottle/Narikiri-Dungeon-X",
     "lang": "JavaScript",
-    "pushed": "2026-10-22T20:56:09Z",
-    "size": 21716,
+    "pushed": "2026-10-23T15:30:40Z",
+    "size": 21721,
     "stars": 60
    },
    "shots": [
@@ -3990,6 +4085,33 @@
     "https://i.imgur.com/mdtsycg.jpg",
     "https://i.imgur.com/D7JE22Q.jpg"
    ]
+  },
+  "maxim-zhao/mappy-gg-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2016-10-26T19:42:54Z",
+    "pre": false,
+    "tag": "1.1",
+    "url": "https://github.com/maxim-zhao/mappy-gg-translation/releases/tag/1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2016-10-25T21:46:39Z",
+    "desc": "Translation of the Sega Game Gear game \"Mappy\" from Japanese to English",
+    "full": "maxim-zhao/mappy-gg-translation",
+    "lang": "Assembly",
+    "pushed": "2022-02-08T12:48:57Z",
+    "size": 509,
+    "stars": 1
+   },
+   "shots": []
   },
   "medabots/medarot1": {
    "assetOs": {},
@@ -5031,6 +5153,40 @@
    },
    "shots": []
   },
+  "pavel0wq/uta-no-prince-sama-repeat-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-23T05:54:18Z",
+    "pre": false,
+    "tag": "V0.1",
+    "url": "https://github.com/pavel0wq/Uta-no-Prince-Sama-Repeat-English-Patch/releases/tag/V0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-23T05:47:34Z",
+    "desc": "Complete English translation patch for psp game Uta no * Prince-Sama: Repeat",
+    "full": "pavel0wq/Uta-no-Prince-Sama-Repeat-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-23T15:36:36Z",
+    "size": 11,
+    "stars": 0
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/38c0d324-dae9-408b-949b-e4c9f637219a",
+    "https://github.com/user-attachments/assets/6ba8aabe-dccd-4cad-afee-0046ba7a7f13",
+    "https://github.com/user-attachments/assets/3c7b136e-fa8b-493e-b33d-25ae5c63e1fa"
+   ]
+  },
   "pepasjc/snatcher-translated": {
    "assetOs": {},
    "readme": {
@@ -5109,8 +5265,8 @@
     "full": "phamkv/gotokano",
     "lang": null,
     "pushed": "2026-10-23T11:30:52Z",
-    "size": 77112,
-    "stars": 0
+    "size": 79393,
+    "stars": 1
    },
    "shots": []
   },
@@ -5371,7 +5527,7 @@
     "lang": "C",
     "pushed": "2026-10-22T20:54:55Z",
     "size": 101677,
-    "stars": 141
+    "stars": 143
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -5593,36 +5749,6 @@
     "https://raw.githubusercontent.com/schil227/AdvanceFamicomWars/HEAD/images/vanilla_cost_chart.PNG",
     "https://raw.githubusercontent.com/schil227/AdvanceFamicomWars/HEAD/images/move_chart.PNG"
    ]
-  },
-  "scienceandresearch/ogre-battle-gaiden-english-plus": {
-   "assetOs": {},
-   "readme": {
-    "patch": {
-     "ex": {
-      "gfx": true,
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-12T00:04:16Z",
-    "pre": false,
-    "tag": "v1.0.0",
-    "url": "https://github.com/scienceandresearch/ogre-battle-gaiden-english-plus/releases/tag/v1.0.0"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-10-10T12:02:26Z",
-    "desc": "English fan translation of Densetsu no Ogre Battle Gaiden: Zenobia no Ouji (Neo Geo Pocket Color): BPS patch + Windows player. Bring your own cartridge dump; contains no game data.",
-    "full": "scienceandresearch/ogre-battle-gaiden-english-plus",
-    "lang": "Python",
-    "pushed": "2026-10-12T00:26:54Z",
-    "size": 1285,
-    "stars": 0
-   },
-   "shots": []
   },
   "scrambled-beans/puyo1-md-translation": {
    "assetOs": {},
@@ -6181,8 +6307,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-23T11:35:21Z",
-    "size": 3050,
+    "pushed": "2026-10-23T16:52:37Z",
+    "size": 3472,
     "stars": 0
    },
    "shots": []
