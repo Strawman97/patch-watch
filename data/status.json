@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-23T05:03:31Z",
+ "generated": "2026-10-23T11:50:40Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -2874,6 +2874,27 @@
     "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/character-select.png"
    ]
   },
+  "ivin-santhosh/genesis": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-08-03T07:32:48Z",
+    "desc": "Architecting a localized, offline-first autonomous agentic AI ecosystem designed to seamlessly integrate cloud operations with local hardware workflows.",
+    "full": "ivin-santhosh/Genesis",
+    "lang": "Python",
+    "pushed": "2026-10-23T04:55:26Z",
+    "size": 631,
+    "stars": 1
+   },
+   "shots": []
+  },
   "jadetheda/talltwinstowerenglish": {
    "assetOs": {},
    "readme": {
@@ -3363,35 +3384,24 @@
    },
    "shots": []
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
+  "kde/l10n-nds": {
+   "noRelease": true,
    "readme": {
+    "none": true,
     "patch": {
-     "cov": "Complete",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
+     "ex": {}
+    }
    },
    "readmeLure": [],
-   "release": {
-    "date": "2026-10-23T01:01:46Z",
-    "pre": true,
-    "tag": "0.8.7",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.7"
-   },
    "repo": {
     "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-23T01:01:45Z",
-    "size": 36481,
-    "stars": 17
+    "created": "2026-10-19T05:25:38Z",
+    "desc": "Internationalization and Localization for Low Saxon",
+    "full": "KDE/l10n-nds",
+    "lang": "Shell",
+    "pushed": "2026-10-23T04:20:11Z",
+    "size": 253077,
+    "stars": 0
    },
    "shots": []
   },
@@ -4839,6 +4849,36 @@
     "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/town004.png"
    ]
   },
+  "nikita600/welcomehouseenglishpatch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "retrans": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2023-02-05T10:39:56Z",
+    "pre": false,
+    "tag": "05FEB2023",
+    "url": "https://github.com/nikita600/WelcomeHouseEnglishPatch/releases/tag/05FEB2023"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-01-02T13:57:19Z",
+    "desc": "",
+    "full": "nikita600/WelcomeHouseEnglishPatch",
+    "lang": "Assembly",
+    "pushed": "2026-10-17T22:34:55Z",
+    "size": 424,
+    "stars": 10
+   },
+   "shots": []
+  },
   "nn-exe/pokemon-hyper-emerald-5.7-qol": {
    "assetOs": {},
    "readme": {
@@ -5057,10 +5097,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-16T09:27:55Z",
+    "date": "2026-10-23T11:29:44Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/phamkv/gotokano/releases/tag/v1.0"
+    "tag": "v2.0",
+    "url": "https://github.com/phamkv/gotokano/releases/tag/v2.0"
    },
    "repo": {
     "archived": false,
@@ -5068,7 +5108,7 @@
     "desc": "English Patch for The Quintessential Quintuplets: Five Promises Made With Her (Switch)",
     "full": "phamkv/gotokano",
     "lang": null,
-    "pushed": "2026-10-16T09:29:34Z",
+    "pushed": "2026-10-23T11:30:52Z",
     "size": 77112,
     "stars": 0
    },
@@ -5173,6 +5213,39 @@
     "https://static.wikia.nocookie.net/dokodemo/images/d/d5/5052001-01.jpg",
     "https://github.com/user-attachments/assets/8ea73365-10c3-4528-9087-1934d9d9d95a",
     "https://www.romhacking.net/utilities/screenshots/598screenshot1.png"
+   ]
+  },
+  "randomprojectsfactory/cosmic-fantasy-pce-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-23T01:36:58Z",
+    "pre": false,
+    "tag": "v2026.10.23.1",
+    "url": "https://github.com/randomprojectsfactory/cosmic-fantasy-pce-english/releases/tag/v2026.10.23.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-23T01:34:55Z",
+    "desc": "English text and cinematic subtitles for Cosmic Fantasy on PC Engine CD, preserving Japanese voices and artwork. Patch-only distribution.",
+    "full": "randomprojectsfactory/cosmic-fantasy-pce-english",
+    "lang": "Python",
+    "pushed": "2026-10-23T01:36:58Z",
+    "size": 220,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/subtitle-cinematic.png",
+    "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/subtitle-planet-norg.png",
+    "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/dialogue.png"
    ]
   },
   "redeted/megami-ibunroku-persona-ps1-translation": {
@@ -5298,7 +5371,7 @@
     "lang": "C",
     "pushed": "2026-10-22T20:54:55Z",
     "size": 101677,
-    "stars": 135
+    "stars": 141
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -5373,6 +5446,27 @@
     "pushed": "2021-11-29T14:01:12Z",
     "size": 540925,
     "stars": 4
+   },
+   "shots": []
+  },
+  "rpierucci/namco-museum-encore-ps1-translation-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2022-08-26T21:57:37Z",
+    "desc": "",
+    "full": "rpierucci/Namco-Museum-Encore-PS1-Translation-Patch",
+    "lang": null,
+    "pushed": "2022-08-31T17:51:08Z",
+    "size": 91,
+    "stars": 1
    },
    "shots": []
   },
@@ -5905,7 +5999,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T21:48:49Z",
     "size": 13940,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://img.youtube.com/vi/lB-wLC9MY5E/hqdefault.jpg",
@@ -5942,7 +6036,7 @@
     "lang": "Python",
     "pushed": "2026-10-21T02:42:05Z",
     "size": 5853,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/waifoof/Elan-Plus-English-Patch/HEAD/docs/screenshots/01_prologue.png",
@@ -6087,8 +6181,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-23T04:11:27Z",
-    "size": 2912,
+    "pushed": "2026-10-23T11:35:21Z",
+    "size": 3050,
     "stars": 0
    },
    "shots": []

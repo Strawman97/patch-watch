@@ -14,6 +14,22 @@
    ],
    "tv": 3
   },
+  "1991 du ma racing|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6nrp",
+   "id": 22428,
+   "match": 1.0,
+   "name": "1991 Du Ma Racing",
+   "shots": [
+    "bfxvrryjlwuwujrmcnpk",
+    "ms2ajb7myzpj6odqu6zm",
+    "wczkkc48uxrjubcujb8e",
+    "d8brgbemawoftdqoob4u",
+    "kz3istptqa13c64xipsp"
+   ],
+   "tv": 3
+  },
   "3x3 eyes juuma houkan|19": {
    "anyPlat": true,
    "checked": "2026-10-21T07:14:34Z",
@@ -39,6 +55,18 @@
     "sc8uw9",
     "sc8uwa",
     "sc8uwb"
+   ],
+   "tv": 3
+  },
+  "4 nin uchi mahjong|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co9d7v",
+   "id": 93369,
+   "match": 1.0,
+   "name": "4-nin Uchi Mahjong",
+   "shots": [
+    "sc6jyn"
    ],
    "tv": 3
   },
@@ -83,6 +111,21 @@
     "rt2s8qiadjnx9g1kqui8",
     "ejyieeeavnu0skwulceo",
     "jedhvpjipsjpjf68h7py"
+   ],
+   "tv": 3
+  },
+  "8 eyes|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co44dz",
+   "id": 1975,
+   "match": 1.0,
+   "name": "8 Eyes",
+   "shots": [
+    "sc713h",
+    "sc713j",
+    "sc713l",
+    "sc713k",
+    "sc713i"
    ],
    "tv": 3
   },
@@ -171,6 +214,19 @@
   "advance famicom wars|18": {
    "checked": "2026-10-22T10:24:13Z",
    "shots": [],
+   "tv": 3
+  },
+  "advanced dungeons and dragons dragons of flame|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co9ux2",
+   "id": 8602,
+   "match": 1.0,
+   "name": "Advanced Dungeons & Dragons: Dragons of Flame",
+   "shots": [
+    "fmcs7uodfrkzf1bevcvu",
+    "cukhcynwkonyigau3eyo",
+    "a78bqxubzkyahiaph5e1"
+   ],
    "tv": 3
   },
   "adventures of hourai high transfer student drama bomb|19": {
@@ -266,6 +322,32 @@
    ],
    "tv": 3
   },
+  "akai ito|8": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6lg6",
+   "id": 73494,
+   "match": 1.0,
+   "name": "Akai Ito",
+   "shots": [
+    "j2i3ygtyjn9qym0hqk3p"
+   ],
+   "tv": 3
+  },
+  "akira|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "qryndoeq2pd8gggtdf45",
+   "id": 2340,
+   "match": 1.0,
+   "name": "Akira",
+   "shots": [
+    "scgzxz",
+    "scgzxw",
+    "scgzxx",
+    "scgzxy"
+   ],
+   "tv": 3
+  },
   "akumajou dracula x gekka no yasoukyoku|32": {
    "checked": "2026-10-23T05:03:31Z",
    "cover": "cob9el",
@@ -276,6 +358,21 @@
     "scbu1g",
     "scbu1h",
     "scbu1i"
+   ],
+   "tv": 3
+  },
+  "akumajou special boku dracula kun|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "cob9o2",
+   "id": 1120,
+   "match": 1.0,
+   "name": "Kid Dracula",
+   "shots": [
+    "taforvq08afvbxxm49ib",
+    "cwznhblbpwfipjrc7s9d",
+    "osd3coar1lppmed5dnij",
+    "tmphc9vqlryct3mhnkkj"
    ],
    "tv": 3
   },
@@ -417,6 +514,11 @@
   },
   "animal forest psp port|38": {
    "checked": "2026-10-22T09:57:51Z",
+   "shots": [],
+   "tv": 3
+  },
+  "ankoku shinwa the dark myth|18": {
+   "checked": "2026-10-23T11:50:40Z",
    "shots": [],
    "tv": 3
   },
@@ -936,6 +1038,18 @@
    ],
    "tv": 3
   },
+  "ayakashi no shiro|33": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co9gyl",
+   "id": 49150,
+   "match": 1.0,
+   "name": "Ayakashi no Shiro",
+   "shots": [
+    "sc7m9h",
+    "sc7m9g"
+   ],
+   "tv": 3
+  },
   "ayanami ikusei keikaku ds with asuka hokan keikaku|20": {
    "checked": "2026-10-21T07:14:34Z",
    "shots": [],
@@ -1016,6 +1130,24 @@
    ],
    "tv": 3
   },
+  "banana prince bananan ouji no daibouken|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
+  "banishing racer|33": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co9gyi",
+   "id": 7763,
+   "match": 1.0,
+   "name": "Banishing Racer",
+   "shots": [
+    "sc14zpt",
+    "sc14zpu",
+    "sc14zpv"
+   ],
+   "tv": 3
+  },
   "bare knuckle iii|29": {
    "checked": "2026-10-22T09:57:51Z",
    "cover": "co5b9i",
@@ -1088,6 +1220,19 @@
     "scxwr2",
     "scxwr5",
     "scxwr0"
+   ],
+   "tv": 3
+  },
+  "barunba|86": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6f0z",
+   "id": 42087,
+   "match": 1.0,
+   "name": "Barunba",
+   "shots": [
+    "scgadp",
+    "scgadq",
+    "scgadr"
    ],
    "tv": 3
   },
@@ -1206,6 +1351,19 @@
    "shots": [
     "scy1u3",
     "scy1u4"
+   ],
+   "tv": 3
+  },
+  "bishoujo senshi sailor moon s|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6yi9",
+   "id": 36697,
+   "match": 1.0,
+   "name": "Bishoujo Senshi Sailor Moon S",
+   "shots": [
+    "zw8vqulepawpg2yinmpw",
+    "lx7ttxg0l9xkjolssbmx",
+    "wjgjaimyj6huaeiv1zhu"
    ],
    "tv": 3
   },
@@ -1364,6 +1522,18 @@
    ],
    "tv": 3
   },
+  "bodyconquest i abakareshi musume tachi|51": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co7swq",
+   "id": 41238,
+   "match": 1.0,
+   "name": "BodyConQuest I: Abakareshi Musume-tachi",
+   "nsfw": true,
+   "shots": [
+    "scuzfh"
+   ],
+   "tv": 3
+  },
   "boktai 2 solar boy django|24": {
    "checked": "2026-10-21T07:42:14Z",
    "cover": "co2hbu",
@@ -1472,6 +1642,15 @@
   },
   "bomberman jetters densetsu no bomber man|24": {
    "checked": "2026-10-22T21:45:23Z",
+   "shots": [],
+   "tv": 3
+  },
+  "bomberman jetters game collection|24": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6v4g",
+   "id": 49528,
+   "match": 1.0,
+   "name": "Bomberman Jetters: Game Collection",
    "shots": [],
    "tv": 3
   },
@@ -2122,6 +2301,20 @@
    ],
    "tv": 3
   },
+  "chocobo no fushigi na dungeon for wonderswan|57": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2s79",
+   "id": 143246,
+   "match": 1.0,
+   "name": "Chocobo no Fushigi na Dungeon for WonderSwan",
+   "shots": [
+    "sc90zc",
+    "sc90zb",
+    "sc90za",
+    "sc90z9"
+   ],
+   "tv": 3
+  },
   "chocobo no fushigi na dungeon|7": {
    "checked": "2026-10-22T21:45:23Z",
    "cover": "coavod",
@@ -2365,6 +2558,19 @@
    "shots": [],
    "tv": 3
   },
+  "coca cola kid|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6aeg",
+   "id": 46325,
+   "match": 1.0,
+   "name": "Sassou Shounen Eiyuuden: Coca-Cola Kid",
+   "shots": [
+    "scscvr",
+    "scscvs",
+    "scscvt"
+   ],
+   "tv": 3
+  },
   "code geass hangyaku no lelouch|20": {
    "checked": "2026-10-22T12:22:11Z",
    "cover": "co4rq3",
@@ -2520,6 +2726,11 @@
   },
   "crash bandicoot bakusou nitro kart|24": {
    "checked": "2026-10-22T10:24:13Z",
+   "shots": [],
+   "tv": 3
+  },
+  "crayon shin chan showdown quantum panic|35": {
+   "checked": "2026-10-23T11:50:40Z",
    "shots": [],
    "tv": 3
   },
@@ -2931,6 +3142,19 @@
    ],
    "tv": 3
   },
+  "deathmask|32": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co446w",
+   "id": 2170,
+   "match": 1.0,
+   "name": "Angel Devoid: Face of the Enemy",
+   "shots": [
+    "sceedr",
+    "sceeds",
+    "sceedt"
+   ],
+   "tv": 3
+  },
   "deep dungeon iii yuushi e no tabi graphics mod and rebalance|18": {
    "checked": "2026-10-22T12:06:29Z",
    "shots": [],
@@ -3109,6 +3333,29 @@
    ],
    "tv": 3
   },
+  "dicing knight period|57": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
+  "digimon adventure 02 d1 tamers|57": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
+  "digimon adventure 02 tag tamers|57": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co7znh",
+   "id": 37518,
+   "match": 1.0,
+   "name": "Digimon Adventure 02: Tag Tamers",
+   "shots": [
+    "sc7m54",
+    "sc7m55",
+    "scg8u0"
+   ],
+   "tv": 3
+  },
   "digimon adventure psp kit|38": {
    "checked": "2026-10-22T09:57:51Z",
    "shots": [],
@@ -3163,6 +3410,20 @@
    "shots": [],
    "tv": 3
   },
+  "digimon tamers battle spirit ver 1 5|57": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co7zng",
+   "id": 63935,
+   "match": 1.0,
+   "name": "Digimon Tamers: Battle Spirit Ver 1.5",
+   "shots": [
+    "sc8ruj",
+    "sc8ruk",
+    "sc8rul"
+   ],
+   "tv": 3
+  },
   "digimon world data squad|8": {
    "checked": "2026-10-21T07:42:14Z",
    "cover": "co2px7",
@@ -3202,6 +3463,36 @@
    ],
    "tv": 3
   },
+  "digital devil story megami tensei ii|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co8zqk",
+   "id": 284082,
+   "match": 1.0,
+   "name": "Digital Devil Story: Megami Tensei II",
+   "shots": [],
+   "tv": 3
+  },
+  "digital devil story megami tensei|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co8zqj",
+   "id": 284081,
+   "match": 1.0,
+   "name": "Digital Devil Story: Megami Tensei",
+   "shots": [],
+   "tv": 3
+  },
+  "digital monster card game ver wonderswan color|57": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co7jxw",
+   "id": 37549,
+   "match": 1.0,
+   "name": "Digital Monster Card Game Ver. WonderSwan Color",
+   "shots": [],
+   "tv": 3
+  },
   "ding dong|130": {
    "checked": "2026-10-21T07:42:14Z",
    "cover": "co5riv",
@@ -3229,6 +3520,37 @@
     "scfbgn",
     "scfbgo",
     "scfbgp"
+   ],
+   "tv": 3
+  },
+  "dirty pair project eden|51": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "nnpltosjmorjnze32htk",
+   "id": 41235,
+   "match": 1.0,
+   "name": "Dirty Pair: Project Eden",
+   "shots": [
+    "sc14sg2",
+    "sc14sg0",
+    "sc14sg1"
+   ],
+   "tv": 3
+  },
+  "divi dead|23": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co9j2f",
+   "id": 12420,
+   "match": 1.0,
+   "name": "Divi-Dead",
+   "nsfw": true,
+   "shots": [
+    "cle5yonu0j9r9bcszi0b",
+    "juxedgyjjjtmordyh6bq",
+    "sc9dxc",
+    "sc9dxd",
+    "sc9dxe",
+    "sc9dxf"
    ],
    "tv": 3
   },
@@ -3349,6 +3671,11 @@
     "scmio2",
     "scmio0"
    ],
+   "tv": 3
+  },
+  "doki oki 1995 vkx|7": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
    "tv": 3
   },
   "doko demo issyo|38": {
@@ -3789,6 +4116,19 @@
    "match": 1.0,
    "name": "Dragon Drive: D-Masters Shot",
    "shots": [],
+   "tv": 3
+  },
+  "dragon egg|86": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co62hd",
+   "id": 37722,
+   "match": 1.0,
+   "name": "Dragon Egg!",
+   "shots": [
+    "sckt26",
+    "sckt28",
+    "sckt27"
+   ],
    "tv": 3
   },
   "dragon knife|18": {
@@ -4688,6 +5028,18 @@
    "shots": [],
    "tv": 3
   },
+  "erika to satoru no yume bouken|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co95fz",
+   "id": 48508,
+   "match": 1.0,
+   "name": "Erika to Satoru no Yume Bouken",
+   "shots": [
+    "scus1l"
+   ],
+   "tv": 3
+  },
   "escape from bug island|8": {
    "anyPlat": true,
    "checked": "2026-10-21T07:42:14Z",
@@ -4702,9 +5054,42 @@
    ],
    "tv": 3
   },
+  "esper dream 2 aratanaru tatakai|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6nw9",
+   "id": 48505,
+   "match": 1.0,
+   "name": "Esper Dream 2: Aratanaru Tatakai",
+   "shots": [
+    "sc7mux",
+    "sc7muw",
+    "sc7mv0",
+    "sc7mv1",
+    "sc7muz",
+    "sc7muy"
+   ],
+   "tv": 3
+  },
   "eternal filena|19": {
    "checked": "2026-10-21T07:14:34Z",
    "shots": [],
+   "tv": 3
+  },
+  "eternal legend eien no densetsu|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co92be",
+   "id": 45794,
+   "match": 1.0,
+   "name": "Eternal Legend",
+   "shots": [
+    "sc8909",
+    "sc8906",
+    "sc8907",
+    "sc8908",
+    "sc890b",
+    "sc890d"
+   ],
    "tv": 3
   },
   "eternal poison|8": {
@@ -5080,6 +5465,22 @@
    ],
    "tv": 3
   },
+  "final fantasy ii|57": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "cob25b",
+   "id": 145817,
+   "match": 1.0,
+   "name": "Final Fantasy II",
+   "shots": [
+    "sc99e7",
+    "sc99e6",
+    "sc99e5",
+    "sc99e4",
+    "sc99e3"
+   ],
+   "tv": 3
+  },
   "final fantasy iv namingway edition|19": {
    "checked": "2026-10-21T07:14:34Z",
    "cover": "cob513",
@@ -5197,6 +5598,37 @@
    ],
    "tv": 3
   },
+  "final fantasy vii|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "cobn9o",
+   "id": 207026,
+   "match": 1.0,
+   "name": "Final Fantasy VII",
+   "shots": [
+    "sc12e30",
+    "sc12e31",
+    "sc12e32",
+    "sc12e33",
+    "sc12e34",
+    "sc12e2z"
+   ],
+   "tv": 3
+  },
+  "final fantasy v|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6pld",
+   "id": 158984,
+   "match": 1.0,
+   "name": "Final Fantasy V",
+   "shots": [
+    "scptyt",
+    "scptys",
+    "scptyu"
+   ],
+   "tv": 3
+  },
   "final fantasy x x 2 hd remaster|130": {
    "checked": "2026-10-21T07:14:34Z",
    "cover": "co2zpl",
@@ -5231,6 +5663,21 @@
   },
   "final fantasy|18": {
    "checked": "2026-10-23T05:03:31Z",
+   "cover": "co55e6",
+   "id": 214990,
+   "match": 1.0,
+   "name": "Final Fantasy ++",
+   "shots": [
+    "scik3w",
+    "scik3v",
+    "scs0oj",
+    "scs0ok"
+   ],
+   "tv": 3
+  },
+  "final fantasy|57": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
    "cover": "co55e6",
    "id": 214990,
    "match": 1.0,
@@ -5412,6 +5859,22 @@
    ],
    "tv": 3
   },
+  "fire prowrestling s 6men scramble|32": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co4akc",
+   "id": 46092,
+   "match": 1.0,
+   "name": "Fire Pro Wrestling S: 6 Men Scramble",
+   "shots": [
+    "scf5ri",
+    "scf5rj",
+    "scf5rk",
+    "scf5rl",
+    "scf5rm",
+    "scf5rn"
+   ],
+   "tv": 3
+  },
   "fisraduth castle of tyramis|18": {
    "anyPlat": true,
    "checked": "2026-10-22T17:20:22Z",
@@ -5530,6 +5993,11 @@
     "sccwg3",
     "sccwg4"
    ],
+   "tv": 3
+  },
+  "fudo myouo den|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
    "tv": 3
   },
   "fullmetal alchemist 2 curse of the crimson elixir|8": {
@@ -5869,6 +6337,20 @@
    ],
    "tv": 3
   },
+  "ganbare goemon karakuri douchuu|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co3028",
+   "id": 41718,
+   "match": 1.0,
+   "name": "Ganbare Goemon!: Karakuri Douchuu",
+   "shots": [
+    "scdppq",
+    "scdppr",
+    "scdpps"
+   ],
+   "tv": 3
+  },
   "ganbare goemon ooedo daikaiten|7": {
    "checked": "2026-10-22T17:20:22Z",
    "cover": "co56rv",
@@ -5925,6 +6407,20 @@
     "sc10gio",
     "sc10gip",
     "sc10giq"
+   ],
+   "tv": 3
+  },
+  "gekitotsu yonku battle|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "wvfcdcfrvsohw1jqn49o",
+   "id": 48484,
+   "match": 1.0,
+   "name": "Gekitotsu Yonku Battle",
+   "shots": [
+    "sc15l2f",
+    "sc15l2g",
+    "sc15l2h"
    ],
    "tv": 3
   },
@@ -6038,6 +6534,23 @@
    "name": "Germs: Nerawareta Machi",
    "shots": [
     "scosyt"
+   ],
+   "tv": 3
+  },
+  "getsu fuuma den|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co3w5a",
+   "id": 15829,
+   "match": 1.0,
+   "name": "Getsu Fuuma Den",
+   "shots": [
+    "sckdse",
+    "sckdsc",
+    "sckdsa",
+    "sckdsg",
+    "sckdsf",
+    "sckdsb"
    ],
    "tv": 3
   },
@@ -6232,6 +6745,27 @@
     "b9ge9hstcfyunjxu8w7o",
     "uzprwnvrmvza1abgpoxb",
     "vq5lo5qt2akykbkyffnz"
+   ],
+   "tv": 3
+  },
+  "god slayer haruka tenkuu no sonata|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
+  "godzilla kaijuu no daishingeki|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2b6a",
+   "id": 46315,
+   "match": 1.0,
+   "name": "Godzilla: Kaijuu no Daishingeki",
+   "shots": [
+    "sc8e05",
+    "sc8e06",
+    "sc8e07",
+    "sc6lsr",
+    "sc6lst",
+    "sc6lss"
    ],
    "tv": 3
   },
@@ -6790,6 +7324,17 @@
    ],
    "tv": 3
   },
+  "hanii in the sky|86": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6xfd",
+   "id": 37685,
+   "match": 1.0,
+   "name": "Hanii in the Sky",
+   "shots": [
+    "scv1m9"
+   ],
+   "tv": 3
+  },
   "hanjuku hero ah|19": {
    "checked": "2026-10-22T12:22:11Z",
    "shots": [],
@@ -6830,6 +7375,22 @@
   "harry potter and the mystical halo|22": {
    "checked": "2026-10-23T05:03:31Z",
    "shots": [],
+   "tv": 3
+  },
+  "hataraku chocobo|57": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co5qko",
+   "id": 22899,
+   "match": 1.0,
+   "name": "Hataraku Chocobo",
+   "shots": [
+    "sc7hhd",
+    "sc7hhe",
+    "scjole",
+    "scjolf",
+    "scjolg",
+    "scjolh"
+   ],
    "tv": 3
   },
   "hatsujo switch|130": {
@@ -6905,6 +7466,34 @@
    "name": "Kaikiken",
    "shots": [
     "scj0ir"
+   ],
+   "tv": 3
+  },
+  "head buster|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2b6d",
+   "id": 46314,
+   "match": 1.0,
+   "name": "Head Buster",
+   "shots": [
+    "sc7mgy",
+    "sc7mgz"
+   ],
+   "tv": 3
+  },
+  "hebereke|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co3u2j",
+   "id": 48268,
+   "match": 1.0,
+   "name": "Ufouria: The Saga",
+   "shots": [
+    "ib1wsojwdit89tq6yjtd",
+    "hnbxug8nwz7ws0kevgsw",
+    "jtw0j7jo8zprwtly47qg",
+    "wkxszmvslygcyaep8lvw",
+    "pnjhap2botdjkcxtzbrl",
+    "xsnvkuwdnb2bbo2ku34e"
    ],
    "tv": 3
   },
@@ -7167,6 +7756,19 @@
    ],
    "tv": 3
   },
+  "hyaku no sekai no monogatari the tales on a watery wilderness|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co96uv",
+   "id": 48124,
+   "match": 1.0,
+   "name": "Hyaku no Sekai no Monogatari: The Tales on a Watery Wilderness",
+   "shots": [
+    "scuw9l",
+    "scuw9m"
+   ],
+   "tv": 3
+  },
   "hybrid front|29": {
    "checked": "2026-10-22T10:24:13Z",
    "cover": "cod14c",
@@ -7270,6 +7872,19 @@
    "shots": [
     "scijzt",
     "scijzu"
+   ],
+   "tv": 3
+  },
+  "idol hakkenden|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co7j5a",
+   "id": 7905,
+   "match": 1.0,
+   "name": "Idol Hakken-den",
+   "shots": [
+    "scpppe",
+    "scpppf"
    ],
    "tv": 3
   },
@@ -7537,6 +8152,18 @@
    "shots": [],
    "tv": 3
   },
+  "jaseiken necromancer|86": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "cocn8i",
+   "id": 76450,
+   "match": 1.0,
+   "name": "Necromancer",
+   "shots": [
+    "sc117hy",
+    "sc117hz"
+   ],
+   "tv": 3
+  },
   "jeanne darc|38": {
    "checked": "2026-10-21T07:42:14Z",
    "cover": "co1pnd",
@@ -7549,6 +8176,43 @@
     "z1caeekhrqudpwjdb25t",
     "nxjetucagwz07qyllzi9",
     "rw0hm9k8tecw8noxtgef"
+   ],
+   "tv": 3
+  },
+  "jelly boy 2|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "coau3g",
+   "id": 38364,
+   "match": 1.0,
+   "name": "Jelly Boy 2",
+   "shots": [
+    "sc94q0",
+    "sc94q4",
+    "sc94q3",
+    "sc94q2",
+    "sc94q1"
+   ],
+   "tv": 3
+  },
+  "jerry boy smart ball|19": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
+  "jesus kyoufu no bio monster|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co633h",
+   "id": 48452,
+   "match": 1.0,
+   "name": "JESUS: Kyoufu no Bio Monster",
+   "shots": [
+    "scv366",
+    "scv367",
+    "scv363",
+    "scv364",
+    "scv365"
    ],
    "tv": 3
   },
@@ -7759,6 +8423,20 @@
    "match": 1.0,
    "name": "Kaiketsu Yanchamaru 3: Taiketsu! Zouringen",
    "shots": [],
+   "tv": 3
+  },
+  "kaitou saint tail|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co30ny",
+   "id": 45273,
+   "match": 1.0,
+   "name": "Kaitou Saint Tail",
+   "shots": [
+    "sc9o89",
+    "sc9o8a",
+    "sc9o8b",
+    "sc9o8c"
+   ],
    "tv": 3
   },
   "kaizou choujin shubibinman zero|19": {
@@ -7987,6 +8665,18 @@
    "shots": [],
    "tv": 3
   },
+  "kessen dokapon oukoku iv densetsu no yuusha tachi|19": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co5z1p",
+   "id": 37963,
+   "match": 1.0,
+   "name": "Kessen! Dokapon Okukoku IV: Densetsu no Yuusha-tachi",
+   "shots": [
+    "sc14yeh",
+    "sc14yei"
+   ],
+   "tv": 3
+  },
   "ketsui kizuna jigoku tachi death label|20": {
    "checked": "2026-10-21T07:14:34Z",
    "shots": [],
@@ -8180,6 +8870,18 @@
    "shots": [],
    "tv": 3
   },
+  "kishin douji zenki|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2b6b",
+   "id": 46692,
+   "match": 1.0,
+   "name": "Kishin Douji Zenki",
+   "shots": [
+    "sc7mh1",
+    "sc7mh0"
+   ],
+   "tv": 3
+  },
   "kiteretsu daihyakka|18": {
    "anyPlat": true,
    "checked": "2026-10-22T17:20:22Z",
@@ -8329,8 +9031,46 @@
    ],
    "tv": 3
   },
+  "kouryuu densetsu villgust kieta shoujo|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co8y7g",
+   "id": 73454,
+   "match": 1.0,
+   "name": "Kouryuu Densetsu Villgust: Kieta Shoujo",
+   "shots": [
+    "scij5y"
+   ],
+   "tv": 3
+  },
   "kouryuu no mimi|19": {
    "checked": "2026-10-22T21:45:23Z",
+   "shots": [],
+   "tv": 3
+  },
+  "kowai shashin shinrei shashin kitan|7": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co4bbb",
+   "id": 137561,
+   "match": 1.0,
+   "name": "Kowai Shashin: Shinrei Shashin Kitan",
+   "shots": [],
+   "tv": 3
+  },
+  "kujaku ou ii peacock king ii|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co739g",
+   "id": 48439,
+   "match": 1.0,
+   "name": "Kujaku-ou II",
+   "shots": [
+    "sc1582q"
+   ],
+   "tv": 3
+  },
+  "kujaku ou peacock king|18": {
+   "checked": "2026-10-23T11:50:40Z",
    "shots": [],
    "tv": 3
   },
@@ -8393,6 +9133,21 @@
    ],
    "tv": 3
   },
+  "kuusou kagaku sekai gulliver boy|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co4cnc",
+   "id": 81278,
+   "match": 1.0,
+   "name": "Kuusou Kagaku Sekai Gulliver Boy",
+   "shots": [],
+   "tv": 3
+  },
+  "kyatto ninden teyandee samurai pizza cats|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "kyouryuu sentai zyuranger|18": {
    "anyPlat": true,
    "checked": "2026-10-23T05:03:31Z",
@@ -8408,6 +9163,21 @@
   "kyuuyaku megami tensei i ii|19": {
    "checked": "2026-10-22T12:06:29Z",
    "shots": [],
+   "tv": 3
+  },
+  "l o l lack of love|23": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2tqs",
+   "id": 45799,
+   "match": 1.0,
+   "name": "L.O.L.: Lack of Love",
+   "shots": [
+    "sch4u5",
+    "sch4u7",
+    "sch4u6",
+    "sch4u8",
+    "sch4u9"
+   ],
    "tv": 3
   },
   "l the prologue to death note rasen no trap|20": {
@@ -8877,6 +9647,11 @@
    ],
    "tv": 3
   },
+  "lost golem golem no maigo|23": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "love live school idol paradise|46": {
    "anyPlat": true,
    "checked": "2026-10-21T07:14:34Z",
@@ -8909,6 +9684,19 @@
   "lunar 2 eternal blue|32": {
    "checked": "2026-10-22T12:06:29Z",
    "shots": [],
+   "tv": 3
+  },
+  "lunar sanposuru gakuen|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2zeb",
+   "id": 46354,
+   "match": 1.0,
+   "name": "Lunar: Sanposuru Gakuen",
+   "shots": [
+    "uyqr19fijggjkvsnmle5",
+    "sc7mh2",
+    "sc7mh3"
+   ],
    "tv": 3
   },
   "lunar silver star harmony|38": {
@@ -8958,6 +9746,16 @@
    ],
    "tv": 3
   },
+  "lupin sansei pandora no isan|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co7ty0",
+   "id": 76995,
+   "match": 1.0,
+   "name": "Lupin III: Pandora no Isan",
+   "shots": [],
+   "tv": 3
+  },
   "mabino x style|8": {
    "checked": "2026-10-22T10:24:13Z",
    "shots": [],
@@ -8999,6 +9797,72 @@
    "name": "The Wing of Madoola",
    "shots": [
     "scuw9i"
+   ],
+   "tv": 3
+  },
+  "madou monogatari a doki doki vacation|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6dgm",
+   "id": 45269,
+   "match": 1.0,
+   "name": "Madou Monogatari A: Doki-doki Vacation",
+   "shots": [
+    "scmu2f",
+    "scmu2i",
+    "scmu2h",
+    "scmu2g"
+   ],
+   "tv": 3
+  },
+  "madou monogatari big kindergarten kids|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co40d9",
+   "id": 110397,
+   "match": 1.0,
+   "name": "Madou Monogatari: Hanamaru Daiyouchienji",
+   "shots": [
+    "tirmisf8xtxssbqewn98",
+    "ma0szaud4paqly1lmhdh",
+    "scmu2j",
+    "scmu2k"
+   ],
+   "tv": 3
+  },
+  "madou monogatari i mitsu no madouryoku|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
+  "madou monogatari ii arle 16 sai|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2wj0",
+   "id": 45267,
+   "match": 1.0,
+   "name": "Madou Monogatari II: Arle 16-Sai",
+   "shots": [
+    "sc6ej8",
+    "sc6ej7",
+    "sc6ej6",
+    "scmtyh",
+    "scmtyi",
+    "scmtyj"
+   ],
+   "tv": 3
+  },
+  "madou monogatari iii kyuukyoku joou sama|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2wj1",
+   "id": 45266,
+   "match": 1.0,
+   "name": "Madou Monogatari III: Kyuukyoku Joou-sama",
+   "shots": [
+    "schzcd",
+    "schzce",
+    "scmu07",
+    "scmu04",
+    "scmu05",
+    "scmu06"
    ],
    "tv": 3
   },
@@ -9092,6 +9956,11 @@
    "shots": [],
    "tv": 3
   },
+  "magical hat no buttobi tabo daibouken|29": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "magical kids doropie|18": {
    "anyPlat": true,
    "checked": "2026-10-23T05:03:31Z",
@@ -9168,6 +10037,11 @@
    "shots": [],
    "tv": 3
   },
+  "mahou kishi rayearth 2 making of magic knight|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "mahou kishi rayearth|19": {
    "anyPlat": true,
    "checked": "2026-10-23T05:03:31Z",
@@ -9188,6 +10062,22 @@
   "mahou kishi rayearth|33": {
    "anyPlat": true,
    "checked": "2026-10-23T05:03:31Z",
+   "cover": "co701j",
+   "id": 78959,
+   "match": 1.0,
+   "name": "Magic Knight Rayearth",
+   "shots": [
+    "sco6il",
+    "sco6ik",
+    "scz8wt",
+    "scz8wu",
+    "scz8wv",
+    "scz8ww"
+   ],
+   "tv": 3
+  },
+  "mahou kishi rayearth|35": {
+   "checked": "2026-10-23T11:50:40Z",
    "cover": "co701j",
    "id": 78959,
    "match": 1.0,
@@ -9248,6 +10138,22 @@
    "match": 1.0,
    "name": "Mahouka Koukou no Rettousei: Out of Order",
    "shots": [],
+   "tv": 3
+  },
+  "majin tensei|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co26ih",
+   "id": 38231,
+   "match": 1.0,
+   "name": "Majin Tensei",
+   "shots": [
+    "scmj57",
+    "scmj58",
+    "scmj5a",
+    "scmj5b",
+    "scmj59"
+   ],
    "tv": 3
   },
   "majou densetsu ii daimashikyou galious|18": {
@@ -9319,6 +10225,22 @@
    ],
    "tv": 3
   },
+  "mappy|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co5qwp",
+   "id": 2710,
+   "match": 1.0,
+   "name": "Mappy",
+   "shots": [
+    "jhnuf7e9tav5hpdqpgr7",
+    "u8pnlirkgaxqq0cs5mf1",
+    "qky693tvgkvhkqmka5jp",
+    "cadyxiscciv4v3md84mf",
+    "qatxa6mco6frroct1qay",
+    "niydrwlaua7splmfrwwp"
+   ],
+   "tv": 3
+  },
   "marie no atelier gb|22": {
    "checked": "2026-10-22T12:22:11Z",
    "cover": "co2vw1",
@@ -9346,6 +10268,11 @@
     "scee4g",
     "scee4h"
    ],
+   "tv": 3
+  },
+  "mashin eiyuu den wataru gaiden|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
    "tv": 3
   },
   "mashin eiyuuden wataru|86": {
@@ -9587,6 +10514,34 @@
    ],
    "tv": 3
   },
+  "megami tensei gaiden last bible special|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co3kpn",
+   "id": 45263,
+   "match": 1.0,
+   "name": "Megami Tensei Gaiden: Last Bible Special",
+   "shots": [
+    "sc7mhb",
+    "sc7mhc",
+    "sc98dx",
+    "sc98dy"
+   ],
+   "tv": 3
+  },
+  "megami tensei gaiden last bible|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co91im",
+   "id": 225584,
+   "match": 1.0,
+   "name": "Megami Tensei Gaiden: Last Bible",
+   "shots": [
+    "scjtud",
+    "scjtua",
+    "scjtub",
+    "scjtuc"
+   ],
+   "tv": 3
+  },
   "meikyujima|18": {
    "checked": "2026-10-22T09:57:51Z",
    "shots": [],
@@ -9796,6 +10751,22 @@
    "match": 1.0,
    "name": "Miracle Girls Festival",
    "shots": [],
+   "tv": 3
+  },
+  "mickey no tokyo disneyland daibouken|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co1vxf",
+   "id": 42543,
+   "match": 1.0,
+   "name": "Mickey no Tokyo Disneyland Daibouken",
+   "shots": [
+    "sc7htg",
+    "sc7hti",
+    "sc7htk",
+    "sc7hth",
+    "sc7htj"
+   ],
    "tv": 3
   },
   "might and magic day of the destroyer|8": {
@@ -10042,6 +11013,23 @@
    "shots": [],
    "tv": 3
   },
+  "monstania|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co96fk",
+   "id": 42486,
+   "match": 1.0,
+   "name": "Monstania",
+   "shots": [
+    "schjge",
+    "schjgf",
+    "schjgg",
+    "schjgd",
+    "schjgh",
+    "schjgi"
+   ],
+   "tv": 3
+  },
   "monster guardians|24": {
    "checked": "2026-10-22T09:57:51Z",
    "cover": "g2gt2ngtxcqzg6cwh5jn",
@@ -10106,6 +11094,17 @@
   },
   "monter hunter freedom unite dedummyfier|38": {
    "checked": "2026-10-23T05:03:31Z",
+   "shots": [],
+   "tv": 3
+  },
+  "moon crystal|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "cobx86",
+   "id": 80825,
+   "match": 1.0,
+   "name": "Moon Crystal",
+   "nsfw": true,
    "shots": [],
    "tv": 3
   },
@@ -10180,6 +11179,19 @@
     "lygf1mf9vt89s9jrwkkb",
     "xlak3otwwnfm1yis4a9n",
     "kicjjbeim34pzcu5etm8"
+   ],
+   "tv": 3
+  },
+  "mr driller|57": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6o30",
+   "id": 254519,
+   "match": 1.0,
+   "name": "Mr. Driller",
+   "shots": [
+    "scn3xh",
+    "scn3xi"
    ],
    "tv": 3
   },
@@ -10259,6 +11271,19 @@
    ],
    "tv": 3
   },
+  "mystic ark|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co8o92",
+   "id": 42484,
+   "match": 1.0,
+   "name": "Mystic Ark",
+   "shots": [
+    "schjfa",
+    "schjfc"
+   ],
+   "tv": 3
+  },
   "mystic heroes|8": {
    "checked": "2026-10-21T07:42:14Z",
    "cover": "co27ji",
@@ -10285,6 +11310,17 @@
     "sc88b2",
     "sc88b5",
     "sc88b7"
+   ],
+   "tv": 3
+  },
+  "nakayama miho no tokimeki high school|51": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co4iie",
+   "id": 41284,
+   "match": 1.0,
+   "name": "Nakayama Miho no Tokimeki High School",
+   "shots": [
+    "sc927r"
    ],
    "tv": 3
   },
@@ -10344,6 +11380,23 @@
     "sc7zar",
     "sc7zas",
     "sc7zat"
+   ],
+   "tv": 3
+  },
+  "nangoku shounen papuwa kun|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co4vny",
+   "id": 38389,
+   "match": 1.0,
+   "name": "Nangoku Shounen Papuwa-kun",
+   "shots": [
+    "schgav",
+    "schgau",
+    "schgax",
+    "scipnm",
+    "scipno",
+    "scipns"
    ],
    "tv": 3
   },
@@ -10468,6 +11521,11 @@
    ],
    "tv": 3
   },
+  "neugier umi to kaze no kodo|19": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "never7 the end of infinity|38": {
    "checked": "2026-10-21T07:14:34Z",
    "cover": "co2271",
@@ -10544,6 +11602,17 @@
    "shots": [],
    "tv": 3
   },
+  "nige ron pa|120": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co92vk",
+   "id": 43961,
+   "match": 1.0,
+   "name": "Nige-ron-pa",
+   "shots": [
+    "scuk2v"
+   ],
+   "tv": 3
+  },
   "nights of azure 2 bride of the new moon|46": {
    "checked": "2026-10-21T07:14:34Z",
    "cover": "co1rcm",
@@ -10606,6 +11675,16 @@
     "sc14c96",
     "sc14c97"
    ],
+   "tv": 3
+  },
+  "ninjara hoi|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co4w5e",
+   "id": 48407,
+   "match": 1.0,
+   "name": "Ninjara Hoi!",
+   "shots": [],
    "tv": 3
   },
   "ninki seiyuu how to make a pop voice actress|46": {
@@ -10734,12 +11813,31 @@
    ],
    "tv": 3
   },
+  "nushi tsuri adventure kite no bouken|22": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co526f",
+   "id": 50560,
+   "match": 1.0,
+   "name": "Nushi Tsuri Adventure: Kite no Bouken",
+   "shots": [
+    "sci9re",
+    "sci9rf",
+    "sci9rg",
+    "sci9rh"
+   ],
+   "tv": 3
+  },
   "odekake earth seeker|20": {
    "anyPlat": true,
    "checked": "2026-10-21T07:14:34Z",
    "id": 62958,
    "match": 1.0,
    "name": "Odekake! Earth Seeker",
+   "shots": [],
+   "tv": 3
+  },
+  "oishinbo kyukyoku no menu 3bon syoubu|18": {
+   "checked": "2026-10-23T11:50:40Z",
    "shots": [],
    "tv": 3
   },
@@ -10823,6 +11921,11 @@
     "sch3zg",
     "sch3zh"
    ],
+   "tv": 3
+  },
+  "ookami to koushinryou umi o wataru kaze|20": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
    "tv": 3
   },
   "ookami|20": {
@@ -10966,6 +12069,22 @@
    "shots": [],
    "tv": 3
   },
+  "outlanders|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co5r9d",
+   "id": 127983,
+   "match": 1.0,
+   "name": "Outlanders",
+   "shots": [
+    "sceeh5",
+    "sceeh7",
+    "sceehb",
+    "sceeh6",
+    "sceehc"
+   ],
+   "tv": 3
+  },
   "pachi para 12 oumi to natsu no omoide|8": {
    "checked": "2026-10-22T09:57:51Z",
    "shots": [],
@@ -11014,6 +12133,30 @@
    ],
    "tv": 3
   },
+  "panic in nakayoshi world|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co4ldp",
+   "id": 42374,
+   "match": 1.0,
+   "name": "Panic in Nakayoshi World",
+   "shots": [
+    "scf2xx",
+    "scf2y0",
+    "scf2xy",
+    "scf2xz"
+   ],
+   "tv": 3
+  },
+  "panzer front|23": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2chf",
+   "id": 22008,
+   "match": 1.0,
+   "name": "Panzer Front",
+   "shots": [],
+   "tv": 3
+  },
   "paranoia scape|7": {
    "checked": "2026-10-22T10:45:22Z",
    "shots": [],
@@ -11043,6 +12186,15 @@
     "scpxrh",
     "scpxri"
    ],
+   "tv": 3
+  },
+  "parody world monster party|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "id": 48570,
+   "match": 1.0,
+   "name": "Parody World: Monster Party",
+   "shots": [],
    "tv": 3
   },
   "pcrown|32": {
@@ -11100,6 +12252,38 @@
     "qyacqjmpehr3y2p5xtmp",
     "dbhxxef0y6gta5cxeemp",
     "t5aafadhut6ufygkeovf"
+   ],
+   "tv": 3
+  },
+  "phantasy star adventure|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2b75",
+   "id": 45253,
+   "match": 1.0,
+   "name": "Phantasy Star Adventure",
+   "shots": [
+    "sc8hxm",
+    "sc8hxn",
+    "sc8hxo",
+    "sc8hxp",
+    "sc7mhq",
+    "sc7mhr"
+   ],
+   "tv": 3
+  },
+  "phantasy star gaiden|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co625n",
+   "id": 45252,
+   "match": 1.0,
+   "name": "Phantasy Star Gaiden",
+   "shots": [
+    "sc7mi7",
+    "sc8hxq",
+    "sc7mhu",
+    "sc8hxs",
+    "sc8hxr",
+    "sc8hxt"
    ],
    "tv": 3
   },
@@ -11437,6 +12621,18 @@
    "name": "PoPoRoGue",
    "shots": [
     "scucpb"
+   ],
+   "tv": 3
+  },
+  "portopia renzoku satsujin jiken|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co7r9s",
+   "id": 48358,
+   "match": 1.0,
+   "name": "The Portopia Serial Murder Case",
+   "shots": [
+    "sc95xo"
    ],
    "tv": 3
   },
@@ -11982,6 +13178,11 @@
    ],
    "tv": 3
   },
+  "radia senki reimei hen|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "radiant historia perfect chronology|37": {
    "checked": "2026-10-22T12:22:11Z",
    "cover": "co26im",
@@ -12001,6 +13202,19 @@
   "radical dreamers le tresor interdit|306": {
    "checked": "2026-10-21T07:14:34Z",
    "shots": [],
+   "tv": 3
+  },
+  "radirgy|23": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co1w2c",
+   "id": 4077,
+   "match": 1.0,
+   "name": "Radirgy",
+   "shots": [
+    "scm79o",
+    "scm79p",
+    "scm79q"
+   ],
    "tv": 3
   },
   "raging loop|46": {
@@ -12028,6 +13242,22 @@
     "sckd46",
     "sckd47",
     "sckd48"
+   ],
+   "tv": 3
+  },
+  "rainbow islands puttys party|57": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6itv",
+   "id": 37496,
+   "match": 1.0,
+   "name": "Rainbow Islands: Putty's Party",
+   "shots": [
+    "scmtvg",
+    "scmtvh",
+    "scmtvj",
+    "scmtvk",
+    "scmtvi",
+    "sctu2r"
    ],
    "tv": 3
   },
@@ -12123,6 +13353,22 @@
     "sc983a",
     "sc983b",
     "sc983c"
+   ],
+   "tv": 3
+  },
+  "resident evil code veronica x|23": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2vzv",
+   "id": 24369,
+   "match": 1.0,
+   "name": "Resident Evil Code: Veronica X",
+   "shots": [
+    "ngornmeoiu6cfvgjpn6a",
+    "enxvsz2d4thua1yzqber",
+    "w8uolvscggmym7dqf79z",
+    "r1g1quqm6obczi0d0aee",
+    "tuxljkvoddes8cswulze",
+    "jlu4yjfl9wakaawrpbj7"
    ],
    "tv": 3
   },
@@ -12236,9 +13482,38 @@
    "shots": [],
    "tv": 3
   },
+  "rockman and forte mirai kara no chousensha|57": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "coaltb",
+   "id": 1739,
+   "match": 1.0,
+   "name": "Rockman & Forte: Mirai kara no Chousensha",
+   "shots": [
+    "sc8hob",
+    "sc8hoa",
+    "sc8ho9",
+    "sc8ho8",
+    "sc8ho7",
+    "sc8ho6"
+   ],
+   "tv": 3
+  },
   "rockman and forte|19": {
    "checked": "2026-10-22T17:20:22Z",
    "shots": [],
+   "tv": 3
+  },
+  "rockman battle and fighters|120": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2me6",
+   "id": 75515,
+   "match": 1.0,
+   "name": "Rockman Battle & Fighters",
+   "shots": [
+    "sc15bx2",
+    "sc15bx3",
+    "sc15bx4"
+   ],
    "tv": 3
   },
   "rockman dash hagane no boukenshin|7": {
@@ -12273,6 +13548,11 @@
    ],
    "tv": 3
   },
+  "rockman exe 6 dennoujuu grega|24": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "rockman exe operate shooting star|20": {
    "checked": "2026-10-21T07:14:34Z",
    "cover": "co2042",
@@ -12282,6 +13562,19 @@
    "shots": [
     "tjaqncyghlscmcjqm2ij",
     "kfviftvl6dprcsnaqnv2"
+   ],
+   "tv": 3
+  },
+  "rockman exe ws|57": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2ba9",
+   "id": 1768,
+   "match": 1.0,
+   "name": "Rockman EXE WS",
+   "shots": [
+    "sc7m5o",
+    "sc7m5n"
    ],
    "tv": 3
   },
@@ -12394,6 +13687,22 @@
    "shots": [
     "sc15ccz",
     "sc15cd0"
+   ],
+   "tv": 3
+  },
+  "royal stone hirakareshi toki no tobira|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co4er2",
+   "id": 46310,
+   "match": 1.0,
+   "name": "Royal Stone: Hirakareshi Toki no Tobira",
+   "shots": [
+    "sc7mis",
+    "sc7mip",
+    "sc13fzm",
+    "sc13fzn",
+    "sc13fzo",
+    "sc13fzp"
    ],
    "tv": 3
   },
@@ -12569,6 +13878,20 @@
    "shots": [],
    "tv": 3
   },
+  "saint seiya ougon densetsu kanketsu hen|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co3w51",
+   "id": 48654,
+   "match": 1.0,
+   "name": "Saint Seiya: Ougon Densetsu - Kanketsu-hen",
+   "shots": [
+    "sc1493s",
+    "sc1493t",
+    "sc1493u"
+   ],
+   "tv": 3
+  },
   "saint seiya ougon densetsu|18": {
    "checked": "2026-10-22T21:45:23Z",
    "cover": "coa56x",
@@ -12579,6 +13902,33 @@
     "sc80r8",
     "sc80r9",
     "sc80ra"
+   ],
+   "tv": 3
+  },
+  "saiyuuki world 2 tenjoukai no majin|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6ouo",
+   "id": 19669,
+   "match": 1.0,
+   "name": "Saiyuuki World 2: Tenjoukai no Majin",
+   "shots": [
+    "yb2rdmlieiaswdiukyrr"
+   ],
+   "tv": 3
+  },
+  "saiyuuki world|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co99ic",
+   "id": 48403,
+   "match": 1.0,
+   "name": "Saiyuuki World",
+   "shots": [
+    "scv0t1",
+    "scv0t2",
+    "scv0t3",
+    "scv0t4"
    ],
    "tv": 3
   },
@@ -12621,6 +13971,11 @@
     "sct0a9",
     "scwu0w"
    ],
+   "tv": 3
+  },
+  "sakura wars columns 2|23": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
    "tv": 3
   },
   "sakura wars|32": {
@@ -12817,6 +14172,18 @@
    ],
    "tv": 3
   },
+  "sd gundam winners history|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6ypu",
+   "id": 46309,
+   "match": 1.0,
+   "name": "SD Gundam Winner's History",
+   "shots": [
+    "sc7miv",
+    "sc7miu"
+   ],
+   "tv": 3
+  },
   "sd keiji blader|18": {
    "anyPlat": true,
    "checked": "2026-10-22T17:20:22Z",
@@ -12860,6 +14227,23 @@
   "sega|32": {
    "checked": "2026-10-22T09:57:51Z",
    "shots": [],
+   "tv": 3
+  },
+  "seirei gari|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co7iv4",
+   "id": 48398,
+   "match": 1.0,
+   "name": "Seirei Gari",
+   "shots": [
+    "sce1ng",
+    "sce1nb",
+    "sce1nc",
+    "sce1nd",
+    "sce1ne",
+    "sce1nf"
+   ],
    "tv": 3
   },
   "seirei senshi spriggan|150": {
@@ -12912,6 +14296,19 @@
     "sc15cc9",
     "sc15cca",
     "sc15ccb"
+   ],
+   "tv": 3
+  },
+  "sengoku denshou|19": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co4cer",
+   "id": 48632,
+   "match": 1.0,
+   "name": "Sengoku Denshou",
+   "shots": [
+    "scmlxr",
+    "scmlxs",
+    "scmlxt"
    ],
    "tv": 3
   },
@@ -13131,6 +14528,22 @@
    ],
    "tv": 3
   },
+  "shining force gaiden final conflict|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2b64",
+   "id": 3200,
+   "match": 1.0,
+   "name": "Shining Force Gaiden: Final Conflict",
+   "shots": [
+    "xhrnn38xw5ipd0ojsebl",
+    "nzdmq8qzpexsjpedkyhl",
+    "bj1skdtv6ujcsh564mvz",
+    "untvipcjg4uw5tdmmfze",
+    "sc7mj2",
+    "sc7mj1"
+   ],
+   "tv": 3
+  },
   "shining force iii collection deluxe|32": {
    "checked": "2026-10-22T12:22:11Z",
    "shots": [],
@@ -13220,6 +14633,11 @@
    "id": 46807,
    "match": 1.0,
    "name": "Kingdom Grand Prix",
+   "shots": [],
+   "tv": 3
+  },
+  "shiren the wanderer 2 oni invasion shiren castle|4": {
+   "checked": "2026-10-23T11:50:40Z",
    "shots": [],
    "tv": 3
   },
@@ -13572,6 +14990,15 @@
    "shots": [],
    "tv": 3
   },
+  "soul eater battle resonance|8": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co72kq",
+   "id": 44527,
+   "match": 1.0,
+   "name": "Soul Eater: Battle Resonance",
+   "shots": [],
+   "tv": 3
+  },
   "soul eater medusa no inbou|20": {
    "checked": "2026-10-21T07:14:34Z",
    "cover": "co6iuv",
@@ -13753,6 +15180,22 @@
    ],
    "tv": 3
   },
+  "spyro advance|24": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co1yqk",
+   "id": 1587,
+   "match": 1.0,
+   "name": "Spyro: Season of Ice",
+   "shots": [
+    "sc7nrv",
+    "sc7ns4",
+    "sc7nrx",
+    "sc7ns5",
+    "sc7ns3",
+    "sc7nrz"
+   ],
+   "tv": 3
+  },
   "spyro the dragon|7": {
    "checked": "2026-10-22T09:57:51Z",
    "cover": "co3kmh",
@@ -13821,6 +15264,15 @@
     "scpwdp",
     "scpwdq"
    ],
+   "tv": 3
+  },
+  "startling odyssey ii maryuu sensou|150": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co7mjv",
+   "id": 63929,
+   "match": 1.0,
+   "name": "Startling Odyssey II: Maryuu Sensou",
+   "shots": [],
    "tv": 3
   },
   "steambot chronicles|8": {
@@ -13998,6 +15450,22 @@
     "scg8py",
     "scjf0i",
     "scjf0j"
+   ],
+   "tv": 3
+  },
+  "street fighter ii champion edition|86": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co3t1d",
+   "id": 39496,
+   "match": 1.0,
+   "name": "Street Fighter II: Champion Edition",
+   "shots": [
+    "jgjijzzobis7kbjtxeru",
+    "jafvemz3pdupgcm6gxaw",
+    "hq9zcpgx1budpamumzvu",
+    "sspdp1avry9sb5lcr5dc",
+    "rp8ctai5gzn2jwv86e5w",
+    "cw2axiydoqmet4ucjq2g"
    ],
    "tv": 3
   },
@@ -14323,6 +15791,16 @@
    ],
    "tv": 3
   },
+  "super family circuit|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co3c2z",
+   "id": 37837,
+   "match": 1.0,
+   "name": "Super Family Circuit",
+   "shots": [],
+   "tv": 3
+  },
   "super fire pro wrestling special|19": {
    "anyPlat": true,
    "checked": "2026-10-22T17:20:22Z",
@@ -14334,6 +15812,20 @@
     "scp8hu",
     "scp8hv",
     "scp8hw"
+   ],
+   "tv": 3
+  },
+  "super fire pro wrestling x premium|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co49el",
+   "id": 38420,
+   "match": 1.0,
+   "name": "Super Fire Pro Wrestling X Premium",
+   "shots": [
+    "sc15id9",
+    "sc15id8",
+    "sc15ida"
    ],
    "tv": 3
   },
@@ -14414,6 +15906,15 @@
     "sc5qwn",
     "sc5qwo"
    ],
+   "tv": 3
+  },
+  "super robot pinball|22": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6s6d",
+   "id": 71606,
+   "match": 1.0,
+   "name": "Super Robot Pinball",
+   "shots": [],
    "tv": 3
   },
   "super robot taisen a portable|38": {
@@ -14699,6 +16200,21 @@
    "shots": [
     "scqe92",
     "scqe93"
+   ],
+   "tv": 3
+  },
+  "sylvan tale|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2rif",
+   "id": 19691,
+   "match": 1.0,
+   "name": "Sylvan Tale",
+   "shots": [
+    "sc6l6z",
+    "sc6l6y",
+    "sc6l70",
+    "sc7mjc",
+    "sc7mjd"
    ],
    "tv": 3
   },
@@ -15385,6 +16901,11 @@
    "shots": [],
    "tv": 3
   },
+  "thracia 776 lil manster|19": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "time travelers|37": {
    "checked": "2026-10-21T07:14:34Z",
    "cover": "co30gz",
@@ -15427,6 +16948,20 @@
   "titanic|18": {
    "checked": "2026-10-22T17:20:22Z",
    "shots": [],
+   "tv": 3
+  },
+  "tm network live in power bowl|18": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "cocwta",
+   "id": 48435,
+   "match": 1.0,
+   "name": "TM Network: Live in Power Bowl",
+   "shots": [
+    "sc157wr",
+    "sc157ws",
+    "sc157wt"
+   ],
    "tv": 3
   },
   "to love ru darkness battle ecstasy|46": {
@@ -15507,6 +17042,22 @@
    "name": "Tokimeki Memorial 2",
    "shots": [
     "scoyc9"
+   ],
+   "tv": 3
+  },
+  "tokimeki memorial densetsu no ki no shita de|19": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co2ngh",
+   "id": 42320,
+   "match": 1.0,
+   "name": "Tokimeki Memorial: Densetsu no Ki no Shita de",
+   "shots": [
+    "scg8fj",
+    "scg8fl",
+    "scg8fm",
+    "scg8fn",
+    "scg8fk"
    ],
    "tv": 3
   },
@@ -16058,6 +17609,11 @@
    ],
    "tv": 3
   },
+  "ushio to tora shin|18": {
+   "checked": "2026-10-23T11:50:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "usotsuki hime to moumoku ouji|46": {
    "checked": "2026-10-22T12:22:11Z",
    "cover": "co27b3",
@@ -16070,6 +17626,20 @@
     "scgxxs",
     "scgxxp",
     "scgxxq"
+   ],
+   "tv": 3
+  },
+  "uta no prince sama repeat|38": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co5pd9",
+   "id": 56300,
+   "match": 1.0,
+   "name": "Uta no Prince-sama: Repeat",
+   "shots": [
+    "scjh5j",
+    "scjh5k",
+    "scjh5l",
+    "scjh5m"
    ],
    "tv": 3
   },
@@ -16537,6 +18107,46 @@
    ],
    "tv": 3
   },
+  "wizardry ii llylgamyn no isan|22": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "lp1cqfibquo8ixkqr0eb",
+   "id": 50047,
+   "match": 1.0,
+   "name": "Wizardry II: Llylgamyn no Isan",
+   "shots": [
+    "sc15fit",
+    "sc15fis",
+    "sc15fiu"
+   ],
+   "tv": 3
+  },
+  "wizardry iii diamond no kishi|22": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "n86f17dm5hebpo4s1s46",
+   "id": 50046,
+   "match": 1.0,
+   "name": "Wizardry III: Diamond no Kishi",
+   "shots": [
+    "sc15n57",
+    "sc15n56",
+    "sc15n55"
+   ],
+   "tv": 3
+  },
+  "wizardry scenario 1 proving grounds of the mad overlord|57": {
+   "anyPlat": true,
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "coakzu",
+   "id": 370739,
+   "match": 1.0,
+   "name": "Wizardry Scenario #1: Proving Grounds of the Mad Overlord",
+   "shots": [
+    "sc15n4g",
+    "sc15n4h",
+    "sc15n4i"
+   ],
+   "tv": 3
+  },
   "wizardry seimei no kusabi|20": {
    "checked": "2026-10-21T07:14:34Z",
    "shots": [],
@@ -16919,6 +18529,19 @@
    ],
    "tv": 3
   },
+  "yu yu hakusho ii gekitou nanakyou no tatakai|35": {
+   "checked": "2026-10-23T11:50:40Z",
+   "cover": "co6yqk",
+   "id": 46552,
+   "match": 1.0,
+   "name": "YuYu Hakusho II: Gekitou! Nanakyou no Tatakai",
+   "shots": [
+    "sc15pco",
+    "sc15pcp",
+    "sc15pcq"
+   ],
+   "tv": 3
+  },
   "yukawa moto senmu no otakara sagashi|23": {
    "checked": "2026-10-23T05:03:31Z",
    "cover": "cri9or1ubnt8a5seh207",
@@ -17154,7 +18777,7 @@
    "tv": 3
   }
  },
- "generated": "2026-10-23T05:03:31Z",
+ "generated": "2026-10-23T11:50:40Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -17172,6 +18795,7 @@
   "alarixnia/daichikun-crisis-en": "daichikun crisis do natural turbografx 16|86",
   "alunonymoose/sengoku-basara-3---utage-translation": "sengoku basara 3 utage|9",
   "arceler0/okayunyumu-nsw-eng": "okayu nyumu|130",
+  "arch9sk7/jetterscol-eng": "bomberman jetters game collection|24",
   "astraleamalthea/magicthegatheringdreamcasteng": "magic the gathering dc|23",
   "azzulin/tales-of-radiant-mythology-3-english-translation": "tales of the world radiant mythology 3|38",
   "baslqc/steins-gate-psp-patch": "steins gate|38",
@@ -17214,6 +18838,7 @@
   "derekpascarella/jungrhythm-englishpatchsaturn": "jung rhythm|32",
   "derekpascarella/nakoruruthegiftshegaveme-englishpatchdreamcast": "nakoruru ano hito kara no okurimono dc|23",
   "derekpascarella/rabbit-englishpatchsaturn": "rabbit|32",
+  "derekpascarella/sakurawarscolumns2-englishpatchdreamcast": "sakura wars columns 2|23",
   "derekpascarella/superpuzzlefighter2x-englishpatchdreamcast": "super puzzle fighter ii x for matching service|23",
   "derekpascarella/teaminnocent-englishpatchpcfx": "team innocent the point of no return g c p o ss|274",
   "derekpascarella/triggerheartexelica-englishpatchdreamcast": "triggerheart exelica dc|23",
@@ -17270,6 +18895,7 @@
   "kaisaan/wanderers": "ys iii wanderers from ys|8",
   "kakuna285/saki-zenkokuhen-plus-tl-eng": "saki zenkoku hen plus|46",
   "kde/l10n-nds": "l10n|20",
+  "kenzie-1377/dqxi-3ds-english-patch": "dqxi|37",
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd edition|9",
   "kodakwizard/hikaru-no-go-3-english": "hikaru no go 3|21",
   "kotcrab/umineko-portable-english": "umineko portable|38",
@@ -17288,15 +18914,20 @@
   "lifebottle/tales-of-phantasia-x": "tales of phantasia cross edition|38",
   "lifebottle/tales-of-the-abyss-undub": "tales of the abyss|8",
   "link:http://cubanraul.altervista.org/drac": "castlevania rondo of blood|150",
+  "link:http://forums.magicengine.com/en/viewtopic.php?t=2312": "startling odyssey ii maryuu sensou|150",
   "link:http://mctranslations.cjb.net": "rpg tsukuru 2|19",
   "link:http://meduza-team.ucoz.net": "tactics ogre let us cling together|32",
   "link:http://ngplus.net/index.php?/forums/topic/1249-ffvi-t-edition-matos-translation-v305-2947-costume-stats-still-available-31723": "final fantasy vi t edition ex|19",
+  "link:http://pce.cabbage.cx": "street fighter ii champion edition|86",
+  "link:http://sega.c0.pl/faqs/lol_lack_of_love_english_translation_dreamcast.html": "l o l lack of love|23",
   "link:http://sega.c0.pl/faqs/rundim_as_blacksoul_english_translation_dreamcast.html": "run dim as black soul|23",
   "link:http://watercrown.info/second-verse-same-as-the-first/": "breath of fire ii the fated child|19",
   "link:http://www.berserkdarkness.altervista.org/berserk-ps2-patch-engita-1-1-final-version": "berserk millennium falcon hen seima senki no shou|8",
   "link:http://www.romhacking.net/translations/2054": "twinbee rainbow bell adventure|19",
   "link:http://www.romhacking.net/translations/2744": "policenauts|32",
   "link:http://www.romhacking.net/translations/3354": "super famicom wars|19",
+  "link:http://www.romhacking.net/translations/398": "neugier umi to kaze no kodo|19",
+  "link:http://www.romhacking.net/translations/6402": "super robot pinball|22",
   "link:https://aeongenesis.net/projects/ggundam": "kidou butouden g gundam|19",
   "link:https://aeongenesis.net/projects/jojo": "jojos bizarre adventure|19",
   "link:https://aeongenesis.net/projects/mmr": "metal max returns|19",
@@ -17305,8 +18936,8 @@
   "link:https://aeongenesis.net/projects/splatterworld": "splatterworld rick to kyoufu no daiou|18",
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -17341,7 +18972,6 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
-  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -17361,8 +18991,10 @@
   "link:https://archive.org/details/doctor_lautrec_undub_patch": "doctor lautrec and the forgotten knights|20",
   "link:https://archive.org/details/dokapon_kingdom_ps2_undub_patch": "dokapon kingdom|8",
   "link:https://archive.org/details/dokapon_kingdom_wii_undub_patch": "dokapon kingdom|5",
+  "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki 1995 vkx|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -17434,7 +19066,9 @@
   "link:https://archive.org/details/mega_man_pu_undub_patch": "mega man powered up|38",
   "link:https://archive.org/details/mega_man_x7_ps2_undub_patch": "mega man x7|8",
   "link:https://archive.org/details/mega_man_x_cm_ps2_undub_patch": "mega man x command mission|8",
+  "link:https://archive.org/details/megami-tensei-2-materials": "digital devil story megami tensei ii|18",
   "link:https://archive.org/details/mgf-english-patch-v-1.00": "mgf|46",
+  "link:https://archive.org/details/miho-nakayamas-tokimeki-high-school-manual": "nakayama miho no tokimeki high school|51",
   "link:https://archive.org/details/mimana_iyar_chronicle_undub_patch": "mimana iyar chronicle|38",
   "link:https://archive.org/details/mqj-c0": "meikyujima|18",
   "link:https://archive.org/details/mr_driller_2_gba_undub_patch": "mr driller 2|24",
@@ -17444,6 +19078,7 @@
   "link:https://archive.org/details/nfsu-2-sha-do-english-english-patch": "ps2 nfsu 2 sha do|8",
   "link:https://archive.org/details/nfsu-j-tune-english-language-select": "nfsu j tune|8",
   "link:https://archive.org/details/nightshade_undub_patch": "nightshade|8",
+  "link:https://archive.org/details/ninja-rahoi-1990-ascii-entertainment_20220603": "ninjara hoi|18",
   "link:https://archive.org/details/nostalgia-1907-pal": "nostalgia 1907|78",
   "link:https://archive.org/details/onimusha_2_undub_patch": "onimusha 2 samurais destiny|8",
   "link:https://archive.org/details/onimusha_3_undub_patch": "onimusha 3 demon siege|8",
@@ -17468,6 +19103,7 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
   "link:https://archive.org/details/shadowrun-english-pal": "shadowrun|78",
@@ -17486,6 +19122,7 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",
@@ -17529,6 +19166,7 @@
   "link:https://delta-island.com/forum/viewtopic.php?p=23684": "call of cthulhu prisoner of ice|32",
   "link:https://delta-island.com/forum/viewtopic.php?t=1957": "phantasmagoria|32",
   "link:https://delta-island.com/forum/viewtopic.php?t=4553": "call of cthulhu prisoner of ice|7",
+  "link:https://derplayer.neocities.org/repo/panzerfront": "panzer front|23",
   "link:https://destroyed4com4t.itch.io": "fisraduth castle of tyramis|18",
   "link:https://destroyed4com4t.itch.io/little-red-hood-sachen-nes-dendy-overhaul-patch": "little red hood|18",
   "link:https://digiex.net/threads/dragon-quest-characters-torneko-no-daiboken-3-fushigi-no-dungeon-english-translation-patch.16185": "dragon quest characters toruneko no daibouken 3 advance fushigi no dungeon|24",
@@ -17542,8 +19180,10 @@
   "link:https://forum.klonoa.network/?topic=2175.msg30818": "klonoa|5",
   "link:https://forum.rippersanime.info/viewtopic.php?t=1109": "gunnm martian memory|7",
   "link:https://forums.dolphin-emu.org/Thread-tetrastrackers-navi-tracker-translation-02-05-2023": "zelda no densetsu 4 tsu no tsurugi|21",
+  "link:https://forums.serenesforest.net/index.php?/topic/90189-fe5-lil-manster-%E2%80%93-translation-and-quality-of-life-patch-for-thracia-776": "thracia 776 lil manster|19",
   "link:https://forums.serenesforest.net/topic/107147-fe4-lil-nordion-%E2%80%93-an-update-to-project-naga-modern-names-retranslations-and-a-few-bug-fixes": "lil nordion fire emblem genealogy of the holy war|19",
   "link:https://forums.serenesforest.net/topic/97653-fe-gaiden-updated-namesfont-patch": "fire emblem gaiden|18",
+  "link:https://forums.therockmanexezone.com/rockman-exe6-english-patches-t5507.html": "rockman exe 6 dennoujuu grega|24",
   "link:https://froidromhacks.com/dragon-quest-heroes-2-pcsg00820-english-incomplete-beta-vita": "dragon quest heroes ii futago no ou to yogen no owari|46",
   "link:https://froidromhacks.com/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate-jp-pcsg01002-vita-english-translation-port-v0-80-beta": "dungeon ni deai o motomeru no wa machigatteiru darou ka infinite combate|46",
   "link:https://froidromhacks.com/the-liar-princess-and-the-blind-prince-jp-pcsg01191-english-beta-patch-v0-8-vita-repatch-files-only": "usotsuki hime to moumoku ouji|46",
@@ -17631,6 +19271,7 @@
   "link:https://romhack.ing/database/content/entry/n5uU6f8sQxGIdKyxprlhQw/brightis-english-translation": "brightis|7",
   "link:https://romhack.ing/database/content/entry/xisHPNIlSTCWa5JkDpJpIw/sword-world-sfc-english-translation": "sword world|19",
   "link:https://romhackheaven.com/games/nes/rygar/english-argos-no-senshi-hachamecha-daishingeki-translation": "argos no senshi hachamecha daishingeki|18",
+  "link:https://romhackheaven.com/games/ngp/rockman-battle-fighters/english-mega-man-battle-fighters-translation": "rockman battle and fighters|120",
   "link:https://romhackheaven.com/games/snes/demons-crest/english-demons-crest-retranslation-restoration": "demons crest retranslation restoration|19",
   "link:https://romhackheaven.com/games/ss/blast-wind/english-blast-wind-translation": "blast wind|32",
   "link:https://romhackplaza.org/romhacks/bloody-roar-extreme-english-overhaul-patch-nintendo-gamecube": "bloody roar extreme|21",
@@ -17658,6 +19299,7 @@
   "link:https://romhackplaza.org/translations/mazinger-z-super-famicom-eng-spa-msu1-english-spanish-translation-super-nintendo": "mazinger z|19",
   "link:https://romhackplaza.org/translations/misfortune-a-story-of-suspicious-friendships-english-translation-playstation": "misfortune a story of suspicious friendships|7",
   "link:https://romhackplaza.org/translations/nekojara-monogatari-english-translation-game-boy": "nekojara monogatari|33",
+  "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": "sega|32",
   "link:https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": "pocket muumuu|7",
   "link:https://romhackplaza.org/translations/popolocrois-monogatari-ii-english-translation-playstation": "popolocrois monogatari ii|7",
   "link:https://romhackplaza.org/translations/prisoner-english-translation-playstation": "prisoner|7",
@@ -17692,6 +19334,7 @@
   "link:https://segaxtreme.net/resources/dark-seed-2-us-translation.590": "dark seed ii|32",
   "link:https://segaxtreme.net/resources/dark-seed-us-english-translation.409": "dark seed|32",
   "link:https://segaxtreme.net/resources/dungeons-dragons-tower-of-doom-english-patch.426": "dungeons and dragons tower of doom|32",
+  "link:https://segaxtreme.net/resources/fire-pro-wrestling-6-men-scramble.106": "fire prowrestling s 6men scramble|32",
   "link:https://segaxtreme.net/resources/firepro-wrestling-gaiden-blazing-tornado.107": "fire pro gaiden blazing tornado|32",
   "link:https://segaxtreme.net/resources/iron-storm-operation-files-english-translation.522": "iron storm operation files|32",
   "link:https://segaxtreme.net/resources/j-b-harold-blue-chicago-blues-english-patch.135/updates": "j b harold blue chicago blues|32",
@@ -17709,6 +19352,7 @@
   "link:https://segaxtreme.net/resources/silhouette-mirage-english-retranslation-patch.298": "silhouette mirage|32",
   "link:https://segaxtreme.net/resources/stellar-assault-ss-english.170": "stellar assault ss|32",
   "link:https://segaxtreme.net/resources/wizardry-vi-vii-complete-english-translation-patch.457": "wizardry vi and vii complete|32",
+  "link:https://segaxtreme.net/threads/deathmask-fan-translation-released-for-saturn-by-a-murder-of-crows-and-shadowmask.25151": "deathmask|32",
   "link:https://segaxtreme.net/threads/dragon-ball-z-the-legend-english-translation.37310": "dragon ball z idainaru dragon ball densetsu|32",
   "link:https://segaxtreme.net/threads/dungeon-master-nexus-for-sega-saturn-english-translation.25420": "dungeon master nexus|32",
   "link:https://segaxtreme.net/threads/gungriffon-ii-english-localized.25205": "gungriffon ii|32",
@@ -17729,7 +19373,11 @@
   "link:https://usagiru.blogspot.com/2020/03/ps2-iso-kof-maximum-impact-collection.html": "king of fighters maximum impact collection|8",
   "link:https://vk.com/brigandine_every_day": "brigandine grand edition|7",
   "link:https://voidfox.com/blog/der_langrisser_lost_final_fan_translation": "der langrisser|19",
+  "link:https://web.archive.org/web/20170511143235/http://foro.tales-tra.com/viewtopic.php?f=73&t=1648&start=0": "divi dead|23",
+  "link:https://web.archive.org/web/20200218180855/http://www.berserkdarkness.altervista.org/lupin-iii-nes-patch-ita": "lupin sansei pandora no isan|18",
   "link:https://wiki.telefang.net/Wikifang:Telefang_1_Translation_Patch": "telefang speed version|22",
+  "link:https://www.akaiitotranslation.com/translation.php": "akai ito|8",
+  "link:https://www.dreamcast-talk.com/forum/viewtopic.php?f=42&t=15359": "resident evil code veronica x|23",
   "link:https://www.dreamcast-talk.com/forum/viewtopic.php?f=5&t=16891": "under defeat|23",
   "link:https://www.dreamcast-talk.com/forum/viewtopic.php?t=18015": "space channel 5 part 2|23",
   "link:https://www.emutalk.net/threads/sin-and-punishment-hardcoded-translation.54732": "sin and punishment successor of the earth|4",
@@ -18054,15 +19702,21 @@
   "link:https://www.romhacking.net/hacks/6452/": "bloody roar 3|8",
   "link:https://www.romhacking.net/hacks/6461/": "bloody roar 3|8",
   "link:https://www.romhacking.net/translations/100": "chester field ankoku shin heno chousen|18",
+  "link:https://www.romhacking.net/translations/102": "radia senki reimei hen|18",
+  "link:https://www.romhacking.net/translations/1043": "jesus kyoufu no bio monster|18",
+  "link:https://www.romhacking.net/translations/1045": "esper dream 2 aratanaru tatakai|18",
   "link:https://www.romhacking.net/translations/1047": "mouryou senki madara|18",
+  "link:https://www.romhacking.net/translations/1062": "jelly boy 2|19",
   "link:https://www.romhacking.net/translations/1063/": "actraiser|19",
   "link:https://www.romhacking.net/translations/1068": "sylvanian families otogi no kuni no pendant|22",
+  "link:https://www.romhacking.net/translations/1073": "dicing knight period|57",
   "link:https://www.romhacking.net/translations/108": "cosmo|18",
   "link:https://www.romhacking.net/translations/1110": "holy diver|18",
   "link:https://www.romhacking.net/translations/1145": "valis the fantasm soldier|18",
   "link:https://www.romhacking.net/translations/116": "tenchi o kurau ii shokatsu koumei den|18",
   "link:https://www.romhacking.net/translations/1172/": "final fantasy mystic quest|19",
   "link:https://www.romhacking.net/translations/1182": "captain tsubasa vol ii super striker|18",
+  "link:https://www.romhacking.net/translations/1189": "coca cola kid|35",
   "link:https://www.romhacking.net/translations/1192/": "do re mi fantasy milons quest|19",
   "link:https://www.romhacking.net/translations/1198/": "chrono trigger|19",
   "link:https://www.romhacking.net/translations/120": "doraemon giga zombie no gyakushuu|18",
@@ -18076,6 +19730,8 @@
   "link:https://www.romhacking.net/translations/1272/": "tomorrows joe|19",
   "link:https://www.romhacking.net/translations/1275": "mirai shinwa jarvas|18",
   "link:https://www.romhacking.net/translations/1278": "higemaru makaijima nanatsu no shima daibouken|18",
+  "link:https://www.romhacking.net/translations/1279": "seirei gari|18",
+  "link:https://www.romhacking.net/translations/1280": "oishinbo kyukyoku no menu 3bon syoubu|18",
   "link:https://www.romhacking.net/translations/1284": "zill oll infinite|8",
   "link:https://www.romhacking.net/translations/1285": "columbus ougon no yoake|18",
   "link:https://www.romhacking.net/translations/1290": "king kong 2 ikari no megaton punch|18",
@@ -18084,12 +19740,14 @@
   "link:https://www.romhacking.net/translations/1323/": "dragon quest iii|19",
   "link:https://www.romhacking.net/translations/1329": "ganbare goemon 2|18",
   "link:https://www.romhacking.net/translations/1333": "mother 3 hq sound|24",
+  "link:https://www.romhacking.net/translations/1341": "kujaku ou peacock king|18",
   "link:https://www.romhacking.net/translations/1354": "cosmic epsilon|18",
   "link:https://www.romhacking.net/translations/1364": "mottomo abunai deka|18",
   "link:https://www.romhacking.net/translations/1375": "bare knuckle iii|29",
   "link:https://www.romhacking.net/translations/1378": "valkyrie no bouken toki no kagi densetsu|18",
   "link:https://www.romhacking.net/translations/1384/": "breath of fire ii|19",
   "link:https://www.romhacking.net/translations/1386": "devil man|18",
+  "link:https://www.romhacking.net/translations/1387": "kujaku ou ii peacock king ii|18",
   "link:https://www.romhacking.net/translations/1394": "silva saga|18",
   "link:https://www.romhacking.net/translations/1395": "kyouryuu sentai zyuranger|18",
   "link:https://www.romhacking.net/translations/1398": "hello kitty world|18",
@@ -18097,7 +19755,9 @@
   "link:https://www.romhacking.net/translations/1402": "power blazer|18",
   "link:https://www.romhacking.net/translations/1407": "sorcerian|29",
   "link:https://www.romhacking.net/translations/141": "final fantasy iii|18",
+  "link:https://www.romhacking.net/translations/1419": "fudo myouo den|18",
   "link:https://www.romhacking.net/translations/1420": "shinsenden|18",
+  "link:https://www.romhacking.net/translations/1428": "mystic ark|19",
   "link:https://www.romhacking.net/translations/1442/": "brandish 2 the planet buster|19",
   "link:https://www.romhacking.net/translations/1444": "jajamaru gekimaden maboroshi no kinmajou|18",
   "link:https://www.romhacking.net/translations/1447": "hoshi wo sagashite|64",
@@ -18105,13 +19765,18 @@
   "link:https://www.romhacking.net/translations/1450": "super bomberman 4|19",
   "link:https://www.romhacking.net/translations/1451": "contra|18",
   "link:https://www.romhacking.net/translations/1453": "maharaja|18",
+  "link:https://www.romhacking.net/translations/1454": "lunar sanposuru gakuen|35",
   "link:https://www.romhacking.net/translations/1461": "captain silver|18",
   "link:https://www.romhacking.net/translations/1467": "brave battle saga legend of the magic warrior|29",
   "link:https://www.romhacking.net/translations/1477": "woody poko|18",
   "link:https://www.romhacking.net/translations/1486": "hi no tori houou hen gaou no bouken|18",
+  "link:https://www.romhacking.net/translations/1487": "saint seiya ougon densetsu kanketsu hen|18",
   "link:https://www.romhacking.net/translations/1488": "sukeban deka ii shojo tekkamen densetsu|64",
   "link:https://www.romhacking.net/translations/149": "fuzzical fighter|18",
+  "link:https://www.romhacking.net/translations/1496": "ganbare goemon karakuri douchuu|18",
   "link:https://www.romhacking.net/translations/1500": "castle quest|18",
+  "link:https://www.romhacking.net/translations/1502": "madou monogatari i mitsu no madouryoku|35",
+  "link:https://www.romhacking.net/translations/1519": "ankoku shinwa the dark myth|18",
   "link:https://www.romhacking.net/translations/1537/": "dragon ball z hyper dimension|19",
   "link:https://www.romhacking.net/translations/1539": "jigoku gokuraku maru|18",
   "link:https://www.romhacking.net/translations/154": "heracles no eikou ii titan no metsubo|18",
@@ -18120,8 +19785,10 @@
   "link:https://www.romhacking.net/translations/1549": "antarctic adventure|18",
   "link:https://www.romhacking.net/translations/1554": "mad city|18",
   "link:https://www.romhacking.net/translations/1567": "game no kanzume vol 2|78",
+  "link:https://www.romhacking.net/translations/1570": "nushi tsuri adventure kite no bouken|22",
   "link:https://www.romhacking.net/translations/1571": "dr jekyll and mr hyde|18",
   "link:https://www.romhacking.net/translations/1575/": "ancient magic bazoo|19",
+  "link:https://www.romhacking.net/translations/1576": "jerry boy smart ball|19",
   "link:https://www.romhacking.net/translations/1582": "magic john totally rad|18",
   "link:https://www.romhacking.net/translations/1599": "harry potter and the mystical halo|22",
   "link:https://www.romhacking.net/translations/1603": "tao|18",
@@ -18144,21 +19811,32 @@
   "link:https://www.romhacking.net/translations/1715": "sd keiji blader|18",
   "link:https://www.romhacking.net/translations/172": "saint seiya ougon densetsu|18",
   "link:https://www.romhacking.net/translations/1723": "nakayoshi to issho|18",
+  "link:https://www.romhacking.net/translations/1725": "akira|18",
+  "link:https://www.romhacking.net/translations/1735": "dirty pair project eden|51",
+  "link:https://www.romhacking.net/translations/1741": "kyatto ninden teyandee samurai pizza cats|18",
+  "link:https://www.romhacking.net/translations/1742": "sengoku denshou|19",
+  "link:https://www.romhacking.net/translations/1751": "rockman exe ws|57",
   "link:https://www.romhacking.net/translations/1757": "donkey kong gb dinky kong and dixie kong|22",
+  "link:https://www.romhacking.net/translations/1758": "bodyconquest i abakareshi musume tachi|51",
   "link:https://www.romhacking.net/translations/1779": "momotarou densetsu|18",
   "link:https://www.romhacking.net/translations/1784": "wanpaku kokkun no gourmet world|18",
   "link:https://www.romhacking.net/translations/1785/": "arabian nights desert spirit king|19",
   "link:https://www.romhacking.net/translations/1791/": "bs x the town whose name was stolen|19",
   "link:https://www.romhacking.net/translations/1794": "gargoyles quest ii the demon darkness|33",
+  "link:https://www.romhacking.net/translations/1798": "hebereke|18",
+  "link:https://www.romhacking.net/translations/1816": "mashin eiyuu den wataru gaiden|18",
   "link:https://www.romhacking.net/translations/1826": "juvei quest|18",
+  "link:https://www.romhacking.net/translations/189": "moon crystal|18",
   "link:https://www.romhacking.net/translations/194": "fushigi no umi no nadia|18",
   "link:https://www.romhacking.net/translations/1995": "konami wai wai world|18",
   "link:https://www.romhacking.net/translations/1996": "deep dungeon iii yuushi e no tabi graphics mod and rebalance|18",
   "link:https://www.romhacking.net/translations/202": "tashiro masashi no princess ga ippai|18",
   "link:https://www.romhacking.net/translations/2029": "ki no bouken the quest of ki|18",
+  "link:https://www.romhacking.net/translations/2030": "jaseiken necromancer|86",
   "link:https://www.romhacking.net/translations/2031": "hitler no fukkatsu top secret|18",
   "link:https://www.romhacking.net/translations/2044": "zero tsukihami no kamen|5",
   "link:https://www.romhacking.net/translations/2052": "mappy kids|18",
+  "link:https://www.romhacking.net/translations/2076": "royal stone hirakareshi toki no tobira|35",
   "link:https://www.romhacking.net/translations/2092": "batsu and terii makyou no tetsujin race|18",
   "link:https://www.romhacking.net/translations/2096": "zoids mokushiroku|18",
   "link:https://www.romhacking.net/translations/2098": "moai kun|18",
@@ -18166,18 +19844,22 @@
   "link:https://www.romhacking.net/translations/212": "splatterhouse wanpaku graffiti|18",
   "link:https://www.romhacking.net/translations/214": "shufflepuck cafe|18",
   "link:https://www.romhacking.net/translations/217": "sted iseki wakusei no yabou|18",
+  "link:https://www.romhacking.net/translations/2178": "mahou kishi rayearth 2 making of magic knight|35",
   "link:https://www.romhacking.net/translations/2181/": "chaos seed feng shui chronicles|19",
   "link:https://www.romhacking.net/translations/2196": "dragon knife|18",
   "link:https://www.romhacking.net/translations/2198": "don doko don 2|18",
   "link:https://www.romhacking.net/translations/222": "sweet home|18",
   "link:https://www.romhacking.net/translations/2220": "ninja hattori kun ninja wa syugyou de gozaru|18",
+  "link:https://www.romhacking.net/translations/2227": "1991 du ma racing|18",
   "link:https://www.romhacking.net/translations/2233/": "clockwerx|19",
   "link:https://www.romhacking.net/translations/2234": "super donkey kong|18",
   "link:https://www.romhacking.net/translations/2241": "chik bik ji jin saam gwok ji three kingdom battle of red cliffs|18",
+  "link:https://www.romhacking.net/translations/2249": "4 nin uchi mahjong|18",
   "link:https://www.romhacking.net/translations/226": "downtown special kunio kun no jidaigeki da yo zenin shuugou|18",
   "link:https://www.romhacking.net/translations/2260": "gyakuten kenji 2 ds|20",
   "link:https://www.romhacking.net/translations/2263": "kyuuyaku megami tensei i ii|19",
   "link:https://www.romhacking.net/translations/228": "time zone|18",
+  "link:https://www.romhacking.net/translations/2287": "digital devil story megami tensei|18",
   "link:https://www.romhacking.net/translations/2294": "lagrange point|18",
   "link:https://www.romhacking.net/translations/23": "game boy wars 2|22",
   "link:https://www.romhacking.net/translations/2316": "wizardry empire|22",
@@ -18189,6 +19871,7 @@
   "link:https://www.romhacking.net/translations/234": "wagyan land|18",
   "link:https://www.romhacking.net/translations/2344/": "dark half|19",
   "link:https://www.romhacking.net/translations/2349": "bs the legend of zelda ancient stone tablets|19",
+  "link:https://www.romhacking.net/translations/2369": "final fantasy vii|18",
   "link:https://www.romhacking.net/translations/2399": "magic candle|18",
   "link:https://www.romhacking.net/translations/2418/": "galaxy robo|19",
   "link:https://www.romhacking.net/translations/2438": "pachinko dai sakusen 2|18",
@@ -18197,6 +19880,7 @@
   "link:https://www.romhacking.net/translations/2478": "pokemon yellow|18",
   "link:https://www.romhacking.net/translations/2492": "musashi no ken tadaima shugyo chu|18",
   "link:https://www.romhacking.net/translations/2493/": "daisenryaku expert wwii war in|19",
+  "link:https://www.romhacking.net/translations/2517": "gekitotsu yonku battle|18",
   "link:https://www.romhacking.net/translations/2533": "tsuri kichi sanpei blue marlin hen|18",
   "link:https://www.romhacking.net/translations/2557": "pyokotan no dai meiro|18",
   "link:https://www.romhacking.net/translations/2558": "marvelous mouhitotsu no takarajima|19",
@@ -18206,6 +19890,7 @@
   "link:https://www.romhacking.net/translations/2594": "rainbow silkroad|18",
   "link:https://www.romhacking.net/translations/2598": "doki doki yuuenchi crazy land daisakusen|18",
   "link:https://www.romhacking.net/translations/26": "hello kitty no magical museum|22",
+  "link:https://www.romhacking.net/translations/2600": "final fantasy v|19",
   "link:https://www.romhacking.net/translations/2616": "shin megami tensei|19",
   "link:https://www.romhacking.net/translations/2624/": "amazing spider man lethal foes|19",
   "link:https://www.romhacking.net/translations/2629": "doraemon|18",
@@ -18214,6 +19899,7 @@
   "link:https://www.romhacking.net/translations/2652": "shoujo kakumei utena itsuka kakumei sareru monogatari|32",
   "link:https://www.romhacking.net/translations/2655/": "donald duck and the magical hat|19",
   "link:https://www.romhacking.net/translations/2656": "final fantasy ii|18",
+  "link:https://www.romhacking.net/translations/2660": "rockman and forte mirai kara no chousensha|57",
   "link:https://www.romhacking.net/translations/2696": "squares tom sawyer|18",
   "link:https://www.romhacking.net/translations/2697/": "sailor moon super s floating panic|19",
   "link:https://www.romhacking.net/translations/2749": "musashi no bouken|18",
@@ -18221,6 +19907,7 @@
   "link:https://www.romhacking.net/translations/2756": "sukeban deka iii|18",
   "link:https://www.romhacking.net/translations/278/": "alcahest|19",
   "link:https://www.romhacking.net/translations/279/": "angelique|19",
+  "link:https://www.romhacking.net/translations/2799": "saiyuuki world|18",
   "link:https://www.romhacking.net/translations/280/": "bahamut lagoon|19",
   "link:https://www.romhacking.net/translations/2800": "fire emblem|18",
   "link:https://www.romhacking.net/translations/2808": "wizard of oz|18",
@@ -18241,12 +19928,16 @@
   "link:https://www.romhacking.net/translations/307/": "dark law meaning of death|19",
   "link:https://www.romhacking.net/translations/3079": "ganbare goemon gaiden kieta ougon kiseru|18",
   "link:https://www.romhacking.net/translations/3085": "hacker|18",
+  "link:https://www.romhacking.net/translations/3115": "parody world monster party|18",
   "link:https://www.romhacking.net/translations/313/": "doraemon 4 nobita to tsuki no oukoku|19",
   "link:https://www.romhacking.net/translations/314/": "dossun ganseki battle|19",
   "link:https://www.romhacking.net/translations/315/": "dragon ball z super gokuu den totsugeki hen|19",
   "link:https://www.romhacking.net/translations/3153": "indora no hikari|18",
+  "link:https://www.romhacking.net/translations/3154": "ayakashi no shiro|33",
   "link:https://www.romhacking.net/translations/316/": "dragon ball z super gokuu den kakusei hen|19",
+  "link:https://www.romhacking.net/translations/3160": "megami tensei gaiden last bible special|35",
   "link:https://www.romhacking.net/translations/3235/": "genjuu ryodan|19",
+  "link:https://www.romhacking.net/translations/3238": "super fire pro wrestling x premium|19",
   "link:https://www.romhacking.net/translations/326/": "dragon ball z legend of the saiyans|19",
   "link:https://www.romhacking.net/translations/3281": "ultraman club kaijuu daikessen|18",
   "link:https://www.romhacking.net/translations/3282": "kouryuu no mimi|19",
@@ -18257,6 +19948,7 @@
   "link:https://www.romhacking.net/translations/333/": "dragon ball z ultime menace|19",
   "link:https://www.romhacking.net/translations/3365": "glory of heracles snap story|33",
   "link:https://www.romhacking.net/translations/337/": "dragon quest i and ii|19",
+  "link:https://www.romhacking.net/translations/3378": "banishing racer|33",
   "link:https://www.romhacking.net/translations/3388": "bio hazard|18",
   "link:https://www.romhacking.net/translations/341/": "dragon quest v tenkuu no hanayome|19",
   "link:https://www.romhacking.net/translations/342/": "dragon quest v hand of the heavenly bride|19",
@@ -18267,6 +19959,7 @@
   "link:https://www.romhacking.net/translations/3471/": "great battle iii|19",
   "link:https://www.romhacking.net/translations/3472/": "great battle iv|19",
   "link:https://www.romhacking.net/translations/3473/": "great battle v|19",
+  "link:https://www.romhacking.net/translations/3482": "getsu fuuma den|18",
   "link:https://www.romhacking.net/translations/349/": "feda the emblem of justice|19",
   "link:https://www.romhacking.net/translations/35": "nobunaga no yabou game boy ban 2|22",
   "link:https://www.romhacking.net/translations/3515/": "g o d growth or devolution heed the call to awaken|19",
@@ -18278,12 +19971,24 @@
   "link:https://www.romhacking.net/translations/362/": "front mission|19",
   "link:https://www.romhacking.net/translations/363/": "go go ackman|19",
   "link:https://www.romhacking.net/translations/3646": "super gachapon world sd gundam x|19",
+  "link:https://www.romhacking.net/translations/365": "kuusou kagaku sekai gulliver boy|19",
+  "link:https://www.romhacking.net/translations/3726": "mahou kishi rayearth|35",
   "link:https://www.romhacking.net/translations/3748": "ganbare goemon gaiden 2 tenka no zaihou|18",
+  "link:https://www.romhacking.net/translations/3767": "kishin douji zenki|35",
   "link:https://www.romhacking.net/translations/3769": "ripple island|18",
+  "link:https://www.romhacking.net/translations/3793": "god slayer haruka tenkuu no sonata|18",
   "link:https://www.romhacking.net/translations/3802": "sanma no meitantei|18",
+  "link:https://www.romhacking.net/translations/3804": "nige ron pa|120",
   "link:https://www.romhacking.net/translations/3807/": "densetsu no ogre battle the march of the black queen|19",
+  "link:https://www.romhacking.net/translations/3822": "idol hakkenden|18",
   "link:https://www.romhacking.net/translations/3836/": "aretha|19",
+  "link:https://www.romhacking.net/translations/386": "madou monogatari big kindergarten kids|19",
+  "link:https://www.romhacking.net/translations/3862": "outlanders|18",
   "link:https://www.romhacking.net/translations/3907": "chaos world|18",
+  "link:https://www.romhacking.net/translations/392": "monstania|19",
+  "link:https://www.romhacking.net/translations/3941": "super family circuit|19",
+  "link:https://www.romhacking.net/translations/399": "panic in nakayoshi world|19",
+  "link:https://www.romhacking.net/translations/400": "nangoku shounen papuwa kun|19",
   "link:https://www.romhacking.net/translations/401": "sailor moon another story|19",
   "link:https://www.romhacking.net/translations/4010": "battle of zhuolu|18",
   "link:https://www.romhacking.net/translations/403/": "radical dreamers le tresor interdit|306",
@@ -18293,9 +19998,15 @@
   "link:https://www.romhacking.net/translations/4080/": "i love bikes street racer soul riders spirits|19",
   "link:https://www.romhacking.net/translations/4084": "moldorian hikari to yami no sister|35",
   "link:https://www.romhacking.net/translations/4099": "wai wai world 2 sos paseri jou|18",
+  "link:https://www.romhacking.net/translations/4101": "crayon shin chan showdown quantum panic|35",
+  "link:https://www.romhacking.net/translations/4140": "godzilla kaijuu no daishingeki|35",
+  "link:https://www.romhacking.net/translations/4175": "bishoujo senshi sailor moon s|35",
+  "link:https://www.romhacking.net/translations/4199": "digimon tamers battle spirit ver 1 5|57",
+  "link:https://www.romhacking.net/translations/4210": "akumajou special boku dracula kun|18",
   "link:https://www.romhacking.net/translations/4222": "dragon ball z ii gekishin freeza|18",
   "link:https://www.romhacking.net/translations/4223": "rpg jinsei game|18",
   "link:https://www.romhacking.net/translations/423": "rpg tsukuru super dante|19",
+  "link:https://www.romhacking.net/translations/4259": "megami tensei gaiden last bible|35",
   "link:https://www.romhacking.net/translations/4271": "kuroshitsuji phantom and ghost ds|20",
   "link:https://www.romhacking.net/translations/4280": "allied death squad|18",
   "link:https://www.romhacking.net/translations/4281": "faxanadu|18",
@@ -18306,6 +20017,7 @@
   "link:https://www.romhacking.net/translations/437": "sanrio world smash ball|19",
   "link:https://www.romhacking.net/translations/4499": "choujin sentai jetman|18",
   "link:https://www.romhacking.net/translations/452": "star ocean|19",
+  "link:https://www.romhacking.net/translations/4523": "madou monogatari ii arle 16 sai|35",
   "link:https://www.romhacking.net/translations/4540": "plasma ball|18",
   "link:https://www.romhacking.net/translations/4573": "famicom wars|18",
   "link:https://www.romhacking.net/translations/4593": "dream master|18",
@@ -18316,9 +20028,12 @@
   "link:https://www.romhacking.net/translations/467/": "dai 4 ji super robot taisen|19",
   "link:https://www.romhacking.net/translations/470": "tales of phantasia|19",
   "link:https://www.romhacking.net/translations/483/": "mysterious dungeon 2 shiren the wanderer|19",
+  "link:https://www.romhacking.net/translations/4832": "majin tensei|19",
   "link:https://www.romhacking.net/translations/484": "hamelin no violin hiki|19",
   "link:https://www.romhacking.net/translations/4868": "final fantasy|18",
+  "link:https://www.romhacking.net/translations/4888": "densetsu no ogre battle gaiden zenobia no ouji|120",
   "link:https://www.romhacking.net/translations/493": "umihara kawase|19",
+  "link:https://www.romhacking.net/translations/494": "kouryuu densetsu villgust kieta shoujo|19",
   "link:https://www.romhacking.net/translations/495": "wedding peach|19",
   "link:https://www.romhacking.net/translations/4971": "otaku no seiza an adventure in the otaku galaxy|18",
   "link:https://www.romhacking.net/translations/5066": "crash bandicoot bakusou nitro kart|24",
@@ -18326,13 +20041,17 @@
   "link:https://www.romhacking.net/translations/5204": "pia carrot e youkoso weve been waiting for you|274",
   "link:https://www.romhacking.net/translations/526": "doraemon kart|33",
   "link:https://www.romhacking.net/translations/528/": "front mission series gun hazard|19",
+  "link:https://www.romhacking.net/translations/5303": "lost golem golem no maigo|23",
   "link:https://www.romhacking.net/translations/5321": "lasalle ishiis childs quest|18",
+  "link:https://www.romhacking.net/translations/5327": "madou monogatari iii kyuukyoku joou sama|35",
   "link:https://www.romhacking.net/translations/5333": "super bomberman 5|19",
   "link:https://www.romhacking.net/translations/5337": "itadaki street watashi no omise ni yottette|18",
   "link:https://www.romhacking.net/translations/5351": "underground mission|18",
   "link:https://www.romhacking.net/translations/5353/": "ganbare goemon 2 the strange general mcguinness|19",
   "link:https://www.romhacking.net/translations/5354/": "ganbare goemon 3 the mecha leg hold of jurokube shishi|19",
+  "link:https://www.romhacking.net/translations/5367": "madou monogatari a doki doki vacation|35",
   "link:https://www.romhacking.net/translations/5370/": "cooly skunk|306",
+  "link:https://www.romhacking.net/translations/54": "wizardry iii diamond no kishi|22",
   "link:https://www.romhacking.net/translations/5416": "dragon quest|18",
   "link:https://www.romhacking.net/translations/5420/": "aretha ii ariels wonderful adventure|19",
   "link:https://www.romhacking.net/translations/5440": "world of warcraft demon hunter|18",
@@ -18342,11 +20061,16 @@
   "link:https://www.romhacking.net/translations/5482": "sd gundam gaiden knight gundam monogatari|18",
   "link:https://www.romhacking.net/translations/5486/": "4 6 billion year saga to faraway eden|19",
   "link:https://www.romhacking.net/translations/549": "dragon ball 3 gokuuden|18",
+  "link:https://www.romhacking.net/translations/55": "wizardry ii llylgamyn no isan|22",
+  "link:https://www.romhacking.net/translations/5525": "chocobo no fushigi na dungeon for wonderswan|57",
+  "link:https://www.romhacking.net/translations/5553": "eternal legend eien no densetsu|35",
   "link:https://www.romhacking.net/translations/5561/": "dokapon 3 2 1 from friendship to mayhem|19",
   "link:https://www.romhacking.net/translations/5563": "super nazo puyo rulue no roux|19",
   "link:https://www.romhacking.net/translations/5586": "painter momopie|33",
   "link:https://www.romhacking.net/translations/56": "wizardry i proving grounds of the mad overlord|22",
+  "link:https://www.romhacking.net/translations/5606": "digital monster card game ver wonderswan color|57",
   "link:https://www.romhacking.net/translations/5614": "rockman x2|19",
+  "link:https://www.romhacking.net/translations/5640": "digimon adventure 02 tag tamers|57",
   "link:https://www.romhacking.net/translations/5650/": "bs fire emblem akaneia senki hen dai 1 wa palace kanraku|306",
   "link:https://www.romhacking.net/translations/566": "just breed|18",
   "link:https://www.romhacking.net/translations/568/": "battle soccer field no hasha|19",
@@ -18355,41 +20079,65 @@
   "link:https://www.romhacking.net/translations/5725": "salad no kuni no tomato hime|18",
   "link:https://www.romhacking.net/translations/5727": "rockman x3|19",
   "link:https://www.romhacking.net/translations/5747": "chocobo no fushigi na dungeon|7",
+  "link:https://www.romhacking.net/translations/5748": "hataraku chocobo|57",
   "link:https://www.romhacking.net/translations/5753": "kaiketsu yanchamaru 3 taiketsu zouringen|18",
   "link:https://www.romhacking.net/translations/5759": "hokuto no ken black belt sms|64",
   "link:https://www.romhacking.net/translations/576": "magical kids doropie|18",
   "link:https://www.romhacking.net/translations/5796": "ore ga omae o mamoru i will protect you|20",
   "link:https://www.romhacking.net/translations/5809": "seven mansions ghastly smile|23",
+  "link:https://www.romhacking.net/translations/5829": "wizardry scenario 1 proving grounds of the mad overlord|57",
   "link:https://www.romhacking.net/translations/5938/": "bahamut lagoon|19",
   "link:https://www.romhacking.net/translations/5940": "majou densetsu ii daimashikyou galious|18",
   "link:https://www.romhacking.net/translations/5966": "grand master|18",
   "link:https://www.romhacking.net/translations/6004/": "captain tsubasa iii challenge of kaiser|19",
   "link:https://www.romhacking.net/translations/6027": "mizzurna falls|7",
   "link:https://www.romhacking.net/translations/6082": "dr slump|7",
+  "link:https://www.romhacking.net/translations/6090": "digimon adventure 02 d1 tamers|57",
   "link:https://www.romhacking.net/translations/6129": "shin megami tensei|24",
   "link:https://www.romhacking.net/translations/615": "ninja jajamaru ginga daisakusen|18",
   "link:https://www.romhacking.net/translations/6160": "iru|7",
+  "link:https://www.romhacking.net/translations/62": "phantasy star adventure|35",
   "link:https://www.romhacking.net/translations/620": "summer carnival 92 recca|18",
   "link:https://www.romhacking.net/translations/622/": "ganpuru gunmans proof|19",
   "link:https://www.romhacking.net/translations/6227": "nazo puyo arle no roux game gear|35",
+  "link:https://www.romhacking.net/translations/6233": "kaitou saint tail|35",
   "link:https://www.romhacking.net/translations/6236": "mobile golf|22",
+  "link:https://www.romhacking.net/translations/6293": "shiren the wanderer 2 oni invasion shiren castle|4",
+  "link:https://www.romhacking.net/translations/63": "phantasy star gaiden|35",
   "link:https://www.romhacking.net/translations/6308": "dragon slayer iv drasle family|18",
   "link:https://www.romhacking.net/translations/634": "hikari no senshi foton the ultimate game on planet earth|18",
   "link:https://www.romhacking.net/translations/6343": "line attack heroes wiiware wad|5",
   "link:https://www.romhacking.net/translations/635": "wagyan land 2|18",
+  "link:https://www.romhacking.net/translations/6358": "rainbow islands puttys party|57",
   "link:https://www.romhacking.net/translations/6361": "lord of king|18",
   "link:https://www.romhacking.net/translations/6365": "cotton 100 marchen adventure|19",
+  "link:https://www.romhacking.net/translations/6397": "barunba|86",
+  "link:https://www.romhacking.net/translations/64": "sd gundam winners history|35",
+  "link:https://www.romhacking.net/translations/6400": "mickey no tokyo disneyland daibouken|19",
+  "link:https://www.romhacking.net/translations/6404": "kowai shashin shinrei shashin kitan|7",
+  "link:https://www.romhacking.net/translations/6405": "dragon egg|86",
+  "link:https://www.romhacking.net/translations/6408": "radirgy|23",
+  "link:https://www.romhacking.net/translations/6421": "spyro advance|24",
+  "link:https://www.romhacking.net/translations/6422": "magical hat no buttobi tabo daibouken|29",
   "link:https://www.romhacking.net/translations/6451": "planet laika|7",
   "link:https://www.romhacking.net/translations/6452": "death note kira game ds|20",
   "link:https://www.romhacking.net/translations/6483": "dyna brothers|29",
   "link:https://www.romhacking.net/translations/6495": "gardman|18",
   "link:https://www.romhacking.net/translations/6498": "star ocean blue sphere|22",
+  "link:https://www.romhacking.net/translations/6501": "ushio to tora shin|18",
   "link:https://www.romhacking.net/translations/6507": "yukawa moto senmu no otakara sagashi|23",
   "link:https://www.romhacking.net/translations/6510": "nora to toki no koubou kiri no mori no majo|20",
   "link:https://www.romhacking.net/translations/6511": "kaze no klonoa moonlight museum wonderswan|57",
   "link:https://www.romhacking.net/translations/6513": "super aleste|19",
+  "link:https://www.romhacking.net/translations/6521": "soul eater battle resonance|8",
+  "link:https://www.romhacking.net/translations/6531": "hanii in the sky|86",
   "link:https://www.romhacking.net/translations/6535": "harmful park|7",
+  "link:https://www.romhacking.net/translations/6541": "8 eyes|18",
   "link:https://www.romhacking.net/translations/6560": "berserk millennium falcon hen wasurebana no shou|23",
+  "link:https://www.romhacking.net/translations/6562": "erika to satoru no yume bouken|18",
+  "link:https://www.romhacking.net/translations/6567": "ookami to koushinryou umi o wataru kaze|20",
+  "link:https://www.romhacking.net/translations/6573": "kessen dokapon oukoku iv densetsu no yuusha tachi|19",
+  "link:https://www.romhacking.net/translations/6581": "tm network live in power bowl|18",
   "link:https://www.romhacking.net/translations/659": "spartan x 2|18",
   "link:https://www.romhacking.net/translations/6591": "bishoujo senshi sailor moon|19",
   "link:https://www.romhacking.net/translations/6610": "shin megami tensei|7",
@@ -18406,6 +20154,7 @@
   "link:https://www.romhacking.net/translations/6661": "magic madness|18",
   "link:https://www.romhacking.net/translations/6682": "r mj the mystery hospital|7",
   "link:https://www.romhacking.net/translations/669": "rudra no hihou|19",
+  "link:https://www.romhacking.net/translations/67": "sylvan tale|35",
   "link:https://www.romhacking.net/translations/6703": "kamen rider black taiketsu shadow moon|51",
   "link:https://www.romhacking.net/translations/6711": "tatakai no banka|18",
   "link:https://www.romhacking.net/translations/6725": "last armageddon|18",
@@ -18422,11 +20171,14 @@
   "link:https://www.romhacking.net/translations/6785": "private eye dol|150",
   "link:https://www.romhacking.net/translations/6786": "treasure conflix|19",
   "link:https://www.romhacking.net/translations/6799": "zoids vs iii|21",
+  "link:https://www.romhacking.net/translations/68": "yu yu hakusho ii gekitou nanakyou no tatakai|35",
   "link:https://www.romhacking.net/translations/6806": "janggun ui adeul generals son|18",
   "link:https://www.romhacking.net/translations/6807": "kaizou choujin shubibinman zero|19",
   "link:https://www.romhacking.net/translations/6810": "i love mickey mouse fushigi no oshiro daibouken|29",
+  "link:https://www.romhacking.net/translations/683": "advanced dungeons and dragons dragons of flame|18",
   "link:https://www.romhacking.net/translations/6844": "wave race 64 kawasaki jet ski|4",
   "link:https://www.romhacking.net/translations/6845": "zoids chuuou tairiku no tatakai|18",
+  "link:https://www.romhacking.net/translations/685": "banana prince bananan ouji no daibouken|18",
   "link:https://www.romhacking.net/translations/6858/": "chatting parodius live|19",
   "link:https://www.romhacking.net/translations/6861": "aspic majaou no noroi|51",
   "link:https://www.romhacking.net/translations/688/": "aim for the ace ace tennis|19",
@@ -18474,7 +20226,9 @@
   "link:https://www.romhacking.net/translations/7290": "earth light|19",
   "link:https://www.romhacking.net/translations/7320": "gourmet sentai bara yarou|19",
   "link:https://www.romhacking.net/translations/7328": "transformers convoy no nazo|18",
+  "link:https://www.romhacking.net/translations/733": "final fantasy|57",
   "link:https://www.romhacking.net/translations/7335": "olivias mystery|19",
+  "link:https://www.romhacking.net/translations/734": "final fantasy ii|57",
   "link:https://www.romhacking.net/translations/7353": "ancient roman power of dark side|7",
   "link:https://www.romhacking.net/translations/7354": "sega rally 2006|8",
   "link:https://www.romhacking.net/translations/7361": "shuffle fight|18",
@@ -18493,6 +20247,7 @@
   "link:https://www.romhacking.net/translations/7454": "necros no yousai turbografx 16|86",
   "link:https://www.romhacking.net/translations/7463": "macross m3 dc|23",
   "link:https://www.romhacking.net/translations/7464": "magical date doki doki kokuhaku daisakusen|7",
+  "link:https://www.romhacking.net/translations/748": "mr driller|57",
   "link:https://www.romhacking.net/translations/7490": "might and magic day of the destroyer|8",
   "link:https://www.romhacking.net/translations/7504": "zen nihon joshi pro wres queen of queens pc fx|274",
   "link:https://www.romhacking.net/translations/7521": "simple 2000 series vol 113 the tairyou jigoku|8",
@@ -18507,6 +20262,7 @@
   "link:https://www.romhacking.net/translations/7621": "magical girl silky lip|78",
   "link:https://www.romhacking.net/translations/7628": "bomberman land|7",
   "link:https://www.romhacking.net/translations/763": "battle of vietnam 2001|22",
+  "link:https://www.romhacking.net/translations/764": "portopia renzoku satsujin jiken|18",
   "link:https://www.romhacking.net/translations/7640": "fullmetal alchemist 3 kami o tsugu shoujo|8",
   "link:https://www.romhacking.net/translations/766": "wily and light no rockboard thats paradise|18",
   "link:https://www.romhacking.net/translations/7660": "surging aura|29",
@@ -18519,16 +20275,20 @@
   "link:https://www.romhacking.net/translations/7898": "misadventures of tron bonne|7",
   "link:https://www.romhacking.net/translations/813": "gaia no monshou|86",
   "link:https://www.romhacking.net/translations/82": "snk vs capcom card fighters 2 expand edition neo geo pocket color|120",
+  "link:https://www.romhacking.net/translations/838": "saiyuuki world 2 tenjoukai no majin|18",
   "link:https://www.romhacking.net/translations/848/": "ball bullet gun|19",
+  "link:https://www.romhacking.net/translations/85": "hyaku no sekai no monogatari the tales on a watery wilderness|18",
   "link:https://www.romhacking.net/translations/850/": "famicom detective club part ii|19",
   "link:https://www.romhacking.net/translations/857": "pocket billiards funk the 9 ball|22",
   "link:https://www.romhacking.net/translations/859": "super robot taisen alpha gaiden|7",
   "link:https://www.romhacking.net/translations/86": "takahashi meijin no bouken jima iv|18",
   "link:https://www.romhacking.net/translations/860/": "dream maze the kigurumi adventure|19",
   "link:https://www.romhacking.net/translations/865/": "fire emblem seisen no keifu|19",
+  "link:https://www.romhacking.net/translations/876": "shining force gaiden final conflict|35",
   "link:https://www.romhacking.net/translations/883": "high school kimengumi|64",
   "link:https://www.romhacking.net/translations/898": "dragon ball z iii ressen jinzou ningen|18",
   "link:https://www.romhacking.net/translations/899": "dragon ball z gaiden saiya jin zetsumetsu keikaku|18",
+  "link:https://www.romhacking.net/translations/903": "head buster|35",
   "link:https://www.romhacking.net/translations/910/": "cyber knight ii chikyuu teikoku no yabou|19",
   "link:https://www.romhacking.net/translations/934": "dark lord|18",
   "link:https://www.romhacking.net/translations/94": "asmik kun land|18",
@@ -18539,8 +20299,10 @@
   "link:https://www.romhacking.net/translations/970": "dai meiro meikyuu no tatsujin|18",
   "link:https://www.smspower.org/Translations/TensaiBakabon-SMS-EN": "tensai bakabon|64",
   "link:https://www.tapatalk.com/groups/vpw2dojo/english-patch-t336.html": "virtual pro wrestling 2 oudou keishou|4",
+  "link:https://www.translated.games/snes/heartthrob": "tokimeki memorial densetsu no ki no shita de|19",
   "m-mayday/atelier-marie-gb": "marie no atelier gb|22",
   "masagrator/higurashienx": "higurashi no naku koro ni hou|130",
+  "maxim-zhao/mappy-gg-translation": "mappy|35",
   "medabots/medarot1": "medarot kuwagata version|33",
   "medabots/medarot3": "medarot 3 kabuto kuwagata version|22",
   "megastylerc/idolmaster-dearly-stars-english": "idolmaster dearly stars|20",
@@ -18578,6 +20340,7 @@
   "nrlemo/super-robot-wars-alpha-psx-english-ver": "super robot wars alpha psx ver|7",
   "ooa113y/umineko-catbox-english": "umineko no naku koro ni saku|130",
   "originheartgold/origin-heart-gold-en-translation": "pokemon origin heartgold|20",
+  "pavel0wq/uta-no-prince-sama-repeat-english-patch": "uta no prince sama repeat|38",
   "pepasjc/snatcher-translated": "snatcher|7",
   "peterlemon/snes": "albert odyssey|19",
   "phamkv/gotokano": "gotokano|130",
@@ -18598,7 +20361,6 @@
   "scatterdbrain/pachipara-12-oumi-to-natsu-no-omoide-ps2-english-translation-patch": "pachi para 12 oumi to natsu no omoide|8",
   "scatterdbrain/superlite-2000-table-hanafuda-ps2-english-translation-patch": "superlite 2000 table hanafuda|8",
   "schil227/advancefamicomwars": "advance famicom wars|18",
-  "scienceandresearch/ogre-battle-gaiden-english-plus": "densetsu no ogre battle gaiden zenobia no ouji|120",
   "scrambled-beans/puyo1-md-translation": "puyo puyo|29",
   "smokej-git/letsgo-eternal-wings-english": "bakusou kyoudai lets and go eternal wings|7",
   "sneekymellon/zoids-saga-gba-english-patch": "zoids saga|24",
