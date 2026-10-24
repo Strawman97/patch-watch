@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-24T11:17:05Z",
+ "generated": "2026-10-24T16:05:02Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9553,14 +9553,14 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-10-24T04:48:17Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Nintendo 64",
+   "id": "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64",
+   "l": "https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "N64",
    "src": "Romhack Plaza"
   },
   {
@@ -12134,19 +12134,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-10-24T04:48:17Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "3DS",
-   "src": "GitHub"
-  },
-  {
    "d": "English fan translation of Velldeselba Senki - Tsubasa no Kunshou (PSX)",
    "fa": "2026-10-24T11:17:05Z",
    "g": "Velldeselba Senki",
@@ -12183,6 +12170,19 @@
    ],
    "p": "PS2",
    "src": "Credited on CDRomance"
+  },
+  {
+   "d": "English fan translation of Rokudenashi Blues: Taiketsu! Tokyo Shitennou (SNES, Bandai 1994)",
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Rokudenashi Blues: Taiketsu! Tokyo Shitennou",
+   "id": "minhnhattonthat/rokudenashi-blues-en",
+   "k": "minhnhattonthat/rokudenashi-blues-en",
+   "l": "https://github.com/minhnhattonthat/rokudenashi-blues-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
   },
   {
    "fa": "2026-10-22T09:57:51Z",
@@ -12555,6 +12555,62 @@
     "Human translation"
    ],
    "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Shin Megami Tensei: Persona 2 - Innocent Sin",
+   "id": "link:https://gbatemp.net/threads/release-persona-2-innocent-sin-undub-addendum.472919",
+   "l": "https://gbatemp.net/threads/release-persona-2-innocent-sin-undub-addendum.472919",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PSP",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Inazuma Eleven 2: Blizzard",
+   "id": "link:https://gbatemp.net/threads/inazuma-eleven-2-blizzard-remastered-version.324476",
+   "l": "https://gbatemp.net/threads/inazuma-eleven-2-blizzard-remastered-version.324476",
+   "lb": [
+    "Undub"
+   ],
+   "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Inazuma Eleven",
+   "id": "link:https://gbatemp.net/threads/inazuma-eleven-remastered-version.282494",
+   "l": "https://gbatemp.net/threads/inazuma-eleven-remastered-version.282494",
+   "lb": [
+    "Undub"
+   ],
+   "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Rockman ZX Advent (Mega Man ZX Advent)",
+   "grp": "geo-kun",
+   "id": "link:https://gbatemp.net/threads/rockman-zx-advent-mega-man-zx-advent-full-undub.492716",
+   "l": "https://gbatemp.net/threads/rockman-zx-advent-mega-man-zx-advent-full-undub.492716",
+   "lb": [
+    "Undub"
+   ],
+   "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "The Legend of Heroes: Trails in the Sky SC",
+   "id": "link:https://gbatemp.net/threads/completed-legend-of-heroes-trails-in-the-sky-sc-psp-undub.445307",
+   "l": "https://gbatemp.net/threads/completed-legend-of-heroes-trails-in-the-sky-sc-psp-undub.445307",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PSP",
    "src": "Credited on CDRomance"
   },
   {
@@ -12973,6 +13029,18 @@
    "l": "https://segaxtreme.net/threads/translating-lunar-silver-star-story.20564",
    "lb": [
     "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Magic Knight Rayearth",
+   "id": "link:https://segaxtreme.net/threads/magic-knight-rayearth-uj-final-version-region-free.16645",
+   "jp": "魔法騎士 レイアース",
+   "l": "https://segaxtreme.net/threads/magic-knight-rayearth-uj-final-version-region-free.16645",
+   "lb": [
+    "Undub"
    ],
    "p": "Saturn",
    "src": "Credited on CDRomance"
@@ -13539,54 +13607,6 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-10-24T04:48:17Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-10-24T04:48:17Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-10-24T04:48:17Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS2",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-10-24T11:17:05Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
    "fa": "2026-10-24T11:17:05Z",
    "g": "Raw Danger",
    "id": "link:https://archive.org/details/raw_danger_undub_patch",
@@ -13805,6 +13825,63 @@
     "Undub"
    ],
    "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
+   "src": "Internet Archive"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Industrial Spy: Operation Espionage",
+   "id": "link:https://archive.org/details/industrial_spy_oe_undub_patch",
+   "l": "https://archive.org/details/industrial_spy_oe_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "Dreamcast",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Valkyrie Profile: Lenneth",
+   "id": "link:https://web.archive.org/web/20190504074559/https://blacklabel-translations.com/archives/734",
+   "l": "https://web.archive.org/web/20190504074559/https://blacklabel-translations.com/archives/734",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PSP",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "Shin Megami Tensei: Digital Devil Saga 2",
+   "id": "link:https://web.archive.org/web/20180926083038/https://www.reddit.com/r/Megaten/comments/83a1el/digital_devil_saga_2_undub_v10_release",
+   "l": "https://web.archive.org/web/20180926083038/https://www.reddit.com/r/Megaten/comments/83a1el/digital_devil_saga_2_undub_v10_release",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
    "src": "Credited on CDRomance"
   },
   {
@@ -15544,6 +15621,17 @@
     "Undub"
    ],
    "p": "PSP",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T16:05:02Z",
+   "g": "SOS: The Final Escape",
+   "id": "link:https://assemblergames.com/threads/rel-ps2-disaster-report-sos-undub-patches-ntsc-u-pal-multi3.70477",
+   "l": "https://assemblergames.com/threads/rel-ps2-disaster-report-sos-undub-patches-ntsc-u-pal-multi3.70477",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
    "src": "Credited on CDRomance"
   }
  ],

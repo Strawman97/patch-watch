@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-24T11:17:05Z",
+ "generated": "2026-10-24T16:05:02Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -936,8 +936,8 @@
     "desc": "Port of animal forest to the psp",
     "full": "bruder-grimm/animal_forest_psp",
     "lang": "C",
-    "pushed": "2026-10-08T11:38:15Z",
-    "size": 842,
+    "pushed": "2026-10-24T14:53:11Z",
+    "size": 921,
     "stars": 13
    },
    "shots": []
@@ -1403,6 +1403,27 @@
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/05_dialogue.png",
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/06_council.png"
    ]
+  },
+  "ddhuet/ss2-modding-environment": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-05T01:08:21Z",
+    "desc": "Shining Soul II (GBA) modding environment: English translation of the CN mod baseline, gameplay mods with source, research docs and tooling. No ROMs included.",
+    "full": "Ddhuet/SS2-Modding-Environment",
+    "lang": "Python",
+    "pushed": "2026-10-24T07:54:47Z",
+    "size": 12066,
+    "stars": 0
+   },
+   "shots": []
   },
   "demmis98/3s-psp": {
    "assetOs": {},
@@ -2388,10 +2409,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-24T00:52:45Z",
+    "date": "2026-10-24T15:57:23Z",
     "pre": false,
-    "tag": "v0.1.23",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.23"
+    "tag": "v0.1.24",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.24"
    },
    "repo": {
     "archived": false,
@@ -2399,7 +2420,7 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-24T00:52:44Z",
+    "pushed": "2026-10-24T15:57:23Z",
     "size": 59713,
     "stars": 24
    },
@@ -3622,6 +3643,35 @@
    },
    "shots": []
   },
+  "karas84/projectzeroundub": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "gfx": true,
+      "restore": true,
+      "subs": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2022-04-03T11:00:54Z",
+    "desc": "Undub project for Tecmo's Project Zero - the EU version (the first one) for the PS2",
+    "full": "karas84/ProjectZeroUndub",
+    "lang": "Python",
+    "pushed": "2023-07-23T13:47:59Z",
+    "size": 203,
+    "stars": 18
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
+   ]
+  },
   "kde/l10n-nds": {
    "noRelease": true,
    "readme": {
@@ -3640,6 +3690,38 @@
     "pushed": "2026-10-24T04:16:09Z",
     "size": 253095,
     "stars": 0
+   },
+   "shots": []
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-24T13:36:52Z",
+    "pre": true,
+    "tag": "0.8.8",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-24T13:36:51Z",
+    "size": 37425,
+    "stars": 17
    },
    "shots": []
   },
@@ -4941,6 +5023,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/velldeselba-senki": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-24T09:50:22Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/velldeselba-senki/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-23T05:27:34Z",
+    "desc": "English fan translation of Velldeselba Senki - Tsubasa no Kunshou (PSX)",
+    "full": "minhnhattonthat/velldeselba-senki",
+    "lang": "Python",
+    "pushed": "2026-10-24T09:52:24Z",
+    "size": 2010,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/yu-yu-hakusho-2-english": {
    "assetOs": {},
    "readme": {
@@ -5017,8 +5128,8 @@
     "desc": "Fan-made English translation of Bakuten Shoot Beyblade: Gekitou! Saikyou Blader (GBA, AHEJ), developed with GPT. Includes translation sources and patching tools; the original ROM is not included.",
     "full": "MoisesEliaquim/Bakuten_Shoot_Beyblade_Gekitou_Saikyou_Blader_English",
     "lang": "Python",
-    "pushed": "2026-10-24T04:20:52Z",
-    "size": 322,
+    "pushed": "2026-10-24T13:08:28Z",
+    "size": 325,
     "stars": 0
    },
    "shots": [
@@ -5199,7 +5310,7 @@
     "desc": "English translation + modern QoL patches for Pokemon Hyper Emerald: Lost Artifacts v5.7 (GBA ROM hack), built without source",
     "full": "Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL",
     "lang": "Python",
-    "pushed": "2026-10-24T05:48:54Z",
+    "pushed": "2026-10-24T15:05:50Z",
     "size": 95553,
     "stars": 24
    },
@@ -5700,7 +5811,7 @@
     "lang": "C",
     "pushed": "2026-10-23T17:46:19Z",
     "size": 101687,
-    "stars": 145
+    "stars": 148
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"

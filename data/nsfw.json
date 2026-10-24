@@ -681,11 +681,6 @@
    "iv": 1,
    "title": "L10N"
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "checked": "2026-10-24T11:17:05Z",
-   "iv": 1,
-   "title": "Dqxi"
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -1256,6 +1251,11 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Sonic Gems Collection"
+  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1270,16 +1270,6 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
-  },
-  "link:https://archive.org/details/air-english-patch-psp": {
-   "checked": "2026-10-24T11:17:05Z",
-   "img": "https://t.vndb.org/cv/04/103904.jpg",
-   "iv": 1,
-   "match": 1.0,
-   "name": "AIR",
-   "sexual": 0,
-   "title": "AIR",
-   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1461,6 +1451,11 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
+  "link:https://archive.org/details/bulk-slash-english-patch": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Bulk Slash"
+  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -1575,11 +1570,6 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
-  },
-  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
-   "checked": "2026-10-24T11:17:05Z",
-   "iv": 1,
-   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1885,6 +1875,11 @@
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
    "title": "Inazuma Eleven 3: Sekai Heno Chousen The Ogre! DS"
+  },
+  "link:https://archive.org/details/industrial_spy_oe_undub_patch": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Industrial Spy: Operation Espionage"
   },
   "link:https://archive.org/details/jade_cocoon_2_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2206,11 +2201,6 @@
    "iv": 1,
    "title": "Samurai Warriors: State of War"
   },
-  "link:https://archive.org/details/sengokubasara3utageenglish": {
-   "checked": "2026-10-24T11:17:05Z",
-   "iv": 1,
-   "title": "Sengoku BASARA 3 Utage —"
-  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -2320,11 +2310,6 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
-  },
-  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
-   "checked": "2026-10-24T11:17:05Z",
-   "iv": 1,
-   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -2495,6 +2480,11 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Zone of the Enders"
+  },
+  "link:https://assemblergames.com/threads/rel-ps2-disaster-report-sos-undub-patches-ntsc-u-pal-multi3.70477": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "SOS: The Final Escape"
   },
   "link:https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here": {
    "checked": "2026-10-22T10:45:22Z",
@@ -2741,6 +2731,11 @@
    "iv": 1,
    "title": "Cid to Chocobo no Fushigi na Dungeon: Tokiwasure no Meikyuu DS+"
   },
+  "link:https://gbatemp.net/threads/completed-legend-of-heroes-trails-in-the-sky-sc-psp-undub.445307": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "The Legend of Heroes: Trails in the Sky SC"
+  },
   "link:https://gbatemp.net/threads/cyanotype-daydream-hakuchuumu-no-aojashin-translation-mod.625925/": {
    "checked": "2026-10-21T07:42:14Z",
    "iv": 1,
@@ -2820,6 +2815,16 @@
    "sexual": 0,
    "title": "Honey Vibes",
    "vn": "v49600"
+  },
+  "link:https://gbatemp.net/threads/inazuma-eleven-2-blizzard-remastered-version.324476": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Inazuma Eleven 2: Blizzard"
+  },
+  "link:https://gbatemp.net/threads/inazuma-eleven-remastered-version.282494": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Inazuma Eleven"
   },
   "link:https://gbatemp.net/threads/itadaki-street-ds-menu-translation.658699": {
    "checked": "2026-10-22T10:45:22Z",
@@ -2911,6 +2916,11 @@
    "iv": 1,
    "title": "Luminous Arc 3: Eyes"
   },
+  "link:https://gbatemp.net/threads/release-persona-2-innocent-sin-undub-addendum.472919": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Shin Megami Tensei: Persona 2 - Innocent Sin"
+  },
   "link:https://gbatemp.net/threads/release-princess-guide-jp-pcsg01163-english-beta-patcher-v0-8b.543683": {
    "checked": "2026-10-22T17:20:22Z",
    "iv": 1,
@@ -2950,6 +2960,11 @@
    "checked": "2026-10-22T17:20:22Z",
    "iv": 1,
    "title": "Eiyuu Densetsu: Sora no Kiseki the 3rd Evolution"
+  },
+  "link:https://gbatemp.net/threads/rockman-zx-advent-mega-man-zx-advent-full-undub.492716": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Rockman ZX Advent (Mega Man ZX Advent)"
   },
   "link:https://gbatemp.net/threads/rockman-zx-mega-man-zx-full-undub.492408": {
    "checked": "2026-10-22T10:24:13Z",
@@ -3396,10 +3411,10 @@
    "iv": 1,
    "title": "Nekojara Monogatari"
   },
-  "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": {
-   "checked": "2026-10-24T11:17:05Z",
+  "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64": {
+   "checked": "2026-10-24T16:05:02Z",
    "iv": 1,
-   "title": "SEGA"
+   "title": "Nintendo 64"
   },
   "link:https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": {
    "checked": "2026-10-21T12:03:04Z",
@@ -3701,6 +3716,11 @@
    "iv": 1,
    "title": "Lunar 2: Eternal Blue"
   },
+  "link:https://segaxtreme.net/threads/magic-knight-rayearth-uj-final-version-region-free.16645": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Magic Knight Rayearth"
+  },
   "link:https://segaxtreme.net/threads/sega-saturn-28th-anniversary-game-competition.25278": {
    "checked": "2026-10-23T05:03:31Z",
    "img": "https://t.vndb.org/cv/20/88520.jpg",
@@ -3830,6 +3850,16 @@
    "sexual": 0.8,
    "title": "Divi-Dead",
    "vn": "v119"
+  },
+  "link:https://web.archive.org/web/20180926083038/https://www.reddit.com/r/Megaten/comments/83a1el/digital_devil_saga_2_undub_v10_release": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Shin Megami Tensei: Digital Devil Saga 2"
+  },
+  "link:https://web.archive.org/web/20190504074559/https://blacklabel-translations.com/archives/734": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Valkyrie Profile: Lenneth"
   },
   "link:https://web.archive.org/web/20191229213424/https://www.startrinket.com/medabotsr": {
    "checked": "2026-10-23T21:31:12Z",
@@ -10162,6 +10192,11 @@
    "iv": 1,
    "title": "Recca no Honoo"
   },
+  "minhnhattonthat/rokudenashi-blues-en": {
+   "checked": "2026-10-24T16:05:02Z",
+   "iv": 1,
+   "title": "Rokudenashi Blues: Taiketsu! Tokyo Shitennou"
+  },
   "minhnhattonthat/smt-devil-children-2-honoo-no-sho": {
    "checked": "2026-10-22T12:22:11Z",
    "iv": 1,
@@ -10488,6 +10523,6 @@
    "title": "Gintama: Gintoki vs"
   }
  },
- "generated": "2026-10-24T11:17:05Z",
+ "generated": "2026-10-24T16:05:02Z",
  "version": 1
 }

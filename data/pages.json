@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-pages",
- "generated": "2026-10-24T11:17:05Z",
+ "generated": "2026-10-24T16:05:02Z",
  "pages": {
   "http://changevworld.com/narikiri/patch/patch.htm": {
    "a": {
@@ -11,6 +11,13 @@
   "http://code-geass-lost-colors-translation.yolasite.com": {
    "checked": "2026-10-24T11:17:05Z",
    "http": 403
+  },
+  "http://crazycatz00.x10host.com/KH/kh2_patches.html": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "title": "/kh/kh2-patches.ps2/"
   },
   "http://cubanraul.altervista.org/drac": {
    "a": {
@@ -489,16 +496,27 @@
    "upd": "2022-07-28T18:32:36Z",
    "ver": "1.1"
   },
-  "https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+  "https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "a": {
     "ex": {
-     "gfx": true
-    }
+     "subs": true
+    },
+    "undub": true
    },
-   "checked": "2026-10-24T11:17:05Z",
-   "plat": "GameCube",
-   "title": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "upd": "2026-09-30T06:20:08Z"
+   "checked": "2026-10-24T16:05:02Z",
+   "title": "Ace Combat Zero Ntsc Undub Patch",
+   "upd": "2022-08-18T23:04:14Z"
+  },
+  "https://archive.org/details/aerowings_2_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "Dreamcast",
+   "title": "AeroWings 2: Airstrike UNDUB patch",
+   "upd": "2022-11-22T00:55:19Z",
+   "ver": "1.0"
   },
   "https://archive.org/details/aerowings_undub_patch": {
    "a": {
@@ -510,6 +528,18 @@
    "title": "AeroWings UNDUB patch",
    "upd": "2022-11-22T00:47:45Z",
    "ver": "1.0"
+  },
+  "https://archive.org/details/air-english-patch-psp": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PSP",
+   "shots": [
+    "https://archive.org/download/air-english-patch-psp/airengpsp_thumb.png"
+   ],
+   "title": "AIR English Patch (PSP, patr0805)",
+   "upd": "2026-10-04T23:29:44Z"
   },
   "https://archive.org/details/airforce_delta_strike_undub_patch": {
    "a": {
@@ -793,6 +823,19 @@
    "upd": "2026-01-06T21:07:12Z",
    "ver": "1.0"
   },
+  "https://archive.org/details/avalon_code_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "DS",
+   "title": "Avalon Code UNDUB patch",
+   "upd": "2023-06-06T00:52:47Z",
+   "ver": "1.0"
+  },
   "https://archive.org/details/baroque_ps2_undub_patch": {
    "a": {
     "ex": {
@@ -848,7 +891,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Blood Will Tell: Tezuka Osamu's Dororo - Undub Patch",
    "upd": "2021-08-29T01:09:30Z"
@@ -904,7 +947,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "shots": [
     "https://archive.org/download/budokai-1-gc-undub-patch/GD7E70_2026-10-15_16-32-39.png"
@@ -923,27 +966,12 @@
    "upd": "2023-08-22T00:27:14Z",
    "ver": "1.0"
   },
-  "https://archive.org/details/bulk-slash-english-patch": {
-   "a": {
-    "ex": {}
-   },
-   "checked": "2026-10-24T11:17:05Z",
-   "plat": "Saturn",
-   "shots": [
-    "https://archive.org/download/bulk-slash-english-patch/Bulk-Slash-english-releaseo.png",
-    "https://archive.org/download/bulk-slash-english-patch/Comparison_Briefing_Mission1.png",
-    "https://archive.org/download/bulk-slash-english-patch/Comparison_Metical_Intro.png",
-    "https://archive.org/download/bulk-slash-english-patch/ControllerScreen_TwinStick.png"
-   ],
-   "title": "Bulk Slash (English Patch)",
-   "upd": "2026-10-01T07:26:04Z"
-  },
   "https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "a": {
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii",
    "title": "Castle of Shikigami III UNDUB patch",
    "upd": "2025-05-01T20:07:35Z",
@@ -1093,7 +1121,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS Vita",
    "title": "Date A Live Twin Edition Rio Reincarnation (English Fan Translation v0.95)[vita3K]",
    "upd": "2026-10-08T20:14:00Z",
@@ -1104,7 +1132,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii",
    "title": "Dewy's Adventure UNDUB patch",
    "upd": "2025-05-01T13:14:09Z",
@@ -1139,7 +1167,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "3DS",
    "title": "Doctor Lautrec and the Forgotten Knights UNDUB patch",
    "upd": "2024-06-14T23:32:22Z",
@@ -1150,7 +1178,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Dokapon Kingdom UNDUB patch (PS2)",
    "upd": "2022-07-20T13:43:24Z",
@@ -1161,7 +1189,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Dokapon Kingdom UNDUB patch (Wii)",
    "upd": "2025-05-01T17:46:58Z",
@@ -1184,7 +1212,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "GameCube",
    "title": "Doshin the Giant UNDUB patch",
    "upd": "2025-05-22T09:23:38Z",
@@ -1205,12 +1233,28 @@
    "title": "Dragon Ball Z (Budokai) Japanese version English Translation Patch",
    "upd": "2023-03-26T22:09:05Z"
   },
+  "https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "shots": [
+    "https://archive.org/download/dragon-ball-z-budokai-undub-patch/Dragon%20Ball%20Z%20-%20Budokai_SLUS-20591_20260927140643.png"
+   ],
+   "title": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "upd": "2026-09-28T20:26:37Z"
+  },
   "https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "a": {
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PSP",
    "title": "Dragon Ball Z: Tenkaichi Tag Team UNDUB patch",
    "upd": "2025-06-09T23:12:58Z",
@@ -1221,7 +1265,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii",
    "title": "Dragon Quest Swords: The Masked Queen and the Tower of Mirrors UNDUB patch",
    "upd": "2025-05-01T11:48:06Z",
@@ -1235,7 +1279,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "3DS",
    "title": "Dragon Quest VIII: Journey of the Cursed King UNDUB / 3ED patch (3DS)",
    "upd": "2025-04-08T03:03:51Z",
@@ -1248,7 +1292,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS Vita",
    "title": "Dragon's Crown UNDUB & Orchestra OST patch (PS3)",
    "upd": "2026-07-25T03:53:28Z",
@@ -1261,7 +1305,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS Vita",
    "title": "Dragon's Crown UNDUB & Orchestra OST patch (PSV)",
    "upd": "2026-07-25T03:29:37Z",
@@ -1275,7 +1319,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS3",
    "title": "Drakengard 2 UNDUB patch",
    "upd": "2021-04-27T18:26:49Z",
@@ -1285,7 +1329,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "DS",
    "title": "DS Telejan (1981 DECO Cassette System) English Translation Patch",
    "upd": "2026-10-13T03:54:59Z",
@@ -1298,7 +1342,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Dual Hearts UNDUB patch",
    "upd": "2022-07-20T19:36:45Z",
@@ -1309,7 +1353,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "DW 5 Empires Undub Patch",
    "upd": "2023-05-27T06:21:03Z"
@@ -1319,7 +1363,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Dynasty Warriors 5 ( USA) Undub",
    "upd": "2023-05-11T19:17:55Z"
@@ -1329,7 +1373,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Dynasty Warriors 5 ( USA) Xtreme Legends Undub",
    "upd": "2023-05-17T15:49:08Z"
@@ -1342,7 +1386,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Dynasty Warriors 2 UNDUB patch",
    "upd": "2026-01-15T01:21:17Z",
@@ -1357,7 +1401,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Dynasty Warriors 4 UNDUB patch (PS2)",
    "upd": "2022-01-20T07:40:08Z",
@@ -1372,7 +1416,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Dynasty Warriors 4: Xtreme Legends UNDUB patch",
    "upd": "2022-01-20T07:58:29Z",
@@ -1383,7 +1427,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS3",
    "title": "Dynasty Warriors 6: Empires UNDUB patch (PS3)",
    "upd": "2023-05-20T02:29:49Z",
@@ -1394,7 +1438,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Dynasty Warriors 6 UNDUB patch (PS2)",
    "upd": "2021-12-11T14:11:53Z",
@@ -1405,7 +1449,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "GBA",
    "title": "Dynasty Warriors Advance UNDUB patch",
    "upd": "2024-12-13T02:02:29Z",
@@ -1416,17 +1460,28 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS Vita",
    "title": "Dynasty Warriors Next UNDUB patch",
    "upd": "2021-12-12T04:04:02Z"
+  },
+  "https://archive.org/details/dynasty_warriors_psp_undub": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PSP",
+   "title": "Dynasty Warriors UNDUB patch (PSP)",
+   "upd": "2025-11-13T12:33:37Z",
+   "ver": "1.0"
   },
   "https://archive.org/details/dynasty_warriors_sf_ps3_undub_patch": {
    "a": {
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PSP",
    "title": "Dynasty Warriors: Strikeforce UNDUB patch (PS3)",
    "upd": "2023-08-23T00:11:03Z",
@@ -1437,10 +1492,21 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PSP",
    "title": "Dynasty Warriors: Strikeforce UNDUB patch (PSP)",
    "upd": "2025-11-13T10:20:37Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/dynasty_warriors_vol2_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PSP",
+   "title": "Dynasty Warriors Vol. 2 UNDUB patch",
+   "upd": "2025-11-13T12:35:24Z",
    "ver": "1.0"
   },
   "https://archive.org/details/earth_defense_force_3_vita_undub_patch": {
@@ -1450,7 +1516,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS Vita",
    "title": "Earth Defense Force 2017 Portable UNDUB patch (PSV)",
    "upd": "2026-07-27T22:04:07Z",
@@ -1461,7 +1527,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS3",
    "title": "Echo Night: Beyond UNDUB patch",
    "upd": "2022-10-11T02:26:22Z",
@@ -1472,7 +1538,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS1",
    "title": "Echo Night UNDUB patch",
    "upd": "2022-11-09T07:46:12Z",
@@ -1483,7 +1549,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii",
    "title": "Elebits / Eledees UNDUB patch",
    "upd": "2025-05-01T18:12:49Z",
@@ -1496,10 +1562,21 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Dreamcast",
    "title": "Elemental Gimmick Gear UNDUB patch",
    "upd": "2024-09-25T22:50:24Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/eoe_eve_of_extinction_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "title": "E.O.E: Eve of Extinction UNDUB patch",
+   "upd": "2021-09-06T15:02:09Z",
    "ver": "1.0"
   },
   "https://archive.org/details/escape_from_bug_island_undub_patch": {
@@ -1507,7 +1584,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii",
    "title": "Escape from Bug Island UNDUB patch",
    "upd": "2025-05-01T13:02:26Z",
@@ -1518,7 +1595,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS3",
    "title": "Eternal Poison UNDUB patch",
    "upd": "2021-05-24T20:05:22Z",
@@ -1529,7 +1606,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Eternal Ring UNDUB patch",
    "upd": "2021-10-07T14:27:34Z",
@@ -1540,7 +1617,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "3DS",
    "title": "Etrian Odyssey Untold: The Millennium Girl UNDUB patch",
    "upd": "2026-02-15T19:47:54Z",
@@ -1650,7 +1727,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii",
    "title": "Final Fantasy Fables: Chocobo's Dungeon UNDUB patch (Wii)",
    "upd": "2025-08-11T19:23:39Z",
@@ -1678,6 +1755,17 @@
    "plat": "PS Vita",
    "title": "Final Fantasy X / X-2 HD Remaster UNDUB patches (PSV)",
    "upd": "2021-10-26T02:23:16Z"
+  },
+  "https://archive.org/details/finny_the_fish_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "title": "Finny the Fish & the Seven Waters UNDUB patch",
+   "upd": "2023-07-14T15:38:55Z",
+   "ver": "1.0"
   },
   "https://archive.org/details/fire_heroes_undub_patch": {
    "a": {
@@ -1774,6 +1862,19 @@
    "upd": "2022-07-15T17:10:05Z",
    "ver": "1.0"
   },
+  "https://archive.org/details/grandia_ii_dc_undub_patch": {
+   "a": {
+    "ex": {
+     "retrans": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "Dreamcast",
+   "title": "Grandia II UNDUB patch (DC)",
+   "upd": "2022-11-14T09:30:41Z",
+   "ver": "1.01"
+  },
   "https://archive.org/details/gregory_horror_show_undub_patch": {
    "a": {
     "ex": {
@@ -1853,10 +1954,24 @@
     "ex": {},
     "mtl": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Switch",
    "title": "Hatsujo Switch English Patch",
    "upd": "2026-10-19T11:46:44Z"
+  },
+  "https://archive.org/details/hellnight_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS1",
+   "title": "Hellnight UNDUB patch",
+   "upd": "2024-03-23T20:48:56Z",
+   "ver": "1.1"
   },
   "https://archive.org/details/hexyz_force_undub_patch": {
    "a": {
@@ -1932,12 +2047,36 @@
    "upd": "2024-12-13T01:41:57Z",
    "ver": "1.0a"
   },
+  "https://archive.org/details/kings_field_2_and_3_oped_undub_patches": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS1",
+   "title": "King's Field II & King's Field III – OP & ED UNDUB patches",
+   "upd": "2022-07-02T09:13:27Z"
+  },
+  "https://archive.org/details/kings_field_iv_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "title": "King's Field: The Ancient City – OP FMV UNDUB patch",
+   "upd": "2026-06-13T00:23:25Z",
+   "ver": "1.0a"
+  },
   "https://archive.org/details/kirbys_epic_yarn_undub_patch": {
    "a": {
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii",
    "title": "Kirby's Epic Yarn UNDUB patch",
    "upd": "2025-05-01T13:51:20Z",
@@ -1947,7 +2086,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "NES",
    "title": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1990, NES / Famicom) English Translation Patch",
    "upd": "2026-09-14T13:53:41Z"
@@ -1995,7 +2134,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Mega CD",
    "title": "Mahou no Shoujo - Silky Lip - English Translation PAL Mega CD Conversion",
    "upd": "2026-10-14T18:09:16Z"
@@ -2030,10 +2169,11 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "3DS",
    "title": "Medarot DS Kabuto Ver. English Patch",
-   "upd": "2026-09-27T19:19:06Z"
+   "upd": "2026-10-22T14:02:39Z",
+   "ver": "1.1"
   },
   "https://archive.org/details/mega_man_mhx_undub_patch": {
    "a": {
@@ -2095,7 +2235,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS Vita",
    "title": "MGF English Patch V 1.00",
    "upd": "2026-10-17T12:54:37Z",
@@ -2120,11 +2260,22 @@
    "upd": "2025-11-13T11:51:35Z",
    "ver": "1.2b"
   },
+  "https://archive.org/details/mischief_makers_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "N64",
+   "title": "Mischief Makers UNDUB patch",
+   "upd": "2023-04-24T15:21:42Z",
+   "ver": "1.0"
+  },
   "https://archive.org/details/mqj-c0": {
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "NES",
    "title": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1988, Arcade) English Translation Patch",
    "upd": "2026-09-14T14:12:05Z"
@@ -2138,6 +2289,19 @@
    "plat": "GBA",
    "title": "Mr. Driller 2 UNDUB patch (GBA)",
    "upd": "2025-12-15T08:27:46Z",
+   "ver": "1.0"
+  },
+  "https://archive.org/details/ms_saga_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "title": "MS Saga: A New Dawn UNDUB patch",
+   "upd": "2022-07-02T10:14:37Z",
    "ver": "1.0"
   },
   "https://archive.org/details/mystic_heroes_undub_patch_ps2": {
@@ -2181,7 +2345,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "PS2 NFSU 2 SHA_DO English patch",
    "upd": "2026-10-15T17:00:54Z"
@@ -2190,7 +2354,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "NFSU J Tune English Patch",
    "upd": "2026-10-13T22:05:47Z"
@@ -2220,7 +2384,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Mega CD",
    "title": "Nostalgia 1907 - English Translation - Mega CD PAL Conversion",
    "upd": "2026-10-12T13:07:29Z",
@@ -2303,6 +2467,19 @@
    "upd": "2025-11-13T03:29:28Z",
    "ver": "1.1a"
   },
+  "https://archive.org/details/phantasy_star_universe_ps2_undub_patch": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "title": "Phantasy Star Universe UNDUB patch (PS2)",
+   "upd": "2021-12-03T17:21:50Z",
+   "ver": "1.0"
+  },
   "https://archive.org/details/phantasy_star_zero_undub_patch": {
    "a": {
     "ex": {
@@ -2372,7 +2549,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS Vita",
    "title": "Purpura Sancta seu Vita Caesaris Baronii (Life of Cardinal Cesare Baronio), 1651 — English translation",
    "upd": "2026-09-20T03:05:51Z"
@@ -2383,10 +2560,25 @@
      "gfx": true
     }
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "3DS",
    "title": "Puyo Puyo Tetris (3DS) English Patch",
    "upd": "2026-09-07T03:48:16Z"
+  },
+  "https://archive.org/details/raw_danger_undub_patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "restore": true,
+     "uncensor": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "title": "Raw Danger! UNDUB patch",
+   "upd": "2025-04-09T06:51:57Z",
+   "ver": "1.0"
   },
   "https://archive.org/details/record_of_lodoss_war_aoc_undub_patch": {
    "a": {
@@ -2431,7 +2623,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS2",
    "title": "Rogue Galaxy UNDUB patch",
    "upd": "2026-02-04T10:11:21Z",
@@ -2507,6 +2699,34 @@
    "upd": "2025-11-13T12:38:10Z",
    "ver": "1.0"
   },
+  "https://archive.org/details/sengokubasara3utageenglish": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS3",
+   "shots": [
+    "https://archive.org/download/sengokubasara3utageenglish/firefox_S09XMvguoR.png"
+   ],
+   "title": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "upd": "2026-10-12T08:33:59Z"
+  },
+  "https://archive.org/details/seven_samurai_20XX_undub_patch": {
+   "a": {
+    "ex": {
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "title": "Seven Samurai 20XX UNDUB patch",
+   "upd": "2023-01-01T17:05:37Z",
+   "ver": "1.0"
+  },
   "https://archive.org/details/shadow_hearts_undub_patch": {
    "a": {
     "ex": {
@@ -2532,11 +2752,22 @@
    "upd": "2025-05-16T03:10:26Z",
    "ver": "1.0"
   },
+  "https://archive.org/details/shadow_tower_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS1",
+   "title": "Shadow Tower UNDUB patch",
+   "upd": "2022-07-03T11:40:45Z",
+   "ver": "1.0"
+  },
   "https://archive.org/details/shadowrun-english-pal": {
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Mega CD",
    "title": "Shadowrun - English Translation - Mega CD PAL",
    "upd": "2026-09-08T07:41:22Z"
@@ -2601,12 +2832,23 @@
    "upd": "2024-12-24T02:36:57Z",
    "ver": "1.0"
   },
+  "https://archive.org/details/silhouette_mirage_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS1",
+   "title": "Silhouette Mirage UNDUB patch",
+   "upd": "2022-07-24T18:01:59Z",
+   "ver": "0.9.7z"
+  },
   "https://archive.org/details/skies_of_arcadia_gc_undub_patch": {
    "a": {
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "GameCube",
    "title": "Skies of Arcadia Legends UNDUB patch",
    "upd": "2025-08-12T20:04:13Z",
@@ -2630,7 +2872,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii U",
    "title": "Skylanders English Patch Wii U",
    "upd": "2026-10-07T15:43:10Z"
@@ -2688,7 +2930,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PS1",
    "title": "Spyro the Dragon (Japan) (PS1) English Translation Patch",
    "upd": "2026-10-13T05:20:55Z",
@@ -2718,12 +2960,24 @@
    "upd": "2024-08-02T06:38:08Z",
    "ver": "1.0"
   },
+  "https://archive.org/details/storm-lover-kai-english-patch-psp": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PSP",
+   "shots": [
+    "https://archive.org/download/storm-lover-kai-english-patch-psp/stormloverkai_thumb.png"
+   ],
+   "title": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "upd": "2026-10-05T18:42:26Z"
+  },
   "https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "a": {
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "SNES",
    "shots": [
     "https://archive.org/download/street-fighter-ii-manual-jp-translated/img0001-thats-the-1st-page-can-you-start-2.jpg",
@@ -2758,7 +3012,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PSP",
    "title": "Summon Night 5 Undub",
    "upd": "2026-09-25T12:43:36Z"
@@ -2886,7 +3140,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "PSP",
    "title": "Tenchu: Shadow Assassins UNDUB patch (Wii)",
    "upd": "2025-04-28T00:34:35Z",
@@ -2962,7 +3216,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii",
    "title": "The Sky Crawlers: Innocent Aces UNDUB patch",
    "upd": "2025-04-28T01:28:32Z",
@@ -3045,7 +3299,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "plat": "Wii",
    "title": "Valhalla Knights: Eldar Saga UNDUB patch",
    "upd": "2025-05-01T13:27:17Z",
@@ -3059,6 +3313,17 @@
    "plat": "PC Engine",
    "title": "Valis IV Pc-engine - English Dub",
    "upd": "2024-04-28T15:39:27Z"
+  },
+  "https://archive.org/details/virtua_quest_ps2_undub_patch": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "title": "Virtua Quest UNDUB patch (PS2)",
+   "upd": "2022-07-02T11:47:04Z",
+   "ver": "1.0"
   },
   "https://archive.org/details/warriors_orochi_2_ps2_undub_patch": {
    "a": {
@@ -3101,6 +3366,17 @@
    "title": "Way of the Samurai 2 UNDUB patch",
    "upd": "2026-08-04T16:03:23Z",
    "ver": "1.1"
+  },
+  "https://archive.org/details/wild_arms_3_jp_oped_patch": {
+   "a": {
+    "ex": {
+     "restore": true
+    }
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "plat": "PS2",
+   "title": "Wild Arms 3 – Japanese Openings & Ending FMVs patch",
+   "upd": "2022-07-07T22:40:13Z"
   },
   "https://archive.org/details/ys6_ps2_pal_undub_patch": {
    "a": {
@@ -3411,8 +3687,12 @@
    "upd": "2020-07-04T00:59:37Z"
   },
   "https://forum.klonoa.network/?topic=2175.msg30818": {
-   "checked": "2026-10-22T10:24:13Z",
-   "http": 503
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "title": "Possible Undub? - Page 2"
   },
   "https://forum.rippersanime.info/viewtopic.php?t=1109": {
    "checked": "2026-10-22T12:06:29Z",
@@ -3439,7 +3719,7 @@
    "http": 403
   },
   "https://forums.serenesforest.net/topic/97653-fe-gaiden-updated-namesfont-patch": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "http": 403
   },
   "https://forums.therockmanexezone.com/rockman-exe6-english-patches-t5507.html": {
@@ -3457,6 +3737,14 @@
    "checked": "2026-10-22T17:20:22Z",
    "http": 403
   },
+  "https://gadesxscene.blogspot.com/2022/10/baten-kaitos-origins-1a-version-publica.html": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "title": "Baten Kaitos Origins - 1a versión pública - Parche en castellano",
+   "ver": "1.0"
+  },
   "https://gamebanana.com/mods/365725": {
    "a": {
     "ex": {}
@@ -3464,12 +3752,27 @@
    "checked": "2026-10-22T10:45:22Z",
    "title": "English translation patch Mod for Kingdom Hearts: Final Mix | KH:FM Mods"
   },
+  "https://gamebanana.com/mods/458681": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "title": "DLC enabler Mod for Shin Megami Tensei: Persona 2: Innocent Sin (PSP) | SMT: P2IS Mods"
+  },
   "https://gamebanana.com/mods/480082": {
    "a": {
     "ex": {}
    },
    "checked": "2026-10-22T12:22:11Z",
    "title": "Y School Heroes English Fan Translation Mod for Y School Heroes: Bustlin' School Life | YSH Mods"
+  },
+  "https://gamebanana.com/sounds/41992": {
+   "a": {
+    "ex": {},
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "title": "Puyo Pop Fever DS Undub Sound Mod for Puyo Pop Fever | PPF Sound Mods"
   },
   "https://gbatemp.net/threads/another-dragonball-kai-ultimate-butouden-translation.278158/page-40": {
    "checked": "2026-10-22T10:45:22Z",
@@ -3616,7 +3919,7 @@
    "checked": "2026-10-22T21:45:23Z"
   },
   "https://gbatemp.net/threads/rockman-zx-mega-man-zx-full-undub.492408": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "http": 403
   },
   "https://gbatemp.net/threads/saikoro-psycho-seventh-heaven-english-translation-mod.656500": {
@@ -3712,7 +4015,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "shots": [
     "https://iwakuraproductions.wordpress.com/wp-content/uploads/2023/12/cropped-wired3.png",
     "https://iwakuraproductions.wordpress.com/wp-content/uploads/2023/02/image.png?w=296",
@@ -3778,7 +4081,7 @@
      "restore": true
     }
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "shots": [
     "https://i.imgur.com/O1zPKQc.jpg"
    ],
@@ -3889,7 +4192,7 @@
     "mtl": true,
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "dl": "https://disk.yandex.ru/d/PyoouJ4aVu0lQw",
    "title": "patches & romhacks | rari’s den",
    "upd": "2025-12-26T00:00:00Z"
@@ -3934,14 +4237,6 @@
    "st": "RSS",
    "title": "Shin Megami Tensei II (PlayStation) English translation w/enhancements"
   },
-  "https://rhadvance.github.io": {
-   "a": {
-    "cov": "Partial",
-    "ex": {}
-   },
-   "checked": "2026-10-22T10:45:22Z",
-   "title": "Rhythm Heaven Advance"
-  },
   "https://rhpz.org/26004": {
    "a": {
     "cov": "Complete",
@@ -3967,7 +4262,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "RHDI"
   },
   "https://romhack.ing/database/content/entry/3BAn4gzlRzKufRgCTLPnTQ/farland-story-fx-english-translation": {
@@ -3981,7 +4276,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "RHDI"
   },
   "https://romhack.ing/database/content/entry/CR5dEzWWS-mum-4fNn4TPw/digimon-tamers-battle-spirit-ver-1-5-english-translation": {
@@ -4009,7 +4304,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "RHDI"
   },
   "https://romhack.ing/database/content/entry/RGI61MkSSjSSv5EYB4UoVw/fate-stay-night-r-alta-nua-english-translation": {
@@ -4023,7 +4318,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "RHDI"
   },
   "https://romhack.ing/database/content/entry/TAD0OP-qTqGOKtW0lsVeVg/battle-master-ultimate-warriors-english-translation": {
@@ -4037,7 +4332,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "RHDI"
   },
   "https://romhack.ing/database/content/entry/Z9Nv5JQBNs8FWu0C8ofc/spelunker-ii-yuushahe-no-chousen-english-translation": {
@@ -4347,7 +4642,7 @@
     },
     "pct": 100
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://romhackplaza.org/storage/entries/main-images/O91v5Iz0UkrQQDwUt11gSjMxQbbTNwn8D9SNNcan.png",
    "shots": [
     "https://romhackplaza.org/storage/entries/main-images/O91v5Iz0UkrQQDwUt11gSjMxQbbTNwn8D9SNNcan.png",
@@ -4418,7 +4713,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://romhackplaza.org/storage/entries/main-images/YGNP8pCbEZSu8Yxi8W8WWKa4JllVY0y4Eg5MJHYf.jpg",
    "shots": [
     "https://romhackplaza.org/storage/entries/main-images/YGNP8pCbEZSu8Yxi8W8WWKa4JllVY0y4Eg5MJHYf.jpg",
@@ -4513,7 +4808,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://romhackplaza.org/storage/entries/main-images/Z0K2Rit7sx4tDEczIbduS96u1fq9XknRSOLxB0sg.png",
    "shots": [
     "https://romhackplaza.org/storage/entries/main-images/Z0K2Rit7sx4tDEczIbduS96u1fq9XknRSOLxB0sg.png",
@@ -4601,6 +4896,25 @@
    "upd": "2023-08-04T00:00:00Z",
    "ver": "1.0"
   },
+  "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": {
+   "a": {
+    "cov": "Complete",
+    "ex": {}
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "cover": "https://romhackplaza.org/storage/entries/main-images/X8fI1dLCYznHKjJALbi1gwGYrlntIuDv4WmjbGt7.png",
+   "shots": [
+    "https://romhackplaza.org/storage/entries/main-images/X8fI1dLCYznHKjJALbi1gwGYrlntIuDv4WmjbGt7.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4581/tn5CaY53vXQrRttuzDVFijx6O7GX8bJy8Q6n4KwQ.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4581/vt6q6C6H4khIrLNNodl5Q07KQ8JjWCdr2YckCIsw.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4581/McfQHKk5U5k9K7iddFleFDDWmGppERnGiw1lAWDb.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4581/GFmr0vbGBf7WcbeQRd1wGrVMOeIgXOmVIf4RNXQW.png",
+    "https://romhackplaza.org/storage/entries/gallery-images/4581/vVbre36BqgiIeGCVjrjoXx6MRUUmib3DXoQe9Dop.png"
+   ],
+   "title": "Pocket Fighter - Mini Mix (English Translation) SEGA Saturn",
+   "upd": "2026-10-21T00:00:00Z",
+   "ver": "1.0"
+  },
   "https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": {
    "a": {
     "ex": {},
@@ -4671,7 +4985,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://romhackplaza.org/storage/entries/main-images/sQ4ne6QwTTzu9H8hUHb2s6wpJDxKe90laZo2bbPG.jpg",
    "shots": [
     "https://romhackplaza.org/storage/entries/main-images/sQ4ne6QwTTzu9H8hUHb2s6wpJDxKe90laZo2bbPG.jpg",
@@ -4767,7 +5081,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://romhackplaza.org/storage/entries/main-images/i2m5TYT4TrYQN09ckV5Q8qasljMrwixjAGQ6VHW8.png",
    "shots": [
     "https://romhackplaza.org/storage/entries/main-images/i2m5TYT4TrYQN09ckV5Q8qasljMrwixjAGQ6VHW8.png",
@@ -4777,7 +5091,6 @@
     "https://romhackplaza.org/storage/entries/gallery-images/4557/BcCadrmKwXhfKQfxkcbnaX05ZKbgG80cVzgA3sZt.png",
     "https://romhackplaza.org/storage/entries/gallery-images/4557/ETcx0AeBX5WCzkvVOGtGpMQ9PY4uZd7PzRYrOGtc.png"
    ],
-   "st": "Complete",
    "title": "Street Fighter Alpha 3 (English Translation) SEGA Saturn",
    "upd": "2026-10-15T00:00:00Z",
    "ver": "2.0"
@@ -5016,7 +5329,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "Dark Seed US english Translation",
    "upd": "2026-07-04T00:00:00Z",
    "ver": "1.2"
@@ -5081,7 +5394,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "shots": [
     "https://data.segaxtreme.net/attachments/11/11031-14d3df332143a6daca10e8fde7e6c601.jpg?hash=ZAqaq-AR6c",
     "https://data.segaxtreme.net/attachments/11/11035-7abcae04276fbc51e41a8c198be4ad2e.jpg?hash=U6Bjvs2EU4",
@@ -5160,7 +5473,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "PAL Keio Flying Squadron 2",
    "upd": "2021-11-28T00:00:00Z",
    "ver": "1.0"
@@ -5205,7 +5518,7 @@
     },
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "shots": [
     "https://data.segaxtreme.net/attachments/11/11238-05196872e2f8c37b98960716a17a43d7.jpg?hash=jCEZdbIeGJ",
     "https://data.segaxtreme.net/attachments/11/11239-9d66f66bfba1559e53e70ecf334d771d.jpg?hash=HvwLyRDYtz",
@@ -5236,7 +5549,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "Silhouette Mirage - English RETRANSLATION Patch",
    "upd": "2026-08-27T00:00:00Z",
    "ver": "1.003"
@@ -5498,6 +5811,17 @@
    "checked": "2026-10-22T10:45:22Z",
    "title": "Sonic Hacking Contest :: The SHC2025 Contest :: Sonic Battle Retranslated - SHC2025 Edition :: By Kirbysmith"
   },
+  "https://shrinefox.com/forum/viewtopic.php?f=18&t=492": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "shots": [
+    "https://i.imgur.com/CUjiLdL.gif",
+    "https://i.imgur.com/yWMaXJu.gif"
+   ],
+   "title": "Reincarnation BGM Swap - ShrineFox.com Forum"
+  },
   "https://silentenigma.neocities.org/ff6rose": {
    "a": {
     "ex": {
@@ -5528,7 +5852,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "Summon Night: Swordcraft Story 3 English Translation"
   },
   "https://suikodenwoven.website": {
@@ -5565,7 +5889,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "[PS2 ISO] KOF MAXIMUM IMPACT COLLECTION"
   },
   "https://vk.com/brigandine_every_day": {
@@ -5947,7 +6271,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/f/fa/Blackbutlerpg2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/blackbutlerpg.7z?k33p0fil35",
    "shots": [
@@ -6081,7 +6405,7 @@
     "pct": 100,
     "undub": true
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/3/35/Tsupatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tsupatch.7z",
    "shots": [
@@ -6230,7 +6554,7 @@
     "ex": {},
     "pct": 90
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/6/6d/Crosstreasuresenpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/crosstreasuresenpatch.7z",
    "shots": [
@@ -6347,7 +6671,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/3/34/Kiragamepatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/kiragamepatch.zip",
    "shots": [
@@ -6380,7 +6704,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/dbfci.eng.translation.v1.20.zip",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/dengekibunkovita3.png",
@@ -6460,7 +6784,7 @@
      "fixes": true
     }
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/d/db/Digimonstorylostevolutiondsenglish.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/od_dsle_1.1.zip",
    "shots": [
@@ -7441,7 +7765,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/vita.rebirth3.retranslation.patch_0.90.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/hyperdimension3enggilvita4.png"
@@ -7473,7 +7797,7 @@
     "ex": {},
     "pct": 100
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/iavtcolorfulenglishvita.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/iavtcolorfulenglishvita3.png",
@@ -7598,7 +7922,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/f/f2/JetImpulseEng.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/JetImpulseEng.7z",
    "shots": [
@@ -7865,7 +8189,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/1/1e/Prologuepatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/ProLoguePatch_v1.0.zip",
    "shots": [
@@ -8144,7 +8468,7 @@
     "mtl": true,
     "pct": 100
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/7/75/Maplestorydsenpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/maplestorydsenpatch.7z",
    "shots": [
@@ -8164,7 +8488,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/d/d1/Mcdonaldecdpds.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/mcdonaldecdpds.7z",
    "shots": [
@@ -8399,7 +8723,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/0/07/Mushishienpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/MushishiPatch_v1.0.zip",
    "shots": [
@@ -8508,7 +8832,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/2/28/NarutoRPG2PatchEngTrans.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/NarutoRPG2PatchEngTrans.7z",
    "shots": [
@@ -8740,7 +9064,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/9/9b/Noratranslationds2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/Noratranslationds.7z",
    "shots": [
@@ -8763,7 +9087,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/4/46/Odekakeearthseekereng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/odekake!.go.go.earth.seeker.english.patch_v0100.dsi.zip",
    "shots": [
@@ -8837,7 +9161,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/7/7f/Mamorupatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/mamorupatch1.2.zip",
    "shots": [
@@ -10028,7 +10352,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/4/47/Umiowatarupatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/umiowatarupatch.zip",
    "shots": [
@@ -10047,7 +10371,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/9/98/Kkp3eng.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/KKP3_Eng_v040b.7z",
    "shots": [
@@ -10339,7 +10663,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/3/38/Superrobotwarsweng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/srww11.zip",
    "shots": [
@@ -10667,7 +10991,7 @@
      "subs": true
     }
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/9/99/Chokuretsupatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/chokuretsupatch.7z",
    "shots": [
@@ -11330,7 +11654,7 @@
     "ex": {},
     "pct": 100
    },
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-24T16:05:02Z",
    "cover": "https://www.gamebrew.org/images/e/e3/Zoidssagads2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/zoidssagads.7z",
    "shots": [
@@ -11456,8 +11780,19 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "Patch Clan"
+  },
+  "https://www.phantomriverstone.com/2020/09/shenmue-undub-definitive-edition-video.html": {
+   "a": {
+    "ex": {
+     "restore": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-10-24T16:05:02Z",
+   "title": "Shenmue Undub: Definitive Edition | Video & Download"
   },
   "https://www.pokecommunity.com/showthread.php?t=365959": {
    "checked": "2026-10-24T11:17:05Z",
@@ -11480,14 +11815,14 @@
     "mtl": true,
     "undub": true
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "Project Metafalica 2.0 — Ar tonelico 2 Retranslation"
   },
   "https://www.romhack.ing/database/content/entry/4wWjA83mS1ylM93H-NoGpw/suzuki-bakuhatsu-english-translation": {
    "a": {
     "ex": {}
    },
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "title": "RHDI"
   },
   "https://www.romhacking.net/forum/index.php?topic=29838.0": {
@@ -11716,7 +12051,7 @@
    "checked": "2026-10-23T21:31:12Z"
   },
   "https://www.romhacking.net/translations/1375": {
-   "checked": "2026-10-22T10:24:13Z"
+   "checked": "2026-10-24T16:05:02Z"
   },
   "https://www.romhacking.net/translations/1378": {
    "checked": "2026-10-23T11:50:40Z"
@@ -11970,7 +12305,7 @@
    "checked": "2026-10-23T11:50:40Z"
   },
   "https://www.romhacking.net/translations/1682": {
-   "checked": "2026-10-22T10:24:13Z"
+   "checked": "2026-10-24T16:05:02Z"
   },
   "https://www.romhacking.net/translations/1695": {
    "checked": "2026-10-22T12:06:29Z"
@@ -12192,7 +12527,7 @@
    "checked": "2026-10-23T11:50:40Z"
   },
   "https://www.romhacking.net/translations/2260": {
-   "checked": "2026-10-22T10:24:13Z"
+   "checked": "2026-10-24T16:05:02Z"
   },
   "https://www.romhacking.net/translations/2263": {
    "checked": "2026-10-22T12:22:11Z"
@@ -13321,7 +13656,7 @@
    "checked": "2026-10-23T17:17:32Z"
   },
   "https://www.romhacking.net/translations/6129": {
-   "checked": "2026-10-22T10:24:13Z"
+   "checked": "2026-10-24T16:05:02Z"
   },
   "https://www.romhacking.net/translations/613": {
    "checked": "2026-10-24T04:48:17Z"
@@ -13940,7 +14275,7 @@
    "checked": "2026-10-22T10:45:22Z"
   },
   "https://www.romhacking.net/translations/7628": {
-   "checked": "2026-10-22T10:24:13Z"
+   "checked": "2026-10-24T16:05:02Z"
   },
   "https://www.romhacking.net/translations/763": {
    "checked": "2026-10-22T21:45:23Z"
@@ -13949,7 +14284,7 @@
    "checked": "2026-10-23T17:17:32Z"
   },
   "https://www.romhacking.net/translations/7640": {
-   "checked": "2026-10-22T10:24:13Z"
+   "checked": "2026-10-24T16:05:02Z"
   },
   "https://www.romhacking.net/translations/766": {
    "checked": "2026-10-23T05:03:31Z"
@@ -13958,7 +14293,7 @@
    "checked": "2026-10-22T10:45:22Z"
   },
   "https://www.romhacking.net/translations/7692": {
-   "checked": "2026-10-22T10:24:13Z"
+   "checked": "2026-10-24T16:05:02Z"
   },
   "https://www.romhacking.net/translations/774": {
    "checked": "2026-10-22T10:45:22Z"
@@ -13968,13 +14303,13 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/7758": {
-   "checked": "2026-10-22T10:24:13Z"
+   "checked": "2026-10-24T16:05:02Z"
   },
   "https://www.romhacking.net/translations/781": {
    "checked": "2026-10-23T11:50:40Z"
   },
   "https://www.romhacking.net/translations/7838": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-24T16:05:02Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/7898": {
@@ -14021,7 +14356,7 @@
    "checked": "2026-10-23T11:50:40Z"
   },
   "https://www.romhacking.net/translations/859": {
-   "checked": "2026-10-22T10:24:13Z"
+   "checked": "2026-10-24T16:05:02Z"
   },
   "https://www.romhacking.net/translations/86": {
    "checked": "2026-10-22T10:45:22Z"

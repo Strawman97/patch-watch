@@ -1045,6 +1045,12 @@
    "region": "Europe",
    "url": "https://images.launchbox-app.com/ef4e2712-6155-467b-864a-c55205d18556.jpg"
   },
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "id": "7044",
+   "name": "Sonic Gems Collection",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/8920d704-e2de-4163-a4d6-d3597dbc05db.jpg"
+  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "id": "4422",
    "name": "Ace Combat Zero: The Belkan War",
@@ -1062,12 +1068,6 @@
    "name": "AeroWings",
    "region": "North America",
    "url": "https://images.launchbox-app.com/3ee6b5b4-bfcd-4fc6-aa7c-8621c58efb37.jpg"
-  },
-  "link:https://archive.org/details/air-english-patch-psp": {
-   "id": "166211",
-   "name": "Air",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/6a38612a-4371-403f-aeed-36c4bc5d81ec.jpg"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "id": "5870",
@@ -1279,6 +1279,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/67725e3f-0c3c-494f-9a1d-57ccbab26e83.jpg"
   },
+  "link:https://archive.org/details/bulk-slash-english-patch": {
+   "id": "23764",
+   "name": "Bulk Slash",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/d6d6430e-3ec5-429d-bb2d-7dea4a3b19eb.jpg"
+  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "id": "23380",
    "name": "Castle of Shikigami III",
@@ -1392,12 +1398,6 @@
    "name": "Doshin the Giant",
    "region": "Europe",
    "url": "https://images.launchbox-app.com/r2_e395b1c8-e697-45cc-8ade-2e0f396fc0c9.png"
-  },
-  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
-   "id": "7222",
-   "name": "Dragon Ball Z: Budokai",
-   "region": "North America",
-   "url": "https://images.launchbox-app.com/0cf4679d-281f-4e22-b3fe-943e6997febc.jpg"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "id": "20572",
@@ -1722,6 +1722,12 @@
    "name": "Hexyz Force",
    "region": "North America",
    "url": "https://images.launchbox-app.com/fc8f4cb0-33e4-4926-a38c-110b969fcede.jpg"
+  },
+  "link:https://archive.org/details/industrial_spy_oe_undub_patch": {
+   "id": "9867",
+   "name": "Industrial Spy: Operation Espionage",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/47f00f53-c2bf-47df-84c2-89be6a1bb918.jpg"
   },
   "link:https://archive.org/details/jade_cocoon_2_undub_patch": {
    "id": "12897",
@@ -2053,12 +2059,6 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/9152da1a-ae96-4b74-826f-d15d9677438e.jpg"
   },
-  "link:https://archive.org/details/sengokubasara3utageenglish": {
-   "id": "16496",
-   "name": "Sengoku Basara 3: Utage",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
-  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "id": "12407",
    "name": "Seven Samurai 20XX",
@@ -2383,6 +2383,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/5365ed5f-548e-4012-bce4-38649d78ffec.jpg"
   },
+  "link:https://assemblergames.com/threads/rel-ps2-disaster-report-sos-undub-patches-ntsc-u-pal-multi3.70477": {
+   "id": "7214",
+   "name": "SOS: The Final Escape",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/fdcac518-2152-418b-91fd-ecaca2e8fd47.jpg"
+  },
   "link:https://boosty.to/plissken/posts/d68bdccd-f184-44ff-9216-7718f5f0993e": {
    "id": "31365",
    "name": "Baroque",
@@ -2641,6 +2647,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/af66c194-c54b-4b59-8d8b-0982a677ea3e.jpg"
   },
+  "link:https://gbatemp.net/threads/completed-legend-of-heroes-trails-in-the-sky-sc-psp-undub.445307": {
+   "id": "34355",
+   "name": "The Legend of Heroes: Trails in the Sky SC",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/c40890d3-a500-41fb-8a20-b6f84f8a813f.jpg"
+  },
   "link:https://gbatemp.net/threads/dragon-drive-d-masters-shot-gamecube-project.659079": {
    "id": "33971",
    "name": "Dragon Drive: D-Masters Shot",
@@ -2682,6 +2694,18 @@
    "name": "Yo-Kai Watch 4",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/44be7c3b-9217-4c15-be5e-1a0c90c90b91.png"
+  },
+  "link:https://gbatemp.net/threads/inazuma-eleven-2-blizzard-remastered-version.324476": {
+   "id": "11257",
+   "name": "Inazuma Eleven 2: Blizzard",
+   "region": "Europe",
+   "url": "https://images.launchbox-app.com/7ccb2ae1-5d6f-4efa-b2ff-1cd9b4eb5793.jpg"
+  },
+  "link:https://gbatemp.net/threads/inazuma-eleven-remastered-version.282494": {
+   "id": "11256",
+   "name": "Inazuma Eleven",
+   "region": "Europe",
+   "url": "https://images.launchbox-app.com/64daeb5d-fbc2-4f47-9a9d-c6a1533e6dac.jpg"
   },
   "link:https://gbatemp.net/threads/itadaki-street-ds-menu-translation.658699": {
    "id": "143229",
@@ -2737,6 +2761,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/b59a97c3-d529-4b68-a931-4ff50117bd6c.jpg"
   },
+  "link:https://gbatemp.net/threads/release-persona-2-innocent-sin-undub-addendum.472919": {
+   "id": "13136",
+   "name": "Shin Megami Tensei: Persona 2: Innocent Sin",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/67fe1835-9961-4590-a3b1-3dd4c0254f51.jpg"
+  },
   "link:https://gbatemp.net/threads/release-princess-guide-jp-pcsg01163-english-beta-patcher-v0-8b.543683": {
    "id": "455823",
    "name": "Anata no Shikihime Kyoudoutan",
@@ -2766,6 +2796,12 @@
    "name": "영웅전설: 하늘의 궤적 SC Evolution",
    "region": "Korea",
    "url": "https://images.launchbox-app.com/3f37e774-9aee-437d-ba20-f922a86efc55.png"
+  },
+  "link:https://gbatemp.net/threads/rockman-zx-advent-mega-man-zx-advent-full-undub.492716": {
+   "id": "6845",
+   "name": "Rockman ZX: Advent",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/87092419-222f-4d9f-b2a0-9ce19119a55f.jpg"
   },
   "link:https://gbatemp.net/threads/super-robot-taisen-k-translation-contuinues.156951": {
    "id": "133240",
@@ -3481,6 +3517,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/6b7af778-7309-41be-aee9-19e0356fc607.jpg"
   },
+  "link:https://segaxtreme.net/threads/magic-knight-rayearth-uj-final-version-region-free.16645": {
+   "id": "11295",
+   "name": "Magic Knight Rayearth",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/3e4dee80-f528-422c-be62-1aebc6561871.jpg"
+  },
   "link:https://segaxtreme.net/threads/sega-saturn-28th-anniversary-game-competition.25278": {
    "id": "146544",
    "name": "Sakura Taisen 2: Kimi, Shinitamou Koto Nakare",
@@ -3606,6 +3648,18 @@
    "name": "Divi-Dead",
    "region": "World",
    "url": "https://images.launchbox-app.com/2abfb971-f54d-4929-9cfd-75d6ef0f7435.jpg"
+  },
+  "link:https://web.archive.org/web/20180926083038/https://www.reddit.com/r/Megaten/comments/83a1el/digital_devil_saga_2_undub_v10_release": {
+   "id": "12547",
+   "name": "Shin Megami Tensei: Digital Devil Saga 2",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/r2_2dfed156-dc25-43ce-ad5e-bb38489f0f2a.jpg"
+  },
+  "link:https://web.archive.org/web/20190504074559/https://blacklabel-translations.com/archives/734": {
+   "id": "15239",
+   "name": "Valkyrie Profile: Lenneth",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/b54c08fa-27f0-4925-b56d-cea574191eab.jpg"
   },
   "link:https://web.archive.org/web/20191229213424/https://www.startrinket.com/medabotsr": {
    "id": "160259",
@@ -10105,6 +10159,12 @@
    "region": "",
    "url": "https://images.launchbox-app.com/6768053d-4f2e-4e54-adbe-74f1845a286c.jpg"
   },
+  "minhnhattonthat/rokudenashi-blues-en": {
+   "id": "131268",
+   "name": "Rokudenashi Blues: Taiketsu! Tokyo Shitennou",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/660aafd0-2db7-4e51-a8bf-b0c96e18b429.png"
+  },
   "minhnhattonthat/sugoro-quest-dicenics-en": {
    "id": "139640",
    "name": "Sugoro Quest++: Dicenics",
@@ -10334,6 +10394,6 @@
    "url": "https://images.launchbox-app.com/1fc02d4f-8dbd-4e2e-a2db-9e7125a10ca1.jpg"
   }
  },
- "generated": "2026-10-24T11:17:05Z",
+ "generated": "2026-10-24T16:05:02Z",
  "version": 1
 }
