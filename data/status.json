@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-24T20:58:53Z",
+ "generated": "2026-10-24T23:24:07Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -287,7 +287,7 @@
     "lang": "Batchfile",
     "pushed": "2026-10-07T03:07:45Z",
     "size": 523923,
-    "stars": 18
+    "stars": 19
    },
    "shots": []
   },
@@ -1281,7 +1281,7 @@
     "full": "damon-daemon/nobunaga-soutenroku-puk-english",
     "lang": "Python",
     "pushed": "2026-10-24T20:13:28Z",
-    "size": 1927,
+    "size": 1933,
     "stars": 1
    },
    "shots": [
@@ -1343,10 +1343,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-18T21:52:56Z",
+    "date": "2026-10-24T23:07:12Z",
     "pre": true,
-    "tag": "v0.9.1",
-    "url": "https://github.com/damon-daemon/sangokushi-ds-3-english/releases/tag/v0.9.1"
+    "tag": "v0.9.2",
+    "url": "https://github.com/damon-daemon/sangokushi-ds-3-english/releases/tag/v0.9.2"
    },
    "repo": {
     "archived": false,
@@ -1354,8 +1354,8 @@
     "desc": "English fan translation patch for Romance of the Three Kingdoms DS 3 (Sangokushi DS 3, Nintendo DS)",
     "full": "damon-daemon/sangokushi-ds-3-english",
     "lang": "Python",
-    "pushed": "2026-10-24T20:38:52Z",
-    "size": 1417,
+    "pushed": "2026-10-24T23:07:12Z",
+    "size": 1443,
     "stars": 2
    },
    "shots": [
@@ -3693,6 +3693,38 @@
    },
    "shots": []
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-24T13:36:52Z",
+    "pre": true,
+    "tag": "0.8.8",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-24T13:36:51Z",
+    "size": 37425,
+    "stars": 17
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -4215,6 +4247,39 @@
     "stars": 8
    },
    "shots": []
+  },
+  "liliambean/s3unlocked": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "gameplay": true,
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2018-02-02T15:22:03Z",
+    "desc": "Sonic 3 Unlocked",
+    "full": "liliambean/s3unlocked",
+    "lang": "Assembly",
+    "pushed": "2026-10-22T23:04:34Z",
+    "size": 85042,
+    "stars": 93
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
+    "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/char-amy.png",
+    "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/char-mighty.png",
+    "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/char-ray.png",
+    "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/encore-swap.png",
+    "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/chars-main.png"
+   ]
   },
   "m-mayday/atelier-marie-gb": {
    "assetOs": {},
@@ -5183,7 +5248,7 @@
     "lang": "Batchfile",
     "pushed": "2026-07-25T14:02:10Z",
     "size": 1336,
-    "stars": 10
+    "stars": 11
    },
    "shots": []
   },
