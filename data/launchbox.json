@@ -457,6 +457,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/58f88413-8d84-4794-b598-b2fb7f8b3ab9.jpg"
   },
+  "karas84/projectzeroundub": {
+   "id": "7250",
+   "name": "Project Zero",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/49185e9d-a99a-4bd8-a9d0-a57fa983fd90.jpg"
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "id": "135230",
    "name": "Metal Gear Solid 3: Snake Eater: HD Edition",
@@ -546,6 +552,12 @@
    "name": "Code Geass Lelouch of the Rebellion: Lost Colors",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/6286c9c4-1d9d-4c48-b32f-f25c10c3cc07.jpg"
+  },
+  "link:http://crazycatz00.x10host.com/KH/kh2_patches.html": {
+   "id": "480217",
+   "name": "Kingdom Hearts II: Final Mix",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_06ac2edc-3cde-426b-9618-4e16ab5413b3.png"
   },
   "link:http://cubanraul.altervista.org/drac": {
    "id": "16793",
@@ -1033,17 +1045,29 @@
    "region": "Europe",
    "url": "https://images.launchbox-app.com/ef4e2712-6155-467b-864a-c55205d18556.jpg"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "id": "7044",
-   "name": "Sonic Gems Collection",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/8920d704-e2de-4163-a4d6-d3597dbc05db.jpg"
+  "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
+   "id": "4422",
+   "name": "Ace Combat Zero: The Belkan War",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/cda02639-c6f4-4aff-8f5b-1d162e6fe288.jpg"
+  },
+  "link:https://archive.org/details/aerowings_2_undub_patch": {
+   "id": "19317",
+   "name": "AeroWings 2: Air Strike",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/3c1e8964-ae6e-4113-b2b5-025b2ea8b96e.jpg"
   },
   "link:https://archive.org/details/aerowings_undub_patch": {
    "id": "19308",
    "name": "AeroWings",
    "region": "North America",
    "url": "https://images.launchbox-app.com/3ee6b5b4-bfcd-4fc6-aa7c-8621c58efb37.jpg"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "id": "166211",
+   "name": "Air",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/6a38612a-4371-403f-aeed-36c4bc5d81ec.jpg"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "id": "5870",
@@ -1195,6 +1219,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/88d34812-762f-4646-9854-3622fee87d10.jpg"
   },
+  "link:https://archive.org/details/avalon_code_undub_patch": {
+   "id": "6576",
+   "name": "Avalon Code",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/5e633241-d207-4b26-a33d-80a27f6a60f9.jpg"
+  },
   "link:https://archive.org/details/baroque_ps2_undub_patch": {
    "id": "12947",
    "name": "Baroque",
@@ -1248,12 +1278,6 @@
    "name": "Bujingai: The Forsaken City",
    "region": "North America",
    "url": "https://images.launchbox-app.com/67725e3f-0c3c-494f-9a1d-57ccbab26e83.jpg"
-  },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "id": "23764",
-   "name": "Bulk Slash",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/d6d6430e-3ec5-429d-bb2d-7dea4a3b19eb.jpg"
   },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "id": "23380",
@@ -1369,6 +1393,12 @@
    "region": "Europe",
    "url": "https://images.launchbox-app.com/r2_e395b1c8-e697-45cc-8ade-2e0f396fc0c9.png"
   },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "id": "7222",
+   "name": "Dragon Ball Z: Budokai",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/0cf4679d-281f-4e22-b3fe-943e6997febc.jpg"
+  },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "id": "20572",
    "name": "Dragon Ball Z: Tenkaichi Tag Team",
@@ -1465,6 +1495,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/f31131e7-a8b7-4877-b051-8ad5d09e13b1.jpg"
   },
+  "link:https://archive.org/details/dynasty_warriors_psp_undub": {
+   "id": "18974",
+   "name": "Dynasty Warriors",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/1e209521-9231-464f-9ac9-3eac39809034.jpg"
+  },
   "link:https://archive.org/details/dynasty_warriors_sf_ps3_undub_patch": {
    "id": "12362",
    "name": "Dynasty Warriors: Strikeforce",
@@ -1476,6 +1512,12 @@
    "name": "Dynasty Warriors: Strikeforce",
    "region": "North America",
    "url": "https://images.launchbox-app.com/b221c72b-3ba8-413d-a3bc-525919b84e89.jpg"
+  },
+  "link:https://archive.org/details/dynasty_warriors_vol2_undub_patch": {
+   "id": "13939",
+   "name": "Dynasty Warriors Vol. 2",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/f214b9bc-9b27-4f83-a2f2-a30262a6dfff.jpg"
   },
   "link:https://archive.org/details/earth_defense_force_3_vita_undub_patch": {
    "id": "14350",
@@ -1591,6 +1633,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/e3c54ee0-396b-4e88-8725-9a927c777e21.jpg"
   },
+  "link:https://archive.org/details/finny_the_fish_undub_patch": {
+   "id": "9691",
+   "name": "Finny the Fish & the Seven Waters",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/e83f1bb6-9850-4876-a6a6-a7d16b1e2efe.jpg"
+  },
   "link:https://archive.org/details/forever_kingdom_undub_patch": {
    "id": "12780",
    "name": "Forever Kingdom",
@@ -1627,6 +1675,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/d8860359-190d-4ac6-a81a-8bbf28b4fb35.jpg"
   },
+  "link:https://archive.org/details/grandia_ii_dc_undub_patch": {
+   "id": "2415",
+   "name": "Grandia II",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/f12bedef-1425-4b78-8ba4-c95c88fd58ee.jpg"
+  },
   "link:https://archive.org/details/gregory_horror_show_undub_patch": {
    "id": "29918",
    "name": "Gregory Horror Show",
@@ -1657,6 +1711,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/20d3034e-647a-4852-9395-055a592595a9.jpg"
   },
+  "link:https://archive.org/details/hellnight_undub_patch": {
+   "id": "14022",
+   "name": "Hellnight",
+   "region": "Europe",
+   "url": "https://images.launchbox-app.com/9ecd52a5-a17c-448d-bd88-0ae05f336b08.jpg"
+  },
   "link:https://archive.org/details/hexyz_force_undub_patch": {
    "id": "13654",
    "name": "Hexyz Force",
@@ -1686,6 +1746,18 @@
    "name": "Kingdom Hearts: Chain of Memories",
    "region": "North America",
    "url": "https://images.launchbox-app.com/2461ecef-9ddd-498d-ae89-ec20dadbeff8.jpg"
+  },
+  "link:https://archive.org/details/kings_field_2_and_3_oped_undub_patches": {
+   "id": "556",
+   "name": "King's Field II",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/0e75cff0-1bff-4e9f-8342-13cfb1059818.jpg"
+  },
+  "link:https://archive.org/details/kings_field_iv_undub_patch": {
+   "id": "12658",
+   "name": "King's Field: The Ancient City",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/45170b8b-aa6c-43fa-bc43-029230e1f164.jpg"
   },
   "link:https://archive.org/details/kirbys_epic_yarn_undub_patch": {
    "id": "5608",
@@ -1783,11 +1855,23 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/d13ef22a-8593-4f91-be55-2ce1080c8243.jpg"
   },
+  "link:https://archive.org/details/mischief_makers_undub_patch": {
+   "id": "1143",
+   "name": "Mischief Makers",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/70f42fd2-1a2d-4fb1-bfd9-26aa531de033.jpg"
+  },
   "link:https://archive.org/details/mr_driller_2_gba_undub_patch": {
    "id": "14696",
    "name": "Mr. Driller 2",
    "region": "North America",
    "url": "https://images.launchbox-app.com/60440e01-ed51-4ba7-b6b0-5f79b0754d43.jpg"
+  },
+  "link:https://archive.org/details/ms_saga_undub_patch": {
+   "id": "12910",
+   "name": "MS Saga: A New Dawn",
+   "region": "",
+   "url": "https://images.launchbox-app.com/6f5772c2-0391-4f8e-a43e-ff3f72022f5e.jpg"
   },
   "link:https://archive.org/details/mystic_heroes_undub_patch_ps2": {
    "id": "9750",
@@ -1861,6 +1945,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/8a1b05d5-4af8-46f8-be28-1568f497cdc5.jpg"
   },
+  "link:https://archive.org/details/phantasy_star_universe_ps2_undub_patch": {
+   "id": "9354",
+   "name": "Phantasy Star Universe",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/9dae28b0-d065-49f1-a9b5-9c44079d404f.jpg"
+  },
   "link:https://archive.org/details/phantasy_star_zero_undub_patch": {
    "id": "11389",
    "name": "Phantasy Star 0",
@@ -1915,6 +2005,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/cb3057ee-ffcf-4545-abac-f5be242ae2b1.jpg"
   },
+  "link:https://archive.org/details/raw_danger_undub_patch": {
+   "id": "12935",
+   "name": "Raw Danger!",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/71e9b149-987c-452d-af34-b2a7a51ea6fa.jpg"
+  },
   "link:https://archive.org/details/riviera_gba_undub_patch": {
    "id": "3498",
    "name": "Riviera: The Promised Land",
@@ -1957,6 +2053,18 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/9152da1a-ae96-4b74-826f-d15d9677438e.jpg"
   },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "id": "16496",
+   "name": "Sengoku Basara 3: Utage",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
+  },
+  "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
+   "id": "12407",
+   "name": "Seven Samurai 20XX",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/2fd9578c-42e8-48d3-95d0-5c6d0633d976.png"
+  },
   "link:https://archive.org/details/shadow_hearts_undub_patch": {
    "id": "12753",
    "name": "Shadow Hearts",
@@ -1968,6 +2076,12 @@
    "name": "Shadow Tower: Abyss",
    "region": "",
    "url": "https://images.launchbox-app.com/b16f91e5-eabc-4109-843b-5d4ca1904f31.jpg"
+  },
+  "link:https://archive.org/details/shadow_tower_undub_patch": {
+   "id": "12650",
+   "name": "Shadow Tower",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/r2_51540e8d-9784-4a5d-bb7a-1b15a2f5c0e5.jpg"
   },
   "link:https://archive.org/details/shadowrun-english-pal": {
    "id": "23755",
@@ -2004,6 +2118,12 @@
    "name": "Silent Bomber",
    "region": "North America",
    "url": "https://images.launchbox-app.com/67cf6264-8dae-4323-904f-eb1f20a5375a.jpg"
+  },
+  "link:https://archive.org/details/silhouette_mirage_undub_patch": {
+   "id": "13611",
+   "name": "Silhouette Mirage",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/9f927dbc-4dcd-43af-9130-dcc705f98e89.jpg"
   },
   "link:https://archive.org/details/skies_of_arcadia_gc_undub_patch": {
    "id": "6269",
@@ -2221,6 +2341,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/454bed8f-587d-465a-ace8-3cf7d47d29b7.jpg"
   },
+  "link:https://archive.org/details/virtua_quest_ps2_undub_patch": {
+   "id": "123364",
+   "name": "Virtua Quest",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/0bb6f19e-a370-465f-a72d-d0e2896417c5.jpg"
+  },
   "link:https://archive.org/details/warriors_orochi_2_ps2_undub_patch": {
    "id": "23860",
    "name": "Warriors Orochi 2",
@@ -2238,6 +2364,12 @@
    "name": "Way of the Samurai 2",
    "region": "North America",
    "url": "https://images.launchbox-app.com/be15483a-c25a-4e6e-bf96-f4e14d807148.jpg"
+  },
+  "link:https://archive.org/details/wild_arms_3_jp_oped_patch": {
+   "id": "12908",
+   "name": "Wild Arms 3",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/e2b43086-a473-4c7a-bb84-9ccd4ed7cb51.jpg"
   },
   "link:https://archive.org/details/ys6_ps2_pal_undub_patch": {
    "id": "23819",
@@ -2467,11 +2599,23 @@
    "region": "World",
    "url": "https://images.launchbox-app.com/d5466b28-0be5-4d5e-9bd2-c8bb81c8d45b.png"
   },
+  "link:https://gadesxscene.blogspot.com/2022/10/baten-kaitos-origins-1a-version-publica.html": {
+   "id": "5832",
+   "name": "Baten Kaitos Origins",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/43c10f43-5dbe-4269-b752-bc3a5d7fdfc0.jpg"
+  },
   "link:https://gamebanana.com/mods/365725": {
    "id": "9715",
    "name": "Kingdom Hearts: Final Mix",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/2ed252b2-a65d-4b60-afea-be749ed2c5d7.png"
+  },
+  "link:https://gamebanana.com/sounds/41992": {
+   "id": "6870",
+   "name": "Puyo Pop Fever",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/1c697f0a-f5d3-4fef-a08a-0c7e87f80b48.jpg"
   },
   "link:https://gbatemp.net/threads/another-dragonball-kai-ultimate-butouden-translation.278158/page-40": {
    "id": "27822",
@@ -2772,12 +2916,6 @@
    "name": "Shin Megami Tensei II",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_eb0434bf-3622-4c34-aa96-81e2cbb361fa.jpg"
-  },
-  "link:https://rhadvance.github.io": {
-   "id": "21086",
-   "name": "Rhythm Heaven",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/3aaf8507-ea3e-42c5-a27f-c0202019a3a1.jpg"
   },
   "link:https://rhpz.org/26004": {
    "id": "132133",
@@ -3390,6 +3528,12 @@
    "name": "Shining Force III Scenario 1: Outo no Kyoshin",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/f99dd516-86db-4485-820e-cf81e77db699.jpg"
+  },
+  "link:https://shrinefox.com/forum/viewtopic.php?f=18&t=492": {
+   "id": "15011",
+   "name": "Shin Megami Tensei: Persona 3 Portable",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/r2_3c6d293f-8de8-44e9-be76-c74f0e44cf57.jpg"
   },
   "link:https://silentenigma.neocities.org/ff6rose": {
    "id": "462775",
@@ -5082,6 +5226,12 @@
    "name": "Taekwon-Do",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/76e0e158-b322-49b9-85b9-a0c430f8b945.png"
+  },
+  "link:https://www.phantomriverstone.com/2020/09/shenmue-undub-definitive-edition-video.html": {
+   "id": "430",
+   "name": "Shenmue",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/ff89b02e-8cad-414d-aacf-28dd7e674cb1.jpg"
   },
   "link:https://www.pokecommunity.com/showthread.php?t=365959": {
    "id": "128842",
@@ -10047,7 +10197,7 @@
   },
   "rhadvance/rhythmheavenadvance": {
    "id": "21086",
-   "name": "Rhythm Heaven Advance",
+   "name": "Rhythm Heaven",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/3aaf8507-ea3e-42c5-a27f-c0202019a3a1.jpg"
   },
@@ -10184,6 +10334,6 @@
    "url": "https://images.launchbox-app.com/1fc02d4f-8dbd-4e2e-a2db-9e7125a10ca1.jpg"
   }
  },
- "generated": "2026-10-24T04:48:17Z",
+ "generated": "2026-10-24T11:17:05Z",
  "version": 1
 }

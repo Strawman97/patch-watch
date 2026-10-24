@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-24T04:48:17Z",
+ "generated": "2026-10-24T11:17:05Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9553,6 +9553,17 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-10-24T04:48:17Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -11428,8 +11439,9 @@
   {
    "d": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
    "fa": "2026-10-22T12:22:11Z",
-   "g": "Rhythm Heaven Advance",
+   "g": "Rhythm Heaven",
    "id": "rhadvance/rhythmheavenadvance",
+   "jp": "リズム天国",
    "k": "rhadvance/rhythmheavenadvance",
    "l": "https://github.com/RHAdvance/RhythmHeavenAdvance",
    "lb": [
@@ -12120,6 +12132,57 @@
    ],
    "p": "DS",
    "src": "GitHub"
+  },
+  {
+   "d": "Work in progress",
+   "fa": "2026-10-24T04:48:17Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Velldeselba Senki - Tsubasa no Kunshou (PSX)",
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Velldeselba Senki",
+   "id": "minhnhattonthat/velldeselba-senki",
+   "k": "minhnhattonthat/velldeselba-senki",
+   "l": "https://github.com/minhnhattonthat/velldeselba-senki",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "Shining Soul II (GBA) modding environment: English translation of the CN mod baseline, gameplay mods with source, research docs and tooling. No ROMs included.",
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "SS2 Modding Environment",
+   "id": "ddhuet/ss2-modding-environment",
+   "k": "ddhuet/ss2-modding-environment",
+   "l": "https://github.com/Ddhuet/SS2-Modding-Environment",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Project Zero",
+   "id": "karas84/projectzeroundub",
+   "k": "karas84/projectzeroundub",
+   "l": "https://github.com/karas84/ProjectZeroUndub",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
   },
   {
    "fa": "2026-10-22T09:57:51Z",
@@ -13463,30 +13526,6 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-10-24T04:48:17Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-10-24T04:48:17Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
    "fa": "2026-10-24T04:48:17Z",
    "g": "Mana Khemia 2: Ochita Gakuen to Renkinjutsushi Tachi Portable+",
    "grp": "(s): JM3000",
@@ -13497,6 +13536,275 @@
     "Human translation"
    ],
    "p": "PSP",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-10-24T04:48:17Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-10-24T04:48:17Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-10-24T04:48:17Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Raw Danger",
+   "id": "link:https://archive.org/details/raw_danger_undub_patch",
+   "l": "https://archive.org/details/raw_danger_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Ace Combat Zero: The Belkan War",
+   "id": "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch",
+   "l": "https://archive.org/details/ace-combat-zero-ntsc-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Finny the Fish & the Seven Waters",
+   "id": "link:https://archive.org/details/finny_the_fish_undub_patch",
+   "l": "https://archive.org/details/finny_the_fish_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Avalon Code",
+   "id": "link:https://archive.org/details/avalon_code_undub_patch",
+   "l": "https://archive.org/details/avalon_code_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Mischief Makers",
+   "id": "link:https://archive.org/details/mischief_makers_undub_patch",
+   "l": "https://archive.org/details/mischief_makers_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "N64",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Seven Samurai 20XX",
+   "id": "link:https://archive.org/details/seven_samurai_20XX_undub_patch",
+   "l": "https://archive.org/details/seven_samurai_20XX_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Phantasy Star Universe",
+   "id": "link:https://archive.org/details/phantasy_star_universe_ps2_undub_patch",
+   "l": "https://archive.org/details/phantasy_star_universe_ps2_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "AeroWings 2: Air Strike",
+   "id": "link:https://archive.org/details/aerowings_2_undub_patch",
+   "l": "https://archive.org/details/aerowings_2_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "Dreamcast",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Grandia II",
+   "grp": "AnoHito",
+   "id": "link:https://archive.org/details/grandia_ii_dc_undub_patch",
+   "l": "https://archive.org/details/grandia_ii_dc_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "Dreamcast",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Silhouette Mirage",
+   "id": "link:https://archive.org/details/silhouette_mirage_undub_patch",
+   "l": "https://archive.org/details/silhouette_mirage_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Shadow Tower",
+   "id": "link:https://archive.org/details/shadow_tower_undub_patch",
+   "l": "https://archive.org/details/shadow_tower_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "King's Field II",
+   "id": "link:https://archive.org/details/kings_field_2_and_3_oped_undub_patches",
+   "l": "https://archive.org/details/kings_field_2_and_3_oped_undub_patches",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Virtua Quest",
+   "id": "link:https://archive.org/details/virtua_quest_ps2_undub_patch",
+   "l": "https://archive.org/details/virtua_quest_ps2_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Wild Arms 3",
+   "id": "link:https://archive.org/details/wild_arms_3_jp_oped_patch",
+   "l": "https://archive.org/details/wild_arms_3_jp_oped_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "King's Field: The Ancient City",
+   "id": "link:https://archive.org/details/kings_field_iv_undub_patch",
+   "l": "https://archive.org/details/kings_field_iv_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "MS Saga: A New Dawn",
+   "id": "link:https://archive.org/details/ms_saga_undub_patch",
+   "l": "https://archive.org/details/ms_saga_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "E.O.E - Eve of Extinction",
+   "id": "link:https://archive.org/details/eoe_eve_of_extinction_undub_patch",
+   "l": "https://archive.org/details/eoe_eve_of_extinction_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Dynasty Warriors Vol. 2",
+   "id": "link:https://archive.org/details/dynasty_warriors_vol2_undub_patch",
+   "l": "https://archive.org/details/dynasty_warriors_vol2_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PSP",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Dynasty Warriors",
+   "id": "link:https://archive.org/details/dynasty_warriors_psp_undub",
+   "l": "https://archive.org/details/dynasty_warriors_psp_undub",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PSP",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Hellnight",
+   "id": "link:https://archive.org/details/hellnight_undub_patch",
+   "l": "https://archive.org/details/hellnight_undub_patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS1",
    "src": "Credited on CDRomance"
   },
   {
@@ -13738,18 +14046,6 @@
     "Human translation"
    ],
    "p": "SNES",
-   "src": "Credited on CDRomance"
-  },
-  {
-   "fa": "2026-10-22T10:24:13Z",
-   "g": "Rhythm Heaven",
-   "grp": "(s): ShaffySwitcher",
-   "id": "link:https://rhadvance.github.io",
-   "l": "https://rhadvance.github.io",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GBA",
    "src": "Credited on CDRomance"
   },
   {
@@ -15179,6 +15475,73 @@
    "l": "https://twinbrave-translation.tumblr.com",
    "lb": [
     "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Kingdom Hearts II: Final Mix",
+   "id": "link:http://crazycatz00.x10host.com/KH/kh2_patches.html",
+   "jp": "キングダムハーツＩＩファイナルミックス",
+   "l": "http://crazycatz00.x10host.com/KH/kh2_patches.html",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Persona 2: Innocent Sin - DLC enabler mod",
+   "id": "link:https://gamebanana.com/mods/458681",
+   "l": "https://gamebanana.com/mods/458681",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PSP",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Shenmue",
+   "id": "link:https://www.phantomriverstone.com/2020/09/shenmue-undub-definitive-edition-video.html",
+   "l": "https://www.phantomriverstone.com/2020/09/shenmue-undub-definitive-edition-video.html",
+   "lb": [
+    "Undub"
+   ],
+   "p": "Dreamcast",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Puyo Pop Fever",
+   "id": "link:https://gamebanana.com/sounds/41992",
+   "l": "https://gamebanana.com/sounds/41992",
+   "lb": [
+    "Undub"
+   ],
+   "p": "DS",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Baten Kaitos Origins",
+   "id": "link:https://gadesxscene.blogspot.com/2022/10/baten-kaitos-origins-1a-version-publica.html",
+   "l": "https://gadesxscene.blogspot.com/2022/10/baten-kaitos-origins-1a-version-publica.html",
+   "lb": [
+    "Undub"
+   ],
+   "p": "GameCube",
+   "src": "Credited on CDRomance"
+  },
+  {
+   "fa": "2026-10-24T11:17:05Z",
+   "g": "Shin Megami Tensei: Persona 3 Portable",
+   "id": "link:https://shrinefox.com/forum/viewtopic.php?f=18&t=492",
+   "l": "https://shrinefox.com/forum/viewtopic.php?f=18&t=492",
+   "lb": [
+    "Undub"
    ],
    "p": "PSP",
    "src": "Credited on CDRomance"

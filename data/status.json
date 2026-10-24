@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-24T04:48:17Z",
+ "generated": "2026-10-24T11:17:05Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -316,7 +316,7 @@
     "full": "Akoi89/puyopuyotetris-3ds-english-patch",
     "lang": "Python",
     "pushed": "2026-10-24T04:34:58Z",
-    "size": 347,
+    "size": 386,
     "stars": 2
    },
    "shots": []
@@ -1319,7 +1319,7 @@
     "lang": "Python",
     "pushed": "2026-10-21T19:31:53Z",
     "size": 1484,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/sangokushi-6-puk-english/HEAD/docs/screenshots/01_main_menu.png",
@@ -1752,7 +1752,7 @@
     "lang": null,
     "pushed": "2021-11-20T00:24:01Z",
     "size": 1749,
-    "stars": 15
+    "stars": 16
    },
    "shots": []
   },
@@ -3558,8 +3558,8 @@
     "desc": "Summon Night 1 (NDS) Translation work",
     "full": "Kaisaan/SN1-DS-Trans",
     "lang": "Python",
-    "pushed": "2026-10-05T06:25:56Z",
-    "size": 28658,
+    "pushed": "2026-10-24T06:20:56Z",
+    "size": 28659,
     "stars": 2
    },
    "shots": []
@@ -3638,40 +3638,8 @@
     "full": "KDE/l10n-nds",
     "lang": "Shell",
     "pushed": "2026-10-24T04:16:09Z",
-    "size": 253077,
+    "size": 253095,
     "stars": 0
-   },
-   "shots": []
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Complete",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-23T01:01:46Z",
-    "pre": true,
-    "tag": "0.8.7",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.7"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-23T01:01:45Z",
-    "size": 36481,
-    "stars": 17
    },
    "shots": []
   },
@@ -3857,7 +3825,7 @@
     "full": "lifebottle/Narikiri-Dungeon-X",
     "lang": "JavaScript",
     "pushed": "2026-10-24T04:08:28Z",
-    "size": 21721,
+    "size": 21765,
     "stars": 60
    },
    "shots": [
@@ -4327,10 +4295,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-22T07:06:07Z",
+    "date": "2026-10-24T07:13:26Z",
     "pre": false,
-    "tag": "tr_EN-US+nightly.20261022",
-    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN-US%2Bnightly.20261022"
+    "tag": "tr_EN+nightly.20261024",
+    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN%2Bnightly.20261024"
    },
    "repo": {
     "archived": false,
@@ -4338,8 +4306,8 @@
     "desc": "Medarot 3 GBC disassembly/translation",
     "full": "Medabots/medarot3",
     "lang": "Assembly",
-    "pushed": "2026-10-22T07:06:07Z",
-    "size": 10175,
+    "pushed": "2026-10-24T07:13:34Z",
+    "size": 10252,
     "stars": 49
    },
    "shots": []
@@ -4393,6 +4361,33 @@
     "pushed": "2026-10-22T19:59:39Z",
     "size": 129,
     "stars": 0
+   },
+   "shots": []
+  },
+  "mholzinger/snatcher-segacd-to-saturn-eng": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-07-28T03:31:31Z",
+    "pre": true,
+    "tag": "v0.01",
+    "url": "https://github.com/mholzinger/snatcher-segacd-to-saturn-eng/releases/tag/v0.01"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-27T03:00:04Z",
+    "desc": "",
+    "full": "mholzinger/snatcher-segacd-to-saturn-eng",
+    "lang": "Python",
+    "pushed": "2026-10-24T02:46:18Z",
+    "size": 4207,
+    "stars": 1
    },
    "shots": []
   },
@@ -4820,10 +4815,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-20T04:01:02Z",
+    "date": "2026-10-24T09:21:09Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/monster-guardians-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/monster-guardians-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -4831,8 +4826,8 @@
     "desc": "English fan translation of Monster Guardians (GBA, Konami 2001)",
     "full": "minhnhattonthat/monster-guardians-en",
     "lang": "Python",
-    "pushed": "2026-10-20T04:00:58Z",
-    "size": 508,
+    "pushed": "2026-10-24T09:21:05Z",
+    "size": 582,
     "stars": 0
    },
    "shots": []
@@ -5185,6 +5180,7 @@
      "ex": {
       "fixes": true,
       "gameplay": true,
+      "gfx": true,
       "restore": true
      }
     },
@@ -5192,10 +5188,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-16T04:21:32Z",
+    "date": "2026-10-24T05:48:54Z",
     "pre": false,
-    "tag": "v1.9",
-    "url": "https://github.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/releases/tag/v1.9"
+    "tag": "v2.0",
+    "url": "https://github.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/releases/tag/v2.0"
    },
    "repo": {
     "archived": false,
@@ -5203,17 +5199,17 @@
     "desc": "English translation + modern QoL patches for Pokemon Hyper Emerald: Lost Artifacts v5.7 (GBA ROM hack), built without source",
     "full": "Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL",
     "lang": "Python",
-    "pushed": "2026-10-22T07:24:30Z",
-    "size": 80673,
+    "pushed": "2026-10-24T05:48:54Z",
+    "size": 95553,
     "stars": 24
    },
    "shots": [
+    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-v2.0-kitakami.gif",
     "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-v1.9.gif",
     "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-maps-travel.gif",
     "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-bag-menus.gif",
     "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-dexnav.gif",
-    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-story-bosses.gif",
-    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/pokedex.gif"
+    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-story-bosses.gif"
    ]
   },
   "nonagongoron/tornekos-great-adventure-sfc-with-remaster-script": {
@@ -5704,7 +5700,7 @@
     "lang": "C",
     "pushed": "2026-10-23T17:46:19Z",
     "size": 101687,
-    "stars": 144
+    "stars": 145
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -6129,6 +6125,36 @@
    },
    "shots": []
   },
+  "stepphone/zoids-battle-colosseum-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-24T00:22:06Z",
+    "pre": true,
+    "tag": "v0.5.1-beta",
+    "url": "https://github.com/StepPhone/zoids-battle-colosseum-english/releases/tag/v0.5.1-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-24T00:21:52Z",
+    "desc": "English fan-translation BPS patch for Zoids Battle Colosseum (Japanese Nintendo DS release). By StepPhone / StepHackerZ. Beta release.",
+    "full": "StepPhone/zoids-battle-colosseum-english",
+    "lang": null,
+    "pushed": "2026-10-24T00:22:06Z",
+    "size": 424,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/StepPhone/zoids-battle-colosseum-english/HEAD/assets/credits-boot.png"
+   ]
+  },
   "stickteo/jetters": {
    "noRelease": true,
    "readme": {
@@ -6363,7 +6389,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T21:48:49Z",
     "size": 13940,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://img.youtube.com/vi/lB-wLC9MY5E/hqdefault.jpg",
@@ -6531,26 +6557,7 @@
    ]
   },
   "zthegin/gintama---gintoki-vs-hijikata-game-english-translation": {
-   "noRelease": true,
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {}
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "repo": {
-    "archived": false,
-    "created": "2026-10-22T15:29:58Z",
-    "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
-    "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
-    "lang": "Python",
-    "pushed": "2026-10-23T17:45:14Z",
-    "size": 3531,
-    "stars": 0
-   },
-   "shots": []
+   "notFound": true
   }
  },
  "version": 1
