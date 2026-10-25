@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-25T11:46:40Z",
+ "generated": "2026-10-25T16:35:04Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -965,7 +965,7 @@
     "desc": "Notes and such for an English fan translation project for Kamaitachi no Yoru (SFC).",
     "full": "ButThouMust/kamaitachi-sfc-english",
     "lang": "Assembly",
-    "pushed": "2026-10-22T21:25:13Z",
+    "pushed": "2026-10-25T15:59:19Z",
     "size": 7702,
     "stars": 64
    },
@@ -2407,7 +2407,7 @@
     "lang": "Python",
     "pushed": "2026-10-24T15:57:23Z",
     "size": 62506,
-    "stars": 25
+    "stars": 26
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -3693,38 +3693,6 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-24T13:36:52Z",
-    "pre": true,
-    "tag": "0.8.8",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-24T13:36:51Z",
-    "size": 37425,
-    "stars": 17
-   },
-   "shots": []
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -4270,7 +4238,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-22T23:04:34Z",
     "size": 85042,
-    "stars": 94
+    "stars": 95
    },
    "shots": [
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
@@ -5624,7 +5592,7 @@
     "lang": null,
     "pushed": "2026-10-18T21:15:27Z",
     "size": 4,
-    "stars": 7
+    "stars": 8
    },
    "shots": []
   },
