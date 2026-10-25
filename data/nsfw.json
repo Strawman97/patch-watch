@@ -691,6 +691,11 @@
    "iv": 1,
    "title": "Project Zero"
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "checked": "2026-10-25T10:35:58Z",
+   "iv": 1,
+   "title": "Dqxi"
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -1266,11 +1271,6 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "checked": "2026-10-25T05:10:35Z",
-   "iv": 1,
-   "title": "Sonic Gems Collection"
-  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1285,6 +1285,16 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "checked": "2026-10-25T10:35:58Z",
+   "img": "https://t.vndb.org/cv/04/103904.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "AIR",
+   "sexual": 0,
+   "title": "AIR",
+   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1466,11 +1476,6 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "checked": "2026-10-25T05:10:35Z",
-   "iv": 1,
-   "title": "Bulk Slash"
-  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -1585,6 +1590,11 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "checked": "2026-10-25T10:35:58Z",
+   "iv": 1,
+   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2191,6 +2201,11 @@
    "iv": 1,
    "title": "Samurai Warriors: State of War"
   },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "checked": "2026-10-25T10:35:58Z",
+   "iv": 1,
+   "title": "Sengoku BASARA 3 Utage —"
+  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -2295,6 +2310,11 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
+  },
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
+   "checked": "2026-10-25T10:35:58Z",
+   "iv": 1,
+   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -3176,11 +3196,6 @@
    "iv": 1,
    "title": "Air Management '96"
   },
-  "link:https://romhack.ing/database/content/entry/CR5dEzWWS-mum-4fNn4TPw/digimon-tamers-battle-spirit-ver-1-5-english-translation": {
-   "checked": "2026-10-25T05:10:35Z",
-   "iv": 1,
-   "title": "Digimon Tamers: Battle Spirit Ver. 1.5"
-  },
   "link:https://romhack.ing/database/content/entry/CqaRmZaFQNS1JX1zpGFNSQ/blaze-and-blade-busters-english-translation": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -3395,6 +3410,11 @@
    "checked": "2026-10-22T17:20:22Z",
    "iv": 1,
    "title": "Nekojara Monogatari"
+  },
+  "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": {
+   "checked": "2026-10-25T10:35:58Z",
+   "iv": 1,
+   "title": "SEGA"
   },
   "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64": {
    "checked": "2026-10-24T16:05:02Z",
@@ -8842,11 +8862,6 @@
    "iv": 1,
    "title": "Hikari no Senshi Foton: The Ultimate Game on Planet Earth"
   },
-  "link:https://www.romhacking.net/translations/6343": {
-   "checked": "2026-10-25T05:10:35Z",
-   "iv": 1,
-   "title": "Line Attack Heroes"
-  },
   "link:https://www.romhacking.net/translations/635": {
    "checked": "2026-10-22T21:45:23Z",
    "iv": 1,
@@ -10097,6 +10112,11 @@
    "iv": 1,
    "title": "Monster Guardians"
   },
+  "minhnhattonthat/battle-zeque-den-en": {
+   "checked": "2026-10-25T10:35:58Z",
+   "iv": 1,
+   "title": "Battle Zeque Den"
+  },
   "minhnhattonthat/cb-chara-wars-en": {
    "checked": "2026-10-22T12:22:11Z",
    "iv": 1,
@@ -10508,6 +10528,6 @@
    "title": "Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!!"
   }
  },
- "generated": "2026-10-25T05:10:35Z",
+ "generated": "2026-10-25T10:35:58Z",
  "version": 1
 }

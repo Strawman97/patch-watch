@@ -6792,6 +6792,14 @@
    "title": "Monster Guardians",
    "url": "https://cdn2.steamgriddb.com/grid/45a09eefe5eb32129e1e136e56b6f0eb.png"
   },
+  "minhnhattonthat/battle-zeque-den-en": {
+   "added": "2026-10-25T10:35:58Z",
+   "match": 1.0,
+   "name": "Battle Zeque Den",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/d9fc01c68dbae9497c08f26f5922fe1a.jpg",
+   "title": "Battle Zeque Den",
+   "url": "https://cdn2.steamgriddb.com/grid/d9fc01c68dbae9497c08f26f5922fe1a.png"
+  },
   "minhnhattonthat/dancing-sword-senkou": {
    "added": "2026-10-22T17:20:22Z",
    "match": 1.0,
@@ -7026,7 +7034,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-10-25T04:56:45Z",
+ "generated": "2026-10-25T10:35:58Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",

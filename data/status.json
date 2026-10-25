@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-25T05:10:35Z",
+ "generated": "2026-10-25T10:35:58Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1047,38 +1047,6 @@
     "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/14_backlog.png",
     "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/01_title.png"
    ]
-  },
-  "caribbeansc/mdr-navi-i18n": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Complete",
-     "ex": {},
-     "mtl": true,
-     "pct": 60
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-03T14:53:12Z",
-    "pre": false,
-    "tag": "v2026.10.03-822db99",
-    "url": "https://github.com/caribbeansc/mdr-navi-i18n/releases/tag/v2026.10.03-822db99"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-08-18T15:40:46Z",
-    "desc": "Translate Medarot Navi (GBA, 2001) without reverse-engineering anything: tooling plus es-419 and English language packs",
-    "full": "caribbeansc/mdr-navi-i18n",
-    "lang": "Python",
-    "pushed": "2026-10-03T14:53:12Z",
-    "size": 1237,
-    "stars": 5
-   },
-   "shots": []
   },
   "chivien99999/khamrai-english": {
    "noRelease": true,
@@ -3241,10 +3209,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-24T21:44:15Z",
+    "date": "2026-10-25T07:03:41Z",
     "pre": false,
-    "tag": "v0.9",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v0.9"
+    "tag": "v0.91",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v0.91"
    },
    "repo": {
     "archived": false,
@@ -3252,9 +3220,9 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-10-25T00:07:49Z",
-    "size": 407,
-    "stars": 0
+    "pushed": "2026-10-25T07:14:21Z",
+    "size": 423,
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/title-screen.png",
@@ -3560,8 +3528,8 @@
     "desc": "English Translation of GachiTora! Abarenbou Kyoushi in High School on PSP",
     "full": "Kaisaan/gachitora",
     "lang": "Python",
-    "pushed": "2026-06-20T03:58:31Z",
-    "size": 82,
+    "pushed": "2026-10-25T07:55:02Z",
+    "size": 83,
     "stars": 0
    },
    "shots": []
@@ -3724,38 +3692,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-24T13:36:52Z",
-    "pre": true,
-    "tag": "0.8.8",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-24T13:36:51Z",
-    "size": 37425,
-    "stars": 17
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -4442,10 +4378,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-24T07:13:26Z",
+    "date": "2026-10-25T07:17:14Z",
     "pre": false,
-    "tag": "tr_EN+nightly.20261024",
-    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN%2Bnightly.20261024"
+    "tag": "tr_EN-US+nightly.20261025",
+    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN-US%2Bnightly.20261025"
    },
    "repo": {
     "archived": false,
@@ -4453,8 +4389,8 @@
     "desc": "Medarot 3 GBC disassembly/translation",
     "full": "Medabots/medarot3",
     "lang": "Assembly",
-    "pushed": "2026-10-24T07:13:34Z",
-    "size": 10252,
+    "pushed": "2026-10-25T07:17:14Z",
+    "size": 10550,
     "stars": 49
    },
    "shots": []
@@ -4726,7 +4662,7 @@
     "desc": "English fan translation patch for Erementar Gerad: Tozasareshi Uta (GBA)",
     "full": "minhnhattonthat/erementar-gerad",
     "lang": "Python",
-    "pushed": "2026-10-20T04:12:04Z",
+    "pushed": "2026-10-25T09:46:38Z",
     "size": 667,
     "stars": 0
    },
@@ -4782,7 +4718,7 @@
     "desc": "English fan translation of Gachasute! Dino Device 2 - Dragon / Phoenix (GBA)",
     "full": "minhnhattonthat/gachasute-dino-device-2-en",
     "lang": "Python",
-    "pushed": "2026-10-20T06:18:10Z",
+    "pushed": "2026-10-25T09:41:21Z",
     "size": 338,
     "stars": 0
    },
@@ -4863,8 +4799,8 @@
     "desc": "English fan translation of Hanjuku Hero: Ah, Sekai yo Hanjuku Nare...!! (SNES, 1992, Square)",
     "full": "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare",
     "lang": "Python",
-    "pushed": "2026-10-21T23:51:17Z",
-    "size": 331,
+    "pushed": "2026-10-25T08:58:14Z",
+    "size": 361,
     "stars": 0
    },
    "shots": []
@@ -5027,7 +4963,7 @@
     "desc": "English fan translation of Recca no Honoo - The Game (GBA)",
     "full": "minhnhattonthat/recca-no-honoo-the-game",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:29Z",
+    "pushed": "2026-10-25T09:48:07Z",
     "size": 218,
     "stars": 0
    },
@@ -5081,8 +5017,8 @@
     "desc": "English fan translation of Shin Megami Tensei: Devil Children 2 Honoo no Sho / DemiKids Book of Fire (GBA)",
     "full": "minhnhattonthat/smt-devil-children-2-honoo-no-sho",
     "lang": "Python",
-    "pushed": "2026-10-22T10:51:27Z",
-    "size": 1330,
+    "pushed": "2026-10-25T08:58:18Z",
+    "size": 1357,
     "stars": 0
    },
    "shots": []
@@ -5192,8 +5128,8 @@
     "desc": "English fan translation of Yu Yu Hakusho 2: Kakutou no Shou (SNES)",
     "full": "minhnhattonthat/yu-yu-hakusho-2-english",
     "lang": "Python",
-    "pushed": "2026-10-20T04:12:36Z",
-    "size": 134,
+    "pushed": "2026-10-25T08:58:20Z",
+    "size": 162,
     "stars": 0
    },
    "shots": []
@@ -5574,7 +5510,7 @@
     "lang": "Assembly",
     "pushed": "2022-09-19T23:34:12Z",
     "size": 240939,
-    "stars": 205
+    "stars": 206
    },
    "shots": []
   },
@@ -5784,6 +5720,7 @@
    "readme": {
     "patch": {
      "ex": {
+      "gameplay": true,
       "gfx": true,
       "subs": true
      },
@@ -5793,10 +5730,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-22T12:33:52Z",
+    "date": "2026-10-25T09:49:05Z",
     "pre": false,
-    "tag": "v0.3.29",
-    "url": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.29"
+    "tag": "v0.9.0",
+    "url": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.0"
    },
    "repo": {
     "archived": false,
@@ -5804,7 +5741,7 @@
     "desc": "English translation toolchain for Super Tokusatsu Taisen 2001 (PS1, SLPS-02863)",
     "full": "retro-trans/Super-Tokusatsu-Taisen-2001",
     "lang": "Python",
-    "pushed": "2026-10-22T12:36:12Z",
+    "pushed": "2026-10-25T10:24:09Z",
     "size": 2125,
     "stars": 0
    },
