@@ -304,6 +304,14 @@
    "title": "Mystic Nights",
    "url": "https://cdn2.steamgriddb.com/grid/a95b3d890942d047ad27c88655c4319a.png"
   },
+  "jignx/srwl-english": {
+   "added": "2026-10-25T04:56:45Z",
+   "match": 1.0,
+   "name": "Super Robot Taisen L",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/7449133fd0c1d366553dcab564bdbde0.jpg",
+   "title": "Super Robot Taisen L",
+   "url": "https://cdn2.steamgriddb.com/grid/7449133fd0c1d366553dcab564bdbde0.png"
+  },
   "jonny-anime/tokimeki-memorial-2-english-patch": {
    "added": "2026-10-22T09:57:51Z",
    "match": 1.0,
@@ -6792,6 +6800,14 @@
    "title": "Dancing Sword: Senkou",
    "url": "https://cdn2.steamgriddb.com/grid/dd429ef03e8c98e2c33a337c55aa0c7c.png"
   },
+  "minhnhattonthat/deltora-quest": {
+   "added": "2026-10-25T04:56:45Z",
+   "match": 1.0,
+   "name": "Deltora Quest: 7-tsu no Houseki",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/902803fbded04ee511471052ecdb6e67.jpg",
+   "title": "Deltora Quest: 7-tsu no Houseki",
+   "url": "https://cdn2.steamgriddb.com/grid/902803fbded04ee511471052ecdb6e67.png"
+  },
   "minhnhattonthat/dragon-knight-4-en": {
    "added": "2026-10-22T17:20:22Z",
    "match": 1.0,
@@ -7010,7 +7026,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-10-24T23:24:07Z",
+ "generated": "2026-10-25T04:56:45Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -7071,6 +7087,7 @@
   "corytburns/chocobo-stallion-translation": "2026-10-22T09:57:51Z",
   "crimsondawnacademy-design/romtranslate-studio": "2026-10-22T09:57:51Z",
   "damon-daemon/nobunaga-ds-2-english": "2026-10-22T09:57:51Z",
+  "damon-daemon/nobunaga-ranseiki-puk-english": "2026-10-25T04:56:45Z",
   "damon-daemon/nobunaga-reppuuden-puk-english": "2026-10-22T21:45:23Z",
   "damon-daemon/nobunaga-soutenroku-puk-english": "2026-10-22T09:57:51Z",
   "damon-daemon/sangokushi-6-puk-english": "2026-10-22T09:57:51Z",

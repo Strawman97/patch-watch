@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-24T23:24:07Z",
+ "generated": "2026-10-25T04:56:45Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -395,7 +395,7 @@
     "lang": null,
     "pushed": "2026-10-23T21:33:13Z",
     "size": 819,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -1355,7 +1355,7 @@
     "full": "damon-daemon/sangokushi-ds-3-english",
     "lang": "Python",
     "pushed": "2026-10-24T23:07:12Z",
-    "size": 1443,
+    "size": 1449,
     "stars": 2
    },
    "shots": [
@@ -3400,7 +3400,7 @@
     "lang": "Python",
     "pushed": "2026-10-21T16:28:15Z",
     "size": 920,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -3459,7 +3459,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T12:13:14Z",
     "size": 389,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -3488,7 +3488,7 @@
     "lang": "Python",
     "pushed": "2026-10-21T21:12:47Z",
     "size": 8740,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -3693,38 +3693,6 @@
    },
    "shots": []
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-24T13:36:52Z",
-    "pre": true,
-    "tag": "0.8.8",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-24T13:36:51Z",
-    "size": 37425,
-    "stars": 17
-   },
-   "shots": []
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -3813,6 +3781,27 @@
     "pushed": "2026-10-19T16:47:24Z",
     "size": 109,
     "stars": 12
+   },
+   "shots": []
+  },
+  "lantomorroww/cusasearcher": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-24T21:58:08Z",
+    "desc": "PlayStation game search with localization info — Qt/C++, JSON, GoogleTest",
+    "full": "lantomorroww/CusaSearcher",
+    "lang": "C++",
+    "pushed": "2026-10-24T22:41:37Z",
+    "size": 30,
+    "stars": 0
    },
    "shots": []
   },
@@ -4270,7 +4259,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-22T23:04:34Z",
     "size": 85042,
-    "stars": 93
+    "stars": 94
    },
    "shots": [
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
@@ -4557,8 +4546,8 @@
     "desc": "English fan translation of CB Chara Wars: Ushinawareta Gag (SNES)",
     "full": "minhnhattonthat/cb-chara-wars-en",
     "lang": "Python",
-    "pushed": "2026-10-20T04:11:57Z",
-    "size": 104,
+    "pushed": "2026-10-25T03:10:57Z",
+    "size": 120,
     "stars": 0
    },
    "shots": []
@@ -4584,8 +4573,8 @@
     "desc": "English fan translation of Dancing Sword: Senkou (GBA)",
     "full": "minhnhattonthat/dancing-sword-senkou",
     "lang": "Python",
-    "pushed": "2026-10-22T12:33:54Z",
-    "size": 104,
+    "pushed": "2026-10-25T02:55:16Z",
+    "size": 132,
     "stars": 0
    },
    "shots": []
@@ -4613,8 +4602,8 @@
     "desc": "English fan translation of Dolucky no A.League Soccer (SNES)",
     "full": "minhnhattonthat/dolucky-no-a-league-soccer",
     "lang": "Python",
-    "pushed": "2026-10-20T07:26:52Z",
-    "size": 67,
+    "pushed": "2026-10-25T03:10:59Z",
+    "size": 96,
     "stars": 0
    },
    "shots": []
@@ -4640,8 +4629,8 @@
     "desc": "English fan translation of Dragon Knight 4 (SNES, Banpresto 1996)",
     "full": "minhnhattonthat/dragon-knight-4-en",
     "lang": "Python",
-    "pushed": "2026-10-22T12:35:49Z",
-    "size": 1064,
+    "pushed": "2026-10-25T03:11:00Z",
+    "size": 1101,
     "stars": 0
    },
    "shots": []
@@ -4696,8 +4685,8 @@
     "desc": "English fan translation patch for Rebuild of Evangelion -Sound Impact- (PSP)",
     "full": "minhnhattonthat/evangelion-sound-impact-en",
     "lang": "Python",
-    "pushed": "2026-10-20T04:12:06Z",
-    "size": 60,
+    "pushed": "2026-10-25T02:55:21Z",
+    "size": 87,
     "stars": 0
    },
    "shots": []
@@ -4750,8 +4739,8 @@
     "desc": "English fan translation of Granbo (GBA)",
     "full": "minhnhattonthat/granbo",
     "lang": "Python",
-    "pushed": "2026-10-20T04:12:09Z",
-    "size": 926,
+    "pushed": "2026-10-25T02:55:22Z",
+    "size": 953,
     "stars": 0
    },
    "shots": []
@@ -4777,8 +4766,8 @@
     "desc": "English fan translation of The Great Battle Gaiden 2: Matsuri da Wasshoi (SNES, 1994)",
     "full": "minhnhattonthat/great-battle-gaiden-2-english",
     "lang": "Python",
-    "pushed": "2026-10-20T04:12:11Z",
-    "size": 267,
+    "pushed": "2026-10-25T03:11:02Z",
+    "size": 297,
     "stars": 0
    },
    "shots": []
@@ -4831,8 +4820,8 @@
     "desc": "English translation patch for Kabuki Rocks (SNES)",
     "full": "minhnhattonthat/kabuki-rocks",
     "lang": "Python",
-    "pushed": "2026-10-20T09:17:45Z",
-    "size": 411,
+    "pushed": "2026-10-25T03:11:03Z",
+    "size": 451,
     "stars": 1
    },
    "shots": []
@@ -4860,8 +4849,8 @@
     "desc": "English fan translation of Mobile Suit Gundam SEED Destiny (GBA)",
     "full": "minhnhattonthat/kidou-senshi-gundam-seed-destiny",
     "lang": "Python",
-    "pushed": "2026-10-20T04:12:13Z",
-    "size": 150,
+    "pushed": "2026-10-25T02:55:24Z",
+    "size": 176,
     "stars": 1
    },
    "shots": []
@@ -4887,8 +4876,8 @@
     "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch (GBA)",
     "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en",
     "lang": "Python",
-    "pushed": "2026-10-22T19:53:02Z",
-    "size": 765,
+    "pushed": "2026-10-25T02:55:25Z",
+    "size": 785,
     "stars": 0
    },
    "shots": []
@@ -4914,8 +4903,8 @@
     "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party (GBA)",
     "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en",
     "lang": "Python",
-    "pushed": "2026-10-22T21:29:48Z",
-    "size": 4016,
+    "pushed": "2026-10-25T02:55:26Z",
+    "size": 4046,
     "stars": 0
    },
    "shots": []
@@ -4941,8 +4930,8 @@
     "desc": "English fan translation of Monster Guardians (GBA, Konami 2001)",
     "full": "minhnhattonthat/monster-guardians-en",
     "lang": "Python",
-    "pushed": "2026-10-24T09:21:05Z",
-    "size": 582,
+    "pushed": "2026-10-25T02:55:27Z",
+    "size": 599,
     "stars": 0
    },
    "shots": []
@@ -4968,8 +4957,8 @@
     "desc": "English fan translation of Recca no Honoo - The Game (GBA)",
     "full": "minhnhattonthat/recca-no-honoo-the-game",
     "lang": "Python",
-    "pushed": "2026-10-20T04:12:19Z",
-    "size": 202,
+    "pushed": "2026-10-25T02:55:29Z",
+    "size": 218,
     "stars": 0
    },
    "shots": []
@@ -4995,8 +4984,8 @@
     "desc": "English fan translation of Rokudenashi Blues: Taiketsu! Tokyo Shitennou (SNES, Bandai 1994)",
     "full": "minhnhattonthat/rokudenashi-blues-en",
     "lang": "Python",
-    "pushed": "2026-10-24T13:27:41Z",
-    "size": 325,
+    "pushed": "2026-10-25T03:11:07Z",
+    "size": 352,
     "stars": 0
    },
    "shots": []
@@ -5050,8 +5039,8 @@
     "desc": "English fan translation of Sugoro Quest++: Dicenics (SNES)",
     "full": "minhnhattonthat/sugoro-quest-dicenics-en",
     "lang": "Python",
-    "pushed": "2026-10-22T20:41:29Z",
-    "size": 323,
+    "pushed": "2026-10-25T03:11:12Z",
+    "size": 352,
     "stars": 0
    },
    "shots": []
@@ -5077,8 +5066,8 @@
     "desc": "English and Vietnamese fan translation of Super Gomoku Narabe Renju (SFC)",
     "full": "minhnhattonthat/super-gomoku-narabe-translation",
     "lang": "Python",
-    "pushed": "2026-10-20T04:12:34Z",
-    "size": 249,
+    "pushed": "2026-10-25T03:11:13Z",
+    "size": 273,
     "stars": 0
    },
    "shots": []
@@ -5106,8 +5095,8 @@
     "desc": "English fan translation of Velldeselba Senki - Tsubasa no Kunshou (PSX)",
     "full": "minhnhattonthat/velldeselba-senki",
     "lang": "Python",
-    "pushed": "2026-10-24T09:52:24Z",
-    "size": 2010,
+    "pushed": "2026-10-25T02:55:34Z",
+    "size": 2028,
     "stars": 0
    },
    "shots": []
@@ -5160,8 +5149,8 @@
     "desc": "English fan translation of Zero One SP (GBA, 2004)",
     "full": "minhnhattonthat/zero-one-sp-english",
     "lang": "Python",
-    "pushed": "2026-10-20T04:12:39Z",
-    "size": 2792,
+    "pushed": "2026-10-25T02:55:35Z",
+    "size": 2809,
     "stars": 0
    },
    "shots": []
@@ -5871,7 +5860,7 @@
     "lang": "C",
     "pushed": "2026-10-23T17:46:19Z",
     "size": 101687,
-    "stars": 149
+    "stars": 150
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -5911,10 +5900,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-24T16:27:13Z",
+    "date": "2026-10-25T03:47:45Z",
     "pre": true,
-    "tag": "v0.1.4-beta",
-    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v0.1.4-beta"
+    "tag": "v0.1.5-beta",
+    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v0.1.5-beta"
    },
    "repo": {
     "archived": false,
@@ -5922,7 +5911,7 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-24T16:27:58Z",
+    "pushed": "2026-10-25T03:50:48Z",
     "size": 8,
     "stars": 0
    },
