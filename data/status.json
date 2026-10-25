@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-25T16:35:04Z",
+ "generated": "2026-10-25T20:58:42Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -395,7 +395,7 @@
     "lang": null,
     "pushed": "2026-10-23T21:33:13Z",
     "size": 819,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -966,7 +966,7 @@
     "full": "ButThouMust/kamaitachi-sfc-english",
     "lang": "Assembly",
     "pushed": "2026-10-25T15:59:19Z",
-    "size": 7702,
+    "size": 7712,
     "stars": 64
    },
    "shots": [
@@ -2394,10 +2394,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-24T15:57:23Z",
+    "date": "2026-10-25T16:42:49Z",
     "pre": false,
-    "tag": "v0.1.24",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.24"
+    "tag": "v0.1.25",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.25"
    },
    "repo": {
     "archived": false,
@@ -2405,9 +2405,9 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-24T15:57:23Z",
-    "size": 62506,
-    "stars": 26
+    "pushed": "2026-10-25T16:42:49Z",
+    "size": 65306,
+    "stars": 28
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -2897,6 +2897,29 @@
     "pushed": "2023-09-05T22:45:35.613Z",
     "stars": 3
    }
+  },
+  "gothamor/tokimeki-memorial-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-11T01:30:07Z",
+    "desc": "English Patch for the PS1 version of Tokimeki Memorial: Forever With You",
+    "full": "gothamor/tokimeki-memorial-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-25T13:39:07Z",
+    "size": 1627,
+    "stars": 2
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/149fcef0-dcd5-4e17-841a-39a48dde3a7f"
+   ]
   },
   "grubgamer-woah/frontmissionalternative": {
    "assetOs": {},
@@ -3425,6 +3448,38 @@
    },
    "shots": []
   },
+  "kactusken/jikkyou-power-pro-wrestling-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "gfx": true,
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-25T14:09:08Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/kactusken/Jikkyou-Power-Pro-Wrestling-English/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T13:56:18Z",
+    "desc": "English Translation for Jikkyou Power Pro Wrestling '96  Max Voltage English (SNES/SFC)",
+    "full": "kactusken/Jikkyou-Power-Pro-Wrestling-English",
+    "lang": "Python",
+    "pushed": "2026-10-25T13:57:17Z",
+    "size": 719,
+    "stars": 0
+   },
+   "shots": []
+  },
   "kactusken/king-of-colosseum-ii-english": {
    "assetOs": {},
    "readme": {
@@ -3692,6 +3747,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-24T13:36:52Z",
+    "pre": false,
+    "tag": "0.8.8",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-24T13:36:51Z",
+    "size": 37425,
+    "stars": 17
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5825,8 +5912,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-23T17:46:19Z",
-    "size": 101687,
+    "pushed": "2026-10-25T17:25:47Z",
+    "size": 101691,
     "stars": 150
    },
    "shots": [

@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-25T16:35:04Z",
+ "generated": "2026-10-25T20:58:42Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9531,17 +9531,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-10-25T11:46:40Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -10187,9 +10176,9 @@
   {
    "d": "English translation patch for the Umineko Portable PSP games",
    "fa": "2026-10-22T09:18:31Z",
-   "g": "Umineko no Naku Koro ni Portable 1",
+   "g": "Umineko no Naku Koro ni Portable 2",
    "id": "kotcrab/umineko-portable-english",
-   "jp": "うみねこのなく頃にPortable 1",
+   "jp": "うみねこのなく頃にPortable 2",
    "k": "kotcrab/umineko-portable-english",
    "l": "https://github.com/kotcrab/umineko-portable-english",
    "lb": [
@@ -12178,16 +12167,16 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-10-25T16:35:04Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "d": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
+   "fa": "2026-10-25T20:58:42Z",
+   "g": "Msh Vs Sf",
+   "id": "princeendo/msh_vs_sf_saturn_en_translation",
+   "k": "princeendo/msh_vs_sf_saturn_en_translation",
+   "l": "https://github.com/princeendo/msh_vs_sf_saturn_en_translation",
    "lb": [
     "Human translation"
    ],
-   "p": "3DS",
+   "p": "Saturn",
    "src": "GitHub"
   },
   {
@@ -13795,51 +13784,27 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-10-25T10:35:58Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "d": "Bulk Slash (English Patch)",
    "fa": "2026-10-25T11:46:40Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS2",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-10-25T16:35:04Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-10-25T16:35:04Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-10-25T11:46:40Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
