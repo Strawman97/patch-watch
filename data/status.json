@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-25T20:58:42Z",
+ "generated": "2026-10-25T23:21:12Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -3748,38 +3748,6 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-24T13:36:52Z",
-    "pre": false,
-    "tag": "0.8.8",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-24T13:36:51Z",
-    "size": 37425,
-    "stars": 17
-   },
-   "shots": []
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -3865,7 +3833,7 @@
     "desc": "English translation patch for the Umineko Portable PSP games",
     "full": "kotcrab/umineko-portable-english",
     "lang": "Kotlin",
-    "pushed": "2026-10-19T16:47:24Z",
+    "pushed": "2026-10-25T22:18:10Z",
     "size": 109,
     "stars": 12
    },
@@ -5683,6 +5651,29 @@
    },
    "shots": []
   },
+  "princeendo/msh_vs_sf_saturn_en_translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-08-24T20:27:41Z",
+    "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
+    "full": "princeendo/msh_vs_sf_saturn_en_translation",
+    "lang": "Python",
+    "pushed": "2026-10-25T21:46:07Z",
+    "size": 3317,
+    "stars": 0
+   },
+   "shots": []
+  },
   "promptpirate-x/evangelion-64-english": {
    "assetOs": {},
    "readme": {
@@ -5954,10 +5945,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-25T03:47:45Z",
-    "pre": true,
-    "tag": "v0.1.5-beta",
-    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v0.1.5-beta"
+    "date": "2026-10-25T23:20:16Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
@@ -5965,7 +5956,7 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-25T03:50:48Z",
+    "pushed": "2026-10-25T23:21:05Z",
     "size": 8,
     "stars": 0
    },
@@ -6161,7 +6152,7 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-10-22T23:28:08Z",
+    "pushed": "2026-10-25T22:37:32Z",
     "size": 3282,
     "stars": 8
    },

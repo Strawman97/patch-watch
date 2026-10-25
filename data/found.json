@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-25T20:58:42Z",
+ "generated": "2026-10-25T23:21:12Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9531,6 +9531,17 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-10-25T20:58:42Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -12167,6 +12178,19 @@
    "src": "GitHub"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-10-25T16:35:04Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "d": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
    "fa": "2026-10-25T20:58:42Z",
    "g": "Msh Vs Sf",
@@ -12177,6 +12201,32 @@
     "Human translation"
    ],
    "p": "Saturn",
+   "src": "GitHub"
+  },
+  {
+   "d": "Bring the English PC localization to the Japanese PSP game using your own copies",
+   "fa": "2026-10-25T23:21:12Z",
+   "g": "Trails In The Sky 3Rd Psp Patcher",
+   "id": "stepigor/trails_in_the_sky_3rd_psp_english_patcher",
+   "k": "stepigor/trails_in_the_sky_3rd_psp_english_patcher",
+   "l": "https://github.com/stepigor/trails_in_the_sky_3rd_psp_english_patcher",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "A repo for the English language patch for Mercurius Pretty: End of the Century for Dreamcast. Future revisions of the patch will be located here.",
+   "fa": "2026-10-25T23:21:12Z",
+   "g": "MPDCTranslation",
+   "id": "blanky451/mpdctranslationproject",
+   "k": "blanky451/mpdctranslationproject",
+   "l": "https://github.com/blanky451/MPDCTranslationProject",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Dreamcast",
    "src": "GitHub"
   },
   {
@@ -13784,27 +13834,51 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-10-25T11:46:40Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-10-25T16:35:04Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-10-25T11:46:40Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-10-25T16:35:04Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-10-25T20:58:42Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-10-25T23:21:12Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
