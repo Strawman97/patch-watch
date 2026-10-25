@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-25T04:56:45Z",
+ "generated": "2026-10-25T05:10:35Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -256,7 +256,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Fray: Shugyou Hen Game Gear",
+   "g": "Fray: Shugyou Hen",
    "grp": "(s): BacklogOddy",
    "id": "link:https://www.romhacking.net/translations/7577",
    "l": "https://www.romhacking.net/translations/7577",
@@ -303,7 +303,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Necros no Yousai Turbografx-16",
+   "g": "Necros no Yousai",
    "id": "link:https://www.romhacking.net/translations/7454",
    "l": "https://www.romhacking.net/translations/7454",
    "lb": [
@@ -359,7 +359,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Zen Nihon Joshi Pro Wres: Queen of Queens PC-FX",
+   "g": "Zen Nihon Joshi Pro Wres: Queen of Queens",
    "id": "link:https://www.romhacking.net/translations/7504",
    "l": "https://www.romhacking.net/translations/7504",
    "lb": [
@@ -403,7 +403,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Macross M3 DC",
+   "g": "Macross M3",
    "id": "link:https://www.romhacking.net/translations/7463",
    "l": "https://www.romhacking.net/translations/7463",
    "lb": [
@@ -436,7 +436,7 @@
   },
   {
    "fa": "2026-10-22T10:45:22Z",
-   "g": "SNK vs Capcom: Card Fighters 2 Expand Edition Neo Geo Pocket Color",
+   "g": "SNK vs Capcom: Card Fighters 2 Expand Edition",
    "id": "link:https://www.romhacking.net/translations/82",
    "l": "https://www.romhacking.net/translations/82",
    "lb": [
@@ -447,7 +447,7 @@
   },
   {
    "fa": "2026-10-22T10:45:22Z",
-   "g": "Nazo Puyo: Arle no Roux Game Gear",
+   "g": "Nazo Puyo: Arle no Roux",
    "id": "link:https://www.romhacking.net/translations/6227",
    "l": "https://www.romhacking.net/translations/6227",
    "lb": [
@@ -480,7 +480,7 @@
   },
   {
    "fa": "2026-10-22T10:45:22Z",
-   "g": "Line Attack Heroes WiiWare WAD",
+   "g": "Line Attack Heroes",
    "id": "link:https://www.romhacking.net/translations/6343",
    "l": "https://www.romhacking.net/translations/6343",
    "lb": [
@@ -603,7 +603,7 @@
   },
   {
    "fa": "2026-10-22T10:45:22Z",
-   "g": "Kaze no Klonoa: Moonlight Museum WonderSwan",
+   "g": "Kaze no Klonoa: Moonlight Museum",
    "id": "link:https://www.romhacking.net/translations/6511",
    "l": "https://www.romhacking.net/translations/6511",
    "lb": [
@@ -868,7 +868,7 @@
   },
   {
    "fa": "2026-10-22T12:06:29Z",
-   "g": "Ultraman 2: Shutsugeki Katoku Tai!! FDS",
+   "g": "Ultraman 2: Shutsugeki Katoku Tai!!",
    "id": "link:https://www.romhacking.net/translations/7418",
    "l": "https://www.romhacking.net/translations/7418",
    "lb": [
@@ -992,7 +992,7 @@
   },
   {
    "fa": "2026-10-22T12:06:29Z",
-   "g": "Tobidase Daisakusen FDS",
+   "g": "Tobidase Daisakusen",
    "id": "link:https://www.romhacking.net/translations/7414",
    "l": "https://www.romhacking.net/translations/7414",
    "lb": [
@@ -1014,29 +1014,7 @@
   },
   {
    "fa": "2026-10-22T12:06:29Z",
-   "g": "Chik Bik Ji Jin: Saam Gwok Ji / Three Kingdom - Battle of Red Cliffs",
-   "id": "link:https://www.romhacking.net/translations/2241",
-   "l": "https://www.romhacking.net/translations/2241",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "NES",
-   "src": "Credited on CDRomance"
-  },
-  {
-   "fa": "2026-10-22T12:06:29Z",
-   "g": "Janggun-ui Adeul - General's Son",
-   "id": "link:https://www.romhacking.net/translations/6806",
-   "l": "https://www.romhacking.net/translations/6806",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "NES",
-   "src": "Credited on CDRomance"
-  },
-  {
-   "fa": "2026-10-22T12:06:29Z",
-   "g": "Out Live TurboGrafx-16",
+   "g": "Out Live",
    "id": "link:https://www.romhacking.net/translations/2814",
    "l": "https://www.romhacking.net/translations/2814",
    "lb": [
@@ -1225,7 +1203,7 @@
   },
   {
    "fa": "2026-10-22T12:06:29Z",
-   "g": "Hokuto no Ken / Black Belt SMS",
+   "g": "Hokuto no Ken / Black Belt",
    "id": "link:https://www.romhacking.net/translations/5759",
    "l": "https://www.romhacking.net/translations/5759",
    "lb": [
@@ -5108,7 +5086,7 @@
   },
   {
    "fa": "2026-10-23T11:50:40Z",
-   "g": "Chocobo no Fushigi na Dungeon for WonderSwan",
+   "g": "Chocobo no Fushigi na Dungeon for",
    "id": "link:https://www.romhacking.net/translations/5525",
    "jp": "チョコボの不思議なダンジョン",
    "l": "https://www.romhacking.net/translations/5525",
@@ -5120,7 +5098,7 @@
   },
   {
    "fa": "2026-10-23T11:50:40Z",
-   "g": "Digital Monster Card Game Ver. WonderSwan Color",
+   "g": "Digital Monster Card Game Ver.",
    "id": "link:https://www.romhacking.net/translations/5606",
    "jp": "デジタルモンスター カードゲーム Ver. Wonderswan Color",
    "l": "https://www.romhacking.net/translations/5606",
@@ -9353,7 +9331,7 @@
   },
   {
    "fa": "2026-10-22T12:06:29Z",
-   "g": "Dracula II: Noroi no Fuuin FDS",
+   "g": "Dracula II: Noroi no Fuuin",
    "grp": "(s): Black Paladin",
    "id": "link:https://romhackplaza.org/translations/dracula-ii-noroi-no-fuuin-english-translation-fds",
    "l": "https://romhackplaza.org/translations/dracula-ii-noroi-no-fuuin-english-translation-fds",
@@ -9564,17 +9542,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-10-24T23:24:07Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -9721,7 +9688,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Digimon Tamers: Battle Spirit Ver. 1.5 WonderSwan Color",
+   "g": "Digimon Tamers: Battle Spirit Ver. 1.5",
    "id": "link:https://romhack.ing/database/content/entry/CR5dEzWWS-mum-4fNn4TPw/digimon-tamers-battle-spirit-ver-1-5-english-translation",
    "l": "https://romhack.ing/database/content/entry/CR5dEzWWS-mum-4fNn4TPw/digimon-tamers-battle-spirit-ver-1-5-english-translation",
    "lb": [
@@ -9754,7 +9721,7 @@
   },
   {
    "fa": "2026-10-22T10:45:22Z",
-   "g": "Farland Story FX PC-FX",
+   "g": "Farland Story FX",
    "id": "link:https://romhack.ing/database/content/entry/3BAn4gzlRzKufRgCTLPnTQ/farland-story-fx-english-translation",
    "l": "https://romhack.ing/database/content/entry/3BAn4gzlRzKufRgCTLPnTQ/farland-story-fx-english-translation",
    "lb": [
@@ -9956,19 +9923,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Official English translation of Pokémon Origin HeartGold (起源心金): xdelta patch, guide and Pokédex",
-   "fa": "2026-10-22T08:36:33Z",
-   "g": "Pokémon Origin HeartGold",
-   "id": "originheartgold/origin-heart-gold-en-translation",
-   "k": "originheartgold/origin-heart-gold-en-translation",
-   "l": "https://github.com/originheartgold/origin-heart-gold-EN-translation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "DS",
-   "src": "GitHub"
-  },
-  {
    "d": "Super Robot Wars Alpha (PSX) English Ver. — fan translation patch (xdelta) for Super Robot Taisen Alpha (SLPS-02636)",
    "fa": "2026-10-22T08:36:33Z",
    "g": "Super Robot Wars Alpha PSX Ver",
@@ -10108,19 +10062,6 @@
     "Human translation"
    ],
    "p": "3DS",
-   "src": "GitHub"
-  },
-  {
-   "d": "English translation + modern QoL patches for Pokemon Hyper Emerald: Lost Artifacts v5.7 (GBA ROM hack), built without source",
-   "fa": "2026-10-22T09:18:31Z",
-   "g": "Pokemon Hyper Emerald: Lost Artifacts v5.7",
-   "id": "nn-exe/pokemon-hyper-emerald-5.7-qol",
-   "k": "nn-exe/pokemon-hyper-emerald-5.7-qol",
-   "l": "https://github.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GBA",
    "src": "GitHub"
   },
   {
@@ -10838,19 +10779,6 @@
    "src": "GitHub (Kaisaan)"
   },
   {
-   "d": "Translate Medarot Navi (GBA, 2001) without reverse-engineering anything: tooling plus es-419 and English language packs",
-   "fa": "2026-10-22T09:57:51Z",
-   "g": "Mdr Navi I18N",
-   "id": "caribbeansc/mdr-navi-i18n",
-   "k": "caribbeansc/mdr-navi-i18n",
-   "l": "https://github.com/caribbeansc/mdr-navi-i18n",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GBA",
-   "src": "GitHub"
-  },
-  {
    "d": "English Translation of Ys IV: Mask of the Sun - A New Theory on PS2",
    "fa": "2026-10-22T09:57:51Z",
    "g": "Newtheory",
@@ -11091,7 +11019,7 @@
   },
   {
    "fa": "2026-10-22T09:57:51Z",
-   "g": "Napple Tale: Arsia in Daydream DC",
+   "g": "Napple Tale: Arsia in Daydream",
    "id": "flukeylukey1/nappletaleengpatchfix",
    "k": "flukeylukey1/nappletaleengpatchfix",
    "l": "https://github.com/flukeylukey1/NappleTaleEngPatchFix",
@@ -11127,7 +11055,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Magic: The Gathering DC",
+   "g": "Magic: The Gathering",
    "id": "astraleamalthea/magicthegatheringdreamcasteng",
    "k": "astraleamalthea/magicthegatheringdreamcasteng",
    "l": "https://github.com/AstraleAmalthea/MagicTheGatheringDreamcastENG",
@@ -11204,7 +11132,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Cool Cool Toon DC",
+   "g": "Cool Cool Toon",
    "id": "derekpascarella/coolcooltoon-englishpatchdreamcast",
    "k": "derekpascarella/coolcooltoon-englishpatchdreamcast",
    "l": "https://github.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast",
@@ -11216,7 +11144,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Capcom vs. SNK 2: Millionaire Fighting 2001 DC",
+   "g": "Capcom vs. SNK 2: Millionaire Fighting 2001",
    "id": "derekpascarella/capcomvs.snk2-englishpatchdreamcast",
    "k": "derekpascarella/capcomvs.snk2-englishpatchdreamcast",
    "l": "https://github.com/DerekPascarella/Capcomvs.SNK2-EnglishPatchDreamcast",
@@ -11228,7 +11156,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Triggerheart Exelica DC",
+   "g": "Triggerheart Exelica",
    "id": "derekpascarella/triggerheartexelica-englishpatchdreamcast",
    "k": "derekpascarella/triggerheartexelica-englishpatchdreamcast",
    "l": "https://github.com/DerekPascarella/TriggerheartExelica-EnglishPatchDreamcast",
@@ -11301,7 +11229,7 @@
   },
   {
    "fa": "2026-10-22T10:24:13Z",
-   "g": "Daichikun Crisis: Do Natural Turbografx-16",
+   "g": "Daichikun Crisis: Do Natural",
    "id": "alarixnia/daichikun-crisis-en",
    "k": "alarixnia/daichikun-crisis-en",
    "l": "https://github.com/alarixnia/daichikun-crisis-en",
@@ -11326,7 +11254,7 @@
   },
   {
    "fa": "2026-10-22T10:45:22Z",
-   "g": "Di Gi Charat Fantasy DC",
+   "g": "Di Gi Charat Fantasy",
    "id": "derekpascarella/digicharatfantasy-englishpatchdreamcast",
    "k": "derekpascarella/digicharatfantasy-englishpatchdreamcast",
    "l": "https://github.com/DerekPascarella/DiGiCharatFantasy-EnglishPatchDreamcast",
@@ -11388,7 +11316,7 @@
   },
   {
    "fa": "2026-10-22T10:45:22Z",
-   "g": "Nakoruru: Ano Hito Kara no Okurimono DC",
+   "g": "Nakoruru: Ano Hito Kara no Okurimono",
    "id": "derekpascarella/nakoruruthegiftshegaveme-englishpatchdreamcast",
    "k": "derekpascarella/nakoruruthegiftshegaveme-englishpatchdreamcast",
    "l": "https://github.com/DerekPascarella/NakoruruTheGiftSheGaveMe-EnglishPatchDreamcast",
@@ -11887,19 +11815,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Internationalization and Localization for Low Saxon",
-   "fa": "2026-10-23T05:03:31Z",
-   "g": "L10N",
-   "id": "kde/l10n-nds",
-   "k": "kde/l10n-nds",
-   "l": "https://github.com/KDE/l10n-nds",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "DS",
-   "src": "GitHub"
-  },
-  {
    "d": "English text and cinematic subtitles for Cosmic Fantasy on PC Engine CD, preserving Japanese voices and artwork. Patch-only distribution.",
    "fa": "2026-10-23T05:03:31Z",
    "g": "Cosmic Fantasy",
@@ -12158,19 +12073,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Shining Soul II (GBA) modding environment: English translation of the CN mod baseline, gameplay mods with source, research docs and tooling. No ROMs included.",
-   "fa": "2026-10-24T11:17:05Z",
-   "g": "SS2 Modding Environment",
-   "id": "ddhuet/ss2-modding-environment",
-   "k": "ddhuet/ss2-modding-environment",
-   "l": "https://github.com/Ddhuet/SS2-Modding-Environment",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GBA",
-   "src": "GitHub"
-  },
-  {
    "fa": "2026-10-24T11:17:05Z",
    "g": "Project Zero",
    "id": "karas84/projectzeroundub",
@@ -12206,32 +12108,6 @@
    ],
    "p": "Mega Drive",
    "src": "Credited on CDRomance"
-  },
-  {
-   "d": "Work in progress",
-   "fa": "2026-10-24T20:58:53Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "3DS",
-   "src": "GitHub"
-  },
-  {
-   "d": "PlayStation game search with localization info — Qt/C++, JSON, GoogleTest",
-   "fa": "2026-10-24T23:24:07Z",
-   "g": "Cusa Searcher",
-   "id": "lantomorroww/cusasearcher",
-   "k": "lantomorroww/cusasearcher",
-   "l": "https://github.com/lantomorroww/CusaSearcher",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS1",
-   "src": "GitHub"
   },
   {
    "d": "English fan translation of Deltora Quest: 7-tsu no Houseki (NDS)",
@@ -13182,18 +13058,6 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Skylanders English Patch Wii U",
-   "fa": "2026-10-22T08:36:33Z",
-   "g": "Skylanders",
-   "id": "link:https://archive.org/details/skylanders-english-patch-wii-u",
-   "l": "https://archive.org/details/skylanders-english-patch-wii-u",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Wii U",
-   "src": "Internet Archive"
-  },
-  {
    "d": "Dragon Ball Z Budokai Undub Patch (GameCube)",
    "fa": "2026-10-22T09:18:31Z",
    "g": "Dragon Ball Z Budokai",
@@ -13201,18 +13065,6 @@
    "l": "https://archive.org/details/budokai-1-gc-undub-patch",
    "lb": [
     "Undub"
-   ],
-   "p": "PS2",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "PS2 NFSU 2 SHA_DO English patch",
-   "fa": "2026-10-22T09:18:31Z",
-   "g": "PS2 NFSU 2 SHA_DO",
-   "id": "link:https://archive.org/details/nfsu-2-sha-do-english-english-patch",
-   "l": "https://archive.org/details/nfsu-2-sha-do-english-english-patch",
-   "lb": [
-    "Human translation"
    ],
    "p": "PS2",
    "src": "Internet Archive"
@@ -13227,18 +13079,6 @@
     "Human translation"
    ],
    "p": "Mega CD",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "NFSU J Tune English Patch",
-   "fa": "2026-10-22T09:18:31Z",
-   "g": "NFSU J Tune",
-   "id": "link:https://archive.org/details/nfsu-j-tune-english-language-select",
-   "l": "https://archive.org/details/nfsu-j-tune-english-language-select",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS2",
    "src": "Internet Archive"
   },
   {
@@ -13278,18 +13118,6 @@
    "src": "Internet Archive"
   },
   {
-   "d": "DS Telejan (1981 DECO Cassette System) English Translation Patch",
-   "fa": "2026-10-22T09:57:51Z",
-   "g": "DS Telejan (1981 DECO Cassette System)",
-   "id": "link:https://archive.org/details/dt-1144-a3",
-   "l": "https://archive.org/details/dt-1144-a3",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "DS",
-   "src": "Internet Archive"
-  },
-  {
    "d": "Nostalgia 1907 - English Translation - Mega CD PAL Conversion",
    "fa": "2026-10-22T09:57:51Z",
    "g": "Nostalgia 1907",
@@ -13323,30 +13151,6 @@
     "Undub"
    ],
    "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Purpura Sancta seu Vita Caesaris Baronii (Life of Cardinal Cesare Baronio), 1651 — English translation",
-   "fa": "2026-10-22T09:57:51Z",
-   "g": "Purpura Sancta seu Vita Caesaris Baronii (Life of Cardinal Cesare Baronio), 1651 —",
-   "id": "link:https://archive.org/details/purpura-sancta-vita-caesaris-baronii-english",
-   "l": "https://archive.org/details/purpura-sancta-vita-caesaris-baronii-english",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS Vita",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1988, Arcade) English Translation Patch",
-   "fa": "2026-10-22T09:57:51Z",
-   "g": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1988, Arcade)",
-   "id": "link:https://archive.org/details/mqj-c0",
-   "l": "https://archive.org/details/mqj-c0",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "NES",
    "src": "Internet Archive"
   },
   {
@@ -13515,7 +13319,7 @@
   },
   {
    "fa": "2026-10-22T10:45:22Z",
-   "g": "Clock Tower for WonderSwan WonderSwan",
+   "g": "Clock Tower for",
    "id": "link:https://archive.org/details/clock-tower-for-wonder-swan-english-v-1-1",
    "l": "https://archive.org/details/clock-tower-for-wonder-swan-english-v-1-1",
    "lb": [
@@ -13949,51 +13753,27 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-10-24T20:58:53Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-10-24T20:58:53Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-10-24T23:24:07Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "d": "Bulk Slash (English Patch)",
    "fa": "2026-10-25T04:56:45Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
-    "Undub"
+    "Human translation"
    ],
-   "p": "PS2",
+   "p": "Saturn",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-10-25T04:56:45Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
@@ -14353,7 +14133,7 @@
   },
   {
    "fa": "2026-10-22T10:45:22Z",
-   "g": "The King of Fighters: Battle de Paradise Neo Geo Pocket Color",
+   "g": "The King of Fighters: Battle de Paradise",
    "grp": "(s): Marc Max, Kensu William, xenophile",
    "id": "link:https://www.marcrobledo.com/neo-geo-pocket/king-of-fighters-battle-de-paradise-english-translation",
    "l": "https://www.marcrobledo.com/neo-geo-pocket/king-of-fighters-battle-de-paradise-english-translation",
@@ -15678,17 +15458,6 @@
     "Undub"
    ],
    "p": "PS2",
-   "src": "Credited on CDRomance"
-  },
-  {
-   "fa": "2026-10-24T11:17:05Z",
-   "g": "Persona 2: Innocent Sin - DLC enabler mod",
-   "id": "link:https://gamebanana.com/mods/458681",
-   "l": "https://gamebanana.com/mods/458681",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PSP",
    "src": "Credited on CDRomance"
   },
   {

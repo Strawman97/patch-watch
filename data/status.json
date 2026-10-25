@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-25T04:56:45Z",
+ "generated": "2026-10-25T05:10:35Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1220,6 +1220,44 @@
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-ds-2-english/HEAD/docs/screenshots/06_battle.png"
    ]
   },
+  "damon-daemon/nobunaga-ranseiki-puk-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-25T01:40:01Z",
+    "pre": true,
+    "tag": "v0.9.0",
+    "url": "https://github.com/damon-daemon/nobunaga-ranseiki-puk-english/releases/tag/v0.9.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T01:39:34Z",
+    "desc": "English fan translation (full machine translation) of Nobunaga no Yabou: Ranseiki with Power-Up Kit (PS2)",
+    "full": "damon-daemon/nobunaga-ranseiki-puk-english",
+    "lang": "Python",
+    "pushed": "2026-10-25T01:40:01Z",
+    "size": 1687,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ranseiki-puk-english/HEAD/docs/screenshots/01_main_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ranseiki-puk-english/HEAD/docs/screenshots/02_daimyo_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ranseiki-puk-english/HEAD/docs/screenshots/03_settings.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ranseiki-puk-english/HEAD/docs/screenshots/04_event.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ranseiki-puk-english/HEAD/docs/screenshots/05_council_goal.png",
+    "https://raw.githubusercontent.com/damon-daemon/nobunaga-ranseiki-puk-english/HEAD/docs/screenshots/06_map.png"
+   ]
+  },
   "damon-daemon/nobunaga-reppuuden-puk-english": {
    "assetOs": {},
    "readme": {
@@ -1403,27 +1441,6 @@
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/05_dialogue.png",
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/06_council.png"
    ]
-  },
-  "ddhuet/ss2-modding-environment": {
-   "noRelease": true,
-   "readme": {
-    "patch": {
-     "ex": {}
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "repo": {
-    "archived": false,
-    "created": "2026-10-05T01:08:21Z",
-    "desc": "Shining Soul II (GBA) modding environment: English translation of the CN mod baseline, gameplay mods with source, research docs and tooling. No ROMs included.",
-    "full": "Ddhuet/SS2-Modding-Environment",
-    "lang": "Python",
-    "pushed": "2026-10-24T07:54:47Z",
-    "size": 12066,
-    "stars": 0
-   },
-   "shots": []
   },
   "demmis98/3s-psp": {
    "assetOs": {},
@@ -3212,6 +3229,42 @@
    },
    "shots": []
   },
+  "jignx/srwl-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-24T21:44:15Z",
+    "pre": false,
+    "tag": "v0.9",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v0.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-24T07:10:03Z",
+    "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
+    "full": "jignx/SRWL-English",
+    "lang": "Python",
+    "pushed": "2026-10-25T00:07:49Z",
+    "size": 407,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/title-screen.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/opening-narration.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/scenario-title.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/story-dialogue.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/weapon-selection.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/attack-dialogue.png"
+   ]
+  },
   "jonny-anime/tokimeki-memorial-2-english-patch": {
    "assetOs": {},
    "readme": {
@@ -3672,24 +3725,35 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
-  "kde/l10n-nds": {
-   "noRelease": true,
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
    "readme": {
-    "none": true,
     "patch": {
-     "ex": {}
-    }
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-10-24T13:36:52Z",
+    "pre": true,
+    "tag": "0.8.8",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
+   },
    "repo": {
     "archived": false,
-    "created": "2026-10-19T05:25:38Z",
-    "desc": "Internationalization and Localization for Low Saxon",
-    "full": "KDE/l10n-nds",
-    "lang": "Shell",
-    "pushed": "2026-10-24T04:16:09Z",
-    "size": 253095,
-    "stars": 0
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-24T13:36:51Z",
+    "size": 37425,
+    "stars": 17
    },
    "shots": []
   },
@@ -3781,27 +3845,6 @@
     "pushed": "2026-10-19T16:47:24Z",
     "size": 109,
     "stars": 12
-   },
-   "shots": []
-  },
-  "lantomorroww/cusasearcher": {
-   "noRelease": true,
-   "readme": {
-    "patch": {
-     "ex": {}
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "repo": {
-    "archived": false,
-    "created": "2026-10-24T21:58:08Z",
-    "desc": "PlayStation game search with localization info — Qt/C++, JSON, GoogleTest",
-    "full": "lantomorroww/CusaSearcher",
-    "lang": "C++",
-    "pushed": "2026-10-24T22:41:37Z",
-    "size": 30,
-    "stars": 0
    },
    "shots": []
   },
@@ -4579,6 +4622,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/deltora-quest": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T23:00:32Z",
+    "pre": false,
+    "tag": "v0.9",
+    "url": "https://github.com/minhnhattonthat/deltora-quest/releases/tag/v0.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-17T21:28:06Z",
+    "desc": "English fan translation of Deltora Quest: 7-tsu no Houseki (NDS)",
+    "full": "minhnhattonthat/deltora-quest",
+    "lang": "Python",
+    "pushed": "2026-10-25T02:55:18Z",
+    "size": 829,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/dolucky-no-a-league-soccer": {
    "assetOs": {},
    "readme": {
@@ -5333,45 +5403,6 @@
    },
    "shots": []
   },
-  "nn-exe/pokemon-hyper-emerald-5.7-qol": {
-   "assetOs": {},
-   "readme": {
-    "patch": {
-     "ex": {
-      "fixes": true,
-      "gameplay": true,
-      "gfx": true,
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-24T05:48:54Z",
-    "pre": false,
-    "tag": "v2.0",
-    "url": "https://github.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/releases/tag/v2.0"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-13T08:14:44Z",
-    "desc": "English translation + modern QoL patches for Pokemon Hyper Emerald: Lost Artifacts v5.7 (GBA ROM hack), built without source",
-    "full": "Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL",
-    "lang": "Python",
-    "pushed": "2026-10-24T15:05:50Z",
-    "size": 99323,
-    "stars": 24
-   },
-   "shots": [
-    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-v2.0-kitakami.gif",
-    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-v1.9.gif",
-    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-maps-travel.gif",
-    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-bag-menus.gif",
-    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-dexnav.gif",
-    "https://raw.githubusercontent.com/Nn-Exe/Pokemon-Hyper-Emerald-5.7-QoL/HEAD/docs/showcase/showcase-story-bosses.gif"
-   ]
-  },
   "nonagongoron/tornekos-great-adventure-sfc-with-remaster-script": {
    "noRelease": true,
    "readme": {
@@ -5455,34 +5486,6 @@
     "pushed": "2024-06-27T09:36:28Z",
     "size": 833504,
     "stars": 111
-   },
-   "shots": []
-  },
-  "originheartgold/origin-heart-gold-en-translation": {
-   "assetOs": {},
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {}
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-13T12:19:43Z",
-    "pre": false,
-    "tag": "v1.0.0-rc8",
-    "url": "https://github.com/originheartgold/origin-heart-gold-EN-translation/releases/tag/v1.0.0-rc8"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-10-04T10:51:23Z",
-    "desc": "Official English translation of Pokémon Origin HeartGold (起源心金): xdelta patch, guide and Pokédex",
-    "full": "originheartgold/origin-heart-gold-EN-translation",
-    "lang": "Python",
-    "pushed": "2026-10-19T09:18:29Z",
-    "size": 27757,
-    "stars": 27
    },
    "shots": []
   },

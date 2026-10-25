@@ -22,9 +22,9 @@
    "vn": "v711"
   },
   "agtteam/fmakamitranslation": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "FMAKami"
+   "title": "Fullmetal Alchemist 3: Kami wo Tsugu Shoujo"
   },
   "agtteam/geasstranslation": {
    "checked": "2026-10-22T12:22:11Z",
@@ -32,19 +32,24 @@
    "title": "Code Geass: Hangyaku no Lelouch"
   },
   "agtteam/lsuccessorstranslation": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "LSuccessors"
+   "title": "Death Note: L wo Tsugu Mono"
   },
   "agtteam/ookamitranslation": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
+   "img": "https://t.vndb.org/cv/50/113950.jpg",
    "iv": 1,
-   "title": "Ookami"
+   "match": 1.0,
+   "name": "Ookami to Koushinryou - Boku to Holo no Ichinen",
+   "sexual": 0,
+   "title": "Ookami to Koushinryou: Boku to Holo no Ichinen",
+   "vn": "v1391"
   },
   "agtteam/prologuetranslation": {
-   "checked": "2026-10-22T12:22:11Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "L the proLogue to DEATH NOTE"
+   "title": "L the proLogue to Death Note: Rasen no Wana"
   },
   "agtteam/resonancetranslation": {
    "checked": "2026-10-21T12:03:04Z",
@@ -57,34 +62,34 @@
    "title": "Evangelion: Shito Ikusei"
   },
   "agtteam/shugotranslation": {
-   "checked": "2026-10-23T17:17:32Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Shugo Chara! Norinori! Chara-narhythm♪"
+   "title": "Shugo Chara! Norinori! Chara-nari Rhythm"
   },
   "akoi89/dqmj3p-english-fixed": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "DQMJ3P fixed"
+   "title": "Dragon Quest Monsters: Joker 3 Professional"
   },
   "akoi89/puyopuyotetris-3ds-english-patch": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Puyopuyotetris"
+   "title": "Puyo Puyo Tetris"
   },
   "akoi89/rocketslime-3ds-english-fixup": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Rocketslime 3Ds Fixup"
+   "title": "Slime MoriMori Dragon Quest 3: Taikaizoku to Shippo Dan"
   },
   "alarixnia/daichikun-crisis-en": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Daichikun Crisis: Do Natural Turbografx-16"
+   "title": "Daichi-kun Crisis: Do Natural"
   },
   "alexbl9x/samurai-shodown-3-sega-saturn-english-activation-patch": {
-   "checked": "2026-10-23T21:31:12Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Samurai Shodown 3 Sega Saturn Activation"
+   "title": "Samurai Spirits: Zankurou Musouken"
   },
   "alunonymoose/sengoku-basara-3---utage-translation": {
    "checked": "2026-10-22T12:22:11Z",
@@ -107,9 +112,9 @@
    "title": "Bomberman Jetters Game Collection"
   },
   "astraleamalthea/magicthegatheringdreamcasteng": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Magic: The Gathering DC"
+   "title": "Magic: The Gathering"
   },
   "azzulin/tales-of-radiant-mythology-3-english-translation": {
    "checked": "2026-10-22T12:22:11Z",
@@ -137,9 +142,9 @@
    "title": "Radiant Historia: Perfect Chronology"
   },
   "bentolanh/masou-kishin-english-patch": {
-   "checked": "2026-10-22T12:22:11Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Super Robot Taisen OG Saga: Masou Kishin"
+   "title": "Super Robot Taisen OG Saga: Masou Kishin - The Lord of Elemental"
   },
   "bigbanana23/london-seirei-tanteidan": {
    "checked": "2026-10-22T10:24:13Z",
@@ -207,9 +212,9 @@
    "vn": "v1187"
   },
   "bruder-grimm/animal_forest_psp": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Animal Forest PSP port"
+   "title": "Doubutsu no Mori"
   },
   "butthoumust/kamaitachi-sfc-english": {
    "checked": "2026-10-22T10:24:13Z",
@@ -235,11 +240,6 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "Super Robot Taisen OG Gaiden"
-  },
-  "caribbeansc/mdr-navi-i18n": {
-   "checked": "2026-10-22T09:57:51Z",
-   "iv": 1,
-   "title": "Mdr Navi I18N"
   },
   "chivien99999/khamrai-english": {
    "checked": "2026-10-21T12:03:04Z",
@@ -272,9 +272,9 @@
    "title": "Nobunaga Ranseiki Puk"
   },
   "damon-daemon/nobunaga-reppuuden-puk-english": {
-   "checked": "2026-10-22T21:45:23Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Nobunaga Reppuuden Puk"
+   "title": "Nobunaga no Yabou: Reppuuden with Power-Up Kit"
   },
   "damon-daemon/nobunaga-soutenroku-puk-english": {
    "checked": "2026-10-22T12:22:11Z",
@@ -287,19 +287,14 @@
    "title": "Sangokushi VI with Power-Up Kit"
   },
   "damon-daemon/sangokushi-ds-3-english": {
-   "checked": "2026-10-22T12:22:11Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Romance of the Three Kingdoms DS 3"
+   "title": "Sangokushi DS 3"
   },
   "damon-daemon/taiko-risshiden-5-english": {
    "checked": "2026-10-22T12:22:11Z",
    "iv": 1,
    "title": "Taiko Risshiden V"
-  },
-  "ddhuet/ss2-modding-environment": {
-   "checked": "2026-10-24T11:17:05Z",
-   "iv": 1,
-   "title": "SS2 Modding Environment"
   },
   "demmis98/3s-psp": {
    "checked": "2026-10-22T10:24:13Z",
@@ -307,14 +302,14 @@
    "title": "Street Fighter III: 3rd Strike (PSP Port)"
   },
   "derekpascarella/birdcageofhorrors-englishpatchdreamcast": {
-   "checked": "2026-10-22T17:20:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Grauen no Torikago / Birdcage of Horrors"
+   "title": "Grauen no Torikago"
   },
   "derekpascarella/capcomvs.snk2-englishpatchdreamcast": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Capcom vs. SNK 2: Millionaire Fighting 2001 DC"
+   "title": "Capcom vs. SNK 2: Millionaire Fighting 2001"
   },
   "derekpascarella/chaosfield-englishpatchdreamcast": {
    "checked": "2026-10-22T12:22:11Z",
@@ -322,9 +317,9 @@
    "title": "Chaos Field"
   },
   "derekpascarella/coolcooltoon-englishpatchdreamcast": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Cool Cool Toon DC"
+   "title": "Cool Cool Toon"
   },
   "derekpascarella/deathcrimson2altarofmelanito-englishpatchdreamcast": {
    "checked": "2026-10-22T21:45:23Z",
@@ -332,9 +327,14 @@
    "title": "Death Crimson 2: Meranito no Saidan"
   },
   "derekpascarella/digicharatfantasy-englishpatchdreamcast": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
+   "img": "https://t.vndb.org/cv/24/96924.jpg",
    "iv": 1,
-   "title": "Di Gi Charat Fantasy DC"
+   "match": 1.0,
+   "name": "Di Gi Charat Fantasy",
+   "sexual": 0,
+   "title": "Di Gi Charat Fantasy",
+   "vn": "v7498"
   },
   "derekpascarella/jungrhythm-englishpatchsaturn": {
    "checked": "2026-10-22T21:45:23Z",
@@ -342,9 +342,14 @@
    "title": "Jung Rhythm"
   },
   "derekpascarella/nakoruruthegiftshegaveme-englishpatchdreamcast": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
+   "img": "https://t.vndb.org/cv/48/100648.jpg",
    "iv": 1,
-   "title": "Nakoruru: Ano Hito Kara no Okurimono DC"
+   "match": 1.0,
+   "name": "Nakoruru ~Ano Hito kara no Okurimono~",
+   "sexual": 0,
+   "title": "Nakoruru: Ano Hito kara no Okurimono",
+   "vn": "v4349"
   },
   "derekpascarella/neongenesisevangeliontypingprojectadvanced-englishpatchdreamcast": {
    "checked": "2026-10-23T17:17:32Z",
@@ -387,9 +392,9 @@
    "title": "Team Innocent: The Point of No Return - G.C.P.O.SS"
   },
   "derekpascarella/triggerheartexelica-englishpatchdreamcast": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Triggerheart Exelica DC"
+   "title": "Trigger Heart Exelica"
   },
   "derekpascarella/trizeal-englishpatchdreamcast": {
    "checked": "2026-10-22T21:45:23Z",
@@ -432,9 +437,9 @@
    "title": "Samba De Amigo Ver. 2000"
   },
   "eadmaster/pcrown": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Pcrown"
+   "title": "Princess Crown"
   },
   "eight-mansions/linda-cubed-again": {
    "checked": "2026-10-22T21:45:23Z",
@@ -447,9 +452,9 @@
    "title": "Mahjaventure: Warring Tiles"
   },
   "excalz/ps4-retranslation": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Ps4 Retranslation"
+   "title": "Phantasy Star IV"
   },
   "exhilo62/dqxi-3ds-english-patch": {
    "checked": "2026-10-22T09:57:51Z",
@@ -502,9 +507,9 @@
    "title": "Willy Wombat"
   },
   "flukeylukey1/nappletaleengpatchfix": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Napple Tale: Arsia in Daydream DC"
+   "title": "Napple Tale: Arsia in Daydream"
   },
   "gagnonpl/spriggan-en": {
    "checked": "2026-10-22T10:24:13Z",
@@ -612,9 +617,9 @@
    "vn": "v5390"
   },
   "jose-tissei/densha-de-go-yamanote-english": {
-   "checked": "2026-10-22T21:45:23Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Densha De Go Yamanote"
+   "title": "Densha de Go!! Hashirou Yamanote-sen"
   },
   "julianow/tales-of-symphonia-ngc-undub": {
    "checked": "2026-10-21T12:03:04Z",
@@ -662,14 +667,14 @@
    "title": "Ys V: Lost Kefin - Kingdom of Sand"
   },
   "kaisaan/newtheory": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Newtheory"
+   "title": "Ys IV: Mask of the Sun - A New Theory"
   },
   "kaisaan/sn1-ds-trans": {
-   "checked": "2026-10-22T12:22:11Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Summon Night 1"
+   "title": "Summon Night"
   },
   "kaisaan/wanderers": {
    "checked": "2026-10-22T12:22:11Z",
@@ -686,16 +691,6 @@
    "iv": 1,
    "title": "Project Zero"
   },
-  "kde/l10n-nds": {
-   "checked": "2026-10-23T05:03:31Z",
-   "iv": 1,
-   "title": "L10N"
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "checked": "2026-10-25T04:56:45Z",
-   "iv": 1,
-   "title": "Dqxi"
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -710,11 +705,6 @@
    "checked": "2026-10-24T04:48:17Z",
    "iv": 1,
    "title": "Umineko no Naku Koro ni Portable 1"
-  },
-  "lantomorroww/cusasearcher": {
-   "checked": "2026-10-24T23:24:07Z",
-   "iv": 1,
-   "title": "Cusa Searcher"
   },
   "legendarydoors/house-of-tarot-english": {
    "checked": "2026-10-22T12:22:11Z",
@@ -977,9 +967,9 @@
    "title": "Fullmetal Alchemist: Stray Rondo"
   },
   "link:http://www.romhacking.net/translations/3136": {
-   "checked": "2026-10-23T21:31:12Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "R-Type Tactics II"
+   "title": "R-Type Tactics II: Operation Bitter Chocolate"
   },
   "link:http://www.romhacking.net/translations/3191": {
    "checked": "2026-10-23T21:31:12Z",
@@ -1072,9 +1062,9 @@
    "title": "Rogue Hearts Dungeon"
   },
   "link:http://www.romhacking.net/translations/5665": {
-   "checked": "2026-10-23T21:31:12Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Riyuu"
+   "title": "Ganbare Goemon Kirakira Douchuu: Boku ga Dancer ni Natta Wake"
   },
   "link:http://www.romhacking.net/translations/5666": {
    "checked": "2026-10-23T21:31:12Z",
@@ -1257,9 +1247,9 @@
    "title": "Ys IV: Mask of the Sun"
   },
   "link:https://aeongenesis.net/projects/ys5": {
-   "checked": "2026-10-24T04:48:17Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Ys V: Kefin: The Lost City of Sand"
+   "title": "Ys V: Ushinawareta Suna no Miyako Kefin"
   },
   "link:https://agtteam.net/mushishi": {
    "checked": "2026-10-22T10:45:22Z",
@@ -1276,6 +1266,11 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "checked": "2026-10-25T05:10:35Z",
+   "iv": 1,
+   "title": "Sonic Gems Collection"
+  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1290,16 +1285,6 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
-  },
-  "link:https://archive.org/details/air-english-patch-psp": {
-   "checked": "2026-10-25T04:56:45Z",
-   "img": "https://t.vndb.org/cv/04/103904.jpg",
-   "iv": 1,
-   "match": 1.0,
-   "name": "AIR",
-   "sexual": 0,
-   "title": "AIR",
-   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1481,6 +1466,11 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
+  "link:https://archive.org/details/bulk-slash-english-patch": {
+   "checked": "2026-10-25T05:10:35Z",
+   "iv": 1,
+   "title": "Bulk Slash"
+  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -1502,9 +1492,9 @@
    "title": "Chaos Legion"
   },
   "link:https://archive.org/details/clock-tower-for-wonder-swan-english-v-1-1": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Clock Tower for WonderSwan WonderSwan"
+   "title": "Clock Tower for"
   },
   "link:https://archive.org/details/clock_tower_3_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1582,9 +1572,9 @@
    "title": "Dokapon Kingdom"
   },
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": {
-   "checked": "2026-10-23T11:50:40Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Doki Oki ( 1995) VKX"
+   "title": "Doki Oki"
   },
   "link:https://archive.org/details/doshin_the_giant_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1595,11 +1585,6 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
-  },
-  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
-   "checked": "2026-10-25T04:56:45Z",
-   "iv": 1,
-   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1630,11 +1615,6 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "Drakengard 2"
-  },
-  "link:https://archive.org/details/dt-1144-a3": {
-   "checked": "2026-10-22T10:24:13Z",
-   "iv": 1,
-   "title": "DS Telejan (1981 DECO Cassette System)"
   },
   "link:https://archive.org/details/dual_hearts_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1902,9 +1882,9 @@
    "title": "Hexyz Force"
   },
   "link:https://archive.org/details/inazuma-eleven-3-the-ogre-nds-eng-patch": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Inazuma Eleven 3: Sekai Heno Chousen The Ogre! DS"
+   "title": "Inazuma Eleven 3: Sekai e no Chousen!! The Ogre"
   },
   "link:https://archive.org/details/industrial_spy_oe_undub_patch": {
    "checked": "2026-10-24T16:05:02Z",
@@ -1947,9 +1927,9 @@
    "title": "Kirby's Epic Yarn"
   },
   "link:https://archive.org/details/labyrinth-island-famicom-english": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1990, NES / Famicom)"
+   "title": "Meikyuu Jima"
   },
   "link:https://archive.org/details/liberation_maiden_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
@@ -2036,11 +2016,6 @@
    "iv": 1,
    "title": "Mischief Makers"
   },
-  "link:https://archive.org/details/mqj-c0": {
-   "checked": "2026-10-22T10:24:13Z",
-   "iv": 1,
-   "title": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1988, Arcade)"
-  },
   "link:https://archive.org/details/mr_driller_2_gba_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -2065,16 +2040,6 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "New Little King's Story"
-  },
-  "link:https://archive.org/details/nfsu-2-sha-do-english-english-patch": {
-   "checked": "2026-10-22T10:24:13Z",
-   "iv": 1,
-   "title": "PS2 NFSU 2 SHA_DO"
-  },
-  "link:https://archive.org/details/nfsu-j-tune-english-language-select": {
-   "checked": "2026-10-22T10:24:13Z",
-   "iv": 1,
-   "title": "NFSU J Tune"
   },
   "link:https://archive.org/details/nightshade_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
@@ -2171,11 +2136,6 @@
    "iv": 1,
    "title": "Project Zero 3: The Tormented"
   },
-  "link:https://archive.org/details/purpura-sancta-vita-caesaris-baronii-english": {
-   "checked": "2026-10-22T10:24:13Z",
-   "iv": 1,
-   "title": "Purpura Sancta seu Vita Caesaris Baronii (Life of Cardinal Cesare Baronio), 1651 —"
-  },
   "link:https://archive.org/details/puyopuyotetris-3ds-english-patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -2230,11 +2190,6 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Samurai Warriors: State of War"
-  },
-  "link:https://archive.org/details/sengokubasara3utageenglish": {
-   "checked": "2026-10-25T04:56:45Z",
-   "iv": 1,
-   "title": "Sengoku BASARA 3 Utage —"
   },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
@@ -2306,11 +2261,6 @@
    "iv": 1,
    "title": "Sky Odyssey"
   },
-  "link:https://archive.org/details/skylanders-english-patch-wii-u": {
-   "checked": "2026-10-22T10:24:13Z",
-   "iv": 1,
-   "title": "Skylanders"
-  },
   "link:https://archive.org/details/sonic_battle_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -2345,11 +2295,6 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
-  },
-  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
-   "checked": "2026-10-25T04:56:45Z",
-   "iv": 1,
-   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -2527,9 +2472,14 @@
    "title": "SOS: The Final Escape"
   },
   "link:https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
+   "img": "https://t.vndb.org/cv/53/107153.jpg",
    "iv": 1,
-   "title": "Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta Offline"
+   "match": 1.0,
+   "name": "Ciel Nosurge ~Ushinawareta Hoshi e Sasagu Uta~",
+   "sexual": 0.07,
+   "title": "Ciel nosurge: Ushinawareta Hoshi e Sasagu Uta",
+   "vn": "v15061"
   },
   "link:https://boosty.to/plissken/posts/d68bdccd-f184-44ff-9216-7718f5f0993e": {
    "checked": "2026-10-22T12:06:29Z",
@@ -2662,9 +2612,9 @@
    "title": "Fire Emblem: New Theory Of Thracia 776"
   },
   "link:https://feuniverse.us/t/fe5-super-thracia-english-menu-translation/7855": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Super Thracia"
+   "title": "Fire Emblem: Thracia 776"
   },
   "link:https://forum.klonoa.network/?topic=2175.msg30818": {
    "checked": "2026-10-22T10:24:13Z",
@@ -2702,9 +2652,9 @@
    "title": "Fire Emblem Gaiden"
   },
   "link:https://forums.therockmanexezone.com/rockman-exe6-english-patches-t5507.html": {
-   "checked": "2026-10-23T11:50:40Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "RockMan EXE 6: Dennoujuu Grega"
+   "title": "Rockman EXE 6: Dennoujuu Gregar"
   },
   "link:https://froidromhacks.com/dragon-quest-heroes-2-pcsg00820-english-incomplete-beta-vita": {
    "checked": "2026-10-22T12:06:29Z",
@@ -2730,11 +2680,6 @@
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
    "title": "Kingdom Hearts: Final Mix"
-  },
-  "link:https://gamebanana.com/mods/458681": {
-   "checked": "2026-10-24T11:17:05Z",
-   "iv": 1,
-   "title": "Persona 2: Innocent Sin - DLC enabler mod"
   },
   "link:https://gamebanana.com/mods/480082": {
    "checked": "2026-10-21T07:42:14Z",
@@ -3007,9 +2952,9 @@
    "title": "Rockman ZX Advent (Mega Man ZX Advent)"
   },
   "link:https://gbatemp.net/threads/rockman-zx-mega-man-zx-full-undub.492408": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Rockman ZX (Mega Man ZX) DS"
+   "title": "Rockman ZX"
   },
   "link:https://gbatemp.net/threads/saikoro-psycho-seventh-heaven-english-translation-mod.656500/": {
    "checked": "2026-10-21T07:42:14Z",
@@ -3217,14 +3162,14 @@
    "title": "Wonder Trek"
   },
   "link:https://romhack.ing/database/content/entry/-fQC78bOQKq64yezGGgHmw/madou-monogatari-english-translation": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Madou Monogatari - Sorcery Saga"
+   "title": "Madou Monogatari"
   },
   "link:https://romhack.ing/database/content/entry/3BAn4gzlRzKufRgCTLPnTQ/farland-story-fx-english-translation": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Farland Story FX PC-FX"
+   "title": "Farland Story FX"
   },
   "link:https://romhack.ing/database/content/entry/8tNv5JQBNs8FWu0C2YAi/air-management-96-english-translation": {
    "checked": "2026-10-22T09:57:51Z",
@@ -3232,9 +3177,9 @@
    "title": "Air Management '96"
   },
   "link:https://romhack.ing/database/content/entry/CR5dEzWWS-mum-4fNn4TPw/digimon-tamers-battle-spirit-ver-1-5-english-translation": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Digimon Tamers: Battle Spirit Ver. 1.5 WonderSwan Color"
+   "title": "Digimon Tamers: Battle Spirit Ver. 1.5"
   },
   "link:https://romhack.ing/database/content/entry/CqaRmZaFQNS1JX1zpGFNSQ/blaze-and-blade-busters-english-translation": {
    "checked": "2026-10-22T10:24:13Z",
@@ -3242,9 +3187,9 @@
    "title": "Blaze & Blade Busters"
   },
   "link:https://romhack.ing/database/content/entry/GaY7r9hPQBmy3W0yOUTx0w/shonen-ninja-sasuke-english-translation": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Shonen Ninja Sasuke"
+   "title": "Shounen Ninja Sasuke"
   },
   "link:https://romhack.ing/database/content/entry/JR0-SV7QTySLhIDBUGCtAw/spriggan-mark-2-english-translation": {
    "checked": "2026-10-22T09:57:51Z",
@@ -3297,9 +3242,9 @@
    "title": "Brightis"
   },
   "link:https://romhack.ing/database/content/entry/xisHPNIlSTCWa5JkDpJpIw/sword-world-sfc-english-translation": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Sword World"
+   "title": "Sword World SFC"
   },
   "link:https://romhackheaven.com/games/nes/rygar/english-argos-no-senshi-hachamecha-daishingeki-translation": {
    "checked": "2026-10-22T17:20:22Z",
@@ -3312,9 +3257,9 @@
    "title": "RockMan Battle & Fighters"
   },
   "link:https://romhackheaven.com/games/snes/demons-crest/english-demons-crest-retranslation-restoration": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Demon’s Crest Retranslation + Restoration"
+   "title": "Demon's Blazon: Makaimura Monshou Hen"
   },
   "link:https://romhackheaven.com/games/ss/blast-wind/english-blast-wind-translation": {
    "checked": "2026-10-22T21:45:23Z",
@@ -3347,9 +3292,9 @@
    "title": "ChainDive"
   },
   "link:https://romhackplaza.org/translations/dracula-ii-noroi-no-fuuin-english-translation-fds": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Dracula II: Noroi no Fuuin FDS"
+   "title": "Dracula II: Noroi no Fuuin"
   },
   "link:https://romhackplaza.org/translations/dragon-ball-3-the-legend-of-goku-english-translation-nintendo-entertainment-system": {
    "checked": "2026-10-21T12:03:04Z",
@@ -3450,11 +3395,6 @@
    "checked": "2026-10-22T17:20:22Z",
    "iv": 1,
    "title": "Nekojara Monogatari"
-  },
-  "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": {
-   "checked": "2026-10-25T04:56:45Z",
-   "iv": 1,
-   "title": "SEGA"
   },
   "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64": {
    "checked": "2026-10-24T16:05:02Z",
@@ -3812,14 +3752,14 @@
    "title": "Shining Force III: Scenario 1 - Outo no Kyoshin"
   },
   "link:https://sharksnack.github.io/asuka/patches/dreamcast-english-demo-patch": {
-   "checked": "2026-10-23T05:03:31Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Fushigi no Dungeon: Furai no Shiren Gaiden - Onna Kenshi Asuka Kenzan!"
+   "title": "Fushigi no Dungeon: Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan!"
   },
   "link:https://shc.zone/entries/contest2025/1332": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Sonic Battle Retranslated SHC2025"
+   "title": "Sonic Battle"
   },
   "link:https://shrinefox.com/forum/viewtopic.php?f=18&t=492": {
    "checked": "2026-10-24T11:17:05Z",
@@ -3967,9 +3907,9 @@
    "title": "Sin and Punishment: Successor of the Earth"
   },
   "link:https://www.fireemblemwod.com/foro/viewtopic.php?f=30&t=16733": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu DS"
+   "title": "Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu"
   },
   "link:https://www.gamebrew.org/wiki/7th_Dragon": {
    "checked": "2026-10-21T07:42:14Z",
@@ -4543,9 +4483,9 @@
    "title": "The Idolm@ster SP"
   },
   "link:https://www.gamebrew.org/wiki/Inazuma_Eleven_GO_2_Chrono_Stone_Neppu_Raimei_Undub_3DS": {
-   "checked": "2026-10-21T07:42:14Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Inazuma Eleven GO 2: Chrono Stone"
+   "title": "Inazuma Eleven GO Chrono Stone: Neppuu"
   },
   "link:https://www.gamebrew.org/wiki/Is_It_Wrong_To_Try_To_Pick_Up_Girls_In_A_Dungeon_Infinite_Combate_English_Vita": {
    "checked": "2026-10-21T07:14:34Z",
@@ -5758,9 +5698,9 @@
    "title": "TwinBee 3: Poko Poko Dai Maou"
   },
   "link:https://www.marcrobledo.com/neo-geo-pocket/king-of-fighters-battle-de-paradise-english-translation": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "The King of Fighters: Battle de Paradise Neo Geo Pocket Color"
+   "title": "The King of Fighters: Battle de Paradise"
   },
   "link:https://www.patchclan.com": {
    "checked": "2026-10-22T10:24:13Z",
@@ -5778,9 +5718,9 @@
    "title": "Pokemon Vega"
   },
   "link:https://www.pokecommunity.com/threads/pocketrgb-en-a-full-red-green-and-blue-translation-of-the-original-pocket-monsters.492958": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Pocket Monsters: Red, Green & Blue Version"
+   "title": "Pocket Monsters Aka"
   },
   "link:https://www.projectmetafalica.com": {
    "checked": "2026-10-22T10:24:13Z",
@@ -6118,9 +6058,9 @@
    "title": "Ganbare Goemon 2"
   },
   "link:https://www.romhacking.net/translations/1333": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Mother 3 + HQ Sound"
+   "title": "Mother 3"
   },
   "link:https://www.romhacking.net/translations/1341": {
    "checked": "2026-10-23T11:50:40Z",
@@ -6358,9 +6298,9 @@
    "title": "Castle Quest"
   },
   "link:https://www.romhacking.net/translations/1502": {
-   "checked": "2026-10-23T11:50:40Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Madou Monogatari I: Mitsu no Madouryoku"
+   "title": "Madou Monogatari I: 3-tsu no Madoukyuu"
   },
   "link:https://www.romhacking.net/translations/1506": {
    "checked": "2026-10-23T21:31:12Z",
@@ -6458,9 +6398,9 @@
    "title": "Doubutsu no Mori"
   },
   "link:https://www.romhacking.net/translations/1582": {
-   "checked": "2026-10-22T17:20:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Magic John / Totally Rad"
+   "title": "Magic John"
   },
   "link:https://www.romhacking.net/translations/1599": {
    "checked": "2026-10-23T05:03:31Z",
@@ -6578,9 +6518,9 @@
    "title": "Toujin Makyou Den: Heracles no Eikou"
   },
   "link:https://www.romhacking.net/translations/1682": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Takeshi's Challenge / Takeshi no Chousenjou"
+   "title": "Takeshi no Chousenjou"
   },
   "link:https://www.romhacking.net/translations/1695": {
    "checked": "2026-10-22T10:45:22Z",
@@ -6773,9 +6713,9 @@
    "title": "Konami Wai Wai World"
   },
   "link:https://www.romhacking.net/translations/1996": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Deep Dungeon III Yuushi e no Tabi - Graphics Mod and Rebalance"
+   "title": "Deep Dungeon III: Yuushi e no Tabi"
   },
   "link:https://www.romhacking.net/translations/202": {
    "checked": "2026-10-22T21:45:23Z",
@@ -6913,9 +6853,9 @@
    "title": "Sweet Home"
   },
   "link:https://www.romhacking.net/translations/2220": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Ninja Hattori-kun: Ninja wa Syugyou de Gozaru"
+   "title": "Ninja Hattori-kun: Ninja wa Shuugyou de Gozaru no Maki"
   },
   "link:https://www.romhacking.net/translations/2227": {
    "checked": "2026-10-23T11:50:40Z",
@@ -6931,11 +6871,6 @@
    "checked": "2026-10-22T17:20:22Z",
    "iv": 1,
    "title": "Super Donkey Kong"
-  },
-  "link:https://www.romhacking.net/translations/2241": {
-   "checked": "2026-10-22T12:06:29Z",
-   "iv": 1,
-   "title": "Chik Bik Ji Jin: Saam Gwok Ji / Three Kingdom - Battle of Red Cliffs"
   },
   "link:https://www.romhacking.net/translations/2249": {
    "checked": "2026-10-23T11:50:40Z",
@@ -6953,9 +6888,14 @@
    "title": "Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou!"
   },
   "link:https://www.romhacking.net/translations/2260": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
+   "img": "https://t.vndb.org/cv/72/90172.jpg",
    "iv": 1,
-   "title": "Gyakuten Kenji 2 DS"
+   "match": 1.0,
+   "name": "Gyakuten Kenji 2",
+   "sexual": 0,
+   "title": "Gyakuten Kenji 2",
+   "vn": "v6639"
   },
   "link:https://www.romhacking.net/translations/2263": {
    "checked": "2026-10-22T12:06:29Z",
@@ -7118,9 +7058,9 @@
    "title": "19: Neunzehn"
   },
   "link:https://www.romhacking.net/translations/2492": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Musashi no Ken: Tadaima Shugyō Chū"
+   "title": "Musashi no Ken: Tadaima Shugyou Chuu"
   },
   "link:https://www.romhacking.net/translations/2493/": {
    "checked": "2026-10-21T06:05:34Z",
@@ -7378,9 +7318,9 @@
    "title": "Sakigake!! Otokojuku: Shippuu Ichi Gou Sei"
   },
   "link:https://www.romhacking.net/translations/2814": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Out Live TurboGrafx-16"
+   "title": "Out Live"
   },
   "link:https://www.romhacking.net/translations/2835/": {
    "checked": "2026-10-21T06:05:34Z",
@@ -8108,9 +8048,14 @@
    "title": "Megami Tensei Gaiden: Last Bible"
   },
   "link:https://www.romhacking.net/translations/4271": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
+   "img": "https://t.vndb.org/cv/24/120224.jpg",
    "iv": 1,
-   "title": "Kuroshitsuji: Phantom & Ghost DS"
+   "match": 1.0,
+   "name": "Kuroshitsuji: Phantom & Ghost",
+   "sexual": 0,
+   "title": "Kuroshitsuji: Phantom & Ghost",
+   "vn": "v20926"
   },
   "link:https://www.romhacking.net/translations/4280": {
    "checked": "2026-10-22T17:20:22Z",
@@ -8213,9 +8158,9 @@
    "title": "Fire Emblem: Thracia 776"
   },
   "link:https://www.romhacking.net/translations/4654": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Sailor Moon Another Story - Grind Be Gone + Swiss Manicure"
+   "title": "Bishoujo Senshi Sailor Moon: Another Story"
   },
   "link:https://www.romhacking.net/translations/466/": {
    "checked": "2026-10-21T06:05:34Z",
@@ -8298,9 +8243,9 @@
    "title": "Blue Blink"
   },
   "link:https://www.romhacking.net/translations/5066": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Crash Bandicoot Bakusou! Nitro Kart"
+   "title": "Crash Nitro Kart"
   },
   "link:https://www.romhacking.net/translations/511": {
    "checked": "2026-10-23T17:17:32Z",
@@ -8463,9 +8408,9 @@
    "title": "The 4.6 Billion Year Saga: To Faraway Eden"
   },
   "link:https://www.romhacking.net/translations/549": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Dragon Ball 3: Gokuuden"
+   "title": "Dragon Ball 3: Gokuu Den"
   },
   "link:https://www.romhacking.net/translations/55": {
    "checked": "2026-10-23T11:50:40Z",
@@ -8473,9 +8418,9 @@
    "title": "Wizardry II: Llylgamyn no Isan"
   },
   "link:https://www.romhacking.net/translations/5525": {
-   "checked": "2026-10-23T11:50:40Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Chocobo no Fushigi na Dungeon for WonderSwan"
+   "title": "Chocobo no Fushigi na Dungeon for"
   },
   "link:https://www.romhacking.net/translations/5543": {
    "checked": "2026-10-23T21:31:12Z",
@@ -8518,9 +8463,9 @@
    "title": "Wizardry I: Proving Grounds of the Mad Overlord"
   },
   "link:https://www.romhacking.net/translations/5606": {
-   "checked": "2026-10-23T11:50:40Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Digital Monster Card Game Ver. WonderSwan Color"
+   "title": "Digital Monster Card Game Ver."
   },
   "link:https://www.romhacking.net/translations/5614": {
    "checked": "2026-10-23T05:03:31Z",
@@ -8618,9 +8563,9 @@
    "title": "Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen"
   },
   "link:https://www.romhacking.net/translations/5759": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Hokuto no Ken / Black Belt SMS"
+   "title": "Hokuto no Ken"
   },
   "link:https://www.romhacking.net/translations/576": {
    "checked": "2026-10-23T05:03:31Z",
@@ -8823,9 +8768,9 @@
    "title": "Ganpuru: Gunman's Proof"
   },
   "link:https://www.romhacking.net/translations/6227": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Nazo Puyo: Arle no Roux Game Gear"
+   "title": "Nazo Puyo: Arle no Roux"
   },
   "link:https://www.romhacking.net/translations/6233": {
    "checked": "2026-10-23T11:50:40Z",
@@ -8898,9 +8843,9 @@
    "title": "Hikari no Senshi Foton: The Ultimate Game on Planet Earth"
   },
   "link:https://www.romhacking.net/translations/6343": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Line Attack Heroes WiiWare WAD"
+   "title": "Line Attack Heroes"
   },
   "link:https://www.romhacking.net/translations/635": {
    "checked": "2026-10-22T21:45:23Z",
@@ -9003,9 +8948,9 @@
    "title": "Planet Laika"
   },
   "link:https://www.romhacking.net/translations/6452": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Death Note: Kira Game DS"
+   "title": "Death Note: Kira Game"
   },
   "link:https://www.romhacking.net/translations/6477": {
    "checked": "2026-10-23T17:17:32Z",
@@ -9048,9 +8993,9 @@
    "title": "Nora to Toki no Koubou: Kiri no Mori no Majo"
   },
   "link:https://www.romhacking.net/translations/6511": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Kaze no Klonoa: Moonlight Museum WonderSwan"
+   "title": "Kaze no Klonoa: Moonlight Museum"
   },
   "link:https://www.romhacking.net/translations/6513": {
    "checked": "2026-10-23T05:03:31Z",
@@ -9173,9 +9118,9 @@
    "title": "Zoids Saga DS: Legend of Arcadia"
   },
   "link:https://www.romhacking.net/translations/6639": {
-   "checked": "2026-10-23T05:03:31Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Monter Hunter Freedom Unite - Dedummyfier"
+   "title": "Monster Hunter Portable 2nd G"
   },
   "link:https://www.romhacking.net/translations/6640": {
    "checked": "2026-10-23T05:03:31Z",
@@ -9188,9 +9133,9 @@
    "title": "Iblard: Laputa no Kaeru Machi"
   },
   "link:https://www.romhacking.net/translations/6647": {
-   "checked": "2026-10-23T05:03:31Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Koi wa Balance"
+   "title": "Koi wa Balance: Battle of Lovers"
   },
   "link:https://www.romhacking.net/translations/6648": {
    "checked": "2026-10-23T05:03:31Z",
@@ -9321,11 +9266,6 @@
    "checked": "2026-10-23T11:50:40Z",
    "iv": 1,
    "title": "Yu Yu Hakusho II: Gekitou! Nanakyou no Tatakai"
-  },
-  "link:https://www.romhacking.net/translations/6806": {
-   "checked": "2026-10-22T12:06:29Z",
-   "iv": 1,
-   "title": "Janggun-ui Adeul - General's Son"
   },
   "link:https://www.romhacking.net/translations/6807": {
    "checked": "2026-10-23T05:03:31Z",
@@ -9668,19 +9608,19 @@
    "title": "Dyna Brothers 2"
   },
   "link:https://www.romhacking.net/translations/7414": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Tobidase Daisakusen FDS"
+   "title": "Tobidase Daisakusen"
   },
   "link:https://www.romhacking.net/translations/7417": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Target Earth / Assault Suit Leynos"
+   "title": "Assault Suit Leynos"
   },
   "link:https://www.romhacking.net/translations/7418": {
-   "checked": "2026-10-22T12:06:29Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Ultraman 2: Shutsugeki Katoku Tai!! FDS"
+   "title": "Ultraman 2: Shutsugeki Katoku Tai!!"
   },
   "link:https://www.romhacking.net/translations/742": {
    "checked": "2026-10-24T04:48:17Z",
@@ -9718,14 +9658,14 @@
    "title": "Metalgun Slinger"
   },
   "link:https://www.romhacking.net/translations/7454": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Necros no Yousai Turbografx-16"
+   "title": "Necros no Yousai"
   },
   "link:https://www.romhacking.net/translations/7463": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Macross M3 DC"
+   "title": "Macross M3"
   },
   "link:https://www.romhacking.net/translations/7464": {
    "checked": "2026-10-22T10:45:22Z",
@@ -9743,9 +9683,9 @@
    "title": "Might and Magic: Day of the Destroyer"
   },
   "link:https://www.romhacking.net/translations/7504": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Zen Nihon Joshi Pro Wres: Queen of Queens PC-FX"
+   "title": "Zen Nihon Joshi Pro Wrestling: Queen of Queens"
   },
   "link:https://www.romhacking.net/translations/751": {
    "checked": "2026-10-23T21:31:12Z",
@@ -9783,9 +9723,9 @@
    "title": "Nekketsu Oyako"
   },
   "link:https://www.romhacking.net/translations/7577": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Fray: Shugyou Hen Game Gear"
+   "title": "Fray: Shugyou Hen"
   },
   "link:https://www.romhacking.net/translations/758/": {
    "checked": "2026-10-21T06:05:34Z",
@@ -9793,9 +9733,9 @@
    "title": "Cyborg 009"
   },
   "link:https://www.romhacking.net/translations/7599": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Langrisser V"
+   "title": "Langrisser V: The End of Legend"
   },
   "link:https://www.romhacking.net/translations/761/": {
    "checked": "2026-10-21T06:05:34Z",
@@ -9903,9 +9843,9 @@
    "title": "Kunio-Kun no Dodge Ball Dayo Zenin Shuugo!"
   },
   "link:https://www.romhacking.net/translations/82": {
-   "checked": "2026-10-22T10:45:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "SNK vs Capcom: Card Fighters 2 Expand Edition Neo Geo Pocket Color"
+   "title": "SNK vs. Capcom: Card Fighters 2 Expand Edition"
   },
   "link:https://www.romhacking.net/translations/823": {
    "checked": "2026-10-23T21:31:12Z",
@@ -10128,9 +10068,9 @@
    "title": "Medarot: Kuwagata Version"
   },
   "medabots/medarot3": {
-   "checked": "2026-10-22T10:24:13Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Medarot 3: Kabuto/Kuwagata Version"
+   "title": "Medarot 3: Kabuto Version"
   },
   "megastylerc/idolmaster-dearly-stars-english": {
    "checked": "2026-10-22T09:57:51Z",
@@ -10138,14 +10078,19 @@
    "title": "Idolmaster Dearly Stars"
   },
   "mgdays/kisekko-gurumi-eng-patch-tools": {
-   "checked": "2026-10-22T12:22:11Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Kisekko Gurumi"
+   "title": "Kisekko Gurumi: Chesty to Nuigurumi-tachi no Mahou no Bouken"
   },
   "mholzinger/snatcher-segacd-to-saturn-eng": {
-   "checked": "2026-10-24T04:48:17Z",
+   "checked": "2026-10-25T05:10:35Z",
+   "img": "https://t.vndb.org/cv/23/88223.jpg",
    "iv": 1,
-   "title": "Snatcher Segacd To"
+   "match": 1.0,
+   "name": "SNATCHER",
+   "sexual": 0,
+   "title": "Snatcher",
+   "vn": "v1305"
   },
   "micaelmaciel/monster-guardians-eng": {
    "checked": "2026-10-22T09:57:51Z",
@@ -10193,9 +10138,9 @@
    "title": "Rebuild of Evangelion -Sound Impact"
   },
   "minhnhattonthat/gachasute-dino-device-2-en": {
-   "checked": "2026-10-22T12:22:11Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Gachasute! Dino Device 2"
+   "title": "Gachasute! Dino Device 2: Dragon"
   },
   "minhnhattonthat/granbo": {
    "checked": "2026-10-22T09:57:51Z",
@@ -10208,9 +10153,9 @@
    "title": "Great Battle Gaiden 2: Matsuri da Wasshoi"
   },
   "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": {
-   "checked": "2026-10-22T12:22:11Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Hanjuku Hero: Ah"
+   "title": "Hanjuku Hero: Aa, Sekai yo Hanjuku Nare...!!"
   },
   "minhnhattonthat/kabuki-rocks": {
    "checked": "2026-10-22T09:57:51Z",
@@ -10248,9 +10193,9 @@
    "title": "Rokudenashi Blues: Taiketsu! Tokyo Shitennou"
   },
   "minhnhattonthat/smt-devil-children-2-honoo-no-sho": {
-   "checked": "2026-10-22T12:22:11Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Shin Megami Tensei: Devil Children 2 Honoo no Sho / DemiKids Book of Fire"
+   "title": "Shin Megami Tensei Devil Children: Honoo no Sho"
   },
   "minhnhattonthat/sugoro-quest-dicenics-en": {
    "checked": "2026-10-22T12:22:11Z",
@@ -10263,9 +10208,9 @@
    "title": "Super Gomoku Narabe Renju"
   },
   "minhnhattonthat/velldeselba-senki": {
-   "checked": "2026-10-24T11:17:05Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Velldeselba Senki"
+   "title": "Velldeselba Senki: Tsubasa no Kunshou"
   },
   "minhnhattonthat/yu-yu-hakusho-2-english": {
    "checked": "2026-10-22T12:22:11Z",
@@ -10307,30 +10252,20 @@
    "iv": 1,
    "title": "Welcome House"
   },
-  "nn-exe/pokemon-hyper-emerald-5.7-qol": {
-   "checked": "2026-10-22T12:22:11Z",
-   "iv": 1,
-   "title": "Pokemon Hyper Emerald: Lost Artifacts v5.7"
-  },
   "nonagongoron/tornekos-great-adventure-sfc-with-remaster-script": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Tornekos Great Adventure SFC with Remaster Script"
+   "title": "Torneko no Daibouken: Fushigi no Dungeon"
   },
   "nrlemo/super-robot-wars-alpha-psx-english-ver": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Super Robot Wars Alpha PSX Ver"
+   "title": "Super Robot Taisen Alpha"
   },
   "ooa113y/umineko-catbox-english": {
    "checked": "2026-10-21T07:42:14Z",
    "iv": 1,
    "title": "Umineko no Naku Koro ni Saku"
-  },
-  "originheartgold/origin-heart-gold-en-translation": {
-   "checked": "2026-10-22T12:22:11Z",
-   "iv": 1,
-   "title": "Pokémon Origin HeartGold"
   },
   "pavel0wq/uta-no-prince-sama-repeat-english-patch": {
    "checked": "2026-10-23T11:50:40Z",
@@ -10353,9 +10288,9 @@
    "title": "Albert Odyssey"
   },
   "phamkv/gotokano": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Gotokano"
+   "title": "The Quintessential Quintuplets: Five Promises Made With Her"
   },
   "phukyes/gunparade-march-english": {
    "checked": "2026-10-22T10:24:13Z",
@@ -10373,9 +10308,9 @@
    "title": "Doko Demo Issyo"
   },
   "randomprojectsfactory/cosmic-fantasy-pce-english": {
-   "checked": "2026-10-23T05:03:31Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Cosmic Fantasy"
+   "title": "Cosmic Fantasy: Bouken Shounen Yuu"
   },
   "redeted/megami-ibunroku-persona-ps1-translation": {
    "checked": "2026-10-22T09:57:51Z",
@@ -10433,9 +10368,9 @@
    "title": "Kamigami no Asobi"
   },
   "scatterdbrain/pachipara-12-oumi-to-natsu-no-omoide-ps2-english-translation-patch": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Pachi Para 12 Oumi to Natsu no Omoide"
+   "title": "Pachi Para 12: Ooumi to Natsu no Omoide"
   },
   "scatterdbrain/superlite-2000-table-hanafuda-ps2-english-translation-patch": {
    "checked": "2026-10-22T10:45:22Z",
@@ -10498,9 +10433,9 @@
    "title": "Tales of Rebirth"
   },
   "tangobunny/gb-sailor-moon-english": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "GB Sailor Moon"
+   "title": "Bishoujo Senshi Sailor Moon"
   },
   "tellilum/.hack-fragment-definitive-translation": {
    "checked": "2026-10-22T17:20:22Z",
@@ -10518,9 +10453,9 @@
    "vn": "v30937"
   },
   "topcatromhacking-lgtm/dragon-quest-heroes-switch-english-undub": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Dragon Quest Heroes Switch"
+   "title": "Dragon Quest Heroes I・II"
   },
   "vinheim3/sakurawars1-disasm": {
    "checked": "2026-10-23T17:17:32Z",
@@ -10538,9 +10473,9 @@
    "title": "Final Fantasy III (Neoclassical)"
   },
   "waifoof/city-shrouded-in-shadow-english-translation-": {
-   "checked": "2026-10-22T21:45:23Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "巨影都市 / City Shrouded in Shadow"
+   "title": "City Shrouded in Shadow"
   },
   "waifoof/elan-plus-english-patch": {
    "checked": "2026-10-22T21:45:23Z",
@@ -10563,16 +10498,16 @@
    "title": "Detective Conan"
   },
   "zlotny/digimon-adventure-psp-translation-kit": {
-   "checked": "2026-10-22T09:57:51Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Digimon Adventure Psp Kit"
+   "title": "Digimon Adventure"
   },
   "zthegin/gintama---gintoki-vs-hijikata-game-english-translation": {
-   "checked": "2026-10-22T17:20:22Z",
+   "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
-   "title": "Gintama: Gintoki vs"
+   "title": "Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!!"
   }
  },
- "generated": "2026-10-25T04:56:45Z",
+ "generated": "2026-10-25T05:10:35Z",
  "version": 1
 }
