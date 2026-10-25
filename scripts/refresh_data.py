@@ -248,6 +248,9 @@ def refresh_covers(projects):
                 continue                  # still the right game; covers matched under the older, looser rules are looked up again
             covers.pop(ck, None); misses.pop(ck, None)      # the title was corrected: look it up again
         miss = misses.get(ck)
+        if miss and "|" in miss and miss.split("|", 1)[1] != norm(title):
+            miss = None                   # renamed since the last miss
+        miss = miss.split("|", 1)[0] if miss else miss
         if miss and (datetime.datetime.now(datetime.timezone.utc) - datetime.datetime.fromisoformat(miss.replace("Z", "+00:00"))).days < RETRY_MISSES_DAYS:
             continue
         if title:
@@ -276,7 +279,7 @@ def refresh_covers(projects):
             misses.pop(ck, None)
             log(f"  + {used} -> {hit['name']} ({hit['match']})")
         else:
-            misses[ck] = NOW
+            misses[ck] = NOW + "|" + norm(title)          # the title it was looked up under: a renamed game is looked up again
     data["generated"] = NOW
     return write_json_if_changed(path, data)
 
@@ -753,7 +756,7 @@ def source_rank(u):
     return next((i for i, s in enumerate(SOURCE_RANK) if h == s or h.endswith("." + s)), len(SOURCE_RANK))
 
 GENERIC_REPO_WORD = re.compile(r"(rom)?translat\w*|rom|roms|retro|games?|studio|tools?|toolkit|kit|patch\w*|site|project|hacks?|romhacks?|english|eng|en|fan|tl|ai|gpt|llm|auto\w*|data|the|for|and", re.I)
-TOOL_DESC = re.compile(r"agent skill|translate (retro |japanese |your )?(roms?|games)\b|with ai on your own|\bany (game|rom)s?\b|toolkit for|framework for|library for|strategy guide|walkthrough|android port|\bios port|native port|website\b|\.com\s+[-–—]|\btranslation data for\b|reverse[- ]engineering tooling", re.I)
+TOOL_DESC = re.compile(r"agent skill|translate (retro |japanese |your )?(roms?|games)\b|with ai on your own|\bany (game|rom)s?\b|toolkit for|framework for|library for|strategy guide|walkthrough|android port|\bios port|native port|website\b|\.com\s+[-–—]|\btranslation data for\b|reverse[- ]engineering tooling|internationali[sz]ation|language packs?\b|modding environment|game search|dlc (enabler|unlocker)", re.I)
 MULTI_DESC = re.compile(r"\b(patches|translations|hacks)\b[^.]{0,60}\bgames\b|\bvarious games\b|\bseveral games\b|\bmultiple games\b|\bcollection of\b", re.I)
 MORE_LANGS = re.compile(r"\b(farsi|persian|latin|hebrew|greek|catalan|galician|basque|romanian|hungarian|czech|swedish|norwegian|danish|finnish|dutch|malay|tagalog|filipino|hindi|bengali)\b|[-_](es|pt|br|ptbr|fr|de|it|ru|zh|cn|ko|vi|id|pl|tr|ar|fa|la)$", re.I)
 DESC_GAME = [re.compile(p, re.I) for p in [

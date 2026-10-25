@@ -485,7 +485,9 @@ CDR_TITLE_JUNK = re.compile(r"\s*\((?:[^()]*\b(?:english|patched|translat|undub|
 def clean_cdr_title(t):
     t = CDR_TITLE_JUNK.sub("", t or "")
     t = re.sub(r"\s+-\s+[\w ]+ Version\b.*$", "", t, flags=re.I)
-    t = re.sub(r"(\s+(PS1|PSX|PS2|PSP|Sega|Saturn|Genesis|Mega Drive|SNES|SFC|NES|Famicom|GBA|GBC|NDS|3DS|N64|GameCube|GCN|Wii|PCE|TG-?16|Dreamcast))+\s*$", "", t, flags=re.I)
+    t = re.sub(r"(\s+(PS1|PSX|PS2|PSP|Sega|Saturn|Genesis|Mega Drive|Mega CD|Sega CD|SNES|SFC|NES|Famicom Disk System|Famicom|FDS|GBA|GBC|NDS|3DS|N64|GameCube|GCN|"
+               r"WiiWare WAD|WiiWare|WAD|Wii|PCE|PC Engine CD|PC Engine|PC-FX|TurboGrafx-16|TurboGrafx-CD|TurboGrafx|TG-?16|Dreamcast|DC|Game Gear|GG|Master System|SMS|"
+               r"WonderSwan Color|WonderSwan|WSC|Neo Geo Pocket Color|Neo Geo Pocket|NGPC|NGP|Virtual Boy|Satellaview))+\s*$", "", t, flags=re.I)
     return re.sub(r"\s{2,}", " ", t).strip(" -–:") or (t or "").strip()
 
 

@@ -1,7 +1,7 @@
 {
   "format": "patch-watch-overrides",
   "version": 1,
-  "updated": "2026-10-21",
+  "updated": "2026-10-25",
   "projects": {
     "blashy101/clock-maker-english-patch": {
       "cover": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_900/store/software/switch/70010000057548/b69723c8c162d8bf35349d647b6aa6d1a4d767792c8f1dcdee5aeb7d749b9f68",
@@ -161,6 +161,456 @@
     "link:https://www.gamebrew.org/wiki/Yu-Gi-Oh_Saikyo_Card_Battle_English_Translation_3DS": {
       "cover": "https://cdn2.steamgriddb.com/logo_thumb/17f187d1996682b77d756ee6d6e6c91b.png",
       "_game": "Yu-Gi-Oh! Saikyo Card Battle"
+    },
+    "link:https://www.gamebrew.org/wiki/Inazuma_Eleven_GO_2_Chrono_Stone_Neppu_Raimei_Undub_3DS": {
+      "title": "Inazuma Eleven GO Chrono Stone: Neppuu",
+      "jp": "イナズマイレブンGO2 クロノ・ストーン ネップウ"
+    },
+    "link:https://www.romhacking.net/translations/1682": {
+      "title": "Takeshi no Chousenjou",
+      "jp": "たけしの挑戦状"
+    },
+    "link:https://www.romhacking.net/translations/2260": {
+      "title": "Gyakuten Kenji 2",
+      "jp": "逆転検事2"
+    },
+    "link:https://www.romhacking.net/translations/7619": {
+      "jp": "ピクシーガーデン"
+    },
+    "link:https://www.romhacking.net/translations/7599": {
+      "title": "Langrisser V: The End of Legend",
+      "jp": "ラングリッサーV ジ・エンド・オブ・レジェンド"
+    },
+    "link:https://www.romhacking.net/translations/7577": {
+      "title": "Fray: Shugyou Hen",
+      "jp": "フレイ 修行編"
+    },
+    "link:https://www.romhacking.net/translations/7454": {
+      "title": "Necros no Yousai",
+      "jp": "ネクロスの要塞"
+    },
+    "link:https://www.romhacking.net/translations/5066": {
+      "title": "Crash Nitro Kart",
+      "jp": "クラッシュ・バンディクー 爆走!ニトロカート"
+    },
+    "link:https://www.romhacking.net/translations/1333": {
+      "title": "Mother 3",
+      "jp": "MOTHER3"
+    },
+    "link:https://www.romhacking.net/translations/7504": {
+      "title": "Zen Nihon Joshi Pro Wrestling: Queen of Queens",
+      "jp": "全日本女子プロレス クイーンオブクイーンズ"
+    },
+    "link:https://www.romhacking.net/translations/7463": {
+      "title": "Macross M3",
+      "jp": "マクロスM3"
+    },
+    "link:https://www.romhacking.net/translations/82": {
+      "title": "SNK vs. Capcom: Card Fighters 2 Expand Edition",
+      "jp": "SNK VS. CAPCOM 激突カードファイターズ2 エキスパンドエディション"
+    },
+    "link:https://www.romhacking.net/translations/6227": {
+      "title": "Nazo Puyo: Arle no Roux",
+      "jp": "なぞぷよ アルルのルー"
+    },
+    "link:https://www.romhacking.net/translations/6343": {
+      "title": "Line Attack Heroes",
+      "jp": "ラインアタックヒーローズ"
+    },
+    "link:https://www.romhacking.net/translations/2220": {
+      "title": "Ninja Hattori-kun: Ninja wa Shuugyou de Gozaru no Maki",
+      "jp": "忍者ハットリくん 忍者は修行でござるの巻"
+    },
+    "link:https://www.romhacking.net/translations/4271": {
+      "title": "Kuroshitsuji: Phantom & Ghost",
+      "jp": "黒執事 Phantom & Ghost"
+    },
+    "link:https://www.romhacking.net/translations/6452": {
+      "title": "Death Note: Kira Game",
+      "jp": "デスノート キラゲーム"
+    },
+    "link:https://www.romhacking.net/translations/6511": {
+      "title": "Kaze no Klonoa: Moonlight Museum",
+      "jp": "風のクロノア ムーンライトミュージアム"
+    },
+    "link:https://www.romhacking.net/translations/549": {
+      "title": "Dragon Ball 3: Gokuu Den",
+      "jp": "ドラゴンボール3 悟空伝"
+    },
+    "link:https://www.romhacking.net/translations/7418": {
+      "title": "Ultraman 2: Shutsugeki Katoku Tai!!",
+      "jp": "ウルトラマン2 出撃科特隊!!"
+    },
+    "link:https://www.romhacking.net/translations/1996": {
+      "title": "Deep Dungeon III: Yuushi e no Tabi",
+      "jp": "ディープダンジョンIII 勇士への旅"
+    },
+    "link:https://www.romhacking.net/translations/7417": {
+      "title": "Assault Suit Leynos",
+      "jp": "重装機兵レイノス"
+    },
+    "link:https://www.romhacking.net/translations/2492": {
+      "title": "Musashi no Ken: Tadaima Shugyou Chuu",
+      "jp": "六三四の剣 ただいま修行中"
+    },
+    "link:https://www.romhacking.net/translations/7414": {
+      "title": "Tobidase Daisakusen",
+      "jp": "とびだせ大作戦"
+    },
+    "link:https://www.romhacking.net/translations/2241": {
+      "hide": true,
+      "_game": "Chik Bik Ji Jin: Saam Gwok Ji / Three Kingdom - Battle of Red Cliffs"
+    },
+    "link:https://www.romhacking.net/translations/6806": {
+      "hide": true,
+      "_game": "Janggun-ui Adeul - General's Son"
+    },
+    "link:https://www.romhacking.net/translations/2814": {
+      "title": "Out Live",
+      "jp": "アウトライブ"
+    },
+    "link:https://www.romhacking.net/translations/4654": {
+      "title": "Bishoujo Senshi Sailor Moon: Another Story",
+      "jp": "美少女戦士セーラームーン Another Story"
+    },
+    "link:https://www.romhacking.net/translations/5759": {
+      "title": "Hokuto no Ken",
+      "jp": "北斗の拳"
+    },
+    "link:https://www.romhacking.net/translations/1582": {
+      "title": "Magic John",
+      "jp": "マジックジョン"
+    },
+    "link:https://www.romhacking.net/translations/6647": {
+      "title": "Koi wa Balance: Battle of Lovers"
+    },
+    "link:https://www.romhacking.net/translations/6639": {
+      "title": "Monster Hunter Portable 2nd G",
+      "jp": "モンスターハンターポータブル 2nd G"
+    },
+    "link:https://www.romhacking.net/translations/1502": {
+      "title": "Madou Monogatari I: 3-tsu no Madoukyuu"
+    },
+    "link:http://www.romhacking.net/translations/5665": {
+      "title": "Ganbare Goemon Kirakira Douchuu: Boku ga Dancer ni Natta Wake",
+      "jp": "がんばれゴエモン きらきら道中 ～僕がダンサーになった訳～"
+    },
+    "link:http://www.romhacking.net/translations/3136": {
+      "title": "R-Type Tactics II: Operation Bitter Chocolate",
+      "jp": "R-TYPE TACTICS II -Operation BITTER CHOCOLATE-"
+    },
+    "link:http://www.romhacking.net/translations/snes/patches/1641readme.txt": {
+      "jp": "魔法ぽいぽいぽいっと!"
+    },
+    "link:https://romhack.ing/database/content/entry/-fQC78bOQKq64yezGGgHmw/madou-monogatari-english-translation": {
+      "title": "Madou Monogatari",
+      "jp": "魔導物語"
+    },
+    "link:https://romhack.ing/database/content/entry/GaY7r9hPQBmy3W0yOUTx0w/shonen-ninja-sasuke-english-translation": {
+      "title": "Shounen Ninja Sasuke",
+      "jp": "少年忍者サスケ"
+    },
+    "link:https://romhack.ing/database/content/entry/CR5dEzWWS-mum-4fNn4TPw/digimon-tamers-battle-spirit-ver-1-5-english-translation": {
+      "title": "Digimon Tamers: Battle Spirit Ver. 1.5",
+      "jp": "デジモンテイマーズ バトルスピリット Ver.1.5",
+      "platform": "WonderSwan Color"
+    },
+    "link:https://romhack.ing/database/content/entry/xisHPNIlSTCWa5JkDpJpIw/sword-world-sfc-english-translation": {
+      "title": "Sword World SFC",
+      "jp": "ソード・ワールドSFC"
+    },
+    "link:https://romhack.ing/database/content/entry/3BAn4gzlRzKufRgCTLPnTQ/farland-story-fx-english-translation": {
+      "title": "Farland Story FX",
+      "jp": "ファーランドストーリーFX"
+    },
+    "tangobunny/gb-sailor-moon-english": {
+      "title": "Bishoujo Senshi Sailor Moon",
+      "jp": "美少女戦士セーラームーン"
+    },
+    "rockefellera/tdq-en": {
+      "jp": "シアトリズム ドラゴンクエスト"
+    },
+    "zlotny/digimon-adventure-psp-translation-kit": {
+      "title": "Digimon Adventure",
+      "jp": "デジモンアドベンチャー"
+    },
+    "scatterdbrain/pachipara-12-oumi-to-natsu-no-omoide-ps2-english-translation-patch": {
+      "title": "Pachi Para 12: Ooumi to Natsu no Omoide",
+      "jp": "パチパラ12 ～大海と夏の思い出～"
+    },
+    "originheartgold/origin-heart-gold-en-translation": {
+      "hide": true,
+      "_game": "Pokémon Origin HeartGold"
+    },
+    "nrlemo/super-robot-wars-alpha-psx-english-ver": {
+      "title": "Super Robot Taisen Alpha",
+      "jp": "スーパーロボット大戦α"
+    },
+    "phamkv/gotokano": {
+      "title": "The Quintessential Quintuplets: Five Promises Made With Her",
+      "jp": "五等分の花嫁 ～彼女と交わす五つの約束～"
+    },
+    "topcatromhacking-lgtm/dragon-quest-heroes-switch-english-undub": {
+      "title": "Dragon Quest Heroes I・II",
+      "jp": "ドラゴンクエストヒーローズI・II"
+    },
+    "akoi89/rocketslime-3ds-english-fixup": {
+      "title": "Slime MoriMori Dragon Quest 3: Taikaizoku to Shippo Dan",
+      "jp": "スライムもりもりドラゴンクエスト3 大海賊としっぽ団"
+    },
+    "bentolanh/masou-kishin-english-patch": {
+      "title": "Super Robot Taisen OG Saga: Masou Kishin - The Lord of Elemental",
+      "jp": "スーパーロボット大戦OGサーガ 魔装機神 THE LORD OF ELEMENTAL"
+    },
+    "akoi89/dqmj3p-english-fixed": {
+      "title": "Dragon Quest Monsters: Joker 3 Professional",
+      "jp": "ドラゴンクエストモンスターズ ジョーカー3 プロフェッショナル"
+    },
+    "nn-exe/pokemon-hyper-emerald-5.7-qol": {
+      "hide": true,
+      "_game": "Pokemon Hyper Emerald: Lost Artifacts v5.7"
+    },
+    "mgdays/kisekko-gurumi-eng-patch-tools": {
+      "title": "Kisekko Gurumi: Chesty to Nuigurumi-tachi no Mahou no Bouken",
+      "jp": "きせっこぐるみぃ チェスティとぬいぐるみたちの魔法の冒険"
+    },
+    "damon-daemon/sangokushi-ds-3-english": {
+      "title": "Sangokushi DS 3",
+      "jp": "三國志DS3"
+    },
+    "damon-daemon/taiko-risshiden-5-english": {
+      "jp": "太閤立志伝V"
+    },
+    "akoi89/puyopuyotetris-3ds-english-patch": {
+      "title": "Puyo Puyo Tetris",
+      "jp": "ぷよぷよテトリス"
+    },
+    "nonagongoron/tornekos-great-adventure-sfc-with-remaster-script": {
+      "title": "Torneko no Daibouken: Fushigi no Dungeon",
+      "jp": "トルネコの大冒険 不思議のダンジョン"
+    },
+    "excalz/ps4-retranslation": {
+      "title": "Phantasy Star IV",
+      "jp": "ファンタシースター 千年紀の終りに",
+      "platform": "Mega Drive"
+    },
+    "agtteam/fmakamitranslation": {
+      "title": "Fullmetal Alchemist 3: Kami wo Tsugu Shoujo",
+      "jp": "鋼の錬金術師3 神を継ぐ少女"
+    },
+    "agtteam/prologuetranslation": {
+      "title": "L the proLogue to Death Note: Rasen no Wana",
+      "jp": "L the proLogue to DEATH NOTE -螺旋の罠-"
+    },
+    "agtteam/ookamitranslation": {
+      "title": "Ookami to Koushinryou: Boku to Holo no Ichinen",
+      "jp": "狼と香辛料 ボクとホロの一年"
+    },
+    "minhnhattonthat/smt-devil-children-2-honoo-no-sho": {
+      "title": "Shin Megami Tensei Devil Children: Honoo no Sho",
+      "jp": "真・女神転生デビルチルドレン 炎の書"
+    },
+    "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": {
+      "title": "Hanjuku Hero: Aa, Sekai yo Hanjuku Nare...!!",
+      "jp": "半熟英雄 ああ、世界よ半熟なれ…!!"
+    },
+    "minhnhattonthat/gachasute-dino-device-2-en": {
+      "title": "Gachasute! Dino Device 2: Dragon",
+      "jp": "ガチャステ!ダイノデバイス2 ドラゴン"
+    },
+    "kaisaan/sn1-ds-trans": {
+      "title": "Summon Night",
+      "jp": "サモンナイト"
+    },
+    "caribbeansc/mdr-navi-i18n": {
+      "title": "Medarot Navi",
+      "jp": "メダロットナビ"
+    },
+    "kaisaan/newtheory": {
+      "title": "Ys IV: Mask of the Sun - A New Theory",
+      "jp": "イースIV マスク・オブ・ザ・サン ア・ニュー・セオリー"
+    },
+    "agtteam/lsuccessorstranslation": {
+      "title": "Death Note: L wo Tsugu Mono",
+      "jp": "デスノート Lを継ぐ者"
+    },
+    "eadmaster/pcrown": {
+      "title": "Princess Crown",
+      "jp": "プリンセスクラウン"
+    },
+    "bruder-grimm/animal_forest_psp": {
+      "title": "Doubutsu no Mori",
+      "jp": "どうぶつの森"
+    },
+    "flukeylukey1/nappletaleengpatchfix": {
+      "title": "Napple Tale: Arsia in Daydream",
+      "jp": "ナップルテール Arsia in daydream"
+    },
+    "astraleamalthea/magicthegatheringdreamcasteng": {
+      "title": "Magic: The Gathering",
+      "jp": "マジック:ザ・ギャザリング"
+    },
+    "derekpascarella/coolcooltoon-englishpatchdreamcast": {
+      "title": "Cool Cool Toon",
+      "jp": "クルクルトゥーン"
+    },
+    "derekpascarella/capcomvs.snk2-englishpatchdreamcast": {
+      "title": "Capcom vs. SNK 2: Millionaire Fighting 2001",
+      "jp": "カプコン バーサス エス・エヌ・ケイ 2 ミリオネア ファイティング 2001"
+    },
+    "derekpascarella/triggerheartexelica-englishpatchdreamcast": {
+      "title": "Trigger Heart Exelica",
+      "jp": "トリガーハート エグゼリカ"
+    },
+    "medabots/medarot3": {
+      "title": "Medarot 3: Kabuto Version",
+      "jp": "メダロット3 カブトバージョン"
+    },
+    "alarixnia/daichikun-crisis-en": {
+      "title": "Daichi-kun Crisis: Do Natural",
+      "jp": "大地くんクライシス Do Natural"
+    },
+    "derekpascarella/digicharatfantasy-englishpatchdreamcast": {
+      "title": "Di Gi Charat Fantasy",
+      "jp": "デ・ジ・キャラット ファンタジー"
+    },
+    "derekpascarella/nakoruruthegiftshegaveme-englishpatchdreamcast": {
+      "title": "Nakoruru: Ano Hito kara no Okurimono",
+      "jp": "ナコルル ～あのひとからのおくりもの～"
+    },
+    "zthegin/gintama---gintoki-vs-hijikata-game-english-translation": {
+      "title": "Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!!",
+      "jp": "銀魂 銀時vs土方!?かぶき町銀魂さん争奪戦!!"
+    },
+    "derekpascarella/birdcageofhorrors-englishpatchdreamcast": {
+      "title": "Grauen no Torikago",
+      "jp": "グラウエンの鳥籠"
+    },
+    "waifoof/city-shrouded-in-shadow-english-translation-": {
+      "title": "City Shrouded in Shadow",
+      "jp": "巨影都市"
+    },
+    "jose-tissei/densha-de-go-yamanote-english": {
+      "title": "Densha de Go!! Hashirou Yamanote-sen",
+      "jp": "電車でGO!! はしろう山手線"
+    },
+    "damon-daemon/nobunaga-reppuuden-puk-english": {
+      "title": "Nobunaga no Yabou: Reppuuden with Power-Up Kit",
+      "jp": "信長の野望・烈風伝 with パワーアップキット"
+    },
+    "kde/l10n-nds": {
+      "hide": true,
+      "_game": "L10N"
+    },
+    "randomprojectsfactory/cosmic-fantasy-pce-english": {
+      "title": "Cosmic Fantasy: Bouken Shounen Yuu",
+      "jp": "コズミック・ファンタジー 冒険少年ユウ",
+      "platform": "PC Engine CD"
+    },
+    "agtteam/shugotranslation": {
+      "title": "Shugo Chara! Norinori! Chara-nari Rhythm",
+      "jp": "しゅごキャラ! ノリノリ!キャラなりリズム"
+    },
+    "alexbl9x/samurai-shodown-3-sega-saturn-english-activation-patch": {
+      "title": "Samurai Spirits: Zankurou Musouken",
+      "jp": "サムライスピリッツ 斬紅郎無双剣"
+    },
+    "mholzinger/snatcher-segacd-to-saturn-eng": {
+      "title": "Snatcher",
+      "jp": "スナッチャー"
+    },
+    "minhnhattonthat/velldeselba-senki": {
+      "title": "Velldeselba Senki: Tsubasa no Kunshou",
+      "jp": "ヴェルデセルバ戦記 翼の勲章"
+    },
+    "ddhuet/ss2-modding-environment": {
+      "hide": true,
+      "_game": "SS2 Modding Environment"
+    },
+    "lantomorroww/cusasearcher": {
+      "hide": true,
+      "_game": "Cusa Searcher"
+    },
+    "link:https://gbatemp.net/threads/rockman-zx-mega-man-zx-full-undub.492408": {
+      "title": "Rockman ZX",
+      "jp": "ロックマンゼクス"
+    },
+    "link:https://archive.org/details/skylanders-english-patch-wii-u": {
+      "hide": true,
+      "_game": "Skylanders"
+    },
+    "link:https://archive.org/details/nfsu-2-sha-do-english-english-patch": {
+      "hide": true,
+      "_game": "PS2 NFSU 2 SHA_DO"
+    },
+    "link:https://archive.org/details/nfsu-j-tune-english-language-select": {
+      "hide": true,
+      "_game": "NFSU J Tune"
+    },
+    "link:https://archive.org/details/dt-1144-a3": {
+      "hide": true,
+      "_game": "DS Telejan (1981 DECO Cassette System)"
+    },
+    "link:https://archive.org/details/purpura-sancta-vita-caesaris-baronii-english": {
+      "hide": true,
+      "_game": "Purpura Sancta seu Vita Caesaris Baronii (Life of Cardinal Cesare Baronio), 1651 —"
+    },
+    "link:https://archive.org/details/mqj-c0": {
+      "hide": true,
+      "_game": "Meikyūjima (Labyrinth Island / Kickle Cubicle) (1988, Arcade)"
+    },
+    "link:https://archive.org/details/labyrinth-island-famicom-english": {
+      "title": "Meikyuu Jima",
+      "jp": "迷宮島"
+    },
+    "link:https://archive.org/details/inazuma-eleven-3-the-ogre-nds-eng-patch": {
+      "title": "Inazuma Eleven 3: Sekai e no Chousen!! The Ogre",
+      "jp": "イナズマイレブン3 世界への挑戦!! ジ・オーガ"
+    },
+    "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": {
+      "title": "Doki Oki"
+    },
+    "link:https://shc.zone/entries/contest2025/1332": {
+      "title": "Sonic Battle",
+      "jp": "ソニックバトル"
+    },
+    "link:https://www.fireemblemwod.com/foro/viewtopic.php?f=30&t=16733": {
+      "title": "Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu",
+      "jp": "ファイアーエムブレム 新・紋章の謎 ～光と影の英雄～"
+    },
+    "link:https://www.pokecommunity.com/threads/pocketrgb-en-a-full-red-green-and-blue-translation-of-the-original-pocket-monsters.492958": {
+      "title": "Pocket Monsters Aka",
+      "jp": "ポケットモンスター 赤"
+    },
+    "link:https://feuniverse.us/t/fe5-super-thracia-english-menu-translation/7855": {
+      "title": "Fire Emblem: Thracia 776",
+      "jp": "ファイアーエムブレム トラキア776"
+    },
+    "link:https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here": {
+      "title": "Ciel nosurge: Ushinawareta Hoshi e Sasagu Uta",
+      "jp": "シェルノサージュ ～失われた星へ捧ぐ詩～"
+    },
+    "link:https://www.marcrobledo.com/neo-geo-pocket/king-of-fighters-battle-de-paradise-english-translation": {
+      "title": "The King of Fighters: Battle de Paradise",
+      "jp": "ザ・キング・オブ・ファイターズ バトル・デ・パラダイス"
+    },
+    "link:https://romhackheaven.com/games/snes/demons-crest/english-demons-crest-retranslation-restoration": {
+      "title": "Demon's Blazon: Makaimura Monshou Hen",
+      "jp": "デモンズブレイゾン 魔界村 紋章編"
+    },
+    "link:https://sharksnack.github.io/asuka/patches/dreamcast-english-demo-patch": {
+      "title": "Fushigi no Dungeon: Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan!",
+      "jp": "不思議のダンジョン 風来のシレン外伝 女剣士アスカ見参!"
+    },
+    "link:https://forums.therockmanexezone.com/rockman-exe6-english-patches-t5507.html": {
+      "title": "Rockman EXE 6: Dennoujuu Gregar"
+    },
+    "link:https://aeongenesis.net/projects/ys5": {
+      "title": "Ys V: Ushinawareta Suna no Miyako Kefin"
+    },
+    "link:https://gamebanana.com/mods/458681": {
+      "hide": true,
+      "_game": "Persona 2: Innocent Sin - DLC enabler mod"
     }
   },
   "added": {},
