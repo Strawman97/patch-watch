@@ -90,6 +90,12 @@ def numbers(t): return sorted(ROMAN.get(w, w) for w in t.split() if w.isdigit() 
 
 FILLER = {"the", "a", "an", "of", "and", "no", "wo", "ga", "ni", "to", "game", "video"}
 
+def jnorm(t):
+    """A comparison key that keeps Japanese text (norm() drops everything that isn't a-z or 0-9, so a Japanese title
+    would come out empty and match every other Japanese title)."""
+    t = unicodedata.normalize("NFKC", t or "").lower()
+    return re.sub(r"[\W_]+", "", t)
+
 def tokens(t):
     return [w for w in norm(t).split() if w]
 
@@ -1282,7 +1288,9 @@ def refresh_launchbox(projects):
     for plat, rows in names_by_plat.items():
         by_norm = {}
         for name, gid in rows:
-            by_norm.setdefault(norm(name), []).append((name, gid))
+            k = norm(name) if len(norm(name)) >= 2 else ("jp:" + jnorm(name) if jnorm(name) else "")
+            if k:
+                by_norm.setdefault(k, []).append((name, gid))
         index[plat] = (rows, by_norm)
     extra = known_names()
     found = 0
@@ -1294,7 +1302,8 @@ def refresh_launchbox(projects):
         titles = [t for t in dict.fromkeys([strip_parens(p.get("g", "")), strip_parens(p.get("jp") or "")] + extra.get(key, [])) if t]
         gid, matched = None, ""
         for t in titles:
-            exact = [r for r in by_norm.get(norm(t), []) if images.get(r[1])]
+            k = norm(t) if len(norm(t)) >= 2 else ("jp:" + jnorm(t) if jnorm(t) else "")
+            exact = [r for r in by_norm.get(k, []) if images.get(r[1])] if k else []
             if exact:
                 matched, gid = exact[0]
                 break
