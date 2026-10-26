@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-26T13:19:03Z",
+ "generated": "2026-10-26T20:36:37Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1096,7 +1096,7 @@
     "lang": null,
     "pushed": "2026-10-06T02:29:03Z",
     "size": 921,
-    "stars": 6
+    "stars": 7
    },
    "shots": []
   },
@@ -2383,6 +2383,36 @@
    },
    "shots": []
   },
+  "excalz/ps2-retranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "retrans": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-18T17:39:14Z",
+    "pre": false,
+    "tag": "v1.0.3",
+    "url": "https://github.com/ExcalZ/ps2-retranslation/releases/tag/v1.0.3"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-06T22:31:42Z",
+    "desc": "A retranslation project for Phantasy Star II for the Sega Genesis.",
+    "full": "ExcalZ/ps2-retranslation",
+    "lang": "Assembly",
+    "pushed": "2026-10-18T17:39:14Z",
+    "size": 3605,
+    "stars": 8
+   },
+   "shots": []
+  },
   "excalz/ps4-retranslation": {
    "assetOs": {},
    "readme": {
@@ -2437,7 +2467,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T11:27:03Z",
     "size": 68112,
-    "stars": 28
+    "stars": 29
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -3275,7 +3305,6 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "cov": "Complete",
      "ex": {},
      "mtl": true
     },
@@ -3283,10 +3312,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-25T07:03:41Z",
+    "date": "2026-10-26T13:55:19Z",
     "pre": false,
-    "tag": "v0.91",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v0.91"
+    "tag": "v0.92",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v0.92"
    },
    "repo": {
     "archived": false,
@@ -3294,8 +3323,8 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-10-25T07:14:21Z",
-    "size": 423,
+    "pushed": "2026-10-26T13:54:36Z",
+    "size": 437,
     "stars": 1
    },
    "shots": [
@@ -3525,8 +3554,8 @@
     "desc": "English Translation for Jikkyou Power Pro Wrestling '96  Max Voltage English (SNES/SFC)",
     "full": "kactusken/Jikkyou-Power-Pro-Wrestling-English",
     "lang": "Python",
-    "pushed": "2026-10-25T13:57:17Z",
-    "size": 719,
+    "pushed": "2026-10-26T18:49:18Z",
+    "size": 720,
     "stars": 0
    },
    "shots": []
@@ -3613,9 +3642,40 @@
     "desc": "English translation for Wrestle Angels: Survivor 2 for PS2",
     "full": "kactusken/Wrestle-Angels-Survivor-2-English",
     "lang": "Python",
-    "pushed": "2026-10-21T21:12:47Z",
+    "pushed": "2026-10-26T20:35:52Z",
     "size": 8740,
     "stars": 3
+   },
+   "shots": []
+  },
+  "kactusken/wrestle-angels-survivor-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-26T13:25:52Z",
+    "pre": false,
+    "tag": "v0.1",
+    "url": "https://github.com/kactusken/Wrestle-Angels-Survivor-English/releases/tag/v0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-26T12:27:45Z",
+    "desc": "English Translation for Wrestle Angels Survivor for PS2",
+    "full": "kactusken/Wrestle-Angels-Survivor-English",
+    "lang": "Python",
+    "pushed": "2026-10-26T19:08:50Z",
+    "size": 16941,
+    "stars": 1
    },
    "shots": []
   },
@@ -3799,6 +3859,38 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-24T13:36:52Z",
+    "pre": false,
+    "tag": "0.8.8",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-24T13:36:51Z",
+    "size": 37425,
+    "stars": 17
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -3886,7 +3978,29 @@
     "lang": "Kotlin",
     "pushed": "2026-10-25T22:18:10Z",
     "size": 109,
-    "stars": 12
+    "stars": 13
+   },
+   "shots": []
+  },
+  "krollekop/battle-konchuden-translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-26T10:12:00Z",
+    "desc": "An AI-assisted English translation project for Jaleco's 1999 Japanese PlayStation RPG.",
+    "full": "Krollekop/battle-konchuden-translation",
+    "lang": null,
+    "pushed": "2026-10-26T19:08:59Z",
+    "size": 8191,
+    "stars": 1
    },
    "shots": []
   },
@@ -4608,6 +4722,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-26T06:41:39Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/battle-tycoon-flash-hiders-sfx-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T11:09:03Z",
+    "desc": "English fan translation of Battle Tycoon: Flash Hiders SFX (SNES)",
+    "full": "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en",
+    "lang": "Python",
+    "pushed": "2026-10-26T12:07:50Z",
+    "size": 359,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/battle-zeque-den-en": {
    "assetOs": {},
    "readme": {
@@ -4714,6 +4855,33 @@
     "lang": "Python",
     "pushed": "2026-10-25T02:55:18Z",
     "size": 829,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/dharma-doujou-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-26T08:45:12Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/dharma-doujou-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T18:00:59Z",
+    "desc": "English fan translation of Dharma Doujou (Dharma Dojo, SNES, Metro 1994)",
+    "full": "minhnhattonthat/dharma-doujou-en",
+    "lang": "Python",
+    "pushed": "2026-10-26T12:07:52Z",
+    "size": 676,
     "stars": 0
    },
    "shots": []
@@ -4830,6 +4998,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/farland-story-2-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-26T05:58:21Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/farland-story-2-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T04:20:08Z",
+    "desc": "English fan translation of Farland Story 2 (SNES)",
+    "full": "minhnhattonthat/farland-story-2-en",
+    "lang": "Python",
+    "pushed": "2026-10-26T12:33:19Z",
+    "size": 469,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/gachasute-dino-device-2-en": {
    "assetOs": {},
    "readme": {
@@ -4853,6 +5048,60 @@
     "lang": "Python",
     "pushed": "2026-10-25T09:41:21Z",
     "size": 429,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/ganbare-daiku-no-gen-san-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-26T12:19:47Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/ganbare-daiku-no-gen-san-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T11:09:23Z",
+    "desc": "English fan translation of Ganbare Daiku no Gensan (SNES)",
+    "full": "minhnhattonthat/ganbare-daiku-no-gen-san-en",
+    "lang": "Python",
+    "pushed": "2026-10-26T12:33:20Z",
+    "size": 242,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-26T12:02:02Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T18:01:18Z",
+    "desc": "English fan translation of GeGeGe no Kitarou: Fukkatsu! Tenma Daiou (SNES)",
+    "full": "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en",
+    "lang": "Python",
+    "pushed": "2026-10-26T12:33:23Z",
+    "size": 207,
     "stars": 0
    },
    "shots": []
@@ -5070,7 +5319,7 @@
     "full": "minhnhattonthat/monster-guardians-en",
     "lang": "Python",
     "pushed": "2026-10-26T12:59:37Z",
-    "size": 599,
+    "size": 622,
     "stars": 0
    },
    "shots": []
@@ -5735,7 +5984,7 @@
     "lang": null,
     "pushed": "2026-10-18T21:15:27Z",
     "size": 4,
-    "stars": 8
+    "stars": 9
    },
    "shots": []
   },
@@ -5756,8 +6005,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-26T13:00:01Z",
-    "size": 5053,
+    "pushed": "2026-10-26T20:31:27Z",
+    "size": 1527,
     "stars": 0
    },
    "shots": []
@@ -5936,7 +6185,7 @@
     "lang": "Python",
     "pushed": "2026-10-25T10:24:09Z",
     "size": 3176,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -5991,9 +6240,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-26T00:41:51Z",
-    "size": 101695,
-    "stars": 151
+    "pushed": "2026-10-26T18:54:59Z",
+    "size": 101699,
+    "stars": 149
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -6033,10 +6282,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T13:09:00Z",
+    "date": "2026-10-26T19:27:00Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -6044,7 +6293,7 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-26T13:08:59Z",
+    "pushed": "2026-10-26T19:27:00Z",
     "size": 19,
     "stars": 0
    },
@@ -6072,6 +6321,39 @@
     "stars": 4
    },
    "shots": []
+  },
+  "rowdorfin/rowdytranslation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-26T12:17:27Z",
+    "pre": true,
+    "tag": "v0.9-beta",
+    "url": "https://github.com/rowdorfin/RowdyTranslation/releases/tag/v0.9-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-26T12:16:50Z",
+    "desc": "Sword Art Online: Infinity Moment (PSP) English fan translation — patcher only. Fan Translation Project by Rowdorf.",
+    "full": "rowdorfin/RowdyTranslation",
+    "lang": null,
+    "pushed": "2026-10-26T15:10:57Z",
+    "size": 879,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/title-screen.jpg",
+    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/dialogue.jpg",
+    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/field.jpg",
+    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/main-menu.jpg",
+    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/battle.jpg"
+   ]
   },
   "rpierucci/namco-museum-encore-ps1-translation-patch": {
    "noRelease": true,
@@ -6887,8 +7169,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-26T10:53:48Z",
-    "size": 3858,
+    "pushed": "2026-10-26T15:41:11Z",
+    "size": 4155,
     "stars": 0
    },
    "shots": []
