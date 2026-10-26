@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-25T23:21:12Z",
+ "generated": "2026-10-26T04:59:47Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9531,17 +9531,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-10-25T20:58:42Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -12178,19 +12167,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-10-25T16:35:04Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "3DS",
-   "src": "GitHub"
-  },
-  {
    "d": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
    "fa": "2026-10-25T20:58:42Z",
    "g": "Msh Vs Sf",
@@ -12227,6 +12203,32 @@
     "Human translation"
    ],
    "p": "Dreamcast",
+   "src": "GitHub"
+  },
+  {
+   "d": "Complete English fan translation of Super Robot Wars OG Gaiden (PS2, SLPS-25836). RC01 xdelta patch, screenshots and install guide.",
+   "fa": "2026-10-26T04:59:47Z",
+   "g": "Super Robot Wars OG Gaiden",
+   "id": "nrlemo/super-robot-wars-og-gaiden-english-ver",
+   "k": "nrlemo/super-robot-wars-og-gaiden-english-ver",
+   "l": "https://github.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "Fan translation of Trade & Battle: Card Hero for Game Boy Color",
+   "fa": "2026-10-26T04:59:47Z",
+   "g": "Trade & Battle: Card Hero",
+   "id": "grouchoglasses42/card-hero-gbc",
+   "k": "grouchoglasses42/card-hero-gbc",
+   "l": "https://github.com/GrouchoGlasses42/card-hero-gbc",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Boy Color",
    "src": "GitHub"
   },
   {
@@ -13834,51 +13836,27 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-10-25T16:35:04Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-10-25T16:35:04Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-10-25T20:58:42Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "d": "Bulk Slash (English Patch)",
    "fa": "2026-10-25T23:21:12Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
-    "Undub"
+    "Human translation"
    ],
-   "p": "PS2",
+   "p": "Saturn",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-10-25T23:21:12Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {

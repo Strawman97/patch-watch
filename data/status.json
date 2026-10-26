@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-25T23:21:12Z",
+ "generated": "2026-10-26T04:59:47Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -85,7 +85,7 @@
     "lang": "Python",
     "pushed": "2026-08-10T08:59:52Z",
     "size": 203,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -712,6 +712,36 @@
     "pushed": "2026-10-15T12:12:39Z",
     "size": 921,
     "stars": 0
+   },
+   "shots": []
+  },
+  "blanky451/mpdctranslationproject": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true,
+     "pct": 100
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-16T01:48:47Z",
+    "pre": false,
+    "tag": "101526",
+    "url": "https://github.com/blanky451/MPDCTranslationProject/releases/tag/101526"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-10T23:48:17Z",
+    "desc": "A repo for the English language patch for Mercurius Pretty: End of the Century for Dreamcast. Future revisions of the patch will be located here.",
+    "full": "blanky451/MPDCTranslationProject",
+    "lang": "Batchfile",
+    "pushed": "2026-10-25T21:08:39Z",
+    "size": 27682,
+    "stars": 4
    },
    "shots": []
   },
@@ -3583,8 +3613,8 @@
     "desc": "English Translation of GachiTora! Abarenbou Kyoushi in High School on PSP",
     "full": "Kaisaan/gachitora",
     "lang": "Python",
-    "pushed": "2026-10-25T07:55:02Z",
-    "size": 83,
+    "pushed": "2026-10-26T04:11:55Z",
+    "size": 90,
     "stars": 0
    },
    "shots": []
@@ -3747,6 +3777,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-24T13:36:52Z",
+    "pre": false,
+    "tag": "0.8.8",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-24T13:36:51Z",
+    "size": 37425,
+    "stars": 17
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -4291,8 +4353,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-10-22T23:04:34Z",
-    "size": 85042,
+    "pushed": "2026-10-26T00:47:20Z",
+    "size": 83740,
     "stars": 95
    },
    "shots": [
@@ -5571,7 +5633,7 @@
     "lang": null,
     "pushed": "2026-10-08T09:56:33Z",
     "size": 767,
-    "stars": 71
+    "stars": 72
    },
    "shots": []
   },
@@ -5668,8 +5730,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-25T21:46:07Z",
-    "size": 3317,
+    "pushed": "2026-10-26T02:25:11Z",
+    "size": 4546,
     "stars": 0
    },
    "shots": []
@@ -5903,9 +5965,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-25T17:25:47Z",
-    "size": 101691,
-    "stars": 150
+    "pushed": "2026-10-26T00:41:51Z",
+    "size": 101695,
+    "stars": 151
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -5956,12 +6018,12 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-25T23:21:05Z",
-    "size": 8,
+    "pushed": "2026-10-26T03:16:33Z",
+    "size": 19,
     "stars": 0
    },
    "shots": [
-    "https://github.com/user-attachments/assets/d69785e3-0013-4529-a13c-84d6c1b9a98d"
+    "https://github.com/user-attachments/assets/ed6f70bb-5e39-4223-932f-79c0082c0212"
    ]
   },
   "romh-acking/metal-slader-glory-fc-en-manual": {
@@ -6153,7 +6215,7 @@
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
     "pushed": "2026-10-25T22:37:32Z",
-    "size": 3282,
+    "size": 3294,
     "stars": 8
    },
    "shots": []
@@ -6262,7 +6324,7 @@
     "lang": "Batchfile",
     "pushed": "2025-09-08T18:57:27Z",
     "size": 12481,
-    "stars": 183
+    "stars": 184
    },
    "shots": [
     "https://raw.githubusercontent.com/SONICMAN69/Bebop-PS2-English/HEAD/images/english/screenshot1.png",
@@ -6327,6 +6389,28 @@
     "pushed": "2026-10-12T10:03:40Z",
     "size": 148,
     "stars": 6
+   },
+   "shots": []
+  },
+  "stepigor/trails_in_the_sky_3rd_psp_english_patcher": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {},
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T21:24:11Z",
+    "desc": "Bring the English PC localization to the Japanese PSP game using your own copies",
+    "full": "stepigor/trails_in_the_sky_3rd_psp_english_patcher",
+    "lang": "Python",
+    "pushed": "2026-10-25T21:34:52Z",
+    "size": 525,
+    "stars": 0
    },
    "shots": []
   },
