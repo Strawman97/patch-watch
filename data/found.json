@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-26T04:59:47Z",
+ "generated": "2026-10-26T13:19:03Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9138,6 +9138,19 @@
    "src": "Credited on CDRomance"
   },
   {
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Mega Man Legends 2",
+   "grp": "Gaiko",
+   "id": "link:https://www.romhacking.net/translations/7947",
+   "jp": "(ロックマン DASH 2 エピソード2 大いなる遺産",
+   "l": "https://www.romhacking.net/translations/7947",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Credited on CDRomance"
+  },
+  {
    "fa": "2026-10-22T09:18:31Z",
    "g": "SEGA",
    "id": "link:https://romhackplaza.org/translations/street-fighter-alpha-3-english-translation-sega-saturn",
@@ -9528,6 +9541,17 @@
     "Human translation"
    ],
    "p": "N64",
+   "src": "Romhack Plaza"
+  },
+  {
+   "fa": "2026-10-26T04:59:47Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
    "src": "Romhack Plaza"
   },
   {
@@ -12232,6 +12256,136 @@
    "src": "GitHub"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-10-26T04:59:47Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "English Translation for Wrestle Angels Survivor for PS2",
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Wrestle Angels Survivor",
+   "id": "kactusken/wrestle-angels-survivor-english",
+   "k": "kactusken/wrestle-angels-survivor-english",
+   "l": "https://github.com/kactusken/Wrestle-Angels-Survivor-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of GeGeGe no Kitarou: Fukkatsu! Tenma Daiou (SNES)",
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "GeGeGe no Kitarou: Fukkatsu! Tenma Daiou",
+   "id": "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en",
+   "k": "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en",
+   "l": "https://github.com/minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Ganbare Daiku no Gensan (SNES)",
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Ganbare Daiku no Gensan",
+   "id": "minhnhattonthat/ganbare-daiku-no-gen-san-en",
+   "k": "minhnhattonthat/ganbare-daiku-no-gen-san-en",
+   "l": "https://github.com/minhnhattonthat/ganbare-daiku-no-gen-san-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Farland Story 2 (SNES)",
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Farland Story 2",
+   "id": "minhnhattonthat/farland-story-2-en",
+   "k": "minhnhattonthat/farland-story-2-en",
+   "l": "https://github.com/minhnhattonthat/farland-story-2-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "Sword Art Online: Infinity Moment (PSP) English fan translation — patcher only. Fan Translation Project by Rowdorf.",
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Rowdy",
+   "id": "rowdorfin/rowdytranslation",
+   "k": "rowdorfin/rowdytranslation",
+   "l": "https://github.com/rowdorfin/RowdyTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Dharma Doujou (Dharma Dojo, SNES, Metro 1994)",
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Dharma Doujou",
+   "id": "minhnhattonthat/dharma-doujou-en",
+   "k": "minhnhattonthat/dharma-doujou-en",
+   "l": "https://github.com/minhnhattonthat/dharma-doujou-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Battle Tycoon: Flash Hiders SFX (SNES)",
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Battle Tycoon: Flash Hiders SFX",
+   "id": "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en",
+   "k": "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en",
+   "l": "https://github.com/minhnhattonthat/battle-tycoon-flash-hiders-sfx-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "An AI-assisted English translation project for Jaleco's 1999 Japanese PlayStation RPG.",
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Battle Konchuden",
+   "id": "krollekop/battle-konchuden-translation",
+   "k": "krollekop/battle-konchuden-translation",
+   "l": "https://github.com/Krollekop/battle-konchuden-translation",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Phantasy Star II (Retranslation)",
+   "grp": "(s): Excalibur_Z",
+   "id": "excalz/ps2-retranslation",
+   "k": "excalz/ps2-retranslation",
+   "l": "https://github.com/ExcalZ/ps2-retranslation",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "Mega Drive",
+   "src": "Credited on CDRomance"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -13836,27 +13990,51 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Bulk Slash (English Patch)",
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
    "fa": "2026-10-25T23:21:12Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
-    "Human translation"
+    "Undub"
    ],
-   "p": "Saturn",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-10-25T23:21:12Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-10-26T04:59:47Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-10-26T04:59:47Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-10-26T13:19:03Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
    "src": "Internet Archive"
   },
   {

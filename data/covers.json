@@ -208,6 +208,14 @@
    "title": "Linda³ Again",
    "url": "https://cdn2.steamgriddb.com/grid/c21cc7ab4244620137aeb693a4ad8037.png"
   },
+  "excalz/ps2-retranslation": {
+   "added": "2026-10-26T13:19:03Z",
+   "match": 1.0,
+   "name": "Phantasy Star II",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/1a572981681bbe89a6506dd43ad80ec7.jpg",
+   "title": "Phantasy Star II",
+   "url": "https://cdn2.steamgriddb.com/grid/1a572981681bbe89a6506dd43ad80ec7.png"
+  },
   "exhilo62/dqxi-3ds-english-patch": {
    "added": "2026-10-22T09:57:51Z",
    "match": 1.0,
@@ -6616,6 +6624,14 @@
    "title": "The Misadventures of Tron Bonne",
    "url": "https://cdn2.steamgriddb.com/grid/a3dea493bbe0e9e246702717cf41c5ad.png"
   },
+  "link:https://www.romhacking.net/translations/7947": {
+   "added": "2026-10-26T13:19:03Z",
+   "match": 1.0,
+   "name": "Mega Man Legends 2",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/6e96ec6235fbccedab167841eeaafcfb.jpg",
+   "title": "Mega Man Legends 2",
+   "url": "https://cdn2.steamgriddb.com/grid/6e96ec6235fbccedab167841eeaafcfb.jpg"
+  },
   "link:https://www.romhacking.net/translations/8": {
    "added": "2026-10-23T21:31:12Z",
    "match": 0.965,
@@ -6823,6 +6839,14 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/324176f8d5250503e0110dee3939bb21.jpg",
    "title": "Dragon Knight 4",
    "url": "https://cdn2.steamgriddb.com/grid/324176f8d5250503e0110dee3939bb21.png"
+  },
+  "minhnhattonthat/farland-story-2-en": {
+   "added": "2026-10-26T13:19:03Z",
+   "match": 1.0,
+   "name": "Farland Story 2",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/7a9edc8e01fab33fbb82d2f1ed1c61b9.jpg",
+   "title": "Farland Story 2",
+   "url": "https://cdn2.steamgriddb.com/grid/7a9edc8e01fab33fbb82d2f1ed1c61b9.png"
   },
   "minhnhattonthat/granbo": {
    "added": "2026-10-22T09:57:51Z",
@@ -7042,7 +7066,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-10-26T04:59:47Z",
+ "generated": "2026-10-26T13:19:03Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -7149,6 +7173,7 @@
   "kactusken/jikkyou-power-pro-wrestling-english": "2026-10-25T16:35:04Z|jikkyou power pro wrestling",
   "kactusken/super-wrestle-angels-english": "2026-10-22T09:57:51Z",
   "kactusken/wrestle-angels-survivor-2-english": "2026-10-22T09:57:51Z",
+  "kactusken/wrestle-angels-survivor-english": "2026-10-26T13:19:03Z|wrestle angels survivor",
   "kaisaan/gachitora": "2026-10-22T09:57:51Z",
   "kaisaan/newtheory": "2026-10-22T09:57:51Z",
   "kaisaan/sn1-ds-trans": "2026-10-22T09:57:51Z",
@@ -7160,6 +7185,7 @@
   "kodakwizard/hikaru-no-go-3-english": "2026-10-22T09:57:51Z",
   "kotcrab/umineko-portable-english": "2026-10-22T09:57:51Z",
   "krkpdf/pokeemerald-latin": "2026-10-22T09:57:51Z",
+  "krollekop/battle-konchuden-translation": "2026-10-26T13:19:03Z|battle konchuden",
   "lantomorroww/cusasearcher": "2026-10-24T23:24:07Z",
   "legendarydoors/house-of-tarot-english": "2026-10-22T09:57:51Z",
   "legendarydoors/tarot-mystery-english": "2026-10-22T09:57:51Z",
@@ -7736,11 +7762,15 @@
   "megastylerc/idolmaster-dearly-stars-english": "2026-10-22T09:57:51Z",
   "mgdays/kisekko-gurumi-eng-patch-tools": "2026-10-22T09:57:51Z",
   "mholzinger/snatcher-segacd-to-saturn-eng": "2026-10-24T04:48:17Z",
+  "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en": "2026-10-26T13:19:03Z|battle tycoon flash hiders sfx",
   "minhnhattonthat/cb-chara-wars-en": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/dharma-doujou-en": "2026-10-26T13:19:03Z|dharma doujou",
   "minhnhattonthat/dolucky-no-a-league-soccer": "2026-10-22T09:57:51Z",
   "minhnhattonthat/erementar-gerad": "2026-10-22T09:57:51Z",
   "minhnhattonthat/evangelion-sound-impact-en": "2026-10-22T09:57:51Z",
   "minhnhattonthat/gachasute-dino-device-2-en": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/ganbare-daiku-no-gen-san-en": "2026-10-26T13:19:03Z|ganbare daiku no gensan",
+  "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en": "2026-10-26T13:19:03Z|gegege no kitarou fukkatsu tenma daiou",
   "minhnhattonthat/great-battle-gaiden-2-english": "2026-10-22T09:57:51Z",
   "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": "2026-10-22T09:57:51Z",
   "minhnhattonthat/kabuki-rocks": "2026-10-22T09:57:51Z",
@@ -7772,6 +7802,7 @@
   "retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation": "2026-10-22T09:57:51Z",
   "rhadvance/rhythmheavenadvance": "2026-10-22T12:22:11Z",
   "rockefellera/tdq-en": "2026-10-22T09:57:51Z",
+  "rowdorfin/rowdytranslation": "2026-10-26T13:19:03Z|rowdy",
   "satelliteoflove/dimguil-english": "2026-10-22T09:57:51Z",
   "saupernova13/kamigami-no-asobi-psp-en": "2026-10-22T09:57:51Z",
   "scatterdbrain/pachipara-12-oumi-to-natsu-no-omoide-ps2-english-translation-patch": "2026-10-22T09:57:51Z",

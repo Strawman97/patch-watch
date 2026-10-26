@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-26T04:59:47Z",
+ "generated": "2026-10-26T13:19:03Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -2352,7 +2352,7 @@
     "lang": "C++",
     "pushed": "2024-03-30T03:54:07Z",
     "size": 192329,
-    "stars": 123
+    "stars": 124
    },
    "shots": []
   },
@@ -2424,10 +2424,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-25T16:42:49Z",
+    "date": "2026-10-26T11:27:03Z",
     "pre": false,
-    "tag": "v0.1.25",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.25"
+    "tag": "v0.1.26",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.26"
    },
    "repo": {
     "archived": false,
@@ -2435,8 +2435,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-25T16:42:49Z",
-    "size": 65306,
+    "pushed": "2026-10-26T11:27:03Z",
+    "size": 68112,
     "stars": 28
    },
    "shots": [
@@ -2468,7 +2468,7 @@
     "lang": null,
     "pushed": "2026-09-20T16:29:08Z",
     "size": 144,
-    "stars": 33
+    "stars": 34
    },
    "shots": [
     "https://github.com/user-attachments/assets/06ba3a7e-c970-4f23-a39a-09dd583ceb5b",
@@ -2950,6 +2950,27 @@
    "shots": [
     "https://github.com/user-attachments/assets/149fcef0-dcd5-4e17-841a-39a48dde3a7f"
    ]
+  },
+  "grouchoglasses42/card-hero-gbc": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T23:30:48Z",
+    "desc": "Fan translation of Trade & Battle: Card Hero for Game Boy Color",
+    "full": "GrouchoGlasses42/card-hero-gbc",
+    "lang": null,
+    "pushed": "2026-10-25T23:30:49Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
   },
   "grubgamer-woah/frontmissionalternative": {
    "assetOs": {},
@@ -3613,8 +3634,8 @@
     "desc": "English Translation of GachiTora! Abarenbou Kyoushi in High School on PSP",
     "full": "Kaisaan/gachitora",
     "lang": "Python",
-    "pushed": "2026-10-26T04:11:55Z",
-    "size": 90,
+    "pushed": "2026-10-26T05:59:19Z",
+    "size": 95,
     "stars": 0
    },
    "shots": []
@@ -3777,38 +3798,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-24T13:36:52Z",
-    "pre": false,
-    "tag": "0.8.8",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-24T13:36:51Z",
-    "size": 37425,
-    "stars": 17
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -4353,7 +4342,7 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-10-26T00:47:20Z",
+    "pushed": "2026-10-26T10:43:19Z",
     "size": 83740,
     "stars": 95
    },
@@ -4495,10 +4484,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-25T07:17:14Z",
+    "date": "2026-10-26T07:25:51Z",
     "pre": false,
-    "tag": "tr_EN-US+nightly.20261025",
-    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN-US%2Bnightly.20261025"
+    "tag": "tr_EN-US+nightly.20261026",
+    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN-US%2Bnightly.20261026"
    },
    "repo": {
     "archived": false,
@@ -4506,8 +4495,8 @@
     "desc": "Medarot 3 GBC disassembly/translation",
     "full": "Medabots/medarot3",
     "lang": "Assembly",
-    "pushed": "2026-10-25T07:17:14Z",
-    "size": 10550,
+    "pushed": "2026-10-26T07:25:50Z",
+    "size": 10598,
     "stars": 49
    },
    "shots": []
@@ -5069,10 +5058,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-24T09:21:09Z",
+    "date": "2026-10-26T12:59:37Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/monster-guardians-en/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/minhnhattonthat/monster-guardians-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -5080,7 +5069,7 @@
     "desc": "English fan translation of Monster Guardians (GBA, Konami 2001)",
     "full": "minhnhattonthat/monster-guardians-en",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:27Z",
+    "pushed": "2026-10-26T12:59:37Z",
     "size": 599,
     "stars": 0
    },
@@ -5542,6 +5531,43 @@
     "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f29300_320x240_16.png"
    ]
   },
+  "nrlemo/super-robot-wars-og-gaiden-english-ver": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-26T02:57:36Z",
+    "pre": true,
+    "tag": "RC01",
+    "url": "https://github.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/releases/tag/RC01"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-26T00:33:09Z",
+    "desc": "Complete English fan translation of Super Robot Wars OG Gaiden (PS2, SLPS-25836). RC01 xdelta patch, screenshots and install guide.",
+    "full": "Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver",
+    "lang": null,
+    "pushed": "2026-10-26T08:37:40Z",
+    "size": 15593,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/11-special-menu.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/31-map-dialogue.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/30-glossary-term-popup.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/39-cutscene-excellen.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/41-battle-excellen-2.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/12-library-valsione.png"
+   ]
+  },
   "ooa113y/umineko-catbox-english": {
    "assetOs": {},
    "readme": {
@@ -5730,8 +5756,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-26T02:25:11Z",
-    "size": 4546,
+    "pushed": "2026-10-26T13:00:01Z",
+    "size": 5053,
     "stars": 0
    },
    "shots": []
@@ -6007,10 +6033,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-25T23:20:16Z",
+    "date": "2026-10-26T13:09:00Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -6018,7 +6044,7 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-26T03:16:33Z",
+    "pushed": "2026-10-26T13:08:59Z",
     "size": 19,
     "stars": 0
    },
@@ -6846,7 +6872,26 @@
    ]
   },
   "zthegin/gintama---gintoki-vs-hijikata-game-english-translation": {
-   "notFound": true
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-22T15:29:58Z",
+    "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
+    "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
+    "lang": "Python",
+    "pushed": "2026-10-26T10:53:48Z",
+    "size": 3858,
+    "stars": 0
+   },
+   "shots": []
   }
  },
  "version": 1
