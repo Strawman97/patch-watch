@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-27T15:26:32Z",
+ "generated": "2026-10-27T22:25:21Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -55,7 +55,7 @@
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
     "pushed": "2026-10-27T15:12:52Z",
-    "size": 21032,
+    "size": 21076,
     "stars": 11
    },
    "shots": [
@@ -975,7 +975,7 @@
     "desc": "Fan translation of KimiKiss (キミキス) into English (キミキス 英語化パッチ). A free xdelta patch for your own dump, playable in PCSX2.",
     "full": "BrokenMesh/KimiKiss_AI_Translation",
     "lang": "Python",
-    "pushed": "2026-10-13T04:20:14Z",
+    "pushed": "2026-10-27T21:33:56Z",
     "size": 48852,
     "stars": 2
    },
@@ -1384,6 +1384,43 @@
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/04_event.png",
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/05_council.png",
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/06_map.png"
+   ]
+  },
+  "damon-daemon/sangokushi-5-puk-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T11:40:25Z",
+    "pre": true,
+    "tag": "v0.9.0",
+    "url": "https://github.com/damon-daemon/sangokushi-5-puk-english/releases/tag/v0.9.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-26T14:52:20Z",
+    "desc": "English fan translation patch for Sangokushi V with Power-Up Kit (PS1)",
+    "full": "damon-daemon/sangokushi-5-puk-english",
+    "lang": "Python",
+    "pushed": "2026-10-27T11:40:11Z",
+    "size": 1370,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-5-puk-english/HEAD/docs/screenshots/01_main_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-5-puk-english/HEAD/docs/screenshots/02_scenario.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-5-puk-english/HEAD/docs/screenshots/03_ruler_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-5-puk-english/HEAD/docs/screenshots/04_event.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-5-puk-english/HEAD/docs/screenshots/05_map.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-5-puk-english/HEAD/docs/screenshots/06_dialogue.png"
    ]
   },
   "damon-daemon/sangokushi-6-puk-english": {
@@ -2524,7 +2561,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T22:35:41Z",
     "size": 70932,
-    "stars": 30
+    "stars": 31
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -2773,7 +2810,7 @@
     "lang": null,
     "pushed": "2026-09-12T18:23:25Z",
     "size": 727,
-    "stars": 151
+    "stars": 152
    },
    "shots": [
     "https://github.com/user-attachments/assets/9fd1ba5d-f831-4622-a516-c68865e4438b",
@@ -2940,6 +2977,27 @@
     "pushed": "2021-03-28T06:45:01Z",
     "size": 21964,
     "stars": 8
+   },
+   "shots": []
+  },
+  "gazefst/digimon-story-lost-evolution-indonesia-patch-nds": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T10:25:52Z",
+    "desc": "Fan translation Digimon Story: Lost Evolution (Nintendo DS) ke Bahasa Indonesia. Fokus pada dialog cerita, NPC, menu, dan teks permainan dengan bahasa yang natural dan mudah dipahami. Gratis dan masih dalam pengembangan (WIP). Tidak berafiliasi dengan pemegang hak cipta Digimon. mod by gazefst",
+    "full": "gazefst/Digimon-Story-lost-evolution-indonesia-patch-nds",
+    "lang": null,
+    "pushed": "2026-10-27T10:25:53Z",
+    "size": 0,
+    "stars": 0
    },
    "shots": []
   },
@@ -3945,6 +4003,38 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T00:32:15Z",
+    "pre": false,
+    "tag": "0.8.9",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-27T00:32:15Z",
+    "size": 38595,
+    "stars": 18
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -4550,6 +4640,30 @@
    },
    "shots": []
   },
+  "marksharma1xy-del/trails3rd-psp-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T11:21:53Z",
+    "desc": "Unofficial fan English patch for Trails in the Sky the 3rd (PSP). Contains tools + hand translation only; no game files.",
+    "full": "marksharma1xy-del/trails3rd-psp-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-27T11:25:17Z",
+    "size": 228,
+    "stars": 0
+   },
+   "shots": []
+  },
   "masagrator/higurashienx": {
    "assetOs": {},
    "readme": {
@@ -4996,6 +5110,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/dual-orb-seirei-tama-densetsu-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T11:39:02Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-26T13:04:31Z",
+    "desc": "English fan translation of Dual Orb: Seirei Tama Densetsu (SNES)",
+    "full": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
+    "lang": "Python",
+    "pushed": "2026-10-27T12:00:22Z",
+    "size": 932,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/erementar-gerad": {
    "assetOs": {},
    "readme": {
@@ -5075,7 +5216,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T12:33:19Z",
     "size": 469,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -5948,7 +6089,7 @@
     "lang": "C++",
     "pushed": "2026-10-27T11:52:11Z",
     "size": 993,
-    "stars": 3
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/OZZ0AB/tsukihime-vita/HEAD/assets/livearea/bg.png"
@@ -6114,8 +6255,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-27T15:11:50Z",
-    "size": 2822,
+    "pushed": "2026-10-27T22:07:54Z",
+    "size": 2878,
     "stars": 0
    },
    "shots": []
@@ -6225,6 +6366,41 @@
     "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/subtitle-cinematic.png",
     "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/subtitle-planet-norg.png",
     "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/dialogue.png"
+   ]
+  },
+  "randomprojectsfactory/xak-i-ii-pce-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T09:33:53Z",
+    "pre": false,
+    "tag": "v2026.10.27.1",
+    "url": "https://github.com/randomprojectsfactory/xak-i-ii-pce-english/releases/tag/v2026.10.27.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-19T07:45:28Z",
+    "desc": "English text, cinematic subtitles and larger dialogue font for Xak I & II on PC Engine CD. Patch-only distribution.",
+    "full": "randomprojectsfactory/xak-i-ii-pce-english",
+    "lang": "Python",
+    "pushed": "2026-10-27T09:33:52Z",
+    "size": 1562,
+    "stars": 4
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/subtitle-king.png",
+    "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/subtitle-pixie.png",
+    "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/subtitle-departure.png",
+    "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/dialogue-bobby.png",
+    "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/dialogue-doug.png"
    ]
   },
   "redeted/megami-ibunroku-persona-ps1-translation": {
@@ -6349,8 +6525,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-27T11:50:13Z",
-    "size": 101769,
+    "pushed": "2026-10-27T20:23:55Z",
+    "size": 101773,
     "stars": 150
    },
    "shots": [
@@ -6381,6 +6557,37 @@
    },
    "shots": []
   },
+  "rikimtasu/th2dxp_en": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T14:14:56Z",
+    "pre": true,
+    "tag": "v0.1",
+    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T14:14:00Z",
+    "desc": "English Translation Project for PS3 ver ToHeart2 DX PLUS (AI assisted)",
+    "full": "rikimtasu/th2dxp_en",
+    "lang": "Python",
+    "pushed": "2026-10-27T16:25:48Z",
+    "size": 52346,
+    "stars": 0
+   },
+   "shots": []
+  },
   "rockefellera/tdq-en": {
    "assetOs": {},
    "readme": {
@@ -6404,7 +6611,7 @@
     "lang": null,
     "pushed": "2026-10-26T19:27:00Z",
     "size": 19,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://github.com/user-attachments/assets/ed6f70bb-5e39-4223-932f-79c0082c0212"
@@ -6631,7 +6838,7 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-10-25T22:37:32Z",
+    "pushed": "2026-10-27T22:25:04Z",
     "size": 3294,
     "stars": 8
    },
@@ -6660,7 +6867,7 @@
     "lang": null,
     "pushed": "2020-12-08T01:56:23Z",
     "size": 14,
-    "stars": 33
+    "stars": 34
    },
    "shots": []
   },
@@ -6825,8 +7032,8 @@
     "desc": "Bring the English PC localization to the Japanese PSP game using your own copies",
     "full": "stepigor/trails_in_the_sky_3rd_psp_english_patcher",
     "lang": "Python",
-    "pushed": "2026-10-25T21:34:52Z",
-    "size": 525,
+    "pushed": "2026-10-27T21:53:15Z",
+    "size": 545,
     "stars": 0
    },
    "shots": []
@@ -7003,6 +7210,39 @@
     "stars": 24
    },
    "shots": []
+  },
+  "thallhattancafe/shiritsu-justice-gakuen-nekketsu-seishun-nikki-2": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T12:07:40Z",
+    "pre": true,
+    "tag": "v0.64",
+    "url": "https://github.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/releases/tag/v0.64"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T12:03:07Z",
+    "desc": "English School Life translation patch for Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 (PS1 / PSX). Work in progress. Patch, installation guide and in-game screenshots; no game image or BIOS.",
+    "full": "ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2",
+    "lang": null,
+    "pushed": "2026-10-27T12:22:59Z",
+    "size": 911,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/natsu-dialogue.png",
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/tiffany-dialogue.png",
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/kyoko-dialogue.png",
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/class-rep-dialogue.png"
+   ]
   },
   "thesola10/yc_english": {
    "noRelease": true,

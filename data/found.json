@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-27T15:26:32Z",
+ "generated": "2026-10-27T22:25:21Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9544,17 +9544,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-10-27T09:10:10Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -12412,19 +12401,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-10-27T00:35:27Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "3DS",
-   "src": "GitHub"
-  },
-  {
    "d": "English fan translation of GetBackers Dakkanya: Jagan Fuuin! (GBA)",
    "fa": "2026-10-27T09:10:10Z",
    "g": "GetBackers Dakkanya: Jagan Fuuin!",
@@ -12552,6 +12528,58 @@
     "Human translation"
    ],
    "p": "PC Engine CD",
+   "src": "GitHub"
+  },
+  {
+   "d": "English Translation for Fire Pro Wrestling S - 6Men Scramble (Saturn)",
+   "fa": "2026-10-27T22:25:21Z",
+   "g": "Fire Pro Wrestling S",
+   "id": "kactusken/fire-pro-wrestling-s-six-men-scramble-english",
+   "k": "kactusken/fire-pro-wrestling-s-six-men-scramble-english",
+   "l": "https://github.com/kactusken/Fire-Pro-Wrestling-S-Six-Men-Scramble-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "GitHub"
+  },
+  {
+   "d": "A complete English translation of Time Twist for the FDS",
+   "fa": "2026-10-27T22:25:21Z",
+   "g": "Time Twist for the",
+   "id": "romh-acking/time-twist-fds-en",
+   "k": "romh-acking/time-twist-fds-en",
+   "l": "https://github.com/romh-acking/time-twist-fds-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "FDS",
+   "src": "GitHub"
+  },
+  {
+   "d": "Time Twist (Famicom Disk System): Manual English translation ",
+   "fa": "2026-10-27T22:25:21Z",
+   "g": "Time Twist Fds Manual",
+   "id": "romh-acking/time-twist-fds-en-manual",
+   "k": "romh-acking/time-twist-fds-en-manual",
+   "l": "https://github.com/romh-acking/time-twist-fds-en-manual",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "FDS",
+   "src": "GitHub"
+  },
+  {
+   "d": "Dragon Tamer: Sound Spirit (Nintendo DS) English fan translation by StepPhone of the StepHackerZ. BPS patch and build tools.",
+   "fa": "2026-10-27T22:25:21Z",
+   "g": "Dragon Tamer: Sound Spirit",
+   "id": "stepphone/dragon-tamer-sound-spirit-english",
+   "k": "stepphone/dragon-tamer-sound-spirit-english",
+   "l": "https://github.com/StepPhone/dragon-tamer-sound-spirit-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
    "src": "GitHub"
   },
   {
@@ -14159,51 +14187,27 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-10-27T00:35:27Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-10-27T00:35:27Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-10-27T09:10:10Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "d": "Bulk Slash (English Patch)",
    "fa": "2026-10-27T15:26:32Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
-    "Undub"
+    "Human translation"
    ],
-   "p": "PS2",
+   "p": "Saturn",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-10-27T15:26:32Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
