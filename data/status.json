@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-26T20:36:37Z",
+ "generated": "2026-10-27T00:35:27Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1159,6 +1159,33 @@
     "https://raw.githubusercontent.com/conan-patches/ps2/HEAD/images/english/screenshot2.png",
     "https://raw.githubusercontent.com/conan-patches/ps2/HEAD/images/english/screenshot3.png"
    ]
+  },
+  "consolesplayingconsoles/game-translations": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-06T18:13:36Z",
+    "pre": true,
+    "tag": "densha-de-go-2-kousoku-hen-japan-v0.5-alpha",
+    "url": "https://github.com/consolesplayingconsoles/game-translations/releases/tag/densha-de-go-2-kousoku-hen-japan-v0.5-alpha"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-25T19:35:07Z",
+    "desc": "Patches of translated videogames",
+    "full": "consolesplayingconsoles/game-translations",
+    "lang": null,
+    "pushed": "2026-10-06T18:13:36Z",
+    "size": 10614,
+    "stars": 2
+   },
+   "shots": []
   },
   "corytburns/chocobo-stallion-translation": {
    "noRelease": true,
@@ -2352,7 +2379,7 @@
     "lang": "C++",
     "pushed": "2024-03-30T03:54:07Z",
     "size": 192329,
-    "stars": 124
+    "stars": 125
    },
    "shots": []
   },
@@ -2454,10 +2481,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T11:27:03Z",
+    "date": "2026-10-26T22:35:42Z",
     "pre": false,
-    "tag": "v0.1.26",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.26"
+    "tag": "v0.1.27",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.27"
    },
    "repo": {
     "archived": false,
@@ -2465,8 +2492,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-26T11:27:03Z",
-    "size": 68112,
+    "pushed": "2026-10-26T22:35:41Z",
+    "size": 70932,
     "stars": 29
    },
    "shots": [
@@ -3043,10 +3070,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-18T14:00:30Z",
+    "date": "2026-10-26T22:13:48Z",
     "pre": false,
-    "tag": "v0.8.0",
-    "url": "https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0"
+    "tag": "v0.8.1",
+    "url": "https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.1"
    },
    "repo": {
     "archived": false,
@@ -3054,8 +3081,8 @@
     "desc": "Fan English translation patch for Langrisser III (Sega Saturn, Japan). Built from the JP ISO, Work in progress.",
     "full": "hexerkat/langrisser3-english",
     "lang": "Python",
-    "pushed": "2026-10-18T14:34:01Z",
-    "size": 5402,
+    "pushed": "2026-10-26T22:13:41Z",
+    "size": 5454,
     "stars": 8
    },
    "shots": []
@@ -3643,7 +3670,7 @@
     "full": "kactusken/Wrestle-Angels-Survivor-2-English",
     "lang": "Python",
     "pushed": "2026-10-26T20:35:52Z",
-    "size": 8740,
+    "size": 11125,
     "stars": 3
    },
    "shots": []
@@ -3675,7 +3702,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T19:08:50Z",
     "size": 16941,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -3858,38 +3885,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-24T13:36:52Z",
-    "pre": false,
-    "tag": "0.8.8",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.8"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-24T13:36:51Z",
-    "size": 37425,
-    "stars": 17
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -4458,7 +4453,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-26T10:43:19Z",
     "size": 83740,
-    "stars": 95
+    "stars": 96
    },
    "shots": [
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
@@ -5844,6 +5839,35 @@
    },
    "shots": []
   },
+  "ozz0ab/tsukihime-vita": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-26T22:04:58Z",
+    "pre": false,
+    "tag": "v1.05",
+    "url": "https://github.com/OZZ0AB/tsukihime-vita/releases/tag/v1.05"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-26T16:03:04Z",
+    "desc": "Native PS Vita port of the original Tsukihime English release, with working saves and custom LiveArea artwork. Game data is supplied separately.",
+    "full": "OZZ0AB/tsukihime-vita",
+    "lang": "C++",
+    "pushed": "2026-10-26T22:04:58Z",
+    "size": 892,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/OZZ0AB/tsukihime-vita/HEAD/assets/livearea/bg.png"
+   ]
+  },
   "pavel0wq/uta-no-prince-sama-repeat-english-patch": {
    "assetOs": {},
    "readme": {
@@ -5984,7 +6008,7 @@
     "lang": null,
     "pushed": "2026-10-18T21:15:27Z",
     "size": 4,
-    "stars": 9
+    "stars": 10
    },
    "shots": []
   },
@@ -5992,9 +6016,8 @@
    "noRelease": true,
    "readme": {
     "patch": {
-     "ex": {
-      "subs": true
-     }
+     "cov": "Menus only",
+     "ex": {}
     },
     "v": 1
    },
@@ -6005,8 +6028,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-26T20:31:27Z",
-    "size": 1527,
+    "pushed": "2026-10-26T23:22:11Z",
+    "size": 2118,
     "stars": 0
    },
    "shots": []
@@ -6343,13 +6366,13 @@
     "desc": "Sword Art Online: Infinity Moment (PSP) English fan translation — patcher only. Fan Translation Project by Rowdorf.",
     "full": "rowdorfin/RowdyTranslation",
     "lang": null,
-    "pushed": "2026-10-26T15:10:57Z",
-    "size": 879,
+    "pushed": "2026-10-26T22:33:22Z",
+    "size": 1514,
     "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/title-screen.jpg",
-    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/dialogue.jpg",
+    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/battle2.jpg",
     "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/field.jpg",
     "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/main-menu.jpg",
     "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/battle.jpg"
@@ -6392,8 +6415,8 @@
     "desc": "English translation patch for Wizardry: Dimguil (PS1, SLPS-02691 Rev 1)",
     "full": "satelliteoflove/dimguil-english",
     "lang": "Python",
-    "pushed": "2026-10-20T12:47:24Z",
-    "size": 10516,
+    "pushed": "2026-10-26T21:18:51Z",
+    "size": 10656,
     "stars": 0
    },
    "shots": [
