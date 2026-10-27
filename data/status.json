@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-27T09:10:10Z",
+ "generated": "2026-10-27T15:26:32Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -43,10 +43,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-14T22:51:59Z",
+    "date": "2026-10-27T14:40:29Z",
     "pre": false,
-    "tag": "GS1_English",
-    "url": "https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation/releases/tag/GS1_English"
+    "tag": "GS1_English0.7.57",
+    "url": "https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation/releases/tag/GS1_English0.7.57"
    },
    "repo": {
     "archived": false,
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-10-27T08:46:43Z",
-    "size": 23076,
+    "pushed": "2026-10-27T15:12:52Z",
+    "size": 21032,
     "stars": 11
    },
    "shots": [
@@ -348,6 +348,36 @@
     "pushed": "2026-10-12T06:20:38Z",
     "size": 129,
     "stars": 9
+   },
+   "shots": []
+  },
+  "akoi89/tgaa-3ds-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T05:45:35Z",
+    "pre": false,
+    "tag": "v1.9n",
+    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9n"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-31T04:35:56Z",
+    "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
+    "full": "Akoi89/tgaa-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-27T05:45:34Z",
+    "size": 1323,
+    "stars": 7
    },
    "shots": []
   },
@@ -2494,7 +2524,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T22:35:41Z",
     "size": 70932,
-    "stars": 29
+    "stars": 30
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -2984,6 +3014,35 @@
     "pushed": "2023-09-05T22:45:35.613Z",
     "stars": 3
    }
+  },
+  "goodshepherd23/despiria-dreamrecomp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T03:54:57Z",
+    "pre": false,
+    "tag": "v0.1.0",
+    "url": "https://github.com/goodshepherd23/deSPIRIA-DreamRecomp/releases/tag/v0.1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T03:54:33Z",
+    "desc": "Play deSPIRIA (Dreamcast, English fan translation) natively on Windows with dream-recomp. Build-from-source kit: bring your own patched disc.",
+    "full": "goodshepherd23/deSPIRIA-DreamRecomp",
+    "lang": "C++",
+    "pushed": "2026-10-27T03:54:57Z",
+    "size": 91,
+    "stars": 0
+   },
+   "shots": []
   },
   "gothamor/tokimeki-memorial-english-patch": {
    "noRelease": true,
@@ -3885,38 +3944,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-27T00:32:15Z",
-    "pre": false,
-    "tag": "0.8.9",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-27T00:32:15Z",
-    "size": 38595,
-    "stars": 18
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5048,7 +5075,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T12:33:19Z",
     "size": 469,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -5129,6 +5156,33 @@
     "lang": "Python",
     "pushed": "2026-10-26T12:33:23Z",
     "size": 207,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T07:16:49Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T07:16:05Z",
+    "desc": "English fan translation of GetBackers Dakkanya: Jagan Fuuin! (GBA)",
+    "full": "minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en",
+    "lang": "Python",
+    "pushed": "2026-10-27T12:25:10Z",
+    "size": 696,
     "stars": 0
    },
    "shots": []
@@ -5553,10 +5607,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-10T08:49:11Z",
+    "date": "2026-10-27T12:06:25Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/zero-one-sp-english/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/zero-one-sp-english/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -5564,8 +5618,8 @@
     "desc": "English fan translation of Zero One SP (GBA, 2004)",
     "full": "minhnhattonthat/zero-one-sp-english",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:35Z",
-    "size": 2809,
+    "pushed": "2026-10-27T12:06:07Z",
+    "size": 2876,
     "stars": 0
    },
    "shots": []
@@ -5796,7 +5850,7 @@
     "lang": "Python",
     "pushed": "2026-10-24T16:37:58Z",
     "size": 6066,
-    "stars": 7
+    "stars": 8
    },
    "shots": [
     "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f03100_320x240_16.png",
@@ -5881,10 +5935,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T22:04:58Z",
+    "date": "2026-10-27T11:52:11Z",
     "pre": false,
-    "tag": "v1.05",
-    "url": "https://github.com/OZZ0AB/tsukihime-vita/releases/tag/v1.05"
+    "tag": "v1.06",
+    "url": "https://github.com/OZZ0AB/tsukihime-vita/releases/tag/v1.06"
    },
    "repo": {
     "archived": false,
@@ -5892,8 +5946,8 @@
     "desc": "Native PS Vita port of the original Tsukihime English release, with working saves and custom LiveArea artwork. Game data is supplied separately.",
     "full": "OZZ0AB/tsukihime-vita",
     "lang": "C++",
-    "pushed": "2026-10-26T22:04:58Z",
-    "size": 892,
+    "pushed": "2026-10-27T11:52:11Z",
+    "size": 993,
     "stars": 3
    },
    "shots": [
@@ -6027,10 +6081,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-18T21:15:27Z",
+    "date": "2026-10-27T13:47:08Z",
     "pre": false,
-    "tag": "GPM-EN62",
-    "url": "https://github.com/phukyes/Gunparade-March-English/releases/tag/GPM-EN62"
+    "tag": "GPM-EN63",
+    "url": "https://github.com/phukyes/Gunparade-March-English/releases/tag/GPM-EN63"
    },
    "repo": {
     "archived": false,
@@ -6038,8 +6092,8 @@
     "desc": "English fan translation patch for Koukidou Gensou Gunparade March (PS1)",
     "full": "phukyes/Gunparade-March-English",
     "lang": null,
-    "pushed": "2026-10-18T21:15:27Z",
-    "size": 4,
+    "pushed": "2026-10-27T13:48:57Z",
+    "size": 7,
     "stars": 10
    },
    "shots": []
@@ -6060,7 +6114,7 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-27T05:47:59Z",
+    "pushed": "2026-10-27T15:11:50Z",
     "size": 2822,
     "stars": 0
    },
@@ -6284,10 +6338,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-22T20:54:55Z",
+    "date": "2026-10-27T11:19:46Z",
     "pre": false,
-    "tag": "1.0.0-hotfix",
-    "url": "https://github.com/RHAdvance/RhythmHeavenAdvance/releases/tag/1.0.0-hotfix"
+    "tag": "1.0.0-hotfix2",
+    "url": "https://github.com/RHAdvance/RhythmHeavenAdvance/releases/tag/1.0.0-hotfix2"
    },
    "repo": {
     "archived": false,
@@ -6295,8 +6349,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-27T08:50:42Z",
-    "size": 101721,
+    "pushed": "2026-10-27T11:50:13Z",
+    "size": 101769,
     "stars": 150
    },
    "shots": [
@@ -6350,7 +6404,7 @@
     "lang": null,
     "pushed": "2026-10-26T19:27:00Z",
     "size": 19,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://github.com/user-attachments/assets/ed6f70bb-5e39-4223-932f-79c0082c0212"

@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-27T09:10:10Z",
+ "generated": "2026-10-27T15:26:32Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9544,6 +9544,17 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-10-27T09:10:10Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -12401,6 +12412,19 @@
    "src": "GitHub"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-10-27T00:35:27Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "d": "English fan translation of GetBackers Dakkanya: Jagan Fuuin! (GBA)",
    "fa": "2026-10-27T09:10:10Z",
    "g": "GetBackers Dakkanya: Jagan Fuuin!",
@@ -12437,6 +12461,97 @@
     "Human translation"
    ],
    "p": "Dreamcast",
+   "src": "GitHub"
+  },
+  {
+   "d": "English Translation Project for PS3 ver ToHeart2 DX PLUS (AI assisted)",
+   "fa": "2026-10-27T15:26:32Z",
+   "g": "Th2Dxp",
+   "id": "rikimtasu/th2dxp_en",
+   "k": "rikimtasu/th2dxp_en",
+   "l": "https://github.com/rikimtasu/th2dxp_en",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "PS3",
+   "src": "GitHub"
+  },
+  {
+   "d": "English School Life translation patch for Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 (PS1 / PSX). Work in progress. Patch, installation guide and in-game screenshots; no game image or BIOS.",
+   "fa": "2026-10-27T15:26:32Z",
+   "g": "Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2",
+   "id": "thallhattancafe/shiritsu-justice-gakuen-nekketsu-seishun-nikki-2",
+   "k": "thallhattancafe/shiritsu-justice-gakuen-nekketsu-seishun-nikki-2",
+   "l": "https://github.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Dual Orb: Seirei Tama Densetsu (SNES)",
+   "fa": "2026-10-27T15:26:32Z",
+   "g": "Dual Orb: Seirei Tama Densetsu",
+   "id": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
+   "k": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
+   "l": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation patch for Sangokushi V with Power-Up Kit (PS1)",
+   "fa": "2026-10-27T15:26:32Z",
+   "g": "Sangokushi V with Power-Up Kit",
+   "id": "damon-daemon/sangokushi-5-puk-english",
+   "k": "damon-daemon/sangokushi-5-puk-english",
+   "l": "https://github.com/damon-daemon/sangokushi-5-puk-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "Unofficial fan English patch for Trails in the Sky the 3rd (PSP). Contains tools + hand translation only; no game files.",
+   "fa": "2026-10-27T15:26:32Z",
+   "g": "Trails3Rd",
+   "id": "marksharma1xy-del/trails3rd-psp-english-patch",
+   "k": "marksharma1xy-del/trails3rd-psp-english-patch",
+   "l": "https://github.com/marksharma1xy-del/trails3rd-psp-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "Fan translation Digimon Story: Lost Evolution (Nintendo DS) ke Bahasa Indonesia. Fokus pada dialog cerita, NPC, menu, dan teks permainan dengan bahasa yang natural dan mudah dipahami. Gratis dan masih dalam pengembangan (WIP). Tidak berafil",
+   "fa": "2026-10-27T15:26:32Z",
+   "g": "Digimon Story lost evolution indonesia",
+   "id": "gazefst/digimon-story-lost-evolution-indonesia-patch-nds",
+   "k": "gazefst/digimon-story-lost-evolution-indonesia-patch-nds",
+   "l": "https://github.com/gazefst/Digimon-Story-lost-evolution-indonesia-patch-nds",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "English text, cinematic subtitles and larger dialogue font for Xak I & II on PC Engine CD. Patch-only distribution.",
+   "fa": "2026-10-27T15:26:32Z",
+   "g": "Xak I Ii",
+   "id": "randomprojectsfactory/xak-i-ii-pce-english",
+   "k": "randomprojectsfactory/xak-i-ii-pce-english",
+   "l": "https://github.com/randomprojectsfactory/xak-i-ii-pce-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PC Engine CD",
    "src": "GitHub"
   },
   {
@@ -14044,27 +14159,51 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-10-26T20:36:37Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-10-27T00:35:27Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-10-26T20:36:37Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-10-27T00:35:27Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-10-27T09:10:10Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-10-27T15:26:32Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
