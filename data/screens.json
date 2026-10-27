@@ -3915,6 +3915,11 @@
    ],
    "tv": 3
   },
+  "de spiria dream recomp|23": {
+   "checked": "2026-10-27T09:10:10Z",
+   "shots": [],
+   "tv": 3
+  },
   "dead of the brain 1 and 2|150": {
    "checked": "2026-10-22T21:45:23Z",
    "cover": "co9nec",
@@ -8136,6 +8141,15 @@
    "shots": [
     "scosyt"
    ],
+   "tv": 3
+  },
+  "getbackers dakkanya jagan fuuin|24": {
+   "checked": "2026-10-27T09:10:10Z",
+   "cover": "co7k5r",
+   "id": 49602,
+   "match": 1.0,
+   "name": "GetBackers Dakkanya: Jagan Fuuin!",
+   "shots": [],
    "tv": 3
   },
   "getsu fuuma den|18": {
@@ -21263,6 +21277,11 @@
    ],
    "tv": 3
   },
+  "tgaa|37": {
+   "checked": "2026-10-27T09:10:10Z",
+   "shots": [],
+   "tv": 3
+  },
   "theatrythm dragon quest|37": {
    "checked": "2026-10-22T12:22:11Z",
    "shots": [],
@@ -23771,7 +23790,7 @@
    "tv": 3
   }
  },
- "generated": "2026-10-27T00:35:27Z",
+ "generated": "2026-10-27T09:10:10Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -23786,6 +23805,7 @@
   "akoi89/dqmj3p-english-fixed": "dragon quest monsters joker 3 professional|37",
   "akoi89/puyopuyotetris-3ds-english-patch": "puyo puyo tetris|37",
   "akoi89/rocketslime-3ds-english-fixup": "slime morimori dragon quest 3 taikaizoku to shippo dan|37",
+  "akoi89/tgaa-3ds-english-patch": "tgaa|37",
   "alarixnia/daichikun-crisis-en": "daichi kun crisis do natural|86",
   "alexbl9x/samurai-shodown-3-sega-saturn-english-activation-patch": "samurai spirits zankurou musouken|32",
   "alunonymoose/sengoku-basara-3---utage-translation": "sengoku basara 3 utage|9",
@@ -23872,6 +23892,7 @@
   "gengaislop/mm8saturnundub": "mm8|32",
   "gingka8233/happiness-sakura-celebration-english-patch-nintendo-switch": "happiness sakura celebration|130",
   "gitlab.com/neurochitin/miko_kaleido_patch": "gensou rougoku no kaleidoscope|130",
+  "goodshepherd23/despiria-dreamrecomp": "de spiria dream recomp|23",
   "gothamor/tokimeki-memorial-english-patch": "tokimeki memorial forever with you|7",
   "grouchoglasses42/card-hero-gbc": "trade and battle card hero|22",
   "grubgamer-woah/frontmissionalternative": "front mission alternative|7",
@@ -23903,7 +23924,6 @@
   "kaisaan/wanderers": "ys iii wanderers from ys|8",
   "kakuna285/saki-zenkokuhen-plus-tl-eng": "saki zenkoku hen plus|46",
   "karas84/projectzeroundub": "project zero|8",
-  "kenzie-1377/dqxi-3ds-english-patch": "dqxi|37",
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd edition|9",
   "kodakwizard/hikaru-no-go-3-english": "hikaru no go 3|21",
   "kotcrab/umineko-portable-english": "umineko no naku koro ni portable 2|38",
@@ -24014,10 +24034,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
-  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -24053,6 +24073,7 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
+  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -24075,7 +24096,6 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
-  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -24192,7 +24212,6 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
-  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
@@ -24213,7 +24232,6 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
-  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",
@@ -24422,7 +24440,6 @@
   "link:https://romhackplaza.org/translations/mazinger-z-super-famicom-eng-spa-msu1-english-spanish-translation-super-nintendo": "mazinger z|19",
   "link:https://romhackplaza.org/translations/misfortune-a-story-of-suspicious-friendships-english-translation-playstation": "misfortune a story of suspicious friendships|7",
   "link:https://romhackplaza.org/translations/nekojara-monogatari-english-translation-game-boy": "nekojara monogatari|33",
-  "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": "sega|32",
   "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64": "nintendo 64|4",
   "link:https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": "pocket muumuu|7",
   "link:https://romhackplaza.org/translations/popolocrois-monogatari-ii-english-translation-playstation": "popolocrois monogatari ii|7",
@@ -25690,6 +25707,7 @@
   "minhnhattonthat/gachasute-dino-device-2-en": "gachasute dino device 2 dragon|24",
   "minhnhattonthat/ganbare-daiku-no-gen-san-en": "ganbare daiku no gensan|19",
   "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en": "gegege no kitarou fukkatsu tenma daiou|19",
+  "minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en": "getbackers dakkanya jagan fuuin|24",
   "minhnhattonthat/granbo": "granbo|24",
   "minhnhattonthat/great-battle-gaiden-2-english": "great battle gaiden 2 matsuri da wasshoi|19",
   "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": "hanjuku hero aa sekai yo hanjuku nare|19",

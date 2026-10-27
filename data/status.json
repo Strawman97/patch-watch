@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-27T00:35:27Z",
+ "generated": "2026-10-27T09:10:10Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -14,10 +14,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-15T01:36:57Z",
+    "date": "2026-10-27T02:37:00Z",
     "pre": false,
-    "tag": "GS2_English",
-    "url": "https://github.com/Acer-2006/Gyakuten-Saiban-2-English-GBA-/releases/tag/GS2_English"
+    "tag": "GS2-English_v3.1",
+    "url": "https://github.com/Acer-2006/Gyakuten-Saiban-2-English-GBA-/releases/tag/GS2-English_v3.1"
    },
    "repo": {
     "archived": false,
@@ -25,9 +25,9 @@
     "desc": "A fan translation that inserts the official Capcom localization and graphics into GS2 for the GBA",
     "full": "Acer-2006/Gyakuten-Saiban-2-English-GBA-",
     "lang": "HTML",
-    "pushed": "2026-10-15T20:12:50Z",
-    "size": 2401,
-    "stars": 5
+    "pushed": "2026-10-27T03:45:07Z",
+    "size": 670,
+    "stars": 6
    },
    "shots": [
     "https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21"
@@ -54,9 +54,9 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-10-15T13:24:57Z",
+    "pushed": "2026-10-27T08:46:43Z",
     "size": 23076,
-    "stars": 10
+    "stars": 11
    },
    "shots": [
     "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
@@ -2512,10 +2512,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-09-20T16:29:08Z",
+    "date": "2026-10-27T03:49:26Z",
     "pre": false,
-    "tag": "v1.0.1",
-    "url": "https://github.com/ExxistanceDC/Cyber-Doll-English-Translation/releases/tag/v1.0.1"
+    "tag": "v1.0.2",
+    "url": "https://github.com/ExxistanceDC/Cyber-Doll-English-Translation/releases/tag/v1.0.2"
    },
    "repo": {
     "archived": false,
@@ -2523,8 +2523,8 @@
     "desc": "An English translation patch for the Sega Saturn Cyberpunk RPG, Cyber Doll",
     "full": "ExxistanceDC/Cyber-Doll-English-Translation",
     "lang": null,
-    "pushed": "2026-09-20T16:29:08Z",
-    "size": 144,
+    "pushed": "2026-10-27T03:49:26Z",
+    "size": 148,
     "stars": 34
    },
    "shots": [
@@ -3081,8 +3081,8 @@
     "desc": "Fan English translation patch for Langrisser III (Sega Saturn, Japan). Built from the JP ISO, Work in progress.",
     "full": "hexerkat/langrisser3-english",
     "lang": "Python",
-    "pushed": "2026-10-26T22:13:41Z",
-    "size": 5454,
+    "pushed": "2026-10-27T00:47:46Z",
+    "size": 5532,
     "stars": 8
    },
    "shots": []
@@ -3339,10 +3339,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T13:55:19Z",
+    "date": "2026-10-27T04:38:59Z",
     "pre": false,
-    "tag": "v0.92",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v0.92"
+    "tag": "v0.92.1",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v0.92.1"
    },
    "repo": {
     "archived": false,
@@ -3350,8 +3350,8 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-10-26T13:54:36Z",
-    "size": 437,
+    "pushed": "2026-10-27T04:37:47Z",
+    "size": 441,
     "stars": 1
    },
    "shots": [
@@ -3885,6 +3885,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T00:32:15Z",
+    "pre": false,
+    "tag": "0.8.9",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-27T00:32:15Z",
+    "size": 38595,
+    "stars": 18
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5675,7 +5707,7 @@
     "lang": "Python",
     "pushed": "2026-10-20T21:32:16Z",
     "size": 877,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/title.png",
@@ -5862,7 +5894,7 @@
     "lang": "C++",
     "pushed": "2026-10-26T22:04:58Z",
     "size": 892,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/OZZ0AB/tsukihime-vita/HEAD/assets/livearea/bg.png"
@@ -6028,8 +6060,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-26T23:22:11Z",
-    "size": 2118,
+    "pushed": "2026-10-27T05:47:59Z",
+    "size": 2822,
     "stars": 0
    },
    "shots": []
@@ -6097,7 +6129,7 @@
     "lang": "Python",
     "pushed": "2026-10-24T03:05:34Z",
     "size": 4503,
-    "stars": 96
+    "stars": 97
    },
    "shots": [
     "https://raw.githubusercontent.com/pumpkinhasapatch/dokodemo-psp-english/HEAD/textures/GUI/TITLE/TITLE.png",
@@ -6120,10 +6152,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-23T01:36:58Z",
+    "date": "2026-10-27T08:00:55Z",
     "pre": false,
-    "tag": "v2026.10.23.1",
-    "url": "https://github.com/randomprojectsfactory/cosmic-fantasy-pce-english/releases/tag/v2026.10.23.1"
+    "tag": "v2026.10.27.1",
+    "url": "https://github.com/randomprojectsfactory/cosmic-fantasy-pce-english/releases/tag/v2026.10.27.1"
    },
    "repo": {
     "archived": false,
@@ -6131,8 +6163,8 @@
     "desc": "English text and cinematic subtitles for Cosmic Fantasy on PC Engine CD, preserving Japanese voices and artwork. Patch-only distribution.",
     "full": "randomprojectsfactory/cosmic-fantasy-pce-english",
     "lang": "Python",
-    "pushed": "2026-10-23T01:36:58Z",
-    "size": 220,
+    "pushed": "2026-10-27T08:00:54Z",
+    "size": 507,
     "stars": 1
    },
    "shots": [
@@ -6263,9 +6295,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-26T18:54:59Z",
-    "size": 101699,
-    "stars": 149
+    "pushed": "2026-10-27T08:50:42Z",
+    "size": 101721,
+    "stars": 150
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -6415,8 +6447,8 @@
     "desc": "English translation patch for Wizardry: Dimguil (PS1, SLPS-02691 Rev 1)",
     "full": "satelliteoflove/dimguil-english",
     "lang": "Python",
-    "pushed": "2026-10-26T21:18:51Z",
-    "size": 10656,
+    "pushed": "2026-10-27T04:13:50Z",
+    "size": 10817,
     "stars": 0
    },
    "shots": [
@@ -6795,6 +6827,43 @@
     "stars": 19
    },
    "shots": []
+  },
+  "struktured/trinea-dx": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-14T02:56:54Z",
+    "pre": false,
+    "tag": "v1.0.1",
+    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-27T20:10:25Z",
+    "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
+    "full": "struktured/trinea-dx",
+    "lang": "Assembly",
+    "pushed": "2026-10-26T21:18:24Z",
+    "size": 1929,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/struktured/trinea-dx/HEAD/docs/screenshots/title.png",
+    "https://raw.githubusercontent.com/struktured/trinea-dx/HEAD/docs/screenshots/character_select.png",
+    "https://raw.githubusercontent.com/struktured/trinea-dx/HEAD/docs/screenshots/dialogue.png",
+    "https://raw.githubusercontent.com/struktured/trinea-dx/HEAD/docs/screenshots/shop.png",
+    "https://raw.githubusercontent.com/struktured/trinea-dx/HEAD/docs/screenshots/final_cutscene.png",
+    "https://raw.githubusercontent.com/struktured/trinea-dx/HEAD/docs/screenshots/credits.png"
+   ]
   },
   "symphonialauren/tales-of-rebirth": {
    "assetOs": {},
@@ -7192,8 +7261,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-26T15:41:11Z",
-    "size": 4155,
+    "pushed": "2026-10-27T05:17:13Z",
+    "size": 4465,
     "stars": 0
    },
    "shots": []
