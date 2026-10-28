@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-28T05:56:22Z",
+ "generated": "2026-10-28T13:13:02Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -597,6 +597,174 @@
     "http://i.imgur.com/P8ypaT4.png"
    ]
   },
+  "beanutrom/boundary-gate-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:40:42Z",
+    "desc": "An English patch for the PCFX and PSX version of Boundary Gate",
+    "full": "BeanutROM/Boundary-Gate-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:40:43Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/ps2-seven-cavalary-of-molmorth-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:43:42Z",
+    "desc": "A NEW english patch for Seven: Cavalry of Molmorth from Namco on the PS2",
+    "full": "BeanutROM/PS2-Seven-Cavalary-of-Molmorth-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:43:43Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/ps2-venus-braves-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:45:13Z",
+    "desc": "An english patch for the PS2 game Venus & Braves from Namco",
+    "full": "BeanutROM/PS2-Venus-Braves-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:45:14Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-armed-fighter-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:52:35Z",
+    "desc": "An english patch for the PSX game Armed Fighter",
+    "full": "BeanutROM/PSX-Armed-Fighter-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:52:37Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-cosmowarrior-zero-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:51:16Z",
+    "desc": "An english patch for the PSX game CosmoWarrior Zero",
+    "full": "BeanutROM/PSX-CosmoWarrior-Zero-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:51:18Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-cyberorg-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:54:25Z",
+    "desc": "An english patch for the PSX game CyberOrg",
+    "full": "BeanutROM/PSX-CyberOrg-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:54:26Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-enigma-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:41:58Z",
+    "desc": "An English patch for the Koei game Enigma on the PSX",
+    "full": "BeanutROM/PSX-Enigma-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:42:00Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-hikari-no-shima-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:55:38Z",
+    "desc": "An english patch for the PSX game Hikari no Shima",
+    "full": "BeanutROM/PSX-Hikari-no-Shima-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:55:40Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
   "beanutrom/psx-jailbreaker-english-patch": {
    "assetOs": {},
    "readme": {
@@ -620,9 +788,51 @@
     "desc": "",
     "full": "BeanutROM/PSX-Jailbreaker-English-Patch",
     "lang": null,
-    "pushed": "2026-10-22T20:55:42Z",
+    "pushed": "2026-10-28T06:31:57Z",
     "size": 680,
     "stars": 1
+   },
+   "shots": []
+  },
+  "beanutrom/psx-ling-rise-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:47:55Z",
+    "desc": "An english patch for the PSX game Ling Rise",
+    "full": "BeanutROM/PSX-Ling-Rise-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:47:56Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-nemuru-mayu-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T05:48:47Z",
+    "desc": "An english patch for the PSX game Nemuru Mayu",
+    "full": "BeanutROM/PSX-Nemuru-Mayu-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T05:48:49Z",
+    "size": 0,
+    "stars": 0
    },
    "shots": []
   },
@@ -3200,7 +3410,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T00:47:46Z",
     "size": 5532,
-    "stars": 8
+    "stars": 9
    },
    "shots": []
   },
@@ -4033,6 +4243,38 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T00:32:15Z",
+    "pre": false,
+    "tag": "0.8.9",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-27T00:32:15Z",
+    "size": 38595,
+    "stars": 18
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -4764,10 +5006,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T07:25:51Z",
+    "date": "2026-10-28T07:55:42Z",
     "pre": false,
-    "tag": "tr_EN-US+nightly.20261026",
-    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN-US%2Bnightly.20261026"
+    "tag": "tr_EN-US+nightly.20261028",
+    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN-US%2Bnightly.20261028"
    },
    "repo": {
     "archived": false,
@@ -4775,8 +5017,8 @@
     "desc": "Medarot 3 GBC disassembly/translation",
     "full": "Medabots/medarot3",
     "lang": "Assembly",
-    "pushed": "2026-10-26T07:25:50Z",
-    "size": 10598,
+    "pushed": "2026-10-28T07:55:42Z",
+    "size": 10777,
     "stars": 49
    },
    "shots": []
@@ -6477,17 +6719,18 @@
    "readme": {
     "patch": {
      "cov": "Partial",
-     "ex": {},
-     "mtl": true
+     "ex": {
+      "restore": true
+     }
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-21T18:52:33Z",
+    "date": "2026-10-28T06:26:17Z",
     "pre": true,
-    "tag": "v0.1.10-beta",
-    "url": "https://github.com/retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation/releases/tag/v0.1.10-beta"
+    "tag": "v0.1.11-beta",
+    "url": "https://github.com/retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation/releases/tag/v0.1.11-beta"
    },
    "repo": {
     "archived": false,
@@ -6495,8 +6738,8 @@
     "desc": "English beta patch for Blue Seed: Kushinada Hirokuden (Saturn). Testing and translation review in progress. Volunteer testers wanted: report translation/display bugs with screenshots. ROM-free release.",
     "full": "retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation",
     "lang": null,
-    "pushed": "2026-10-21T18:52:33Z",
-    "size": 30,
+    "pushed": "2026-10-28T06:31:50Z",
+    "size": 35,
     "stars": 5
    },
    "shots": []
@@ -6608,7 +6851,7 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-27T22:39:02Z",
+    "pushed": "2026-10-28T12:55:38Z",
     "size": 20,
     "stars": 2
    },
@@ -7163,6 +7406,28 @@
    },
    "shots": []
   },
+  "struktured-labs/song-master-en": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T23:09:20Z",
+    "desc": "English fan translation of Song Master (SFC, 1992)",
+    "full": "struktured-labs/song-master-en",
+    "lang": "Python",
+    "pushed": "2026-10-28T13:12:42Z",
+    "size": 562,
+    "stars": 0
+   },
+   "shots": []
+  },
   "struktured/trinea-dx": {
    "assetOs": {},
    "readme": {
@@ -7309,7 +7574,7 @@
     "lang": null,
     "pushed": "2026-10-27T12:22:59Z",
     "size": 911,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/natsu-dialogue.png",
@@ -7629,8 +7894,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-27T05:17:13Z",
-    "size": 4465,
+    "pushed": "2026-10-28T11:00:42Z",
+    "size": 5608,
     "stars": 0
    },
    "shots": []

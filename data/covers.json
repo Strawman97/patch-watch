@@ -6608,6 +6608,14 @@
    "title": "Torneko no Daibouken: Fushigi no Dungeon",
    "url": "https://cdn2.steamgriddb.com/grid/40c417d07a32c66d6c4385f95aa71332.png"
   },
+  "link:https://www.romhacking.net/translations/7778": {
+   "added": "2026-10-28T13:13:02Z",
+   "match": 1.0,
+   "name": "Giftpia",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/86ab1a86140b4f98127d7670f9da86f8.jpg",
+   "title": "Giftpia",
+   "url": "https://cdn2.steamgriddb.com/grid/86ab1a86140b4f98127d7670f9da86f8.png"
+  },
   "link:https://www.romhacking.net/translations/7838": {
    "added": "2026-10-22T09:57:51Z",
    "match": 1.0,
@@ -7074,7 +7082,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-10-28T05:56:22Z",
+ "generated": "2026-10-28T13:13:02Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -7120,11 +7128,13 @@
   "beanutrom/ps2-seven-cavalary-of-molmorth-english-patch": "2026-10-28T05:56:22Z|seven cavalry of molmorth from namco",
   "beanutrom/ps2-venus-braves-english-patch": "2026-10-28T05:56:22Z|venus and braves from namco",
   "beanutrom/psx-armed-fighter-english-patch": "2026-10-28T05:56:22Z|psx game armed fighter",
+  "beanutrom/psx-bealphareth-english-patch": "2026-10-28T13:13:02Z|psx game bealphareth",
   "beanutrom/psx-cosmowarrior-zero-english-patch": "2026-10-28T05:56:22Z|psx game cosmowarrior zero",
   "beanutrom/psx-cyberorg-english-patch": "2026-10-28T05:56:22Z|psx game cyberorg",
   "beanutrom/psx-enigma-english-patch": "2026-10-28T05:56:22Z|koei game enigma",
   "beanutrom/psx-hikari-no-shima-english-patch": "2026-10-28T05:56:22Z|psx game hikari no shima",
   "beanutrom/psx-jailbreaker-english-patch": "2026-10-22T21:45:23Z",
+  "beanutrom/psx-lagnacure-english-patch": "2026-10-28T13:13:02Z|psx game lagnacure",
   "beanutrom/psx-ling-rise-english-patch": "2026-10-28T05:56:22Z|psx game ling rise",
   "beanutrom/psx-nemuru-mayu-english-patch": "2026-10-28T05:56:22Z|psx game nemuru mayu",
   "bentolanh/masou-kishin-english-patch": "2026-10-22T09:57:51Z",
@@ -7182,6 +7192,7 @@
   "gengaislop/mm8saturnundub": "2026-10-22T09:57:51Z",
   "gingka8233/happiness-sakura-celebration-english-patch-nintendo-switch": "2026-10-22T09:57:51Z",
   "goodshepherd23/despiria-dreamrecomp": "2026-10-27T09:10:10Z|de spiria dream recomp",
+  "gorillakenobi/digimon-tamers-saturn-en": "2026-10-28T13:13:02Z|digimon tamers",
   "gothamor/tokimeki-memorial-english-patch": "2026-10-25T16:35:04Z|tokimeki memorial forever with you",
   "grouchoglasses42/card-hero-gbc": "2026-10-26T04:59:47Z|trade and battle card hero",
   "hexerkat/langrisser3-strategy-guide": "2026-10-22T09:57:51Z",
@@ -7797,6 +7808,7 @@
   "minhnhattonthat/ganbare-daiku-no-gen-san-en": "2026-10-26T13:19:03Z|ganbare daiku no gensan",
   "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en": "2026-10-26T13:19:03Z|gegege no kitarou fukkatsu tenma daiou",
   "minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en": "2026-10-27T09:10:10Z|getbackers dakkanya jagan fuuin",
+  "minhnhattonthat/ginga-eiyuu-densetsu-en": "2026-10-28T13:13:02Z|ginga eiyuu densetsu",
   "minhnhattonthat/great-battle-gaiden-2-english": "2026-10-22T09:57:51Z",
   "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": "2026-10-22T09:57:51Z",
   "minhnhattonthat/kabuki-rocks": "2026-10-22T09:57:51Z",
