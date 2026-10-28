@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-27T22:25:21Z",
+ "generated": "2026-10-28T05:56:22Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -976,7 +976,7 @@
     "full": "BrokenMesh/KimiKiss_AI_Translation",
     "lang": "Python",
     "pushed": "2026-10-27T21:33:56Z",
-    "size": 48852,
+    "size": 48889,
     "stars": 2
    },
    "shots": []
@@ -2548,10 +2548,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T22:35:42Z",
+    "date": "2026-10-27T23:18:42Z",
     "pre": false,
-    "tag": "v0.1.27",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.27"
+    "tag": "v0.1.28",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.28"
    },
    "repo": {
     "archived": false,
@@ -2559,8 +2559,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-26T22:35:41Z",
-    "size": 70932,
+    "pushed": "2026-10-27T23:18:42Z",
+    "size": 74643,
     "stars": 31
    },
    "shots": [
@@ -3672,6 +3672,36 @@
    },
    "shots": []
   },
+  "kactusken/fire-pro-wrestling-s-six-men-scramble-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T22:08:25Z",
+    "pre": false,
+    "tag": "v0.1",
+    "url": "https://github.com/kactusken/Fire-Pro-Wrestling-S-Six-Men-Scramble-English/releases/tag/v0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T21:37:53Z",
+    "desc": "English Translation for Fire Pro Wrestling S - 6Men Scramble (Saturn)",
+    "full": "kactusken/Fire-Pro-Wrestling-S-Six-Men-Scramble-English",
+    "lang": "Python",
+    "pushed": "2026-10-28T01:41:39Z",
+    "size": 2499,
+    "stars": 0
+   },
+   "shots": []
+  },
   "kactusken/jikkyou-power-pro-wrestling-english": {
    "assetOs": {},
    "readme": {
@@ -4002,38 +4032,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-27T00:32:15Z",
-    "pre": false,
-    "tag": "0.8.9",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-27T00:32:15Z",
-    "size": 38595,
-    "stars": 18
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -4602,7 +4600,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-26T10:43:19Z",
     "size": 83740,
-    "stars": 96
+    "stars": 98
    },
    "shots": [
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
@@ -6255,8 +6253,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-27T22:07:54Z",
-    "size": 2878,
+    "pushed": "2026-10-28T02:41:10Z",
+    "size": 4456,
     "stars": 0
    },
    "shots": []
@@ -6360,7 +6358,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T08:00:54Z",
     "size": 507,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/subtitle-cinematic.png",
@@ -6393,7 +6391,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T09:33:52Z",
     "size": 1562,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/subtitle-king.png",
@@ -6499,7 +6497,7 @@
     "lang": null,
     "pushed": "2026-10-21T18:52:33Z",
     "size": 30,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -6563,6 +6561,7 @@
    },
    "readme": {
     "patch": {
+     "cov": "Partial",
      "ex": {
       "restore": true
      }
@@ -6571,10 +6570,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T14:14:56Z",
+    "date": "2026-10-28T03:18:07Z",
     "pre": true,
-    "tag": "v0.1",
-    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.1"
+    "tag": "v0.2",
+    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.2"
    },
    "repo": {
     "archived": false,
@@ -6582,8 +6581,8 @@
     "desc": "English Translation Project for PS3 ver ToHeart2 DX PLUS (AI assisted)",
     "full": "rikimtasu/th2dxp_en",
     "lang": "Python",
-    "pushed": "2026-10-27T16:25:48Z",
-    "size": 52346,
+    "pushed": "2026-10-28T03:19:23Z",
+    "size": 52437,
     "stars": 0
    },
    "shots": []
@@ -6598,10 +6597,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T19:27:00Z",
+    "date": "2026-10-27T22:34:19Z",
     "pre": false,
-    "tag": "v1.2",
-    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.2"
+    "tag": "v1.3",
+    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.3"
    },
    "repo": {
     "archived": false,
@@ -6609,8 +6608,8 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-26T19:27:00Z",
-    "size": 19,
+    "pushed": "2026-10-27T22:39:02Z",
+    "size": 20,
     "stars": 2
    },
    "shots": [
@@ -6635,6 +6634,50 @@
     "pushed": "2021-11-29T14:01:12Z",
     "size": 540925,
     "stars": 4
+   },
+   "shots": []
+  },
+  "romh-acking/time-twist-fds-en": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-09-08T15:32:33Z",
+    "desc": "A complete English translation of Time Twist for the FDS",
+    "full": "romh-acking/time-twist-fds-en",
+    "lang": "Python",
+    "pushed": "2026-10-27T21:24:51Z",
+    "size": 839,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/romh-acking/time-twist-fds-en/HEAD/1.png"
+   ]
+  },
+  "romh-acking/time-twist-fds-en-manual": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T20:03:55Z",
+    "desc": "Time Twist (Famicom Disk System): Manual English translation ",
+    "full": "romh-acking/time-twist-fds-en-manual",
+    "lang": null,
+    "pushed": "2026-10-27T20:16:19Z",
+    "size": 36299,
+    "stars": 0
    },
    "shots": []
   },
@@ -6838,8 +6881,8 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-10-27T22:25:04Z",
-    "size": 3294,
+    "pushed": "2026-10-27T22:40:41Z",
+    "size": 3335,
     "stars": 8
    },
    "shots": []
@@ -7038,6 +7081,37 @@
    },
    "shots": []
   },
+  "stepphone/dragon-tamer-sound-spirit-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T16:58:06Z",
+    "pre": true,
+    "tag": "v0.1-beta",
+    "url": "https://github.com/StepPhone/dragon-tamer-sound-spirit-english/releases/tag/v0.1-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-27T16:57:48Z",
+    "desc": "Dragon Tamer: Sound Spirit (Nintendo DS) English fan translation by StepPhone of the StepHackerZ. BPS patch and build tools.",
+    "full": "StepPhone/dragon-tamer-sound-spirit-english",
+    "lang": "Python",
+    "pushed": "2026-10-27T19:20:40Z",
+    "size": 1125,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/StepPhone/dragon-tamer-sound-spirit-english/HEAD/assets/boot-credits.png",
+    "https://raw.githubusercontent.com/StepPhone/dragon-tamer-sound-spirit-english/HEAD/assets/map-text.png"
+   ]
+  },
   "stepphone/zoids-battle-colosseum-english": {
    "assetOs": {},
    "readme": {
@@ -7113,8 +7187,8 @@
     "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
     "full": "struktured/trinea-dx",
     "lang": "Assembly",
-    "pushed": "2026-10-26T21:18:24Z",
-    "size": 1929,
+    "pushed": "2026-10-28T02:13:33Z",
+    "size": 2201,
     "stars": 1
    },
    "shots": [
