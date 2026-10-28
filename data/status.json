@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-28T13:13:02Z",
+ "generated": "2026-10-28T20:23:06Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-10-27T15:12:52Z",
-    "size": 21076,
+    "pushed": "2026-10-28T18:32:23Z",
+    "size": 30979,
     "stars": 11
    },
    "shots": [
@@ -315,8 +315,8 @@
     "desc": "Sega's official English text and voices carried onto the Japanese 3DS Puyo Puyo Tetris, DLC included",
     "full": "Akoi89/puyopuyotetris-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-10-24T04:34:58Z",
-    "size": 386,
+    "pushed": "2026-10-28T16:53:16Z",
+    "size": 388,
     "stars": 2
    },
    "shots": []
@@ -681,6 +681,27 @@
    },
    "shots": []
   },
+  "beanutrom/psx-bealphareth-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T08:18:42Z",
+    "desc": "An english patch for the PSX game Bealphareth",
+    "full": "BeanutROM/PSX-Bealphareth-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T08:18:44Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
   "beanutrom/psx-cosmowarrior-zero-english-patch": {
    "noRelease": true,
    "readme": {
@@ -791,6 +812,27 @@
     "pushed": "2026-10-28T06:31:57Z",
     "size": 680,
     "stars": 1
+   },
+   "shots": []
+  },
+  "beanutrom/psx-lagnacure-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T06:30:48Z",
+    "desc": "An english patch for the PSX game Lagnacure",
+    "full": "BeanutROM/PSX-Lagnacure-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-28T06:30:49Z",
+    "size": 0,
+    "stars": 0
    },
    "shots": []
   },
@@ -3312,6 +3354,41 @@
    },
    "shots": []
   },
+  "gorillakenobi/digimon-tamers-saturn-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-28T11:20:54Z",
+    "pre": true,
+    "tag": "v0.9.3",
+    "url": "https://github.com/GorillaKenobi/digimon-tamers-saturn-en/releases/tag/v0.9.3"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T11:14:58Z",
+    "desc": "English fan translation patch for Digital Monster Ver. S: Digimon Tamers (デジタルモンスター Ver.S, Sega Saturn, 1998). Free, unofficial, and not for sale.",
+    "full": "GorillaKenobi/digimon-tamers-saturn-en",
+    "lang": null,
+    "pushed": "2026-10-28T11:42:09Z",
+    "size": 319,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/GorillaKenobi/digimon-tamers-saturn-en/HEAD/screenshots/title.png",
+    "https://raw.githubusercontent.com/GorillaKenobi/digimon-tamers-saturn-en/HEAD/screenshots/desktop.png",
+    "https://raw.githubusercontent.com/GorillaKenobi/digimon-tamers-saturn-en/HEAD/screenshots/food.png",
+    "https://raw.githubusercontent.com/GorillaKenobi/digimon-tamers-saturn-en/HEAD/screenshots/jump.png",
+    "https://raw.githubusercontent.com/GorillaKenobi/digimon-tamers-saturn-en/HEAD/screenshots/shop.png",
+    "https://raw.githubusercontent.com/GorillaKenobi/digimon-tamers-saturn-en/HEAD/screenshots/world.png"
+   ]
+  },
   "gothamor/tokimeki-memorial-english-patch": {
    "noRelease": true,
    "readme": {
@@ -4243,38 +4320,6 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-27T00:32:15Z",
-    "pre": false,
-    "tag": "0.8.9",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-27T00:32:15Z",
-    "size": 38595,
-    "stars": 18
-   },
-   "shots": []
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -4840,7 +4885,7 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-10-26T10:43:19Z",
+    "pushed": "2026-10-28T20:08:05Z",
     "size": 83740,
     "stars": 98
    },
@@ -5564,6 +5609,33 @@
     "lang": "Python",
     "pushed": "2026-10-27T12:25:10Z",
     "size": 696,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/ginga-eiyuu-densetsu-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-28T06:03:05Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/ginga-eiyuu-densetsu-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T19:00:59Z",
+    "desc": "English fan translation of Ginga Eiyuu Densetsu (SNES)",
+    "full": "minhnhattonthat/ginga-eiyuu-densetsu-en",
+    "lang": "Python",
+    "pushed": "2026-10-28T06:03:21Z",
+    "size": 667,
     "stars": 0
    },
    "shots": []
@@ -6329,7 +6401,7 @@
     "lang": "C++",
     "pushed": "2026-10-27T11:52:11Z",
     "size": 993,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/OZZ0AB/tsukihime-vita/HEAD/assets/livearea/bg.png"
@@ -6480,7 +6552,7 @@
    "shots": []
   },
   "princeendo/msh_vs_sf_saturn_en_translation": {
-   "noRelease": true,
+   "assetOs": {},
    "readme": {
     "patch": {
      "cov": "Menus only",
@@ -6489,14 +6561,20 @@
     "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-10-28T16:21:26Z",
+    "pre": false,
+    "tag": "v0.1.0",
+    "url": "https://github.com/princeendo/msh_vs_sf_saturn_en_translation/releases/tag/v0.1.0"
+   },
    "repo": {
     "archived": false,
     "created": "2026-08-24T20:27:41Z",
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-28T02:41:10Z",
-    "size": 4456,
+    "pushed": "2026-10-28T19:04:40Z",
+    "size": 5718,
     "stars": 0
    },
    "shots": []
@@ -6852,7 +6930,7 @@
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
     "pushed": "2026-10-28T12:55:38Z",
-    "size": 20,
+    "size": 22,
     "stars": 2
    },
    "shots": [
@@ -6947,7 +7025,7 @@
     "lang": null,
     "pushed": "2026-10-26T22:33:22Z",
     "size": 1514,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/title-screen.jpg",
@@ -7318,8 +7396,8 @@
     "desc": "Bring the English PC localization to the Japanese PSP game using your own copies",
     "full": "stepigor/trails_in_the_sky_3rd_psp_english_patcher",
     "lang": "Python",
-    "pushed": "2026-10-27T21:53:15Z",
-    "size": 545,
+    "pushed": "2026-10-28T17:58:08Z",
+    "size": 562,
     "stars": 0
    },
    "shots": []
@@ -7422,8 +7500,8 @@
     "desc": "English fan translation of Song Master (SFC, 1992)",
     "full": "struktured-labs/song-master-en",
     "lang": "Python",
-    "pushed": "2026-10-28T13:12:42Z",
-    "size": 562,
+    "pushed": "2026-10-28T14:49:16Z",
+    "size": 743,
     "stars": 0
    },
    "shots": []
@@ -7554,17 +7632,16 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "cov": "Complete",
      "ex": {}
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T12:07:40Z",
+    "date": "2026-10-28T17:55:32Z",
     "pre": true,
-    "tag": "v0.64",
-    "url": "https://github.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/releases/tag/v0.64"
+    "tag": "v0.103",
+    "url": "https://github.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/releases/tag/v0.103"
    },
    "repo": {
     "archived": false,
@@ -7572,8 +7649,8 @@
     "desc": "English School Life translation patch for Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 (PS1 / PSX). Work in progress. Patch, installation guide and in-game screenshots; no game image or BIOS.",
     "full": "ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2",
     "lang": null,
-    "pushed": "2026-10-27T12:22:59Z",
-    "size": 911,
+    "pushed": "2026-10-28T17:55:32Z",
+    "size": 920,
     "stars": 1
    },
    "shots": [
