@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-28T20:23:06Z",
+ "generated": "2026-10-29T01:03:32Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -27,7 +27,7 @@
     "lang": "HTML",
     "pushed": "2026-10-27T03:45:07Z",
     "size": 670,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21"
@@ -54,9 +54,9 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-10-28T18:32:23Z",
-    "size": 30979,
-    "stars": 11
+    "pushed": "2026-10-29T00:56:27Z",
+    "size": 33249,
+    "stars": 12
    },
    "shots": [
     "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
@@ -938,6 +938,36 @@
    },
    "shots": []
   },
+  "berius129/spectral-tower-2-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-28T16:28:54Z",
+    "pre": true,
+    "tag": "v0.2.0",
+    "url": "https://github.com/Berius129/spectral-tower-2-translation/releases/tag/v0.2.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-26T00:29:33Z",
+    "desc": "Spectral Tower II (PS1) English fan translation patch — Japanese to English, xdelta patch, beta",
+    "full": "Berius129/spectral-tower-2-translation",
+    "lang": "Python",
+    "pushed": "2026-10-28T17:55:59Z",
+    "size": 433,
+    "stars": 0
+   },
+   "shots": []
+  },
   "bigbanana23/london-seirei-tanteidan": {
    "assetOs": {},
    "readme": {
@@ -1773,8 +1803,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-10-21T15:28:02Z",
-    "size": 4915,
+    "pushed": "2026-10-28T23:34:35Z",
+    "size": 4957,
     "stars": 3
    },
    "shots": [
@@ -2800,10 +2830,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T23:18:42Z",
+    "date": "2026-10-29T00:30:57Z",
     "pre": false,
-    "tag": "v0.1.28",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.28"
+    "tag": "v0.1.29",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.29"
    },
    "repo": {
     "archived": false,
@@ -2811,7 +2841,7 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-27T23:18:42Z",
+    "pushed": "2026-10-29T00:30:56Z",
     "size": 74643,
     "stars": 31
    },
@@ -4320,6 +4350,38 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T00:32:15Z",
+    "pre": false,
+    "tag": "0.8.9",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-27T00:32:15Z",
+    "size": 38595,
+    "stars": 18
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -4885,8 +4947,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-10-28T20:08:05Z",
-    "size": 83740,
+    "pushed": "2026-10-28T22:56:02Z",
+    "size": 86111,
     "stars": 98
    },
    "shots": [
@@ -6006,10 +6068,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-24T09:50:22Z",
+    "date": "2026-10-28T22:13:40Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/velldeselba-senki/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/velldeselba-senki/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -6017,8 +6079,8 @@
     "desc": "English fan translation of Velldeselba Senki - Tsubasa no Kunshou (PSX)",
     "full": "minhnhattonthat/velldeselba-senki",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:34Z",
-    "size": 2028,
+    "pushed": "2026-10-28T22:14:34Z",
+    "size": 2032,
     "stars": 0
    },
    "shots": []
@@ -6186,6 +6248,27 @@
     "lang": "Python",
     "pushed": "2026-10-18T05:12:15Z",
     "size": 2222,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "nekogun45/-3ds-super-robot-wars-ux---full-english-translation-patch-release-experimental-": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T19:32:54Z",
+    "desc": "Full-English-Translation-Patch-Release-Experimental-",
+    "full": "NekoGun45/-3DS-Super-Robot-Wars-UX---Full-English-Translation-Patch-Release-Experimental-",
+    "lang": null,
+    "pushed": "2026-10-28T19:35:51Z",
+    "size": 2022,
     "stars": 0
    },
    "shots": []
@@ -6975,7 +7058,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T21:24:51Z",
     "size": 839,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/romh-acking/time-twist-fds-en/HEAD/1.png"
