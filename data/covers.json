@@ -2088,6 +2088,14 @@
    "title": "Prisoner",
    "url": "https://cdn2.steamgriddb.com/grid/ad2e7595ae449d949f4152e597a59181.png"
   },
+  "link:https://romhackplaza.org/translations/sloane-machales-mystery-stories-english-translation-nintendo-ds": {
+   "added": "2026-10-29T18:33:15Z",
+   "match": 1.0,
+   "name": "Nintendo DS",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/5c6d0849bdab8d96f2acad81eeab077b.jpg",
+   "title": "Nintendo DS",
+   "url": "https://cdn2.steamgriddb.com/grid/5c6d0849bdab8d96f2acad81eeab077b.jpg"
+  },
   "link:https://romhackplaza.org/translations/sonic-gems-collection-english-translation-nintendo-gamecube": {
    "added": "2026-10-22T10:45:22Z",
    "match": 1.0,
@@ -7098,7 +7106,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-10-29T10:12:06Z",
+ "generated": "2026-10-29T18:33:15Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",

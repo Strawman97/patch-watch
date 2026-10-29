@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-29T10:12:06Z",
+ "generated": "2026-10-29T18:33:15Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -27,7 +27,7 @@
     "lang": "HTML",
     "pushed": "2026-10-27T03:45:07Z",
     "size": 670,
-    "stars": 8
+    "stars": 9
    },
    "shots": [
     "https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21"
@@ -54,9 +54,9 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-10-29T00:56:27Z",
-    "size": 33661,
-    "stars": 13
+    "pushed": "2026-10-29T18:01:07Z",
+    "size": 35335,
+    "stars": 14
    },
    "shots": [
     "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
@@ -364,10 +364,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T02:17:17Z",
+    "date": "2026-10-29T16:38:22Z",
     "pre": false,
-    "tag": "v1.9o",
-    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9o"
+    "tag": "v1.9p",
+    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9p"
    },
    "repo": {
     "archived": false,
@@ -375,8 +375,8 @@
     "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-10-29T02:17:17Z",
-    "size": 1327,
+    "pushed": "2026-10-29T16:38:22Z",
+    "size": 1335,
     "stars": 7
    },
    "shots": []
@@ -951,10 +951,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T05:12:33Z",
-    "pre": true,
-    "tag": "v0.3.0",
-    "url": "https://github.com/Berius129/spectral-tower-2-translation/releases/tag/v0.3.0"
+    "date": "2026-10-29T14:55:30Z",
+    "pre": false,
+    "tag": "v1.0.0",
+    "url": "https://github.com/Berius129/spectral-tower-2-translation/releases/tag/v1.0.0"
    },
    "repo": {
     "archived": false,
@@ -962,8 +962,8 @@
     "desc": "Spectral Tower II (PS1) English fan translation patch — Japanese to English, xdelta patch, beta",
     "full": "Berius129/spectral-tower-2-translation",
     "lang": "Python",
-    "pushed": "2026-10-29T05:12:08Z",
-    "size": 489,
+    "pushed": "2026-10-29T15:21:33Z",
+    "size": 572,
     "stars": 0
    },
    "shots": []
@@ -1829,10 +1829,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T03:16:50Z",
+    "date": "2026-10-29T13:17:00Z",
     "pre": true,
-    "tag": "v0.10.2",
-    "url": "https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.10.2"
+    "tag": "v0.10.3",
+    "url": "https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.10.3"
    },
    "repo": {
     "archived": false,
@@ -1840,8 +1840,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-10-29T03:16:50Z",
-    "size": 5046,
+    "pushed": "2026-10-29T13:17:00Z",
+    "size": 5063,
     "stars": 3
    },
    "shots": [
@@ -3655,6 +3655,31 @@
     "https://raw.githubusercontent.com/itsbalanse/BokuraNoKazoku-English/HEAD/docs/screenshots/07_ending.png"
    ]
   },
+  "itsfabsss/yakuza-1-2-hd-edition-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-29T02:12:54Z",
+    "desc": "An English patch for the exclusive Japan-only release of Yakuza 1 and 2 for PS3 and Wii U.",
+    "full": "itsfabsss/Yakuza-1-2-HD-Edition-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-29T02:18:27Z",
+    "size": 660,
+    "stars": 0
+   },
+   "shots": []
+  },
   "itsrevela/yakuman-ds-english": {
    "assetOs": {},
    "readme": {
@@ -4021,8 +4046,8 @@
     "desc": "English translation for Fire Pro Wrestling G for PS1",
     "full": "kactusken/Fire-Pro-Wrestling-G-English",
     "lang": "Python",
-    "pushed": "2026-10-21T16:22:41Z",
-    "size": 3499,
+    "pushed": "2026-10-29T11:47:50Z",
+    "size": 3776,
     "stars": 2
    },
    "shots": []
@@ -4143,9 +4168,9 @@
     "desc": "English translation for King of Colosseum II for PS2",
     "full": "kactusken/King-of-Colosseum-II-English",
     "lang": "Python",
-    "pushed": "2026-10-21T16:28:16Z",
-    "size": 8472,
-    "stars": 4
+    "pushed": "2026-10-29T17:02:54Z",
+    "size": 12278,
+    "stars": 5
    },
    "shots": []
   },
@@ -4418,6 +4443,38 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T00:32:15Z",
+    "pre": false,
+    "tag": "0.8.9",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-27T00:32:15Z",
+    "size": 38595,
+    "stars": 18
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -4621,7 +4678,7 @@
     "desc": "An attempt to create a patch for Narikiri Dungeon X (PSP).",
     "full": "lifebottle/Narikiri-Dungeon-X",
     "lang": "JavaScript",
-    "pushed": "2026-10-24T18:12:55Z",
+    "pushed": "2026-10-29T18:16:19Z",
     "size": 21815,
     "stars": 61
    },
@@ -5535,8 +5592,8 @@
     "desc": "English fan translation of Dual Orb: Seirei Tama Densetsu (SNES)",
     "full": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
     "lang": "Python",
-    "pushed": "2026-10-27T12:00:22Z",
-    "size": 932,
+    "pushed": "2026-10-29T12:29:26Z",
+    "size": 1002,
     "stars": 0
    },
    "shots": []
@@ -6324,8 +6381,8 @@
     "desc": "Full-English-Translation-Patch-Release-Experimental-",
     "full": "NekoGun45/-3DS-Super-Robot-Wars-UX---Full-English-Translation-Patch-Release-Experimental-",
     "lang": null,
-    "pushed": "2026-10-29T05:50:24Z",
-    "size": 6062,
+    "pushed": "2026-10-29T15:01:59Z",
+    "size": 6064,
     "stars": 0
    },
    "shots": []
@@ -6715,7 +6772,7 @@
     "lang": "Python",
     "pushed": "2026-10-28T19:04:40Z",
     "size": 5718,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -7058,10 +7115,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T22:34:19Z",
+    "date": "2026-10-29T15:43:31Z",
     "pre": false,
-    "tag": "v1.3",
-    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.3"
+    "tag": "v1.4",
+    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.4"
    },
    "repo": {
     "archived": false,
@@ -7069,8 +7126,8 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-28T12:55:38Z",
-    "size": 22,
+    "pushed": "2026-10-29T15:46:40Z",
+    "size": 32,
     "stars": 2
    },
    "shots": [
@@ -7659,10 +7716,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T01:23:15Z",
+    "date": "2026-10-29T15:06:08Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.1"
+    "tag": "v1.1.1",
+    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.1.1"
    },
    "repo": {
     "archived": false,
@@ -7670,8 +7727,8 @@
     "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
     "full": "struktured/trinea-dx",
     "lang": "Assembly",
-    "pushed": "2026-10-29T01:23:15Z",
-    "size": 2293,
+    "pushed": "2026-10-29T15:06:08Z",
+    "size": 2375,
     "stars": 1
    },
    "shots": [
@@ -8111,8 +8168,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-29T06:22:46Z",
-    "size": 5410,
+    "pushed": "2026-10-29T15:06:52Z",
+    "size": 5416,
     "stars": 0
    },
    "shots": []
