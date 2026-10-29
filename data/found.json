@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-29T01:03:32Z",
+ "generated": "2026-10-29T10:12:06Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9557,6 +9557,28 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-10-29T10:12:06Z",
+   "g": "Super Nintendo",
+   "id": "link:https://romhackplaza.org/translations/captain-tsubasa-v-hasha-no-shougou-campione-plus-english-spanish-translation-super-nintendo",
+   "l": "https://romhackplaza.org/translations/captain-tsubasa-v-hasha-no-shougou-campione-plus-english-spanish-translation-super-nintendo",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "Romhack Plaza"
+  },
+  {
+   "fa": "2026-10-29T10:12:06Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -12817,6 +12839,19 @@
    "src": "GitHub"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-10-28T20:23:06Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "d": "English Translation for Fire Pro Wrestling D (Dreamcast)",
    "fa": "2026-10-29T01:03:32Z",
    "g": "Fire Pro Wrestling D",
@@ -12853,6 +12888,19 @@
     "Human translation"
    ],
    "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "An English patch for the exclusive Japan-only release of Yakuza 1 and 2 for PS3 and Wii U.",
+   "fa": "2026-10-29T10:12:06Z",
+   "g": "exclusive Japan-only release of Yakuza 1 and 2",
+   "id": "itsfabsss/yakuza-1-2-hd-edition-english-patch",
+   "k": "itsfabsss/yakuza-1-2-hd-edition-english-patch",
+   "l": "https://github.com/itsfabsss/Yakuza-1-2-HD-Edition-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
    "src": "GitHub"
   },
   {
@@ -14460,28 +14508,65 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-10-28T13:13:02Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-10-28T20:23:06Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-10-28T13:13:02Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-10-28T20:23:06Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
    "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-10-29T01:03:32Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-10-29T10:12:06Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Internet Archive"
+  },
+  {
+   "fa": "2026-10-29T10:12:06Z",
+   "g": "Metal Max 2",
+   "grp": "(s): Duodenum_X",
+   "id": "link:https://archive.org/details/metal-max-2-eng-1.0",
+   "jp": "メタルマックス２",
+   "l": "https://archive.org/details/metal-max-2-eng-1.0",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "SNES",
+   "src": "Credited on CDRomance"
   },
   {
    "fa": "2026-10-22T12:22:11Z",

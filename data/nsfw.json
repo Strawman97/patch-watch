@@ -696,6 +696,11 @@
    "iv": 1,
    "title": "Bokura no Kazoku"
   },
+  "itsfabsss/yakuza-1-2-hd-edition-english-patch": {
+   "checked": "2026-10-29T10:12:06Z",
+   "iv": 1,
+   "title": "exclusive Japan-only release of Yakuza 1 and 2"
+  },
   "itsrevela/yakuman-ds-english": {
    "checked": "2026-10-22T12:22:11Z",
    "iv": 1,
@@ -830,6 +835,11 @@
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
    "title": "Project Zero"
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "checked": "2026-10-29T10:12:06Z",
+   "iv": 1,
+   "title": "Dqxi"
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "checked": "2026-10-21T12:14:43Z",
@@ -1416,11 +1426,6 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "checked": "2026-10-29T01:03:32Z",
-   "iv": 1,
-   "title": "Sonic Gems Collection"
-  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1435,6 +1440,16 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "checked": "2026-10-29T10:12:06Z",
+   "img": "https://t.vndb.org/cv/04/103904.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "AIR",
+   "sexual": 0,
+   "title": "AIR",
+   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1616,11 +1631,6 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "checked": "2026-10-29T01:03:32Z",
-   "iv": 1,
-   "title": "Bulk Slash"
-  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -1735,6 +1745,11 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "checked": "2026-10-29T10:12:06Z",
+   "iv": 1,
+   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2141,6 +2156,11 @@
    "iv": 1,
    "title": "Digital Devil Story: Megami Tensei II"
   },
+  "link:https://archive.org/details/metal-max-2-eng-1.0": {
+   "checked": "2026-10-29T10:12:06Z",
+   "iv": 1,
+   "title": "Metal Max 2"
+  },
   "link:https://archive.org/details/mgf-english-patch-v-1.00": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -2341,6 +2361,11 @@
    "iv": 1,
    "title": "Samurai Warriors: State of War"
   },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "checked": "2026-10-29T10:12:06Z",
+   "iv": 1,
+   "title": "Sengoku BASARA 3 Utage —"
+  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -2445,6 +2470,11 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
+  },
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
+   "checked": "2026-10-29T10:12:06Z",
+   "iv": 1,
+   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -3421,6 +3451,11 @@
    "iv": 1,
    "title": "Capcom vs. SNK Pro"
   },
+  "link:https://romhackplaza.org/translations/captain-tsubasa-v-hasha-no-shougou-campione-plus-english-spanish-translation-super-nintendo": {
+   "checked": "2026-10-29T10:12:06Z",
+   "iv": 1,
+   "title": "Super Nintendo"
+  },
   "link:https://romhackplaza.org/translations/captain-tsubasa-vs-english-translation-game-boy": {
    "checked": "2026-10-22T17:20:22Z",
    "iv": 1,
@@ -3535,6 +3570,11 @@
    "checked": "2026-10-22T17:20:22Z",
    "iv": 1,
    "title": "Nekojara Monogatari"
+  },
+  "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": {
+   "checked": "2026-10-29T10:12:06Z",
+   "iv": 1,
+   "title": "SEGA"
   },
   "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64": {
    "checked": "2026-10-24T16:05:02Z",
@@ -10773,6 +10813,6 @@
    "title": "Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!!"
   }
  },
- "generated": "2026-10-29T01:03:32Z",
+ "generated": "2026-10-29T10:12:06Z",
  "version": 1
 }

@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-29T01:03:32Z",
+ "generated": "2026-10-29T10:12:06Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -27,7 +27,7 @@
     "lang": "HTML",
     "pushed": "2026-10-27T03:45:07Z",
     "size": 670,
-    "stars": 7
+    "stars": 8
    },
    "shots": [
     "https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21"
@@ -55,8 +55,8 @@
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
     "pushed": "2026-10-29T00:56:27Z",
-    "size": 33249,
-    "stars": 12
+    "size": 33661,
+    "stars": 13
    },
    "shots": [
     "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
@@ -364,10 +364,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T05:45:35Z",
+    "date": "2026-10-29T02:17:17Z",
     "pre": false,
-    "tag": "v1.9n",
-    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9n"
+    "tag": "v1.9o",
+    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9o"
    },
    "repo": {
     "archived": false,
@@ -375,8 +375,8 @@
     "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-10-27T05:45:34Z",
-    "size": 1323,
+    "pushed": "2026-10-29T02:17:17Z",
+    "size": 1327,
     "stars": 7
    },
    "shots": []
@@ -951,10 +951,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-28T16:28:54Z",
+    "date": "2026-10-29T05:12:33Z",
     "pre": true,
-    "tag": "v0.2.0",
-    "url": "https://github.com/Berius129/spectral-tower-2-translation/releases/tag/v0.2.0"
+    "tag": "v0.3.0",
+    "url": "https://github.com/Berius129/spectral-tower-2-translation/releases/tag/v0.3.0"
    },
    "repo": {
     "archived": false,
@@ -962,8 +962,8 @@
     "desc": "Spectral Tower II (PS1) English fan translation patch — Japanese to English, xdelta patch, beta",
     "full": "Berius129/spectral-tower-2-translation",
     "lang": "Python",
-    "pushed": "2026-10-28T17:55:59Z",
-    "size": 433,
+    "pushed": "2026-10-29T05:12:08Z",
+    "size": 489,
     "stars": 0
    },
    "shots": []
@@ -1520,6 +1520,43 @@
    },
    "shots": []
   },
+  "damon-daemon/genghis-khan-4-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-28T20:56:12Z",
+    "pre": true,
+    "tag": "v0.9.0",
+    "url": "https://github.com/damon-daemon/genghis-khan-4-english/releases/tag/v0.9.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T20:54:10Z",
+    "desc": "English fan translation patch for Aoki Ookami to Shiroki Mejika IV (Genghis Khan IV, PlayStation)",
+    "full": "damon-daemon/genghis-khan-4-english",
+    "lang": "Python",
+    "pushed": "2026-10-28T20:56:11Z",
+    "size": 1482,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/genghis-khan-4-english/HEAD/docs/screenshots/01_title_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/genghis-khan-4-english/HEAD/docs/screenshots/02_scenario.png",
+    "https://raw.githubusercontent.com/damon-daemon/genghis-khan-4-english/HEAD/docs/screenshots/03_ruler_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/genghis-khan-4-english/HEAD/docs/screenshots/04_event.png",
+    "https://raw.githubusercontent.com/damon-daemon/genghis-khan-4-english/HEAD/docs/screenshots/05_dialogue.png",
+    "https://raw.githubusercontent.com/damon-daemon/genghis-khan-4-english/HEAD/docs/screenshots/06_map.png"
+   ]
+  },
   "damon-daemon/nobunaga-ds-2-english": {
    "assetOs": {},
    "readme": {
@@ -1792,10 +1829,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-19T12:01:30Z",
+    "date": "2026-10-29T03:16:50Z",
     "pre": true,
-    "tag": "v0.10.1",
-    "url": "https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.10.1"
+    "tag": "v0.10.2",
+    "url": "https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.10.2"
    },
    "repo": {
     "archived": false,
@@ -1803,8 +1840,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-10-28T23:34:35Z",
-    "size": 4957,
+    "pushed": "2026-10-29T03:16:50Z",
+    "size": 5046,
     "stars": 3
    },
    "shots": [
@@ -2842,7 +2879,7 @@
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
     "pushed": "2026-10-29T00:30:56Z",
-    "size": 74643,
+    "size": 77655,
     "stars": 31
    },
    "shots": [
@@ -3669,8 +3706,8 @@
     "desc": "Architecting a localized, offline-first autonomous agentic AI ecosystem designed to seamlessly integrate cloud operations with local hardware workflows.",
     "full": "ivin-santhosh/Genesis",
     "lang": "Python",
-    "pushed": "2026-10-23T04:55:26Z",
-    "size": 631,
+    "pushed": "2026-10-29T07:43:15Z",
+    "size": 376,
     "stars": 1
    },
    "shots": []
@@ -3926,6 +3963,37 @@
     "pushed": "2026-10-23T17:00:52Z",
     "size": 674,
     "stars": 1
+   },
+   "shots": []
+  },
+  "kactusken/fire-pro-wrestling-d-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-29T01:11:58Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/kactusken/Fire-Pro-Wrestling-D-English/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T23:45:41Z",
+    "desc": "English Translation for Fire Pro Wrestling D (Dreamcast)",
+    "full": "kactusken/Fire-Pro-Wrestling-D-English",
+    "lang": "Python",
+    "pushed": "2026-10-29T02:02:00Z",
+    "size": 10323,
+    "stars": 0
    },
    "shots": []
   },
@@ -4350,38 +4418,6 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-27T00:32:15Z",
-    "pre": false,
-    "tag": "0.8.9",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-27T00:32:15Z",
-    "size": 38595,
-    "stars": 18
-   },
-   "shots": []
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -4587,7 +4623,7 @@
     "lang": "JavaScript",
     "pushed": "2026-10-24T18:12:55Z",
     "size": 21815,
-    "stars": 60
+    "stars": 61
    },
    "shots": [
     "https://raw.githubusercontent.com/pnvnd/Narikiri-Dungeon-X/main/assets_archives/images/ndr.png",
@@ -4924,6 +4960,27 @@
     "pushed": "2026-07-16T22:22:36Z",
     "size": 149,
     "stars": 8
+   },
+   "shots": []
+  },
+  "lifeisfullofbotox/planetdob-en": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-28T22:08:46Z",
+    "desc": "An English fan translation of Planet Dob (1999), a Japanese-exclusive PlayStation title.",
+    "full": "lifeisfullofbotox/planetdob-en",
+    "lang": null,
+    "pushed": "2026-10-28T22:08:47Z",
+    "size": 0,
+    "stars": 0
    },
    "shots": []
   },
@@ -6267,8 +6324,8 @@
     "desc": "Full-English-Translation-Patch-Release-Experimental-",
     "full": "NekoGun45/-3DS-Super-Robot-Wars-UX---Full-English-Translation-Patch-Release-Experimental-",
     "lang": null,
-    "pushed": "2026-10-28T19:35:51Z",
-    "size": 2022,
+    "pushed": "2026-10-29T05:50:24Z",
+    "size": 6062,
     "stars": 0
    },
    "shots": []
@@ -6658,7 +6715,7 @@
     "lang": "Python",
     "pushed": "2026-10-28T19:04:40Z",
     "size": 5718,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -6761,7 +6818,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T08:00:54Z",
     "size": 507,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/subtitle-cinematic.png",
@@ -6794,7 +6851,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T09:33:52Z",
     "size": 1562,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/subtitle-king.png",
@@ -6832,7 +6889,7 @@
     "lang": "Python",
     "pushed": "2026-10-18T01:02:09Z",
     "size": 3224,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -7155,8 +7212,8 @@
     "desc": "English translation patch for Wizardry: Dimguil (PS1, SLPS-02691 Rev 1)",
     "full": "satelliteoflove/dimguil-english",
     "lang": "Python",
-    "pushed": "2026-10-27T04:13:50Z",
-    "size": 10817,
+    "pushed": "2026-10-29T04:05:46Z",
+    "size": 10960,
     "stars": 0
    },
    "shots": [
@@ -7602,10 +7659,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-14T02:56:54Z",
+    "date": "2026-10-29T01:23:15Z",
     "pre": false,
-    "tag": "v1.0.1",
-    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.0.1"
+    "tag": "v1.1",
+    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -7613,8 +7670,8 @@
     "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
     "full": "struktured/trinea-dx",
     "lang": "Assembly",
-    "pushed": "2026-10-28T02:13:33Z",
-    "size": 2201,
+    "pushed": "2026-10-29T01:23:15Z",
+    "size": 2293,
     "stars": 1
    },
    "shots": [
@@ -8054,8 +8111,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-28T11:00:42Z",
-    "size": 5608,
+    "pushed": "2026-10-29T06:22:46Z",
+    "size": 5410,
     "stars": 0
    },
    "shots": []
