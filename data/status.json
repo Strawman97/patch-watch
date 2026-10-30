@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-30T01:09:25Z",
+ "generated": "2026-10-30T10:14:16Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -27,7 +27,7 @@
     "lang": "HTML",
     "pushed": "2026-10-27T03:45:07Z",
     "size": 670,
-    "stars": 9
+    "stars": 10
    },
    "shots": [
     "https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21"
@@ -364,10 +364,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T16:38:22Z",
+    "date": "2026-10-30T09:00:28Z",
     "pre": false,
-    "tag": "v1.9p",
-    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9p"
+    "tag": "v1.9r",
+    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9r"
    },
    "repo": {
     "archived": false,
@@ -375,9 +375,9 @@
     "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-10-29T16:38:22Z",
-    "size": 1335,
-    "stars": 7
+    "pushed": "2026-10-30T09:00:28Z",
+    "size": 1350,
+    "stars": 8
    },
    "shots": []
   },
@@ -1519,6 +1519,44 @@
     "stars": 0
    },
    "shots": []
+  },
+  "damon-daemon/daikoukai-jidai-4-ds-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-29T20:56:11Z",
+    "pre": false,
+    "tag": "v0.5",
+    "url": "https://github.com/damon-daemon/daikoukai-jidai-4-ds-english/releases/tag/v0.5"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-29T19:54:07Z",
+    "desc": "English fan translation patch for Uncharted Waters IV: Rota Nova (Daikoukai Jidai IV DS, Nintendo DS)",
+    "full": "damon-daemon/daikoukai-jidai-4-ds-english",
+    "lang": "Python",
+    "pushed": "2026-10-29T20:59:42Z",
+    "size": 1884,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/daikoukai-jidai-4-ds-english/HEAD/docs/screenshots/01_title_menu.png",
+    "https://raw.githubusercontent.com/damon-daemon/daikoukai-jidai-4-ds-english/HEAD/docs/screenshots/02_character_select.png",
+    "https://raw.githubusercontent.com/damon-daemon/daikoukai-jidai-4-ds-english/HEAD/docs/screenshots/03_event.png",
+    "https://raw.githubusercontent.com/damon-daemon/daikoukai-jidai-4-ds-english/HEAD/docs/screenshots/04_port.png",
+    "https://raw.githubusercontent.com/damon-daemon/daikoukai-jidai-4-ds-english/HEAD/docs/screenshots/05_harbor.png",
+    "https://raw.githubusercontent.com/damon-daemon/daikoukai-jidai-4-ds-english/HEAD/docs/screenshots/06_common_menu.png"
+   ]
   },
   "damon-daemon/genghis-khan-4-english": {
    "assetOs": {},
@@ -2732,7 +2770,7 @@
     "lang": "C++",
     "pushed": "2026-08-23T21:31:44Z",
     "size": 17680,
-    "stars": 246
+    "stars": 247
    },
    "shots": [
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo1.png",
@@ -3129,7 +3167,7 @@
     "lang": null,
     "pushed": "2026-09-12T18:23:25Z",
     "size": 727,
-    "stars": 152
+    "stars": 153
    },
    "shots": [
     "https://github.com/user-attachments/assets/9fd1ba5d-f831-4622-a516-c68865e4438b",
@@ -3398,16 +3436,17 @@
     "patch": {
      "ex": {
       "gfx": true
-     }
+     },
+     "mtl": true
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T03:54:57Z",
+    "date": "2026-10-30T01:10:58Z",
     "pre": false,
-    "tag": "v0.1.0",
-    "url": "https://github.com/goodshepherd23/deSPIRIA-DreamRecomp/releases/tag/v0.1.0"
+    "tag": "v0.1.1",
+    "url": "https://github.com/goodshepherd23/deSPIRIA-DreamRecomp/releases/tag/v0.1.1"
    },
    "repo": {
     "archived": false,
@@ -3415,9 +3454,9 @@
     "desc": "Play deSPIRIA (Dreamcast, English fan translation) natively on Windows with dream-recomp. Build-from-source kit: bring your own patched disc.",
     "full": "goodshepherd23/deSPIRIA-DreamRecomp",
     "lang": "C++",
-    "pushed": "2026-10-27T03:54:57Z",
-    "size": 91,
-    "stars": 0
+    "pushed": "2026-10-30T01:17:45Z",
+    "size": 101,
+    "stars": 1
    },
    "shots": []
   },
@@ -4048,7 +4087,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T11:47:50Z",
     "size": 3776,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -4170,7 +4209,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T17:02:54Z",
     "size": 12278,
-    "stars": 5
+    "stars": 6
    },
    "shots": []
   },
@@ -4228,7 +4267,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T20:35:52Z",
     "size": 11125,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -4442,6 +4481,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T00:32:15Z",
+    "pre": false,
+    "tag": "0.8.9",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-27T00:32:15Z",
+    "size": 38595,
+    "stars": 19
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5195,10 +5266,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-28T07:55:42Z",
+    "date": "2026-10-30T04:57:24Z",
     "pre": false,
-    "tag": "tr_EN-US+nightly.20261028",
-    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN-US%2Bnightly.20261028"
+    "tag": "tr_EN+nightly.20261030",
+    "url": "https://github.com/Medabots/medarot3/releases/tag/tr_EN%2Bnightly.20261030"
    },
    "repo": {
     "archived": false,
@@ -5206,8 +5277,8 @@
     "desc": "Medarot 3 GBC disassembly/translation",
     "full": "Medabots/medarot3",
     "lang": "Assembly",
-    "pushed": "2026-10-28T07:55:42Z",
-    "size": 10777,
+    "pushed": "2026-10-30T04:57:23Z",
+    "size": 9942,
     "stars": 49
    },
    "shots": []
@@ -5556,10 +5627,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T20:37:17Z",
+    "date": "2026-10-30T04:52:43Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -5567,8 +5638,8 @@
     "desc": "English fan translation of Dual Orb: Seirei Tama Densetsu (SNES)",
     "full": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
     "lang": "Python",
-    "pushed": "2026-10-30T00:05:08Z",
-    "size": 1035,
+    "pushed": "2026-10-30T04:52:13Z",
+    "size": 1068,
     "stars": 0
    },
    "shots": []
@@ -5639,10 +5710,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T05:58:21Z",
+    "date": "2026-10-30T04:09:45Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/farland-story-2-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/farland-story-2-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -5650,8 +5721,8 @@
     "desc": "English fan translation of Farland Story 2 (SNES)",
     "full": "minhnhattonthat/farland-story-2-en",
     "lang": "Python",
-    "pushed": "2026-10-30T00:05:34Z",
-    "size": 470,
+    "pushed": "2026-10-30T04:09:44Z",
+    "size": 494,
     "stars": 2
    },
    "shots": []
@@ -5762,6 +5833,33 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:05:18Z",
     "size": 696,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-29T23:54:43Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-29T18:00:56Z",
+    "desc": "English fan translation of GetBackers Dakkanya: Jigoku no Scaramouche (GBA)",
+    "full": "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en",
+    "lang": "Python",
+    "pushed": "2026-10-30T04:21:21Z",
+    "size": 745,
     "stars": 0
    },
    "shots": []
@@ -6067,6 +6165,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/seijuu-maden-beasts-blades-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-29T20:45:32Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/seijuu-maden-beasts-blades-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-26T13:28:41Z",
+    "desc": "English fan translation of Seijuu Maden: Beasts & Blades (SNES)",
+    "full": "minhnhattonthat/seijuu-maden-beasts-blades-en",
+    "lang": "Python",
+    "pushed": "2026-10-30T00:05:05Z",
+    "size": 1395,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/smt-devil-children-2-honoo-no-sho": {
    "assetOs": {},
    "readme": {
@@ -6090,6 +6217,33 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:06:17Z",
     "size": 1358,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/solid-runner-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-29T23:55:53Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/solid-runner-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-29T12:04:43Z",
+    "desc": "English fan translation of Solid Runner (SNES)",
+    "full": "minhnhattonthat/solid-runner-en",
+    "lang": "Python",
+    "pushed": "2026-10-30T04:21:32Z",
+    "size": 1318,
     "stars": 0
    },
    "shots": []
@@ -6483,7 +6637,7 @@
     "full": "Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver",
     "lang": "Python",
     "pushed": "2026-10-30T00:50:23Z",
-    "size": 6066,
+    "size": 6073,
     "stars": 8
    },
    "shots": [
@@ -6846,10 +7000,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T08:00:55Z",
+    "date": "2026-10-30T07:35:18Z",
     "pre": false,
-    "tag": "v2026.10.27.1",
-    "url": "https://github.com/randomprojectsfactory/cosmic-fantasy-pce-english/releases/tag/v2026.10.27.1"
+    "tag": "v2026.10.30.1",
+    "url": "https://github.com/randomprojectsfactory/cosmic-fantasy-pce-english/releases/tag/v2026.10.30.1"
    },
    "repo": {
     "archived": false,
@@ -6857,8 +7011,8 @@
     "desc": "English text and cinematic subtitles for Cosmic Fantasy on PC Engine CD, preserving Japanese voices and artwork. Patch-only distribution.",
     "full": "randomprojectsfactory/cosmic-fantasy-pce-english",
     "lang": "Python",
-    "pushed": "2026-10-27T08:00:54Z",
-    "size": 507,
+    "pushed": "2026-10-30T07:35:18Z",
+    "size": 704,
     "stars": 3
    },
    "shots": [
@@ -7025,8 +7179,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-27T20:23:55Z",
-    "size": 101773,
+    "pushed": "2026-10-30T05:31:39Z",
+    "size": 101837,
     "stars": 150
    },
    "shots": [
@@ -7112,7 +7266,7 @@
     "lang": null,
     "pushed": "2026-10-29T15:46:40Z",
     "size": 32,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://github.com/user-attachments/assets/ed6f70bb-5e39-4223-932f-79c0082c0212"
@@ -7832,7 +7986,7 @@
     "lang": null,
     "pushed": "2026-10-28T17:55:32Z",
     "size": 920,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/natsu-dialogue.png",
@@ -8152,8 +8306,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-29T15:06:52Z",
-    "size": 5416,
+    "pushed": "2026-10-30T09:48:58Z",
+    "size": 9801,
     "stars": 0
    },
    "shots": []
