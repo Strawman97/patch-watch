@@ -6920,6 +6920,14 @@
    "title": "Rokudenashi Blues: Taiketsu! Tokyo Shitennou",
    "url": "https://cdn2.steamgriddb.com/grid/b2f037d19b8daae468dd4866666668ff.png"
   },
+  "minhnhattonthat/seijuu-maden-beasts-blades-en": {
+   "added": "2026-10-30T01:09:25Z",
+   "match": 1.0,
+   "name": "Seijuu Maden Beasts & Blades",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/ab15fd1619b6358569010a9eaa80713f.jpg",
+   "title": "Seijuu Maden: Beasts & Blades",
+   "url": "https://cdn2.steamgriddb.com/grid/ab15fd1619b6358569010a9eaa80713f.png"
+  },
   "moiseseliaquim/bakuten_shoot_beyblade_gekitou_saikyou_blader_english": {
    "added": "2026-10-23T21:31:12Z",
    "match": 1.0,
@@ -7106,7 +7114,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-10-29T18:33:15Z",
+ "generated": "2026-10-30T01:09:25Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -7181,6 +7189,7 @@
   "consolesplayingconsoles/game-translations": "2026-10-22T09:57:51Z",
   "corytburns/chocobo-stallion-translation": "2026-10-22T09:57:51Z",
   "crimsondawnacademy-design/romtranslate-studio": "2026-10-22T09:57:51Z",
+  "damon-daemon/daikoukai-jidai-4-ds-english": "2026-10-30T01:09:25Z|daikoukai jidai 4 ds",
   "damon-daemon/genghis-khan-4-english": "2026-10-29T01:03:32Z|genghis khan 4",
   "damon-daemon/nobunaga-ds-2-english": "2026-10-22T09:57:51Z",
   "damon-daemon/nobunaga-ranseiki-puk-english": "2026-10-25T04:56:45Z",
@@ -7406,6 +7415,7 @@
   "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": "2026-10-22T09:57:51Z",
   "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64": "2026-10-24T16:05:02Z",
   "link:https://romhackplaza.org/translations/quackshot-starring-donald-duck-force-english-text-english-translation-sega-genesis": "2026-10-22T09:57:51Z",
+  "link:https://romhackplaza.org/translations/robbit-mon-dieu-english-translation-playstation": "2026-10-30T01:09:25Z|playstation",
   "link:https://romhackplaza.org/translations/simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi-english-translation-playstation-2": "2026-10-22T10:24:13Z",
   "link:https://romhackplaza.org/translations/simple-2000-series-ultimate-vol-5-love-%e2%98%85-mahjong-english-translation-playstation-2": "2026-10-22T12:06:29Z",
   "link:https://romhackplaza.org/translations/street-fighter-alpha-3-english-translation-sega-saturn": "2026-10-22T09:57:51Z",
@@ -7837,6 +7847,7 @@
   "minhnhattonthat/ganbare-daiku-no-gen-san-en": "2026-10-26T13:19:03Z|ganbare daiku no gensan",
   "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en": "2026-10-26T13:19:03Z|gegege no kitarou fukkatsu tenma daiou",
   "minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en": "2026-10-27T09:10:10Z|getbackers dakkanya jagan fuuin",
+  "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en": "2026-10-30T01:09:25Z|getbackers dakkanya jigoku no scaramouche",
   "minhnhattonthat/ginga-eiyuu-densetsu-en": "2026-10-28T13:13:02Z|ginga eiyuu densetsu",
   "minhnhattonthat/great-battle-gaiden-2-english": "2026-10-22T09:57:51Z",
   "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": "2026-10-22T09:57:51Z",
@@ -7845,6 +7856,7 @@
   "minhnhattonthat/little-master-en": "2026-10-22T09:57:51Z",
   "minhnhattonthat/recca-no-honoo-the-game": "2026-10-22T12:22:11Z",
   "minhnhattonthat/smt-devil-children-2-honoo-no-sho": "2026-10-22T09:57:51Z",
+  "minhnhattonthat/solid-runner-en": "2026-10-30T01:09:25Z|solid runner",
   "minhnhattonthat/sugoro-quest-dicenics-en": "2026-10-22T09:57:51Z",
   "minhnhattonthat/super-gomoku-narabe-translation": "2026-10-22T09:57:51Z",
   "minhnhattonthat/translate-retro-game": "2026-10-22T09:57:51Z",

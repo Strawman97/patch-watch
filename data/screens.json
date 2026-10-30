@@ -3725,6 +3725,11 @@
    ],
    "tv": 3
   },
+  "daikoukai jidai 4 ds|20": {
+   "checked": "2026-10-30T01:09:25Z",
+   "shots": [],
+   "tv": 3
+  },
   "daiku no gen san kachikachi no tonkachi ga kachi|22": {
    "checked": "2026-10-23T05:03:31Z",
    "shots": [],
@@ -8196,6 +8201,20 @@
    "shots": [],
    "tv": 3
   },
+  "getbackers dakkanya jigoku no scaramouche|24": {
+   "checked": "2026-10-30T01:09:25Z",
+   "cover": "coblkv",
+   "id": 49601,
+   "match": 1.0,
+   "name": "GetBackers Dakkanya: Jigoku no Scaramouche",
+   "shots": [
+    "sc103ox",
+    "sc103oy",
+    "sc103oz",
+    "sc103p0"
+   ],
+   "tv": 3
+  },
   "getsu fuuma den|18": {
    "anyPlat": true,
    "checked": "2026-10-23T11:50:40Z",
@@ -12262,6 +12281,18 @@
   "macross 7 ginga no heart o furuwasero|22": {
    "checked": "2026-10-22T17:20:22Z",
    "shots": [],
+   "tv": 3
+  },
+  "macross do you remember love|7": {
+   "checked": "2026-10-30T01:09:25Z",
+   "cover": "cocwf9",
+   "id": 46094,
+   "match": 1.0,
+   "name": "Chou Jikuu Yousai Macross: Ai Oboete Imasuka",
+   "shots": [
+    "sc13mms",
+    "sc13mmt"
+   ],
    "tv": 3
   },
   "macross m3|23": {
@@ -18020,6 +18051,16 @@
    "shots": [],
    "tv": 3
   },
+  "seijuu maden beasts and blades|19": {
+   "anyPlat": true,
+   "checked": "2026-10-30T01:09:25Z",
+   "cover": "co4xr9",
+   "id": 38247,
+   "match": 1.0,
+   "name": "Seijuu Maden Beasts & Blades",
+   "shots": [],
+   "tv": 3
+  },
   "seiken densetsu 3|19": {
    "checked": "2026-10-24T04:48:17Z",
    "cover": "co71wc",
@@ -19041,6 +19082,20 @@
    "name": "Sol Trigger",
    "shots": [
     "sc94yg"
+   ],
+   "tv": 3
+  },
+  "solid runner|19": {
+   "anyPlat": true,
+   "checked": "2026-10-30T01:09:25Z",
+   "cover": "co2ja1",
+   "id": 44437,
+   "match": 1.0,
+   "name": "Solid Runner",
+   "shots": [
+    "sc8d4w",
+    "sc8d4v",
+    "sc8d4x"
    ],
    "tv": 3
   },
@@ -24038,7 +24093,7 @@
    "tv": 3
   }
  },
- "generated": "2026-10-29T18:33:15Z",
+ "generated": "2026-10-30T01:09:25Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -24099,6 +24154,7 @@
   "conan-patches/ps2": "meitantei conan daiei teikoku no isan|8",
   "consolesplayingconsoles/game-translations": "translated videogames|23",
   "corytburns/chocobo-stallion-translation": "chocobo stallion|7",
+  "damon-daemon/daikoukai-jidai-4-ds-english": "daikoukai jidai 4 ds|20",
   "damon-daemon/genghis-khan-4-english": "genghis khan 4|7",
   "damon-daemon/nobunaga-ds-2-english": "nobunagas ambition ds 2|20",
   "damon-daemon/nobunaga-ranseiki-puk-english": "nobunaga ranseiki puk|8",
@@ -24192,6 +24248,7 @@
   "kaisaan/wanderers": "ys iii wanderers from ys|8",
   "kakuna285/saki-zenkokuhen-plus-tl-eng": "saki zenkoku hen plus|46",
   "karas84/projectzeroundub": "project zero|8",
+  "kenzie-1377/dqxi-3ds-english-patch": "dqxi|37",
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd edition|9",
   "kodakwizard/hikaru-no-go-3-english": "hikaru no go 3|21",
   "kotcrab/umineko-portable-english": "umineko no naku koro ni portable 2|38",
@@ -24303,10 +24360,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -24342,7 +24399,6 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
-  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -24365,6 +24421,7 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -24482,6 +24539,7 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
@@ -24502,6 +24560,7 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",
@@ -24705,16 +24764,18 @@
   "link:https://romhackplaza.org/translations/kamen-rider-sd-granshocker-no-yabou-english-translation-nes": "kamen rider sd granshocker no yabo|18",
   "link:https://romhackplaza.org/translations/kaze-no-notam-notam-of-wind-english-translation-playstation": "kaze no notam notam of wind|7",
   "link:https://romhackplaza.org/translations/macross-7-ginga-no-heart-o-furuwasero-english-translation-gbc": "macross 7 ginga no heart o furuwasero|22",
-  "link:https://romhackplaza.org/translations/macross-do-you-remember-love-english-translation-playstation": "playstation|7",
+  "link:https://romhackplaza.org/translations/macross-do-you-remember-love-english-translation-playstation": "macross do you remember love|7",
   "link:https://romhackplaza.org/translations/magi-nation-english-translation-game-boy-advance": "magi nation|24",
   "link:https://romhackplaza.org/translations/mazinger-z-super-famicom-eng-spa-msu1-english-spanish-translation-super-nintendo": "mazinger z|19",
   "link:https://romhackplaza.org/translations/misfortune-a-story-of-suspicious-friendships-english-translation-playstation": "misfortune a story of suspicious friendships|7",
   "link:https://romhackplaza.org/translations/nekojara-monogatari-english-translation-game-boy": "nekojara monogatari|33",
+  "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": "sega|32",
   "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64": "nintendo 64|4",
   "link:https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": "pocket muumuu|7",
   "link:https://romhackplaza.org/translations/popolocrois-monogatari-ii-english-translation-playstation": "popolocrois monogatari ii|7",
   "link:https://romhackplaza.org/translations/prisoner-english-translation-playstation": "prisoner|7",
   "link:https://romhackplaza.org/translations/quackshot-starring-donald-duck-force-english-text-english-translation-sega-genesis": "sega|29",
+  "link:https://romhackplaza.org/translations/robbit-mon-dieu-english-translation-playstation": "playstation|7",
   "link:https://romhackplaza.org/translations/shin-sd-gundam-gaiden-knight-gundam-monogatari-english-translation-game-boy": "shin sd gundam gaiden knight gundam monogatari|33",
   "link:https://romhackplaza.org/translations/simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi-english-translation-playstation-2": "simple 2000 series ultimate vol 17 taisen bakudan poi poi|8",
   "link:https://romhackplaza.org/translations/simple-2000-series-ultimate-vol-5-love-%e2%98%85-mahjong-english-translation-playstation-2": "simple 2000 ultimate vol 5 love mahjong|8",
@@ -25982,6 +26043,7 @@
   "minhnhattonthat/ganbare-daiku-no-gen-san-en": "ganbare daiku no gensan|19",
   "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en": "gegege no kitarou fukkatsu tenma daiou|19",
   "minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en": "getbackers dakkanya jagan fuuin|24",
+  "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en": "getbackers dakkanya jigoku no scaramouche|24",
   "minhnhattonthat/ginga-eiyuu-densetsu-en": "ginga eiyuu densetsu|19",
   "minhnhattonthat/granbo": "granbo|24",
   "minhnhattonthat/great-battle-gaiden-2-english": "great battle gaiden 2 matsuri da wasshoi|19",
@@ -25993,7 +26055,9 @@
   "minhnhattonthat/monster-guardians-en": "monster guardians|24",
   "minhnhattonthat/recca-no-honoo-the-game": "recca no honoo|24",
   "minhnhattonthat/rokudenashi-blues-en": "rokudenashi blues taiketsu tokyo shitennou|19",
+  "minhnhattonthat/seijuu-maden-beasts-blades-en": "seijuu maden beasts and blades|19",
   "minhnhattonthat/smt-devil-children-2-honoo-no-sho": "shin megami tensei devil children honoo no sho|24",
+  "minhnhattonthat/solid-runner-en": "solid runner|19",
   "minhnhattonthat/sugoro-quest-dicenics-en": "sugoro quest dicenics|19",
   "minhnhattonthat/super-gomoku-narabe-translation": "super gomoku narabe renju|19",
   "minhnhattonthat/velldeselba-senki": "velldeselba senki tsubasa no kunshou|7",

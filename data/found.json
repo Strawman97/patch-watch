@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-29T18:33:15Z",
+ "generated": "2026-10-30T01:09:25Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9176,7 +9176,7 @@
   },
   {
    "fa": "2026-10-22T09:57:51Z",
-   "g": "PlayStation",
+   "g": "Macross: Do You Remember Love?",
    "id": "link:https://romhackplaza.org/translations/macross-do-you-remember-love-english-translation-playstation",
    "l": "https://romhackplaza.org/translations/macross-do-you-remember-love-english-translation-playstation",
    "lb": [
@@ -9576,6 +9576,28 @@
     "Human translation"
    ],
    "p": "DS",
+   "src": "Romhack Plaza"
+  },
+  {
+   "fa": "2026-10-29T18:33:15Z",
+   "g": "PlayStation",
+   "id": "link:https://romhackplaza.org/translations/robbit-mon-dieu-english-translation-playstation",
+   "l": "https://romhackplaza.org/translations/robbit-mon-dieu-english-translation-playstation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Romhack Plaza"
+  },
+  {
+   "fa": "2026-10-30T01:09:25Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
    "src": "Romhack Plaza"
   },
   {
@@ -12891,6 +12913,71 @@
    "src": "GitHub"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-10-29T18:33:15Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Seijuu Maden: Beasts & Blades (SNES)",
+   "fa": "2026-10-30T01:09:25Z",
+   "g": "Seijuu Maden: Beasts & Blades",
+   "id": "minhnhattonthat/seijuu-maden-beasts-blades-en",
+   "k": "minhnhattonthat/seijuu-maden-beasts-blades-en",
+   "l": "https://github.com/minhnhattonthat/seijuu-maden-beasts-blades-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Solid Runner (SNES)",
+   "fa": "2026-10-30T01:09:25Z",
+   "g": "Solid Runner",
+   "id": "minhnhattonthat/solid-runner-en",
+   "k": "minhnhattonthat/solid-runner-en",
+   "l": "https://github.com/minhnhattonthat/solid-runner-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of GetBackers Dakkanya: Jigoku no Scaramouche (GBA)",
+   "fa": "2026-10-30T01:09:25Z",
+   "g": "GetBackers Dakkanya: Jigoku no Scaramouche",
+   "id": "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en",
+   "k": "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en",
+   "l": "https://github.com/minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation patch for Uncharted Waters IV: Rota Nova (Daikoukai Jidai IV DS, Nintendo DS)",
+   "fa": "2026-10-30T01:09:25Z",
+   "g": "Daikoukai Jidai 4 Ds",
+   "id": "damon-daemon/daikoukai-jidai-4-ds-english",
+   "k": "damon-daemon/daikoukai-jidai-4-ds-english",
+   "l": "https://github.com/damon-daemon/daikoukai-jidai-4-ds-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -14508,27 +14595,51 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Bulk Slash (English Patch)",
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
    "fa": "2026-10-29T10:12:06Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
-    "Human translation"
+    "Undub"
    ],
-   "p": "Saturn",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-10-29T10:12:06Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-10-29T18:33:15Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-10-29T18:33:15Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-10-30T01:09:25Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
    "src": "Internet Archive"
   },
   {

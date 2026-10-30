@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-29T18:33:15Z",
+ "generated": "2026-10-30T01:09:25Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -55,7 +55,7 @@
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
     "pushed": "2026-10-29T18:01:07Z",
-    "size": 35335,
+    "size": 35406,
     "stars": 14
    },
    "shots": [
@@ -2867,10 +2867,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T00:30:57Z",
+    "date": "2026-10-29T22:00:18Z",
     "pre": false,
-    "tag": "v0.1.29",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.29"
+    "tag": "v0.1.30",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.30"
    },
    "repo": {
     "archived": false,
@@ -2878,9 +2878,9 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-29T00:30:56Z",
-    "size": 77655,
-    "stars": 31
+    "pushed": "2026-10-29T22:00:17Z",
+    "size": 80677,
+    "stars": 32
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4443,38 +4443,6 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-27T00:32:15Z",
-    "pre": false,
-    "tag": "0.8.9",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-27T00:32:15Z",
-    "size": 38595,
-    "stars": 18
-   },
-   "shots": []
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -4679,7 +4647,7 @@
     "full": "lifebottle/Narikiri-Dungeon-X",
     "lang": "JavaScript",
     "pushed": "2026-10-29T18:16:19Z",
-    "size": 21815,
+    "size": 21959,
     "stars": 61
    },
    "shots": [
@@ -5355,7 +5323,9 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "gfx": true
+     }
     },
     "v": 1
    },
@@ -5372,8 +5342,8 @@
     "desc": "English fan translation of Battle Tycoon: Flash Hiders SFX (SNES)",
     "full": "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en",
     "lang": "Python",
-    "pushed": "2026-10-26T12:07:50Z",
-    "size": 359,
+    "pushed": "2026-10-30T00:05:44Z",
+    "size": 361,
     "stars": 0
    },
    "shots": []
@@ -5399,8 +5369,8 @@
     "desc": "English fan translation of Battle Zeque Den (SNES)",
     "full": "minhnhattonthat/battle-zeque-den-en",
     "lang": "Python",
-    "pushed": "2026-10-25T11:00:12Z",
-    "size": 241,
+    "pushed": "2026-10-30T00:06:02Z",
+    "size": 243,
     "stars": 0
    },
    "shots": []
@@ -5428,8 +5398,8 @@
     "desc": "English fan translation of CB Chara Wars: Ushinawareta Gag (SNES)",
     "full": "minhnhattonthat/cb-chara-wars-en",
     "lang": "Python",
-    "pushed": "2026-10-25T03:10:57Z",
-    "size": 120,
+    "pushed": "2026-10-30T00:06:54Z",
+    "size": 122,
     "stars": 0
    },
    "shots": []
@@ -5438,7 +5408,9 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "subs": true
+     }
     },
     "v": 1
    },
@@ -5455,7 +5427,7 @@
     "desc": "English fan translation of Dancing Sword: Senkou (GBA)",
     "full": "minhnhattonthat/dancing-sword-senkou",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:16Z",
+    "pushed": "2026-10-30T00:07:21Z",
     "size": 132,
     "stars": 0
    },
@@ -5482,8 +5454,8 @@
     "desc": "English fan translation of Deltora Quest: 7-tsu no Houseki (NDS)",
     "full": "minhnhattonthat/deltora-quest",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:18Z",
-    "size": 829,
+    "pushed": "2026-10-30T00:07:18Z",
+    "size": 831,
     "stars": 0
    },
    "shots": []
@@ -5509,8 +5481,8 @@
     "desc": "English fan translation of Dharma Doujou (Dharma Dojo, SNES, Metro 1994)",
     "full": "minhnhattonthat/dharma-doujou-en",
     "lang": "Python",
-    "pushed": "2026-10-26T12:07:52Z",
-    "size": 676,
+    "pushed": "2026-10-30T00:05:37Z",
+    "size": 677,
     "stars": 0
    },
    "shots": []
@@ -5520,6 +5492,7 @@
    "readme": {
     "patch": {
      "ex": {
+      "gfx": true,
       "subs": true
      }
     },
@@ -5538,8 +5511,8 @@
     "desc": "English fan translation of Dolucky no A.League Soccer (SNES)",
     "full": "minhnhattonthat/dolucky-no-a-league-soccer",
     "lang": "Python",
-    "pushed": "2026-10-25T03:10:59Z",
-    "size": 96,
+    "pushed": "2026-10-30T00:06:51Z",
+    "size": 97,
     "stars": 0
    },
    "shots": []
@@ -5565,8 +5538,8 @@
     "desc": "English fan translation of Dragon Knight 4 (SNES, Banpresto 1996)",
     "full": "minhnhattonthat/dragon-knight-4-en",
     "lang": "Python",
-    "pushed": "2026-10-25T03:11:00Z",
-    "size": 1101,
+    "pushed": "2026-10-30T00:06:48Z",
+    "size": 1102,
     "stars": 0
    },
    "shots": []
@@ -5575,16 +5548,18 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "gfx": true
+     }
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T11:39:02Z",
+    "date": "2026-10-29T20:37:17Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -5592,8 +5567,8 @@
     "desc": "English fan translation of Dual Orb: Seirei Tama Densetsu (SNES)",
     "full": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
     "lang": "Python",
-    "pushed": "2026-10-29T12:29:26Z",
-    "size": 1002,
+    "pushed": "2026-10-30T00:05:08Z",
+    "size": 1035,
     "stars": 0
    },
    "shots": []
@@ -5619,8 +5594,8 @@
     "desc": "English fan translation patch for Erementar Gerad: Tozasareshi Uta (GBA)",
     "full": "minhnhattonthat/erementar-gerad",
     "lang": "Python",
-    "pushed": "2026-10-25T09:46:38Z",
-    "size": 709,
+    "pushed": "2026-10-30T00:06:08Z",
+    "size": 711,
     "stars": 0
    },
    "shots": []
@@ -5648,8 +5623,8 @@
     "desc": "English fan translation patch for Rebuild of Evangelion -Sound Impact- (PSP)",
     "full": "minhnhattonthat/evangelion-sound-impact-en",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:21Z",
-    "size": 87,
+    "pushed": "2026-10-30T00:07:15Z",
+    "size": 89,
     "stars": 0
    },
    "shots": []
@@ -5675,8 +5650,8 @@
     "desc": "English fan translation of Farland Story 2 (SNES)",
     "full": "minhnhattonthat/farland-story-2-en",
     "lang": "Python",
-    "pushed": "2026-10-26T12:33:19Z",
-    "size": 469,
+    "pushed": "2026-10-30T00:05:34Z",
+    "size": 470,
     "stars": 2
    },
    "shots": []
@@ -5702,8 +5677,8 @@
     "desc": "English fan translation of Gachasute! Dino Device 2 - Dragon / Phoenix (GBA)",
     "full": "minhnhattonthat/gachasute-dino-device-2-en",
     "lang": "Python",
-    "pushed": "2026-10-25T09:41:21Z",
-    "size": 429,
+    "pushed": "2026-10-30T00:06:11Z",
+    "size": 430,
     "stars": 0
    },
    "shots": []
@@ -5712,7 +5687,9 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "gfx": true
+     }
     },
     "v": 1
    },
@@ -5729,8 +5706,8 @@
     "desc": "English fan translation of Ganbare Daiku no Gensan (SNES)",
     "full": "minhnhattonthat/ganbare-daiku-no-gen-san-en",
     "lang": "Python",
-    "pushed": "2026-10-26T12:33:20Z",
-    "size": 242,
+    "pushed": "2026-10-30T00:05:31Z",
+    "size": 244,
     "stars": 0
    },
    "shots": []
@@ -5756,8 +5733,8 @@
     "desc": "English fan translation of GeGeGe no Kitarou: Fukkatsu! Tenma Daiou (SNES)",
     "full": "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en",
     "lang": "Python",
-    "pushed": "2026-10-26T12:33:23Z",
-    "size": 207,
+    "pushed": "2026-10-30T00:05:28Z",
+    "size": 209,
     "stars": 0
    },
    "shots": []
@@ -5783,7 +5760,7 @@
     "desc": "English fan translation of GetBackers Dakkanya: Jagan Fuuin! (GBA)",
     "full": "minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en",
     "lang": "Python",
-    "pushed": "2026-10-27T12:25:10Z",
+    "pushed": "2026-10-30T00:05:18Z",
     "size": 696,
     "stars": 0
    },
@@ -5810,8 +5787,8 @@
     "desc": "English fan translation of Ginga Eiyuu Densetsu (SNES)",
     "full": "minhnhattonthat/ginga-eiyuu-densetsu-en",
     "lang": "Python",
-    "pushed": "2026-10-28T06:03:21Z",
-    "size": 667,
+    "pushed": "2026-10-30T00:05:15Z",
+    "size": 674,
     "stars": 0
    },
    "shots": []
@@ -5837,8 +5814,8 @@
     "desc": "English fan translation of Granbo (GBA)",
     "full": "minhnhattonthat/granbo",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:22Z",
-    "size": 953,
+    "pushed": "2026-10-30T00:07:11Z",
+    "size": 954,
     "stars": 0
    },
    "shots": []
@@ -5864,8 +5841,8 @@
     "desc": "English fan translation of The Great Battle Gaiden 2: Matsuri da Wasshoi (SNES, 1994)",
     "full": "minhnhattonthat/great-battle-gaiden-2-english",
     "lang": "Python",
-    "pushed": "2026-10-25T03:11:02Z",
-    "size": 297,
+    "pushed": "2026-10-30T00:06:45Z",
+    "size": 300,
     "stars": 0
    },
    "shots": []
@@ -5874,7 +5851,9 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "gfx": true
+     }
     },
     "v": 1
    },
@@ -5891,8 +5870,8 @@
     "desc": "English fan translation of Hanjuku Hero: Ah, Sekai yo Hanjuku Nare...!! (SNES, 1992, Square)",
     "full": "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare",
     "lang": "Python",
-    "pushed": "2026-10-25T08:58:14Z",
-    "size": 361,
+    "pushed": "2026-10-30T00:06:20Z",
+    "size": 362,
     "stars": 0
    },
    "shots": []
@@ -5918,8 +5897,8 @@
     "desc": "English translation patch for Kabuki Rocks (SNES)",
     "full": "minhnhattonthat/kabuki-rocks",
     "lang": "Python",
-    "pushed": "2026-10-25T03:11:03Z",
-    "size": 451,
+    "pushed": "2026-10-30T00:06:42Z",
+    "size": 452,
     "stars": 1
    },
    "shots": []
@@ -5947,8 +5926,8 @@
     "desc": "English fan translation of Mobile Suit Gundam SEED Destiny (GBA)",
     "full": "minhnhattonthat/kidou-senshi-gundam-seed-destiny",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:24Z",
-    "size": 176,
+    "pushed": "2026-10-30T00:07:08Z",
+    "size": 178,
     "stars": 1
    },
    "shots": []
@@ -5974,8 +5953,8 @@
     "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch (GBA)",
     "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:25Z",
-    "size": 785,
+    "pushed": "2026-10-30T00:07:06Z",
+    "size": 786,
     "stars": 0
    },
    "shots": []
@@ -6001,8 +5980,8 @@
     "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party (GBA)",
     "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en",
     "lang": "Python",
-    "pushed": "2026-10-25T02:55:26Z",
-    "size": 4046,
+    "pushed": "2026-10-30T00:07:03Z",
+    "size": 4047,
     "stars": 0
    },
    "shots": []
@@ -6028,8 +6007,8 @@
     "desc": "English fan translation of Monster Guardians (GBA, Konami 2001)",
     "full": "minhnhattonthat/monster-guardians-en",
     "lang": "Python",
-    "pushed": "2026-10-26T12:59:37Z",
-    "size": 622,
+    "pushed": "2026-10-30T00:05:25Z",
+    "size": 623,
     "stars": 0
    },
    "shots": []
@@ -6055,8 +6034,8 @@
     "desc": "English fan translation of Recca no Honoo - The Game (GBA)",
     "full": "minhnhattonthat/recca-no-honoo-the-game",
     "lang": "Python",
-    "pushed": "2026-10-25T09:48:07Z",
-    "size": 396,
+    "pushed": "2026-10-30T00:06:05Z",
+    "size": 398,
     "stars": 0
    },
    "shots": []
@@ -6082,8 +6061,8 @@
     "desc": "English fan translation of Rokudenashi Blues: Taiketsu! Tokyo Shitennou (SNES, Bandai 1994)",
     "full": "minhnhattonthat/rokudenashi-blues-en",
     "lang": "Python",
-    "pushed": "2026-10-25T03:11:07Z",
-    "size": 352,
+    "pushed": "2026-10-30T00:06:39Z",
+    "size": 353,
     "stars": 0
    },
    "shots": []
@@ -6109,8 +6088,8 @@
     "desc": "English fan translation of Shin Megami Tensei: Devil Children 2 Honoo no Sho / DemiKids Book of Fire (GBA)",
     "full": "minhnhattonthat/smt-devil-children-2-honoo-no-sho",
     "lang": "Python",
-    "pushed": "2026-10-25T08:58:18Z",
-    "size": 1357,
+    "pushed": "2026-10-30T00:06:17Z",
+    "size": 1358,
     "stars": 0
    },
    "shots": []
@@ -6137,8 +6116,8 @@
     "desc": "English fan translation of Sugoro Quest++: Dicenics (SNES)",
     "full": "minhnhattonthat/sugoro-quest-dicenics-en",
     "lang": "Python",
-    "pushed": "2026-10-25T03:11:12Z",
-    "size": 352,
+    "pushed": "2026-10-30T00:06:30Z",
+    "size": 354,
     "stars": 0
    },
    "shots": []
@@ -6147,7 +6126,9 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "gfx": true
+     }
     },
     "v": 1
    },
@@ -6164,8 +6145,8 @@
     "desc": "English and Vietnamese fan translation of Super Gomoku Narabe Renju (SFC)",
     "full": "minhnhattonthat/super-gomoku-narabe-translation",
     "lang": "Python",
-    "pushed": "2026-10-25T03:11:13Z",
-    "size": 273,
+    "pushed": "2026-10-30T00:06:27Z",
+    "size": 274,
     "stars": 0
    },
    "shots": []
@@ -6193,8 +6174,8 @@
     "desc": "English fan translation of Velldeselba Senki - Tsubasa no Kunshou (PSX)",
     "full": "minhnhattonthat/velldeselba-senki",
     "lang": "Python",
-    "pushed": "2026-10-28T22:14:34Z",
-    "size": 2032,
+    "pushed": "2026-10-30T00:05:11Z",
+    "size": 2034,
     "stars": 0
    },
    "shots": []
@@ -6203,7 +6184,10 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
     },
     "v": 1
    },
@@ -6220,8 +6204,8 @@
     "desc": "English fan translation of Yu Yu Hakusho 2: Kakutou no Shou (SNES)",
     "full": "minhnhattonthat/yu-yu-hakusho-2-english",
     "lang": "Python",
-    "pushed": "2026-10-25T08:58:20Z",
-    "size": 162,
+    "pushed": "2026-10-30T00:06:14Z",
+    "size": 164,
     "stars": 0
    },
    "shots": []
@@ -6247,7 +6231,7 @@
     "desc": "English fan translation of Zero One SP (GBA, 2004)",
     "full": "minhnhattonthat/zero-one-sp-english",
     "lang": "Python",
-    "pushed": "2026-10-27T12:06:07Z",
+    "pushed": "2026-10-30T00:05:21Z",
     "size": 2876,
     "stars": 0
    },
@@ -6309,7 +6293,7 @@
     "lang": null,
     "pushed": "2026-10-14T02:46:56Z",
     "size": 863,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch/HEAD/screenshots/01_title_screen.webp",
@@ -6381,8 +6365,8 @@
     "desc": "Full-English-Translation-Patch-Release-Experimental-",
     "full": "NekoGun45/-3DS-Super-Robot-Wars-UX---Full-English-Translation-Patch-Release-Experimental-",
     "lang": null,
-    "pushed": "2026-10-29T15:01:59Z",
-    "size": 6064,
+    "pushed": "2026-10-29T22:28:07Z",
+    "size": 8089,
     "stars": 0
    },
    "shots": []
@@ -6498,7 +6482,7 @@
     "desc": "Super Robot Wars Alpha (PSX) English Ver. — fan translation patch (xdelta) for Super Robot Taisen Alpha (SLPS-02636)",
     "full": "Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver",
     "lang": "Python",
-    "pushed": "2026-10-24T16:37:58Z",
+    "pushed": "2026-10-30T00:50:23Z",
     "size": 6066,
     "stars": 8
    },
@@ -6668,7 +6652,7 @@
     "lang": null,
     "pushed": "2026-10-08T09:56:33Z",
     "size": 767,
-    "stars": 72
+    "stars": 73
    },
    "shots": []
   },
@@ -6770,8 +6754,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-28T19:04:40Z",
-    "size": 5718,
+    "pushed": "2026-10-29T18:41:53Z",
+    "size": 5819,
     "stars": 2
    },
    "shots": []
@@ -7128,7 +7112,7 @@
     "lang": null,
     "pushed": "2026-10-29T15:46:40Z",
     "size": 32,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://github.com/user-attachments/assets/ed6f70bb-5e39-4223-932f-79c0082c0212"
@@ -7170,8 +7154,8 @@
     "desc": "A complete English translation of Time Twist for the FDS",
     "full": "romh-acking/time-twist-fds-en",
     "lang": "Python",
-    "pushed": "2026-10-27T21:24:51Z",
-    "size": 839,
+    "pushed": "2026-10-29T22:58:13Z",
+    "size": 840,
     "stars": 1
    },
    "shots": [
@@ -7399,8 +7383,8 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-10-27T22:40:41Z",
-    "size": 3335,
+    "pushed": "2026-10-29T21:53:51Z",
+    "size": 3358,
     "stars": 8
    },
    "shots": []
@@ -7595,7 +7579,7 @@
     "lang": "Python",
     "pushed": "2026-10-28T17:58:08Z",
     "size": 562,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -7848,7 +7832,7 @@
     "lang": null,
     "pushed": "2026-10-28T17:55:32Z",
     "size": 920,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/natsu-dialogue.png",
