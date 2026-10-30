@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-30T10:14:16Z",
+ "generated": "2026-10-30T18:05:45Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-10-29T18:01:07Z",
-    "size": 35406,
+    "pushed": "2026-10-30T14:13:04Z",
+    "size": 35448,
     "stars": 14
    },
    "shots": [
@@ -991,7 +991,7 @@
     "lang": null,
     "pushed": "2026-08-15T14:48:31Z",
     "size": 5,
-    "stars": 39
+    "stars": 40
    },
    "shots": []
   },
@@ -1240,6 +1240,33 @@
    },
    "shots": []
   },
+  "brianblakely/slapstick-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-30T02:04:19Z",
+    "pre": false,
+    "tag": "v0.6",
+    "url": "https://github.com/brianblakely/slapstick-english-translation/releases/tag/v0.6"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2016-07-03T17:16:46Z",
+    "desc": "An English translation of the Super Famicom title \"Slapstick\"",
+    "full": "brianblakely/slapstick-english-translation",
+    "lang": "JavaScript",
+    "pushed": "2026-10-30T02:04:18Z",
+    "size": 34944,
+    "stars": 0
+   },
+   "shots": []
+  },
   "brokenmesh/kimikiss_ai_translation": {
    "noRelease": true,
    "readme": {
@@ -1280,7 +1307,7 @@
     "lang": "C",
     "pushed": "2026-10-24T14:53:11Z",
     "size": 921,
-    "stars": 13
+    "stars": 14
    },
    "shots": []
   },
@@ -2918,7 +2945,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T22:00:17Z",
     "size": 80677,
-    "stars": 32
+    "stars": 33
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4189,6 +4216,7 @@
     "patch": {
      "cov": "Complete",
      "ex": {
+      "gfx": true,
       "restore": true
      }
     },
@@ -4207,8 +4235,8 @@
     "desc": "English translation for King of Colosseum II for PS2",
     "full": "kactusken/King-of-Colosseum-II-English",
     "lang": "Python",
-    "pushed": "2026-10-29T17:02:54Z",
-    "size": 12278,
+    "pushed": "2026-10-30T11:13:42Z",
+    "size": 12279,
     "stars": 6
    },
    "shots": []
@@ -4481,38 +4509,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-27T00:32:15Z",
-    "pre": false,
-    "tag": "0.8.9",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-27T00:32:15Z",
-    "size": 38595,
-    "stars": 19
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5100,8 +5096,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-10-28T22:56:02Z",
-    "size": 86111,
+    "pushed": "2026-10-30T14:01:22Z",
+    "size": 87306,
     "stars": 98
    },
    "shots": [
@@ -6111,6 +6107,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/nage-libre-rasen-no-soukoku-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-30T02:31:06Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/nage-libre-rasen-no-soukoku-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-29T12:09:58Z",
+    "desc": "English fan translation of Nage Libre: Rasen no Soukoku (PlayStation)",
+    "full": "minhnhattonthat/nage-libre-rasen-no-soukoku-en",
+    "lang": "Python",
+    "pushed": "2026-10-30T04:21:28Z",
+    "size": 1093,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/recca-no-honoo-the-game": {
    "assetOs": {},
    "readme": {
@@ -6457,22 +6480,30 @@
    ]
   },
   "mykaadev/monhun-nikki-poka-poka-airu-mura-g-psp-translation-patch": {
-   "noRelease": true,
+   "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "gfx": true
+     }
     },
     "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-10-30T14:34:08Z",
+    "pre": false,
+    "tag": "0.2.1",
+    "url": "https://github.com/mykaadev/MonHun-Nikki-Poka-Poka-Airu-Mura-G-PSP-Translation-Patch/releases/tag/0.2.1"
+   },
    "repo": {
     "archived": false,
     "created": "2026-07-24T21:01:36Z",
     "desc": "as simple as it is, the translation patch of all important dialogue of the game",
     "full": "mykaadev/MonHun-Nikki-Poka-Poka-Airu-Mura-G-PSP-Translation-Patch",
     "lang": "Batchfile",
-    "pushed": "2026-07-25T14:02:10Z",
-    "size": 1336,
+    "pushed": "2026-10-30T14:47:52Z",
+    "size": 2647,
     "stars": 11
    },
    "shots": []
@@ -6842,10 +6873,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-23T11:29:44Z",
+    "date": "2026-10-30T11:29:47Z",
     "pre": false,
-    "tag": "v2.0",
-    "url": "https://github.com/phamkv/gotokano/releases/tag/v2.0"
+    "tag": "v3.0",
+    "url": "https://github.com/phamkv/gotokano/releases/tag/v3.0"
    },
    "repo": {
     "archived": false,
@@ -6853,8 +6884,8 @@
     "desc": "English Patch for The Quintessential Quintuplets: Five Promises Made With Her (Switch)",
     "full": "phamkv/gotokano",
     "lang": null,
-    "pushed": "2026-10-23T11:30:52Z",
-    "size": 79393,
+    "pushed": "2026-10-30T11:29:47Z",
+    "size": 83259,
     "stars": 1
    },
    "shots": []
@@ -7181,7 +7212,7 @@
     "lang": "C",
     "pushed": "2026-10-30T05:31:39Z",
     "size": 101837,
-    "stars": 150
+    "stars": 151
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -8306,8 +8337,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-30T09:48:58Z",
-    "size": 9801,
+    "pushed": "2026-10-30T17:09:21Z",
+    "size": 10034,
     "stars": 0
    },
    "shots": []
