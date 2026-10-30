@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-30T18:05:45Z",
+ "generated": "2026-10-30T22:29:19Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-10-30T14:13:04Z",
-    "size": 35448,
+    "pushed": "2026-10-30T18:58:41Z",
+    "size": 35755,
     "stars": 14
    },
    "shots": [
@@ -631,7 +631,7 @@
     "archived": false,
     "created": "2026-10-28T05:43:42Z",
     "desc": "A NEW english patch for Seven: Cavalry of Molmorth from Namco on the PS2",
-    "full": "BeanutROM/PS2-Seven-Cavalary-of-Molmorth-English-Patch",
+    "full": "BeanutROM/PS2-Seven-Molmorth-no-Kiheitai-English-Patch",
     "lang": null,
     "pushed": "2026-10-28T05:43:43Z",
     "size": 0,
@@ -1336,7 +1336,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-25T15:59:19Z",
     "size": 7712,
-    "stars": 64
+    "stars": 63
    },
    "shots": [
     "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/title%20screen%20screenshot.png",
@@ -1372,7 +1372,7 @@
     "lang": null,
     "pushed": "2025-10-31T08:02:35Z",
     "size": 163,
-    "stars": 38
+    "stars": 37
    },
    "shots": [
     "https://raw.githubusercontent.com/ButThouMust/otogirisou-english/HEAD/images/01%20title%20screen.png",
@@ -1561,10 +1561,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T20:56:11Z",
+    "date": "2026-10-30T22:28:33Z",
     "pre": false,
-    "tag": "v0.5",
-    "url": "https://github.com/damon-daemon/daikoukai-jidai-4-ds-english/releases/tag/v0.5"
+    "tag": "v0.6",
+    "url": "https://github.com/damon-daemon/daikoukai-jidai-4-ds-english/releases/tag/v0.6"
    },
    "repo": {
     "archived": false,
@@ -1572,9 +1572,9 @@
     "desc": "English fan translation patch for Uncharted Waters IV: Rota Nova (Daikoukai Jidai IV DS, Nintendo DS)",
     "full": "damon-daemon/daikoukai-jidai-4-ds-english",
     "lang": "Python",
-    "pushed": "2026-10-29T20:59:42Z",
+    "pushed": "2026-10-30T22:24:55Z",
     "size": 1884,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/daikoukai-jidai-4-ds-english/HEAD/docs/screenshots/01_title_menu.png",
@@ -2932,10 +2932,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T22:00:18Z",
+    "date": "2026-10-30T22:15:56Z",
     "pre": false,
-    "tag": "v0.1.30",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.30"
+    "tag": "v0.1.31",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.31"
    },
    "repo": {
     "archived": false,
@@ -2943,9 +2943,9 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-29T22:00:17Z",
+    "pushed": "2026-10-30T22:15:56Z",
     "size": 80677,
-    "stars": 33
+    "stars": 34
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4509,6 +4509,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-27T00:32:15Z",
+    "pre": false,
+    "tag": "0.8.9",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-10-27T00:32:15Z",
+    "size": 38595,
+    "stars": 19
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -6130,7 +6162,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T04:21:28Z",
     "size": 1093,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -6767,7 +6799,7 @@
     "lang": "C++",
     "pushed": "2026-10-27T11:52:11Z",
     "size": 993,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/OZZ0AB/tsukihime-vita/HEAD/assets/livearea/bg.png"
@@ -7182,8 +7214,8 @@
     "desc": "English beta patch for Blue Seed: Kushinada Hirokuden (Saturn). Testing and translation review in progress. Volunteer testers wanted: report translation/display bugs with screenshots. ROM-free release.",
     "full": "retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation",
     "lang": null,
-    "pushed": "2026-10-28T06:31:50Z",
-    "size": 35,
+    "pushed": "2026-10-30T20:46:10Z",
+    "size": 37,
     "stars": 5
    },
    "shots": []
@@ -7210,9 +7242,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-30T05:31:39Z",
-    "size": 101837,
-    "stars": 151
+    "pushed": "2026-10-30T20:22:45Z",
+    "size": 101840,
+    "stars": 152
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -7568,8 +7600,8 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-10-29T21:53:51Z",
-    "size": 3358,
+    "pushed": "2026-10-30T21:30:29Z",
+    "size": 3390,
     "stars": 8
    },
    "shots": []
@@ -8017,7 +8049,7 @@
     "lang": null,
     "pushed": "2026-10-28T17:55:32Z",
     "size": 920,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/natsu-dialogue.png",
