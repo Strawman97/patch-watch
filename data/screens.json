@@ -5961,6 +5961,21 @@
    "shots": [],
    "tv": 3
   },
+  "echo delta|4": {
+   "checked": "2026-10-31T19:22:36Z",
+   "cover": "co4ayx",
+   "id": 176037,
+   "match": 1.0,
+   "name": "Echo Delta",
+   "shots": [
+    "scf33a",
+    "scf339",
+    "scs3ec",
+    "scs3ed",
+    "scs3ee"
+   ],
+   "tv": 3
+  },
   "echo night 2 nemuri no shihaisha|7": {
    "checked": "2026-10-24T04:48:17Z",
    "cover": "co2xgr",
@@ -21854,6 +21869,21 @@
    ],
    "tv": 3
   },
+  "toh|46": {
+   "anyPlat": true,
+   "checked": "2026-10-31T19:22:36Z",
+   "cover": "co5p8a",
+   "id": 222922,
+   "match": 1.0,
+   "name": "Tales of Hearts: CG Movie Edition",
+   "shots": [
+    "scjgwn",
+    "scjgwo",
+    "scjgwp",
+    "scjgwq"
+   ],
+   "tv": 3
+  },
   "tokimeki memorial 2|7": {
    "checked": "2026-10-22T09:57:51Z",
    "cover": "co4kjx",
@@ -24247,7 +24277,7 @@
    "tv": 3
   }
  },
- "generated": "2026-10-31T12:48:31Z",
+ "generated": "2026-10-31T19:22:36Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -24308,6 +24338,7 @@
   "blashy101/touchbattletankspwiiuenglish": "touch battle tank sp|41",
   "blashy101/visualquizwhat-sthisenglishpatch": "visual quiz whats this|130",
   "blue-overture/aonatsu-line": "aonatsu line|130",
+  "boredgamingph/toh-nds-english-patch": "toh|46",
   "brianblakely/slapstick-english-translation": "super famicom title slapstick|19",
   "brokenmesh/kimikiss_ai_translation": "kimikiss|8",
   "bruder-grimm/animal_forest_psp": "doubutsu no mori|38",
@@ -24527,10 +24558,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -24566,7 +24597,6 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
-  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -24589,6 +24619,7 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -24611,6 +24642,7 @@
   "link:https://archive.org/details/dynasty_warriors_sf_psp_undub_patch": "dynasty warriors strikeforce|38",
   "link:https://archive.org/details/dynasty_warriors_vol2_undub_patch": "dynasty warriors vol 2|38",
   "link:https://archive.org/details/earth_defense_force_3_vita_undub_patch": "earth defense force 2017 portable|46",
+  "link:https://archive.org/details/echo-delta_202610": "echo delta|4",
   "link:https://archive.org/details/echo_night_beyond_undub_patch": "echo night beyond|8",
   "link:https://archive.org/details/echo_night_undub_patch": "echo night|7",
   "link:https://archive.org/details/elebits_wii_undub_patch": "elebits|5",
@@ -24706,6 +24738,7 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
@@ -24726,6 +24759,7 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",

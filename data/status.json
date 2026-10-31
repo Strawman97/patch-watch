@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-31T12:48:31Z",
+ "generated": "2026-10-31T19:22:36Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-10-30T18:58:41Z",
-    "size": 35755,
+    "pushed": "2026-10-31T17:19:50Z",
+    "size": 35821,
     "stars": 14
    },
    "shots": [
@@ -375,7 +375,7 @@
     "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-10-31T09:24:38Z",
+    "pushed": "2026-10-31T18:39:28Z",
     "size": 1410,
     "stars": 8
    },
@@ -1546,7 +1546,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-25T15:59:19Z",
     "size": 7712,
-    "stars": 63
+    "stars": 64
    },
    "shots": [
     "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/title%20screen%20screenshot.png",
@@ -1626,6 +1626,28 @@
     "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/14_backlog.png",
     "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/01_title.png"
    ]
+  },
+  "chaputranslations/ningyonorakuinenglishpatch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-29T13:06:37Z",
+    "desc": "Code and assets to translate the PS1 game \"Ningyo no rakuin\" from Japanese to English.",
+    "full": "ChapuTranslations/NingyoNoRakuinEnglishPatch",
+    "lang": "Assembly",
+    "pushed": "2026-10-30T15:11:10Z",
+    "size": 52577,
+    "stars": 1
+   },
+   "shots": []
   },
   "chivien99999/khamrai-english": {
    "noRelease": true,
@@ -1993,10 +2015,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T00:31:15Z",
+    "date": "2026-10-31T17:46:56Z",
     "pre": true,
-    "tag": "v0.9.1",
-    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.1"
+    "tag": "v0.9.2",
+    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.2"
    },
    "repo": {
     "archived": false,
@@ -2004,8 +2026,8 @@
     "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
     "full": "damon-daemon/oda-nobunaga-den-english",
     "lang": "Python",
-    "pushed": "2026-10-31T00:31:15Z",
-    "size": 1002,
+    "pushed": "2026-10-31T17:46:56Z",
+    "size": 1054,
     "stars": 2
    },
    "shots": [
@@ -3172,17 +3194,19 @@
    "readme": {
     "patch": {
      "cov": "Complete",
-     "ex": {},
+     "ex": {
+      "restore": true
+     },
      "mtl": true
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-30T22:15:56Z",
+    "date": "2026-10-31T15:50:58Z",
     "pre": false,
-    "tag": "v0.1.31",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.31"
+    "tag": "v0.1.32",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.32"
    },
    "repo": {
     "archived": false,
@@ -3190,8 +3214,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-30T22:15:56Z",
-    "size": 83695,
+    "pushed": "2026-10-31T16:29:19Z",
+    "size": 86758,
     "stars": 34
    },
    "shots": [
@@ -3816,7 +3840,7 @@
     "lang": "Python",
     "pushed": "2026-10-25T13:39:07Z",
     "size": 1627,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://github.com/user-attachments/assets/149fcef0-dcd5-4e17-841a-39a48dde3a7f"
@@ -4330,7 +4354,7 @@
     "lang": "Python",
     "pushed": "2026-10-23T17:00:52Z",
     "size": 674,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -4359,8 +4383,8 @@
     "desc": "English Translation for Fire Pro Wrestling D (Dreamcast)",
     "full": "kactusken/Fire-Pro-Wrestling-D-English",
     "lang": "Python",
-    "pushed": "2026-10-30T23:08:51Z",
-    "size": 10328,
+    "pushed": "2026-10-31T13:00:16Z",
+    "size": 10337,
     "stars": 1
    },
    "shots": []
@@ -4572,7 +4596,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T20:35:52Z",
     "size": 11125,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -6142,6 +6166,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-31T08:17:05Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-29T22:00:58Z",
+    "desc": "English fan translation of GetBackers Dakkanya: Metropolis Dakkan Sakusen! (GBA)",
+    "full": "minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en",
+    "lang": "Python",
+    "pushed": "2026-10-31T11:09:50Z",
+    "size": 2816,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/ginga-eiyuu-densetsu-en": {
    "assetOs": {},
    "readme": {
@@ -6362,6 +6413,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/momotarou-densetsu-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-31T08:19:06Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/momotarou-densetsu-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-30T01:00:35Z",
+    "desc": "English fan translation of momotarou-densetsu-en (PSX)",
+    "full": "minhnhattonthat/momotarou-densetsu-en",
+    "lang": "Python",
+    "pushed": "2026-10-31T08:21:25Z",
+    "size": 1880,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/monster-guardians-en": {
    "assetOs": {},
    "readme": {
@@ -6467,6 +6545,33 @@
     "pushed": "2026-10-30T00:06:39Z",
     "size": 353,
     "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/ruin-arm-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-31T11:21:47Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/ruin-arm-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-29T14:00:49Z",
+    "desc": "English fan translation of Ruin Arm (SNES)",
+    "full": "minhnhattonthat/ruin-arm-en",
+    "lang": "Python",
+    "pushed": "2026-10-31T11:22:22Z",
+    "size": 971,
+    "stars": 1
    },
    "shots": []
   },
@@ -6968,10 +7073,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-17T22:27:35Z",
+    "date": "2026-10-31T17:49:29Z",
     "pre": false,
-    "tag": "v1.00",
-    "url": "https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00"
+    "tag": "v1.01",
+    "url": "https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.01"
    },
    "repo": {
     "archived": false,
@@ -6979,8 +7084,8 @@
     "desc": "Super Robot Wars Alpha (PSX) English Ver. — fan translation patch (xdelta) for Super Robot Taisen Alpha (SLPS-02636)",
     "full": "Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver",
     "lang": "Python",
-    "pushed": "2026-10-30T00:50:23Z",
-    "size": 6073,
+    "pushed": "2026-10-31T17:51:31Z",
+    "size": 6088,
     "stars": 8
    },
    "shots": [
@@ -7100,8 +7205,8 @@
     "desc": "Source to rebuild the Starfy GBA trilogy patches. An assembly of the original translators' work (Starfy Translation Team, SomeUselessTranslations, Dimedime, Luckylodeon98, RayCarrot, Normmatt); all credit to them. See README for full credits.",
     "full": "Pat227-spc/stafy-source",
     "lang": "Assembly",
-    "pushed": "2026-10-30T19:38:21Z",
-    "size": 2421,
+    "pushed": "2026-10-31T18:03:16Z",
+    "size": 2449,
     "stars": 1
    },
    "shots": []
@@ -7170,7 +7275,7 @@
     "lang": null,
     "pushed": "2026-10-08T09:56:33Z",
     "size": 767,
-    "stars": 73
+    "stars": 74
    },
    "shots": []
   },
@@ -7351,6 +7456,33 @@
     "https://github.com/user-attachments/assets/8ea73365-10c3-4528-9087-1934d9d9d95a",
     "https://www.romhacking.net/utilities/screenshots/598screenshot1.png"
    ]
+  },
+  "qi-busiyi-hanhuazu/gyakutensaibandschslocalization": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-31T15:14:09Z",
+    "pre": false,
+    "tag": "v0.9.0",
+    "url": "https://github.com/Qi-Busiyi-Hanhuazu/GyakutenSaibanDSChsLocalization/releases/tag/v0.9.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T08:02:26Z",
+    "desc": "NDS《逆转裁判》三部作品汉化",
+    "full": "Qi-Busiyi-Hanhuazu/GyakutenSaibanDSChsLocalization",
+    "lang": "Python",
+    "pushed": "2026-10-31T15:10:18Z",
+    "size": 65994,
+    "stars": 0
+   },
+   "shots": []
   },
   "randomprojectsfactory/cosmic-fantasy-pce-english": {
    "assetOs": {},
@@ -7543,8 +7675,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-30T20:22:45Z",
-    "size": 101840,
+    "pushed": "2026-10-31T16:09:13Z",
+    "size": 101859,
     "stars": 152
    },
    "shots": [
@@ -8216,10 +8348,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T15:06:08Z",
+    "date": "2026-10-31T13:36:12Z",
     "pre": false,
-    "tag": "v1.1.1",
-    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.1.1"
+    "tag": "v1.1.2",
+    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.1.2"
    },
    "repo": {
     "archived": false,
@@ -8227,8 +8359,8 @@
     "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
     "full": "struktured/trinea-dx",
     "lang": "Assembly",
-    "pushed": "2026-10-29T15:06:08Z",
-    "size": 2375,
+    "pushed": "2026-10-31T13:35:56Z",
+    "size": 2460,
     "stars": 1
    },
    "shots": [
@@ -8348,7 +8480,7 @@
     "lang": null,
     "pushed": "2026-10-28T17:55:32Z",
     "size": 920,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/natsu-dialogue.png",
@@ -8487,7 +8619,7 @@
     "lang": "C++",
     "pushed": "2026-10-31T08:23:40Z",
     "size": 847,
-    "stars": 111
+    "stars": 125
    },
    "shots": []
   },
