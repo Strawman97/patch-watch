@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-31T05:57:14Z",
+ "generated": "2026-10-31T12:48:31Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -375,8 +375,8 @@
     "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-10-31T00:22:12Z",
-    "size": 1351,
+    "pushed": "2026-10-31T09:24:38Z",
+    "size": 1410,
     "stars": 8
    },
    "shots": []
@@ -597,6 +597,27 @@
     "http://i.imgur.com/P8ypaT4.png"
    ]
   },
+  "beanutrom/astra-superstars-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T01:33:05Z",
+    "desc": "An english patch for the Saturn and ST-V game Astra Superstars",
+    "full": "BeanutROM/Astra-Superstars-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T01:33:06Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
   "beanutrom/boundary-gate-english-patch": {
    "noRelease": true,
    "readme": {
@@ -613,6 +634,48 @@
     "full": "BeanutROM/Boundary-Gate-English-Patch",
     "lang": null,
     "pushed": "2026-10-28T05:40:43Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/ps2-dragon-shadow-spell-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T00:08:48Z",
+    "desc": "An english patch for the PS2 game Dragon Shadow Spell",
+    "full": "BeanutROM/PS2-Dragon-Shadow-Spell-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T00:08:49Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/ps2-pride-of-the-dragon-peace-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T00:06:20Z",
+    "desc": "An english patch for the PS2 game Waga Ryuu o Miyo: Pride of the Dragon Peace",
+    "full": "BeanutROM/PS2-Pride-of-the-Dragon-Peace-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T00:06:21Z",
     "size": 0,
     "stars": 0
    },
@@ -681,6 +744,27 @@
    },
    "shots": []
   },
+  "beanutrom/psx-athena-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T01:36:01Z",
+    "desc": "An english patch for the PSX game Athena by SNK",
+    "full": "BeanutROM/PSX-Athena-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T01:36:03Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
   "beanutrom/psx-bealphareth-english-patch": {
    "noRelease": true,
    "readme": {
@@ -744,6 +828,27 @@
    },
    "shots": []
   },
+  "beanutrom/psx-egg-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T01:38:21Z",
+    "desc": "An english patch for the PSX game Egg",
+    "full": "BeanutROM/PSX-Egg-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T01:38:22Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
   "beanutrom/psx-enigma-english-patch": {
    "noRelease": true,
    "readme": {
@@ -760,6 +865,27 @@
     "full": "BeanutROM/PSX-Enigma-English-Patch",
     "lang": null,
     "pushed": "2026-10-28T05:42:00Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-gear-fighter-dendoh-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T01:37:06Z",
+    "desc": "An english patch for the PSX game Gear Fighter Dendoh",
+    "full": "BeanutROM/PSX-Gear-Fighter-Dendoh-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T01:37:07Z",
     "size": 0,
     "stars": 0
    },
@@ -815,6 +941,27 @@
    },
    "shots": []
   },
+  "beanutrom/psx-kero-kero-king-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T01:40:51Z",
+    "desc": "An english patch for the PSX game Kero Kero King",
+    "full": "BeanutROM/PSX-Kero-Kero-King-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T01:40:52Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
   "beanutrom/psx-lagnacure-english-patch": {
    "noRelease": true,
    "readme": {
@@ -852,6 +999,69 @@
     "full": "BeanutROM/PSX-Ling-Rise-English-Patch",
     "lang": null,
     "pushed": "2026-10-28T05:47:56Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-love-and-destroy-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T00:10:34Z",
+    "desc": "An english patch for the PSX game Love & Destroy",
+    "full": "BeanutROM/PSX-Love-And-Destroy-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T00:10:35Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-manic-game-girl-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T01:42:27Z",
+    "desc": "An english translation of the PSX game Manic Gamer Girl ",
+    "full": "BeanutROM/PSX-Manic-Game-Girl-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T01:42:28Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-mystic-dragoons-complete-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T01:35:14Z",
+    "desc": "A complete english patch for the PSX game Mystic Dragoons",
+    "full": "BeanutROM/PSX-Mystic-Dragoons-Complete-English-Patch",
+    "lang": null,
+    "pushed": "2026-10-31T01:35:16Z",
     "size": 0,
     "stars": 0
    },
@@ -1768,6 +1978,43 @@
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/04_event.png",
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/05_council.png",
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/06_map.png"
+   ]
+  },
+  "damon-daemon/oda-nobunaga-den-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-31T00:31:15Z",
+    "pre": true,
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-30T16:56:51Z",
+    "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
+    "full": "damon-daemon/oda-nobunaga-den-english",
+    "lang": "Python",
+    "pushed": "2026-10-31T00:31:15Z",
+    "size": 1002,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/oda-nobunaga-den-english/HEAD/docs/screenshots/01_dialogue.png",
+    "https://raw.githubusercontent.com/damon-daemon/oda-nobunaga-den-english/HEAD/docs/screenshots/02_narration.png",
+    "https://raw.githubusercontent.com/damon-daemon/oda-nobunaga-den-english/HEAD/docs/screenshots/03_council.png",
+    "https://raw.githubusercontent.com/damon-daemon/oda-nobunaga-den-english/HEAD/docs/screenshots/04_battle.png",
+    "https://raw.githubusercontent.com/damon-daemon/oda-nobunaga-den-english/HEAD/docs/screenshots/05_officer.png",
+    "https://raw.githubusercontent.com/damon-daemon/oda-nobunaga-den-english/HEAD/docs/screenshots/06_merchant.png"
    ]
   },
   "damon-daemon/sangokushi-5-puk-english": {
@@ -5131,8 +5378,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-10-31T01:27:15Z",
-    "size": 88523,
+    "pushed": "2026-10-31T10:10:08Z",
+    "size": 89708,
     "stars": 98
    },
    "shots": [
@@ -6514,6 +6761,36 @@
     "https://raw.githubusercontent.com/Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch/HEAD/screenshots/04_in_round_hud.webp"
    ]
   },
+  "mstan/tsumulightrecomp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gameplay": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-31T01:07:32Z",
+    "pre": false,
+    "tag": "v0.1.1",
+    "url": "https://github.com/mstan/TsumuLightRecomp/releases/tag/v0.1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-07-07T01:02:28Z",
+    "desc": "Tsumu Light (Japan) recompiled for the Sony PlayStation using psxrecomp, with an English fan-translation · Part of the R.A.I.D. community",
+    "full": "mstan/TsumuLightRecomp",
+    "lang": "Shell",
+    "pushed": "2026-10-31T01:07:28Z",
+    "size": 438,
+    "stars": 7
+   },
+   "shots": []
+  },
   "mykaadev/monhun-nikki-poka-poka-airu-mura-g-psp-translation-patch": {
    "assetOs": {},
    "readme": {
@@ -7299,9 +7576,7 @@
    "shots": []
   },
   "rikimtasu/th2dxp_en": {
-   "assetOs": {
-    "Windows": true
-   },
+   "assetOs": {},
    "readme": {
     "patch": {
      "cov": "Partial",
@@ -7313,10 +7588,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-28T03:18:07Z",
+    "date": "2026-10-31T08:03:21Z",
     "pre": true,
-    "tag": "v0.2",
-    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.2"
+    "tag": "v0.3",
+    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.3"
    },
    "repo": {
     "archived": false,
@@ -7324,8 +7599,8 @@
     "desc": "English Translation Project for PS3 ver ToHeart2 DX PLUS (AI assisted)",
     "full": "rikimtasu/th2dxp_en",
     "lang": "Python",
-    "pushed": "2026-10-28T03:19:23Z",
-    "size": 52437,
+    "pushed": "2026-10-31T08:03:21Z",
+    "size": 52570,
     "stars": 0
    },
    "shots": []
@@ -7734,7 +8009,7 @@
     "lang": "Batchfile",
     "pushed": "2025-09-08T18:57:27Z",
     "size": 12481,
-    "stars": 184
+    "stars": 183
    },
    "shots": [
     "https://raw.githubusercontent.com/SONICMAN69/Bebop-PS2-English/HEAD/images/english/screenshot1.png",
@@ -8185,6 +8460,37 @@
    },
    "shots": []
   },
+  "vnnc1/gow-native-pc": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-31T08:28:25Z",
+    "pre": false,
+    "tag": "v3.0.1",
+    "url": "https://github.com/Vnnc1/gow-native-pc/releases/tag/v3.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-25T02:38:17Z",
+    "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
+    "full": "Vnnc1/gow-native-pc",
+    "lang": "C++",
+    "pushed": "2026-10-31T08:23:40Z",
+    "size": 847,
+    "stars": 111
+   },
+   "shots": []
+  },
   "waifoof/city-shrouded-in-shadow-english-translation-": {
    "assetOs": {},
    "readme": {
@@ -8413,12 +8719,12 @@
    "readmeLure": [],
    "repo": {
     "archived": false,
-    "created": "2026-10-22T15:29:58Z",
+    "created": "2026-10-31T09:00:55Z",
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-31T05:57:25Z",
-    "size": 10034,
+    "pushed": "2026-10-31T11:19:59Z",
+    "size": 4732,
     "stars": 0
    },
    "shots": []

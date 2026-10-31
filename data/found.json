@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-31T05:57:14Z",
+ "generated": "2026-10-31T12:48:31Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9590,17 +9590,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-10-30T18:05:45Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -13199,6 +13188,71 @@
    "src": "GitHub"
   },
   {
+   "d": "English fan translation of Ruin Arm (SNES)",
+   "fa": "2026-10-31T12:48:31Z",
+   "g": "Ruin Arm",
+   "id": "minhnhattonthat/ruin-arm-en",
+   "k": "minhnhattonthat/ruin-arm-en",
+   "l": "https://github.com/minhnhattonthat/ruin-arm-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of GetBackers Dakkanya: Metropolis Dakkan Sakusen! (GBA)",
+   "fa": "2026-10-31T12:48:31Z",
+   "g": "GetBackers Dakkanya: Metropolis Dakkan Sakusen!",
+   "id": "minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en",
+   "k": "minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en",
+   "l": "https://github.com/minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of momotarou-densetsu-en (PSX)",
+   "fa": "2026-10-31T12:48:31Z",
+   "g": "Momotarou-Densetsu-En",
+   "id": "minhnhattonthat/momotarou-densetsu-en",
+   "k": "minhnhattonthat/momotarou-densetsu-en",
+   "l": "https://github.com/minhnhattonthat/momotarou-densetsu-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "NDS《逆转裁判》三部作品汉化",
+   "fa": "2026-10-31T12:48:31Z",
+   "g": "Gyakuten Saiban DSChs Localization",
+   "id": "qi-busiyi-hanhuazu/gyakutensaibandschslocalization",
+   "k": "qi-busiyi-hanhuazu/gyakutensaibandschslocalization",
+   "l": "https://github.com/Qi-Busiyi-Hanhuazu/GyakutenSaibanDSChsLocalization",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "Code and assets to translate the PS1 game \"Ningyo no rakuin\" from Japanese to English.",
+   "fa": "2026-10-31T12:48:31Z",
+   "g": "Ningyo No Rakuin",
+   "id": "chaputranslations/ningyonorakuinenglishpatch",
+   "k": "chaputranslations/ningyonorakuinenglishpatch",
+   "l": "https://github.com/ChapuTranslations/NingyoNoRakuinEnglishPatch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -14816,51 +14870,27 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-10-30T18:05:45Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-10-30T18:05:45Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-10-30T22:29:19Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "d": "Bulk Slash (English Patch)",
    "fa": "2026-10-31T05:57:14Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
-    "Undub"
+    "Human translation"
    ],
-   "p": "PS2",
+   "p": "Saturn",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
