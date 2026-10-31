@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-30T22:29:19Z",
+ "generated": "2026-10-31T05:57:14Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9590,6 +9590,17 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-10-30T18:05:45Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -13019,6 +13030,175 @@
    "src": "GitHub"
   },
   {
+   "d": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you nee",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "Gow Native Pc",
+   "id": "vnnc1/gow-native-pc",
+   "k": "vnnc1/gow-native-pc",
+   "l": "https://github.com/Vnnc1/gow-native-pc",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "An english translation of the PSX game Manic Gamer Girl ",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "PSX game Manic Gamer Girl",
+   "id": "beanutrom/psx-manic-game-girl-english-patch",
+   "k": "beanutrom/psx-manic-game-girl-english-patch",
+   "l": "https://github.com/BeanutROM/PSX-Manic-Game-Girl-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "An english patch for the PSX game Kero Kero King",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "PSX game Kero Kero King",
+   "id": "beanutrom/psx-kero-kero-king-english-patch",
+   "k": "beanutrom/psx-kero-kero-king-english-patch",
+   "l": "https://github.com/BeanutROM/PSX-Kero-Kero-King-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "An english patch for the PSX game Egg",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "PSX game Egg",
+   "id": "beanutrom/psx-egg-english-patch",
+   "k": "beanutrom/psx-egg-english-patch",
+   "l": "https://github.com/BeanutROM/PSX-Egg-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "An english patch for the PSX game Gear Fighter Dendoh",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "PSX game Gear Fighter Dendoh",
+   "id": "beanutrom/psx-gear-fighter-dendoh-english-patch",
+   "k": "beanutrom/psx-gear-fighter-dendoh-english-patch",
+   "l": "https://github.com/BeanutROM/PSX-Gear-Fighter-Dendoh-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "An english patch for the PSX game Athena by SNK",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "PSX game Athena",
+   "id": "beanutrom/psx-athena-english-patch",
+   "k": "beanutrom/psx-athena-english-patch",
+   "l": "https://github.com/BeanutROM/PSX-Athena-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "A complete english patch for the PSX game Mystic Dragoons",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "PSX game Mystic Dragoons",
+   "id": "beanutrom/psx-mystic-dragoons-complete-english-patch",
+   "k": "beanutrom/psx-mystic-dragoons-complete-english-patch",
+   "l": "https://github.com/BeanutROM/PSX-Mystic-Dragoons-Complete-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "An english patch for the Saturn and ST-V game Astra Superstars",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "Saturn and ST-V game Astra Superstars",
+   "id": "beanutrom/astra-superstars-english-patch",
+   "k": "beanutrom/astra-superstars-english-patch",
+   "l": "https://github.com/BeanutROM/Astra-Superstars-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "GitHub"
+  },
+  {
+   "d": "Tsumu Light (Japan) recompiled for the Sony PlayStation using psxrecomp, with an English fan-translation · Part of the R.A.I.D. community",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "Tsumu Light Recomp",
+   "id": "mstan/tsumulightrecomp",
+   "k": "mstan/tsumulightrecomp",
+   "l": "https://github.com/mstan/TsumuLightRecomp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "Oda Nobunaga Den",
+   "id": "damon-daemon/oda-nobunaga-den-english",
+   "k": "damon-daemon/oda-nobunaga-den-english",
+   "l": "https://github.com/damon-daemon/oda-nobunaga-den-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "An english patch for the PSX game Love & Destroy",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "PSX game Love & Destroy",
+   "id": "beanutrom/psx-love-and-destroy-english-patch",
+   "k": "beanutrom/psx-love-and-destroy-english-patch",
+   "l": "https://github.com/BeanutROM/PSX-Love-And-Destroy-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "An english patch for the PS2 game Dragon Shadow Spell",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "Dragon Shadow Spell",
+   "id": "beanutrom/ps2-dragon-shadow-spell-english-patch",
+   "k": "beanutrom/ps2-dragon-shadow-spell-english-patch",
+   "l": "https://github.com/BeanutROM/PS2-Dragon-Shadow-Spell-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "An english patch for the PS2 game Waga Ryuu o Miyo: Pride of the Dragon Peace",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "Waga Ryuu o Miyo: Pride of the Dragon Peace",
+   "id": "beanutrom/ps2-pride-of-the-dragon-peace-english-patch",
+   "k": "beanutrom/ps2-pride-of-the-dragon-peace-english-patch",
+   "l": "https://github.com/BeanutROM/PS2-Pride-of-the-Dragon-Peace-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -14636,27 +14816,51 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-10-30T10:14:16Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-10-30T18:05:45Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-10-30T10:14:16Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-10-30T18:05:45Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-10-30T22:29:19Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-10-31T05:57:14Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {

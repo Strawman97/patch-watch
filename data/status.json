@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-30T22:29:19Z",
+ "generated": "2026-10-31T05:57:14Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -375,8 +375,8 @@
     "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-10-30T09:00:28Z",
-    "size": 1350,
+    "pushed": "2026-10-31T00:22:12Z",
+    "size": 1351,
     "stars": 8
    },
    "shots": []
@@ -631,7 +631,7 @@
     "archived": false,
     "created": "2026-10-28T05:43:42Z",
     "desc": "A NEW english patch for Seven: Cavalry of Molmorth from Namco on the PS2",
-    "full": "BeanutROM/PS2-Seven-Molmorth-no-Kiheitai-English-Patch",
+    "full": "BeanutROM/PS2-7-Molmorth-no-Kiheitai-English-Patch",
     "lang": null,
     "pushed": "2026-10-28T05:43:43Z",
     "size": 0,
@@ -652,7 +652,7 @@
     "archived": false,
     "created": "2026-10-28T05:45:13Z",
     "desc": "An english patch for the PS2 game Venus & Braves from Namco",
-    "full": "BeanutROM/PS2-Venus-Braves-English-Patch",
+    "full": "BeanutROM/PS2-Venus-and-Braves-English-Patch",
     "lang": null,
     "pushed": "2026-10-28T05:45:14Z",
     "size": 0,
@@ -696,8 +696,8 @@
     "desc": "An english patch for the PSX game Bealphareth",
     "full": "BeanutROM/PSX-Bealphareth-English-Patch",
     "lang": null,
-    "pushed": "2026-10-28T08:18:44Z",
-    "size": 0,
+    "pushed": "2026-10-31T04:28:36Z",
+    "size": 8807,
     "stars": 0
    },
    "shots": []
@@ -801,13 +801,13 @@
     "date": "2026-10-22T20:55:43Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/BeanutROM/PSX-Jailbreaker-English-Patch/releases/tag/v1.0"
+    "url": "https://github.com/BeanutROM/PSX-JailBreaker-English-Patch/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-20T23:34:52Z",
     "desc": "",
-    "full": "BeanutROM/PSX-Jailbreaker-English-Patch",
+    "full": "BeanutROM/PSX-JailBreaker-English-Patch",
     "lang": null,
     "pushed": "2026-10-28T06:31:57Z",
     "size": 680,
@@ -964,7 +964,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T15:21:33Z",
     "size": 572,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -1307,7 +1307,7 @@
     "lang": "C",
     "pushed": "2026-10-24T14:53:11Z",
     "size": 921,
-    "stars": 14
+    "stars": 15
    },
    "shots": []
   },
@@ -1573,7 +1573,7 @@
     "full": "damon-daemon/daikoukai-jidai-4-ds-english",
     "lang": "Python",
     "pushed": "2026-10-30T22:24:55Z",
-    "size": 1884,
+    "size": 1896,
     "stars": 1
    },
    "shots": [
@@ -2944,7 +2944,7 @@
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
     "pushed": "2026-10-30T22:15:56Z",
-    "size": 80677,
+    "size": 83695,
     "stars": 34
    },
    "shots": [
@@ -3415,6 +3415,36 @@
    },
    "shots": []
   },
+  "gertius1/uu_psx_eng": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-30T20:07:33Z",
+    "pre": false,
+    "tag": "v2.0",
+    "url": "https://github.com/gertius1/UU_PSX_ENG/releases/tag/v2.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2023-09-24T08:42:17Z",
+    "desc": "English ROMhack/patch for PSX version of Ultima Underworld",
+    "full": "gertius1/UU_PSX_ENG",
+    "lang": "C++",
+    "pushed": "2026-10-30T20:07:33Z",
+    "size": 716,
+    "stars": 11
+   },
+   "shots": []
+  },
   "gingka8233/happiness-sakura-celebration-english-patch-nintendo-switch": {
    "noRelease": true,
    "readme": {
@@ -3481,8 +3511,8 @@
     "desc": "Play deSPIRIA (Dreamcast, English fan translation) natively on Windows with dream-recomp. Build-from-source kit: bring your own patched disc.",
     "full": "goodshepherd23/deSPIRIA-DreamRecomp",
     "lang": "C++",
-    "pushed": "2026-10-30T01:17:45Z",
-    "size": 101,
+    "pushed": "2026-10-30T23:29:59Z",
+    "size": 105,
     "stars": 1
    },
    "shots": []
@@ -4082,9 +4112,9 @@
     "desc": "English Translation for Fire Pro Wrestling D (Dreamcast)",
     "full": "kactusken/Fire-Pro-Wrestling-D-English",
     "lang": "Python",
-    "pushed": "2026-10-29T02:02:00Z",
-    "size": 10323,
-    "stars": 0
+    "pushed": "2026-10-30T23:08:51Z",
+    "size": 10328,
+    "stars": 1
    },
    "shots": []
   },
@@ -4509,38 +4539,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-10-27T00:32:15Z",
-    "pre": false,
-    "tag": "0.8.9",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.9"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-10-27T00:32:15Z",
-    "size": 38595,
-    "stars": 19
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5090,23 +5088,28 @@
   "lifeisfullofbotox/planetdob-en": {
    "noRelease": true,
    "readme": {
-    "none": true,
     "patch": {
      "ex": {}
-    }
+    },
+    "v": 1
    },
    "readmeLure": [],
    "repo": {
     "archived": false,
-    "created": "2026-10-28T22:08:46Z",
+    "created": "2026-10-31T01:15:54Z",
     "desc": "An English fan translation of Planet Dob (1999), a Japanese-exclusive PlayStation title.",
     "full": "lifeisfullofbotox/planetdob-en",
     "lang": null,
-    "pushed": "2026-10-28T22:08:47Z",
-    "size": 0,
+    "pushed": "2026-10-31T02:32:30Z",
+    "size": 268,
     "stars": 0
    },
-   "shots": []
+   "shots": [
+    "https://raw.githubusercontent.com/lifeisfullofbotox/planetdob-en/HEAD/screenshot-title.png",
+    "https://raw.githubusercontent.com/lifeisfullofbotox/planetdob-en/HEAD/screenshot-dialogue.png",
+    "https://raw.githubusercontent.com/lifeisfullofbotox/planetdob-en/HEAD/screenshot-instructions.png",
+    "https://raw.githubusercontent.com/lifeisfullofbotox/planetdob-en/HEAD/screenshot-map.png"
+   ]
   },
   "liliambean/s3unlocked": {
    "noRelease": true,
@@ -5128,8 +5131,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-10-30T14:01:22Z",
-    "size": 87306,
+    "pushed": "2026-10-31T01:27:15Z",
+    "size": 88523,
     "stars": 98
    },
    "shots": [
@@ -6805,6 +6808,27 @@
     "https://raw.githubusercontent.com/OZZ0AB/tsukihime-vita/HEAD/assets/livearea/bg.png"
    ]
   },
+  "pat227-spc/stafy-source": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-30T19:32:35Z",
+    "desc": "Source to rebuild the Starfy GBA trilogy patches. An assembly of the original translators' work (Starfy Translation Team, SomeUselessTranslations, Dimedime, Luckylodeon98, RayCarrot, Normmatt); all credit to them. See README for full credits.",
+    "full": "Pat227-spc/stafy-source",
+    "lang": "Assembly",
+    "pushed": "2026-10-30T19:38:21Z",
+    "size": 2421,
+    "stars": 1
+   },
+   "shots": []
+  },
   "pavel0wq/uta-no-prince-sama-repeat-english-patch": {
    "assetOs": {},
    "readme": {
@@ -7316,10 +7340,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T15:43:31Z",
+    "date": "2026-10-31T01:21:47Z",
     "pre": false,
-    "tag": "v1.4",
-    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.4"
+    "tag": "v1.5",
+    "url": "https://github.com/RockefellerA/TDQ-EN/releases/tag/v1.5"
    },
    "repo": {
     "archived": false,
@@ -7327,8 +7351,8 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-29T15:46:40Z",
-    "size": 32,
+    "pushed": "2026-10-31T01:21:46Z",
+    "size": 33,
     "stars": 4
    },
    "shots": [
@@ -7373,7 +7397,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T22:58:13Z",
     "size": 840,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/romh-acking/time-twist-fds-en/HEAD/1.png"
@@ -8049,7 +8073,7 @@
     "lang": null,
     "pushed": "2026-10-28T17:55:32Z",
     "size": 920,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/natsu-dialogue.png",
@@ -8266,6 +8290,30 @@
     "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/4_skills.png"
    ]
   },
+  "wakabayashy/sakura-wars-1-dreamcast-english-translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true,
+     "pct": 100
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-30T21:37:22Z",
+    "desc": "Sakura Wars 1 English Translation for Sega Dreamcast",
+    "full": "wakabayashy/Sakura-Wars-1-Dreamcast-English-Translation",
+    "lang": null,
+    "pushed": "2026-10-30T21:39:22Z",
+    "size": 3,
+    "stars": 0
+   },
+   "shots": []
+  },
   "wandering-heiho/vantage_master_portable_psp": {
    "assetOs": {},
    "readme": {
@@ -8369,7 +8417,7 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-30T17:09:21Z",
+    "pushed": "2026-10-31T05:57:25Z",
     "size": 10034,
     "stars": 0
    },

@@ -5445,6 +5445,19 @@
    ],
    "tv": 3
   },
+  "dragon shadow spell|8": {
+   "checked": "2026-10-31T05:57:14Z",
+   "cover": "co6873",
+   "id": 72814,
+   "match": 1.0,
+   "name": "Dragon Shadow Spell",
+   "shots": [
+    "sccrbk",
+    "sccrbl",
+    "sccrbm"
+   ],
+   "tv": 3
+  },
   "dragon slayer iv drasle family|18": {
    "checked": "2026-10-22T17:20:22Z",
    "cover": "co8zd6",
@@ -8567,6 +8580,11 @@
   },
   "gourmet sentai barayarou|19": {
    "checked": "2026-10-21T07:14:34Z",
+   "shots": [],
+   "tv": 3
+  },
+  "gow native pc|8": {
+   "checked": "2026-10-31T05:57:14Z",
    "shots": [],
    "tv": 3
   },
@@ -14955,6 +14973,11 @@
    "shots": [],
    "tv": 3
   },
+  "oda nobunaga den|7": {
+   "checked": "2026-10-31T05:57:14Z",
+   "shots": [],
+   "tv": 3
+  },
   "odekake earth seeker|20": {
    "anyPlat": true,
    "checked": "2026-10-21T07:14:34Z",
@@ -16272,6 +16295,11 @@
    "shots": [],
    "tv": 3
   },
+  "psx game athena|7": {
+   "checked": "2026-10-31T05:57:14Z",
+   "shots": [],
+   "tv": 3
+  },
   "psx game bealphareth|7": {
    "checked": "2026-10-28T13:13:02Z",
    "shots": [],
@@ -16287,8 +16315,23 @@
    "shots": [],
    "tv": 3
   },
+  "psx game egg|7": {
+   "checked": "2026-10-31T05:57:14Z",
+   "shots": [],
+   "tv": 3
+  },
+  "psx game gear fighter dendoh|7": {
+   "checked": "2026-10-31T05:57:14Z",
+   "shots": [],
+   "tv": 3
+  },
   "psx game hikari no shima|7": {
    "checked": "2026-10-28T05:56:22Z",
+   "shots": [],
+   "tv": 3
+  },
+  "psx game kero kero king|7": {
+   "checked": "2026-10-31T05:57:14Z",
    "shots": [],
    "tv": 3
   },
@@ -16299,6 +16342,21 @@
   },
   "psx game ling rise|7": {
    "checked": "2026-10-28T05:56:22Z",
+   "shots": [],
+   "tv": 3
+  },
+  "psx game love and destroy|7": {
+   "checked": "2026-10-31T05:57:14Z",
+   "shots": [],
+   "tv": 3
+  },
+  "psx game manic gamer girl|7": {
+   "checked": "2026-10-31T05:57:14Z",
+   "shots": [],
+   "tv": 3
+  },
+  "psx game mystic dragoons|7": {
+   "checked": "2026-10-31T05:57:14Z",
    "shots": [],
    "tv": 3
   },
@@ -17931,6 +17989,11 @@
    "id": 68008,
    "match": 1.0,
    "name": "Ape Escape: Million Monkeys",
+   "shots": [],
+   "tv": 3
+  },
+  "saturn and st v game astra superstars|32": {
+   "checked": "2026-10-31T05:57:14Z",
    "shots": [],
    "tv": 3
   },
@@ -22168,6 +22231,11 @@
    "shots": [],
    "tv": 3
   },
+  "tsumu light recomp|7": {
+   "checked": "2026-10-31T05:57:14Z",
+   "shots": [],
+   "tv": 3
+  },
   "tsuri kichi sanpei blue marlin hen|18": {
    "anyPlat": true,
    "checked": "2026-10-22T17:20:22Z",
@@ -22785,6 +22853,11 @@
    "id": 4452,
    "match": 1.0,
    "name": "Vixen 357",
+   "shots": [],
+   "tv": 3
+  },
+  "waga ryuu o miyo pride of the dragon peace|8": {
+   "checked": "2026-10-31T05:57:14Z",
    "shots": [],
    "tv": 3
   },
@@ -24126,7 +24199,7 @@
    "tv": 3
   }
  },
- "generated": "2026-10-30T22:29:19Z",
+ "generated": "2026-10-31T05:57:14Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -24150,18 +24223,28 @@
   "astraleamalthea/magicthegatheringdreamcasteng": "magic the gathering|23",
   "azzulin/tales-of-radiant-mythology-3-english-translation": "tales of the world radiant mythology 3|38",
   "baslqc/steins-gate-psp-patch": "steins gate|38",
+  "beanutrom/astra-superstars-english-patch": "saturn and st v game astra superstars|32",
   "beanutrom/boundary-gate-english-patch": "pcfx and psx version of boundary gate|7",
+  "beanutrom/ps2-dragon-shadow-spell-english-patch": "dragon shadow spell|8",
+  "beanutrom/ps2-pride-of-the-dragon-peace-english-patch": "waga ryuu o miyo pride of the dragon peace|8",
   "beanutrom/ps2-seven-cavalary-of-molmorth-english-patch": "seven cavalry of molmorth from namco|8",
   "beanutrom/ps2-venus-braves-english-patch": "venus and braves from namco|8",
   "beanutrom/psx-armed-fighter-english-patch": "psx game armed fighter|7",
+  "beanutrom/psx-athena-english-patch": "psx game athena|7",
   "beanutrom/psx-bealphareth-english-patch": "psx game bealphareth|7",
   "beanutrom/psx-cosmowarrior-zero-english-patch": "psx game cosmowarrior zero|7",
   "beanutrom/psx-cyberorg-english-patch": "psx game cyberorg|7",
+  "beanutrom/psx-egg-english-patch": "psx game egg|7",
   "beanutrom/psx-enigma-english-patch": "koei game enigma|7",
+  "beanutrom/psx-gear-fighter-dendoh-english-patch": "psx game gear fighter dendoh|7",
   "beanutrom/psx-hikari-no-shima-english-patch": "psx game hikari no shima|7",
   "beanutrom/psx-jailbreaker-english-patch": "psx jailbreaker|7",
+  "beanutrom/psx-kero-kero-king-english-patch": "psx game kero kero king|7",
   "beanutrom/psx-lagnacure-english-patch": "psx game lagnacure|7",
   "beanutrom/psx-ling-rise-english-patch": "psx game ling rise|7",
+  "beanutrom/psx-love-and-destroy-english-patch": "psx game love and destroy|7",
+  "beanutrom/psx-manic-game-girl-english-patch": "psx game manic gamer girl|7",
+  "beanutrom/psx-mystic-dragoons-complete-english-patch": "psx game mystic dragoons|7",
   "beanutrom/psx-nemuru-mayu-english-patch": "psx game nemuru mayu|7",
   "beato07/radiant-historia-undub": "radiant historia perfect chronology|37",
   "bentolanh/masou-kishin-english-patch": "super robot taisen og saga masou kishin the lord of elemental|38",
@@ -24194,6 +24277,7 @@
   "damon-daemon/nobunaga-ranseiki-puk-english": "nobunaga ranseiki puk|8",
   "damon-daemon/nobunaga-reppuuden-puk-english": "nobunaga no yabou reppuuden with power up kit|7",
   "damon-daemon/nobunaga-soutenroku-puk-english": "nobunaga no yabou soutenroku with power up kit|8",
+  "damon-daemon/oda-nobunaga-den-english": "oda nobunaga den|7",
   "damon-daemon/sangokushi-5-puk-english": "sangokushi v with power up kit|7",
   "damon-daemon/sangokushi-6-puk-english": "sangokushi vi with power up kit|7",
   "damon-daemon/sangokushi-ds-3-english": "sangokushi ds 3|20",
@@ -24394,10 +24478,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -24433,7 +24517,6 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
-  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -24456,6 +24539,7 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -24573,6 +24657,7 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
@@ -24593,6 +24678,7 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",
@@ -24801,6 +24887,7 @@
   "link:https://romhackplaza.org/translations/mazinger-z-super-famicom-eng-spa-msu1-english-spanish-translation-super-nintendo": "mazinger z|19",
   "link:https://romhackplaza.org/translations/misfortune-a-story-of-suspicious-friendships-english-translation-playstation": "misfortune a story of suspicious friendships|7",
   "link:https://romhackplaza.org/translations/nekojara-monogatari-english-translation-game-boy": "nekojara monogatari|33",
+  "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": "sega|32",
   "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64": "nintendo 64|4",
   "link:https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": "pocket muumuu|7",
   "link:https://romhackplaza.org/translations/popolocrois-monogatari-ii-english-translation-playstation": "popolocrois monogatari ii|7",
@@ -26097,6 +26184,7 @@
   "minhnhattonthat/zero-one-sp-english": "zero one sp|24",
   "moiseseliaquim/bakuten_shoot_beyblade_gekitou_saikyou_blader_english": "bakuten shoot beyblade gekitou saikyou blader|24",
   "mr-shizzy/everybodys-golf-coca-cola-psp-english-patch": "everybodys golf portable coca cola special edition|38",
+  "mstan/tsumulightrecomp": "tsumu light recomp|7",
   "mykaadev/monhun-nikki-poka-poka-airu-mura-g-psp-translation-patch": "monhun nikki poka poka airu mura g|38",
   "mys7icfox/evangelion2-en-patch": "neon genesis evangelion 2|29",
   "nekogun45/-3ds-super-robot-wars-ux---full-english-translation-patch-release-experimental-": "3ds super robot wars ux full release experimental|37",
@@ -26156,6 +26244,7 @@
   "topcatromhacking-lgtm/dragon-quest-heroes-switch-english-undub": "dragon quest heroes i ii|130",
   "vinheim3/sakurawars1-disasm": "sakura wars gb|22",
   "vnayar/final-fantasy-iii-neoclassical": "final fantasy iii|18",
+  "vnnc1/gow-native-pc": "gow native pc|8",
   "waifoof/city-shrouded-in-shadow-english-translation-": "city shrouded in shadow|48",
   "waifoof/elan-plus-english-patch": "elan plus|7",
   "waifoof/koukidou-gensou-gunparade-march-mtl-english-patch": "koukidou gensou gunparade march|7",
