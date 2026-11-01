@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-01T16:08:33Z",
+ "generated": "2026-11-01T22:11:50Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -27,7 +27,7 @@
     "lang": "HTML",
     "pushed": "2026-10-27T03:45:07Z",
     "size": 670,
-    "stars": 10
+    "stars": 11
    },
    "shots": [
     "https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21"
@@ -54,9 +54,9 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-10-31T17:19:50Z",
+    "pushed": "2026-11-01T22:07:05Z",
     "size": 35821,
-    "stars": 14
+    "stars": 15
    },
    "shots": [
     "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
@@ -396,10 +396,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-30T09:00:28Z",
+    "date": "2026-11-01T22:01:49Z",
     "pre": false,
-    "tag": "v1.9r",
-    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9r"
+    "tag": "v1.9s",
+    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9s"
    },
    "repo": {
     "archived": false,
@@ -407,7 +407,7 @@
     "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-10-31T18:39:28Z",
+    "pushed": "2026-11-01T22:01:49Z",
     "size": 902,
     "stars": 8
    },
@@ -2606,7 +2606,7 @@
     "lang": "Perl",
     "pushed": "2026-09-23T13:40:30Z",
     "size": 1800,
-    "stars": 56
+    "stars": 57
    },
    "shots": [
     "https://i.imgur.com/MDOLCgw.png",
@@ -3313,10 +3313,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T15:50:58Z",
+    "date": "2026-11-01T17:53:09Z",
     "pre": false,
-    "tag": "v0.1.32",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.32"
+    "tag": "v0.1.33",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.33"
    },
    "repo": {
     "archived": false,
@@ -3324,8 +3324,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-10-31T16:29:19Z",
-    "size": 86758,
+    "pushed": "2026-11-01T17:53:09Z",
+    "size": 89778,
     "stars": 35
    },
    "shots": [
@@ -4482,10 +4482,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T01:11:58Z",
+    "date": "2026-11-01T20:27:11Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/kactusken/Fire-Pro-Wrestling-D-English/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/kactusken/Fire-Pro-Wrestling-D-English/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -4493,8 +4493,8 @@
     "desc": "English Translation for Fire Pro Wrestling D (Dreamcast)",
     "full": "kactusken/Fire-Pro-Wrestling-D-English",
     "lang": "Python",
-    "pushed": "2026-10-31T13:00:16Z",
-    "size": 10337,
+    "pushed": "2026-11-01T20:21:25Z",
+    "size": 10365,
     "stars": 1
    },
    "shots": []
@@ -5518,9 +5518,9 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-01T13:37:56Z",
-    "size": 88504,
-    "stars": 98
+    "pushed": "2026-11-01T22:06:54Z",
+    "size": 88535,
+    "stars": 99
    },
    "shots": [
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
@@ -5723,8 +5723,8 @@
     "full": "megaboi2005/slime-morimori-english",
     "lang": "Python",
     "pushed": "2026-11-01T15:53:11Z",
-    "size": 214,
-    "stars": 0
+    "size": 226,
+    "stars": 1
    },
    "shots": []
   },
@@ -6195,6 +6195,33 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:06:11Z",
     "size": 430,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/gaiamaster-kamigami-no-board-game-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-01T10:05:42Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/gaiamaster-kamigami-no-board-game-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-29T20:00:59Z",
+    "desc": "English fan translation of gaiamaster-kamigami-no-board-game-en (PSX)",
+    "full": "minhnhattonthat/gaiamaster-kamigami-no-board-game-en",
+    "lang": "Python",
+    "pushed": "2026-11-01T10:07:06Z",
+    "size": 1994,
     "stars": 0
    },
    "shots": []
@@ -6799,7 +6826,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T06:41:34Z",
     "size": 614,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -7194,7 +7221,7 @@
     "desc": "English translation patch for the 1994 release of Popful Mail on the Super Famicom",
     "full": "Netrunner12/Popful-Mail-SFC-English-Translation",
     "lang": "Python",
-    "pushed": "2026-11-01T02:36:17Z",
+    "pushed": "2026-11-01T21:52:59Z",
     "size": 932,
     "stars": 3
    },
@@ -7874,8 +7901,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-01T15:41:50Z",
-    "size": 101864,
+    "pushed": "2026-11-01T21:15:31Z",
+    "size": 101900,
     "stars": 152
    },
    "shots": [
@@ -8034,16 +8061,18 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "subs": true
+     }
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T12:17:27Z",
-    "pre": true,
-    "tag": "v0.9-beta",
-    "url": "https://github.com/rowdorfin/RowdyTranslation/releases/tag/v0.9-beta"
+    "date": "2026-11-01T17:12:20Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/rowdorfin/RowdyTranslation/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
@@ -8051,16 +8080,17 @@
     "desc": "Sword Art Online: Infinity Moment (PSP) English fan translation — patcher only. Fan Translation Project by Rowdorf.",
     "full": "rowdorfin/RowdyTranslation",
     "lang": null,
-    "pushed": "2026-10-26T22:33:22Z",
-    "size": 1514,
-    "stars": 3
+    "pushed": "2026-11-01T20:06:17Z",
+    "size": 1537,
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/title-screen.jpg",
+    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/dialogue.jpg",
+    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/battle.jpg",
     "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/battle2.jpg",
-    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/field.jpg",
     "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/main-menu.jpg",
-    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/battle.jpg"
+    "https://raw.githubusercontent.com/rowdorfin/RowdyTranslation/HEAD/images/field.jpg"
    ]
   },
   "rpierucci/namco-museum-encore-ps1-translation-patch": {
@@ -8230,8 +8260,8 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-10-30T21:30:29Z",
-    "size": 3390,
+    "pushed": "2026-11-01T21:56:56Z",
+    "size": 3437,
     "stars": 8
    },
    "shots": []
@@ -8818,7 +8848,7 @@
     "lang": "C++",
     "pushed": "2026-11-01T03:12:42Z",
     "size": 1134,
-    "stars": 153
+    "stars": 162
    },
    "shots": []
   },
@@ -9054,8 +9084,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-11-01T12:26:06Z",
-    "size": 5378,
+    "pushed": "2026-11-01T16:14:30Z",
+    "size": 6362,
     "stars": 2
    },
    "shots": []
