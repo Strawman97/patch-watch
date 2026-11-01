@@ -1521,6 +1521,11 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "checked": "2026-11-01T16:08:33Z",
+   "iv": 1,
+   "title": "Sonic Gems Collection"
+  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1535,16 +1540,6 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
-  },
-  "link:https://archive.org/details/air-english-patch-psp": {
-   "checked": "2026-11-01T06:25:29Z",
-   "img": "https://t.vndb.org/cv/04/103904.jpg",
-   "iv": 1,
-   "match": 1.0,
-   "name": "AIR",
-   "sexual": 0,
-   "title": "AIR",
-   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1726,6 +1721,11 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
+  "link:https://archive.org/details/bulk-slash-english-patch": {
+   "checked": "2026-11-01T16:08:33Z",
+   "iv": 1,
+   "title": "Bulk Slash"
+  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -1840,11 +1840,6 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
-  },
-  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
-   "checked": "2026-11-01T06:25:29Z",
-   "iv": 1,
-   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2461,11 +2456,6 @@
    "iv": 1,
    "title": "Samurai Warriors: State of War"
   },
-  "link:https://archive.org/details/sengokubasara3utageenglish": {
-   "checked": "2026-11-01T06:25:29Z",
-   "iv": 1,
-   "title": "Sengoku BASARA 3 Utage —"
-  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -2570,11 +2560,6 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
-  },
-  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
-   "checked": "2026-11-01T06:25:29Z",
-   "iv": 1,
-   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -10467,6 +10452,11 @@
    "iv": 1,
    "title": "Gachasute! Dino Device 2: Dragon"
   },
+  "minhnhattonthat/gaiamaster-kamigami-no-board-game-en": {
+   "checked": "2026-11-01T16:08:33Z",
+   "iv": 1,
+   "title": "Gaiamaster-Kamigami-No-Board-Game-En"
+  },
   "minhnhattonthat/ganbare-daiku-no-gen-san-en": {
    "checked": "2026-10-26T13:19:03Z",
    "iv": 1,
@@ -10993,6 +10983,6 @@
    "title": "Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!!"
   }
  },
- "generated": "2026-11-01T06:25:29Z",
+ "generated": "2026-11-01T16:08:33Z",
  "version": 1
 }

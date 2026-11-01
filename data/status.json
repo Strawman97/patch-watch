@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-01T06:25:29Z",
+ "generated": "2026-11-01T16:08:33Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1552,7 +1552,7 @@
     "full": "brianblakely/slapstick-english-translation",
     "lang": "JavaScript",
     "pushed": "2026-11-01T06:08:17Z",
-    "size": 35538,
+    "size": 35539,
     "stars": 0
    },
    "shots": []
@@ -2125,10 +2125,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T17:46:56Z",
+    "date": "2026-11-01T15:10:03Z",
     "pre": true,
-    "tag": "v0.9.2",
-    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.2"
+    "tag": "v0.9.3",
+    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.3"
    },
    "repo": {
     "archived": false,
@@ -2136,8 +2136,8 @@
     "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
     "full": "damon-daemon/oda-nobunaga-den-english",
     "lang": "Python",
-    "pushed": "2026-10-31T17:46:56Z",
-    "size": 1054,
+    "pushed": "2026-11-01T15:10:02Z",
+    "size": 1114,
     "stars": 2
    },
    "shots": [
@@ -3489,10 +3489,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-08-20T03:13:46Z",
+    "date": "2026-11-01T13:02:04Z",
     "pre": false,
-    "tag": "v1.0.1",
-    "url": "https://github.com/ExxistanceDC/Power-Drift-English-Translation/releases/tag/v1.0.1"
+    "tag": "v1.0.2",
+    "url": "https://github.com/ExxistanceDC/Power-Drift-English-Translation/releases/tag/v1.0.2"
    },
    "repo": {
     "archived": false,
@@ -3500,8 +3500,8 @@
     "desc": "",
     "full": "ExxistanceDC/Power-Drift-English-Translation",
     "lang": null,
-    "pushed": "2026-08-20T03:17:41Z",
-    "size": 28,
+    "pushed": "2026-11-01T13:02:04Z",
+    "size": 31,
     "stars": 4
    },
    "shots": [
@@ -4312,10 +4312,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T04:38:59Z",
+    "date": "2026-11-01T12:54:35Z",
     "pre": false,
-    "tag": "v0.92.1",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v0.92.1"
+    "tag": "v1.0",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
@@ -4323,8 +4323,8 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-10-27T04:37:47Z",
-    "size": 441,
+    "pushed": "2026-11-01T12:54:09Z",
+    "size": 454,
     "stars": 1
    },
    "shots": [
@@ -4648,7 +4648,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T02:45:59Z",
     "size": 12293,
-    "stars": 6
+    "stars": 8
    },
    "shots": []
   },
@@ -5493,7 +5493,7 @@
    ]
   },
   "liliambean/s3unlocked": {
-   "noRelease": true,
+   "assetOs": {},
    "readme": {
     "patch": {
      "ex": {
@@ -5506,14 +5506,20 @@
     "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-11-01T13:32:29Z",
+    "pre": false,
+    "tag": "demo",
+    "url": "https://github.com/liliambean/s3unlocked/releases/tag/demo"
+   },
    "repo": {
     "archived": false,
     "created": "2018-02-02T15:22:03Z",
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-10-31T10:10:08Z",
-    "size": 89708,
+    "pushed": "2026-11-01T13:37:56Z",
+    "size": 88504,
     "stars": 98
    },
    "shots": [
@@ -5692,6 +5698,33 @@
     "pushed": "2026-10-30T04:57:23Z",
     "size": 9942,
     "stars": 49
+   },
+   "shots": []
+  },
+  "megaboi2005/slime-morimori-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-01T15:53:12Z",
+    "pre": false,
+    "tag": "v0.2",
+    "url": "https://github.com/megaboi2005/slime-morimori-english/releases/tag/v0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-01T04:20:00Z",
+    "desc": "English fan translation patch for Slime MoriMori Dragon Quest (GBA)",
+    "full": "megaboi2005/slime-morimori-english",
+    "lang": "Python",
+    "pushed": "2026-11-01T15:53:11Z",
+    "size": 214,
+    "stars": 0
    },
    "shots": []
   },
@@ -6039,10 +6072,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T20:35:07Z",
+    "date": "2026-11-01T06:51:02Z",
     "pre": false,
-    "tag": "v1.3",
-    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.3"
+    "tag": "v1.4",
+    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.4"
    },
    "repo": {
     "archived": false,
@@ -6050,8 +6083,8 @@
     "desc": "English fan translation of Dual Orb: Seirei Tama Densetsu (SNES)",
     "full": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
     "lang": "Python",
-    "pushed": "2026-10-31T20:35:07Z",
-    "size": 1118,
+    "pushed": "2026-11-01T06:51:02Z",
+    "size": 1157,
     "stars": 0
    },
    "shots": []
@@ -6469,6 +6502,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-01T03:12:50Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T12:33:58Z",
+    "desc": "English fan translation of MÄR Heaven: Knockin' on Heaven's Door (GBA)",
+    "full": "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en",
+    "lang": "Python",
+    "pushed": "2026-11-01T06:50:44Z",
+    "size": 1525,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en": {
    "assetOs": {},
    "readme": {
@@ -6710,6 +6772,33 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:05:05Z",
     "size": 1395,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-01T06:41:35Z",
+    "pre": false,
+    "tag": "v1.0.1",
+    "url": "https://github.com/minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en/releases/tag/v1.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T18:00:22Z",
+    "desc": "English fan translation of Shin Megami Tensei: Devil Children - Puzzle de Call! (GBA)",
+    "full": "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en",
+    "lang": "Python",
+    "pushed": "2026-11-01T06:41:34Z",
+    "size": 614,
     "stars": 0
    },
    "shots": []
@@ -7785,8 +7874,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-10-31T16:09:13Z",
-    "size": 101859,
+    "pushed": "2026-11-01T15:41:50Z",
+    "size": 101864,
     "stars": 152
    },
    "shots": [
@@ -7830,10 +7919,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T08:03:21Z",
+    "date": "2026-11-01T10:35:13Z",
     "pre": true,
-    "tag": "v0.3",
-    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.3"
+    "tag": "v0.4",
+    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.4"
    },
    "repo": {
     "archived": false,
@@ -7841,8 +7930,8 @@
     "desc": "English Translation Project for PS3 ver ToHeart2 DX PLUS (AI assisted)",
     "full": "rikimtasu/th2dxp_en",
     "lang": "Python",
-    "pushed": "2026-10-31T08:03:21Z",
-    "size": 52570,
+    "pushed": "2026-11-01T14:53:42Z",
+    "size": 52886,
     "stars": 0
    },
    "shots": []
@@ -8729,7 +8818,7 @@
     "lang": "C++",
     "pushed": "2026-11-01T03:12:42Z",
     "size": 1134,
-    "stars": 141
+    "stars": 153
    },
    "shots": []
   },
@@ -8965,8 +9054,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-10-31T11:19:59Z",
-    "size": 4732,
+    "pushed": "2026-11-01T12:26:06Z",
+    "size": 5378,
     "stars": 2
    },
    "shots": []
