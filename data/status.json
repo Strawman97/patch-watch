@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-01T00:13:17Z",
+ "generated": "2026-11-01T06:25:29Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -291,6 +291,38 @@
    },
    "shots": []
   },
+  "akoi89/prosecutors-path": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-31T21:12:32Z",
+    "pre": false,
+    "tag": "v1.11.4",
+    "url": "https://github.com/Akoi89/prosecutors-path/releases/tag/v1.11.4"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-21T06:28:29Z",
+    "desc": "Play Gyakuten Kenji 2 on the Nintendo DS with Capcom's official English localization: script, title logo, episode titles, Logic keyword cards and voice clips. Tools only, no game data.",
+    "full": "Akoi89/prosecutors-path",
+    "lang": "Python",
+    "pushed": "2026-10-31T23:48:15Z",
+    "size": 1935,
+    "stars": 3
+   },
+   "shots": []
+  },
   "akoi89/puyopuyotetris-3ds-english-patch": {
    "assetOs": {},
    "readme": {
@@ -511,6 +543,33 @@
     "lang": null,
     "pushed": "2026-10-23T06:59:36Z",
     "size": 19,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "ashnagenarnesfugen/tokyo-ghoul-jail-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-31T20:30:51Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/AshnageNarnesfugen/tokyo-ghoul-jail-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T20:30:30Z",
+    "desc": "English fan translation patch for Tokyo Ghoul: Jail (PS Vita, PCSG00615)",
+    "full": "AshnageNarnesfugen/tokyo-ghoul-jail-english",
+    "lang": "Batchfile",
+    "pushed": "2026-10-31T20:30:51Z",
+    "size": 2323,
     "stars": 0
    },
    "shots": []
@@ -864,8 +923,8 @@
     "desc": "An English patch for the Koei game Enigma on the PSX",
     "full": "BeanutROM/PSX-Enigma-English-Patch",
     "lang": null,
-    "pushed": "2026-10-28T05:42:00Z",
-    "size": 0,
+    "pushed": "2026-11-01T02:10:27Z",
+    "size": 12564,
     "stars": 0
    },
    "shots": []
@@ -1481,10 +1540,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-30T02:04:19Z",
+    "date": "2026-11-01T06:08:17Z",
     "pre": false,
-    "tag": "v0.6",
-    "url": "https://github.com/brianblakely/slapstick-english-translation/releases/tag/v0.6"
+    "tag": "v0.8",
+    "url": "https://github.com/brianblakely/slapstick-english-translation/releases/tag/v0.8"
    },
    "repo": {
     "archived": false,
@@ -1492,8 +1551,8 @@
     "desc": "An English translation of the Super Famicom title \"Slapstick\"",
     "full": "brianblakely/slapstick-english-translation",
     "lang": "JavaScript",
-    "pushed": "2026-10-30T02:04:18Z",
-    "size": 34944,
+    "pushed": "2026-11-01T06:08:17Z",
+    "size": 35538,
     "stars": 0
    },
    "shots": []
@@ -1647,6 +1706,36 @@
     "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/14_backlog.png",
     "https://raw.githubusercontent.com/camd11/srw-og-gaiden-en/HEAD/screenshots/01_title.png"
    ]
+  },
+  "canadax21/eltale-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gameplay": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-10-30T01:09:55Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/CanadaX21/Eltale-English/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-30T00:57:54Z",
+    "desc": "English translation patch for Eltale Monsters (the Japanese Quest 64)",
+    "full": "CanadaX21/Eltale-English",
+    "lang": null,
+    "pushed": "2026-10-31T21:15:35Z",
+    "size": 19,
+    "stars": 0
+   },
+   "shots": []
   },
   "chaputranslations/ningyonorakuinenglishpatch": {
    "noRelease": true,
@@ -2298,7 +2387,7 @@
     "lang": "Perl",
     "pushed": "2026-05-08T11:35:05Z",
     "size": 3177,
-    "stars": 79
+    "stars": 80
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
@@ -2517,7 +2606,7 @@
     "lang": "Perl",
     "pushed": "2026-09-23T13:40:30Z",
     "size": 1800,
-    "stars": 55
+    "stars": 56
    },
    "shots": [
     "https://i.imgur.com/MDOLCgw.png",
@@ -3486,7 +3575,7 @@
     "lang": null,
     "pushed": "2026-09-12T18:23:25Z",
     "size": 727,
-    "stars": 153
+    "stars": 154
    },
    "shots": [
     "https://github.com/user-attachments/assets/9fd1ba5d-f831-4622-a516-c68865e4438b",
@@ -3940,8 +4029,8 @@
     "desc": "Fan English translation patch for Langrisser III (Sega Saturn, Japan). Built from the JP ISO, Work in progress.",
     "full": "hexerkat/langrisser3-english",
     "lang": "Python",
-    "pushed": "2026-10-27T00:47:46Z",
-    "size": 5532,
+    "pushed": "2026-11-01T03:40:20Z",
+    "size": 5563,
     "stars": 9
    },
    "shots": []
@@ -4546,10 +4635,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-17T03:02:34Z",
+    "date": "2026-11-01T03:21:35Z",
     "pre": false,
-    "tag": "v0.1",
-    "url": "https://github.com/kactusken/King-of-Colosseum-II-English/releases/tag/v0.1"
+    "tag": "v0.2",
+    "url": "https://github.com/kactusken/King-of-Colosseum-II-English/releases/tag/v0.2"
    },
    "repo": {
     "archived": false,
@@ -4557,8 +4646,8 @@
     "desc": "English translation for King of Colosseum II for PS2",
     "full": "kactusken/King-of-Colosseum-II-English",
     "lang": "Python",
-    "pushed": "2026-10-30T11:13:42Z",
-    "size": 12279,
+    "pushed": "2026-11-01T02:45:59Z",
+    "size": 12293,
     "stars": 6
    },
    "shots": []
@@ -5239,7 +5328,7 @@
     "lang": "Python",
     "pushed": "2025-04-22T15:53:47Z",
     "size": 71902,
-    "stars": 94
+    "stars": 95
    },
    "shots": [
     "https://raw.githubusercontent.com/lifebottle/Tales-of-Innocence-R/HEAD/tools/assets/toir.png",
@@ -5276,7 +5365,7 @@
     "lang": null,
     "pushed": "2026-04-26T21:31:20Z",
     "size": 58,
-    "stars": 18
+    "stars": 19
    },
    "shots": [
     "https://user-images.githubusercontent.com/6155506/196266159-02124af6-98fa-457f-8c82-2575ba78bf1e.png",
@@ -7005,10 +7094,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T22:04:35Z",
+    "date": "2026-11-01T02:36:17Z",
     "pre": false,
-    "tag": "v1.2",
-    "url": "https://github.com/Netrunner12/Popful-Mail-SFC-English-Translation/releases/tag/v1.2"
+    "tag": "v1.2.1",
+    "url": "https://github.com/Netrunner12/Popful-Mail-SFC-English-Translation/releases/tag/v1.2.1"
    },
    "repo": {
     "archived": false,
@@ -7016,8 +7105,8 @@
     "desc": "English translation patch for the 1994 release of Popful Mail on the Super Famicom",
     "full": "Netrunner12/Popful-Mail-SFC-English-Translation",
     "lang": "Python",
-    "pushed": "2026-10-31T22:04:35Z",
-    "size": 905,
+    "pushed": "2026-11-01T02:36:17Z",
+    "size": 932,
     "stars": 3
    },
    "shots": [
@@ -7922,8 +8011,8 @@
     "desc": "English translation patch for Wizardry: Dimguil (PS1, SLPS-02691 Rev 1)",
     "full": "satelliteoflove/dimguil-english",
     "lang": "Python",
-    "pushed": "2026-10-29T04:05:46Z",
-    "size": 10960,
+    "pushed": "2026-11-01T02:07:00Z",
+    "size": 11051,
     "stars": 0
    },
    "shots": [
@@ -8627,10 +8716,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T08:28:25Z",
+    "date": "2026-11-01T02:39:25Z",
     "pre": false,
-    "tag": "v0.3.1",
-    "url": "https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.3.1"
+    "tag": "v0.4.0",
+    "url": "https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.4.0"
    },
    "repo": {
     "archived": false,
@@ -8638,9 +8727,9 @@
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
     "lang": "C++",
-    "pushed": "2026-10-31T23:08:20Z",
-    "size": 847,
-    "stars": 131
+    "pushed": "2026-11-01T03:12:42Z",
+    "size": 1134,
+    "stars": 141
    },
    "shots": []
   },
@@ -8878,7 +8967,7 @@
     "lang": "Python",
     "pushed": "2026-10-31T11:19:59Z",
     "size": 4732,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   }

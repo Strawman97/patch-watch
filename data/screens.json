@@ -13020,6 +13020,20 @@
    ],
    "tv": 3
   },
+  "mar heaven knockin on heavens door|24": {
+   "checked": "2026-11-01T06:25:29Z",
+   "cover": "cobcrv",
+   "id": 49660,
+   "match": 1.0,
+   "name": "Mär Heaven: Knockin' on Heaven's Door",
+   "shots": [
+    "sc11grj",
+    "sc11grk",
+    "sc11grl",
+    "sc11grm"
+   ],
+   "tv": 3
+  },
   "marchen maze|86": {
    "checked": "2026-10-23T17:17:32Z",
    "cover": "co5w8o",
@@ -18570,6 +18584,15 @@
    ],
    "tv": 3
   },
+  "shin megami tensei devil children|24": {
+   "anyPlat": true,
+   "checked": "2026-11-01T06:25:29Z",
+   "id": 413279,
+   "match": 1.0,
+   "name": "Shin Megami Tensei: Devil Children",
+   "shots": [],
+   "tv": 3
+  },
   "shin megami tensei digital devil saga 2|8": {
    "checked": "2026-10-24T16:05:02Z",
    "cover": "co4psm",
@@ -19160,6 +19183,11 @@
   },
   "slime morimori dragon quest 3 taikaizoku to shippo dan|37": {
    "checked": "2026-10-25T05:10:35Z",
+   "shots": [],
+   "tv": 3
+  },
+  "slime morimori dragon quest|24": {
+   "checked": "2026-11-01T06:25:29Z",
    "shots": [],
    "tv": 3
   },
@@ -24308,7 +24336,7 @@
    "tv": 3
   }
  },
- "generated": "2026-11-01T00:13:17Z",
+ "generated": "2026-11-01T06:25:29Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -24592,10 +24620,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -24631,7 +24659,6 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
-  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -24654,6 +24681,7 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -24772,6 +24800,7 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
@@ -24792,6 +24821,7 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",
@@ -26253,6 +26283,7 @@
   "maxim-zhao/mappy-gg-translation": "mappy|35",
   "medabots/medarot1": "medarot kuwagata version|33",
   "medabots/medarot3": "medarot 3 kabuto version|22",
+  "megaboi2005/slime-morimori-english": "slime morimori dragon quest|24",
   "megastylerc/idolmaster-dearly-stars-english": "idolmaster dearly stars|20",
   "mgdays/kisekko-gurumi-eng-patch-tools": "kisekko gurumi chesty to nuigurumi tachi no mahou no bouken|24",
   "mholzinger/snatcher-segacd-to-saturn-eng": "snatcher|32",
@@ -26281,6 +26312,7 @@
   "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": "hanjuku hero aa sekai yo hanjuku nare|19",
   "minhnhattonthat/kabuki-rocks": "kabuki rocks|19",
   "minhnhattonthat/kidou-senshi-gundam-seed-destiny": "mobile suit gundam seed destiny|24",
+  "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en": "mar heaven knockin on heavens door|24",
   "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en": "mermaid melody pichi pichi pitch|24",
   "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en": "mermaid melody pichi pichi pitch pichi pichi party|24",
   "minhnhattonthat/momotarou-densetsu-en": "momotarou densetsu en|7",
@@ -26290,6 +26322,7 @@
   "minhnhattonthat/rokudenashi-blues-en": "rokudenashi blues taiketsu tokyo shitennou|19",
   "minhnhattonthat/ruin-arm-en": "ruin arm|19",
   "minhnhattonthat/seijuu-maden-beasts-blades-en": "seijuu maden beasts and blades|19",
+  "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en": "shin megami tensei devil children|24",
   "minhnhattonthat/smt-devil-children-2-honoo-no-sho": "shin megami tensei devil children honoo no sho|24",
   "minhnhattonthat/solid-runner-en": "solid runner|19",
   "minhnhattonthat/sugoro-quest-dicenics-en": "sugoro quest dicenics|19",

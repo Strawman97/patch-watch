@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-01T00:13:17Z",
+ "generated": "2026-11-01T06:25:29Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -13305,6 +13305,45 @@
    "src": "GitHub"
   },
   {
+   "d": "English fan translation patch for Slime MoriMori Dragon Quest (GBA)",
+   "fa": "2026-11-01T06:25:29Z",
+   "g": "Slime MoriMori Dragon Quest",
+   "id": "megaboi2005/slime-morimori-english",
+   "k": "megaboi2005/slime-morimori-english",
+   "l": "https://github.com/megaboi2005/slime-morimori-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Shin Megami Tensei: Devil Children - Puzzle de Call! (GBA)",
+   "fa": "2026-11-01T06:25:29Z",
+   "g": "Shin Megami Tensei: Devil Children",
+   "id": "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en",
+   "k": "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en",
+   "l": "https://github.com/minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of MÄR Heaven: Knockin' on Heaven's Door (GBA)",
+   "fa": "2026-11-01T06:25:29Z",
+   "g": "MÄR Heaven: Knockin' on Heaven's Door",
+   "id": "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en",
+   "k": "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en",
+   "l": "https://github.com/minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -14934,27 +14973,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-11-01T00:13:17Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-10-31T19:22:36Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PS3",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
    "fa": "2026-11-01T00:13:17Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-11-01T06:25:29Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-01T06:25:29Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
