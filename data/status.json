@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-10-31T19:22:36Z",
+ "generated": "2026-11-01T00:13:17Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -376,7 +376,7 @@
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
     "pushed": "2026-10-31T18:39:28Z",
-    "size": 1410,
+    "size": 902,
     "stars": 8
    },
    "shots": []
@@ -656,7 +656,7 @@
     "lang": null,
     "pushed": "2026-10-31T00:08:49Z",
     "size": 0,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -782,7 +782,7 @@
     "lang": null,
     "pushed": "2026-10-31T04:28:36Z",
     "size": 8807,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -1450,6 +1450,27 @@
    },
    "shots": []
   },
+  "boredgamingph/toh-nds-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T15:07:48Z",
+    "desc": "English translation patch for Tales of Hearts DS (Anime Movie Edition, JP), based on the official Tales of Hearts R (Vita) script. Covers story, skits, NPCs, menus, items, artes and menu graphics. Made with AI assistance (Claude by Anthropic).",
+    "full": "BoredGamingPH/Toh-NDS-English-patch",
+    "lang": null,
+    "pushed": "2026-10-31T15:23:28Z",
+    "size": 15434,
+    "stars": 1
+   },
+   "shots": []
+  },
   "brianblakely/slapstick-english-translation": {
    "assetOs": {},
    "readme": {
@@ -1546,7 +1567,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-25T15:59:19Z",
     "size": 7712,
-    "stars": 64
+    "stars": 65
    },
    "shots": [
     "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/title%20screen%20screenshot.png",
@@ -3216,7 +3237,7 @@
     "lang": "Python",
     "pushed": "2026-10-31T16:29:19Z",
     "size": 86758,
-    "stars": 34
+    "stars": 35
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4567,7 +4588,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T12:13:14Z",
     "size": 389,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -4596,7 +4617,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T20:35:52Z",
     "size": 11125,
-    "stars": 5
+    "stars": 6
    },
    "shots": []
   },
@@ -5929,10 +5950,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-30T04:52:43Z",
+    "date": "2026-10-31T20:35:07Z",
     "pre": false,
-    "tag": "v1.2",
-    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.2"
+    "tag": "v1.3",
+    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.3"
    },
    "repo": {
     "archived": false,
@@ -5940,8 +5961,8 @@
     "desc": "English fan translation of Dual Orb: Seirei Tama Densetsu (SNES)",
     "full": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
     "lang": "Python",
-    "pushed": "2026-10-30T04:52:13Z",
-    "size": 1068,
+    "pushed": "2026-10-31T20:35:07Z",
+    "size": 1118,
     "stars": 0
    },
    "shots": []
@@ -6984,10 +7005,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-18T23:45:50Z",
+    "date": "2026-10-31T22:04:35Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/Netrunner12/Popful-Mail-SFC-English-Translation/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/Netrunner12/Popful-Mail-SFC-English-Translation/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -6995,8 +7016,8 @@
     "desc": "English translation patch for the 1994 release of Popful Mail on the Super Famicom",
     "full": "Netrunner12/Popful-Mail-SFC-English-Translation",
     "lang": "Python",
-    "pushed": "2026-10-20T21:32:16Z",
-    "size": 877,
+    "pushed": "2026-10-31T22:04:35Z",
+    "size": 905,
     "stars": 3
    },
    "shots": [
@@ -8608,8 +8629,8 @@
    "release": {
     "date": "2026-10-31T08:28:25Z",
     "pre": false,
-    "tag": "v3.0.1",
-    "url": "https://github.com/Vnnc1/gow-native-pc/releases/tag/v3.0.1"
+    "tag": "v0.3.1",
+    "url": "https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.3.1"
    },
    "repo": {
     "archived": false,
@@ -8617,9 +8638,9 @@
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
     "lang": "C++",
-    "pushed": "2026-10-31T08:23:40Z",
+    "pushed": "2026-10-31T23:08:20Z",
     "size": 847,
-    "stars": 125
+    "stars": 131
    },
    "shots": []
   },
@@ -8857,7 +8878,7 @@
     "lang": "Python",
     "pushed": "2026-10-31T11:19:59Z",
     "size": 4732,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   }

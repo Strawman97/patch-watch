@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-10-31T19:22:36Z",
+ "generated": "2026-11-01T00:13:17Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -13266,6 +13266,45 @@
    "src": "GitHub"
   },
   {
+   "d": "Play Gyakuten Kenji 2 on the Nintendo DS with Capcom's official English localization: script, title logo, episode titles, Logic keyword cards and voice clips. Tools only, no game data.",
+   "fa": "2026-11-01T00:13:17Z",
+   "g": "Prosecutors Path",
+   "id": "akoi89/prosecutors-path",
+   "k": "akoi89/prosecutors-path",
+   "l": "https://github.com/Akoi89/prosecutors-path",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for Eltale Monsters (the Japanese Quest 64)",
+   "fa": "2026-11-01T00:13:17Z",
+   "g": "Eltale Monsters",
+   "id": "canadax21/eltale-english",
+   "k": "canadax21/eltale-english",
+   "l": "https://github.com/CanadaX21/Eltale-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "N64",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation patch for Tokyo Ghoul: Jail (PS Vita, PCSG00615)",
+   "fa": "2026-11-01T00:13:17Z",
+   "g": "Tokyo Ghoul: Jail",
+   "id": "ashnagenarnesfugen/tokyo-ghoul-jail-english",
+   "k": "ashnagenarnesfugen/tokyo-ghoul-jail-english",
+   "l": "https://github.com/AshnageNarnesfugen/tokyo-ghoul-jail-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS Vita",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -14883,42 +14922,6 @@
    "src": "Credited on CDRomance"
   },
   {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-10-31T05:57:14Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS2",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-10-31T12:48:31Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-10-31T12:48:31Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
    "d": "Echo Delta english patch",
    "fa": "2026-10-31T19:22:36Z",
    "g": "Echo Delta",
@@ -14931,15 +14934,27 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-10-31T19:22:36Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-01T00:13:17Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
     "Human translation"
    ],
-   "p": "PS3",
+   "p": "Saturn",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-11-01T00:13:17Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
