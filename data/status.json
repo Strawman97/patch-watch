@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-01T22:11:50Z",
+ "generated": "2026-11-02T06:26:48Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-11-01T22:07:05Z",
-    "size": 35821,
+    "pushed": "2026-11-02T04:20:17Z",
+    "size": 36105,
     "stars": 15
    },
    "shots": [
@@ -408,8 +408,8 @@
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
     "pushed": "2026-11-01T22:01:49Z",
-    "size": 902,
-    "stars": 8
+    "size": 906,
+    "stars": 9
    },
    "shots": []
   },
@@ -783,22 +783,28 @@
    "shots": []
   },
   "beanutrom/psx-armed-fighter-english-patch": {
-   "noRelease": true,
+   "assetOs": {},
    "readme": {
-    "none": true,
     "patch": {
      "ex": {}
-    }
+    },
+    "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:02:47Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/BeanutROM/PSX-Armed-Fighter-English-Patch/releases/tag/v1.1"
+   },
    "repo": {
     "archived": false,
     "created": "2026-10-28T05:52:35Z",
     "desc": "An english patch for the PSX game Armed Fighter",
     "full": "BeanutROM/PSX-Armed-Fighter-English-Patch",
     "lang": null,
-    "pushed": "2026-10-28T05:52:37Z",
-    "size": 0,
+    "pushed": "2026-11-02T01:12:38Z",
+    "size": 6251,
     "stars": 0
    },
    "shots": []
@@ -1540,10 +1546,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-01T06:08:17Z",
+    "date": "2026-11-02T06:16:30Z",
     "pre": false,
-    "tag": "v0.8",
-    "url": "https://github.com/brianblakely/slapstick-english-translation/releases/tag/v0.8"
+    "tag": "v0.9",
+    "url": "https://github.com/brianblakely/slapstick-english-translation/releases/tag/v0.9"
    },
    "repo": {
     "archived": false,
@@ -1551,8 +1557,8 @@
     "desc": "An English translation of the Super Famicom title \"Slapstick\"",
     "full": "brianblakely/slapstick-english-translation",
     "lang": "JavaScript",
-    "pushed": "2026-11-01T06:08:17Z",
-    "size": 35539,
+    "pushed": "2026-11-02T06:16:30Z",
+    "size": 35701,
     "stars": 0
    },
    "shots": []
@@ -1597,7 +1603,7 @@
     "lang": "C",
     "pushed": "2026-10-24T14:53:11Z",
     "size": 921,
-    "stars": 15
+    "stars": 14
    },
    "shots": []
   },
@@ -7222,7 +7228,7 @@
     "full": "Netrunner12/Popful-Mail-SFC-English-Translation",
     "lang": "Python",
     "pushed": "2026-11-01T21:52:59Z",
-    "size": 932,
+    "size": 934,
     "stars": 3
    },
    "shots": [
@@ -7431,7 +7437,7 @@
     "desc": "Source to rebuild the Starfy GBA trilogy patches. An assembly of the original translators' work (Starfy Translation Team, SomeUselessTranslations, Dimedime, Luckylodeon98, RayCarrot, Normmatt); all credit to them. See README for full credits.",
     "full": "Pat227-spc/stafy-source",
     "lang": "Assembly",
-    "pushed": "2026-10-31T18:03:16Z",
+    "pushed": "2026-11-02T06:17:34Z",
     "size": 2449,
     "stars": 1
    },
@@ -7806,7 +7812,7 @@
     "lang": "Python",
     "pushed": "2026-10-18T01:02:09Z",
     "size": 3224,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -7903,7 +7909,7 @@
     "lang": "C",
     "pushed": "2026-11-01T21:15:31Z",
     "size": 101900,
-    "stars": 152
+    "stars": 153
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -8030,7 +8036,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T22:58:13Z",
     "size": 840,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/romh-acking/time-twist-fds-en/HEAD/1.png"
@@ -8260,8 +8266,8 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-11-01T21:56:56Z",
-    "size": 3437,
+    "pushed": "2026-11-01T22:13:17Z",
+    "size": 3440,
     "stars": 8
    },
    "shots": []
@@ -8577,10 +8583,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T13:36:12Z",
+    "date": "2026-11-01T23:51:18Z",
     "pre": false,
-    "tag": "v1.1.2",
-    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.1.2"
+    "tag": "v1.1.3",
+    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.1.3"
    },
    "repo": {
     "archived": false,
@@ -8588,8 +8594,8 @@
     "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
     "full": "struktured/trinea-dx",
     "lang": "Assembly",
-    "pushed": "2026-10-31T13:35:56Z",
-    "size": 2460,
+    "pushed": "2026-11-01T23:51:16Z",
+    "size": 2566,
     "stars": 1
    },
    "shots": [
@@ -8848,7 +8854,7 @@
     "lang": "C++",
     "pushed": "2026-11-01T03:12:42Z",
     "size": 1134,
-    "stars": 162
+    "stars": 167
    },
    "shots": []
   },
@@ -9084,8 +9090,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-11-01T16:14:30Z",
-    "size": 6362,
+    "pushed": "2026-11-02T04:16:17Z",
+    "size": 6794,
     "stars": 2
    },
    "shots": []

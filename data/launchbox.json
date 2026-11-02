@@ -1291,6 +1291,12 @@
    "region": "Europe",
    "url": "https://images.launchbox-app.com/ef4e2712-6155-467b-864a-c55205d18556.jpg"
   },
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "id": "7044",
+   "name": "Sonic Gems Collection",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/8920d704-e2de-4163-a4d6-d3597dbc05db.jpg"
+  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "id": "4422",
    "name": "Ace Combat Zero: The Belkan War",
@@ -1308,12 +1314,6 @@
    "name": "AeroWings",
    "region": "North America",
    "url": "https://images.launchbox-app.com/3ee6b5b4-bfcd-4fc6-aa7c-8621c58efb37.jpg"
-  },
-  "link:https://archive.org/details/air-english-patch-psp": {
-   "id": "166211",
-   "name": "Air",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/6a38612a-4371-403f-aeed-36c4bc5d81ec.jpg"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "id": "5870",
@@ -1525,6 +1525,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/67725e3f-0c3c-494f-9a1d-57ccbab26e83.jpg"
   },
+  "link:https://archive.org/details/bulk-slash-english-patch": {
+   "id": "23764",
+   "name": "Bulk Slash",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_a1cf6082-feb1-40dd-b444-922d9eb96a32.png"
+  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "id": "23380",
    "name": "Castle of Shikigami III",
@@ -1638,12 +1644,6 @@
    "name": "Doshin the Giant",
    "region": "Europe",
    "url": "https://images.launchbox-app.com/r2_e395b1c8-e697-45cc-8ade-2e0f396fc0c9.png"
-  },
-  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
-   "id": "7222",
-   "name": "Dragon Ball Z: Budokai",
-   "region": "North America",
-   "url": "https://images.launchbox-app.com/0cf4679d-281f-4e22-b3fe-943e6997febc.jpg"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "id": "20572",
@@ -2322,12 +2322,6 @@
    "name": "Samurai Warriors: State of War",
    "region": "North America",
    "url": "https://images.launchbox-app.com/9152da1a-ae96-4b74-826f-d15d9677438e.jpg"
-  },
-  "link:https://archive.org/details/sengokubasara3utageenglish": {
-   "id": "16496",
-   "name": "Sengoku Basara 3: Utage",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
   },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "id": "12407",
@@ -10513,6 +10507,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/2facd510-a562-4ea8-a6c2-42b8afa73a5a.png"
   },
+  "minhnhattonthat/emblem-of-gundam-en": {
+   "id": "181383",
+   "name": "Emblem of Gundam",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/b9d35fe6-7ee3-4dd3-b5d6-7488727e25e4.jpg"
+  },
   "minhnhattonthat/erementar-gerad": {
    "id": "30727",
    "name": "Erementar Gerad: Tozasareshi Uta",
@@ -10591,6 +10591,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/10d59cc3-fead-443b-b490-833a8e9d5c7b.jpg"
   },
+  "minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en": {
+   "id": "159821",
+   "name": "Kuro no Ken: Blade of the Darkness",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/b770e196-01a7-4149-9e47-ef6470572301.jpg"
+  },
   "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en": {
    "id": "178543",
    "name": "Mär Heaven: Knockin' on Heaven's Door",
@@ -10608,6 +10614,12 @@
    "name": "Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/e6e2b255-a5d0-483e-873d-b644c1a95cce.jpg"
+  },
+  "minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en": {
+   "id": "185860",
+   "name": "Momotarou Matsuri: Ishikawa Rokuemon no Maki",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/2b25006e-1346-44f6-8f19-43077ae8af2d.jpg"
   },
   "minhnhattonthat/monster-guardians-en": {
    "id": "173670",
@@ -10958,6 +10970,6 @@
    "url": "https://images.launchbox-app.com/0bcf3ccf-273d-4678-bf8c-424ca4239ddc.jpg"
   }
  },
- "generated": "2026-11-01T22:11:50Z",
+ "generated": "2026-11-02T06:26:48Z",
  "version": 1
 }
