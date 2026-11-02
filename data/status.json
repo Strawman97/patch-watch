@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-02T06:26:48Z",
+ "generated": "2026-11-02T19:37:10Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-11-02T04:20:17Z",
-    "size": 36105,
+    "pushed": "2026-11-02T18:34:58Z",
+    "size": 36112,
     "stars": 15
    },
    "shots": [
@@ -1558,7 +1558,7 @@
     "full": "brianblakely/slapstick-english-translation",
     "lang": "JavaScript",
     "pushed": "2026-11-02T06:16:30Z",
-    "size": 35701,
+    "size": 35702,
     "stars": 0
    },
    "shots": []
@@ -1761,7 +1761,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-30T15:11:10Z",
     "size": 52577,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -1922,7 +1922,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T22:24:55Z",
     "size": 1896,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/daikoukai-jidai-4-ds-english/HEAD/docs/screenshots/01_title_menu.png",
@@ -2131,10 +2131,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-01T15:10:03Z",
+    "date": "2026-11-02T14:19:48Z",
     "pre": true,
-    "tag": "v0.9.3",
-    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.3"
+    "tag": "v0.9.4",
+    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.4"
    },
    "repo": {
     "archived": false,
@@ -2142,8 +2142,8 @@
     "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
     "full": "damon-daemon/oda-nobunaga-den-english",
     "lang": "Python",
-    "pushed": "2026-11-01T15:10:02Z",
-    "size": 1114,
+    "pushed": "2026-11-02T14:23:01Z",
+    "size": 1121,
     "stars": 2
    },
    "shots": [
@@ -2978,7 +2978,7 @@
     "lang": null,
     "pushed": "2026-09-25T15:02:28Z",
     "size": 230,
-    "stars": 12
+    "stars": 13
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
@@ -3130,6 +3130,39 @@
    },
    "shots": []
   },
+  "dream-cypher/strahlocalization": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-01T23:17:53Z",
+    "pre": false,
+    "tag": "v0.14",
+    "url": "https://github.com/Dream-Cypher/STRAHLocalization/releases/tag/v0.14"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-06-10T05:56:10Z",
+    "desc": "English fan-localization patch for the Nintendo Switch visual novel \"Summer Time Rendering: Another Horizon\"",
+    "full": "Dream-Cypher/STRAHLocalization",
+    "lang": "Python",
+    "pushed": "2026-11-01T23:17:53Z",
+    "size": 32811,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Dream-Cypher/STRAHLocalization/HEAD/docs/screenshots/title-screen.png",
+    "https://raw.githubusercontent.com/Dream-Cypher/STRAHLocalization/HEAD/docs/screenshots/dialogue.png",
+    "https://raw.githubusercontent.com/Dream-Cypher/STRAHLocalization/HEAD/docs/screenshots/tips-screen.png",
+    "https://raw.githubusercontent.com/Dream-Cypher/STRAHLocalization/HEAD/docs/screenshots/tips-highlight.png"
+   ]
+  },
   "dukeblooders/sambadeamigo2000english": {
    "assetOs": {},
    "readme": {
@@ -3159,6 +3192,43 @@
     "http://img.youtube.com/vi/BrYIlFHXL88/0.jpg"
    ]
   },
+  "dyzz/srw64-recomp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true,
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T13:48:14Z",
+    "pre": false,
+    "tag": "mod-battle-voices-originals-ai-1.0.2",
+    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/mod-battle-voices-originals-ai-1.0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-12T15:20:11Z",
+    "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
+    "full": "dyzz/srw64-recomp",
+    "lang": "C++",
+    "pushed": "2026-11-02T13:48:14Z",
+    "size": 145388,
+    "stars": 38
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
+    "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/media/compare-original-en.webp",
+    "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/media/compare-hd-en.webp",
+    "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/media/auto-en.webp",
+    "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/media/history-en.webp",
+    "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/media/prebattle-en.webp"
+   ]
+  },
   "eadmaster/pcrown": {
    "assetOs": {},
    "readme": {
@@ -3182,7 +3252,7 @@
     "lang": "C++",
     "pushed": "2026-08-23T21:31:44Z",
     "size": 17680,
-    "stars": 247
+    "stars": 248
    },
    "shots": [
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo1.png",
@@ -4037,7 +4107,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T03:40:20Z",
     "size": 5563,
-    "stars": 9
+    "stars": 10
    },
    "shots": []
   },
@@ -4591,7 +4661,7 @@
     "lang": "Python",
     "pushed": "2026-10-28T01:41:39Z",
     "size": 2499,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -4881,10 +4951,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-19T20:23:46Z",
+    "date": "2026-11-02T17:14:05Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/KaKuna285/saki-zenkokuhen-plus-TL-ENG/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/KaKuna285/saki-zenkokuhen-plus-TL-ENG/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -4892,8 +4962,8 @@
     "desc": "Translation project of the Japanese PSVITA game Saki Zenkoku-hen PLUS",
     "full": "KaKuna285/saki-zenkokuhen-plus-TL-ENG",
     "lang": "Python",
-    "pushed": "2026-10-20T19:32:18Z",
-    "size": 444,
+    "pushed": "2026-11-02T17:13:46Z",
+    "size": 457,
     "stars": 0
    },
    "shots": []
@@ -4926,6 +4996,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 18
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5524,8 +5626,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-01T22:06:54Z",
-    "size": 88535,
+    "pushed": "2026-11-02T16:21:50Z",
+    "size": 89726,
     "stars": 99
    },
    "shots": [
@@ -5717,10 +5819,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-01T15:53:12Z",
+    "date": "2026-11-02T08:54:30Z",
     "pre": false,
-    "tag": "v0.2",
-    "url": "https://github.com/megaboi2005/slime-morimori-english/releases/tag/v0.2"
+    "tag": "v0.3",
+    "url": "https://github.com/megaboi2005/slime-morimori-english/releases/tag/v0.3"
    },
    "repo": {
     "archived": false,
@@ -5728,8 +5830,8 @@
     "desc": "English fan translation patch for Slime MoriMori Dragon Quest (GBA)",
     "full": "megaboi2005/slime-morimori-english",
     "lang": "Python",
-    "pushed": "2026-11-01T15:53:11Z",
-    "size": 226,
+    "pushed": "2026-11-02T08:54:29Z",
+    "size": 235,
     "stars": 1
    },
    "shots": []
@@ -6091,6 +6193,33 @@
     "lang": "Python",
     "pushed": "2026-11-01T06:51:02Z",
     "size": 1157,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/emblem-of-gundam-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-01T23:42:47Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/emblem-of-gundam-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-31T22:06:28Z",
+    "desc": "English fan translation of Emblem of Gundam (NDS)",
+    "full": "minhnhattonthat/emblem-of-gundam-en",
+    "lang": "Python",
+    "pushed": "2026-11-01T23:47:38Z",
+    "size": 4226,
     "stars": 0
    },
    "shots": []
@@ -6535,6 +6664,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T06:19:36Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-01T10:34:50Z",
+    "desc": "English fan translation of Kuro no Ken: Blade of the Darkness (PSX)",
+    "full": "minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en",
+    "lang": "Python",
+    "pushed": "2026-11-02T06:52:50Z",
+    "size": 2280,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en": {
    "assetOs": {},
    "readme": {
@@ -6641,6 +6799,33 @@
     "lang": "Python",
     "pushed": "2026-10-31T08:21:25Z",
     "size": 1880,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-01T22:20:00Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-30T13:00:37Z",
+    "desc": "English fan translation of Momotarou Matsuri: Ishikawa Rokuemon no Maki (PSX)",
+    "full": "minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en",
+    "lang": "Python",
+    "pushed": "2026-11-01T22:28:19Z",
+    "size": 11752,
     "stars": 0
    },
    "shots": []
@@ -7609,9 +7794,9 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-10-29T18:41:53Z",
-    "size": 5819,
-    "stars": 2
+    "pushed": "2026-11-02T16:45:40Z",
+    "size": 6131,
+    "stars": 3
    },
    "shots": []
   },
@@ -7812,7 +7997,7 @@
     "lang": "Python",
     "pushed": "2026-10-18T01:02:09Z",
     "size": 3224,
-    "stars": 7
+    "stars": 8
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -7909,7 +8094,7 @@
     "lang": "C",
     "pushed": "2026-11-01T21:15:31Z",
     "size": 101900,
-    "stars": 153
+    "stars": 154
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -7952,10 +8137,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-01T10:35:13Z",
+    "date": "2026-11-02T16:15:05Z",
     "pre": true,
-    "tag": "v0.4",
-    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.4"
+    "tag": "v0.5",
+    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.5"
    },
    "repo": {
     "archived": false,
@@ -7963,8 +8148,8 @@
     "desc": "English Translation Project for PS3 ver ToHeart2 DX PLUS (AI assisted)",
     "full": "rikimtasu/th2dxp_en",
     "lang": "Python",
-    "pushed": "2026-11-01T14:53:42Z",
-    "size": 52886,
+    "pushed": "2026-11-02T16:18:33Z",
+    "size": 53050,
     "stars": 0
    },
    "shots": []
@@ -7990,8 +8175,8 @@
     "desc": "English fan translation for Theatrythm Dragon Quest for 3DS",
     "full": "RockefellerA/TDQ-EN",
     "lang": null,
-    "pushed": "2026-10-31T01:21:46Z",
-    "size": 33,
+    "pushed": "2026-11-02T15:42:48Z",
+    "size": 36,
     "stars": 4
    },
    "shots": [
@@ -8854,7 +9039,7 @@
     "lang": "C++",
     "pushed": "2026-11-01T03:12:42Z",
     "size": 1134,
-    "stars": 167
+    "stars": 171
    },
    "shots": []
   },
@@ -8883,7 +9068,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T21:48:49Z",
     "size": 13940,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://img.youtube.com/vi/lB-wLC9MY5E/hqdefault.jpg",
@@ -9090,9 +9275,9 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-11-02T04:16:17Z",
-    "size": 6794,
-    "stars": 2
+    "pushed": "2026-11-02T18:07:40Z",
+    "size": 6844,
+    "stars": 3
    },
    "shots": []
   }
