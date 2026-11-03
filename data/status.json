@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-03T11:03:57Z",
+ "generated": "2026-11-03T19:38:40Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-11-03T05:42:24Z",
-    "size": 36145,
+    "pushed": "2026-11-03T16:50:48Z",
+    "size": 36147,
     "stars": 16
    },
    "shots": [
@@ -488,7 +488,7 @@
     "lang": "HTML",
     "pushed": "2026-10-10T19:15:59Z",
     "size": 7791,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -1909,11 +1909,11 @@
    "repo": {
     "archived": false,
     "created": "2026-10-09T20:48:05Z",
-    "desc": "Matching PS1 decompilation and English translation patch for Tokimeki Memorial. Try the review build: https://cosmicscribe64.github.io/tokimemo-ps1-decomp/",
+    "desc": "Matching PS1 decompilation and faithful English text and artwork patch for Tokimeki Memorial. Patch your disc: https://cosmicscribe64.github.io/tokimemo-ps1-decomp/",
     "full": "CosmicScribe64/tokimemo-ps1-decomp",
     "lang": "C",
-    "pushed": "2026-11-03T09:28:27Z",
-    "size": 98055,
+    "pushed": "2026-11-03T16:00:32Z",
+    "size": 100101,
     "stars": 5
    },
    "shots": []
@@ -3228,10 +3228,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-02T13:48:14Z",
-    "pre": false,
-    "tag": "mod-battle-voices-originals-ai-1.0.2",
-    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/mod-battle-voices-originals-ai-1.0.2"
+    "date": "2026-11-03T15:34:46Z",
+    "pre": true,
+    "tag": "ko-test-1",
+    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/ko-test-1"
    },
    "repo": {
     "archived": false,
@@ -3239,8 +3239,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-03T10:29:44Z",
-    "size": 146564,
+    "pushed": "2026-11-03T15:34:46Z",
+    "size": 151419,
     "stars": 39
    },
    "shots": [
@@ -3757,6 +3757,37 @@
     "https://raw.githubusercontent.com/ExxistanceDC/Willy-Wombat-English-Improvement-Patch/HEAD/Images/Willy Wombat (Japan)-251119-123716.png",
     "https://github.com/user-attachments/assets/1ebd2c95-0a24-4139-8288-239c2264d466"
    ]
+  },
+  "fiksr/eve-burst-error-r-vita-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-03T19:13:28Z",
+    "pre": false,
+    "tag": "v1.3",
+    "url": "https://github.com/fiksr/eve-burst-error-r-vita-english-patch/releases/tag/v1.3"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-03T10:47:02Z",
+    "desc": "Complete English translation patch for EVE burst error R on PlayStation Vita (PCSG00817) and Vita3K",
+    "full": "fiksr/eve-burst-error-r-vita-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-03T19:13:28Z",
+    "size": 11494,
+    "stars": 0
+   },
+   "shots": []
   },
   "flukeylukey1/nappletaleengpatchfix": {
    "assetOs": {},
@@ -4461,7 +4492,7 @@
     "lang": "Python",
     "pushed": "2026-10-18T04:47:02Z",
     "size": 5231,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/jonny-anime/tokimeki-memorial-2-english-patch/HEAD/translated_screenshots/Screenshot%202026-10-14%20215828.png"
@@ -4626,7 +4657,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T11:47:50Z",
     "size": 3776,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -4749,7 +4780,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T02:45:59Z",
     "size": 12293,
-    "stars": 8
+    "stars": 9
    },
    "shots": []
   },
@@ -5052,38 +5083,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-02T01:23:08Z",
-    "pre": false,
-    "tag": "0.8.10",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-02T01:23:08Z",
-    "size": 40859,
-    "stars": 19
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5682,8 +5681,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-03T01:55:13Z",
-    "size": 90911,
+    "pushed": "2026-11-03T13:39:03Z",
+    "size": 89726,
     "stars": 99
    },
    "shots": [
@@ -7077,6 +7076,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/seireiki-rayblade-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-03T06:20:33Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/seireiki-rayblade-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-02T09:50:24Z",
+    "desc": "English fan translation of Seireiki Rayblade (PSX)",
+    "full": "minhnhattonthat/seireiki-rayblade-en",
+    "lang": "Python",
+    "pushed": "2026-11-03T06:20:32Z",
+    "size": 24700,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en": {
    "assetOs": {},
    "readme": {
@@ -7870,8 +7896,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-03T03:04:19Z",
-    "size": 1572,
+    "pushed": "2026-11-03T18:50:02Z",
+    "size": 1789,
     "stars": 0
    },
    "shots": []
@@ -7887,10 +7913,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-28T16:21:26Z",
+    "date": "2026-11-03T16:58:27Z",
     "pre": false,
-    "tag": "v0.1.0",
-    "url": "https://github.com/princeendo/msh_vs_sf_saturn_en_translation/releases/tag/v0.1.0"
+    "tag": "v0.2.0",
+    "url": "https://github.com/princeendo/msh_vs_sf_saturn_en_translation/releases/tag/v0.2.0"
    },
    "repo": {
     "archived": false,
@@ -7898,8 +7924,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-03T04:09:34Z",
-    "size": 7228,
+    "pushed": "2026-11-03T16:59:10Z",
+    "size": 7424,
     "stars": 3
    },
    "shots": []
@@ -8116,10 +8142,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-14T03:59:22Z",
+    "date": "2026-11-03T15:03:24Z",
     "pre": false,
-    "tag": "v1.0.2",
-    "url": "https://github.com/Redeted/megami-ibunroku-persona-ps1-translation/releases/tag/v1.0.2"
+    "tag": "v1.0.3",
+    "url": "https://github.com/Redeted/megami-ibunroku-persona-ps1-translation/releases/tag/v1.0.3"
    },
    "repo": {
     "archived": false,
@@ -8127,8 +8153,8 @@
     "desc": "English translation of Megami Ibunroku Persona (PS1, SLPS-00500) with an optional 60 fps / QoL patch",
     "full": "Redeted/megami-ibunroku-persona-ps1-translation",
     "lang": "Python",
-    "pushed": "2026-10-18T01:02:09Z",
-    "size": 3224,
+    "pushed": "2026-11-03T15:03:07Z",
+    "size": 3231,
     "stars": 8
    },
    "shots": [
@@ -8166,7 +8192,7 @@
     "lang": "Python",
     "pushed": "2026-11-03T07:24:27Z",
     "size": 4878,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -9201,7 +9227,7 @@
     "lang": "C++",
     "pushed": "2026-11-03T00:10:26Z",
     "size": 1595,
-    "stars": 178
+    "stars": 186
    },
    "shots": []
   },
@@ -9464,8 +9490,8 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-11-02T18:07:40Z",
-    "size": 6844,
+    "pushed": "2026-11-03T16:55:40Z",
+    "size": 7330,
     "stars": 4
    },
    "shots": []
