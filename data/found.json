@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-02T19:37:10Z",
+ "generated": "2026-11-03T02:57:39Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -13422,6 +13422,19 @@
    "src": "GitHub"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-11-02T06:26:48Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "d": "Attempt at Translating Cyberbots on the Sega Saturn to English",
    "fa": "2026-11-02T19:37:10Z",
    "g": "Cyberbots",
@@ -13471,6 +13484,58 @@
     "Human translation"
    ],
    "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "Matching PS1 decompilation and English translation patch for Tokimeki Memorial. Try the review build: https://cosmicscribe64.github.io/tokimemo-ps1-decomp/",
+   "fa": "2026-11-03T02:57:39Z",
+   "g": "Matching PS1 decompilation and",
+   "id": "cosmicscribe64/tokimemo-ps1-decomp",
+   "k": "cosmicscribe64/tokimemo-ps1-decomp",
+   "l": "https://github.com/CosmicScribe64/tokimemo-ps1-decomp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Bakumatsu Rock: Ultra Soul (PSP)",
+   "fa": "2026-11-03T02:57:39Z",
+   "g": "Bakumatsu Rock: Ultra Soul",
+   "id": "minhnhattonthat/bakumatsu-rock-ultra-soul-en",
+   "k": "minhnhattonthat/bakumatsu-rock-ultra-soul-en",
+   "l": "https://github.com/minhnhattonthat/bakumatsu-rock-ultra-soul-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation patch for Hajime no Ippo: Victorious Spirits (PSP)",
+   "fa": "2026-11-03T02:57:39Z",
+   "g": "Hajime no Ippo: Victorious Spirits",
+   "id": "vortex-lu/ippo-victorious-spirits-english-",
+   "k": "vortex-lu/ippo-victorious-spirits-english-",
+   "l": "https://github.com/Vortex-Lu/ippo-victorious-spirits-english-",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "English UI for Japanese-region 3DS consoles via Luma3DS LayeredFS — translates the HOME Menu and System Settings without a region change. Build tools only; generates the patched files from your own console’s dumps.",
+   "fa": "2026-11-03T02:57:39Z",
+   "g": "Luma Jpn",
+   "id": "imphuochuynh/luma-jpn-english",
+   "k": "imphuochuynh/luma-jpn-english",
+   "l": "https://github.com/imphuochuynh/luma-jpn-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
    "src": "GitHub"
   },
   {
@@ -15103,51 +15168,27 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-01T22:11:50Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS2",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-02T06:26:48Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-03T02:57:39Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-02T06:26:48Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-11-03T02:57:39Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-02T19:37:10Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {

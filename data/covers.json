@@ -7144,6 +7144,14 @@
    "title": "Final Fantasy III",
    "url": "https://cdn2.steamgriddb.com/grid/16e9189c287cb1550a17f4ad8ba043ea.png"
   },
+  "vortex-lu/ippo-victorious-spirits-english-": {
+   "added": "2026-11-03T02:57:39Z",
+   "match": 0.88,
+   "name": "Hajime no Ippo Portable: Victorious Spirits",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/2fb2ef346bfdb6aac2b4eb312fd1cfbd.png",
+   "title": "Hajime no Ippo: Victorious Spirits",
+   "url": "https://cdn2.steamgriddb.com/grid/2fb2ef346bfdb6aac2b4eb312fd1cfbd.png"
+  },
   "waifoof/elan-plus-english-patch": {
    "added": "2026-10-22T21:45:23Z",
    "match": 1.0,
@@ -7170,7 +7178,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-11-02T19:37:10Z",
+ "generated": "2026-11-03T02:57:39Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -7255,6 +7263,7 @@
   "closedsockets/tricolore-crise-english-patch": "2026-10-22T09:57:51Z",
   "consolesplayingconsoles/game-translations": "2026-10-22T09:57:51Z",
   "corytburns/chocobo-stallion-translation": "2026-10-22T09:57:51Z",
+  "cosmicscribe64/tokimemo-ps1-decomp": "2026-11-03T02:57:39Z|matching ps1 decompilation and",
   "crimsondawnacademy-design/romtranslate-studio": "2026-10-22T09:57:51Z",
   "damon-daemon/daikoukai-jidai-4-ds-english": "2026-10-30T01:09:25Z|daikoukai jidai 4 ds",
   "damon-daemon/genghis-khan-4-english": "2026-10-29T01:03:32Z|genghis khan 4",
@@ -7303,6 +7312,7 @@
   "grouchoglasses42/card-hero-gbc": "2026-10-26T04:59:47Z|trade and battle card hero",
   "hexerkat/langrisser3-strategy-guide": "2026-10-22T09:57:51Z",
   "hypermegacrash/mmtextgadget": "2026-10-22T17:20:22Z",
+  "imphuochuynh/luma-jpn-english": "2026-11-03T02:57:39Z|luma jpn",
   "inf37sp/chn-psp-patch": "2026-10-22T09:57:51Z",
   "itsfabsss/yakuza-1-2-hd-edition-english-patch": "2026-10-29T10:12:06Z|exclusive japan only release of yakuza 1 and 2",
   "itsrevela/yakuman-ds-english": "2026-10-22T09:57:51Z",
@@ -7910,6 +7920,7 @@
   "megastylerc/idolmaster-dearly-stars-english": "2026-10-22T09:57:51Z",
   "mgdays/kisekko-gurumi-eng-patch-tools": "2026-10-22T09:57:51Z",
   "mholzinger/snatcher-segacd-to-saturn-eng": "2026-10-24T04:48:17Z",
+  "minhnhattonthat/bakumatsu-rock-ultra-soul-en": "2026-11-03T02:57:39Z|bakumatsu rock ultra soul",
   "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en": "2026-10-26T13:19:03Z|battle tycoon flash hiders sfx",
   "minhnhattonthat/cb-chara-wars-en": "2026-10-22T09:57:51Z",
   "minhnhattonthat/dharma-doujou-en": "2026-10-26T13:19:03Z|dharma doujou",
