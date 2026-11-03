@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-03T02:57:39Z",
+ "generated": "2026-11-03T11:03:57Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-11-02T23:09:12Z",
-    "size": 36118,
+    "pushed": "2026-11-03T05:42:24Z",
+    "size": 36145,
     "stars": 16
    },
    "shots": [
@@ -1740,7 +1740,7 @@
     "full": "CanadaX21/Eltale-English",
     "lang": null,
     "pushed": "2026-11-03T02:44:32Z",
-    "size": 31,
+    "size": 47,
     "stars": 0
    },
    "shots": []
@@ -1894,6 +1894,27 @@
     "pushed": "2026-10-20T03:11:06Z",
     "size": 5956,
     "stars": 0
+   },
+   "shots": []
+  },
+  "cosmicscribe64/tokimemo-ps1-decomp": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-09T20:48:05Z",
+    "desc": "Matching PS1 decompilation and English translation patch for Tokimeki Memorial. Try the review build: https://cosmicscribe64.github.io/tokimemo-ps1-decomp/",
+    "full": "CosmicScribe64/tokimemo-ps1-decomp",
+    "lang": "C",
+    "pushed": "2026-11-03T09:28:27Z",
+    "size": 98055,
+    "stars": 5
    },
    "shots": []
   },
@@ -2144,8 +2165,8 @@
     "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
     "full": "damon-daemon/oda-nobunaga-den-english",
     "lang": "Python",
-    "pushed": "2026-11-03T00:21:05Z",
-    "size": 1343,
+    "pushed": "2026-11-03T04:26:58Z",
+    "size": 1359,
     "stars": 2
    },
    "shots": [
@@ -3218,9 +3239,9 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-02T13:48:14Z",
-    "size": 145388,
-    "stars": 38
+    "pushed": "2026-11-03T10:29:44Z",
+    "size": 146564,
+    "stars": 39
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -4148,6 +4169,28 @@
     "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img4.png"
    ]
   },
+  "imphuochuynh/luma-jpn-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-02T17:43:34Z",
+    "desc": "English UI for Japanese-region 3DS consoles via Luma3DS LayeredFS — translates the HOME Menu and System Settings without a region change. Build tools only; generates the patched files from your own console’s dumps.",
+    "full": "imphuochuynh/luma-jpn-english",
+    "lang": "Python",
+    "pushed": "2026-11-02T17:54:25Z",
+    "size": 66,
+    "stars": 0
+   },
+   "shots": []
+  },
   "inf37sp/chn-psp-patch": {
    "noRelease": true,
    "readme": {
@@ -5009,6 +5052,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 19
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5924,6 +5999,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/bakumatsu-rock-ultra-soul-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T22:58:01Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/bakumatsu-rock-ultra-soul-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-02T06:51:34Z",
+    "desc": "English fan translation of Bakumatsu Rock: Ultra Soul (PSP)",
+    "full": "minhnhattonthat/bakumatsu-rock-ultra-soul-en",
+    "lang": "Python",
+    "pushed": "2026-11-02T23:02:21Z",
+    "size": 9289,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en": {
    "assetOs": {},
    "readme": {
@@ -6161,10 +6263,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-01T06:51:02Z",
+    "date": "2026-11-03T07:01:58Z",
     "pre": false,
-    "tag": "v1.4",
-    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.4"
+    "tag": "v1.5",
+    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.5"
    },
    "repo": {
     "archived": false,
@@ -6172,8 +6274,8 @@
     "desc": "English fan translation of Dual Orb: Seirei Tama Densetsu (SNES)",
     "full": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
     "lang": "Python",
-    "pushed": "2026-11-01T06:51:02Z",
-    "size": 1157,
+    "pushed": "2026-11-03T07:01:58Z",
+    "size": 1200,
     "stars": 1
    },
    "shots": []
@@ -6670,7 +6772,7 @@
     "lang": "Python",
     "pushed": "2026-11-02T06:52:50Z",
     "size": 2280,
-    "stars": 0
+    "stars": 2
    },
    "shots": []
   },
@@ -6861,7 +6963,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T04:21:28Z",
     "size": 1093,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -6942,7 +7044,7 @@
     "lang": "Python",
     "pushed": "2026-10-31T11:22:22Z",
     "size": 971,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -6998,7 +7100,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T06:41:34Z",
     "size": 614,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -7768,8 +7870,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-03T02:52:14Z",
-    "size": 1502,
+    "pushed": "2026-11-03T03:04:19Z",
+    "size": 1572,
     "stars": 0
    },
    "shots": []
@@ -7796,8 +7898,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-02T21:52:00Z",
-    "size": 6766,
+    "pushed": "2026-11-03T04:09:34Z",
+    "size": 7228,
     "stars": 3
    },
    "shots": []
@@ -7826,7 +7928,7 @@
     "lang": "Python",
     "pushed": "2026-11-02T16:47:09Z",
     "size": 1890,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8052,7 +8154,7 @@
    "readmeLure": [],
    "release": {
     "date": "2026-11-02T13:16:56Z",
-    "pre": true,
+    "pre": false,
     "tag": "v0.9.0",
     "url": "https://github.com/retro-trans/Black-Matrix-AD/releases/tag/v0.9.0"
    },
@@ -8062,8 +8164,8 @@
     "desc": "Black/Matrix AD Dreamcast English translation — verified DCP patches by pow",
     "full": "retro-trans/Black-Matrix-AD",
     "lang": "Python",
-    "pushed": "2026-11-02T15:43:07Z",
-    "size": 4865,
+    "pushed": "2026-11-03T07:24:27Z",
+    "size": 4878,
     "stars": 0
    },
    "shots": []
@@ -9099,7 +9201,34 @@
     "lang": "C++",
     "pushed": "2026-11-03T00:10:26Z",
     "size": 1595,
-    "stars": 175
+    "stars": 178
+   },
+   "shots": []
+  },
+  "vortex-lu/ippo-victorious-spirits-english-": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T20:24:32Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/Vortex-Lu/ippo-victorious-spirits-english-/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-02T20:15:21Z",
+    "desc": "English fan translation patch for Hajime no Ippo: Victorious Spirits (PSP)",
+    "full": "Vortex-Lu/ippo-victorious-spirits-english-",
+    "lang": "HTML",
+    "pushed": "2026-11-02T21:06:58Z",
+    "size": 17,
+    "stars": 0
    },
    "shots": []
   },

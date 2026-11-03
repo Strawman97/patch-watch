@@ -6976,6 +6976,14 @@
    "title": "Seijuu Maden: Beasts & Blades",
    "url": "https://cdn2.steamgriddb.com/grid/ab15fd1619b6358569010a9eaa80713f.png"
   },
+  "minhnhattonthat/seireiki-rayblade-en": {
+   "added": "2026-11-03T11:03:57Z",
+   "match": 1.0,
+   "name": "Seireiki Rayblade",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/3fc328260bf135a6a1510017877a0460.jpg",
+   "title": "Seireiki Rayblade",
+   "url": "https://cdn2.steamgriddb.com/grid/3fc328260bf135a6a1510017877a0460.png"
+  },
   "moiseseliaquim/bakuten_shoot_beyblade_gekitou_saikyou_blader_english": {
    "added": "2026-10-23T21:31:12Z",
    "match": 1.0,
@@ -7178,7 +7186,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-11-03T02:57:39Z",
+ "generated": "2026-11-03T11:03:57Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -7300,6 +7308,7 @@
   "exxistancedc/hissatsu-english-translation": "2026-10-22T09:57:51Z",
   "exxistancedc/ninku-english-translation": "2026-10-22T10:24:13Z",
   "exxistancedc/shinrei-jusatsushi-taromaru-english-patch": "2026-10-22T10:45:22Z",
+  "fiksr/eve-burst-error-r-vita-english-patch": "2026-11-03T11:03:57Z|eve burst error r",
   "fiksr/yuno-android": "2026-10-22T09:57:51Z",
   "flukeylukey1/nappletaleengpatchfix": "2026-10-22T09:57:51Z",
   "gazefst/digimon-story-lost-evolution-indonesia-patch-nds": "2026-10-27T15:26:32Z|digimon story lost evolution indonesia",
