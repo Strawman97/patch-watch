@@ -1303,12 +1303,6 @@
    "region": "Europe",
    "url": "https://images.launchbox-app.com/ef4e2712-6155-467b-864a-c55205d18556.jpg"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "id": "7044",
-   "name": "Sonic Gems Collection",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/8920d704-e2de-4163-a4d6-d3597dbc05db.jpg"
-  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "id": "4422",
    "name": "Ace Combat Zero: The Belkan War",
@@ -1326,6 +1320,12 @@
    "name": "AeroWings",
    "region": "North America",
    "url": "https://images.launchbox-app.com/3ee6b5b4-bfcd-4fc6-aa7c-8621c58efb37.jpg"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "id": "166211",
+   "name": "Air",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/6a38612a-4371-403f-aeed-36c4bc5d81ec.jpg"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "id": "5870",
@@ -1537,12 +1537,6 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/67725e3f-0c3c-494f-9a1d-57ccbab26e83.jpg"
   },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "id": "23764",
-   "name": "Bulk Slash",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/r2_a1cf6082-feb1-40dd-b444-922d9eb96a32.png"
-  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "id": "23380",
    "name": "Castle of Shikigami III",
@@ -1656,6 +1650,12 @@
    "name": "Doshin the Giant",
    "region": "Europe",
    "url": "https://images.launchbox-app.com/r2_e395b1c8-e697-45cc-8ade-2e0f396fc0c9.png"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "id": "7222",
+   "name": "Dragon Ball Z: Budokai",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/0cf4679d-281f-4e22-b3fe-943e6997febc.jpg"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "id": "20572",
@@ -2334,6 +2334,12 @@
    "name": "Samurai Warriors: State of War",
    "region": "North America",
    "url": "https://images.launchbox-app.com/9152da1a-ae96-4b74-826f-d15d9677438e.jpg"
+  },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "id": "16496",
+   "name": "Sengoku Basara 3: Utage",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
   },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "id": "12407",
@@ -10579,6 +10585,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/4b1feec8-a009-4b18-a1fe-54f4dfc0addf.png"
   },
+  "minhnhattonthat/ginga-sengoku-gunyuuden-rai-en": {
+   "id": "123343",
+   "name": "Ginga Sengoku Gunyuuden Rai",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/cbb6d8f6-3c15-40db-8368-fe26abe06ed8.png"
+  },
   "minhnhattonthat/granbo": {
    "id": "176656",
    "name": "Granbo",
@@ -10758,6 +10770,12 @@
    "name": "Super Robot Taisen OG Gaiden",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_d9dbab64-1585-4a77-8dc1-11399eaff74c.jpg"
+  },
+  "pacocyborg/cardcaptor-sakura-ws-english": {
+   "id": "27590",
+   "name": "Cardcaptor Sakura: Sakura to Fushigi na Clow Card",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/b972f44f-4b1c-4b7f-ad31-9ec089a52539.jpg"
   },
   "pavel0wq/uta-no-prince-sama-repeat-english-patch": {
    "id": "172253",
@@ -11006,6 +11024,6 @@
    "url": "https://images.launchbox-app.com/0bcf3ccf-273d-4678-bf8c-424ca4239ddc.jpg"
   }
  },
- "generated": "2026-11-03T19:38:40Z",
+ "generated": "2026-11-04T01:29:32Z",
  "version": 1
 }

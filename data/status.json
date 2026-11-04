@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-03T19:38:40Z",
+ "generated": "2026-11-04T01:29:32Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -805,7 +805,7 @@
     "lang": null,
     "pushed": "2026-11-02T01:12:38Z",
     "size": 6251,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -936,23 +936,32 @@
    "shots": []
   },
   "beanutrom/psx-gear-fighter-dendoh-english-patch": {
-   "noRelease": true,
+   "assetOs": {},
    "readme": {
-    "none": true,
     "patch": {
-     "ex": {}
-    }
+     "cov": "Complete",
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-11-03T21:18:13Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/BeanutROM/PSX-Gear-Fighter-Dendoh-English-Patch/releases/tag/v1.0"
+   },
    "repo": {
     "archived": false,
     "created": "2026-10-31T01:37:06Z",
     "desc": "An english patch for the PSX game Gear Fighter Dendoh",
     "full": "BeanutROM/PSX-Gear-Fighter-Dendoh-English-Patch",
     "lang": null,
-    "pushed": "2026-10-31T01:37:07Z",
-    "size": 0,
-    "stars": 0
+    "pushed": "2026-11-04T01:17:27Z",
+    "size": 1549,
+    "stars": 1
    },
    "shots": []
   },
@@ -1630,8 +1639,8 @@
     "desc": "Notes and such for an English fan translation project for Kamaitachi no Yoru (SFC).",
     "full": "ButThouMust/kamaitachi-sfc-english",
     "lang": "Assembly",
-    "pushed": "2026-10-25T15:59:19Z",
-    "size": 7712,
+    "pushed": "2026-11-03T23:49:04Z",
+    "size": 7717,
     "stars": 65
    },
    "shots": [
@@ -1728,10 +1737,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-03T02:44:32Z",
+    "date": "2026-11-03T20:09:30Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/CanadaX21/Eltale-English/releases/tag/v1.1"
+    "tag": "v1.1.1",
+    "url": "https://github.com/CanadaX21/Eltale-English/releases/tag/v1.1.1"
    },
    "repo": {
     "archived": false,
@@ -1739,8 +1748,8 @@
     "desc": "English translation patch for Eltale Monsters (the Japanese Quest 64)",
     "full": "CanadaX21/Eltale-English",
     "lang": null,
-    "pushed": "2026-11-03T02:44:32Z",
-    "size": 47,
+    "pushed": "2026-11-03T20:09:29Z",
+    "size": 48,
     "stars": 0
    },
    "shots": []
@@ -2165,8 +2174,8 @@
     "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
     "full": "damon-daemon/oda-nobunaga-den-english",
     "lang": "Python",
-    "pushed": "2026-11-03T04:26:58Z",
-    "size": 1359,
+    "pushed": "2026-11-03T22:26:12Z",
+    "size": 1417,
     "stars": 2
    },
    "shots": [
@@ -3239,7 +3248,7 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-03T15:34:46Z",
+    "pushed": "2026-11-04T01:26:45Z",
     "size": 151419,
     "stars": 39
    },
@@ -3338,6 +3347,38 @@
     "stars": 6
    },
    "shots": []
+  },
+  "emertels/psbbn-translator": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2026-09-28T20:13:57Z",
+    "pre": false,
+    "tag": "v1.1.0",
+    "url": "https://github.com/Emertels/PSBBN-Translator/releases/tag/v1.1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-25T05:28:29Z",
+    "desc": "Suíte corporativa de tradução e localização automatizada para o PSBBN Definitive Project (PlayStation 2) em 40 idiomas.",
+    "full": "Emertels/PSBBN-Translator",
+    "lang": "PowerShell",
+    "pushed": "2026-11-03T19:17:55Z",
+    "size": 7628,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Emertels/PSBBN-Translator/HEAD/assets/preview.png"
+   ]
   },
   "excalz/ps2-retranslation": {
    "assetOs": {},
@@ -3772,10 +3813,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-03T19:13:28Z",
+    "date": "2026-11-03T22:34:34Z",
     "pre": false,
-    "tag": "v1.3",
-    "url": "https://github.com/fiksr/eve-burst-error-r-vita-english-patch/releases/tag/v1.3"
+    "tag": "v1.6",
+    "url": "https://github.com/fiksr/eve-burst-error-r-vita-english-patch/releases/tag/v1.6"
    },
    "repo": {
     "archived": false,
@@ -3783,8 +3824,8 @@
     "desc": "Complete English translation patch for EVE burst error R on PlayStation Vita (PCSG00817) and Vita3K",
     "full": "fiksr/eve-burst-error-r-vita-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-03T19:13:28Z",
-    "size": 11494,
+    "pushed": "2026-11-03T22:34:33Z",
+    "size": 22251,
     "stars": 0
    },
    "shots": []
@@ -3952,7 +3993,7 @@
     "lang": "C++",
     "pushed": "2026-10-30T20:07:33Z",
     "size": 716,
-    "stars": 11
+    "stars": 12
    },
    "shots": []
   },
@@ -4429,7 +4470,7 @@
     "lang": null,
     "pushed": "2025-09-14T20:42:37Z",
     "size": 102730,
-    "stars": 31
+    "stars": 32
    },
    "shots": []
   },
@@ -5083,6 +5124,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 19
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -6771,7 +6844,7 @@
     "lang": "Python",
     "pushed": "2026-11-02T06:52:50Z",
     "size": 2280,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -6881,7 +6954,7 @@
     "lang": "Python",
     "pushed": "2026-10-31T08:21:25Z",
     "size": 1880,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -6908,7 +6981,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T22:28:19Z",
     "size": 11752,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -7523,7 +7596,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T21:52:59Z",
     "size": 934,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/title.png",
@@ -7710,7 +7783,7 @@
     "lang": "C++",
     "pushed": "2026-10-27T11:52:11Z",
     "size": 993,
-    "stars": 7
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/OZZ0AB/tsukihime-vita/HEAD/assets/livearea/bg.png"
@@ -7896,8 +7969,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-03T18:50:02Z",
-    "size": 1789,
+    "pushed": "2026-11-04T00:59:18Z",
+    "size": 1957,
     "stars": 0
    },
    "shots": []
@@ -8084,7 +8157,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T07:35:18Z",
     "size": 704,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/subtitle-cinematic.png",
@@ -8117,7 +8190,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T09:33:52Z",
     "size": 1562,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/subtitle-king.png",
@@ -8142,10 +8215,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-03T15:03:24Z",
+    "date": "2026-11-03T21:24:07Z",
     "pre": false,
-    "tag": "v1.0.3",
-    "url": "https://github.com/Redeted/megami-ibunroku-persona-ps1-translation/releases/tag/v1.0.3"
+    "tag": "v1.0.4",
+    "url": "https://github.com/Redeted/megami-ibunroku-persona-ps1-translation/releases/tag/v1.0.4"
    },
    "repo": {
     "archived": false,
@@ -8153,8 +8226,8 @@
     "desc": "English translation of Megami Ibunroku Persona (PS1, SLPS-00500) with an optional 60 fps / QoL patch",
     "full": "Redeted/megami-ibunroku-persona-ps1-translation",
     "lang": "Python",
-    "pushed": "2026-11-03T15:03:07Z",
-    "size": 3231,
+    "pushed": "2026-11-03T21:23:42Z",
+    "size": 3241,
     "stars": 8
    },
    "shots": [
@@ -8492,6 +8565,42 @@
     "stars": 1
    },
    "shots": []
+  },
+  "rulevoibanan/kita-e-white-illumination-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-03T14:24:00Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/RulevoiBanan/kita-e-white-illumination-english-patch/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-03T12:18:14Z",
+    "desc": "Kita e. White Illumination English Patch — an unofficial English translation for Sega Dreamcast.",
+    "full": "RulevoiBanan/kita-e-white-illumination-english-patch",
+    "lang": null,
+    "pushed": "2026-11-03T17:36:22Z",
+    "size": 2849,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-01.png",
+    "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-02.png",
+    "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-03.png",
+    "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-04.png",
+    "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-05.png",
+    "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-06.png"
+   ]
   },
   "satelliteoflove/dimguil-english": {
    "noRelease": true,
@@ -9227,7 +9336,7 @@
     "lang": "C++",
     "pushed": "2026-11-03T00:10:26Z",
     "size": 1595,
-    "stars": 186
+    "stars": 190
    },
    "shots": []
   },
@@ -9414,6 +9523,27 @@
     "pushed": "2026-10-14T20:16:51Z",
     "size": 189361,
     "stars": 3
+   },
+   "shots": []
+  },
+  "xentros/saki_mahjong_translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-03T11:26:15Z",
+    "desc": "Translation patch for Saki Mahjong (PSP)",
+    "full": "Xentros/saki_mahjong_translation",
+    "lang": null,
+    "pushed": "2026-11-03T11:28:32Z",
+    "size": 1185,
+    "stars": 0
    },
    "shots": []
   },
