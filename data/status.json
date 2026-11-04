@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-04T01:29:32Z",
+ "generated": "2026-11-04T11:12:33Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-11-03T16:50:48Z",
-    "size": 36147,
+    "pushed": "2026-11-04T03:39:09Z",
+    "size": 36152,
     "stars": 16
    },
    "shots": [
@@ -713,8 +713,8 @@
     "desc": "An english patch for the PS2 game Dragon Shadow Spell",
     "full": "BeanutROM/PS2-Dragon-Shadow-Spell-English-Patch",
     "lang": null,
-    "pushed": "2026-10-31T00:08:49Z",
-    "size": 0,
+    "pushed": "2026-11-04T07:26:29Z",
+    "size": 11424,
     "stars": 1
    },
    "shots": []
@@ -948,10 +948,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-03T21:18:13Z",
+    "date": "2026-11-04T01:36:32Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/BeanutROM/PSX-Gear-Fighter-Dendoh-English-Patch/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/BeanutROM/PSX-Gear-Fighter-Dendoh-English-Patch/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -959,8 +959,8 @@
     "desc": "An english patch for the PSX game Gear Fighter Dendoh",
     "full": "BeanutROM/PSX-Gear-Fighter-Dendoh-English-Patch",
     "lang": null,
-    "pushed": "2026-11-04T01:17:27Z",
-    "size": 1549,
+    "pushed": "2026-11-04T01:36:32Z",
+    "size": 2555,
     "stars": 1
    },
    "shots": []
@@ -1541,7 +1541,7 @@
     "lang": null,
     "pushed": "2026-10-31T15:23:28Z",
     "size": 15434,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -2174,7 +2174,7 @@
     "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
     "full": "damon-daemon/oda-nobunaga-den-english",
     "lang": "Python",
-    "pushed": "2026-11-03T22:26:12Z",
+    "pushed": "2026-11-04T04:32:01Z",
     "size": 1417,
     "stars": 2
    },
@@ -2200,10 +2200,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T11:40:25Z",
+    "date": "2026-11-04T02:50:52Z",
     "pre": true,
-    "tag": "v0.9.0",
-    "url": "https://github.com/damon-daemon/sangokushi-5-puk-english/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/sangokushi-5-puk-english/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -2211,8 +2211,8 @@
     "desc": "English fan translation patch for Sangokushi V with Power-Up Kit (PS1)",
     "full": "damon-daemon/sangokushi-5-puk-english",
     "lang": "Python",
-    "pushed": "2026-10-27T11:40:11Z",
-    "size": 1370,
+    "pushed": "2026-11-04T02:50:50Z",
+    "size": 1388,
     "stars": 2
    },
    "shots": [
@@ -3237,10 +3237,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-03T15:34:46Z",
-    "pre": true,
-    "tag": "ko-test-1",
-    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/ko-test-1"
+    "date": "2026-11-04T06:19:07Z",
+    "pre": false,
+    "tag": "v0.5.3",
+    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/v0.5.3"
    },
    "repo": {
     "archived": false,
@@ -3248,9 +3248,9 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-04T01:26:45Z",
-    "size": 151419,
-    "stars": 39
+    "pushed": "2026-11-04T07:06:46Z",
+    "size": 159568,
+    "stars": 40
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -3453,10 +3453,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-01T17:53:09Z",
+    "date": "2026-11-04T02:24:03Z",
     "pre": false,
-    "tag": "v0.1.33",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.33"
+    "tag": "v0.1.34",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.34"
    },
    "repo": {
     "archived": false,
@@ -3464,8 +3464,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-01T17:53:09Z",
-    "size": 89778,
+    "pushed": "2026-11-04T02:24:03Z",
+    "size": 92798,
     "stars": 35
    },
    "shots": [
@@ -3993,7 +3993,7 @@
     "lang": "C++",
     "pushed": "2026-10-30T20:07:33Z",
     "size": 716,
-    "stars": 12
+    "stars": 13
    },
    "shots": []
   },
@@ -4825,6 +4825,37 @@
    },
    "shots": []
   },
+  "kactusken/shin-nippon-chou-senshi-in-tokyo-dome-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-03T22:16:45Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/kactusken/Shin-Nippon-Chou-Senshi-in-Tokyo-Dome-English/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-03T21:04:23Z",
+    "desc": "English Translation for Shin Nippon Pro Wrestling - Senshi in the Tokyo Dome (SNES/SFC)",
+    "full": "kactusken/Shin-Nippon-Chou-Senshi-in-Tokyo-Dome-English",
+    "lang": "Python",
+    "pushed": "2026-11-03T22:16:33Z",
+    "size": 846,
+    "stars": 0
+   },
+   "shots": []
+  },
   "kactusken/super-wrestle-angels-english": {
    "assetOs": {},
    "readme": {
@@ -5124,38 +5155,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-02T01:23:08Z",
-    "pre": false,
-    "tag": "0.8.10",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-02T01:23:08Z",
-    "size": 40859,
-    "stars": 19
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -6680,6 +6679,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/ginga-sengoku-gunyuuden-rai-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-03T22:17:55Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/ginga-sengoku-gunyuuden-rai-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-03T00:35:07Z",
+    "desc": "English fan translation of Ginga Sengoku Gunyuuden Rai (SNES)",
+    "full": "minhnhattonthat/ginga-sengoku-gunyuuden-rai-en",
+    "lang": "Python",
+    "pushed": "2026-11-04T02:50:37Z",
+    "size": 1028,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/granbo": {
    "assetOs": {},
    "readme": {
@@ -7789,6 +7815,32 @@
     "https://raw.githubusercontent.com/OZZ0AB/tsukihime-vita/HEAD/assets/livearea/bg.png"
    ]
   },
+  "pacocyborg/cardcaptor-sakura-ws-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-03T21:09:47Z",
+    "desc": "English fan translation patch for Cardcaptor Sakura: Sakura to Fushigi na Clow Card (WonderSwan, 1999, Bandai/Sims). Story, menus, battles, cards, items and system text. IPS patch only.",
+    "full": "pacocyborg/cardcaptor-sakura-ws-english",
+    "lang": null,
+    "pushed": "2026-11-03T23:33:49Z",
+    "size": 279,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-ws-english/HEAD/screenshots/01_title_menu.png",
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-ws-english/HEAD/screenshots/02_dialogue.png",
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-ws-english/HEAD/screenshots/03_battle.png",
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-ws-english/HEAD/screenshots/04_status.png"
+   ]
+  },
   "pat227-spc/stafy-source": {
    "noRelease": true,
    "readme": {
@@ -7970,7 +8022,7 @@
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
     "pushed": "2026-11-04T00:59:18Z",
-    "size": 1957,
+    "size": 2029,
     "stars": 0
    },
    "shots": []
@@ -7999,7 +8051,7 @@
     "lang": "Python",
     "pushed": "2026-11-03T16:59:10Z",
     "size": 7424,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -8027,7 +8079,7 @@
     "lang": "Python",
     "pushed": "2026-11-02T16:47:09Z",
     "size": 1890,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -8353,7 +8405,7 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-01T21:15:31Z",
+    "pushed": "2026-11-04T10:39:26Z",
     "size": 101900,
     "stars": 154
    },
@@ -9336,7 +9388,7 @@
     "lang": "C++",
     "pushed": "2026-11-03T00:10:26Z",
     "size": 1595,
-    "stars": 190
+    "stars": 192
    },
    "shots": []
   },
@@ -9620,9 +9672,9 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-11-03T16:55:40Z",
-    "size": 7330,
-    "stars": 4
+    "pushed": "2026-11-04T08:55:46Z",
+    "size": 7526,
+    "stars": 5
    },
    "shots": []
   }
