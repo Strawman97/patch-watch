@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-04T11:12:33Z",
+ "generated": "2026-11-04T19:54:40Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -56,7 +56,7 @@
     "lang": "C",
     "pushed": "2026-11-04T03:39:09Z",
     "size": 36152,
-    "stars": 16
+    "stars": 17
    },
    "shots": [
     "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
@@ -2163,10 +2163,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-03T00:21:06Z",
+    "date": "2026-11-04T14:14:27Z",
     "pre": true,
-    "tag": "v0.9.5",
-    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.5"
+    "tag": "v0.9.6",
+    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.6"
    },
    "repo": {
     "archived": false,
@@ -2174,9 +2174,9 @@
     "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
     "full": "damon-daemon/oda-nobunaga-den-english",
     "lang": "Python",
-    "pushed": "2026-11-04T04:32:01Z",
-    "size": 1417,
-    "stars": 2
+    "pushed": "2026-11-04T14:14:27Z",
+    "size": 1393,
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/oda-nobunaga-den-english/HEAD/docs/screenshots/01_dialogue.png",
@@ -2211,7 +2211,7 @@
     "desc": "English fan translation patch for Sangokushi V with Power-Up Kit (PS1)",
     "full": "damon-daemon/sangokushi-5-puk-english",
     "lang": "Python",
-    "pushed": "2026-11-04T02:50:50Z",
+    "pushed": "2026-11-04T19:48:16Z",
     "size": 1388,
     "stars": 2
    },
@@ -3162,6 +3162,29 @@
    },
    "shots": []
   },
+  "dragoonant/srw-og-moon-dwellers-translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-16T17:09:38Z",
+    "desc": "English translation patch for Super Robot Wars OG: The Moon Dwellers (PS3, BLJS10335) on RPCS3 - v0.1 beta. Follows our 2nd OG names; proportional-font renderer patch; built from your own game dump.",
+    "full": "dragoonant/srw-og-moon-dwellers-translation",
+    "lang": "Python",
+    "pushed": "2026-11-04T06:20:18Z",
+    "size": 3344,
+    "stars": 1
+   },
+   "shots": []
+  },
   "dream-cypher/strahlocalization": {
    "assetOs": {},
    "readme": {
@@ -3237,10 +3260,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-04T06:19:07Z",
+    "date": "2026-11-04T13:40:05Z",
     "pre": false,
-    "tag": "v0.5.3",
-    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/v0.5.3"
+    "tag": "v0.5.3.1",
+    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/v0.5.3.1"
    },
    "repo": {
     "archived": false,
@@ -3248,8 +3271,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-04T07:06:46Z",
-    "size": 159568,
+    "pushed": "2026-11-04T15:41:22Z",
+    "size": 162741,
     "stars": 40
    },
    "shots": [
@@ -5156,6 +5179,38 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 19
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -5755,7 +5810,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-03T13:39:03Z",
     "size": 89726,
-    "stars": 99
+    "stars": 100
    },
    "shots": [
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
@@ -6150,6 +6205,35 @@
     "pushed": "2026-10-30T00:06:02Z",
     "size": 243,
     "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/boundary-gate-daughter-of-kingdom-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-04T02:49:48Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/boundary-gate-daughter-of-kingdom-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-03T11:57:47Z",
+    "desc": "English fan translation of Boundary Gate: Daughter of Kingdom (PSX)",
+    "full": "minhnhattonthat/boundary-gate-daughter-of-kingdom-en",
+    "lang": "Python",
+    "pushed": "2026-11-04T02:50:24Z",
+    "size": 935,
+    "stars": 1
    },
    "shots": []
   },
@@ -6567,7 +6651,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:05:28Z",
     "size": 209,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -7253,6 +7337,33 @@
     "pushed": "2026-10-30T00:06:17Z",
     "size": 1358,
     "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/smt-devil-children-kuro-no-sho-aka-no-sho-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-04T03:01:51Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/smt-devil-children-kuro-no-sho-aka-no-sho-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T03:01:37Z",
+    "desc": "English fan translation of Shin Megami Tensei: Devil Children Black Book / Red Book (PS1)",
+    "full": "minhnhattonthat/smt-devil-children-kuro-no-sho-aka-no-sho-en",
+    "lang": "Python",
+    "pushed": "2026-11-04T04:21:38Z",
+    "size": 792,
+    "stars": 1
    },
    "shots": []
   },
@@ -8021,8 +8132,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-04T00:59:18Z",
-    "size": 2029,
+    "pushed": "2026-11-04T18:10:55Z",
+    "size": 2426,
     "stars": 0
    },
    "shots": []
@@ -8079,7 +8190,7 @@
     "lang": "Python",
     "pushed": "2026-11-02T16:47:09Z",
     "size": 1890,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -8304,10 +8415,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-02T13:16:56Z",
+    "date": "2026-11-04T15:22:30Z",
     "pre": false,
-    "tag": "v0.9.0",
-    "url": "https://github.com/retro-trans/Black-Matrix-AD/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "url": "https://github.com/retro-trans/Black-Matrix-AD/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -8315,8 +8426,8 @@
     "desc": "Black/Matrix AD Dreamcast English translation — verified DCP patches by pow",
     "full": "retro-trans/Black-Matrix-AD",
     "lang": "Python",
-    "pushed": "2026-11-03T07:24:27Z",
-    "size": 4878,
+    "pushed": "2026-11-04T15:22:30Z",
+    "size": 4911,
     "stars": 1
    },
    "shots": []
@@ -8405,9 +8516,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-04T10:39:26Z",
-    "size": 101900,
-    "stars": 154
+    "pushed": "2026-11-04T18:13:28Z",
+    "size": 101888,
+    "stars": 155
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -8464,6 +8575,36 @@
     "pushed": "2026-11-02T16:18:33Z",
     "size": 53050,
     "stars": 0
+   },
+   "shots": []
+  },
+  "rmccune83/noon-saturn-translation-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true,
+     "pct": 100
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-04T05:50:49Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/rmccune83/Noon-Saturn-Translation-Patch/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T05:31:33Z",
+    "desc": "English patch for the Sega Saturn game called Noon",
+    "full": "rmccune83/Noon-Saturn-Translation-Patch",
+    "lang": null,
+    "pushed": "2026-11-04T05:50:48Z",
+    "size": 3,
+    "stars": 1
    },
    "shots": []
   },
@@ -9388,7 +9529,7 @@
     "lang": "C++",
     "pushed": "2026-11-03T00:10:26Z",
     "size": 1595,
-    "stars": 192
+    "stars": 196
    },
    "shots": []
   },
