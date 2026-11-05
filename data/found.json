@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-05T11:12:14Z",
+ "generated": "2026-11-05T20:06:50Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -13708,6 +13708,19 @@
    "src": "GitHub"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-11-05T01:30:38Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "d": "English fan translation of Black/Matrix + (PSX)",
    "fa": "2026-11-05T11:12:14Z",
    "g": "Black/Matrix +",
@@ -13770,6 +13783,84 @@
     "Human translation"
    ],
    "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English patch the the PC Engine game Tengai Makyou - Fuun Kabuki-den",
+   "fa": "2026-11-05T20:06:50Z",
+   "g": "Tengai Makyou Fuun Kabuki den",
+   "id": "fabiof17/tengai-makyou---fuun-kabuki-den-english-patch-",
+   "k": "fabiof17/tengai-makyou---fuun-kabuki-den-english-patch-",
+   "l": "https://github.com/fabiof17/Tengai-Makyou---Fuun-Kabuki-den-English-patch-",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PC Engine",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
+   "fa": "2026-11-05T20:06:50Z",
+   "g": "Megami Ibunroku Persona",
+   "id": "ayla6/megami-ibunroku-persona-translation",
+   "k": "ayla6/megami-ibunroku-persona-translation",
+   "l": "https://github.com/ayla6/megami-ibunroku-persona-translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "Modern Macross VF-X2 PSX recompilation with Vulkan, PGXP, fast loading, English localization tooling, and diagnostic support",
+   "fa": "2026-11-05T20:06:50Z",
+   "g": "Macross VFX2 Recomp",
+   "id": "tzeentchnet/macross-vfx2-recomp",
+   "k": "tzeentchnet/macross-vfx2-recomp",
+   "l": "https://github.com/Tzeentchnet/Macross-VFX2-Recomp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch and tooling for Sunrise Eiyuutan 2 (PlayStation 2, SLPS-25070).",
+   "fa": "2026-11-05T20:06:50Z",
+   "g": "Sunrise Eiyuutan 2",
+   "id": "retro-trans/sunrise-eiyuutan-2",
+   "k": "retro-trans/sunrise-eiyuutan-2",
+   "l": "https://github.com/retro-trans/Sunrise-Eiyuutan-2",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Snatcher for the PC Engine CD (Konami, 1992): all dialogue, menus and speaker names, with a new proportional font. A patch for your own copy of the game, such as the files dumped from a PC Engine Mini.",
+   "fa": "2026-11-05T20:06:50Z",
+   "g": "Snatcher",
+   "id": "viruztt/snatcher-pce-english",
+   "k": "viruztt/snatcher-pce-english",
+   "l": "https://github.com/viruztt/snatcher-pce-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PC Engine CD",
+   "src": "GitHub"
+  },
+  {
+   "d": "ICM workspace for SNES fan translations with Claude Code: stage contracts, review gates, and Python ROM tools. No ROMs included.",
+   "fa": "2026-11-05T20:06:50Z",
+   "g": "Snes Kit",
+   "id": "zhadtech/snes-translation-kit",
+   "k": "zhadtech/snes-translation-kit",
+   "l": "https://github.com/zhadtech/snes-translation-kit",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
    "src": "GitHub"
   },
   {
@@ -15402,51 +15493,27 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-04T19:54:40Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
    "fa": "2026-11-05T01:30:38Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS2",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-05T11:12:14Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
-   "d": "AIR English Patch (PSP, patr0805)",
+   "d": "Bulk Slash (English Patch)",
    "fa": "2026-11-05T11:12:14Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {

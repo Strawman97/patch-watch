@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-05T11:12:14Z",
+ "generated": "2026-11-05T20:06:50Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -492,6 +492,27 @@
    },
    "shots": []
   },
+  "andriadhi/srw-l-translation": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-05T09:21:16Z",
+    "desc": "English translation patch for Super Robot Wars L (Nintendo DS)",
+    "full": "andriadhi/srw-l-translation",
+    "lang": null,
+    "pushed": "2026-11-05T09:21:18Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
   "arceler0/okayunyumu-nsw-eng": {
    "assetOs": {},
    "readme": {
@@ -600,7 +621,7 @@
     "lang": null,
     "pushed": "2026-08-09T02:56:49Z",
     "size": 49656,
-    "stars": 17
+    "stars": 18
    },
    "shots": []
   },
@@ -650,7 +671,7 @@
     "lang": "Batchfile",
     "pushed": "2015-08-21T23:52:21Z",
     "size": 2140,
-    "stars": 18
+    "stars": 19
    },
    "shots": [
     "http://i.imgur.com/P8ypaT4.png"
@@ -1539,8 +1560,8 @@
     "desc": "English translation patch for Tales of Hearts DS (Anime Movie Edition, JP), based on the official Tales of Hearts R (Vita) script. Covers story, skits, NPCs, menus, items, artes and menu graphics. Made with AI assistance (Claude by Anthropic).",
     "full": "BoredGamingPH/Toh-NDS-English-patch",
     "lang": null,
-    "pushed": "2026-10-31T15:23:28Z",
-    "size": 15434,
+    "pushed": "2026-11-05T12:48:31Z",
+    "size": 30790,
     "stars": 2
    },
    "shots": []
@@ -2174,8 +2195,8 @@
     "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
     "full": "damon-daemon/oda-nobunaga-den-english",
     "lang": "Python",
-    "pushed": "2026-11-04T14:14:27Z",
-    "size": 1393,
+    "pushed": "2026-11-05T15:54:20Z",
+    "size": 1460,
     "stars": 3
    },
    "shots": [
@@ -4090,7 +4111,7 @@
     "lang": "C++",
     "pushed": "2026-10-30T23:29:59Z",
     "size": 105,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -4341,7 +4362,7 @@
     "lang": "Python",
     "pushed": "2026-10-13T22:42:51Z",
     "size": 3644,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/itsbalanse/BokuraNoKazoku-English/HEAD/docs/screenshots/01_title.png",
@@ -5179,38 +5200,6 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-02T01:23:08Z",
-    "pre": false,
-    "tag": "0.8.10",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-02T01:23:08Z",
-    "size": 40859,
-    "stars": 19
-   },
-   "shots": []
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -5808,8 +5797,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-05T00:17:46Z",
-    "size": 89730,
+    "pushed": "2026-11-05T15:44:02Z",
+    "size": 92098,
     "stars": 100
    },
    "shots": [
@@ -6204,6 +6193,64 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:06:02Z",
     "size": 243,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/bealphareth-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-05T06:50:57Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T04:22:54Z",
+    "desc": "English fan translation of Bealphareth (PSX)",
+    "full": "minhnhattonthat/bealphareth-en",
+    "lang": "Python",
+    "pushed": "2026-11-05T06:51:53Z",
+    "size": 21944,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/black-matrix-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-05T05:09:50Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/black-matrix-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-03T23:35:40Z",
+    "desc": "English fan translation of Black/Matrix + (PSX)",
+    "full": "minhnhattonthat/black-matrix-en",
+    "lang": "Python",
+    "pushed": "2026-11-05T09:36:28Z",
+    "size": 3128,
     "stars": 1
    },
    "shots": []
@@ -7451,6 +7498,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/tenkuu-no-escaflowne-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-05T05:29:53Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/tenkuu-no-escaflowne-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T05:39:00Z",
+    "desc": "English fan translation of Tenkuu no Escaflowne (PS1)",
+    "full": "minhnhattonthat/tenkuu-no-escaflowne-en",
+    "lang": "Python",
+    "pushed": "2026-11-05T05:29:52Z",
+    "size": 1434,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/velldeselba-senki": {
    "assetOs": {},
    "readme": {
@@ -8156,8 +8232,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-05T05:23:24Z",
-    "size": 2671,
+    "pushed": "2026-11-05T20:02:29Z",
+    "size": 3130,
     "stars": 0
    },
    "shots": []
@@ -8415,7 +8491,7 @@
     "lang": "Python",
     "pushed": "2026-11-03T21:23:42Z",
     "size": 3241,
-    "stars": 10
+    "stars": 11
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -8540,9 +8616,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-04T23:00:48Z",
-    "size": 101891,
-    "stars": 156
+    "pushed": "2026-11-05T12:46:44Z",
+    "size": 101900,
+    "stars": 157
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -8598,7 +8674,7 @@
     "lang": "Python",
     "pushed": "2026-11-02T16:18:33Z",
     "size": 53050,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8628,7 +8704,7 @@
     "lang": null,
     "pushed": "2026-11-04T05:50:48Z",
     "size": 3,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -8655,7 +8731,7 @@
     "lang": null,
     "pushed": "2026-11-02T19:50:45Z",
     "size": 42,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://github.com/user-attachments/assets/ed6f70bb-5e39-4223-932f-79c0082c0212"
@@ -8835,8 +8911,8 @@
     "desc": "English translation patch for Wizardry: Dimguil (PS1, SLPS-02691 Rev 1)",
     "full": "satelliteoflove/dimguil-english",
     "lang": "Python",
-    "pushed": "2026-11-05T01:40:48Z",
-    "size": 11262,
+    "pushed": "2026-11-05T12:02:16Z",
+    "size": 11353,
     "stars": 0
    },
    "shots": [
@@ -9580,9 +9656,9 @@
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
     "lang": "C++",
-    "pushed": "2026-11-05T01:03:49Z",
-    "size": 1992,
-    "stars": 201
+    "pushed": "2026-11-05T17:21:13Z",
+    "size": 2138,
+    "stars": 202
    },
    "shots": []
   },
@@ -9609,6 +9685,28 @@
     "lang": "HTML",
     "pushed": "2026-11-04T21:23:20Z",
     "size": 26,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "vvkamivv/open-catbox-project": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-05T06:50:42Z",
+    "desc": "Native PC port of Umineko no Naku Koro ni Saku (Switch) with the Catbox English patch: an independent continuation of the shin engine, built from reverse engineering the original",
+    "full": "vVKamiVv/Open-Catbox-Project",
+    "lang": "Rust",
+    "pushed": "2026-11-05T18:44:38Z",
+    "size": 3099,
     "stars": 0
    },
    "shots": []
