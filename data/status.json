@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-04T19:54:40Z",
+ "generated": "2026-11-05T01:30:38Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -307,7 +307,7 @@
    "readmeLure": [],
    "release": {
     "date": "2026-11-03T00:23:19Z",
-    "pre": true,
+    "pre": false,
     "tag": "v1.11.5",
     "url": "https://github.com/Akoi89/prosecutors-path/releases/tag/v1.11.5"
    },
@@ -396,10 +396,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-02T22:29:19Z",
+    "date": "2026-11-05T01:20:35Z",
     "pre": false,
-    "tag": "v1.9t",
-    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9t"
+    "tag": "v1.9u",
+    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9u"
    },
    "repo": {
     "archived": false,
@@ -407,7 +407,7 @@
     "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-02T22:29:19Z",
+    "pushed": "2026-11-05T01:20:35Z",
     "size": 909,
     "stars": 9
    },
@@ -776,7 +776,7 @@
     "desc": "An english patch for the PS2 game Venus & Braves from Namco",
     "full": "BeanutROM/PS2-Venus-and-Braves-English-Patch",
     "lang": null,
-    "pushed": "2026-10-28T05:45:14Z",
+    "pushed": "2026-11-05T01:21:15Z",
     "size": 0,
     "stars": 0
    },
@@ -1850,7 +1850,7 @@
     "lang": "Batchfile",
     "pushed": "2024-11-21T22:31:39Z",
     "size": 2918,
-    "stars": 52
+    "stars": 53
    },
    "shots": [
     "https://raw.githubusercontent.com/conan-patches/ps2/HEAD/images/english/screenshot1.png",
@@ -2200,10 +2200,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-04T02:50:52Z",
+    "date": "2026-11-04T19:59:04Z",
     "pre": true,
-    "tag": "v0.9.1",
-    "url": "https://github.com/damon-daemon/sangokushi-5-puk-english/releases/tag/v0.9.1"
+    "tag": "v0.9.2",
+    "url": "https://github.com/damon-daemon/sangokushi-5-puk-english/releases/tag/v0.9.2"
    },
    "repo": {
     "archived": false,
@@ -2211,8 +2211,8 @@
     "desc": "English fan translation patch for Sangokushi V with Power-Up Kit (PS1)",
     "full": "damon-daemon/sangokushi-5-puk-english",
     "lang": "Python",
-    "pushed": "2026-11-04T19:48:16Z",
-    "size": 1388,
+    "pushed": "2026-11-04T19:59:01Z",
+    "size": 1512,
     "stars": 2
    },
    "shots": [
@@ -3476,10 +3476,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-04T02:24:03Z",
+    "date": "2026-11-05T00:02:33Z",
     "pre": false,
-    "tag": "v0.1.34",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.34"
+    "tag": "v0.1.35",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.35"
    },
    "repo": {
     "archived": false,
@@ -3487,9 +3487,9 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-04T02:24:03Z",
-    "size": 92798,
-    "stars": 35
+    "pushed": "2026-11-05T00:02:32Z",
+    "size": 95819,
+    "stars": 36
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4146,7 +4146,7 @@
     "lang": "Python",
     "pushed": "2026-10-25T13:39:07Z",
     "size": 1627,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://github.com/user-attachments/assets/149fcef0-dcd5-4e17-841a-39a48dde3a7f"
@@ -4282,7 +4282,7 @@
     "lang": "Python",
     "pushed": "2026-11-02T17:54:25Z",
     "size": 66,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -4341,7 +4341,7 @@
     "lang": "Python",
     "pushed": "2026-10-13T22:42:51Z",
     "size": 3644,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/itsbalanse/BokuraNoKazoku-English/HEAD/docs/screenshots/01_title.png",
@@ -5144,7 +5144,7 @@
     "desc": "Translation project of the Japanese PSVITA game Saki Zenkoku-hen PLUS",
     "full": "KaKuna285/saki-zenkokuhen-plus-TL-ENG",
     "lang": "Python",
-    "pushed": "2026-11-02T17:13:46Z",
+    "pushed": "2026-11-04T21:27:54Z",
     "size": 457,
     "stars": 0
    },
@@ -5178,38 +5178,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-02T01:23:08Z",
-    "pre": false,
-    "tag": "0.8.10",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-02T01:23:08Z",
-    "size": 40859,
-    "stars": 19
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5808,8 +5776,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-03T13:39:03Z",
-    "size": 89726,
+    "pushed": "2026-11-05T00:17:46Z",
+    "size": 89730,
     "stars": 100
    },
    "shots": [
@@ -5844,7 +5812,7 @@
     "lang": null,
     "pushed": "2026-10-16T20:54:35Z",
     "size": 1589,
-    "stars": 33
+    "stars": 34
    },
    "shots": []
   },
@@ -6204,7 +6172,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:06:02Z",
     "size": 243,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -6402,7 +6370,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:06:48Z",
     "size": 1102,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -6541,7 +6509,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T04:09:44Z",
     "size": 494,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -6595,7 +6563,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T10:07:06Z",
     "size": 1994,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -7145,7 +7113,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T04:21:28Z",
     "size": 1093,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -7226,7 +7194,7 @@
     "lang": "Python",
     "pushed": "2026-10-31T11:22:22Z",
     "size": 971,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -7309,7 +7277,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T06:41:34Z",
     "size": 614,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -7390,7 +7358,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T04:21:32Z",
     "size": 1318,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -7943,7 +7911,7 @@
     "lang": null,
     "pushed": "2026-11-03T23:33:49Z",
     "size": 279,
-    "stars": 0
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-ws-english/HEAD/screenshots/01_title_menu.png",
@@ -8428,7 +8396,7 @@
     "lang": "Python",
     "pushed": "2026-11-04T15:22:30Z",
     "size": 4911,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -8516,8 +8484,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-04T18:13:28Z",
-    "size": 101888,
+    "pushed": "2026-11-04T23:00:48Z",
+    "size": 101891,
     "stars": 155
    },
    "shots": [
@@ -8604,7 +8572,7 @@
     "lang": null,
     "pushed": "2026-11-04T05:50:48Z",
     "size": 3,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -9172,6 +9140,35 @@
     "https://raw.githubusercontent.com/StepPhone/dragon-tamer-sound-spirit-english/HEAD/assets/map-text.png"
    ]
   },
+  "stepphone/monster-farm-ds-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-04T18:20:32Z",
+    "pre": true,
+    "tag": "v0.1-beta",
+    "url": "https://github.com/StepPhone/monster-farm-ds-english/releases/tag/v0.1-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T18:20:05Z",
+    "desc": "Unofficial English translation patch for Monster Farm DS (Japan), Nintendo DS. Work-in-progress beta by StepPhone of the StepHackerZ.",
+    "full": "StepPhone/monster-farm-ds-english",
+    "lang": null,
+    "pushed": "2026-11-04T18:20:31Z",
+    "size": 3,
+    "stars": 0
+   },
+   "shots": []
+  },
   "stepphone/zoids-battle-colosseum-english": {
    "assetOs": {},
    "readme": {
@@ -9527,9 +9524,9 @@
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
     "lang": "C++",
-    "pushed": "2026-11-03T00:10:26Z",
-    "size": 1595,
-    "stars": 196
+    "pushed": "2026-11-05T01:03:49Z",
+    "size": 1992,
+    "stars": 199
    },
    "shots": []
   },
@@ -9543,10 +9540,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-02T20:24:32Z",
+    "date": "2026-11-04T21:00:42Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/Vortex-Lu/ippo-victorious-spirits-english-/releases/tag/v1.0"
+    "tag": "v1.0.1",
+    "url": "https://github.com/Vortex-Lu/ippo-victorious-spirits-english-/releases/tag/v1.0.1"
    },
    "repo": {
     "archived": false,
@@ -9554,8 +9551,8 @@
     "desc": "English fan translation patch for Hajime no Ippo: Victorious Spirits (PSP)",
     "full": "Vortex-Lu/ippo-victorious-spirits-english-",
     "lang": "HTML",
-    "pushed": "2026-11-02T21:06:58Z",
-    "size": 17,
+    "pushed": "2026-11-04T21:23:20Z",
+    "size": 26,
     "stars": 0
    },
    "shots": []
