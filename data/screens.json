@@ -1668,6 +1668,19 @@
    ],
    "tv": 3
   },
+  "bealphareth|7": {
+   "checked": "2026-11-05T11:12:14Z",
+   "cover": "co4o38",
+   "id": 62915,
+   "match": 1.0,
+   "name": "Bealphareth",
+   "shots": [
+    "sc62t3",
+    "sc62t1",
+    "sc62t2"
+   ],
+   "tv": 3
+  },
   "beavis and butt head in virtual stupidity|7": {
    "checked": "2026-10-23T17:17:32Z",
    "cover": "co6efa",
@@ -1869,6 +1882,21 @@
     "scb0j9",
     "scb0ja",
     "scb0j8"
+   ],
+   "tv": 3
+  },
+  "black matrix|7": {
+   "checked": "2026-11-05T11:12:14Z",
+   "cover": "co62pj",
+   "id": 93534,
+   "match": 1.0,
+   "name": "Black/Matrix +",
+   "shots": [
+    "scb0il",
+    "scb0im",
+    "sczenr",
+    "sczens",
+    "sczent"
    ],
    "tv": 3
   },
@@ -15309,6 +15337,11 @@
    "shots": [],
    "tv": 3
   },
+  "open catbox|130": {
+   "checked": "2026-11-05T11:12:14Z",
+   "shots": [],
+   "tv": 3
+  },
   "opoona|5": {
    "checked": "2026-10-21T07:14:34Z",
    "cover": "co6f3z",
@@ -21921,6 +21954,19 @@
    "shots": [],
    "tv": 3
   },
+  "tenkuu no escaflowne|7": {
+   "checked": "2026-11-05T11:12:14Z",
+   "cover": "vxkl5jkqulq1lljtbxvb",
+   "id": 65406,
+   "match": 1.0,
+   "name": "The Vision of Escaflowne",
+   "shots": [
+    "sc15pda",
+    "sc15pdc",
+    "sc15pdb"
+   ],
+   "tv": 3
+  },
   "tensai bakabon|64": {
    "checked": "2026-10-22T17:20:22Z",
    "cover": "co6htn",
@@ -24571,7 +24617,7 @@
    "tv": 3
   }
  },
- "generated": "2026-11-05T01:30:38Z",
+ "generated": "2026-11-05T11:12:14Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -24591,6 +24637,7 @@
   "alarixnia/daichikun-crisis-en": "daichi kun crisis do natural|86",
   "alexbl9x/samurai-shodown-3-sega-saturn-english-activation-patch": "samurai spirits zankurou musouken|32",
   "alunonymoose/sengoku-basara-3---utage-translation": "sengoku basara 3 utage|9",
+  "andriadhi/srw-l-translation": "super robot wars l|20",
   "arceler0/okayunyumu-nsw-eng": "okayu nyumu|130",
   "arch9sk7/jetterscol-eng": "bomberman jetters game collection|24",
   "ashnagenarnesfugen/tokyo-ghoul-jail-english": "tokyo ghoul jail|46",
@@ -24753,7 +24800,6 @@
   "kaisaan/wanderers": "ys iii wanderers from ys|8",
   "kakuna285/saki-zenkokuhen-plus-tl-eng": "saki zenkoku hen plus|46",
   "karas84/projectzeroundub": "project zero|8",
-  "kenzie-1377/dqxi-3ds-english-patch": "dqxi|37",
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd edition|9",
   "kodakwizard/hikaru-no-go-3-english": "hikaru no go 3|21",
   "kotcrab/umineko-portable-english": "umineko no naku koro ni portable 2|38",
@@ -24865,10 +24911,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -24904,7 +24950,6 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
-  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -24927,6 +24972,7 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -25045,6 +25091,7 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
@@ -25065,6 +25112,7 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",
@@ -26534,6 +26582,8 @@
   "minhnhattonthat/bakumatsu-rock-ultra-soul-en": "bakumatsu rock ultra soul|38",
   "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en": "battle tycoon flash hiders sfx|19",
   "minhnhattonthat/battle-zeque-den-en": "battle zeque den|19",
+  "minhnhattonthat/bealphareth-en": "bealphareth|7",
+  "minhnhattonthat/black-matrix-en": "black matrix|7",
   "minhnhattonthat/boundary-gate-daughter-of-kingdom-en": "boundary gate daughter of kingdom|7",
   "minhnhattonthat/cb-chara-wars-en": "cb chara wars ushinawareta gag|19",
   "minhnhattonthat/dancing-sword-senkou": "dancing sword senkou|24",
@@ -26579,6 +26629,7 @@
   "minhnhattonthat/solid-runner-en": "solid runner|19",
   "minhnhattonthat/sugoro-quest-dicenics-en": "sugoro quest dicenics|19",
   "minhnhattonthat/super-gomoku-narabe-translation": "super gomoku narabe renju|19",
+  "minhnhattonthat/tenkuu-no-escaflowne-en": "tenkuu no escaflowne|7",
   "minhnhattonthat/velldeselba-senki": "velldeselba senki tsubasa no kunshou|7",
   "minhnhattonthat/yu-yu-hakusho-2-english": "yu yu hakusho 2 kakutou no shou|19",
   "minhnhattonthat/zero-one-sp-english": "zero one sp|24",
@@ -26655,6 +26706,7 @@
   "vnayar/final-fantasy-iii-neoclassical": "final fantasy iii|18",
   "vnnc1/gow-native-pc": "gow native pc|8",
   "vortex-lu/ippo-victorious-spirits-english-": "hajime no ippo victorious spirits|38",
+  "vvkamivv/open-catbox-project": "open catbox|130",
   "waifoof/city-shrouded-in-shadow-english-translation-": "city shrouded in shadow|48",
   "waifoof/elan-plus-english-patch": "elan plus|7",
   "waifoof/koukidou-gensou-gunparade-march-mtl-english-patch": "koukidou gensou gunparade march|7",

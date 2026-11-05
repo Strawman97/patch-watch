@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-05T01:30:38Z",
+ "generated": "2026-11-05T11:12:14Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -396,10 +396,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-05T01:20:35Z",
+    "date": "2026-11-05T06:07:15Z",
     "pre": false,
-    "tag": "v1.9u",
-    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9u"
+    "tag": "v1.9v",
+    "url": "https://github.com/Akoi89/tgaa-3ds-english-patch/releases/tag/v1.9v"
    },
    "repo": {
     "archived": false,
@@ -407,8 +407,8 @@
     "desc": "Capcom's official English text, voices and art from The Great Ace Attorney Chronicles, carried onto the Japanese 3DS releases - including all the DLC, translated here for the first time. Built on senyarom/tgaa2-en-patch.",
     "full": "Akoi89/tgaa-3ds-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-05T01:20:35Z",
-    "size": 909,
+    "pushed": "2026-11-05T06:07:15Z",
+    "size": 1057,
     "stars": 9
    },
    "shots": []
@@ -1750,7 +1750,7 @@
     "lang": null,
     "pushed": "2026-11-03T20:09:29Z",
     "size": 48,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -2028,7 +2028,7 @@
     "lang": "Python",
     "pushed": "2026-11-03T01:22:26Z",
     "size": 1591,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-ds-2-english/HEAD/docs/screenshots/01_start_menu.png",
@@ -2139,7 +2139,7 @@
     "lang": "Python",
     "pushed": "2026-10-24T20:13:28Z",
     "size": 1933,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/nobunaga-soutenroku-puk-english/HEAD/docs/screenshots/01_main_menu.png",
@@ -2250,7 +2250,7 @@
     "lang": "Python",
     "pushed": "2026-10-21T19:31:53Z",
     "size": 1484,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/sangokushi-6-puk-english/HEAD/docs/screenshots/01_main_menu.png",
@@ -2287,7 +2287,7 @@
     "lang": "Python",
     "pushed": "2026-10-24T23:07:12Z",
     "size": 1449,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/sangokushi-ds-3-english/HEAD/docs/screenshots/01_start_menu.png",
@@ -2324,7 +2324,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T13:17:00Z",
     "size": 5063,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/01_main_menu.png",
@@ -3271,9 +3271,9 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-04T15:41:22Z",
-    "size": 162741,
-    "stars": 40
+    "pushed": "2026-11-05T06:14:37Z",
+    "size": 162789,
+    "stars": 42
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -4196,7 +4196,7 @@
     "lang": null,
     "pushed": "2026-10-15T02:18:20Z",
     "size": 2,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -4508,10 +4508,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-01T12:54:35Z",
+    "date": "2026-11-05T01:52:55Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.0"
+    "tag": "v1.0.1",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.0.1"
    },
    "repo": {
     "archived": false,
@@ -4519,8 +4519,8 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-11-01T12:54:09Z",
-    "size": 454,
+    "pushed": "2026-11-05T01:52:29Z",
+    "size": 460,
     "stars": 1
    },
    "shots": [
@@ -5179,6 +5179,38 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 19
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -5228,7 +5260,7 @@
     "lang": "Python",
     "pushed": "2026-10-20T18:33:00Z",
     "size": 18935,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/KodakWizard/hikaru-no-go-3-english/HEAD/screenshot-title-v101.png",
@@ -6116,7 +6148,7 @@
     "lang": "Python",
     "pushed": "2026-11-02T23:02:21Z",
     "size": 9289,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -6864,7 +6896,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:06:42Z",
     "size": 452,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -7113,7 +7145,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T04:21:28Z",
     "size": 1093,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -7331,7 +7363,7 @@
     "lang": "Python",
     "pushed": "2026-11-04T04:21:38Z",
     "size": 792,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -7505,6 +7537,30 @@
    },
    "shots": []
   },
+  "mlastes1987/odysselya-eng": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T22:41:50Z",
+    "desc": "English translation for Shinseiki Odysselya for SNES, only the patch, no game files or tools.",
+    "full": "mlastes1987/odysselya-eng",
+    "lang": null,
+    "pushed": "2026-11-05T01:27:04Z",
+    "size": 615,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/mlastes1987/odysselya-eng/HEAD/assets/coming-soon.png"
+   ]
+  },
   "moiseseliaquim/bakuten_shoot_beyblade_gekitou_saikyou_blader_english": {
    "assetOs": {},
    "readme": {
@@ -7561,7 +7617,7 @@
     "lang": null,
     "pushed": "2026-10-14T02:46:56Z",
     "size": 863,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch/HEAD/screenshots/01_title_screen.webp",
@@ -7701,7 +7757,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T21:52:59Z",
     "size": 934,
-    "stars": 4
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/title.png",
@@ -7827,7 +7883,7 @@
     "lang": null,
     "pushed": "2026-10-26T08:37:40Z",
     "size": 15593,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/11-special-menu.png",
@@ -7911,7 +7967,7 @@
     "lang": null,
     "pushed": "2026-11-03T23:33:49Z",
     "size": 279,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-ws-english/HEAD/screenshots/01_title_menu.png",
@@ -8100,8 +8156,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-04T18:10:55Z",
-    "size": 2426,
+    "pushed": "2026-11-05T05:23:24Z",
+    "size": 2671,
     "stars": 0
    },
    "shots": []
@@ -8321,7 +8377,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T09:33:52Z",
     "size": 1562,
-    "stars": 7
+    "stars": 8
    },
    "shots": [
     "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/subtitle-king.png",
@@ -8359,7 +8415,7 @@
     "lang": "Python",
     "pushed": "2026-11-03T21:23:42Z",
     "size": 3241,
-    "stars": 8
+    "stars": 10
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -8486,7 +8542,7 @@
     "lang": "C",
     "pushed": "2026-11-04T23:00:48Z",
     "size": 101891,
-    "stars": 155
+    "stars": 156
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -8643,7 +8699,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T22:58:13Z",
     "size": 840,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/romh-acking/time-twist-fds-en/HEAD/1.png"
@@ -8779,8 +8835,8 @@
     "desc": "English translation patch for Wizardry: Dimguil (PS1, SLPS-02691 Rev 1)",
     "full": "satelliteoflove/dimguil-english",
     "lang": "Python",
-    "pushed": "2026-11-01T02:07:00Z",
-    "size": 11051,
+    "pushed": "2026-11-05T01:40:48Z",
+    "size": 11262,
     "stars": 0
    },
    "shots": [
@@ -9526,7 +9582,7 @@
     "lang": "C++",
     "pushed": "2026-11-05T01:03:49Z",
     "size": 1992,
-    "stars": 199
+    "stars": 201
    },
    "shots": []
   },
