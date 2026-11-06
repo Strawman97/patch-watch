@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-06T01:39:03Z",
+ "generated": "2026-11-06T11:10:34Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -495,10 +495,11 @@
   "andriadhi/srw-l-translation": {
    "noRelease": true,
    "readme": {
-    "none": true,
     "patch": {
+     "cov": "Partial",
      "ex": {}
-    }
+    },
+    "v": 1
    },
    "readmeLure": [],
    "repo": {
@@ -506,9 +507,9 @@
     "created": "2026-11-05T09:21:16Z",
     "desc": "English translation patch for Super Robot Wars L (Nintendo DS)",
     "full": "andriadhi/srw-l-translation",
-    "lang": null,
-    "pushed": "2026-11-05T09:21:18Z",
-    "size": 0,
+    "lang": "TypeScript",
+    "pushed": "2026-11-06T03:25:48Z",
+    "size": 597,
     "stars": 0
    },
    "shots": []
@@ -1607,10 +1608,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-02T06:16:30Z",
+    "date": "2026-11-06T09:35:01Z",
     "pre": false,
-    "tag": "v0.9",
-    "url": "https://github.com/brianblakely/slapstick-english-translation/releases/tag/v0.9"
+    "tag": "v0.10",
+    "url": "https://github.com/brianblakely/slapstick-english-translation/releases/tag/v0.10"
    },
    "repo": {
     "archived": false,
@@ -1618,8 +1619,8 @@
     "desc": "An English translation of the Super Famicom title \"Slapstick\"",
     "full": "brianblakely/slapstick-english-translation",
     "lang": "JavaScript",
-    "pushed": "2026-11-02T06:16:30Z",
-    "size": 35702,
+    "pushed": "2026-11-06T09:35:01Z",
+    "size": 37317,
     "stars": 0
    },
    "shots": []
@@ -1802,7 +1803,7 @@
     "lang": null,
     "pushed": "2026-11-05T22:26:47Z",
     "size": 55,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -2151,8 +2152,8 @@
     "desc": "English fan translation (full machine translation) of Nobunaga no Yabou: Reppuuden with Power-Up Kit for the PlayStation",
     "full": "damon-daemon/nobunaga-reppuuden-puk-english",
     "lang": "Python",
-    "pushed": "2026-10-22T18:27:00Z",
-    "size": 1566,
+    "pushed": "2026-11-06T05:35:48Z",
+    "size": 1569,
     "stars": 1
    },
    "shots": [
@@ -3320,12 +3321,12 @@
    "repo": {
     "archived": false,
     "created": "2026-09-12T15:20:11Z",
-    "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
+    "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-05T06:14:37Z",
-    "size": 162789,
-    "stars": 42
+    "pushed": "2026-11-06T07:39:31Z",
+    "size": 145219,
+    "stars": 44
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -3540,7 +3541,7 @@
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
     "pushed": "2026-11-06T01:22:18Z",
-    "size": 95819,
+    "size": 98844,
     "stars": 36
    },
    "shots": [
@@ -3889,8 +3890,8 @@
     "desc": "English patch the the PC Engine game Tengai Makyou - Fuun Kabuki-den",
     "full": "fabiof17/Tengai-Makyou---Fuun-Kabuki-den-English-patch-",
     "lang": "PowerShell",
-    "pushed": "2026-11-05T19:58:14Z",
-    "size": 2483,
+    "pushed": "2026-11-06T09:45:12Z",
+    "size": 6231,
     "stars": 1
    },
    "shots": []
@@ -4335,6 +4336,41 @@
     "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img2.png",
     "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img3.png",
     "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img4.png"
+   ]
+  },
+  "imphostil/kamen-rider-agito-ps1-ai-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-05T01:30:40Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/imphostil/kamen-rider-agito-ps1-ai-english-translation/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T02:40:44Z",
+    "desc": "AI English translation of Kamen Rider Agito game for PlayStation",
+    "full": "imphostil/kamen-rider-agito-ps1-ai-english-translation",
+    "lang": null,
+    "pushed": "2026-11-05T01:30:40Z",
+    "size": 21665,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/imphostil/kamen-rider-agito-ps1-ai-english-translation/HEAD/gif/01_kra_menu.gif",
+    "https://raw.githubusercontent.com/imphostil/kamen-rider-agito-ps1-ai-english-translation/HEAD/gif/02_kra_options.gif",
+    "https://raw.githubusercontent.com/imphostil/kamen-rider-agito-ps1-ai-english-translation/HEAD/gif/03_kra_battle_menu.gif",
+    "https://raw.githubusercontent.com/imphostil/kamen-rider-agito-ps1-ai-english-translation/HEAD/gif/04_kra_move_list.gif",
+    "https://raw.githubusercontent.com/imphostil/kamen-rider-agito-ps1-ai-english-translation/HEAD/gif/05_kra_gallery_screen.gif"
    ]
   },
   "imphuochuynh/luma-jpn-english": {
@@ -5251,38 +5287,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-02T01:23:08Z",
-    "pre": false,
-    "tag": "0.8.10",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-02T01:23:08Z",
-    "size": 40859,
-    "stars": 20
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -6835,7 +6839,7 @@
     "full": "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en",
     "lang": "Python",
     "pushed": "2026-11-06T01:13:22Z",
-    "size": 745,
+    "size": 770,
     "stars": 0
    },
    "shots": []
@@ -7089,6 +7093,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-05T20:22:55Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T18:00:16Z",
+    "desc": "English fan translation of Legendz: Yomigaeru Shiren no Shima (GBA)",
+    "full": "minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en",
+    "lang": "Python",
+    "pushed": "2026-11-05T20:45:15Z",
+    "size": 2101,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en": {
    "assetOs": {},
    "readme": {
@@ -7277,6 +7310,36 @@
     "pushed": "2026-10-30T04:21:28Z",
     "size": 1093,
     "stars": 4
+   },
+   "shots": []
+  },
+  "minhnhattonthat/paro-wars-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-05T20:57:40Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/paro-wars-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T14:00:19Z",
+    "desc": "English fan translation of Paro Wars (PSX)",
+    "full": "minhnhattonthat/paro-wars-en",
+    "lang": "Python",
+    "pushed": "2026-11-05T21:29:44Z",
+    "size": 1202,
+    "stars": 1
    },
    "shots": []
   },
@@ -7976,8 +8039,8 @@
     "desc": "An addendum + ROMHack that aims to provide the updated script of the HD Remaster, and add little cosmetic \"improvements\" to the game and menus. Two Patches: DQ if you want modern Dragon Quest. DW if you want localizations and terminology so be Dragon Warrior (pre-2005) and use American English.",
     "full": "NonagonGoron/Tornekos-Great-Adventure-SFC-with-Remaster-Script",
     "lang": null,
-    "pushed": "2026-10-16T02:40:02Z",
-    "size": 30758,
+    "pushed": "2026-11-06T04:18:15Z",
+    "size": 31782,
     "stars": 8
    },
    "shots": []
@@ -8077,7 +8140,7 @@
     "lang": "Ruby",
     "pushed": "2024-06-27T09:36:28Z",
     "size": 833504,
-    "stars": 111
+    "stars": 112
    },
    "shots": []
   },
@@ -8257,10 +8320,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-30T11:29:47Z",
+    "date": "2026-11-06T09:58:49Z",
     "pre": false,
-    "tag": "v3.0",
-    "url": "https://github.com/phamkv/gotokano/releases/tag/v3.0"
+    "tag": "v4.0",
+    "url": "https://github.com/phamkv/gotokano/releases/tag/v4.0"
    },
    "repo": {
     "archived": false,
@@ -8268,8 +8331,8 @@
     "desc": "English Patch for The Quintessential Quintuplets: Five Promises Made With Her (Switch)",
     "full": "phamkv/gotokano",
     "lang": null,
-    "pushed": "2026-10-30T11:29:47Z",
-    "size": 83259,
+    "pushed": "2026-11-06T09:58:48Z",
+    "size": 86861,
     "stars": 1
    },
    "shots": []
@@ -8316,8 +8379,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-06T01:29:17Z",
-    "size": 4099,
+    "pushed": "2026-11-06T01:39:27Z",
+    "size": 4256,
     "stars": 0
    },
    "shots": []
@@ -8585,6 +8648,28 @@
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/5.png",
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/6.png"
    ]
+  },
+  "retcherez/shadowrun-megacd-segacd-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-09-12T04:55:28Z",
+    "desc": "English translation patch for Shadowrun on Sega CD / Mega-CD. Distributed as BPS patches for the original Japanese release, with separate JP, US, and EU boot-region editions. Requires a legally obtained Japanese copy of the game.",
+    "full": "RetchERez/Shadowrun-MegaCD-SegaCD-English",
+    "lang": null,
+    "pushed": "2026-11-06T00:15:05Z",
+    "size": 15527,
+    "stars": 5
+   },
+   "shots": []
   },
   "retro-trans/black-matrix-ad": {
    "assetOs": {},
@@ -9830,7 +9915,7 @@
     "lang": "C++",
     "pushed": "2026-11-05T22:31:05Z",
     "size": 2375,
-    "stars": 205
+    "stars": 208
    },
    "shots": []
   },
@@ -9877,8 +9962,8 @@
     "desc": "Native PC port of Umineko no Naku Koro ni Saku (Switch) with the Catbox English patch: an independent continuation of the shin engine, built from reverse engineering the original",
     "full": "vVKamiVv/Open-Catbox-Project",
     "lang": "Rust",
-    "pushed": "2026-11-06T01:38:24Z",
-    "size": 3306,
+    "pushed": "2026-11-06T05:37:45Z",
+    "size": 4096,
     "stars": 0
    },
    "shots": []
