@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-05T20:06:50Z",
+ "generated": "2026-11-06T01:39:03Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -54,8 +54,8 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-11-04T03:39:09Z",
-    "size": 36152,
+    "pushed": "2026-11-05T21:13:13Z",
+    "size": 36180,
     "stars": 17
    },
    "shots": [
@@ -622,6 +622,37 @@
     "pushed": "2026-08-09T02:56:49Z",
     "size": 49656,
     "stars": 18
+   },
+   "shots": []
+  },
+  "ayla6/megami-ibunroku-persona-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gameplay": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-05T18:01:09Z",
+    "pre": false,
+    "tag": "patches-20261105",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-20261105"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-05T18:00:14Z",
+    "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
+    "full": "ayla6/megami-ibunroku-persona-translation",
+    "lang": "Python",
+    "pushed": "2026-11-06T00:00:31Z",
+    "size": 3036,
+    "stars": 3
    },
    "shots": []
   },
@@ -1769,9 +1800,9 @@
     "desc": "English translation patch for Eltale Monsters (the Japanese Quest 64)",
     "full": "CanadaX21/Eltale-English",
     "lang": null,
-    "pushed": "2026-11-03T20:09:29Z",
-    "size": 48,
-    "stars": 1
+    "pushed": "2026-11-05T22:26:47Z",
+    "size": 55,
+    "stars": 2
    },
    "shots": []
   },
@@ -3328,7 +3359,7 @@
     "lang": "C++",
     "pushed": "2026-08-23T21:31:44Z",
     "size": 17680,
-    "stars": 248
+    "stars": 247
    },
    "shots": [
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo1.png",
@@ -3497,10 +3528,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-05T00:02:33Z",
+    "date": "2026-11-06T01:22:18Z",
     "pre": false,
-    "tag": "v0.1.35",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.35"
+    "tag": "v0.1.36",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.36"
    },
    "repo": {
     "archived": false,
@@ -3508,7 +3539,7 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-05T00:02:32Z",
+    "pushed": "2026-11-06T01:22:18Z",
     "size": 95819,
     "stars": 36
    },
@@ -3843,6 +3874,27 @@
     "https://github.com/user-attachments/assets/1ebd2c95-0a24-4139-8288-239c2264d466"
    ]
   },
+  "fabiof17/tengai-makyou---fuun-kabuki-den-english-patch-": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-05T17:07:28Z",
+    "desc": "English patch the the PC Engine game Tengai Makyou - Fuun Kabuki-den",
+    "full": "fabiof17/Tengai-Makyou---Fuun-Kabuki-den-English-patch-",
+    "lang": "PowerShell",
+    "pushed": "2026-11-05T19:58:14Z",
+    "size": 2483,
+    "stars": 1
+   },
+   "shots": []
+  },
   "fiksr/eve-burst-error-r-vita-english-patch": {
    "assetOs": {},
    "readme": {
@@ -3868,8 +3920,8 @@
     "desc": "Complete English translation patch for EVE burst error R on PlayStation Vita (PCSG00817) and Vita3K",
     "full": "fiksr/eve-burst-error-r-vita-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-03T22:34:33Z",
-    "size": 22251,
+    "pushed": "2026-11-05T23:06:04Z",
+    "size": 22255,
     "stars": 0
    },
    "shots": []
@@ -5137,7 +5189,7 @@
     "lang": "Python",
     "pushed": "2026-08-08T05:24:26Z",
     "size": 95067,
-    "stars": 17
+    "stars": 18
    },
    "shots": []
   },
@@ -5199,6 +5251,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 20
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -6739,10 +6823,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T23:54:43Z",
+    "date": "2026-11-06T01:13:23Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -6750,7 +6834,7 @@
     "desc": "English fan translation of GetBackers Dakkanya: Jigoku no Scaramouche (GBA)",
     "full": "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en",
     "lang": "Python",
-    "pushed": "2026-10-30T04:21:21Z",
+    "pushed": "2026-11-06T01:13:22Z",
     "size": 745,
     "stars": 0
    },
@@ -8232,8 +8316,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-05T20:02:29Z",
-    "size": 3130,
+    "pushed": "2026-11-06T01:29:17Z",
+    "size": 4099,
     "stars": 0
    },
    "shots": []
@@ -8260,8 +8344,8 @@
     "desc": "Attempt at Translating Marvel Super Heroes vs Street Fighter on the Sega Saturn to English",
     "full": "princeendo/msh_vs_sf_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-03T16:59:10Z",
-    "size": 7424,
+    "pushed": "2026-11-05T20:18:32Z",
+    "size": 7434,
     "stars": 4
    },
    "shots": []
@@ -8491,7 +8575,7 @@
     "lang": "Python",
     "pushed": "2026-11-03T21:23:42Z",
     "size": 3241,
-    "stars": 11
+    "stars": 12
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -8531,6 +8615,38 @@
     "stars": 2
    },
    "shots": []
+  },
+  "retro-trans/sunrise-eiyuutan-2": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-05T12:07:12Z",
+    "pre": false,
+    "tag": "v0.8.0",
+    "url": "https://github.com/retro-trans/Sunrise-Eiyuutan-2/releases/tag/v0.8.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-05T11:57:39Z",
+    "desc": "English translation patch and tooling for Sunrise Eiyuutan 2 (PlayStation 2, SLPS-25070).",
+    "full": "retro-trans/Sunrise-Eiyuutan-2",
+    "lang": "Python",
+    "pushed": "2026-11-05T13:06:28Z",
+    "size": 6347,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/retro-trans/Sunrise-Eiyuutan-2/HEAD/assets/social-preview.jpg"
+   ]
   },
   "retro-trans/super-tokusatsu-taisen-2001": {
    "assetOs": {},
@@ -8616,8 +8732,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-05T12:46:44Z",
-    "size": 101900,
+    "pushed": "2026-11-05T23:37:08Z",
+    "size": 101933,
     "stars": 157
    },
    "shots": [
@@ -9574,6 +9690,30 @@
    },
    "shots": []
   },
+  "tzeentchnet/macross-vfx2-recomp": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-05T11:08:06Z",
+    "desc": "Modern Macross VF-X2 PSX recompilation with Vulkan, PGXP, fast loading, English localization tooling, and diagnostic support",
+    "full": "Tzeentchnet/Macross-VFX2-Recomp",
+    "lang": "Python",
+    "pushed": "2026-11-05T17:33:31Z",
+    "size": 103,
+    "stars": 1
+   },
+   "shots": []
+  },
   "vinheim3/sakurawars1-disasm": {
    "assetOs": {
     "Windows": true
@@ -9605,6 +9745,38 @@
     "stars": 36
    },
    "shots": []
+  },
+  "viruztt/snatcher-pce-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-05T12:51:44Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/viruztt/snatcher-pce-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-05T12:50:41Z",
+    "desc": "English fan translation of Snatcher for the PC Engine CD (Konami, 1992): all dialogue, menus and speaker names, with a new proportional font. A patch for your own copy of the game, such as the files dumped from a PC Engine Mini.",
+    "full": "viruztt/snatcher-pce-english",
+    "lang": "Python",
+    "pushed": "2026-11-05T12:52:37Z",
+    "size": 236,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/viruztt/snatcher-pce-english/HEAD/docs/screenshots/reception-dialogue.png",
+    "https://raw.githubusercontent.com/viruztt/snatcher-pce-english/HEAD/docs/screenshots/long-line.png",
+    "https://raw.githubusercontent.com/viruztt/snatcher-pce-english/HEAD/docs/screenshots/gillian.png",
+    "https://raw.githubusercontent.com/viruztt/snatcher-pce-english/HEAD/docs/screenshots/menu.png"
+   ]
   },
   "vnayar/final-fantasy-iii-neoclassical": {
    "noRelease": true,
@@ -9656,9 +9828,9 @@
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
     "lang": "C++",
-    "pushed": "2026-11-05T17:21:13Z",
-    "size": 2138,
-    "stars": 202
+    "pushed": "2026-11-05T22:31:05Z",
+    "size": 2375,
+    "stars": 205
    },
    "shots": []
   },
@@ -9705,8 +9877,8 @@
     "desc": "Native PC port of Umineko no Naku Koro ni Saku (Switch) with the Catbox English patch: an independent continuation of the shin engine, built from reverse engineering the original",
     "full": "vVKamiVv/Open-Catbox-Project",
     "lang": "Rust",
-    "pushed": "2026-11-05T18:44:38Z",
-    "size": 3099,
+    "pushed": "2026-11-06T01:38:24Z",
+    "size": 3306,
     "stars": 0
    },
    "shots": []
@@ -9921,6 +10093,27 @@
     "https://raw.githubusercontent.com/yingyangtongxue/detective-conan-kakokara-nds-en-patch/HEAD/docs/screenshots/3.png",
     "https://raw.githubusercontent.com/yingyangtongxue/detective-conan-kakokara-nds-en-patch/HEAD/docs/screenshots/preview2.gif"
    ]
+  },
+  "zhadtech/snes-translation-kit": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-05T12:43:31Z",
+    "desc": "ICM workspace for SNES fan translations with Claude Code: stage contracts, review gates, and Python ROM tools. No ROMs included.",
+    "full": "zhadtech/snes-translation-kit",
+    "lang": "Python",
+    "pushed": "2026-11-05T12:43:39Z",
+    "size": 58,
+    "stars": 0
+   },
+   "shots": []
   },
   "zlotny/digimon-adventure-psp-translation-kit": {
    "noRelease": true,

@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-05T20:06:50Z",
+ "generated": "2026-11-06T01:39:03Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -13708,19 +13708,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-11-05T01:30:38Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "3DS",
-   "src": "GitHub"
-  },
-  {
    "d": "English fan translation of Black/Matrix + (PSX)",
    "fa": "2026-11-05T11:12:14Z",
    "g": "Black/Matrix +",
@@ -13861,6 +13848,58 @@
     "Human translation"
    ],
    "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for Shadowrun on Sega CD / Mega-CD. Distributed as BPS patches for the original Japanese release, with separate JP, US, and EU boot-region editions. Requires a legally obtained Japanese copy of the game.",
+   "fa": "2026-11-06T01:39:03Z",
+   "g": "Shadowrun",
+   "id": "retcherez/shadowrun-megacd-segacd-english",
+   "k": "retcherez/shadowrun-megacd-segacd-english",
+   "l": "https://github.com/RetchERez/Shadowrun-MegaCD-SegaCD-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Mega CD",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Paro Wars (PSX)",
+   "fa": "2026-11-06T01:39:03Z",
+   "g": "Paro Wars",
+   "id": "minhnhattonthat/paro-wars-en",
+   "k": "minhnhattonthat/paro-wars-en",
+   "l": "https://github.com/minhnhattonthat/paro-wars-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Legendz: Yomigaeru Shiren no Shima (GBA)",
+   "fa": "2026-11-06T01:39:03Z",
+   "g": "Legendz: Yomigaeru Shiren no Shima",
+   "id": "minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en",
+   "k": "minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en",
+   "l": "https://github.com/minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "AI English translation of Kamen Rider Agito game for PlayStation",
+   "fa": "2026-11-06T01:39:03Z",
+   "g": "Kamen Rider Agito game",
+   "id": "imphostil/kamen-rider-agito-ps1-ai-english-translation",
+   "k": "imphostil/kamen-rider-agito-ps1-ai-english-translation",
+   "l": "https://github.com/imphostil/kamen-rider-agito-ps1-ai-english-translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
    "src": "GitHub"
   },
   {
@@ -14797,18 +14836,6 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Shadowrun - English Translation - Mega CD PAL",
-   "fa": "2026-10-22T09:18:31Z",
-   "g": "Shadowrun",
-   "id": "link:https://archive.org/details/shadowrun-english-pal",
-   "l": "https://archive.org/details/shadowrun-english-pal",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Mega CD",
-   "src": "Internet Archive"
-  },
-  {
    "d": "Puyo Puyo Tetris (3DS) English Patch",
    "fa": "2026-10-22T09:18:31Z",
    "g": "Puyo Puyo Tetris",
@@ -15493,27 +15520,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-05T01:30:38Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-11-05T11:12:14Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "Bulk Slash (English Patch)",
+   "d": "AIR English Patch (PSP, patr0805)",
    "fa": "2026-11-05T11:12:14Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-05T20:06:50Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-06T01:39:03Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
