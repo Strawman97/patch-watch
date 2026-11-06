@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-06T11:10:34Z",
+ "generated": "2026-11-06T19:33:14Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -13916,16 +13916,16 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-11-06T11:10:34Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "d": "Native Windows recompilation and English translation of SD Battle Oozumou: Heisei Hero Basho (Famicom) using NESRecomp.",
+   "fa": "2026-11-06T19:33:14Z",
+   "g": "SD Battle Oozumou: Heisei Hero Basho",
+   "id": "brande77/sd-battle-oozumou-recomp",
+   "k": "brande77/sd-battle-oozumou-recomp",
+   "l": "https://github.com/brande77/sd-battle-oozumou-recomp",
    "lb": [
     "Human translation"
    ],
-   "p": "3DS",
+   "p": "NES",
    "src": "GitHub"
   },
   {
@@ -15546,39 +15546,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
    "fa": "2026-11-06T01:39:03Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
-    "Human translation"
+    "Undub"
    ],
-   "p": "GameCube",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "Shadowrun - English Translation - Mega CD PAL",
-   "fa": "2026-11-06T01:39:03Z",
-   "g": "Shadowrun",
-   "id": "link:https://archive.org/details/shadowrun-english-pal",
-   "l": "https://archive.org/details/shadowrun-english-pal",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Mega CD",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Bulk Slash (English Patch)",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
    "fa": "2026-11-06T11:10:34Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-06T11:10:34Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-06T19:33:14Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
    "src": "Internet Archive"
   },
   {

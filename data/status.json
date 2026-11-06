@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-06T11:10:34Z",
+ "generated": "2026-11-06T19:33:14Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1014,7 +1014,7 @@
     "lang": null,
     "pushed": "2026-11-04T01:36:32Z",
     "size": 2555,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -2031,10 +2031,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-28T20:56:12Z",
+    "date": "2026-11-06T15:48:27Z",
     "pre": true,
-    "tag": "v0.9.0",
-    "url": "https://github.com/damon-daemon/genghis-khan-4-english/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/genghis-khan-4-english/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -2042,8 +2042,8 @@
     "desc": "English fan translation patch for Aoki Ookami to Shiroki Mejika IV (Genghis Khan IV, PlayStation)",
     "full": "damon-daemon/genghis-khan-4-english",
     "lang": "Python",
-    "pushed": "2026-10-28T20:56:11Z",
-    "size": 1482,
+    "pushed": "2026-11-06T15:48:27Z",
+    "size": 1484,
     "stars": 1
    },
    "shots": [
@@ -2141,10 +2141,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-22T18:11:22Z",
+    "date": "2026-11-06T12:57:58Z",
     "pre": true,
-    "tag": "v0.9.0",
-    "url": "https://github.com/damon-daemon/nobunaga-reppuuden-puk-english/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/nobunaga-reppuuden-puk-english/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -2152,7 +2152,7 @@
     "desc": "English fan translation (full machine translation) of Nobunaga no Yabou: Reppuuden with Power-Up Kit for the PlayStation",
     "full": "damon-daemon/nobunaga-reppuuden-puk-english",
     "lang": "Python",
-    "pushed": "2026-11-06T05:35:48Z",
+    "pushed": "2026-11-06T12:57:58Z",
     "size": 1569,
     "stars": 1
    },
@@ -2356,6 +2356,7 @@
    "readme": {
     "patch": {
      "ex": {
+      "fixes": true,
       "gfx": true
      },
      "mtl": true
@@ -2364,10 +2365,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-29T13:17:00Z",
+    "date": "2026-11-06T15:31:41Z",
     "pre": true,
-    "tag": "v0.10.3",
-    "url": "https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.10.3"
+    "tag": "v0.11.0",
+    "url": "https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.11.0"
    },
    "repo": {
     "archived": false,
@@ -2375,8 +2376,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-10-29T13:17:00Z",
-    "size": 5063,
+    "pushed": "2026-11-06T15:31:29Z",
+    "size": 5312,
     "stars": 4
    },
    "shots": [
@@ -2478,7 +2479,7 @@
     "lang": "Perl",
     "pushed": "2026-05-08T11:35:05Z",
     "size": 3177,
-    "stars": 80
+    "stars": 79
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
@@ -3324,8 +3325,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-06T07:39:31Z",
-    "size": 145219,
+    "pushed": "2026-11-06T12:07:57Z",
+    "size": 145221,
     "stars": 44
    },
    "shots": [
@@ -5013,7 +5014,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T12:13:14Z",
     "size": 389,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -5287,6 +5288,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 20
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -5887,7 +5920,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-05T15:44:02Z",
     "size": 92098,
-    "stars": 100
+    "stars": 101
    },
    "shots": [
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
@@ -6223,8 +6256,8 @@
     "desc": "English fan translation of Bakumatsu Rock: Ultra Soul (PSP)",
     "full": "minhnhattonthat/bakumatsu-rock-ultra-soul-en",
     "lang": "Python",
-    "pushed": "2026-11-02T23:02:21Z",
-    "size": 9289,
+    "pushed": "2026-11-06T11:26:22Z",
+    "size": 9302,
     "stars": 1
    },
    "shots": []
@@ -7457,7 +7490,9 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "subs": true
+     }
     },
     "v": 1
    },
@@ -7474,8 +7509,8 @@
     "desc": "English fan translation of Seireiki Rayblade (PSX)",
     "full": "minhnhattonthat/seireiki-rayblade-en",
     "lang": "Python",
-    "pushed": "2026-11-03T06:20:32Z",
-    "size": 24700,
+    "pushed": "2026-11-06T11:10:54Z",
+    "size": 24703,
     "stars": 0
    },
    "shots": []
@@ -7873,7 +7908,7 @@
     "desc": "Tsumu Light (Japan) recompiled for the Sony PlayStation using psxrecomp, with an English fan-translation · Part of the R.A.I.D. community",
     "full": "mstan/TsumuLightRecomp",
     "lang": "Shell",
-    "pushed": "2026-10-31T01:07:28Z",
+    "pushed": "2026-11-06T19:10:07Z",
     "size": 438,
     "stars": 7
    },
@@ -8368,6 +8403,7 @@
    "noRelease": true,
    "readme": {
     "patch": {
+     "cov": "Partial",
      "ex": {}
     },
     "v": 1
@@ -8379,8 +8415,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-06T01:39:27Z",
-    "size": 4256,
+    "pushed": "2026-11-06T18:50:07Z",
+    "size": 2318,
     "stars": 0
    },
    "shots": []
@@ -8765,6 +8801,36 @@
    },
    "shots": []
   },
+  "retro-trans/tengai-makyou-ii": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-06T05:54:57Z",
+    "pre": false,
+    "tag": "v0.8.0",
+    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-06T05:52:04Z",
+    "desc": "English translation patch for Tengai Makyou II: Manji Maru (GameCube).",
+    "full": "retro-trans/Tengai-Makyou-II",
+    "lang": "Python",
+    "pushed": "2026-11-06T08:10:03Z",
+    "size": 25,
+    "stars": 1
+   },
+   "shots": []
+  },
   "retrogamingreloaded/blue-seed-kushinada-hiroku-den-translation": {
    "assetOs": {},
    "readme": {
@@ -8817,9 +8883,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-05T23:37:08Z",
-    "size": 101933,
-    "stars": 157
+    "pushed": "2026-11-06T16:21:12Z",
+    "size": 101838,
+    "stars": 158
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -9112,8 +9178,8 @@
     "desc": "English translation patch for Wizardry: Dimguil (PS1, SLPS-02691 Rev 1)",
     "full": "satelliteoflove/dimguil-english",
     "lang": "Python",
-    "pushed": "2026-11-05T12:02:16Z",
-    "size": 11353,
+    "pushed": "2026-11-06T16:44:07Z",
+    "size": 11563,
     "stars": 0
    },
    "shots": [
@@ -9854,7 +9920,7 @@
     "lang": "Python",
     "pushed": "2026-11-05T12:52:37Z",
     "size": 236,
-    "stars": 1
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/viruztt/snatcher-pce-english/HEAD/docs/screenshots/reception-dialogue.png",
@@ -9915,7 +9981,7 @@
     "lang": "C++",
     "pushed": "2026-11-05T22:31:05Z",
     "size": 2375,
-    "stars": 208
+    "stars": 213
    },
    "shots": []
   },
@@ -9962,8 +10028,8 @@
     "desc": "Native PC port of Umineko no Naku Koro ni Saku (Switch) with the Catbox English patch: an independent continuation of the shin engine, built from reverse engineering the original",
     "full": "vVKamiVv/Open-Catbox-Project",
     "lang": "Rust",
-    "pushed": "2026-11-06T05:37:45Z",
-    "size": 4096,
+    "pushed": "2026-11-06T19:07:08Z",
+    "size": 4182,
     "stars": 0
    },
    "shots": []
@@ -9993,7 +10059,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T21:48:49Z",
     "size": 13940,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://img.youtube.com/vi/lB-wLC9MY5E/hqdefault.jpg",
