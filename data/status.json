@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-07T10:27:39Z",
+ "generated": "2026-11-07T17:47:39Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1014,7 +1014,7 @@
     "lang": null,
     "pushed": "2026-11-04T01:36:32Z",
     "size": 2555,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -2033,7 +2033,7 @@
     "desc": "English fan translation patch for Uncharted Waters IV: Rota Nova (Daikoukai Jidai IV DS, Nintendo DS)",
     "full": "damon-daemon/daikoukai-jidai-4-ds-english",
     "lang": "Python",
-    "pushed": "2026-10-30T22:24:55Z",
+    "pushed": "2026-11-07T13:55:49Z",
     "size": 1896,
     "stars": 2
    },
@@ -2404,8 +2404,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-11-06T23:02:04Z",
-    "size": 5316,
+    "pushed": "2026-11-07T14:41:34Z",
+    "size": 5317,
     "stars": 4
    },
    "shots": [
@@ -3353,8 +3353,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-07T03:40:39Z",
-    "size": 145257,
+    "pushed": "2026-11-07T15:45:18Z",
+    "size": 145614,
     "stars": 45
    },
    "shots": [
@@ -3498,10 +3498,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-18T17:39:14Z",
+    "date": "2026-11-07T15:14:44Z",
     "pre": false,
-    "tag": "v1.0.3",
-    "url": "https://github.com/ExcalZ/ps2-retranslation/releases/tag/v1.0.3"
+    "tag": "v1.0.4",
+    "url": "https://github.com/ExcalZ/ps2-retranslation/releases/tag/v1.0.4"
    },
    "repo": {
     "archived": false,
@@ -3509,8 +3509,8 @@
     "desc": "A retranslation project for Phantasy Star II for the Sega Genesis.",
     "full": "ExcalZ/ps2-retranslation",
     "lang": "Assembly",
-    "pushed": "2026-10-18T17:39:14Z",
-    "size": 3605,
+    "pushed": "2026-11-07T15:14:33Z",
+    "size": 4544,
     "stars": 8
    },
    "shots": []
@@ -4466,10 +4466,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-13T22:42:51Z",
+    "date": "2026-11-07T14:26:23Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/itsbalanse/BokuraNoKazoku-English/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/itsbalanse/BokuraNoKazoku-English/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -4477,8 +4477,8 @@
     "desc": "English fan translation patch for Bokura no Kazoku (PS2, 2005) - apply to your own copy of the game",
     "full": "itsbalanse/BokuraNoKazoku-English",
     "lang": "Python",
-    "pushed": "2026-10-13T22:42:51Z",
-    "size": 3644,
+    "pushed": "2026-11-07T16:39:40Z",
+    "size": 3657,
     "stars": 3
    },
    "shots": [
@@ -5073,7 +5073,7 @@
     "lang": "Python",
     "pushed": "2026-11-06T23:14:18Z",
     "size": 2861,
-    "stars": 0
+    "stars": 2
    },
    "shots": []
   },
@@ -5347,38 +5347,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-02T01:23:08Z",
-    "pre": false,
-    "tag": "0.8.10",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-02T01:23:08Z",
-    "size": 40859,
-    "stars": 20
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -6321,6 +6289,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/bastard-utsuronaru-kamigami-no-utsuwa-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-07T06:08:29Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/bastard-utsuronaru-kamigami-no-utsuwa-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-06T02:35:46Z",
+    "desc": "English fan translation of Bastard!! Utsuronaru Kamigami no Utsuwa (PSX)",
+    "full": "minhnhattonthat/bastard-utsuronaru-kamigami-no-utsuwa-en",
+    "lang": "Python",
+    "pushed": "2026-11-07T06:10:29Z",
+    "size": 15570,
+    "stars": 1
+   },
+   "shots": []
+  },
   "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en": {
    "assetOs": {},
    "readme": {
@@ -7067,6 +7064,33 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:06:45Z",
     "size": 300,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/hachiemon-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-07T02:23:47Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/hachiemon-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-06T06:54:02Z",
+    "desc": "English fan translation of hachiemon-en (GBA)",
+    "full": "minhnhattonthat/hachiemon-en",
+    "lang": "Python",
+    "pushed": "2026-11-07T05:56:15Z",
+    "size": 600,
     "stars": 0
    },
    "shots": []
@@ -7850,7 +7874,7 @@
     "lang": "Python",
     "pushed": "2026-11-07T05:57:00Z",
     "size": 2878,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8474,8 +8498,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-07T03:35:34Z",
-    "size": 4829,
+    "pushed": "2026-11-07T17:38:03Z",
+    "size": 5556,
     "stars": 0
    },
    "shots": []
@@ -9029,7 +9053,7 @@
     "lang": null,
     "pushed": "2026-11-04T18:37:13Z",
     "size": 3,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -9396,8 +9420,8 @@
     "desc": "This is a partial disassembly to translate Puyo Puyo for the Sega Mega Drive into English.",
     "full": "Scrambled-Beans/puyo1-md-translation",
     "lang": "Assembly",
-    "pushed": "2026-11-07T10:27:31Z",
-    "size": 3440,
+    "pushed": "2026-11-07T11:39:16Z",
+    "size": 3250,
     "stars": 8
    },
    "shots": []
@@ -10008,7 +10032,7 @@
     "lang": "Python",
     "pushed": "2026-11-05T12:52:37Z",
     "size": 236,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/viruztt/snatcher-pce-english/HEAD/docs/screenshots/reception-dialogue.png",
@@ -10069,7 +10093,7 @@
     "lang": "C++",
     "pushed": "2026-11-07T01:43:49Z",
     "size": 3546,
-    "stars": 214
+    "stars": 219
    },
    "shots": []
   },
@@ -10112,10 +10136,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-07T05:02:51Z",
+    "date": "2026-11-07T16:48:42Z",
     "pre": false,
-    "tag": "v0.2.5",
-    "url": "https://github.com/vVKamiVv/Open-Catbox-Project/releases/tag/v0.2.5"
+    "tag": "v0.2.7",
+    "url": "https://github.com/vVKamiVv/Open-Catbox-Project/releases/tag/v0.2.7"
    },
    "repo": {
     "archived": false,
@@ -10123,8 +10147,8 @@
     "desc": "Native PC port of Umineko no Naku Koro ni Saku (Switch) with the Catbox English patch: an independent continuation of the shin engine, built from reverse engineering the original",
     "full": "vVKamiVv/Open-Catbox-Project",
     "lang": "Rust",
-    "pushed": "2026-11-07T05:02:51Z",
-    "size": 5442,
+    "pushed": "2026-11-07T17:04:36Z",
+    "size": 5838,
     "stars": 0
    },
    "shots": []
