@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-06T19:33:14Z",
+ "generated": "2026-11-07T00:59:01Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -285,8 +285,8 @@
     "desc": "Dragon Quest Monsters: Joker 3 Professional (3DS), the 2021 English fan translation rebuilt with its defects fixed. Two xdelta patches for the Japanese game.",
     "full": "Akoi89/DQMJ3P-english-fixed",
     "lang": "Batchfile",
-    "pushed": "2026-10-07T03:07:45Z",
-    "size": 523923,
+    "pushed": "2026-11-06T23:23:46Z",
+    "size": 523924,
     "stars": 19
    },
    "shots": []
@@ -1598,6 +1598,34 @@
    },
    "shots": []
   },
+  "brande77/sd-battle-oozumou-recomp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-06T19:10:15Z",
+    "pre": true,
+    "tag": "v0.1.0_pre-release",
+    "url": "https://github.com/brande77/sd-battle-oozumou-recomp/releases/tag/v0.1.0_pre-release"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-06T19:02:34Z",
+    "desc": "Native Windows recompilation and English translation of SD Battle Oozumou: Heisei Hero Basho (Famicom) using NESRecomp.",
+    "full": "brande77/sd-battle-oozumou-recomp",
+    "lang": "C",
+    "pushed": "2026-11-06T19:25:08Z",
+    "size": 117,
+    "stars": 0
+   },
+   "shots": []
+  },
   "brianblakely/slapstick-english-translation": {
    "assetOs": {},
    "readme": {
@@ -1608,10 +1636,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-06T09:35:01Z",
+    "date": "2026-11-07T00:24:23Z",
     "pre": false,
-    "tag": "v0.10",
-    "url": "https://github.com/brianblakely/slapstick-english-translation/releases/tag/v0.10"
+    "tag": "v0.11",
+    "url": "https://github.com/brianblakely/slapstick-english-translation/releases/tag/v0.11"
    },
    "repo": {
     "archived": false,
@@ -1619,7 +1647,7 @@
     "desc": "An English translation of the Super Famicom title \"Slapstick\"",
     "full": "brianblakely/slapstick-english-translation",
     "lang": "JavaScript",
-    "pushed": "2026-11-06T09:35:01Z",
+    "pushed": "2026-11-07T00:24:23Z",
     "size": 37317,
     "stars": 0
    },
@@ -2376,8 +2404,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-11-06T15:31:29Z",
-    "size": 5312,
+    "pushed": "2026-11-06T23:02:04Z",
+    "size": 5316,
     "stars": 4
    },
    "shots": [
@@ -3064,7 +3092,7 @@
     "lang": null,
     "pushed": "2026-09-25T15:02:28Z",
     "size": 230,
-    "stars": 13
+    "stars": 14
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
@@ -4451,7 +4479,7 @@
     "lang": "Python",
     "pushed": "2026-10-13T22:42:51Z",
     "size": 3644,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/itsbalanse/BokuraNoKazoku-English/HEAD/docs/screenshots/01_title.png",
@@ -4574,7 +4602,7 @@
     "lang": "C++",
     "pushed": "2026-10-13T21:39:28Z",
     "size": 1010,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -5288,38 +5316,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-02T01:23:08Z",
-    "pre": false,
-    "tag": "0.8.10",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-02T01:23:08Z",
-    "size": 40859,
-    "stars": 20
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -7909,7 +7905,7 @@
     "full": "mstan/TsumuLightRecomp",
     "lang": "Shell",
     "pushed": "2026-11-06T19:10:07Z",
-    "size": 438,
+    "size": 448,
     "stars": 7
    },
    "shots": []
@@ -8415,8 +8411,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-06T18:50:07Z",
-    "size": 2318,
+    "pushed": "2026-11-07T00:12:02Z",
+    "size": 3479,
     "stars": 0
    },
    "shots": []
@@ -8814,10 +8810,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-06T05:54:57Z",
+    "date": "2026-11-06T21:12:37Z",
     "pre": false,
-    "tag": "v0.8.0",
-    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.0"
+    "tag": "v0.8.1",
+    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.1"
    },
    "repo": {
     "archived": false,
@@ -8825,8 +8821,8 @@
     "desc": "English translation patch for Tengai Makyou II: Manji Maru (GameCube).",
     "full": "retro-trans/Tengai-Makyou-II",
     "lang": "Python",
-    "pushed": "2026-11-06T08:10:03Z",
-    "size": 25,
+    "pushed": "2026-11-06T21:18:50Z",
+    "size": 42,
     "stars": 1
    },
    "shots": []
@@ -8872,10 +8868,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T11:19:46Z",
+    "date": "2026-11-06T21:01:26Z",
     "pre": false,
-    "tag": "1.0.0-hotfix2",
-    "url": "https://github.com/RHAdvance/RhythmHeavenAdvance/releases/tag/1.0.0-hotfix2"
+    "tag": "1.0.0-hotfix3",
+    "url": "https://github.com/RHAdvance/RhythmHeavenAdvance/releases/tag/1.0.0-hotfix3"
    },
    "repo": {
     "archived": false,
@@ -8883,7 +8879,7 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-06T16:21:12Z",
+    "pushed": "2026-11-06T21:01:25Z",
     "size": 101838,
     "stars": 158
    },
@@ -8958,10 +8954,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-04T05:50:49Z",
+    "date": "2026-11-06T22:55:27Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/rmccune83/Noon-Saturn-Translation-Patch/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/rmccune83/Noon-Saturn-Translation-Patch/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -8969,7 +8965,7 @@
     "desc": "English patch for the Sega Saturn game called Noon",
     "full": "rmccune83/Noon-Saturn-Translation-Patch",
     "lang": null,
-    "pushed": "2026-11-04T05:50:48Z",
+    "pushed": "2026-11-06T22:55:27Z",
     "size": 3,
     "stars": 3
    },
@@ -9178,8 +9174,8 @@
     "desc": "English translation patch for Wizardry: Dimguil (PS1, SLPS-02691 Rev 1)",
     "full": "satelliteoflove/dimguil-english",
     "lang": "Python",
-    "pushed": "2026-11-06T16:44:07Z",
-    "size": 11563,
+    "pushed": "2026-11-06T21:42:30Z",
+    "size": 11855,
     "stars": 0
    },
    "shots": [
@@ -10013,23 +10009,30 @@
    "shots": []
   },
   "vvkamivv/open-catbox-project": {
-   "noRelease": true,
+   "assetOs": {
+    "Windows": true
+   },
    "readme": {
     "patch": {
-     "cov": "Partial",
      "ex": {}
     },
     "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-11-06T23:50:08Z",
+    "pre": false,
+    "tag": "v0.1.0",
+    "url": "https://github.com/vVKamiVv/Open-Catbox-Project/releases/tag/v0.1.0"
+   },
    "repo": {
     "archived": false,
     "created": "2026-11-05T06:50:42Z",
     "desc": "Native PC port of Umineko no Naku Koro ni Saku (Switch) with the Catbox English patch: an independent continuation of the shin engine, built from reverse engineering the original",
     "full": "vVKamiVv/Open-Catbox-Project",
     "lang": "Rust",
-    "pushed": "2026-11-06T19:07:08Z",
-    "size": 4182,
+    "pushed": "2026-11-07T00:47:46Z",
+    "size": 6224,
     "stars": 0
    },
    "shots": []
@@ -10059,7 +10062,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T21:48:49Z",
     "size": 13940,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://img.youtube.com/vi/lB-wLC9MY5E/hqdefault.jpg",
