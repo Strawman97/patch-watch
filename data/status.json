@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-07T17:47:39Z",
+ "generated": "2026-11-07T22:00:43Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -2379,6 +2379,43 @@
     "https://raw.githubusercontent.com/damon-daemon/sangokushi-ds-3-english/HEAD/docs/screenshots/06_deploy.png"
    ]
   },
+  "damon-daemon/sangokushi-eiketsuden-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-07T17:37:51Z",
+    "pre": false,
+    "tag": "v0.9.2",
+    "url": "https://github.com/damon-daemon/sangokushi-eiketsuden-english/releases/tag/v0.9.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-02T02:31:23Z",
+    "desc": "English fan translation patch for Sangokushi Eiketsuden (PS1, Koei)",
+    "full": "damon-daemon/sangokushi-eiketsuden-english",
+    "lang": "Python",
+    "pushed": "2026-11-07T17:37:51Z",
+    "size": 1629,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-eiketsuden-english/HEAD/docs/screenshots/01_dialogue.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-eiketsuden-english/HEAD/docs/screenshots/02_narration.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-eiketsuden-english/HEAD/docs/screenshots/03_council.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-eiketsuden-english/HEAD/docs/screenshots/04_battle.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-eiketsuden-english/HEAD/docs/screenshots/05_formation.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-eiketsuden-english/HEAD/docs/screenshots/06_shop.png"
+   ]
+  },
   "damon-daemon/taiko-risshiden-5-english": {
    "assetOs": {},
    "readme": {
@@ -3540,7 +3577,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-15T23:48:06Z",
     "size": 29523,
-    "stars": 8
+    "stars": 9
    },
    "shots": []
   },
@@ -3919,8 +3956,8 @@
     "desc": "English patch the the PC Engine game Tengai Makyou - Fuun Kabuki-den",
     "full": "fabiof17/Tengai-Makyou---Fuun-Kabuki-den-English-patch-",
     "lang": "PowerShell",
-    "pushed": "2026-11-07T08:54:22Z",
-    "size": 7493,
+    "pushed": "2026-11-07T18:08:34Z",
+    "size": 10015,
     "stars": 1
    },
    "shots": []
@@ -4452,6 +4489,42 @@
     "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00024.jpg"
    ]
   },
+  "irxd/shin-gundam-musou-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-07T15:01:17Z",
+    "pre": true,
+    "tag": "v0.2.0",
+    "url": "https://github.com/irxd/shin-gundam-musou-en/releases/tag/v0.2.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-06T15:54:03Z",
+    "desc": "Shin Gundam Musou (PS Vita) English Patch",
+    "full": "irxd/shin-gundam-musou-en",
+    "lang": "Python",
+    "pushed": "2026-11-07T15:01:16Z",
+    "size": 4943,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/05-story-dialogue.png",
+    "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/08-battle-dialogue.png",
+    "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/04-narration.png",
+    "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/06-chapter-card.png",
+    "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/03-title-select.png",
+    "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/09-battle-message.png"
+   ]
+  },
   "itsbalanse/bokuranokazoku-english": {
    "assetOs": {},
    "readme": {
@@ -4827,7 +4900,7 @@
     "desc": "English Translation for Fire Pro Wrestling D (Dreamcast)",
     "full": "kactusken/Fire-Pro-Wrestling-D-English",
     "lang": "Python",
-    "pushed": "2026-11-01T20:21:25Z",
+    "pushed": "2026-11-07T21:21:04Z",
     "size": 10365,
     "stars": 1
    },
@@ -5347,6 +5420,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 20
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -8154,7 +8259,7 @@
    "repo": {
     "archived": false,
     "created": "2026-09-24T07:24:34Z",
-    "desc": "An addendum + ROMHack that aims to provide the updated script of the HD Remaster, and add little cosmetic \"improvements\" to the game and menus. Two Patches: DQ if you want modern Dragon Quest. DW if you want localizations and terminology so be Dragon Warrior (pre-2005) and use American English.",
+    "desc": "An addendum + ROMHack that aims to provide the updated script of the HD Remaster, and add little cosmetic \"improvements\" to the game and menus. Two Patches: DQ if you want modern Dragon Quest. DW if you want localizations and terminology to be closer to Dragon Warrior (pre-2005) and use American English.",
     "full": "NonagonGoron/Tornekos-Great-Adventure-SFC-with-Remaster-Script",
     "lang": null,
     "pushed": "2026-11-07T03:55:24Z",
@@ -8378,7 +8483,6 @@
     "patch": {
      "cov": "Partial",
      "ex": {
-      "gfx": true,
       "restore": true,
       "subs": true,
       "uncensor": true
@@ -8389,19 +8493,19 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-01T15:58:08Z",
+    "date": "2026-11-07T21:46:41Z",
     "pre": false,
-    "tag": "v1.0.1",
-    "url": "https://github.com/pepasjc/snatcher-translated/releases/tag/v1.0.1"
+    "tag": "v1.5.1",
+    "url": "https://github.com/pepasjc/snatcher-translated/releases/tag/v1.5.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-09-08T00:29:11Z",
     "desc": "Fan made Snatcher translation patch for Sony Playstation",
     "full": "pepasjc/snatcher-translated",
-    "lang": null,
-    "pushed": "2026-10-08T09:56:33Z",
-    "size": 767,
+    "lang": "Python",
+    "pushed": "2026-11-07T21:46:20Z",
+    "size": 3657,
     "stars": 74
    },
    "shots": []
@@ -8486,7 +8590,6 @@
    "noRelease": true,
    "readme": {
     "patch": {
-     "cov": "Partial",
      "ex": {}
     },
     "v": 1
@@ -8498,8 +8601,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-07T17:38:03Z",
-    "size": 5556,
+    "pushed": "2026-11-07T21:49:37Z",
+    "size": 7409,
     "stars": 0
    },
    "shots": []
@@ -9051,7 +9154,7 @@
     "desc": "English patch for the Sega Saturn game Assault Suit Leynos 2",
     "full": "rmccune83/Assault-Suit-Leynos-2-Saturn-Translation-Patch",
     "lang": null,
-    "pushed": "2026-11-04T18:37:13Z",
+    "pushed": "2026-11-07T18:10:24Z",
     "size": 3,
     "stars": 1
    },
@@ -9081,8 +9184,8 @@
     "desc": "English patch for the Sega Saturn game called Noon",
     "full": "rmccune83/Noon-Saturn-Translation-Patch",
     "lang": null,
-    "pushed": "2026-11-06T22:55:27Z",
-    "size": 3,
+    "pushed": "2026-11-07T18:19:47Z",
+    "size": 4,
     "stars": 3
    },
    "shots": []
@@ -10093,7 +10196,7 @@
     "lang": "C++",
     "pushed": "2026-11-07T01:43:49Z",
     "size": 3546,
-    "stars": 219
+    "stars": 221
    },
    "shots": []
   },
@@ -10136,10 +10239,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-07T16:48:42Z",
+    "date": "2026-11-07T21:45:59Z",
     "pre": false,
-    "tag": "v0.2.7",
-    "url": "https://github.com/vVKamiVv/Open-Catbox-Project/releases/tag/v0.2.7"
+    "tag": "v0.3.0",
+    "url": "https://github.com/vVKamiVv/Open-Catbox-Project/releases/tag/v0.3.0"
    },
    "repo": {
     "archived": false,
@@ -10147,8 +10250,8 @@
     "desc": "Native PC port of Umineko no Naku Koro ni Saku (Switch) with the Catbox English patch: an independent continuation of the shin engine, built from reverse engineering the original",
     "full": "vVKamiVv/Open-Catbox-Project",
     "lang": "Rust",
-    "pushed": "2026-11-07T17:04:36Z",
-    "size": 5838,
+    "pushed": "2026-11-07T21:57:43Z",
+    "size": 6033,
     "stars": 0
    },
    "shots": []
