@@ -208,6 +208,14 @@
    "title": "Meitantei Conan: Daiei Teikoku no Isan",
    "url": "https://cdn2.steamgriddb.com/grid/c6b64fe712d290f9cfe295bf3c59f07b.png"
   },
+  "damon-daemon/mouri-motonari-english": {
+   "added": "2026-11-08T06:19:44Z",
+   "match": 1.0,
+   "name": "Mouri Motonari: Chikai no Sanshi",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/9923b42178a6ebd781aeae4487dfe1a3.jpg",
+   "title": "Mouri Motonari: Chikai no Sanshi",
+   "url": "https://cdn2.steamgriddb.com/grid/9923b42178a6ebd781aeae4487dfe1a3.png"
+  },
   "damon-daemon/sangokushi-eiketsuden-english": {
    "added": "2026-11-07T17:47:39Z",
    "match": 1.0,
@@ -7464,6 +7472,14 @@
    "title": "Shin Megami Tensei Devil Children: Honoo no Sho",
    "url": "https://cdn2.steamgriddb.com/grid/63bbb78129ce09505aeca89f983bee09.png"
   },
+  "minhnhattonthat/time-bokan-series-bokan-desu-yo-en": {
+   "added": "2026-11-08T06:19:44Z",
+   "match": 1.0,
+   "name": "Time Bokan Series: Bokan Desu yo",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/56795daa80f888b8194169cd447904d4.png",
+   "title": "Time Bokan Series: Bokan desu yo",
+   "url": "https://cdn2.steamgriddb.com/grid/56795daa80f888b8194169cd447904d4.png"
+  },
   "minhnhattonthat/yu-yu-hakusho-2-english": {
    "added": "2026-11-05T11:12:14Z",
    "match": 1.0,
@@ -7786,7 +7802,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-11-07T22:00:43Z",
+ "generated": "2026-11-08T06:19:44Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -7869,7 +7885,7 @@
   "damon-daemon/daikoukai-jidai-4-ds-english": "2026-10-30T01:09:25Z|daikoukai jidai 4 ds",
   "damon-daemon/genghis-khan-4-english": "2026-10-29T01:03:32Z|genghis khan 4",
   "damon-daemon/nobunaga-ds-2-english": "2026-11-05T11:12:14Z|nobunagas ambition ds 2",
-  "damon-daemon/nobunaga-ranseiki-puk-english": "2026-10-25T04:56:45Z",
+  "damon-daemon/nobunaga-ranseiki-puk-english": "2026-11-08T06:19:44Z|nobunaga ranseiki puk",
   "damon-daemon/nobunaga-reppuuden-puk-english": "2026-11-06T01:39:03Z|nobunaga no yabou reppuuden with power up kit",
   "damon-daemon/nobunaga-soutenroku-puk-english": "2026-11-05T11:12:14Z|nobunaga no yabou soutenroku with power up kit",
   "damon-daemon/oda-nobunaga-den-english": "2026-10-31T05:57:14Z|oda nobunaga den",
@@ -7901,6 +7917,7 @@
   "fiksr/eve-burst-error-r-vita-english-patch": "2026-11-03T11:03:57Z|eve burst error r",
   "fiksr/yuno-android": "2026-10-22T09:57:51Z",
   "flukeylukey1/nappletaleengpatchfix": "2026-11-05T11:12:14Z|napple tale arsia in daydream",
+  "ganyu2404/kiri-3ds-universal-translator": "2026-11-08T06:19:44Z|kiri 3ds universal translator",
   "gazefst/digimon-story-lost-evolution-indonesia-patch-nds": "2026-10-27T15:26:32Z|digimon story lost evolution indonesia",
   "gertius1/uu_psx_eng": "2026-10-30T22:29:19Z|psx version of ultima underworld",
   "gingka8233/happiness-sakura-celebration-english-patch-nintendo-switch": "2026-11-05T11:12:14Z|happiness sakura celebration",
@@ -7921,6 +7938,7 @@
   "kactusken/fire-pro-wrestling-g-english": "2026-11-05T11:12:14Z|fire pro wrestling g",
   "kactusken/fire-pro-wrestling-s-six-men-scramble-english": "2026-10-27T22:25:21Z|fire pro wrestling s",
   "kactusken/jikkyou-power-pro-wrestling-english": "2026-10-25T16:35:04Z|jikkyou power pro wrestling",
+  "kactusken/shin-nihon-pro-wrestling-toukon-retsuden-4-english": "2026-11-08T06:19:44Z|shin nihon pro wrestling toukon retsuden 4",
   "kactusken/shin-nippon-chou-senshi-in-tokyo-dome-english": "2026-11-04T01:29:32Z|shin nippon pro wrestling",
   "kactusken/super-wrestle-angels-english": "2026-11-05T11:12:14Z|super wrestle angels",
   "kactusken/virtual-pro-wrestling-psx-english": "2026-11-07T00:59:01Z|virtual pro wrestling",

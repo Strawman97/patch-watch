@@ -229,6 +229,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/920d8e71-6983-4bbf-b7da-c907d1c76023.jpg"
   },
+  "damon-daemon/mouri-motonari-english": {
+   "id": "160365",
+   "name": "Mouri Motonari: Chikai no Sanshi Mouri",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/f56df2da-fb90-495f-9a6e-2a91139a7138.jpg"
+  },
   "damon-daemon/nobunaga-ds-2-english": {
    "id": "191345",
    "name": "Nobunaga no Yabou DS 2",
@@ -672,6 +678,12 @@
    "name": "King of Colosseum II",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/5e0bc2e9-90e2-45bd-b974-ecb0e2aca933.png"
+  },
+  "kactusken/shin-nihon-pro-wrestling-toukon-retsuden-4-english": {
+   "id": "29349",
+   "name": "Shin Nihon Pro Wrestling: Toukon Retsuden 4",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/da7132e1-24d8-4874-9b57-80dc194b85de.jpg"
   },
   "kactusken/super-wrestle-angels-english": {
    "id": "28846",
@@ -1339,6 +1351,12 @@
    "region": "Europe",
    "url": "https://images.launchbox-app.com/ef4e2712-6155-467b-864a-c55205d18556.jpg"
   },
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "id": "7044",
+   "name": "Sonic Gems Collection",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/8920d704-e2de-4163-a4d6-d3597dbc05db.jpg"
+  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "id": "4422",
    "name": "Ace Combat Zero: The Belkan War",
@@ -1356,12 +1374,6 @@
    "name": "AeroWings",
    "region": "North America",
    "url": "https://images.launchbox-app.com/3ee6b5b4-bfcd-4fc6-aa7c-8621c58efb37.jpg"
-  },
-  "link:https://archive.org/details/air-english-patch-psp": {
-   "id": "166211",
-   "name": "Air",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/6a38612a-4371-403f-aeed-36c4bc5d81ec.jpg"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "id": "5870",
@@ -1573,6 +1585,12 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/67725e3f-0c3c-494f-9a1d-57ccbab26e83.jpg"
   },
+  "link:https://archive.org/details/bulk-slash-english-patch": {
+   "id": "23764",
+   "name": "Bulk Slash",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_a1cf6082-feb1-40dd-b444-922d9eb96a32.png"
+  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "id": "23380",
    "name": "Castle of Shikigami III",
@@ -1686,12 +1704,6 @@
    "name": "Doshin the Giant",
    "region": "Europe",
    "url": "https://images.launchbox-app.com/r2_e395b1c8-e697-45cc-8ade-2e0f396fc0c9.png"
-  },
-  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
-   "id": "7222",
-   "name": "Dragon Ball Z: Budokai",
-   "region": "North America",
-   "url": "https://images.launchbox-app.com/0cf4679d-281f-4e22-b3fe-943e6997febc.jpg"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "id": "20572",
@@ -2371,12 +2383,6 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/9152da1a-ae96-4b74-826f-d15d9677438e.jpg"
   },
-  "link:https://archive.org/details/sengokubasara3utageenglish": {
-   "id": "16496",
-   "name": "Sengoku Basara 3: Utage",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
-  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "id": "12407",
    "name": "Seven Samurai 20XX",
@@ -2400,6 +2406,12 @@
    "name": "Shadow Tower",
    "region": "North America",
    "url": "https://images.launchbox-app.com/r2_51540e8d-9784-4a5d-bb7a-1b15a2f5c0e5.jpg"
+  },
+  "link:https://archive.org/details/shadowrun-english-pal": {
+   "id": "23755",
+   "name": "Shadowrun",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/r2_8e439079-3c07-44da-bd5d-f8447e7685ed.png"
   },
   "link:https://archive.org/details/shining_force_exa_undub_patch": {
    "id": "13113",
@@ -10789,6 +10801,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/785199ad-c348-4d49-97e6-7c1d0f9355bc.jpg"
   },
+  "minhnhattonthat/time-bokan-series-bokan-desu-yo-en": {
+   "id": "130639",
+   "name": "Time Bokan Series: Bokan desu yo",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/937e8050-1235-43c5-b78b-57138ce99879.jpg"
+  },
   "minhnhattonthat/velldeselba-senki": {
    "id": "163219",
    "name": "Velldeselba Senki: Tsubasa no Kunshou",
@@ -11132,6 +11150,6 @@
    "url": "https://images.launchbox-app.com/0bcf3ccf-273d-4678-bf8c-424ca4239ddc.jpg"
   }
  },
- "generated": "2026-11-07T22:00:43Z",
+ "generated": "2026-11-08T06:19:44Z",
  "version": 1
 }
