@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-08T13:40:13Z",
+ "generated": "2026-11-08T19:47:12Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -319,7 +319,7 @@
     "lang": "Python",
     "pushed": "2026-11-03T00:23:19Z",
     "size": 2115,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -349,7 +349,7 @@
     "lang": "Python",
     "pushed": "2026-10-28T16:53:16Z",
     "size": 388,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -3427,9 +3427,9 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-08T12:49:58Z",
-    "size": 145661,
-    "stars": 45
+    "pushed": "2026-11-08T14:46:47Z",
+    "size": 145663,
+    "stars": 46
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -3632,10 +3632,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-06T01:22:18Z",
+    "date": "2026-11-08T16:40:10Z",
     "pre": false,
-    "tag": "v0.1.36",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.36"
+    "tag": "v0.1.37",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.37"
    },
    "repo": {
     "archived": false,
@@ -3643,8 +3643,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-06T01:22:18Z",
-    "size": 98844,
+    "pushed": "2026-11-08T16:40:10Z",
+    "size": 101863,
     "stars": 36
    },
    "shots": [
@@ -3993,8 +3993,8 @@
     "desc": "English patch the the PC Engine game Tengai Makyou - Fuun Kabuki-den",
     "full": "fabiof17/Tengai-Makyou---Fuun-Kabuki-den-English-patch-",
     "lang": "PowerShell",
-    "pushed": "2026-11-08T13:33:12Z",
-    "size": 11275,
+    "pushed": "2026-11-08T18:16:41Z",
+    "size": 31185,
     "stars": 1
    },
    "shots": []
@@ -4294,7 +4294,7 @@
     "lang": "C++",
     "pushed": "2026-10-30T23:29:59Z",
     "size": 105,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -4578,7 +4578,7 @@
     "lang": "Python",
     "pushed": "2026-11-08T00:14:25Z",
     "size": 5120,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/05-story-dialogue.png",
@@ -5515,38 +5515,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-02T01:23:08Z",
-    "pre": false,
-    "tag": "0.8.10",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-02T01:23:08Z",
-    "size": 40859,
-    "stars": 21
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -6629,6 +6597,33 @@
     "pushed": "2026-11-07T05:55:37Z",
     "size": 3129,
     "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/blaze-union-story-to-reach-the-future-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-08T09:56:30Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/blaze-union-story-to-reach-the-future-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-06T16:00:45Z",
+    "desc": "English fan translation of Blaze Union: Story to Reach the Future (PSP)",
+    "full": "minhnhattonthat/blaze-union-story-to-reach-the-future-en",
+    "lang": "Python",
+    "pushed": "2026-11-08T10:24:40Z",
+    "size": 3117,
+    "stars": 0
    },
    "shots": []
   },
@@ -8017,7 +8012,7 @@
     "lang": "Python",
     "pushed": "2026-11-08T00:18:59Z",
     "size": 887,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8327,7 +8322,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T21:52:59Z",
     "size": 934,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/Netrunner12/Popful-Mail-SFC-English-Translation/HEAD/docs/images/title.png",
@@ -8440,28 +8435,28 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T02:57:36Z",
+    "date": "2026-11-08T17:35:33Z",
     "pre": true,
-    "tag": "RC01",
-    "url": "https://github.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/releases/tag/RC01"
+    "tag": "RC02",
+    "url": "https://github.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/releases/tag/RC02"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-26T00:33:09Z",
-    "desc": "Complete English fan translation of Super Robot Wars OG Gaiden (PS2, SLPS-25836). RC01 xdelta patch, screenshots and install guide.",
+    "desc": "Complete English fan translation of Super Robot Wars OG Gaiden (PS2, SLPS-25836). RC02 xdelta patch, screenshots and install guide.",
     "full": "Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver",
     "lang": null,
-    "pushed": "2026-10-26T08:37:40Z",
-    "size": 15593,
+    "pushed": "2026-11-08T17:46:04Z",
+    "size": 16794,
     "stars": 2
    },
    "shots": [
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/11-special-menu.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/31-map-dialogue.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/30-glossary-term-popup.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/39-cutscene-excellen.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/41-battle-excellen-2.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/12-library-valsione.png"
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-1-rc01.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-1-rc02.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-2-rc01.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-2-rc02.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-3-rc01.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-3-rc02.png"
    ]
   },
   "ooa113y/umineko-catbox-english": {
@@ -8490,6 +8485,35 @@
     "stars": 112
    },
    "shots": []
+  },
+  "ozz0ab/tsukihime-plus-disc-vita": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-08T08:30:04Z",
+    "pre": false,
+    "tag": "v1.01",
+    "url": "https://github.com/OZZ0AB/tsukihime-plus-disc-vita/releases/tag/v1.01"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-08T08:23:24Z",
+    "desc": "Native PS Vita adaptation of Tsukihime Plus Disc English, with save slots, word wrapping, text-size controls, and custom LiveArea artwork. Game data is prepared locally.",
+    "full": "OZZ0AB/tsukihime-plus-disc-vita",
+    "lang": "C++",
+    "pushed": "2026-11-08T08:30:03Z",
+    "size": 1094,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/OZZ0AB/tsukihime-plus-disc-vita/HEAD/assets/plus-disc-livearea/bg.png"
+   ]
   },
   "ozz0ab/tsukihime-vita": {
    "assetOs": {},
@@ -8593,7 +8617,7 @@
     "lang": null,
     "pushed": "2026-10-23T15:36:36Z",
     "size": 11,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://github.com/user-attachments/assets/38c0d324-dae9-408b-949b-e4c9f637219a",
@@ -8630,7 +8654,7 @@
     "lang": "Python",
     "pushed": "2026-11-08T03:03:27Z",
     "size": 3772,
-    "stars": 76
+    "stars": 78
    },
    "shots": []
   },
@@ -9997,10 +10021,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-01T23:51:18Z",
-    "pre": false,
-    "tag": "v1.1.3",
-    "url": "https://github.com/struktured/trinea-dx/releases/tag/v1.1.3"
+    "date": "2026-11-08T14:48:12Z",
+    "pre": true,
+    "tag": "issue16-test-20261108",
+    "url": "https://github.com/struktured/trinea-dx/releases/tag/issue16-test-20261108"
    },
    "repo": {
     "archived": false,
@@ -10008,7 +10032,7 @@
     "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
     "full": "struktured/trinea-dx",
     "lang": "Assembly",
-    "pushed": "2026-11-01T23:51:16Z",
+    "pushed": "2026-11-08T14:48:12Z",
     "size": 2566,
     "stars": 1
    },
@@ -10324,7 +10348,7 @@
     "lang": "C++",
     "pushed": "2026-11-07T22:40:46Z",
     "size": 3661,
-    "stars": 225
+    "stars": 228
    },
    "shots": []
   },
@@ -10378,9 +10402,9 @@
     "desc": "Native PC port of Umineko no Naku Koro ni Saku (Switch) with the Catbox English patch: an independent continuation of the shin engine, built from reverse engineering the original",
     "full": "vVKamiVv/Open-Catbox-Project",
     "lang": "Rust",
-    "pushed": "2026-11-08T02:55:34Z",
-    "size": 5418,
-    "stars": 1
+    "pushed": "2026-11-08T17:40:58Z",
+    "size": 5456,
+    "stars": 2
    },
    "shots": []
   },
