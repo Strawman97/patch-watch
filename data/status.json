@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-08T06:19:44Z",
+ "generated": "2026-11-08T13:40:13Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -2083,6 +2083,43 @@
     "https://raw.githubusercontent.com/damon-daemon/genghis-khan-4-english/HEAD/docs/screenshots/06_map.png"
    ]
   },
+  "damon-daemon/mouri-motonari-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-07T23:52:23Z",
+    "pre": true,
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/mouri-motonari-english/releases/tag/v0.9.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-07T21:55:58Z",
+    "desc": "English fan translation patch for Mouri Motonari: Chikai no Sanshi (PS1, Koei)",
+    "full": "damon-daemon/mouri-motonari-english",
+    "lang": "Python",
+    "pushed": "2026-11-08T00:03:24Z",
+    "size": 1086,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/mouri-motonari-english/HEAD/docs/screenshots/01_dialogue.png",
+    "https://raw.githubusercontent.com/damon-daemon/mouri-motonari-english/HEAD/docs/screenshots/02_march.png",
+    "https://raw.githubusercontent.com/damon-daemon/mouri-motonari-english/HEAD/docs/screenshots/03_battle.png",
+    "https://raw.githubusercontent.com/damon-daemon/mouri-motonari-english/HEAD/docs/screenshots/04_town.png",
+    "https://raw.githubusercontent.com/damon-daemon/mouri-motonari-english/HEAD/docs/screenshots/05_merchant.png",
+    "https://raw.githubusercontent.com/damon-daemon/mouri-motonari-english/HEAD/docs/screenshots/06_bio.png"
+   ]
+  },
   "damon-daemon/nobunaga-ds-2-english": {
    "assetOs": {},
    "readme": {
@@ -3390,8 +3427,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-07T15:45:18Z",
-    "size": 145614,
+    "pushed": "2026-11-08T12:49:58Z",
+    "size": 145661,
     "stars": 45
    },
    "shots": [
@@ -3956,8 +3993,8 @@
     "desc": "English patch the the PC Engine game Tengai Makyou - Fuun Kabuki-den",
     "full": "fabiof17/Tengai-Makyou---Fuun-Kabuki-den-English-patch-",
     "lang": "PowerShell",
-    "pushed": "2026-11-07T18:08:34Z",
-    "size": 10015,
+    "pushed": "2026-11-08T13:33:12Z",
+    "size": 11275,
     "stars": 1
    },
    "shots": []
@@ -4076,6 +4113,33 @@
     "pushed": "2021-03-28T06:45:01Z",
     "size": 21964,
     "stars": 8
+   },
+   "shots": []
+  },
+  "ganyu2404/kiri-3ds-universal-translator": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-07T23:34:22Z",
+    "pre": false,
+    "tag": "v1.0.0",
+    "url": "https://github.com/Ganyu2404/Kiri-3ds-Universal-Translator/releases/tag/v1.0.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-07T23:33:32Z",
+    "desc": "Kiri 3ds Universal Translator Ver 1.0.0 - traduce juegos de 3DS a cualquier idioma / translate 3DS games into any language",
+    "full": "Ganyu2404/Kiri-3ds-Universal-Translator",
+    "lang": null,
+    "pushed": "2026-11-07T23:34:21Z",
+    "size": 63587,
+    "stars": 1
    },
    "shots": []
   },
@@ -5059,6 +5123,37 @@
    },
    "shots": []
   },
+  "kactusken/shin-nihon-pro-wrestling-toukon-retsuden-4-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-08T03:34:24Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/kactusken/Shin-Nihon-Pro-Wrestling-Toukon-Retsuden-4-English/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-08T03:16:15Z",
+    "desc": "English Translation for Shin Nihon Pro-Wrestling Toukon Retsuden 4 (Dreamcast)",
+    "full": "kactusken/Shin-Nihon-Pro-Wrestling-Toukon-Retsuden-4-English",
+    "lang": "Python",
+    "pushed": "2026-11-08T03:34:12Z",
+    "size": 6317,
+    "stars": 1
+   },
+   "shots": []
+  },
   "kactusken/shin-nippon-chou-senshi-in-tokyo-dome-english": {
    "assetOs": {},
    "readme": {
@@ -5420,6 +5515,38 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 21
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -7865,6 +7992,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/time-bokan-series-bokan-desu-yo-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-08T00:17:32Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/time-bokan-series-bokan-desu-yo-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T23:00:31Z",
+    "desc": "English fan translation of Time Bokan Series: Bokan desu yo (PSX)",
+    "full": "minhnhattonthat/time-bokan-series-bokan-desu-yo-en",
+    "lang": "Python",
+    "pushed": "2026-11-08T00:18:59Z",
+    "size": 887,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/velldeselba-senki": {
    "assetOs": {},
    "readme": {
@@ -8474,7 +8630,7 @@
     "lang": "Python",
     "pushed": "2026-11-08T03:03:27Z",
     "size": 3772,
-    "stars": 74
+    "stars": 76
    },
    "shots": []
   },
@@ -9041,8 +9197,8 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-06T21:01:25Z",
-    "size": 101838,
+    "pushed": "2026-11-08T12:22:11Z",
+    "size": 101839,
     "stars": 158
    },
    "shots": [
@@ -9128,7 +9284,7 @@
     "lang": null,
     "pushed": "2026-11-08T00:31:18Z",
     "size": 6,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -10168,7 +10324,7 @@
     "lang": "C++",
     "pushed": "2026-11-07T22:40:46Z",
     "size": 3661,
-    "stars": 221
+    "stars": 225
    },
    "shots": []
   },
