@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-09T01:01:18Z",
+ "generated": "2026-11-09T11:49:57Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -2474,6 +2474,43 @@
     "https://raw.githubusercontent.com/damon-daemon/sangokushi-eiketsuden-english/HEAD/docs/screenshots/06_shop.png"
    ]
   },
+  "damon-daemon/sangokushi-koumeiden-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-08T21:32:32Z",
+    "pre": true,
+    "tag": "v0.9.2",
+    "url": "https://github.com/damon-daemon/sangokushi-koumeiden-english/releases/tag/v0.9.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-08T18:42:22Z",
+    "desc": "English fan translation patch for Sangokushi Koumeiden (PlayStation)",
+    "full": "damon-daemon/sangokushi-koumeiden-english",
+    "lang": "Python",
+    "pushed": "2026-11-08T22:46:30Z",
+    "size": 1183,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-koumeiden-english/HEAD/docs/screenshots/01_dialogue.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-koumeiden-english/HEAD/docs/screenshots/02_narration.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-koumeiden-english/HEAD/docs/screenshots/03_choice.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-koumeiden-english/HEAD/docs/screenshots/04_battle.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-koumeiden-english/HEAD/docs/screenshots/05_battle_message.png",
+    "https://raw.githubusercontent.com/damon-daemon/sangokushi-koumeiden-english/HEAD/docs/screenshots/06_sortie.png"
+   ]
+  },
   "damon-daemon/taiko-risshiden-5-english": {
    "assetOs": {},
    "readme": {
@@ -2488,10 +2525,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-06T15:31:41Z",
+    "date": "2026-11-09T02:34:42Z",
     "pre": true,
-    "tag": "v0.11.0",
-    "url": "https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.11.0"
+    "tag": "v0.12.0",
+    "url": "https://github.com/damon-daemon/taiko-risshiden-5-english/releases/tag/v0.12.0"
    },
    "repo": {
     "archived": false,
@@ -2499,8 +2536,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-11-08T00:04:06Z",
-    "size": 5318,
+    "pushed": "2026-11-09T03:53:01Z",
+    "size": 5399,
     "stars": 4
    },
    "shots": [
@@ -3082,7 +3119,7 @@
     "lang": null,
     "pushed": "2026-08-13T21:31:24Z",
     "size": 46166,
-    "stars": 54
+    "stars": 55
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/main/images/instructions_1.png",
@@ -3448,8 +3485,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-08T14:46:47Z",
-    "size": 145663,
+    "pushed": "2026-11-09T05:35:24Z",
+    "size": 145938,
     "stars": 46
    },
    "shots": [
@@ -4371,7 +4408,7 @@
     "lang": "Python",
     "pushed": "2026-10-25T13:39:07Z",
     "size": 1627,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://github.com/user-attachments/assets/149fcef0-dcd5-4e17-841a-39a48dde3a7f"
@@ -4579,17 +4616,18 @@
    "readme": {
     "patch": {
      "ex": {
-      "gfx": true
+      "gfx": true,
+      "subs": true
      }
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-08T00:07:13Z",
-    "pre": true,
-    "tag": "v0.2.1",
-    "url": "https://github.com/irxd/shin-gundam-musou-en/releases/tag/v0.2.1"
+    "date": "2026-11-09T11:15:35Z",
+    "pre": false,
+    "tag": "v0.4.0",
+    "url": "https://github.com/irxd/shin-gundam-musou-en/releases/tag/v0.4.0"
    },
    "repo": {
     "archived": false,
@@ -4597,8 +4635,8 @@
     "desc": "Shin Gundam Musou (PS Vita) English Patch",
     "full": "irxd/shin-gundam-musou-en",
     "lang": "Python",
-    "pushed": "2026-11-08T00:14:25Z",
-    "size": 5120,
+    "pushed": "2026-11-09T11:15:31Z",
+    "size": 5911,
     "stars": 2
    },
    "shots": [
@@ -5536,38 +5574,6 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "cov": "Partial",
-     "ex": {
-      "restore": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-02T01:23:08Z",
-    "pre": false,
-    "tag": "0.8.10",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-02T01:23:08Z",
-    "size": 40859,
-    "stars": 21
-   },
-   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -8694,10 +8700,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-07T21:46:41Z",
+    "date": "2026-11-09T11:48:48Z",
     "pre": false,
-    "tag": "v1.5.1",
-    "url": "https://github.com/pepasjc/snatcher-translated/releases/tag/v1.5.1"
+    "tag": "v1.5.2",
+    "url": "https://github.com/pepasjc/snatcher-translated/releases/tag/v1.5.2"
    },
    "repo": {
     "archived": false,
@@ -8705,7 +8711,7 @@
     "desc": "Fan made Snatcher translation patch for Sony Playstation",
     "full": "pepasjc/snatcher-translated",
     "lang": "Python",
-    "pushed": "2026-11-08T03:03:27Z",
+    "pushed": "2026-11-09T11:48:18Z",
     "size": 3772,
     "stars": 79
    },
@@ -9392,6 +9398,27 @@
     "pushed": "2026-11-08T00:32:02Z",
     "size": 7,
     "stars": 3
+   },
+   "shots": []
+  },
+  "rmusser01/xs-1-2-en-translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-08T23:42:00Z",
+    "desc": "English fan translation BPS patch and patching tools for Xenosaga I & II on Nintendo DS",
+    "full": "rmusser01/XS-1-2-En-Translation",
+    "lang": "Python",
+    "pushed": "2026-11-08T23:42:13Z",
+    "size": 749,
+    "stars": 0
    },
    "shots": []
   },
@@ -10401,7 +10428,7 @@
     "lang": "C++",
     "pushed": "2026-11-07T22:40:46Z",
     "size": 3661,
-    "stars": 228
+    "stars": 229
    },
    "shots": []
   },
