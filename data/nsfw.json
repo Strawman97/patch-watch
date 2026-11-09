@@ -546,6 +546,11 @@
    "iv": 1,
    "title": "Capcom vs. SNK 2: Millionaire Fighting 2001"
   },
+  "derekpascarella/castleofshikigamiii-englishpatchdreamcast": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "Castle of Shikigami II\""
+  },
   "derekpascarella/chaosfield-englishpatchdreamcast": {
    "checked": "2026-10-22T12:22:11Z",
    "iv": 1,
@@ -771,6 +776,16 @@
    "iv": 1,
    "title": "Tengai Makyou Fuun Kabuki den"
   },
+  "fabulu/busin0translation": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "Busin0Translation"
+  },
+  "fabulu/busin0translationsite": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "Busin0Translation Site"
+  },
   "fiksr/eve-burst-error-r-vita-english-patch": {
    "checked": "2026-11-03T11:03:57Z",
    "iv": 1,
@@ -930,6 +945,11 @@
    "checked": "2026-10-25T04:56:45Z",
    "iv": 1,
    "title": "Super Robot Wars L"
+  },
+  "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "Detective Conan: Nerawareta Tantei / The Targeted Detective"
   },
   "jonny-anime/tokimeki-memorial-2-english-patch": {
    "checked": "2026-10-22T09:57:51Z",
@@ -1646,11 +1666,6 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "checked": "2026-11-09T11:49:57Z",
-   "iv": 1,
-   "title": "Sonic Gems Collection"
-  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1665,6 +1680,16 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "checked": "2026-11-09T22:31:36Z",
+   "img": "https://t.vndb.org/cv/04/103904.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "AIR",
+   "sexual": 0,
+   "title": "AIR",
+   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -1846,11 +1871,6 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "checked": "2026-11-09T11:49:57Z",
-   "iv": 1,
-   "title": "Bulk Slash"
-  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -1965,6 +1985,11 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2351,11 +2376,6 @@
    "iv": 1,
    "title": "Medarot DS Kabuto Ver."
   },
-  "link:https://archive.org/details/mega-man-x-4_202611": {
-   "checked": "2026-11-09T11:49:57Z",
-   "iv": 1,
-   "title": "Mega Man X4"
-  },
   "link:https://archive.org/details/mega_man_mhx_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -2586,6 +2606,11 @@
    "iv": 1,
    "title": "Samurai Warriors: State of War"
   },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "Sengoku BASARA 3 Utage —"
+  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -2605,16 +2630,6 @@
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
    "title": "Shadow Tower"
-  },
-  "link:https://archive.org/details/shadowrun-english-pal": {
-   "checked": "2026-11-09T11:49:57Z",
-   "img": "https://t.vndb.org/cv/36/88636.jpg",
-   "iv": 1,
-   "match": 1.0,
-   "name": "Shadowrun",
-   "sexual": 0,
-   "title": "Shadowrun",
-   "vn": "v16192"
   },
   "link:https://archive.org/details/shining_force_exa_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
@@ -2690,6 +2705,11 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
+  },
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -10657,6 +10677,11 @@
    "iv": 1,
    "title": "Ginga Sengoku Gunyuuden Rai"
   },
+  "minhnhattonthat/gloria-union-en": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "Gloria Union"
+  },
   "minhnhattonthat/granbo": {
    "checked": "2026-10-22T09:57:51Z",
    "iv": 1,
@@ -10892,6 +10917,11 @@
    "iv": 1,
    "title": "Tsukihime Vita"
   },
+  "pacocyborg/cardcaptor-sakura-gbc-english": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "Cardcaptor Sakura: Itsumo Sakura-chan to Issho"
+  },
   "pacocyborg/cardcaptor-sakura-ws-english": {
    "checked": "2026-11-04T01:29:32Z",
    "iv": 1,
@@ -11112,6 +11142,11 @@
    "iv": 1,
    "title": "Puyo Puyo"
   },
+  "selhou-lgu/kenka_bancho_4_psp_english": {
+   "checked": "2026-11-09T22:31:36Z",
+   "iv": 1,
+   "title": "KENKA BANCHO 4"
+  },
   "silentheii/outbreak-translation": {
    "checked": "2026-10-23T17:17:32Z",
    "iv": 1,
@@ -11308,6 +11343,6 @@
    "title": "Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!!"
   }
  },
- "generated": "2026-11-09T11:49:57Z",
+ "generated": "2026-11-09T22:31:36Z",
  "version": 1
 }

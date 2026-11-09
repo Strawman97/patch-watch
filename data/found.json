@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-09T11:49:57Z",
+ "generated": "2026-11-09T22:31:36Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -14150,6 +14150,97 @@
    "src": "GitHub"
   },
   {
+   "d": "English fan translation of Gloria Union (PSP)",
+   "fa": "2026-11-09T22:31:36Z",
+   "g": "Gloria Union",
+   "id": "minhnhattonthat/gloria-union-en",
+   "k": "minhnhattonthat/gloria-union-en",
+   "l": "https://github.com/minhnhattonthat/gloria-union-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "English (machine / AI-assisted) fan translation patch for Cardcaptor Sakura: Itsumo Sakura-chan to Issho (Game Boy Color, 1999, MTO/Kodansha). Not a professional or human translation — wording may be imperfect; reports and corrections welco",
+   "fa": "2026-11-09T22:31:36Z",
+   "g": "Cardcaptor Sakura: Itsumo Sakura-chan to Issho",
+   "id": "pacocyborg/cardcaptor-sakura-gbc-english",
+   "k": "pacocyborg/cardcaptor-sakura-gbc-english",
+   "l": "https://github.com/pacocyborg/cardcaptor-sakura-gbc-english",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "Game Boy Color",
+   "src": "GitHub"
+  },
+  {
+   "d": "yeah basically kenka bancho for psp",
+   "fa": "2026-11-09T22:31:36Z",
+   "g": "KENKA BANCHO 4",
+   "id": "selhou-lgu/kenka_bancho_4_psp_english",
+   "k": "selhou-lgu/kenka_bancho_4_psp_english",
+   "l": "https://github.com/Selhou-Lgu/KENKA_BANCHO_4_PSP_ENGLISH",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "Busin 0 - Wizardry Alternative Neo PS2 romhack translation",
+   "fa": "2026-11-09T22:31:36Z",
+   "g": "Busin0Translation",
+   "id": "fabulu/busin0translation",
+   "k": "fabulu/busin0translation",
+   "l": "https://github.com/Fabulu/Busin0Translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "Promo/download site for the Busin 0: Wizardry Alternative Neo (PS2) English fan translation — busin0-en.pages.dev",
+   "fa": "2026-11-09T22:31:36Z",
+   "g": "Busin0Translation Site",
+   "id": "fabulu/busin0translationsite",
+   "k": "fabulu/busin0translationsite",
+   "l": "https://github.com/Fabulu/Busin0TranslationSite",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for the Sega Dreamcast game \"Castle of Shikigami II\".",
+   "fa": "2026-11-09T22:31:36Z",
+   "g": "Castle of Shikigami II\"",
+   "id": "derekpascarella/castleofshikigamiii-englishpatchdreamcast",
+   "k": "derekpascarella/castleofshikigamiii-englishpatchdreamcast",
+   "l": "https://github.com/DerekPascarella/CastleofShikigamiII-EnglishPatchDreamcast",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Dreamcast",
+   "src": "GitHub"
+  },
+  {
+   "d": "An English Patch for Detective Conan: Nerawareta Tantei / The Targeted Detective on GBA",
+   "fa": "2026-11-09T22:31:36Z",
+   "g": "Detective Conan: Nerawareta Tantei / The Targeted Detective",
+   "id": "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba",
+   "k": "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba",
+   "l": "https://github.com/jjb781017-arch/detective-conan-nerawareta-tantei-english-gba",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -15767,51 +15858,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-08T19:47:12Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-11-09T01:01:18Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-09T01:01:18Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-09T11:49:57Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-09T22:31:36Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-08T19:47:12Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Shadowrun - English Translation - Mega CD PAL",
-   "fa": "2026-11-08T19:47:12Z",
-   "g": "Shadowrun",
-   "id": "link:https://archive.org/details/shadowrun-english-pal",
-   "l": "https://archive.org/details/shadowrun-english-pal",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Mega CD",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-11-09T01:01:18Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {

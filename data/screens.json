@@ -2494,6 +2494,16 @@
    "shots": [],
    "tv": 3
   },
+  "busin0translation site|8": {
+   "checked": "2026-11-09T22:31:36Z",
+   "shots": [],
+   "tv": 3
+  },
+  "busin0translation|8": {
+   "checked": "2026-11-09T22:31:36Z",
+   "shots": [],
+   "tv": 3
+  },
   "call of cthulhu prisoner of ice|32": {
    "checked": "2026-10-22T21:45:23Z",
    "cover": "co28fd",
@@ -2633,6 +2643,15 @@
    "shots": [],
    "tv": 3
   },
+  "cardcaptor sakura itsumo sakura chan to issho|22": {
+   "checked": "2026-11-09T22:31:36Z",
+   "cover": "jq2sgolw6ee6ajxjtj3v",
+   "id": 65641,
+   "match": 1.0,
+   "name": "Cardcaptor Sakura: Itsumo Sakura-chan to Issho!",
+   "shots": [],
+   "tv": 3
+  },
   "cardcaptor sakura sakura to fushigi na clow card|57": {
    "checked": "2026-11-04T01:29:32Z",
    "shots": [],
@@ -2652,6 +2671,11 @@
     "ijy4m80yvkzut3jeqcpm",
     "lxcuwowvkxutr4czm788"
    ],
+   "tv": 3
+  },
+  "castle of shikigami ii|23": {
+   "checked": "2026-11-09T22:31:36Z",
+   "shots": [],
    "tv": 3
   },
   "castle quest|18": {
@@ -4277,6 +4301,11 @@
    "id": 375474,
    "match": 1.0,
    "name": "Der Langrisser FX",
+   "shots": [],
+   "tv": 3
+  },
+  "detective conan nerawareta tantei the targeted detective|24": {
+   "checked": "2026-11-09T22:31:36Z",
    "shots": [],
    "tv": 3
   },
@@ -8568,6 +8597,11 @@
    ],
    "tv": 3
   },
+  "gloria union|38": {
+   "checked": "2026-11-09T22:31:36Z",
+   "shots": [],
+   "tv": 3
+  },
   "glory of heracles snap story|33": {
    "checked": "2026-10-22T10:45:22Z",
    "shots": [],
@@ -10961,6 +10995,11 @@
   },
   "keio yugekitai katsugeki hen|32": {
    "checked": "2026-10-22T09:57:51Z",
+   "shots": [],
+   "tv": 3
+  },
+  "kenka bancho 4|38": {
+   "checked": "2026-11-09T22:31:36Z",
    "shots": [],
    "tv": 3
   },
@@ -24864,7 +24903,7 @@
    "tv": 3
   }
  },
- "generated": "2026-11-09T11:49:57Z",
+ "generated": "2026-11-09T22:31:36Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -24964,6 +25003,7 @@
   "demmis98/3s-psp": "street fighter iii 3rd strike|38",
   "derekpascarella/birdcageofhorrors-englishpatchdreamcast": "grauen no torikago|23",
   "derekpascarella/capcomvs.snk2-englishpatchdreamcast": "capcom vs snk 2 millionaire fighting 2001|23",
+  "derekpascarella/castleofshikigamiii-englishpatchdreamcast": "castle of shikigami ii|23",
   "derekpascarella/chaosfield-englishpatchdreamcast": "chaos field|23",
   "derekpascarella/coolcooltoon-englishpatchdreamcast": "cool cool toon|23",
   "derekpascarella/deathcrimson2altarofmelanito-englishpatchdreamcast": "death crimson 2 meranito no saidan|23",
@@ -25007,6 +25047,8 @@
   "exxistancedc/shinrei-jusatsushi-taromaru-english-patch": "shinrei jusatsushi taroumaru|32",
   "exxistancedc/willy-wombat-english-improvement-patch": "willy wombat|32",
   "fabiof17/tengai-makyou---fuun-kabuki-den-english-patch-": "tengai makyou fuun kabuki den|86",
+  "fabulu/busin0translation": "busin0translation|8",
+  "fabulu/busin0translationsite": "busin0translation site|8",
   "fiksr/eve-burst-error-r-vita-english-patch": "eve burst error r|46",
   "flukeylukey1/nappletaleengpatchfix": "napple tale arsia in daydream|23",
   "gagnonpl/spriggan-en": "seirei senshi spriggan|150",
@@ -25036,6 +25078,7 @@
   "jamesaz0/rockmandash-psp-english-patcher": "mega man legends|38",
   "jeremydecola/mystic-nights-translation": "mystic nights|8",
   "jignx/srwl-english": "super robot wars l|20",
+  "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba": "detective conan nerawareta tantei the targeted detective|24",
   "jonny-anime/tokimeki-memorial-2-english-patch": "tokimeki memorial 2|7",
   "jose-tissei/densha-de-go-yamanote-english": "densha de go hashirou yamanote sen|130",
   "julianow/tales-of-symphonia-ngc-undub": "tales of symphonia|21",
@@ -25172,10 +25215,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -25211,7 +25254,6 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
-  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -25234,6 +25276,7 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -25310,7 +25353,6 @@
   "link:https://archive.org/details/maken_x_undub_patch": "maken x|23",
   "link:https://archive.org/details/maximo_undub_patch": "maximo ghosts to glory|8",
   "link:https://archive.org/details/medarot-ds-kabuto-ver.-english-patch": "medarot ds kabuto ver|37",
-  "link:https://archive.org/details/mega-man-x-4_202611": "mega man x4|7",
   "link:https://archive.org/details/mega_man_mhx_undub_patch": "mega man maverick hunter x|38",
   "link:https://archive.org/details/mega_man_pu_undub_patch": "mega man powered up|38",
   "link:https://archive.org/details/mega_man_x7_ps2_undub_patch": "mega man x7|8",
@@ -25353,11 +25395,11 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
   "link:https://archive.org/details/shadow_tower_undub_patch": "shadow tower|7",
-  "link:https://archive.org/details/shadowrun-english-pal": "shadowrun|78",
   "link:https://archive.org/details/shining_force_exa_undub_patch": "shining force exa|8",
   "link:https://archive.org/details/shining_force_neo_undub_patch": "shining force neo|8",
   "link:https://archive.org/details/shinobido_2_roz_undub_patch": "shinobido 2 revenge of zen|46",
@@ -25373,6 +25415,7 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",
@@ -26867,6 +26910,7 @@
   "minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en": "getbackers dakkanya metropolis dakkan sakusen|24",
   "minhnhattonthat/ginga-eiyuu-densetsu-en": "ginga eiyuu densetsu|19",
   "minhnhattonthat/ginga-sengoku-gunyuuden-rai-en": "ginga sengoku gunyuuden rai|19",
+  "minhnhattonthat/gloria-union-en": "gloria union|38",
   "minhnhattonthat/granbo": "granbo|24",
   "minhnhattonthat/great-battle-gaiden-2-english": "great battle gaiden 2 matsuri da wasshoi|19",
   "minhnhattonthat/hachiemon-en": "hachiemon en|24",
@@ -26914,6 +26958,7 @@
   "ooa113y/umineko-catbox-english": "umineko no naku koro ni saku|130",
   "ozz0ab/tsukihime-plus-disc-vita": "tsukihime plus disc vita|46",
   "ozz0ab/tsukihime-vita": "tsukihime vita|46",
+  "pacocyborg/cardcaptor-sakura-gbc-english": "cardcaptor sakura itsumo sakura chan to issho|22",
   "pacocyborg/cardcaptor-sakura-ws-english": "cardcaptor sakura sakura to fushigi na clow card|57",
   "pat227-spc/stafy-source": "stafy source|24",
   "pavel0wq/uta-no-prince-sama-repeat-english-patch": "uta no prince sama repeat|38",
@@ -26955,6 +27000,7 @@
   "scatterdbrain/superlite-2000-table-hanafuda-ps2-english-translation-patch": "superlite 2000 table hanafuda|8",
   "schil227/advancefamicomwars": "advance famicom wars|18",
   "scrambled-beans/puyo1-md-translation": "puyo puyo|29",
+  "selhou-lgu/kenka_bancho_4_psp_english": "kenka bancho 4|38",
   "silentheii/outbreak-translation": "biohazard outbreak file 2|8",
   "smokej-git/letsgo-eternal-wings-english": "bakusou kyoudai lets and go eternal wings|7",
   "sneekymellon/zoids-saga-gba-english-patch": "zoids saga|24",
