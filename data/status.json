@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-08T19:47:12Z",
+ "generated": "2026-11-09T01:01:18Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -349,7 +349,7 @@
     "lang": "Python",
     "pushed": "2026-10-28T16:53:16Z",
     "size": 388,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -941,6 +941,27 @@
     "full": "BeanutROM/PSX-CyberOrg-English-Patch",
     "lang": null,
     "pushed": "2026-10-28T05:54:26Z",
+    "size": 0,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "beanutrom/psx-doki-oki-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-08T18:02:31Z",
+    "desc": "An english patch for the PSX game Doki Oki",
+    "full": "BeanutROM/PSX-Doki-Oki-English-Patch",
+    "lang": null,
+    "pushed": "2026-11-08T18:02:32Z",
     "size": 0,
     "stars": 0
    },
@@ -2171,10 +2192,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-25T01:40:01Z",
+    "date": "2026-11-08T23:53:32Z",
     "pre": true,
-    "tag": "v0.9.0",
-    "url": "https://github.com/damon-daemon/nobunaga-ranseiki-puk-english/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/nobunaga-ranseiki-puk-english/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -2182,8 +2203,8 @@
     "desc": "English fan translation (full machine translation) of Nobunaga no Yabou: Ranseiki with Power-Up Kit (PS2)",
     "full": "damon-daemon/nobunaga-ranseiki-puk-english",
     "lang": "Python",
-    "pushed": "2026-11-08T00:03:46Z",
-    "size": 1689,
+    "pushed": "2026-11-08T23:53:31Z",
+    "size": 1693,
     "stars": 1
    },
    "shots": [
@@ -2281,10 +2302,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-04T14:14:27Z",
+    "date": "2026-11-09T00:26:54Z",
     "pre": true,
-    "tag": "v0.9.6",
-    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.6"
+    "tag": "v0.9.7",
+    "url": "https://github.com/damon-daemon/oda-nobunaga-den-english/releases/tag/v0.9.7"
    },
    "repo": {
     "archived": false,
@@ -2292,7 +2313,7 @@
     "desc": "English fan translation patch for Oda Nobunaga Den (PS1, Koei)",
     "full": "damon-daemon/oda-nobunaga-den-english",
     "lang": "Python",
-    "pushed": "2026-11-08T00:03:54Z",
+    "pushed": "2026-11-09T00:26:54Z",
     "size": 1465,
     "stars": 3
    },
@@ -5516,6 +5537,38 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-02T01:23:08Z",
+    "pre": false,
+    "tag": "0.8.10",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/0.8.10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-02T01:23:08Z",
+    "size": 40859,
+    "stars": 21
+   },
+   "shots": []
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -8411,7 +8464,7 @@
     "lang": "Python",
     "pushed": "2026-10-31T17:51:31Z",
     "size": 6088,
-    "stars": 8
+    "stars": 9
    },
    "shots": [
     "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f03100_320x240_16.png",
@@ -8654,7 +8707,7 @@
     "lang": "Python",
     "pushed": "2026-11-08T03:03:27Z",
     "size": 3772,
-    "stars": 78
+    "stars": 79
    },
    "shots": []
   },
