@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-10T17:09:14Z",
+ "generated": "2026-11-10T23:33:17Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -65,6 +65,35 @@
     "https://github.com/user-attachments/assets/bc671ce4-43ab-479b-aad4-f8b56e09e376",
     "https://github.com/user-attachments/assets/3adf2a09-3236-4dbf-8b87-ed302ffd06e9"
    ]
+  },
+  "acr-gd/tengai-makyou-2-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-10T23:25:45Z",
+    "pre": false,
+    "tag": "v1.0.1",
+    "url": "https://github.com/ACR-GD/tengai-makyou-2-english/releases/tag/v1.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-10T09:37:26Z",
+    "desc": "English translation patch for Tengai Makyou II: Manji Maru (Nintendo DS) — Far East of Eden II: Manjimaru",
+    "full": "ACR-GD/tengai-makyou-2-english",
+    "lang": "Python",
+    "pushed": "2026-11-10T23:25:45Z",
+    "size": 144,
+    "stars": 0
+   },
+   "shots": []
   },
   "agtteam/fmakamitranslation": {
    "noRelease": true,
@@ -667,10 +696,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-10T14:55:30Z",
+    "date": "2026-11-10T22:15:37Z",
     "pre": false,
-    "tag": "patches-2026-11-10",
-    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-10"
+    "tag": "patches-2026-11-10-3",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-10-3"
    },
    "repo": {
     "archived": false,
@@ -678,8 +707,8 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-10T14:55:29Z",
-    "size": 4269,
+    "pushed": "2026-11-10T22:15:37Z",
+    "size": 4958,
     "stars": 4
    },
    "shots": []
@@ -3582,7 +3611,7 @@
     "lang": "C++",
     "pushed": "2026-11-10T14:31:11Z",
     "size": 146048,
-    "stars": 46
+    "stars": 47
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -4148,7 +4177,7 @@
     "lang": "PowerShell",
     "pushed": "2026-11-08T18:16:41Z",
     "size": 31185,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -5533,7 +5562,7 @@
     "lang": "Python",
     "pushed": "2026-11-06T23:14:18Z",
     "size": 2861,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -5675,7 +5704,7 @@
     "lang": "Python",
     "pushed": "2026-08-08T05:26:20Z",
     "size": 228198,
-    "stars": 73
+    "stars": 74
    },
    "shots": []
   },
@@ -5696,7 +5725,7 @@
     "lang": "Python",
     "pushed": "2026-09-28T01:16:43Z",
     "size": 1095,
-    "stars": 5
+    "stars": 6
    },
    "shots": []
   },
@@ -5745,7 +5774,7 @@
     "lang": "Python",
     "pushed": "2026-08-08T05:24:26Z",
     "size": 95067,
-    "stars": 18
+    "stars": 19
    },
    "shots": []
   },
@@ -6382,8 +6411,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-05T15:44:02Z",
-    "size": 92098,
+    "pushed": "2026-11-10T23:25:23Z",
+    "size": 92158,
     "stars": 101
    },
    "shots": [
@@ -6506,6 +6535,30 @@
     "pushed": "2022-02-08T12:48:57Z",
     "size": 509,
     "stars": 1
+   },
+   "shots": []
+  },
+  "mbanusic/oot-hr": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-10T06:29:21Z",
+    "desc": "Croatian fan translation of The Legend of Zelda: Ocarina of Time (Switch 2) for nxnative",
+    "full": "mbanusic/oot-hr",
+    "lang": "Python",
+    "pushed": "2026-11-10T14:15:20Z",
+    "size": 651,
+    "stars": 0
    },
    "shots": []
   },
@@ -8981,7 +9034,7 @@
     "lang": "Python",
     "pushed": "2026-11-09T11:48:18Z",
     "size": 3777,
-    "stars": 79
+    "stars": 80
    },
    "shots": []
   },
@@ -9472,6 +9525,37 @@
     "https://raw.githubusercontent.com/retro-trans/Sunrise-Eiyuutan-2/HEAD/assets/social-preview.jpg"
    ]
   },
+  "retro-trans/sunrise-world-war": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "restore": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-10T15:10:25Z",
+    "pre": false,
+    "tag": "v0.8.0",
+    "url": "https://github.com/retro-trans/Sunrise-World-War/releases/tag/v0.8.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-10T15:04:00Z",
+    "desc": "English translation patch for PS2 game Sunrise World War",
+    "full": "retro-trans/Sunrise-World-War",
+    "lang": "Python",
+    "pushed": "2026-11-10T16:00:29Z",
+    "size": 3146,
+    "stars": 0
+   },
+   "shots": []
+  },
   "retro-trans/super-tokusatsu-taisen-2001": {
    "assetOs": {},
    "readme": {
@@ -9586,7 +9670,7 @@
     "lang": "C",
     "pushed": "2026-11-09T15:01:58Z",
     "size": 101841,
-    "stars": 158
+    "stars": 159
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -10112,7 +10196,7 @@
     "lang": null,
     "pushed": "2020-12-08T01:56:23Z",
     "size": 14,
-    "stars": 34
+    "stars": 35
    },
    "shots": []
   },
@@ -10561,7 +10645,7 @@
     "lang": null,
     "pushed": "2026-11-10T10:05:21Z",
     "size": 6257,
-    "stars": 7
+    "stars": 10
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/game.png",
@@ -10697,7 +10781,7 @@
     "lang": "Python",
     "pushed": "2026-11-05T12:52:37Z",
     "size": 236,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/viruztt/snatcher-pce-english/HEAD/docs/screenshots/reception-dialogue.png",
@@ -10759,7 +10843,7 @@
     "lang": "Python",
     "pushed": "2026-11-10T05:13:34Z",
     "size": 6027,
-    "stars": 235
+    "stars": 236
    },
    "shots": []
   },
