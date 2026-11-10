@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-10T07:30:11Z",
+ "generated": "2026-11-10T17:09:14Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -667,10 +667,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-09T19:08:36Z",
+    "date": "2026-11-10T14:55:30Z",
     "pre": false,
-    "tag": "patches-20261109",
-    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-20261109"
+    "tag": "patches-2026-11-10",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-10"
    },
    "repo": {
     "archived": false,
@@ -678,8 +678,8 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-09T19:08:36Z",
-    "size": 4064,
+    "pushed": "2026-11-10T14:55:29Z",
+    "size": 4269,
     "stars": 4
    },
    "shots": []
@@ -1747,7 +1747,7 @@
     "lang": "C",
     "pushed": "2026-10-24T14:53:11Z",
     "size": 921,
-    "stars": 14
+    "stars": 15
    },
    "shots": []
   },
@@ -1776,7 +1776,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-03T23:49:04Z",
     "size": 7717,
-    "stars": 65
+    "stars": 66
    },
    "shots": [
     "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/title%20screen%20screenshot.png",
@@ -1812,7 +1812,7 @@
     "lang": null,
     "pushed": "2025-10-31T08:02:35Z",
     "size": 163,
-    "stars": 37
+    "stars": 38
    },
    "shots": [
     "https://raw.githubusercontent.com/ButThouMust/otogirisou-english/HEAD/images/01%20title%20screen.png",
@@ -1905,8 +1905,8 @@
     "desc": "Code and assets to translate the PS1 game \"Ningyo no rakuin\" from Japanese to English.",
     "full": "ChapuTranslations/NingyoNoRakuinEnglishPatch",
     "lang": "Assembly",
-    "pushed": "2026-10-30T15:11:10Z",
-    "size": 52577,
+    "pushed": "2026-11-10T13:38:32Z",
+    "size": 52579,
     "stars": 2
    },
    "shots": []
@@ -2150,10 +2150,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-07T23:52:23Z",
+    "date": "2026-11-10T15:05:49Z",
     "pre": true,
-    "tag": "v0.9.1",
-    "url": "https://github.com/damon-daemon/mouri-motonari-english/releases/tag/v0.9.1"
+    "tag": "v0.9.2",
+    "url": "https://github.com/damon-daemon/mouri-motonari-english/releases/tag/v0.9.2"
    },
    "repo": {
     "archived": false,
@@ -2161,8 +2161,8 @@
     "desc": "English fan translation patch for Mouri Motonari: Chikai no Sanshi (PS1, Koei)",
     "full": "damon-daemon/mouri-motonari-english",
     "lang": "Python",
-    "pushed": "2026-11-08T00:03:24Z",
-    "size": 1086,
+    "pushed": "2026-11-10T15:05:49Z",
+    "size": 1103,
     "stars": 1
    },
    "shots": [
@@ -2385,7 +2385,7 @@
     "lang": "Python",
     "pushed": "2026-11-08T00:03:57Z",
     "size": 1513,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/sangokushi-5-puk-english/HEAD/docs/screenshots/01_main_menu.png",
@@ -2581,6 +2581,30 @@
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/05_dialogue.png",
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/06_council.png"
    ]
+  },
+  "davybirth/kyoei-toshi": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-09T23:12:58Z",
+    "desc": "Kyoei Toshi preservation, English/pt-BR fan translation and experimental PC port. Requires your own PS4 disc dump; no game files included.",
+    "full": "DavyBirth/kyoei-toshi",
+    "lang": "Python",
+    "pushed": "2026-11-09T23:27:38Z",
+    "size": 6564,
+    "stars": 0
+   },
+   "shots": []
   },
   "demmis98/3s-psp": {
    "assetOs": {},
@@ -3556,8 +3580,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-10T06:16:02Z",
-    "size": 145970,
+    "pushed": "2026-11-10T14:31:11Z",
+    "size": 146048,
     "stars": 46
    },
    "shots": [
@@ -3774,7 +3798,7 @@
     "lang": "Python",
     "pushed": "2026-11-09T23:19:54Z",
     "size": 104883,
-    "stars": 38
+    "stars": 39
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4531,6 +4555,39 @@
     "https://github.com/user-attachments/assets/149fcef0-dcd5-4e17-841a-39a48dde3a7f"
    ]
   },
+  "granassabre/grandia3-pc": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2026-11-09T23:16:52Z",
+    "pre": false,
+    "tag": "v1.0.7",
+    "url": "https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.7"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-21T17:13:08Z",
+    "desc": "Grandia III (PS2) as a native PC game - widescreen, 60 fps, savestates, subtitles, optional undub (Japanese voices). Bring your own ISO.",
+    "full": "GranasSabre/Grandia3-PC",
+    "lang": "C++",
+    "pushed": "2026-11-09T23:20:25Z",
+    "size": 12618,
+    "stars": 47
+   },
+   "shots": []
+  },
   "grouchoglasses42/card-hero-gbc": {
    "noRelease": true,
    "readme": {
@@ -5005,8 +5062,8 @@
     "desc": "An English Translation Patch for Detective Conan: Nerawareta Tantei / The Targeted Detective on GBA",
     "full": "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba",
     "lang": "JavaScript",
-    "pushed": "2026-11-09T13:29:29Z",
-    "size": 2264,
+    "pushed": "2026-11-10T12:40:56Z",
+    "size": 2195,
     "stars": 0
    },
    "shots": [
@@ -9188,6 +9245,42 @@
    },
    "shots": []
   },
+  "radmageirl/dq1_2_snes_patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-10T01:05:54Z",
+    "pre": false,
+    "tag": "v0.2",
+    "url": "https://github.com/RadMageIRL/dq1_2_snes_patch/releases/tag/v0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-09T21:51:43Z",
+    "desc": "Fixed English patch for Dragon Quest I+II (SFC): RPGOne v2.0 + mziab title fix + bug fixes",
+    "full": "RadMageIRL/dq1_2_snes_patch",
+    "lang": "Python",
+    "pushed": "2026-11-10T03:07:34Z",
+    "size": 486,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/RadMageIRL/dq1_2_snes_patch/HEAD/screenshots/leaf-softlock.png",
+    "https://raw.githubusercontent.com/RadMageIRL/dq1_2_snes_patch/HEAD/screenshots/dragonlord-offer.png",
+    "https://raw.githubusercontent.com/RadMageIRL/dq1_2_snes_patch/HEAD/screenshots/second-prince.png",
+    "https://raw.githubusercontent.com/RadMageIRL/dq1_2_snes_patch/HEAD/screenshots/status-menu.png",
+    "https://raw.githubusercontent.com/RadMageIRL/dq1_2_snes_patch/HEAD/screenshots/level-30-save.png",
+    "https://raw.githubusercontent.com/RadMageIRL/dq1_2_snes_patch/HEAD/screenshots/princess-love.png"
+   ]
+  },
   "randomprojectsfactory/cosmic-fantasy-pce-english": {
    "assetOs": {},
    "readme": {
@@ -9809,7 +9902,7 @@
     "lang": null,
     "pushed": "2026-11-03T17:36:22Z",
     "size": 2849,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-01.png",
@@ -10455,20 +10548,20 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-10T04:58:36Z",
+    "date": "2026-11-10T09:54:32Z",
     "pre": false,
-    "tag": "V1.0",
-    "url": "https://github.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/releases/tag/V1.0"
+    "tag": "V1.0.1",
+    "url": "https://github.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/releases/tag/V1.0.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-27T12:03:07Z",
-    "desc": "Full English translation of Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 (PS1 / PSX). V1.0 — final version. Includes UIs, Game Shop, Mini Games, Tests, Arcade Mode, and more. Patch only; no game image or BIOS.",
+    "desc": "Full English translation of Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 (PS1 / PSX). V1.0 — final version. Includes UIs, Game Shop, Mini Games, Tests, Arcade Mode, and more. Patch only; no game image or BIOS. Tested with:  RetroArch using PCSX-ReARMed core. Mednafen 1.32.1. DuckStation 0.1-12640.",
     "full": "ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2",
     "lang": null,
-    "pushed": "2026-11-10T07:25:23Z",
-    "size": 1903,
-    "stars": 6
+    "pushed": "2026-11-10T10:05:21Z",
+    "size": 6257,
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/game.png",
@@ -10666,7 +10759,7 @@
     "lang": "Python",
     "pushed": "2026-11-10T05:13:34Z",
     "size": 6027,
-    "stars": 231
+    "stars": 235
    },
    "shots": []
   },
@@ -10884,6 +10977,9 @@
     "stars": 3
    },
    "shots": []
+  },
+  "wolfmanonly/we6fe-english-patch-for-ngc-": {
+   "notFound": true
   },
   "xentros/saki_mahjong_translation": {
    "noRelease": true,

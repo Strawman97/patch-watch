@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-10T07:30:11Z",
+ "generated": "2026-11-10T17:09:14Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -14293,6 +14293,45 @@
    "src": "GitHub"
   },
   {
+   "d": "English translation patch for PS2 game Sunrise World War",
+   "fa": "2026-11-10T17:09:14Z",
+   "g": "Sunrise World War",
+   "id": "retro-trans/sunrise-world-war",
+   "k": "retro-trans/sunrise-world-war",
+   "l": "https://github.com/retro-trans/Sunrise-World-War",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "Croatian fan translation of The Legend of Zelda: Ocarina of Time (Switch 2) for nxnative",
+   "fa": "2026-11-10T17:09:14Z",
+   "g": "Oot Hr",
+   "id": "mbanusic/oot-hr",
+   "k": "mbanusic/oot-hr",
+   "l": "https://github.com/mbanusic/oot-hr",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Switch",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for Tengai Makyou II: Manji Maru (Nintendo DS) — Far East of Eden II: Manjimaru",
+   "fa": "2026-11-10T17:09:14Z",
+   "g": "Tengai Makyou II: Manji Maru",
+   "id": "acr-gd/tengai-makyou-2-english",
+   "k": "acr-gd/tengai-makyou-2-english",
+   "l": "https://github.com/ACR-GD/tengai-makyou-2-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -15910,51 +15949,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
    "fa": "2026-11-09T22:31:36Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Shadowrun - English Translation - Mega CD PAL",
-   "fa": "2026-11-09T22:31:36Z",
-   "g": "Shadowrun",
-   "id": "link:https://archive.org/details/shadowrun-english-pal",
-   "l": "https://archive.org/details/shadowrun-english-pal",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Mega CD",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-10T07:30:11Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "Bulk Slash (English Patch)",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
    "fa": "2026-11-10T07:30:11Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-10T07:30:11Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-10T17:09:14Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
    "src": "Internet Archive"
   },
   {
