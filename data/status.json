@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-09T22:31:36Z",
+ "generated": "2026-11-10T07:30:11Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1159,22 +1159,28 @@
    "shots": []
   },
   "beanutrom/psx-ling-rise-english-patch": {
-   "noRelease": true,
+   "assetOs": {},
    "readme": {
-    "none": true,
     "patch": {
      "ex": {}
-    }
+    },
+    "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-11-10T01:29:52Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/BeanutROM/PSX-Ling-Rise-English-Patch/releases/tag/v1.0"
+   },
    "repo": {
     "archived": false,
     "created": "2026-10-28T05:47:55Z",
     "desc": "An english patch for the PSX game Ling Rise",
     "full": "BeanutROM/PSX-Ling-Rise-English-Patch",
     "lang": null,
-    "pushed": "2026-10-28T05:47:56Z",
-    "size": 0,
+    "pushed": "2026-11-10T01:29:52Z",
+    "size": 56402,
     "stars": 0
    },
    "shots": []
@@ -2219,10 +2225,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-08T23:53:32Z",
+    "date": "2026-11-10T00:58:22Z",
     "pre": true,
-    "tag": "v0.9.1",
-    "url": "https://github.com/damon-daemon/nobunaga-ranseiki-puk-english/releases/tag/v0.9.1"
+    "tag": "v0.9.2",
+    "url": "https://github.com/damon-daemon/nobunaga-ranseiki-puk-english/releases/tag/v0.9.2"
    },
    "repo": {
     "archived": false,
@@ -2230,8 +2236,8 @@
     "desc": "English fan translation (full machine translation) of Nobunaga no Yabou: Ranseiki with Power-Up Kit (PS2)",
     "full": "damon-daemon/nobunaga-ranseiki-puk-english",
     "lang": "Python",
-    "pushed": "2026-11-08T23:53:31Z",
-    "size": 1693,
+    "pushed": "2026-11-10T00:58:22Z",
+    "size": 1707,
     "stars": 1
    },
    "shots": [
@@ -2601,7 +2607,7 @@
     "lang": "C",
     "pushed": "2026-05-03T04:25:02Z",
     "size": 624741,
-    "stars": 104
+    "stars": 105
    },
    "shots": []
   },
@@ -2674,6 +2680,44 @@
     "https://raw.githubusercontent.com/DerekPascarella/Capcom-vs.-SNK-2-English-Patch-Dreamcast/main/images/screenshot1.png",
     "https://i.imgur.com/XsUAGA0.png",
     "https://raw.githubusercontent.com/DerekPascarella/Capcom-vs.-SNK-2-English-Patch-Dreamcast/main/images/bonus_content.gif"
+   ]
+  },
+  "derekpascarella/castleofshikigamiii-englishpatchdreamcast": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [
+    "filehost"
+   ],
+   "release": {
+    "date": "2026-11-09T15:30:41Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/DerekPascarella/CastleofShikigamiII-EnglishPatchDreamcast/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-10-07T15:01:02Z",
+    "desc": "English translation patch for the Sega Dreamcast game \"Castle of Shikigami II\".",
+    "full": "DerekPascarella/CastleofShikigamiII-EnglishPatchDreamcast",
+    "lang": "Perl",
+    "pushed": "2026-11-09T15:30:40Z",
+    "size": 43933,
+    "stars": 4
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
+    "https://i.imgur.com/r4b04e7.png",
+    "https://raw.githubusercontent.com/DerekPascarella/CastleofShikigamiII-EnglishPatchDreamcast/main/screenshot_1.png",
+    "https://raw.githubusercontent.com/DerekPascarella/CastleofShikigamiII-EnglishPatchDreamcast/main/invincibility_mode.png",
+    "https://raw.githubusercontent.com/DerekPascarella/CastleOfShikigamiII-EnglishPatchDreamcast/main/vmu.png"
    ]
   },
   "derekpascarella/chaosfield-englishpatchdreamcast": {
@@ -3512,8 +3556,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-09T14:54:21Z",
-    "size": 145948,
+    "pushed": "2026-11-10T06:16:02Z",
+    "size": 145970,
     "stars": 46
    },
    "shots": [
@@ -3717,10 +3761,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-08T16:40:10Z",
+    "date": "2026-11-09T23:19:55Z",
     "pre": false,
-    "tag": "v0.1.37",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.37"
+    "tag": "v0.1.38",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.38"
    },
    "repo": {
     "archived": false,
@@ -3728,9 +3772,9 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-08T16:40:10Z",
-    "size": 101863,
-    "stars": 36
+    "pushed": "2026-11-09T23:19:54Z",
+    "size": 104883,
+    "stars": 38
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4081,6 +4125,52 @@
     "pushed": "2026-11-08T18:16:41Z",
     "size": 31185,
     "stars": 1
+   },
+   "shots": []
+  },
+  "fabulu/busin0translation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true,
+      "retrans": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-06-06T14:58:17Z",
+    "desc": "Busin 0 - Wizardry Alternative Neo PS2 romhack translation",
+    "full": "Fabulu/Busin0Translation",
+    "lang": "Python",
+    "pushed": "2026-11-09T19:21:23Z",
+    "size": 22985,
+    "stars": 5
+   },
+   "shots": []
+  },
+  "fabulu/busin0translationsite": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-07-05T05:58:33Z",
+    "desc": "Promo/download site for the Busin 0: Wizardry Alternative Neo (PS2) English fan translation — busin0-en.pages.dev",
+    "full": "Fabulu/Busin0TranslationSite",
+    "lang": "HTML",
+    "pushed": "2026-11-09T19:20:59Z",
+    "size": 29413,
+    "stars": 3
    },
    "shots": []
   },
@@ -4435,7 +4525,7 @@
     "lang": "Python",
     "pushed": "2026-10-25T13:39:07Z",
     "size": 1627,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://github.com/user-attachments/assets/149fcef0-dcd5-4e17-841a-39a48dde3a7f"
@@ -4893,6 +4983,38 @@
     "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/attack-dialogue.png"
    ]
   },
+  "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-09T13:33:19Z",
+    "pre": false,
+    "tag": "v1.0.0",
+    "url": "https://github.com/jjb781017-arch/detective-conan-nerawareta-tantei-english-gba/releases/tag/v1.0.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-09T13:21:30Z",
+    "desc": "An English Translation Patch for Detective Conan: Nerawareta Tantei / The Targeted Detective on GBA",
+    "full": "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba",
+    "lang": "JavaScript",
+    "pushed": "2026-11-09T13:29:29Z",
+    "size": 2264,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/jjb781017-arch/detective-conan-nerawareta-tantei-english-gba/HEAD/images/screenshot1_title.png",
+    "https://raw.githubusercontent.com/jjb781017-arch/detective-conan-nerawareta-tantei-english-gba/HEAD/images/screenshot2_cutscene.png",
+    "https://raw.githubusercontent.com/jjb781017-arch/detective-conan-nerawareta-tantei-english-gba/HEAD/images/screenshot3_gameplay.png"
+   ]
+  },
   "jonny-anime/tokimeki-memorial-2-english-patch": {
    "assetOs": {},
    "readme": {
@@ -4917,7 +5039,7 @@
     "lang": "Python",
     "pushed": "2026-10-18T04:47:02Z",
     "size": 5231,
-    "stars": 7
+    "stars": 8
    },
    "shots": [
     "https://raw.githubusercontent.com/jonny-anime/tokimeki-memorial-2-english-patch/HEAD/translated_screenshots/Screenshot%202026-10-14%20215828.png"
@@ -5019,7 +5141,7 @@
     "lang": "C",
     "pushed": "2026-11-09T12:10:40Z",
     "size": 29955,
-    "stars": 0
+    "stars": 2
    },
    "shots": []
   },
@@ -6175,30 +6297,7 @@
    "shots": []
   },
   "lifeisfullofbotox/planetdob-en": {
-   "noRelease": true,
-   "readme": {
-    "patch": {
-     "ex": {}
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "repo": {
-    "archived": false,
-    "created": "2026-10-31T01:15:54Z",
-    "desc": "An English fan translation of Planet Dob (1999), a Japanese-exclusive PlayStation title.",
-    "full": "lifeisfullofbotox/planetdob-en",
-    "lang": null,
-    "pushed": "2026-10-31T02:32:30Z",
-    "size": 268,
-    "stars": 0
-   },
-   "shots": [
-    "https://raw.githubusercontent.com/lifeisfullofbotox/planetdob-en/HEAD/screenshot-title.png",
-    "https://raw.githubusercontent.com/lifeisfullofbotox/planetdob-en/HEAD/screenshot-dialogue.png",
-    "https://raw.githubusercontent.com/lifeisfullofbotox/planetdob-en/HEAD/screenshot-instructions.png",
-    "https://raw.githubusercontent.com/lifeisfullofbotox/planetdob-en/HEAD/screenshot-map.png"
-   ]
+   "notFound": true
   },
   "liliambean/s3unlocked": {
    "assetOs": {},
@@ -6723,10 +6822,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-09T12:17:39Z",
+    "date": "2026-11-10T06:24:41Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/blaze-union-story-to-reach-the-future-en/releases/tag/v1.1"
+    "tag": "v1.2-pre1",
+    "url": "https://github.com/minhnhattonthat/blaze-union-story-to-reach-the-future-en/releases/tag/v1.2-pre1"
    },
    "repo": {
     "archived": false,
@@ -6734,8 +6833,8 @@
     "desc": "English fan translation of Blaze Union: Story to Reach the Future (PSP)",
     "full": "minhnhattonthat/blaze-union-story-to-reach-the-future-en",
     "lang": "Python",
-    "pushed": "2026-11-09T12:18:48Z",
-    "size": 3216,
+    "pushed": "2026-11-10T06:25:25Z",
+    "size": 3242,
     "stars": 1
    },
    "shots": []
@@ -7319,6 +7418,35 @@
     "pushed": "2026-11-07T05:56:12Z",
     "size": 1029,
     "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/gloria-union-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-09T21:30:28Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/gloria-union-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-07T12:50:21Z",
+    "desc": "English fan translation of Gloria Union (PSP)",
+    "full": "minhnhattonthat/gloria-union-en",
+    "lang": "Python",
+    "pushed": "2026-11-09T21:41:33Z",
+    "size": 14742,
+    "stars": 2
    },
    "shots": []
   },
@@ -8657,6 +8785,35 @@
     "https://raw.githubusercontent.com/OZZ0AB/tsukihime-vita/HEAD/assets/livearea/bg.png"
    ]
   },
+  "pacocyborg/cardcaptor-sakura-gbc-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-09T20:55:24Z",
+    "desc": "English (machine / AI-assisted) fan translation patch for Cardcaptor Sakura: Itsumo Sakura-chan to Issho (Game Boy Color, 1999, MTO/Kodansha). Not a professional or human translation — wording may be imperfect; reports and corrections welcome via GitHub issues.",
+    "full": "pacocyborg/cardcaptor-sakura-gbc-english",
+    "lang": null,
+    "pushed": "2026-11-09T21:05:59Z",
+    "size": 321,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-gbc-english/HEAD/screenshots/01_title_menu.png",
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-gbc-english/HEAD/screenshots/02_dialogue.png",
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-gbc-english/HEAD/screenshots/03_select.png",
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-gbc-english/HEAD/screenshots/04_extras.png",
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-gbc-english/HEAD/screenshots/05_minigames.png",
+    "https://raw.githubusercontent.com/pacocyborg/cardcaptor-sakura-gbc-english/HEAD/screenshots/06_fortune.png"
+   ]
+  },
   "pacocyborg/cardcaptor-sakura-ws-english": {
    "noRelease": true,
    "readme": {
@@ -8697,9 +8854,9 @@
     "created": "2026-10-30T19:32:35Z",
     "desc": "Source to rebuild the Starfy GBA trilogy patches. An assembly of the original translators' work (Starfy Translation Team, SomeUselessTranslations, Dimedime, Luckylodeon98, RayCarrot, Normmatt); all credit to them. See README for full credits.",
     "full": "Pat227-spc/stafy-source",
-    "lang": "Assembly",
-    "pushed": "2026-11-02T06:17:34Z",
-    "size": 2449,
+    "lang": "Python",
+    "pushed": "2026-11-09T22:53:21Z",
+    "size": 2555,
     "stars": 1
    },
    "shots": []
@@ -9815,6 +9972,30 @@
    },
    "shots": []
   },
+  "selhou-lgu/kenka_bancho_4_psp_english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-09T19:16:32Z",
+    "desc": "yeah basically kenka bancho for psp",
+    "full": "Selhou-Lgu/KENKA_BANCHO_4_PSP_ENGLISH",
+    "lang": "Python",
+    "pushed": "2026-11-09T19:31:47Z",
+    "size": 86,
+    "stars": 0
+   },
+   "shots": []
+  },
   "silentheii/outbreak-translation": {
    "assetOs": {},
    "readme": {
@@ -10274,26 +10455,28 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-28T17:55:32Z",
-    "pre": true,
-    "tag": "v0.103",
-    "url": "https://github.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/releases/tag/v0.103"
+    "date": "2026-11-10T04:58:36Z",
+    "pre": false,
+    "tag": "V1.0",
+    "url": "https://github.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/releases/tag/V1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-27T12:03:07Z",
-    "desc": "English School Life translation patch for Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 (PS1 / PSX). Work in progress. Patch, installation guide and in-game screenshots; no game image or BIOS.",
+    "desc": "Full English translation of Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 (PS1 / PSX). V1.0 — final version. Includes UIs, Game Shop, Mini Games, Tests, Arcade Mode, and more. Patch only; no game image or BIOS.",
     "full": "ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2",
     "lang": null,
-    "pushed": "2026-10-28T17:55:32Z",
-    "size": 920,
+    "pushed": "2026-11-10T07:25:23Z",
+    "size": 1903,
     "stars": 6
    },
    "shots": [
-    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/natsu-dialogue.png",
-    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/tiffany-dialogue.png",
-    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/kyoko-dialogue.png",
-    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/class-rep-dialogue.png"
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/game.png",
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/pool-hinata.png",
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/pool-natsu.png",
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/pool-tiffany.png",
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/pool-akira.png",
+    "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/pool-kyoko.png"
    ]
   },
   "thesola10/yc_english": {
@@ -10462,27 +10645,28 @@
    "readme": {
     "patch": {
      "ex": {
-      "gfx": true
+      "gfx": true,
+      "restore": true
      }
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-03T00:10:26Z",
-    "pre": false,
-    "tag": "v0.5.0",
-    "url": "https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.5.0"
+    "date": "2026-11-10T05:14:47Z",
+    "pre": true,
+    "tag": "v0.6.0-rc.1",
+    "url": "https://github.com/Vnnc1/gow-native-pc/releases/tag/v0.6.0-rc.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-25T02:38:17Z",
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
-    "lang": "C++",
-    "pushed": "2026-11-09T19:20:00Z",
-    "size": 3962,
-    "stars": 229
+    "lang": "Python",
+    "pushed": "2026-11-10T05:13:34Z",
+    "size": 6027,
+    "stars": 231
    },
    "shots": []
   },
@@ -10696,7 +10880,7 @@
     "full": "Wandering-Heiho/Vantage_Master_Portable_PSP",
     "lang": null,
     "pushed": "2026-11-09T22:31:55Z",
-    "size": 189361,
+    "size": 197904,
     "stars": 3
    },
    "shots": []

@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-09T22:31:36Z",
+ "generated": "2026-11-10T07:30:11Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -14241,6 +14241,58 @@
    "src": "GitHub"
   },
   {
+   "d": "English localization + Chinese ability panel for Winning Eleven 6 Final Evolution (GameCube)",
+   "fa": "2026-11-10T07:30:11Z",
+   "g": "we6fe for NGC",
+   "id": "wolfmanonly/we6fe-english-patch-for-ngc-",
+   "k": "wolfmanonly/we6fe-english-patch-for-ngc-",
+   "l": "https://github.com/wolfmanonly/we6fe-english-patch-for-NGC-",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
+   "src": "GitHub"
+  },
+  {
+   "d": "Fixed English patch for Dragon Quest I+II (SFC): RPGOne v2.0 + mziab title fix + bug fixes",
+   "fa": "2026-11-10T07:30:11Z",
+   "g": "Dq1 2",
+   "id": "radmageirl/dq1_2_snes_patch",
+   "k": "radmageirl/dq1_2_snes_patch",
+   "l": "https://github.com/RadMageIRL/dq1_2_snes_patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "Kyoei Toshi preservation, English/pt-BR fan translation and experimental PC port. Requires your own PS4 disc dump; no game files included.",
+   "fa": "2026-11-10T07:30:11Z",
+   "g": "Kyoei Toshi",
+   "id": "davybirth/kyoei-toshi",
+   "k": "davybirth/kyoei-toshi",
+   "l": "https://github.com/DavyBirth/kyoei-toshi",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS4",
+   "src": "GitHub"
+  },
+  {
+   "d": "Grandia III (PS2) as a native PC game - widescreen, 60 fps, savestates, subtitles, optional undub (Japanese voices). Bring your own ISO.",
+   "fa": "2026-11-10T07:30:11Z",
+   "g": "Grandia3 PC",
+   "id": "granassabre/grandia3-pc",
+   "k": "granassabre/grandia3-pc",
+   "l": "https://github.com/GranasSabre/Grandia3-PC",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -15858,51 +15910,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-09T01:01:18Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-09T01:01:18Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-09T11:49:57Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
    "fa": "2026-11-09T22:31:36Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Shadowrun - English Translation - Mega CD PAL",
+   "fa": "2026-11-09T22:31:36Z",
+   "g": "Shadowrun",
+   "id": "link:https://archive.org/details/shadowrun-english-pal",
+   "l": "https://archive.org/details/shadowrun-english-pal",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Mega CD",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-10T07:30:11Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
    ],
-   "p": "PS2",
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-10T07:30:11Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
