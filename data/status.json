@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-12T11:30:13Z",
+ "generated": "2026-11-12T20:08:08Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -940,22 +940,28 @@
    "shots": []
   },
   "beanutrom/psx-bealphareth-english-patch": {
-   "noRelease": true,
+   "assetOs": {},
    "readme": {
-    "none": true,
     "patch": {
      "ex": {}
-    }
+    },
+    "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-11-12T16:08:29Z",
+    "pre": false,
+    "tag": "v1.0.2",
+    "url": "https://github.com/BeanutROM/PSX-Bealphareth-English-Patch/releases/tag/v1.0.2"
+   },
    "repo": {
     "archived": false,
     "created": "2026-10-28T08:18:42Z",
     "desc": "An english patch for the PSX game Bealphareth",
     "full": "BeanutROM/PSX-Bealphareth-English-Patch",
     "lang": null,
-    "pushed": "2026-10-31T04:28:36Z",
-    "size": 8807,
+    "pushed": "2026-11-12T16:08:28Z",
+    "size": 74300,
     "stars": 1
    },
    "shots": []
@@ -3648,7 +3654,7 @@
     "lang": "C++",
     "pushed": "2026-11-12T04:09:09Z",
     "size": 146058,
-    "stars": 47
+    "stars": 46
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -3864,7 +3870,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T03:42:39Z",
     "size": 110922,
-    "stars": 39
+    "stars": 40
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4113,7 +4119,7 @@
     "lang": null,
     "pushed": "2026-09-12T18:23:25Z",
     "size": 727,
-    "stars": 154
+    "stars": 153
    },
    "shots": [
     "https://github.com/user-attachments/assets/9fd1ba5d-f831-4622-a516-c68865e4438b",
@@ -4483,8 +4489,8 @@
     "desc": "English ROMhack/patch for PSX version of Ultima Underworld",
     "full": "gertius1/UU_PSX_ENG",
     "lang": "C++",
-    "pushed": "2026-10-30T20:07:33Z",
-    "size": 716,
+    "pushed": "2026-11-12T16:45:06Z",
+    "size": 720,
     "stars": 13
    },
    "shots": []
@@ -5446,7 +5452,7 @@
     "lang": "Python",
     "pushed": "2026-10-26T18:49:18Z",
     "size": 720,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -6412,7 +6418,7 @@
     "lang": "Assembly",
     "pushed": "2026-10-13T20:12:27Z",
     "size": 15729,
-    "stars": 104
+    "stars": 105
    },
    "shots": [
     "https://github.com/user-attachments/assets/ab140158-20b1-45fc-8f32-b877cb3aafec",
@@ -6477,8 +6483,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-12T00:26:59Z",
-    "size": 93383,
+    "pushed": "2026-11-12T19:22:14Z",
+    "size": 94599,
     "stars": 102
    },
    "shots": [
@@ -8692,7 +8698,7 @@
     "lang": "Batchfile",
     "pushed": "2026-10-30T14:47:52Z",
     "size": 2647,
-    "stars": 13
+    "stars": 14
    },
    "shots": []
   },
@@ -9150,7 +9156,7 @@
     "lang": "Assembly",
     "pushed": "2022-09-19T23:34:12Z",
     "size": 240939,
-    "stars": 206
+    "stars": 207
    },
    "shots": []
   },
@@ -9622,6 +9628,35 @@
    },
    "shots": []
   },
+  "retro-trans/gakkou-de-atta-kowai-hanashi-s": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-12T06:29:24Z",
+    "pre": false,
+    "tag": "v0.8.0",
+    "url": "https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/tag/v0.8.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-12T06:28:58Z",
+    "desc": "English translation of Gakkou de Atta Kowai Hanashi S (PS1, SLPS-00404) and the toolchain that builds it",
+    "full": "retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S",
+    "lang": "Python",
+    "pushed": "2026-11-12T06:29:24Z",
+    "size": 7149,
+    "stars": 0
+   },
+   "shots": []
+  },
   "retro-trans/sunrise-eiyuutan-2": {
    "assetOs": {},
    "readme": {
@@ -9774,6 +9809,38 @@
     "stars": 5
    },
    "shots": []
+  },
+  "retroplayingbcn/super-tempo-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-12T10:54:46Z",
+    "pre": false,
+    "tag": "v0.9.1",
+    "url": "https://github.com/Retroplayingbcn/super-tempo-english/releases/tag/v0.9.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-12T10:48:32Z",
+    "desc": "English fan translation patch for Super Tempo (Sega Saturn, 1998). xdelta patch, script and tools. No game files included.",
+    "full": "Retroplayingbcn/super-tempo-english",
+    "lang": "Python",
+    "pushed": "2026-11-12T11:35:37Z",
+    "size": 491,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Retroplayingbcn/super-tempo-english/HEAD/docs/img/screens.jpg"
+   ]
   },
   "rhadvance/rhythmheavenadvance": {
    "assetOs": {},
@@ -10124,6 +10191,43 @@
     "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-04.png",
     "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-05.png",
     "https://raw.githubusercontent.com/RulevoiBanan/kita-e-white-illumination-english-patch/HEAD/screenshots/screenshot-06.png"
+   ]
+  },
+  "sam2wow/fukufuku-no-shima-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-12T10:47:10Z",
+    "pre": false,
+    "tag": "v0.1",
+    "url": "https://github.com/SAM2WOW/fukufuku-no-shima-english-patch/releases/tag/v0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-12T10:14:30Z",
+    "desc": "Fukufuku no Shima (福福の島) English patch – fan translation of the Japan-only PSP game (UCJS-10016). Patch your ISO with xdelta and play on PPSSPP, PSP or PS Vita.",
+    "full": "SAM2WOW/fukufuku-no-shima-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-12T10:49:54Z",
+    "size": 6017,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/SAM2WOW/fukufuku-no-shima-english-patch/HEAD/docs/screenshots/fukufuku-no-shima-english-patch-preview.png",
+    "https://raw.githubusercontent.com/SAM2WOW/fukufuku-no-shima-english-patch/HEAD/docs/screenshots/fukufuku-no-shima-english-title-screen.png",
+    "https://raw.githubusercontent.com/SAM2WOW/fukufuku-no-shima-english-patch/HEAD/docs/screenshots/fukufuku-no-shima-english-intro-dialogue.png",
+    "https://raw.githubusercontent.com/SAM2WOW/fukufuku-no-shima-english-patch/HEAD/docs/screenshots/fukufuku-no-shima-english-name-entry.png",
+    "https://raw.githubusercontent.com/SAM2WOW/fukufuku-no-shima-english-patch/HEAD/docs/screenshots/fukufuku-no-shima-english-birthday.png",
+    "https://raw.githubusercontent.com/SAM2WOW/fukufuku-no-shima-english-patch/HEAD/docs/screenshots/fukufuku-no-shima-english-island-intro.png"
    ]
   },
   "satelliteoflove/dimguil-english": {
@@ -10654,8 +10758,8 @@
     "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
     "full": "struktured-labs/trinea-dx",
     "lang": "Assembly",
-    "pushed": "2026-11-11T21:26:54Z",
-    "size": 2818,
+    "pushed": "2026-11-12T15:48:14Z",
+    "size": 3023,
     "stars": 1
    },
    "shots": [
@@ -10971,9 +11075,9 @@
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
     "lang": "Python",
-    "pushed": "2026-11-11T18:30:47Z",
-    "size": 6320,
-    "stars": 241
+    "pushed": "2026-11-12T14:53:11Z",
+    "size": 6330,
+    "stars": 242
    },
    "shots": []
   },
