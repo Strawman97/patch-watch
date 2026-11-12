@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-11T17:17:15Z",
+ "generated": "2026-11-12T00:51:30Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -696,10 +696,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-11T14:23:36Z",
+    "date": "2026-11-11T20:39:34Z",
     "pre": false,
-    "tag": "patches-2026-11-11",
-    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-11"
+    "tag": "patches-2026-11-11-2",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-11-2"
    },
    "repo": {
     "archived": false,
@@ -707,8 +707,8 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-11T14:23:35Z",
-    "size": 5073,
+    "pushed": "2026-11-11T20:39:34Z",
+    "size": 5220,
     "stars": 5
    },
    "shots": []
@@ -2549,10 +2549,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-09T13:26:26Z",
+    "date": "2026-11-11T17:50:05Z",
     "pre": true,
-    "tag": "v0.9.3",
-    "url": "https://github.com/damon-daemon/sangokushi-koumeiden-english/releases/tag/v0.9.3"
+    "tag": "v0.9.4",
+    "url": "https://github.com/damon-daemon/sangokushi-koumeiden-english/releases/tag/v0.9.4"
    },
    "repo": {
     "archived": false,
@@ -2560,8 +2560,8 @@
     "desc": "English fan translation patch for Sangokushi Koumeiden (PlayStation)",
     "full": "damon-daemon/sangokushi-koumeiden-english",
     "lang": "Python",
-    "pushed": "2026-11-11T17:06:52Z",
-    "size": 1220,
+    "pushed": "2026-11-11T19:46:52Z",
+    "size": 1229,
     "stars": 1
    },
    "shots": [
@@ -2586,10 +2586,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-10T22:13:28Z",
+    "date": "2026-11-11T22:18:27Z",
     "pre": true,
-    "tag": "v0.9.0",
-    "url": "https://github.com/damon-daemon/taiko-risshiden-4-english/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/taiko-risshiden-4-english/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -2597,8 +2597,8 @@
     "desc": "English fan translation patch for Taiko Risshiden IV (PS2)",
     "full": "damon-daemon/taiko-risshiden-4-english",
     "lang": "Python",
-    "pushed": "2026-11-10T22:13:28Z",
-    "size": 5905,
+    "pushed": "2026-11-11T22:48:53Z",
+    "size": 5915,
     "stars": 1
    },
    "shots": [
@@ -2635,8 +2635,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-11-09T14:53:02Z",
-    "size": 6094,
+    "pushed": "2026-11-11T22:54:55Z",
+    "size": 5221,
     "stars": 4
    },
    "shots": [
@@ -4213,7 +4213,7 @@
     "full": "fabiof17/Tengai-Makyou---Fuun-Kabuki-den-English-patch-",
     "lang": "PowerShell",
     "pushed": "2026-11-11T16:56:49Z",
-    "size": 34063,
+    "size": 37028,
     "stars": 2
    },
    "shots": []
@@ -4615,7 +4615,7 @@
     "lang": "Python",
     "pushed": "2026-10-25T13:39:07Z",
     "size": 1627,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://github.com/user-attachments/assets/149fcef0-dcd5-4e17-841a-39a48dde3a7f"
@@ -4650,7 +4650,7 @@
     "lang": "C++",
     "pushed": "2026-11-09T23:20:25Z",
     "size": 12618,
-    "stars": 47
+    "stars": 48
    },
    "shots": []
   },
@@ -5615,10 +5615,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-21T21:17:23Z",
+    "date": "2026-11-11T23:06:55Z",
     "pre": false,
-    "tag": "v0.2",
-    "url": "https://github.com/kactusken/Wrestle-Angels-Survivor-2-English/releases/tag/v0.2"
+    "tag": "v0.3",
+    "url": "https://github.com/kactusken/Wrestle-Angels-Survivor-2-English/releases/tag/v0.3"
    },
    "repo": {
     "archived": false,
@@ -5626,8 +5626,8 @@
     "desc": "English translation for Wrestle Angels: Survivor 2 for PS2",
     "full": "kactusken/Wrestle-Angels-Survivor-2-English",
     "lang": "Python",
-    "pushed": "2026-10-26T20:35:52Z",
-    "size": 11125,
+    "pushed": "2026-11-11T23:06:19Z",
+    "size": 11425,
     "stars": 6
    },
    "shots": []
@@ -5922,8 +5922,8 @@
     "desc": "Hikaru no Go 3 (ヒカルの碁3 / ヒカルの碁３) English translation patch for Nintendo GameCube / GCN (GHTJA4). Editable dialogue, source tools, BPS patch and no-code Windows patcher. Version 1.0.4.",
     "full": "KodakWizard/hikaru-no-go-3-english",
     "lang": "Python",
-    "pushed": "2026-11-11T15:16:48Z",
-    "size": 18945,
+    "pushed": "2026-11-11T21:55:16Z",
+    "size": 21209,
     "stars": 5
    },
    "shots": [
@@ -6477,8 +6477,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-11T16:06:39Z",
-    "size": 93358,
+    "pushed": "2026-11-12T00:26:59Z",
+    "size": 92204,
     "stars": 102
    },
    "shots": [
@@ -6942,10 +6942,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-05T06:50:57Z",
+    "date": "2026-11-11T22:43:03Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -6953,8 +6953,8 @@
     "desc": "English fan translation of Bealphareth (PSX)",
     "full": "minhnhattonthat/bealphareth-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:55:35Z",
-    "size": 21949,
+    "pushed": "2026-11-11T22:43:02Z",
+    "size": 22035,
     "stars": 1
    },
    "shots": []
@@ -8458,6 +8458,35 @@
     "lang": "Python",
     "pushed": "2026-10-30T00:05:11Z",
     "size": 2034,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/yggdra-unison-seiken-buyuuden-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-11T13:09:46Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/yggdra-unison-seiken-buyuuden-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-09T08:08:45Z",
+    "desc": "English fan translation of Yggdra Unison: Seiken Buyuuden (NDS)",
+    "full": "minhnhattonthat/yggdra-unison-seiken-buyuuden-en",
+    "lang": "Python",
+    "pushed": "2026-11-11T14:01:05Z",
+    "size": 11513,
     "stars": 0
    },
    "shots": []
@@ -10592,8 +10621,8 @@
     "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
     "full": "struktured-labs/trinea-dx",
     "lang": "Assembly",
-    "pushed": "2026-11-11T01:06:52Z",
-    "size": 2772,
+    "pushed": "2026-11-11T21:26:54Z",
+    "size": 2818,
     "stars": 1
    },
    "shots": [
@@ -10909,9 +10938,9 @@
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
     "lang": "Python",
-    "pushed": "2026-11-11T17:10:17Z",
-    "size": 6171,
-    "stars": 240
+    "pushed": "2026-11-11T18:30:47Z",
+    "size": 6320,
+    "stars": 241
    },
    "shots": []
   },
