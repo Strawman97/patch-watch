@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-12T20:08:08Z",
+ "generated": "2026-11-13T01:57:09Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -3857,10 +3857,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-12T03:42:40Z",
+    "date": "2026-11-13T01:39:53Z",
     "pre": false,
-    "tag": "v0.1.40",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.40"
+    "tag": "v0.1.41",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.41"
    },
    "repo": {
     "archived": false,
@@ -3868,7 +3868,7 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-12T03:42:39Z",
+    "pushed": "2026-11-13T01:39:53Z",
     "size": 110922,
     "stars": 40
    },
@@ -4656,7 +4656,7 @@
     "lang": "C++",
     "pushed": "2026-11-09T23:20:25Z",
     "size": 12618,
-    "stars": 49
+    "stars": 50
    },
    "shots": []
   },
@@ -6483,8 +6483,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-12T19:22:14Z",
-    "size": 94599,
+    "pushed": "2026-11-13T00:50:37Z",
+    "size": 84917,
     "stars": 102
    },
    "shots": [
@@ -6937,33 +6937,7 @@
    "shots": []
   },
   "minhnhattonthat/bealphareth-en": {
-   "assetOs": {},
-   "readme": {
-    "patch": {
-     "ex": {
-      "subs": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-11T22:43:03Z",
-    "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.1"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-11-04T04:22:54Z",
-    "desc": "English fan translation of Bealphareth (PSX)",
-    "full": "minhnhattonthat/bealphareth-en",
-    "lang": "Python",
-    "pushed": "2026-11-11T22:43:02Z",
-    "size": 22035,
-    "stars": 1
-   },
-   "shots": []
+   "notFound": true
   },
   "minhnhattonthat/black-matrix-en": {
    "assetOs": {},
@@ -7572,7 +7546,7 @@
     "lang": "Python",
     "pushed": "2026-11-07T05:56:10Z",
     "size": 675,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -9135,7 +9109,7 @@
     "lang": "Python",
     "pushed": "2026-11-09T11:48:18Z",
     "size": 3777,
-    "stars": 81
+    "stars": 82
    },
    "shots": []
   },
@@ -9236,8 +9210,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-08T01:14:55Z",
-    "size": 7963,
+    "pushed": "2026-11-12T22:06:15Z",
+    "size": 8341,
     "stars": 0
    },
    "shots": []
@@ -9494,7 +9468,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T09:33:52Z",
     "size": 1562,
-    "stars": 8
+    "stars": 9
    },
    "shots": [
     "https://raw.githubusercontent.com/randomprojectsfactory/xak-i-ii-pce-english/HEAD/subtitle-king.png",
@@ -9519,10 +9493,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-03T21:24:07Z",
+    "date": "2026-11-12T22:05:19Z",
     "pre": false,
-    "tag": "v1.0.4",
-    "url": "https://github.com/Redeted/megami-ibunroku-persona-ps1-translation/releases/tag/v1.0.4"
+    "tag": "v1.0.5-beta",
+    "url": "https://github.com/Redeted/megami-ibunroku-persona-ps1-translation/releases/tag/v1.0.5-beta"
    },
    "repo": {
     "archived": false,
@@ -9530,8 +9504,8 @@
     "desc": "English translation of Megami Ibunroku Persona (PS1, SLPS-00500) with an optional 60 fps / QoL patch",
     "full": "Redeted/megami-ibunroku-persona-ps1-translation",
     "lang": "Python",
-    "pushed": "2026-11-03T21:23:42Z",
-    "size": 3241,
+    "pushed": "2026-11-12T22:05:18Z",
+    "size": 3965,
     "stars": 13
    },
    "shots": [
@@ -9653,7 +9627,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T06:29:24Z",
     "size": 7149,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -10747,10 +10721,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-11T01:06:57Z",
+    "date": "2026-11-12T23:43:48Z",
     "pre": false,
-    "tag": "v1.2.1",
-    "url": "https://github.com/struktured-labs/trinea-dx/releases/tag/v1.2.1"
+    "tag": "v1.2.2",
+    "url": "https://github.com/struktured-labs/trinea-dx/releases/tag/v1.2.2"
    },
    "repo": {
     "archived": false,
@@ -10758,8 +10732,8 @@
     "desc": "Enhancement project for the Super Famicom game Trinea: complete English translation, with speed and co-op improvements planned",
     "full": "struktured-labs/trinea-dx",
     "lang": "Assembly",
-    "pushed": "2026-11-12T15:48:14Z",
-    "size": 3023,
+    "pushed": "2026-11-12T23:43:46Z",
+    "size": 3105,
     "stars": 1
    },
    "shots": [
@@ -10879,7 +10853,7 @@
     "lang": null,
     "pushed": "2026-11-10T10:05:21Z",
     "size": 6257,
-    "stars": 10
+    "stars": 11
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/game.png",
@@ -11075,8 +11049,8 @@
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
     "lang": "Python",
-    "pushed": "2026-11-12T14:53:11Z",
-    "size": 6330,
+    "pushed": "2026-11-12T20:14:29Z",
+    "size": 6406,
     "stars": 242
    },
    "shots": []
