@@ -7328,6 +7328,14 @@
    "title": "Bushi Seiryuuden: Futari no Yuusha",
    "url": "https://cdn2.steamgriddb.com/grid/1add65d82bb617196022f33dedda387c.png"
   },
+  "loco-motive/glc-english-translation": {
+   "added": "2026-11-13T19:53:10Z",
+   "match": 1.0,
+   "name": "Guru Logic Champ",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/c2852028a4c5ce71f22f4cd5208d9c04.jpg",
+   "title": "Guru Logic Champ",
+   "url": "https://cdn2.steamgriddb.com/grid/c2852028a4c5ce71f22f4cd5208d9c04.png"
+  },
   "m-mayday/atelier-marie-gb": {
    "added": "2026-10-22T12:22:11Z",
    "match": 1.0,
@@ -7874,7 +7882,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-11-13T11:15:00Z",
+ "generated": "2026-11-13T19:53:10Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -7984,6 +7992,7 @@
   "eight-mansions/mahjaventure": "2026-11-05T11:12:14Z|mahjaventure warring tiles",
   "emertels/psbbn-translator": "2026-11-03T19:38:40Z|psbbn translator",
   "excalz/ps4-retranslation": "2026-11-05T11:12:14Z|phantasy star iv",
+  "exxistancedc/blue-stinger-directors-cut": "2026-11-13T19:53:10Z|blue stinger directors cut",
   "exxistancedc/cyber-doll-english-translation": "2026-11-05T11:12:14Z|cyber doll",
   "exxistancedc/delisoba-deluxe-english-translation": "2026-11-05T11:12:14Z|delisoba deluxe",
   "exxistancedc/hissatsu-english-translation": "2026-11-05T11:12:14Z|hissatsu",
@@ -8634,6 +8643,7 @@
   "mstan/tsumulightrecomp": "2026-10-31T05:57:14Z|tsumu light recomp",
   "muorosaaa/tokyo-mew-mew-ps1-en": "2026-11-13T01:57:09Z|tokyo mew mew",
   "nekogun45/-3ds-super-robot-wars-ux---full-english-translation-patch-release-experimental-": "2026-11-12T00:51:30Z|3ds super robot wars ux full release experimental",
+  "neobeo/jamwiththebandp-english": "2026-11-13T19:53:10Z|daigasso band bros p",
   "neokitsune5/qg_english_patch": "2026-10-22T09:57:51Z",
   "nn-exe/pokemon-hyper-emerald-5.7-qol": "2026-10-22T09:57:51Z",
   "originheartgold/origin-heart-gold-en-translation": "2026-10-22T09:57:51Z",

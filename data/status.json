@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-13T11:15:00Z",
+ "generated": "2026-11-13T19:53:10Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -91,7 +91,7 @@
     "lang": "Python",
     "pushed": "2026-11-11T12:25:37Z",
     "size": 147,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -696,10 +696,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-11T20:39:34Z",
+    "date": "2026-11-13T15:06:17Z",
     "pre": false,
-    "tag": "patches-2026-11-11-2",
-    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-11-2"
+    "tag": "patches-2026-11-13",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-13"
    },
    "repo": {
     "archived": false,
@@ -707,8 +707,8 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-11T20:39:34Z",
-    "size": 5220,
+    "pushed": "2026-11-13T15:06:17Z",
+    "size": 5997,
     "stars": 6
    },
    "shots": []
@@ -764,6 +764,27 @@
    "shots": [
     "http://i.imgur.com/P8ypaT4.png"
    ]
+  },
+  "bcrew1375/snes-translation-workstation": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-10-06T02:27:59Z",
+    "desc": "",
+    "full": "bcrew1375/snes-translation-workstation",
+    "lang": "Python",
+    "pushed": "2026-11-13T02:30:50Z",
+    "size": 731,
+    "stars": 0
+   },
+   "shots": []
   },
   "beanutrom/astra-superstars-english-patch": {
    "noRelease": true,
@@ -962,7 +983,7 @@
     "lang": null,
     "pushed": "2026-11-12T16:08:28Z",
     "size": 74300,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -3652,8 +3673,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-12T04:09:09Z",
-    "size": 146058,
+    "pushed": "2026-11-13T15:28:13Z",
+    "size": 146557,
     "stars": 46
    },
    "shots": [
@@ -3688,7 +3709,7 @@
     "lang": "C++",
     "pushed": "2026-08-23T21:31:44Z",
     "size": 17680,
-    "stars": 247
+    "stars": 248
    },
    "shots": [
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo1.png",
@@ -4220,7 +4241,7 @@
     "lang": "PowerShell",
     "pushed": "2026-11-11T16:56:49Z",
     "size": 37028,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -4243,7 +4264,7 @@
     "desc": "Busin 0 - Wizardry Alternative Neo PS2 romhack translation",
     "full": "Fabulu/Busin0Translation",
     "lang": "Python",
-    "pushed": "2026-11-09T19:21:23Z",
+    "pushed": "2026-11-13T19:19:31Z",
     "size": 22985,
     "stars": 5
    },
@@ -4264,7 +4285,7 @@
     "desc": "Promo/download site for the Busin 0: Wizardry Alternative Neo (PS2) English fan translation — busin0-en.pages.dev",
     "full": "Fabulu/Busin0TranslationSite",
     "lang": "HTML",
-    "pushed": "2026-11-09T19:20:59Z",
+    "pushed": "2026-11-13T19:19:55Z",
     "size": 29413,
     "stars": 3
    },
@@ -4297,7 +4318,7 @@
     "lang": "Python",
     "pushed": "2026-11-05T23:06:04Z",
     "size": 22255,
-    "stars": 0
+    "stars": 3
    },
    "shots": []
   },
@@ -5081,17 +5102,19 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {},
+     "ex": {
+      "gfx": true
+     },
      "mtl": true
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-13T06:22:22Z",
+    "date": "2026-11-13T17:51:05Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.1"
+    "tag": "v1.1.1",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.1.1"
    },
    "repo": {
     "archived": false,
@@ -5099,17 +5122,17 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-11-13T07:37:16Z",
-    "size": 821,
+    "pushed": "2026-11-13T18:35:27Z",
+    "size": 1058,
     "stars": 1
    },
    "shots": [
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v111-story-build-base.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v111-story-jamatai.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v111-battle-quote.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v111-pilot-cut-in.png",
     "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/compare-story-1.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/compare-story-2.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/compare-battle-1.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/compare-battle-2.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/title-screen.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/opening-narration.png"
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/compare-story-2.png"
    ]
   },
   "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba": {
@@ -5576,7 +5599,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T23:53:59Z",
     "size": 1335,
-    "stars": 0
+    "stars": 2
    },
    "shots": []
   },
@@ -5948,19 +5971,19 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-11T14:43:08Z",
+    "date": "2026-11-13T15:30:03Z",
     "pre": false,
-    "tag": "v1.0.4",
-    "url": "https://github.com/KodakWizard/hikaru-no-go-3-english/releases/tag/v1.0.4"
+    "tag": "v1.0.5",
+    "url": "https://github.com/KodakWizard/hikaru-no-go-3-english/releases/tag/v1.0.5"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-19T01:03:04Z",
-    "desc": "Hikaru no Go 3 (ヒカルの碁3 / ヒカルの碁３) English translation patch for Nintendo GameCube / GCN (GHTJA4). Editable dialogue, source tools, BPS patch and no-code Windows patcher. Version 1.0.4.",
+    "desc": "Hikaru no Go 3 (ヒカルの碁3 / ヒカルの碁３) English translation patch for Nintendo GameCube / GCN (GHTJA4). Editable dialogue, source tools, BPS patch and no-code Windows patcher. Version 1.0.5.",
     "full": "KodakWizard/hikaru-no-go-3-english",
     "lang": "Python",
-    "pushed": "2026-11-11T21:55:16Z",
-    "size": 21209,
+    "pushed": "2026-11-13T15:30:33Z",
+    "size": 22629,
     "stars": 5
    },
    "shots": [
@@ -6268,7 +6291,7 @@
     "lang": "Assembly",
     "pushed": "2026-08-26T01:37:35Z",
     "size": 91371,
-    "stars": 227
+    "stars": 228
    },
    "shots": [
     "https://user-images.githubusercontent.com/77897370/117694591-50db8180-b18d-11eb-852d-7aaedf63c962.png",
@@ -6514,8 +6537,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-13T02:56:08Z",
-    "size": 86099,
+    "pushed": "2026-11-13T17:10:28Z",
+    "size": 89683,
     "stars": 102
    },
    "shots": [
@@ -8961,7 +8984,7 @@
     "lang": "Ruby",
     "pushed": "2024-06-27T09:36:28Z",
     "size": 833504,
-    "stars": 112
+    "stars": 113
    },
    "shots": []
   },
@@ -9162,7 +9185,7 @@
     "lang": "Python",
     "pushed": "2026-11-09T11:48:18Z",
     "size": 3777,
-    "stars": 82
+    "stars": 83
    },
    "shots": []
   },
@@ -9198,10 +9221,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-06T09:58:49Z",
+    "date": "2026-11-13T17:33:35Z",
     "pre": false,
-    "tag": "v4.0",
-    "url": "https://github.com/phamkv/gotokano/releases/tag/v4.0"
+    "tag": "v5.0",
+    "url": "https://github.com/phamkv/gotokano/releases/tag/v5.0"
    },
    "repo": {
     "archived": false,
@@ -9209,8 +9232,8 @@
     "desc": "English Patch for The Quintessential Quintuplets: Five Promises Made With Her (Switch)",
     "full": "phamkv/gotokano",
     "lang": null,
-    "pushed": "2026-11-06T09:58:48Z",
-    "size": 86861,
+    "pushed": "2026-11-13T17:33:35Z",
+    "size": 106019,
     "stars": 0
    },
    "shots": []
@@ -9488,7 +9511,7 @@
     "lang": "Python",
     "pushed": "2026-10-30T07:35:18Z",
     "size": 704,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/randomprojectsfactory/cosmic-fantasy-pce-english/HEAD/subtitle-cinematic.png",
@@ -9863,7 +9886,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T11:35:37Z",
     "size": 491,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/Retroplayingbcn/super-tempo-english/HEAD/docs/img/screens.jpg"
@@ -9978,7 +10001,7 @@
     "lang": null,
     "pushed": "2026-11-08T00:31:18Z",
     "size": 6,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -11139,9 +11162,9 @@
     "desc": "Native Windows PC port of God of War (PS2), built by statically recompiling MIPS R5900 code to C++ with PS2Recomp. Includes an installer launcher, one-click build, fan-translation support and a 60 fps target. No game files included: you need your own copy.",
     "full": "Vnnc1/gow-native-pc",
     "lang": "Python",
-    "pushed": "2026-11-12T20:14:29Z",
+    "pushed": "2026-11-13T19:23:03Z",
     "size": 6406,
-    "stars": 247
+    "stars": 249
    },
    "shots": []
   },
@@ -11294,8 +11317,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-13T04:26:16Z",
-    "size": 11569,
+    "pushed": "2026-11-13T17:57:48Z",
+    "size": 12201,
     "stars": 0
    },
    "shots": [
@@ -11479,7 +11502,7 @@
     "desc": "Unofficial English fan translation of Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai Soudatsusen!! for Nintendo DS. Work in progress. Build locally with your own legally obtained ROM. No ROM downloads.",
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
-    "pushed": "2026-11-11T10:47:50Z",
+    "pushed": "2026-11-13T19:06:48Z",
     "size": 8041,
     "stars": 5
    },
