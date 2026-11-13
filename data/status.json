@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-13T01:57:09Z",
+ "generated": "2026-11-13T11:15:00Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -2703,7 +2703,7 @@
     "lang": "C",
     "pushed": "2026-05-03T04:25:02Z",
     "size": 624741,
-    "stars": 105
+    "stars": 106
    },
    "shots": []
   },
@@ -3869,7 +3869,7 @@
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
     "pushed": "2026-11-13T01:39:53Z",
-    "size": 110922,
+    "size": 113942,
     "stars": 40
    },
    "shots": [
@@ -4883,7 +4883,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T01:40:18Z",
     "size": 8079,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/05-story-dialogue.png",
@@ -5088,10 +5088,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-05T01:52:55Z",
+    "date": "2026-11-13T06:22:22Z",
     "pre": false,
-    "tag": "v1.0.1",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.0.1"
+    "tag": "v1.1",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -5099,17 +5099,17 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-11-05T01:52:29Z",
-    "size": 460,
+    "pushed": "2026-11-13T07:37:16Z",
+    "size": 821,
     "stars": 1
    },
    "shots": [
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/compare-story-1.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/compare-story-2.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/compare-battle-1.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/compare-battle-2.png",
     "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/title-screen.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/opening-narration.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/scenario-title.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/story-dialogue.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/weapon-selection.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/attack-dialogue.png"
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/opening-narration.png"
    ]
   },
   "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba": {
@@ -5545,6 +5545,37 @@
     "lang": "Python",
     "pushed": "2026-11-03T22:16:33Z",
     "size": 846,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "kactusken/shiroi-rinngu-he-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "restore": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-12T23:54:19Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/kactusken/Shiroi-Rinngu-He-English/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-12T23:47:23Z",
+    "desc": "English translation patch for Shiroi Rinngu He - Twinkle Little Star Story (SNES, 1995), a joshi wrestling story game",
+    "full": "kactusken/Shiroi-Rinngu-He-English",
+    "lang": "Python",
+    "pushed": "2026-11-12T23:53:59Z",
+    "size": 1335,
     "stars": 0
    },
    "shots": []
@@ -6483,8 +6514,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-13T00:50:37Z",
-    "size": 84917,
+    "pushed": "2026-11-13T02:56:08Z",
+    "size": 86099,
     "stars": 102
    },
    "shots": [
@@ -8647,6 +8678,28 @@
    },
    "shots": []
   },
+  "muorosaaa/tokyo-mew-mew-ps1-en": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-13T00:59:55Z",
+    "desc": "An attempt at an English Translation of Tokyo Mew Mew – Tojo Shin Mew Mew! – Minna Issho ni Gohoshi Suru Nyan using Claude",
+    "full": "Muorosaaa/tokyo-mew-mew-ps1-en",
+    "lang": "Python",
+    "pushed": "2026-11-13T03:57:11Z",
+    "size": 5450,
+    "stars": 0
+   },
+   "shots": []
+  },
   "mykaadev/monhun-nikki-poka-poka-airu-mura-g-psp-translation-patch": {
    "assetOs": {},
    "readme": {
@@ -9730,19 +9783,19 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "cov": "Partial",
      "ex": {
       "subs": true
-     }
+     },
+     "mtl": true
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-07T04:17:39Z",
+    "date": "2026-11-13T09:47:06Z",
     "pre": false,
-    "tag": "v0.8.2",
-    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.2"
+    "tag": "v0.8.3",
+    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.3"
    },
    "repo": {
     "archived": false,
@@ -9750,8 +9803,8 @@
     "desc": "English translation patch for Tengai Makyou II: Manji Maru (GameCube).",
     "full": "retro-trans/Tengai-Makyou-II",
     "lang": "Python",
-    "pushed": "2026-11-07T04:24:48Z",
-    "size": 67,
+    "pushed": "2026-11-13T09:53:31Z",
+    "size": 92,
     "stars": 1
    },
    "shots": []
@@ -10745,6 +10798,43 @@
     "https://raw.githubusercontent.com/struktured-labs/trinea-dx/HEAD/docs/screenshots/credits.png"
    ]
   },
+  "suddenlythis/linda3pce-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-12T19:57:46Z",
+    "pre": false,
+    "tag": "v0.3",
+    "url": "https://github.com/suddenlythis/linda3pce-english/releases/tag/v0.3"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-12T19:42:34Z",
+    "desc": "Linda Cube (PC Engine) English Translation",
+    "full": "suddenlythis/linda3pce-english",
+    "lang": null,
+    "pushed": "2026-11-12T22:33:17Z",
+    "size": 158,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/01-title.png",
+    "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/02-file-select.png",
+    "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/03-place-name.png",
+    "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/04-dialogue.png",
+    "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/05-town.png",
+    "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/06-harbour.png"
+   ]
+  },
   "symphonialauren/tales-of-rebirth": {
    "assetOs": {},
    "readme": {
@@ -11051,7 +11141,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T20:14:29Z",
     "size": 6406,
-    "stars": 242
+    "stars": 247
    },
    "shots": []
   },
@@ -11204,16 +11294,17 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-10-21T01:28:58Z",
-    "size": 5408,
+    "pushed": "2026-11-13T04:26:16Z",
+    "size": 11569,
     "stars": 0
    },
    "shots": [
-    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/0_title.png",
-    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/1_dialogue.png",
-    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/2_field.png",
-    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/3_battle_menu.png",
-    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/4_skills.png"
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/screenshots/title.png",
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/screenshots/dialogue.png",
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/screenshots/classroom.png",
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/screenshots/field.png",
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/screenshots/status.png",
+    "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/screenshots/combat_training.png"
    ]
   },
   "wakabayashy/sakura-wars-1-dreamcast-english-translation": {

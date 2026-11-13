@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-13T01:57:09Z",
+ "generated": "2026-11-13T11:15:00Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -14462,6 +14462,18 @@
    "src": "GitHub"
   },
   {
+   "fa": "2026-11-13T11:15:00Z",
+   "g": "Snes Workstation",
+   "id": "bcrew1375/snes-translation-workstation",
+   "k": "bcrew1375/snes-translation-workstation",
+   "l": "https://github.com/bcrew1375/snes-translation-workstation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -16079,51 +16091,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-11-12T11:30:13Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-12T20:08:08Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PS3",
    "src": "Internet Archive"
   },
   {
-   "d": "[PC] Mega Man X4 Undub",
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
    "fa": "2026-11-13T01:57:09Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-13T01:57:09Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-11-13T11:15:00Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "Shadowrun - English Translation - Mega CD PAL",
-   "fa": "2026-11-13T01:57:09Z",
-   "g": "Shadowrun",
-   "id": "link:https://archive.org/details/shadowrun-english-pal",
-   "l": "https://archive.org/details/shadowrun-english-pal",
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-13T11:15:00Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Mega CD",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
