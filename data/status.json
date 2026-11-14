@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-14T10:40:39Z",
+ "generated": "2026-11-14T18:18:04Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -43,10 +43,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T14:40:29Z",
+    "date": "2026-11-14T17:59:17Z",
     "pre": false,
-    "tag": "GS1_English0.7.57",
-    "url": "https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation/releases/tag/GS1_English0.7.57"
+    "tag": "GS1_English0.7.58",
+    "url": "https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation/releases/tag/GS1_English0.7.58"
    },
    "repo": {
     "archived": false,
@@ -54,7 +54,7 @@
     "desc": "An English translation of GS1 using the official English script, featuring 3 line text, VWF and of course, English!",
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
-    "pushed": "2026-11-14T04:11:07Z",
+    "pushed": "2026-11-14T17:59:17Z",
     "size": 36189,
     "stars": 17
    },
@@ -696,10 +696,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-13T15:06:17Z",
+    "date": "2026-11-14T17:49:19Z",
     "pre": false,
-    "tag": "patches-2026-11-13",
-    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-13"
+    "tag": "patches-2026-11-14",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-14"
    },
    "repo": {
     "archived": false,
@@ -707,9 +707,9 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-13T15:06:17Z",
+    "pushed": "2026-11-14T17:49:18Z",
     "size": 5997,
-    "stars": 6
+    "stars": 7
    },
    "shots": []
   },
@@ -983,7 +983,7 @@
     "desc": "An english patch for the PSX game Bealphareth",
     "full": "BeanutROM/PSX-Bealphareth-English-Patch",
     "lang": null,
-    "pushed": "2026-11-14T09:38:49Z",
+    "pushed": "2026-11-14T17:59:53Z",
     "size": 74705,
     "stars": 2
    },
@@ -1478,7 +1478,7 @@
     "lang": null,
     "pushed": "2026-10-15T12:12:39Z",
     "size": 921,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -1811,7 +1811,7 @@
     "lang": "C",
     "pushed": "2026-10-24T14:53:11Z",
     "size": 921,
-    "stars": 15
+    "stars": 16
    },
    "shots": []
   },
@@ -3720,8 +3720,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-14T02:05:43Z",
-    "size": 146560,
+    "pushed": "2026-11-14T15:20:32Z",
+    "size": 146884,
     "stars": 47
    },
    "shots": [
@@ -4324,8 +4324,8 @@
     "desc": "English patch the the PC Engine game Tengai Makyou - Fuun Kabuki-den",
     "full": "fabiof17/Tengai-Makyou---Fuun-Kabuki-den-English-patch-",
     "lang": "PowerShell",
-    "pushed": "2026-11-14T10:34:15Z",
-    "size": 47852,
+    "pushed": "2026-11-14T11:49:59Z",
+    "size": 35504,
     "stars": 3
    },
    "shots": []
@@ -4516,7 +4516,7 @@
     "lang": null,
     "pushed": "2026-11-07T23:34:21Z",
     "size": 63587,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -4772,18 +4772,18 @@
     "filehost"
    ],
    "release": {
-    "date": "2026-11-09T23:16:52Z",
-    "pre": false,
-    "tag": "v1.0.7",
-    "url": "https://github.com/GranasSabre/Grandia3-PC/releases/tag/v1.0.7"
+    "date": "2026-11-14T18:04:17Z",
+    "pre": true,
+    "tag": "android-v1.0.7-beta1",
+    "url": "https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/android-v1.0.7-beta1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-21T17:13:08Z",
-    "desc": "Grandia III (PS2) as a native PC game - widescreen, 60 fps, savestates, subtitles, optional undub (Japanese voices). Bring your own ISO.",
-    "full": "GranasSabre/Grandia3-PC",
+    "desc": "Grandia III: Open Skies - a native PC & Android port of Grandia III (PS2): widescreen, 60 fps, savestates, subtitles, optional undub. Bring your own ISO.",
+    "full": "GranasSabre/Grandia3-OpenSkies",
     "lang": "C++",
-    "pushed": "2026-11-09T23:20:25Z",
+    "pushed": "2026-11-14T18:09:18Z",
     "size": 12618,
     "stars": 50
    },
@@ -5012,7 +5012,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T00:42:52Z",
     "size": 8089,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/05-story-dialogue.png",
@@ -6668,10 +6668,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-13T14:32:12Z",
+    "date": "2026-11-14T16:35:48Z",
     "pre": false,
-    "tag": "1.0",
-    "url": "https://github.com/Loco-Motive/GLC-English-Translation/releases/tag/1.0"
+    "tag": "1.1",
+    "url": "https://github.com/Loco-Motive/GLC-English-Translation/releases/tag/1.1"
    },
    "repo": {
     "archived": false,
@@ -6679,9 +6679,9 @@
     "desc": "A 100% English translation of the  Japanese GBA game Guru Logic Champ",
     "full": "Loco-Motive/GLC-English-Translation",
     "lang": null,
-    "pushed": "2026-11-13T14:32:11Z",
-    "size": 258,
-    "stars": 1
+    "pushed": "2026-11-14T16:43:42Z",
+    "size": 517,
+    "stars": 2
    },
    "shots": []
   },
@@ -6819,6 +6819,33 @@
     "lang": "Python",
     "pushed": "2026-11-10T14:15:20Z",
     "size": 651,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "me2suzuran/all-kamen-rider-rider-generation-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-14T13:09:56Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/me2suzuran/all-kamen-rider-rider-generation-english/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-14T10:38:41Z",
+    "desc": "English fan translation of All Kamen Rider: Rider Generation (NDS) - BPS patch + tools",
+    "full": "me2suzuran/all-kamen-rider-rider-generation-english",
+    "lang": "Python",
+    "pushed": "2026-11-14T13:09:55Z",
+    "size": 1316,
     "stars": 0
    },
    "shots": []
@@ -7150,7 +7177,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:17:52Z",
     "size": 22147,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -7206,7 +7233,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T06:35:05Z",
     "size": 3408,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -7817,7 +7844,7 @@
     "lang": "Python",
     "pushed": "2026-11-09T21:41:33Z",
     "size": 14742,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -8684,6 +8711,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/time-bokan-series-bokan-gogogo-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-14T09:19:09Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/time-bokan-series-bokan-gogogo-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-04T23:00:53Z",
+    "desc": "English fan translation of Time Bokan Series: Bokan GoGoGo (PSX)",
+    "full": "minhnhattonthat/time-bokan-series-bokan-gogogo-en",
+    "lang": "Python",
+    "pushed": "2026-11-14T09:19:09Z",
+    "size": 1166,
+    "stars": 1
+   },
+   "shots": []
+  },
   "minhnhattonthat/time-bokan-series-bokan-to-ippatsu-doronbow-en": {
    "assetOs": {},
    "readme": {
@@ -8709,7 +8765,7 @@
     "lang": "Python",
     "pushed": "2026-11-13T21:02:05Z",
     "size": 884,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8767,7 +8823,7 @@
     "lang": "Python",
     "pushed": "2026-11-11T14:01:05Z",
     "size": 11513,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -9491,7 +9547,7 @@
     "lang": "Python",
     "pushed": "2026-11-13T22:06:19Z",
     "size": 3902,
-    "stars": 84
+    "stars": 85
    },
    "shots": []
   },
@@ -11144,7 +11200,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-12T23:43:46Z",
     "size": 3105,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/struktured-labs/trinea-dx/HEAD/docs/screenshots/title.png",
@@ -11498,7 +11554,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 249
+    "stars": 252
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -11653,8 +11709,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-14T06:41:57Z",
-    "size": 12324,
+    "pushed": "2026-11-14T16:28:35Z",
+    "size": 12504,
     "stars": 0
    },
    "shots": [
