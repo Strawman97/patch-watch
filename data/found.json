@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-13T19:53:10Z",
+ "generated": "2026-11-14T01:29:44Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -14513,6 +14513,97 @@
    "src": "GitHub"
   },
   {
+   "d": "English patch for Aquarium. on Nintendo Switch.",
+   "fa": "2026-11-14T01:29:44Z",
+   "g": "Aquarium",
+   "id": "gingka8233/aquarium.-nintendo-switch-english-patch",
+   "k": "gingka8233/aquarium.-nintendo-switch-english-patch",
+   "l": "https://github.com/gingka8233/Aquarium.-Nintendo-Switch-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Switch",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for Princess Maker: Legend of Another World (Super Famicom, 1995), with optional bug-fix and Quest-rework patches.",
+   "fa": "2026-11-14T01:29:44Z",
+   "g": "Princess Maker: Legend of Another World",
+   "id": "moonanon/princess-maker-another-world-en",
+   "k": "moonanon/princess-maker-another-world-en",
+   "l": "https://github.com/moonanon/princess-maker-another-world-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch (xdelta) for Ishin no Arashi: Bakumatsu Shishiden (PlayStation)",
+   "fa": "2026-11-14T01:29:44Z",
+   "g": "Ishin No Arashi Bakumatsu Shishiden",
+   "id": "damon-daemon/ishin-no-arashi-bakumatsu-shishiden-english",
+   "k": "damon-daemon/ishin-no-arashi-bakumatsu-shishiden-english",
+   "l": "https://github.com/damon-daemon/ishin-no-arashi-bakumatsu-shishiden-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "AI-assisted English fan translation beta for Black/Matrix (Sega Saturn). Volunteer playtesters wanted. Report translation and display bugs with screenshots.",
+   "fa": "2026-11-14T01:29:44Z",
+   "g": "Black Matrix",
+   "id": "retrogamingreloaded/black-matrix-translation",
+   "k": "retrogamingreloaded/black-matrix-translation",
+   "l": "https://github.com/retrogamingreloaded/black-matrix-translation",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "Saturn",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Goku Makaimura Kai (PSP)",
+   "fa": "2026-11-14T01:29:44Z",
+   "g": "Goku Makaimura Kai",
+   "id": "minhnhattonthat/goku-makai-mura-kai-en",
+   "k": "minhnhattonthat/goku-makai-mura-kai-en",
+   "l": "https://github.com/minhnhattonthat/goku-makai-mura-kai-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of time-bokan-series-bokan-to-ippatsu-doronbow-en (PSX)",
+   "fa": "2026-11-14T01:29:44Z",
+   "g": "Time-Bokan-Series-Bokan-To-Ippatsu-Doronbow-En",
+   "id": "minhnhattonthat/time-bokan-series-bokan-to-ippatsu-doronbow-en",
+   "k": "minhnhattonthat/time-bokan-series-bokan-to-ippatsu-doronbow-en",
+   "l": "https://github.com/minhnhattonthat/time-bokan-series-bokan-to-ippatsu-doronbow-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Tadaima Yuusha Boshuuchuu Okawari (SNES)",
+   "fa": "2026-11-14T01:29:44Z",
+   "g": "Tadaima Yuusha Boshuuchuu Okawari",
+   "id": "minhnhattonthat/tadaima-yuusha-boshuuchuu-okawari-en",
+   "k": "minhnhattonthat/tadaima-yuusha-boshuuchuu-okawari-en",
+   "l": "https://github.com/minhnhattonthat/tadaima-yuusha-boshuuchuu-okawari-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -16130,51 +16221,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-13T01:57:09Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-11-13T11:15:00Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-13T11:15:00Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-13T19:53:10Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-14T01:29:44Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-13T01:57:09Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Shadowrun - English Translation - Mega CD PAL",
-   "fa": "2026-11-13T01:57:09Z",
-   "g": "Shadowrun",
-   "id": "link:https://archive.org/details/shadowrun-english-pal",
-   "l": "https://archive.org/details/shadowrun-english-pal",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Mega CD",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-11-13T11:15:00Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {

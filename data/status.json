@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-13T19:53:10Z",
+ "generated": "2026-11-14T01:29:44Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -961,28 +961,24 @@
    "shots": []
   },
   "beanutrom/psx-bealphareth-english-patch": {
-   "assetOs": {},
+   "noRelease": true,
    "readme": {
     "patch": {
-     "ex": {}
+     "ex": {
+      "retrans": true
+     }
     },
     "v": 1
    },
    "readmeLure": [],
-   "release": {
-    "date": "2026-11-12T16:08:29Z",
-    "pre": false,
-    "tag": "v1.0.2",
-    "url": "https://github.com/BeanutROM/PSX-Bealphareth-English-Patch/releases/tag/v1.0.2"
-   },
    "repo": {
     "archived": false,
     "created": "2026-10-28T08:18:42Z",
     "desc": "An english patch for the PSX game Bealphareth",
     "full": "BeanutROM/PSX-Bealphareth-English-Patch",
     "lang": null,
-    "pushed": "2026-11-12T16:08:28Z",
-    "size": 74300,
+    "pushed": "2026-11-13T22:28:03Z",
+    "size": 8808,
     "stars": 2
    },
    "shots": []
@@ -1759,7 +1755,7 @@
     "lang": "JavaScript",
     "pushed": "2026-11-07T00:24:23Z",
     "size": 37330,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -2662,8 +2658,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-11-11T22:54:55Z",
-    "size": 5221,
+    "pushed": "2026-11-14T00:28:24Z",
+    "size": 5224,
     "stars": 4
    },
    "shots": [
@@ -3675,7 +3671,7 @@
     "lang": "C++",
     "pushed": "2026-11-13T15:28:13Z",
     "size": 146557,
-    "stars": 46
+    "stars": 47
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -3878,10 +3874,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-13T01:39:53Z",
+    "date": "2026-11-14T00:54:16Z",
     "pre": false,
-    "tag": "v0.1.41",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.41"
+    "tag": "v0.1.42",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.42"
    },
    "repo": {
     "archived": false,
@@ -3889,12 +3885,50 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-13T01:39:53Z",
+    "pushed": "2026-11-14T00:54:16Z",
     "size": 113942,
-    "stars": 40
+    "stars": 41
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
+   ]
+  },
+  "exxistancedc/blue-stinger-directors-cut": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "port": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-13T15:28:08Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/ExxistanceDC/Blue-Stinger-Directors-Cut/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-08-24T01:39:03Z",
+    "desc": "An English patch for the Japanese version of the Sega Dreamcast survival-horror game, Blue Stinger",
+    "full": "ExxistanceDC/Blue-Stinger-Directors-Cut",
+    "lang": null,
+    "pushed": "2026-11-13T18:10:30Z",
+    "size": 143,
+    "stars": 0
+   },
+   "shots": [
+    "https://github.com/user-attachments/assets/e0cf036e-a6b0-4730-a283-48676759e79a",
+    "https://github.com/user-attachments/assets/0030d639-88bd-4453-9ade-ee64ccbf998e",
+    "https://github.com/user-attachments/assets/05462518-ec36-44a9-a53d-9091c17c71e6",
+    "https://github.com/user-attachments/assets/4a487d2a-df4e-414c-ac77-2bde0bf32e19",
+    "https://github.com/user-attachments/assets/bd6829f7-5430-44c6-b5af-f9d2521c31d0",
+    "https://github.com/user-attachments/assets/307526e0-a4e0-403a-b4bd-126a64700457"
    ]
   },
   "exxistancedc/cyber-doll-english-translation": {
@@ -4239,8 +4273,8 @@
     "desc": "English patch the the PC Engine game Tengai Makyou - Fuun Kabuki-den",
     "full": "fabiof17/Tengai-Makyou---Fuun-Kabuki-den-English-patch-",
     "lang": "PowerShell",
-    "pushed": "2026-11-11T16:56:49Z",
-    "size": 37028,
+    "pushed": "2026-11-13T20:19:28Z",
+    "size": 38569,
     "stars": 3
    },
    "shots": []
@@ -4265,7 +4299,7 @@
     "full": "Fabulu/Busin0Translation",
     "lang": "Python",
     "pushed": "2026-11-13T19:19:31Z",
-    "size": 22985,
+    "size": 23033,
     "stars": 5
    },
    "shots": []
@@ -4286,7 +4320,7 @@
     "full": "Fabulu/Busin0TranslationSite",
     "lang": "HTML",
     "pushed": "2026-11-13T19:19:55Z",
-    "size": 29413,
+    "size": 30322,
     "stars": 3
    },
    "shots": []
@@ -4318,7 +4352,7 @@
     "lang": "Python",
     "pushed": "2026-11-05T23:06:04Z",
     "size": 22255,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -4902,8 +4936,8 @@
     "desc": "Shin Gundam Musou (PS Vita) English Patch",
     "full": "irxd/shin-gundam-musou-en",
     "lang": "Python",
-    "pushed": "2026-11-12T01:40:18Z",
-    "size": 8079,
+    "pushed": "2026-11-14T00:42:52Z",
+    "size": 8089,
     "stars": 3
    },
    "shots": [
@@ -6537,9 +6571,9 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-13T17:10:28Z",
+    "pushed": "2026-11-14T01:09:21Z",
     "size": 89683,
-    "stars": 102
+    "stars": 103
    },
    "shots": [
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
@@ -6549,6 +6583,35 @@
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/encore-swap.png",
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/chars-main.png"
    ]
+  },
+  "loco-motive/glc-english-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "pct": 100
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-13T14:32:12Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/Loco-Motive/GLC-English-Translation/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-13T14:20:29Z",
+    "desc": "A 100% English translation of the  Japanese GBA game Guru Logic Champ",
+    "full": "Loco-Motive/GLC-English-Translation",
+    "lang": null,
+    "pushed": "2026-11-13T14:32:11Z",
+    "size": 258,
+    "stars": 1
+   },
+   "shots": []
   },
   "m-mayday/atelier-marie-gb": {
    "assetOs": {},
@@ -8800,6 +8863,33 @@
    },
    "shots": []
   },
+  "neobeo/jamwiththebandp-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-13T13:38:46Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/Neobeo/JamWithTheBandP-English/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-13T13:19:12Z",
+    "desc": "Jam with the Band P (English translation of Daigasso! Band Bros P) for the 3DS",
+    "full": "Neobeo/JamWithTheBandP-English",
+    "lang": null,
+    "pushed": "2026-11-13T13:38:46Z",
+    "size": 2,
+    "stars": 0
+   },
+   "shots": []
+  },
   "netrunner12/popful-mail-sfc-english-translation": {
    "assetOs": {},
    "readme": {
@@ -9172,10 +9262,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-09T11:48:48Z",
+    "date": "2026-11-13T22:06:56Z",
     "pre": false,
-    "tag": "v1.5.2",
-    "url": "https://github.com/pepasjc/snatcher-translated/releases/tag/v1.5.2"
+    "tag": "v1.5.3",
+    "url": "https://github.com/pepasjc/snatcher-translated/releases/tag/v1.5.3"
    },
    "repo": {
     "archived": false,
@@ -9183,8 +9273,8 @@
     "desc": "Fan made Snatcher translation patch for Sony Playstation",
     "full": "pepasjc/snatcher-translated",
     "lang": "Python",
-    "pushed": "2026-11-09T11:48:18Z",
-    "size": 3777,
+    "pushed": "2026-11-13T22:06:19Z",
+    "size": 3902,
     "stars": 83
    },
    "shots": []
@@ -9286,8 +9376,8 @@
     "desc": "Attempt at Translating Cyberbots on the Sega Saturn to English",
     "full": "princeendo/cyberbots_saturn_en_translation",
     "lang": "Python",
-    "pushed": "2026-11-12T22:06:15Z",
-    "size": 8341,
+    "pushed": "2026-11-13T23:46:48Z",
+    "size": 8680,
     "stars": 0
    },
    "shots": []
@@ -11163,7 +11253,7 @@
     "full": "Vnnc1/gow-native-pc",
     "lang": "Python",
     "pushed": "2026-11-13T19:23:03Z",
-    "size": 6406,
+    "size": 6654,
     "stars": 249
    },
    "shots": []
@@ -11503,7 +11593,7 @@
     "full": "zthegin/Gintama---Gintoki-vs-Hijikata-game-english-translation",
     "lang": "Python",
     "pushed": "2026-11-13T19:06:48Z",
-    "size": 8041,
+    "size": 8048,
     "stars": 5
    },
    "shots": []
