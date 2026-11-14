@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-14T01:29:44Z",
+ "generated": "2026-11-14T10:40:39Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -14604,6 +14604,32 @@
    "src": "GitHub"
   },
   {
+   "d": "English fan translation of All Kamen Rider: Rider Generation (NDS) - BPS patch + tools",
+   "fa": "2026-11-14T10:40:39Z",
+   "g": "All Kamen Rider: Rider Generation",
+   "id": "me2suzuran/all-kamen-rider-rider-generation-english",
+   "k": "me2suzuran/all-kamen-rider-rider-generation-english",
+   "l": "https://github.com/me2suzuran/all-kamen-rider-rider-generation-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Time Bokan Series: Bokan GoGoGo (PSX)",
+   "fa": "2026-11-14T10:40:39Z",
+   "g": "Time Bokan Series: Bokan GoGoGo",
+   "id": "minhnhattonthat/time-bokan-series-bokan-gogogo-en",
+   "k": "minhnhattonthat/time-bokan-series-bokan-gogogo-en",
+   "l": "https://github.com/minhnhattonthat/time-bokan-series-bokan-gogogo-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -16221,51 +16247,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-13T11:15:00Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-13T11:15:00Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-13T19:53:10Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
    "fa": "2026-11-14T01:29:44Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Shadowrun - English Translation - Mega CD PAL",
+   "fa": "2026-11-14T01:29:44Z",
+   "g": "Shadowrun",
+   "id": "link:https://archive.org/details/shadowrun-english-pal",
+   "l": "https://archive.org/details/shadowrun-english-pal",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Mega CD",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-14T10:40:39Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
    ],
-   "p": "PS2",
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-14T10:40:39Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
