@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-14T18:18:04Z",
+ "generated": "2026-11-14T22:35:34Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -14643,6 +14643,45 @@
    "src": "GitHub"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-11-14T22:35:34Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "A fan translation for Squaresoft's Wonderswan exclusive card-based RPG",
+   "fa": "2026-11-14T22:35:34Z",
+   "g": "Squaresoft's Wonderswan exclusive card-based RPG",
+   "id": "kenyates88/wild-card-english",
+   "k": "kenyates88/wild-card-english",
+   "l": "https://github.com/KenYates88/Wild-Card-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "WonderSwan",
+   "src": "GitHub"
+  },
+  {
+   "d": "Unofficial English fan translation for The Quintessential Quintuplets: Five Promises Made with Her (Nintendo Switch). Machine-translated, all lines reviewed by hand. Requires your own copy of the game.",
+   "fa": "2026-11-14T22:35:34Z",
+   "g": "Quintessential Quintuplets: Five Promises Made with Her",
+   "id": "neriv18711/qq-fivepromises-english",
+   "k": "neriv18711/qq-fivepromises-english",
+   "l": "https://github.com/neriv18711/QQ-FivePromises-English",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "Switch",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -16260,51 +16299,39 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-14T01:29:44Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-14T10:40:39Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
    ],
-   "p": "PS2",
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "d": "Bulk Slash (English Patch)",
    "fa": "2026-11-14T10:40:39Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-14T10:40:39Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-11-14T22:35:34Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-14T18:18:04Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {

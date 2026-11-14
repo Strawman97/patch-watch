@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-14T18:18:04Z",
+ "generated": "2026-11-14T22:35:34Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -55,7 +55,7 @@
     "full": "Acer-2006/Gyakuten-Saiban_1_GBA-English-translation",
     "lang": "C",
     "pushed": "2026-11-14T17:59:17Z",
-    "size": 36189,
+    "size": 36199,
     "stars": 17
    },
    "shots": [
@@ -707,8 +707,8 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-14T17:49:18Z",
-    "size": 5997,
+    "pushed": "2026-11-14T22:27:54Z",
+    "size": 6679,
     "stars": 7
    },
    "shots": []
@@ -984,7 +984,7 @@
     "full": "BeanutROM/PSX-Bealphareth-English-Patch",
     "lang": null,
     "pushed": "2026-11-14T17:59:53Z",
-    "size": 74705,
+    "size": 74704,
     "stars": 2
    },
    "shots": []
@@ -2874,7 +2874,7 @@
     "lang": "Perl",
     "pushed": "2026-11-09T15:30:40Z",
     "size": 43933,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
@@ -3925,10 +3925,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-14T00:54:16Z",
+    "date": "2026-11-14T19:06:01Z",
     "pre": false,
-    "tag": "v0.1.42",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.42"
+    "tag": "v0.1.43",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.43"
    },
    "repo": {
     "archived": false,
@@ -3936,8 +3936,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-14T00:54:16Z",
-    "size": 116963,
+    "pushed": "2026-11-14T19:06:00Z",
+    "size": 119985,
     "stars": 41
    },
    "shots": [
@@ -4401,7 +4401,7 @@
     "desc": "Complete English translation patch for EVE burst error R on PlayStation Vita (PCSG00817) and Vita3K",
     "full": "fiksr/eve-burst-error-r-vita-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-05T23:06:04Z",
+    "pushed": "2026-11-14T22:32:40Z",
     "size": 22255,
     "stars": 4
    },
@@ -4784,8 +4784,8 @@
     "full": "GranasSabre/Grandia3-OpenSkies",
     "lang": "C++",
     "pushed": "2026-11-14T18:09:18Z",
-    "size": 12618,
-    "stars": 50
+    "size": 12801,
+    "stars": 51
    },
    "shots": []
   },
@@ -6039,6 +6039,37 @@
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
+  },
+  "katiisu/arthur-to-astaroth-no-nazo-makaimura-english": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-13T22:40:35Z",
+    "pre": false,
+    "tag": "v0.3.0",
+    "url": "https://github.com/Katiisu/arthur-to-astaroth-no-nazo-makaimura-english/releases/tag/v0.3.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-13T02:06:01Z",
+    "desc": "Arthur & Astaroth's Mysterious Ghosts 'n Goblins: Incredible Toons: English Patch",
+    "full": "Katiisu/arthur-to-astaroth-no-nazo-makaimura-english",
+    "lang": "Rust",
+    "pushed": "2026-11-13T22:44:27Z",
+    "size": 123,
+    "stars": 0
+   },
+   "shots": []
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
@@ -9944,7 +9975,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T22:05:18Z",
     "size": 3965,
-    "stars": 13
+    "stars": 14
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
