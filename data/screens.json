@@ -2295,6 +2295,14 @@
    ],
    "tv": 3
   },
+  "bouken ou beet busters road|24": {
+   "checked": "2026-11-15T06:49:55Z",
+   "id": 49524,
+   "match": 1.0,
+   "name": "Bouken-Ou Beet: Busters Road",
+   "shots": [],
+   "tv": 3
+  },
   "boundary gate daughter of kingdom|7": {
    "checked": "2026-11-04T11:12:33Z",
    "cover": "co6j30",
@@ -3155,6 +3163,15 @@
    "shots": [
     "satdwfkttchvqnujjtn9"
    ],
+   "tv": 3
+  },
+  "chou mashin eiyuuden wataru another step|7": {
+   "checked": "2026-11-15T06:49:55Z",
+   "cover": "co2fid",
+   "id": 37726,
+   "match": 1.0,
+   "name": "Chou Mashin Eiyuuden Wataru: Another Step",
+   "shots": [],
    "tv": 3
   },
   "chou soujuu mecha mg|20": {
@@ -6810,6 +6827,17 @@
    ],
    "tv": 3
   },
+  "fantastic children|24": {
+   "checked": "2026-11-15T06:49:55Z",
+   "cover": "co8e7t",
+   "id": 49578,
+   "match": 1.0,
+   "name": "Fantastic Children",
+   "shots": [
+    "scsv9r"
+   ],
+   "tv": 3
+  },
   "far east of eden zero|19": {
    "anyPlat": true,
    "checked": "2026-10-23T21:31:12Z",
@@ -8360,6 +8388,22 @@
     "scju35",
     "scju37",
     "scf5mz"
+   ],
+   "tv": 3
+  },
+  "genseishin justirisers souchaku chikyuu no senshitachi|24": {
+   "checked": "2026-11-15T06:49:55Z",
+   "cover": "co9668",
+   "id": 278768,
+   "match": 1.0,
+   "name": "Genseishin Justirisers: Souchaku Chikyuu no Senshitachi",
+   "shots": [
+    "scpr5k",
+    "scpr5p",
+    "scpr5q",
+    "scpr5l",
+    "scpr5m",
+    "scpr5o"
    ],
    "tv": 3
   },
@@ -10017,6 +10061,11 @@
     "scuw9l",
     "scuw9m"
    ],
+   "tv": 3
+  },
+  "hyakujuu sentai gaoranger|7": {
+   "checked": "2026-11-15T06:49:55Z",
+   "shots": [],
    "tv": 3
   },
   "hybrid front|29": {
@@ -14380,6 +14429,17 @@
   "monster farm ds|20": {
    "checked": "2026-11-04T19:54:40Z",
    "shots": [],
+   "tv": 3
+  },
+  "monster gate|24": {
+   "checked": "2026-11-15T06:49:55Z",
+   "cover": "co67g7",
+   "id": 49717,
+   "match": 1.0,
+   "name": "Monster Gate",
+   "shots": [
+    "scljcf"
+   ],
    "tv": 3
   },
   "monster guardians|24": {
@@ -25173,7 +25233,7 @@
    "tv": 3
   }
  },
- "generated": "2026-11-14T22:35:34Z",
+ "generated": "2026-11-15T06:49:55Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -25309,6 +25369,7 @@
   "eight-mansions/linda-cubed-again": "linda3 again|7",
   "eight-mansions/mahjaventure": "mahjaventure warring tiles|18",
   "emertels/psbbn-translator": "psbbn translator|8",
+  "ericmaddox/monster-gate-en": "monster gate|24",
   "excalz/ps2-retranslation": "phantasy star ii|29",
   "excalz/ps4-retranslation": "phantasy star iv|29",
   "exhilo62/dqxi-3ds-english-patch": "dqxi|37",
@@ -25385,7 +25446,6 @@
   "karas84/projectzeroundub": "project zero|8",
   "katiisu/arthur-to-astaroth-no-nazo-makaimura-english": "arthur and astaroths mysterious ghosts n goblins incredible toons|7",
   "kenyates88/wild-card-english": "squaresofts wonderswan exclusive card based rpg|57",
-  "kenzie-1377/dqxi-3ds-english-patch": "dqxi|37",
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd edition|9",
   "kodakwizard/hikaru-no-go-3-english": "hikaru no go 3|21",
   "kodakwizard/hikaru-no-go-insei-english": "hikaru no go insei|7",
@@ -25498,10 +25558,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -25537,7 +25597,6 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
-  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -25560,6 +25619,7 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -25636,7 +25696,6 @@
   "link:https://archive.org/details/maken_x_undub_patch": "maken x|23",
   "link:https://archive.org/details/maximo_undub_patch": "maximo ghosts to glory|8",
   "link:https://archive.org/details/medarot-ds-kabuto-ver.-english-patch": "medarot ds kabuto ver|37",
-  "link:https://archive.org/details/mega-man-x-4_202611": "mega man x4|7",
   "link:https://archive.org/details/mega_man_mhx_undub_patch": "mega man maverick hunter x|38",
   "link:https://archive.org/details/mega_man_pu_undub_patch": "mega man powered up|38",
   "link:https://archive.org/details/mega_man_x7_ps2_undub_patch": "mega man x7|8",
@@ -25679,6 +25738,7 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
@@ -25698,6 +25758,7 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",
@@ -27174,8 +27235,10 @@
   "minhnhattonthat/bealphareth-en": "bealphareth|7",
   "minhnhattonthat/black-matrix-en": "black matrix|7",
   "minhnhattonthat/blaze-union-story-to-reach-the-future-en": "blaze union story to reach the future|38",
+  "minhnhattonthat/bouken-ou-beet-busters-road-en": "bouken ou beet busters road|24",
   "minhnhattonthat/boundary-gate-daughter-of-kingdom-en": "boundary gate daughter of kingdom|7",
   "minhnhattonthat/cb-chara-wars-en": "cb chara wars ushinawareta gag|19",
+  "minhnhattonthat/chou-mashin-eiyuuden-wataru-another-step-en": "chou mashin eiyuuden wataru another step|7",
   "minhnhattonthat/dancing-sword-senkou": "dancing sword senkou|24",
   "minhnhattonthat/deltora-quest": "deltora quest 7 tsu no houseki|20",
   "minhnhattonthat/dharma-doujou-en": "dharma doujou|19",
@@ -27185,11 +27248,13 @@
   "minhnhattonthat/emblem-of-gundam-en": "emblem of gundam|20",
   "minhnhattonthat/erementar-gerad": "erementar gerad tozasareshi uta|24",
   "minhnhattonthat/evangelion-sound-impact-en": "rebuild of evangelion sound impact|38",
+  "minhnhattonthat/fantastic-children-en": "fantastic children|24",
   "minhnhattonthat/farland-story-2-en": "farland story 2|19",
   "minhnhattonthat/gachasute-dino-device-2-en": "gachasute dino device 2 dragon|24",
   "minhnhattonthat/gaiamaster-kamigami-no-board-game-en": "gaiamaster kamigami no board game en|7",
   "minhnhattonthat/ganbare-daiku-no-gen-san-en": "ganbare daiku no gensan|19",
   "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en": "gegege no kitarou fukkatsu tenma daiou|19",
+  "minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en": "genseishin justirisers souchaku chikyuu no senshitachi|24",
   "minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en": "getbackers dakkanya jagan fuuin|24",
   "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en": "getbackers dakkanya jigoku no scaramouche|24",
   "minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en": "getbackers dakkanya metropolis dakkan sakusen|24",
@@ -27201,6 +27266,7 @@
   "minhnhattonthat/great-battle-gaiden-2-english": "great battle gaiden 2 matsuri da wasshoi|19",
   "minhnhattonthat/hachiemon-en": "hachiemon en|24",
   "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": "hanjuku hero aa sekai yo hanjuku nare|19",
+  "minhnhattonthat/hyakujuu-sentai-gaoranger-en": "hyakujuu sentai gaoranger|7",
   "minhnhattonthat/kabuki-rocks": "kabuki rocks|19",
   "minhnhattonthat/kidou-senshi-gundam-seed-destiny": "mobile suit gundam seed destiny|24",
   "minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en": "kuro no ken blade of the darkness|7",

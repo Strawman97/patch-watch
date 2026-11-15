@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-14T22:35:34Z",
+ "generated": "2026-11-15T06:49:55Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -348,7 +348,7 @@
     "lang": "Python",
     "pushed": "2026-11-03T00:23:19Z",
     "size": 2115,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -707,8 +707,8 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-14T22:27:54Z",
-    "size": 6679,
+    "pushed": "2026-11-15T04:25:56Z",
+    "size": 7911,
     "stars": 7
    },
    "shots": []
@@ -3720,8 +3720,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-14T15:20:32Z",
-    "size": 146884,
+    "pushed": "2026-11-15T02:40:10Z",
+    "size": 146903,
     "stars": 47
    },
    "shots": [
@@ -4390,10 +4390,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-03T22:34:34Z",
+    "date": "2026-11-14T22:35:52Z",
     "pre": false,
-    "tag": "v1.6",
-    "url": "https://github.com/fiksr/eve-burst-error-r-vita-english-patch/releases/tag/v1.6"
+    "tag": "v1.7",
+    "url": "https://github.com/fiksr/eve-burst-error-r-vita-english-patch/releases/tag/v1.7"
    },
    "repo": {
     "archived": false,
@@ -4401,8 +4401,8 @@
     "desc": "Complete English translation patch for EVE burst error R on PlayStation Vita (PCSG00817) and Vita3K",
     "full": "fiksr/eve-burst-error-r-vita-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-14T22:32:40Z",
-    "size": 22255,
+    "pushed": "2026-11-14T22:35:52Z",
+    "size": 22546,
     "stars": 4
    },
    "shots": []
@@ -4772,10 +4772,10 @@
     "filehost"
    ],
    "release": {
-    "date": "2026-11-14T18:04:17Z",
+    "date": "2026-11-15T01:17:31Z",
     "pre": true,
-    "tag": "android-v1.0.7-beta1",
-    "url": "https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/android-v1.0.7-beta1"
+    "tag": "android-v1.0.8-beta1",
+    "url": "https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/android-v1.0.8-beta1"
    },
    "repo": {
     "archived": false,
@@ -4783,9 +4783,9 @@
     "desc": "Grandia III: Open Skies - a native PC & Android port of Grandia III (PS2): widescreen, 60 fps, savestates, subtitles, optional undub. Bring your own ISO.",
     "full": "GranasSabre/Grandia3-OpenSkies",
     "lang": "C++",
-    "pushed": "2026-11-14T18:09:18Z",
-    "size": 12801,
-    "stars": 51
+    "pushed": "2026-11-15T01:32:35Z",
+    "size": 16926,
+    "stars": 52
    },
    "shots": []
   },
@@ -6071,6 +6071,77 @@
    },
    "shots": []
   },
+  "kenyates88/wild-card-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-14T20:21:57Z",
+    "pre": true,
+    "tag": "v37",
+    "url": "https://github.com/KenYates88/Wild-Card-English/releases/tag/v37"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-14T20:03:50Z",
+    "desc": "A fan translation for Squaresoft's Wonderswan exclusive card-based RPG",
+    "full": "KenYates88/Wild-Card-English",
+    "lang": null,
+    "pushed": "2026-11-14T20:23:30Z",
+    "size": 86,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/opening.png",
+    "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/quest-dialogue.png",
+    "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/recruitment.png",
+    "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/battle.png",
+    "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/inspect.png",
+    "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
+   ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-14T20:55:14Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-14T20:55:14Z",
+    "size": 53008,
+    "stars": 26
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
+   ]
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -6674,8 +6745,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-14T01:09:21Z",
-    "size": 89683,
+    "pushed": "2026-11-15T02:25:44Z",
+    "size": 90871,
     "stars": 103
    },
    "shots": [
@@ -7195,10 +7266,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-14T04:17:52Z",
+    "date": "2026-11-15T04:03:30Z",
     "pre": false,
-    "tag": "v1.2",
-    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.2"
+    "tag": "v1.5",
+    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.5"
    },
    "repo": {
     "archived": false,
@@ -7206,8 +7277,8 @@
     "desc": "English fan translation of Bealphareth (PSX)",
     "full": "minhnhattonthat/bealphareth-en",
     "lang": "Python",
-    "pushed": "2026-11-14T04:17:52Z",
-    "size": 22147,
+    "pushed": "2026-11-15T04:03:30Z",
+    "size": 24432,
     "stars": 1
    },
    "shots": []
@@ -9193,6 +9264,35 @@
    },
    "shots": []
   },
+  "neriv18711/qq-fivepromises-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-14T18:58:14Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/neriv18711/QQ-FivePromises-English/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-14T18:48:24Z",
+    "desc": "Unofficial English fan translation for The Quintessential Quintuplets: Five Promises Made with Her (Nintendo Switch). Machine-translated, all lines reviewed by hand. Requires your own copy of the game.",
+    "full": "neriv18711/QQ-FivePromises-English",
+    "lang": null,
+    "pushed": "2026-11-14T18:58:14Z",
+    "size": 2,
+    "stars": 0
+   },
+   "shots": []
+  },
   "netrunner12/popful-mail-sfc-english-translation": {
    "assetOs": {},
    "readme": {
@@ -9578,7 +9678,7 @@
     "lang": "Python",
     "pushed": "2026-11-13T22:06:19Z",
     "size": 3902,
-    "stars": 85
+    "stars": 86
    },
    "shots": []
   },
@@ -11385,8 +11485,8 @@
     "desc": "Full English translation of Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 (PS1 / PSX). V1.0 — final version. Includes UIs, Game Shop, Mini Games, Tests, Arcade Mode, and more. Patch only; no game image or BIOS. Tested with:  RetroArch using PCSX-ReARMed core. Mednafen 1.32.1. DuckStation 0.1-12640.",
     "full": "ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2",
     "lang": null,
-    "pushed": "2026-11-10T10:05:21Z",
-    "size": 6257,
+    "pushed": "2026-11-14T23:23:59Z",
+    "size": 6259,
     "stars": 12
    },
    "shots": [
@@ -11585,7 +11685,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 252
+    "stars": 255
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -11740,8 +11840,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-14T16:28:35Z",
-    "size": 12504,
+    "pushed": "2026-11-15T04:02:02Z",
+    "size": 15305,
     "stars": 0
    },
    "shots": [

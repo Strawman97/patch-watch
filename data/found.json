@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-14T22:35:34Z",
+ "generated": "2026-11-15T06:49:55Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -14643,19 +14643,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-11-14T22:35:34Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "3DS",
-   "src": "GitHub"
-  },
-  {
    "d": "A fan translation for Squaresoft's Wonderswan exclusive card-based RPG",
    "fa": "2026-11-14T22:35:34Z",
    "g": "Squaresoft's Wonderswan exclusive card-based RPG",
@@ -14679,6 +14666,84 @@
     "Machine translation"
    ],
    "p": "Switch",
+   "src": "GitHub"
+  },
+  {
+   "d": "Monster Gate (Game Boy Advance) - English Translation - In Progress",
+   "fa": "2026-11-15T06:49:55Z",
+   "g": "Monster Gate",
+   "id": "ericmaddox/monster-gate-en",
+   "k": "ericmaddox/monster-gate-en",
+   "l": "https://github.com/ericmaddox/monster-gate-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Genseishin Justirisers: Souchaku Chikyuu no Senshitachi (GBA)",
+   "fa": "2026-11-15T06:49:55Z",
+   "g": "Genseishin Justirisers: Souchaku Chikyuu no Senshitachi",
+   "id": "minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en",
+   "k": "minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en",
+   "l": "https://github.com/minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Fantastic Children (GBA)",
+   "fa": "2026-11-15T06:49:55Z",
+   "g": "Fantastic Children",
+   "id": "minhnhattonthat/fantastic-children-en",
+   "k": "minhnhattonthat/fantastic-children-en",
+   "l": "https://github.com/minhnhattonthat/fantastic-children-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Bouken-Ou Beet: Busters Road (GBA)",
+   "fa": "2026-11-15T06:49:55Z",
+   "g": "Bouken-Ou Beet: Busters Road",
+   "id": "minhnhattonthat/bouken-ou-beet-busters-road-en",
+   "k": "minhnhattonthat/bouken-ou-beet-busters-road-en",
+   "l": "https://github.com/minhnhattonthat/bouken-ou-beet-busters-road-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Hyakujuu Sentai GaoRanger (PS1)",
+   "fa": "2026-11-15T06:49:55Z",
+   "g": "Hyakujuu Sentai GaoRanger",
+   "id": "minhnhattonthat/hyakujuu-sentai-gaoranger-en",
+   "k": "minhnhattonthat/hyakujuu-sentai-gaoranger-en",
+   "l": "https://github.com/minhnhattonthat/hyakujuu-sentai-gaoranger-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Chou Mashin Eiyuuden Wataru: Another Step (PSX)",
+   "fa": "2026-11-15T06:49:55Z",
+   "g": "Chou Mashin Eiyuuden Wataru: Another Step",
+   "id": "minhnhattonthat/chou-mashin-eiyuuden-wataru-another-step-en",
+   "k": "minhnhattonthat/chou-mashin-eiyuuden-wataru-another-step-en",
+   "l": "https://github.com/minhnhattonthat/chou-mashin-eiyuuden-wataru-another-step-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
    "src": "GitHub"
   },
   {
@@ -16299,39 +16364,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-14T10:40:39Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-14T18:18:04Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-14T22:35:34Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-11-14T10:40:39Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-11-15T06:49:55Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-14T22:35:34Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-15T06:49:55Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
