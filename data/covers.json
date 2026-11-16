@@ -7496,6 +7496,14 @@
    "title": "Farland Story 2",
    "url": "https://cdn2.steamgriddb.com/grid/7a9edc8e01fab33fbb82d2f1ed1c61b9.png"
   },
+  "minhnhattonthat/ghost-trap-en": {
+   "added": "2026-11-16T06:49:06Z",
+   "match": 1.0,
+   "name": "Ghost Trap",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/5dcc25747805c371b82e9d32e7922f54.jpg",
+   "title": "Ghost Trap",
+   "url": "https://cdn2.steamgriddb.com/grid/5dcc25747805c371b82e9d32e7922f54.png"
+  },
   "minhnhattonthat/granbo": {
    "added": "2026-10-22T09:57:51Z",
    "match": 1.0,
@@ -7527,6 +7535,14 @@
    "thumb": "https://cdn2.steamgriddb.com/thumb/1ca117facfc94269b2dd78e13019068d.jpg",
    "title": "Mobile Suit Gundam SEED Destiny",
    "url": "https://cdn2.steamgriddb.com/grid/1ca117facfc94269b2dd78e13019068d.png"
+  },
+  "minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en": {
+   "added": "2026-11-16T06:49:06Z",
+   "match": 1.0,
+   "name": "Legend of Dynamic Goushouden: Houkai no Rondo",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/15269a7dbfee15f5efab1213661f964c.jpg",
+   "title": "Legend of Dynamic Goushouden: Houkai no Rondo",
+   "url": "https://cdn2.steamgriddb.com/grid/15269a7dbfee15f5efab1213661f964c.png"
   },
   "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en": {
    "added": "2026-10-22T21:45:23Z",
@@ -7954,7 +7970,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-11-15T22:58:41Z",
+ "generated": "2026-11-16T06:49:06Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -8032,6 +8048,7 @@
   "byroweb/ac1_re": "2026-10-22T09:57:51Z",
   "caribbeansc/mdr-navi-i18n": "2026-10-22T09:57:51Z",
   "chaputranslations/meremanoidenglishpatch": "2026-11-15T22:58:41Z|meremanoid",
+  "cirovisk/ginga-eiyuu-densetsu-english": "2026-11-16T06:49:06Z|ginga eiyuu densetsu",
   "closedsockets/tricolore-crise-english-patch": "2026-11-05T11:12:14Z|tricolore crise",
   "consolesplayingconsoles/game-translations": "2026-11-05T11:12:14Z|translated videogames",
   "corytburns/chocobo-stallion-translation": "2026-11-05T11:12:14Z|chocobo stallion",
@@ -8061,8 +8078,8 @@
   "dol-translations/lupin-iii": "2026-11-05T20:06:50Z|lupin iii umi ni kieta hihou",
   "donsebastianbot/persona-psp-undub-es": "2026-10-22T09:57:51Z",
   "dragoonant/srw-og-moon-dwellers-translation": "2026-11-04T11:12:33Z|super robot wars og the moon dwellers",
-  "dream-cypher/strahlocalization": "2026-11-02T06:26:48Z|strahlocalization",
-  "dyzz/srw64-recomp": "2026-11-02T06:26:48Z|srw64 recomp",
+  "dream-cypher/strahlocalization": "2026-11-16T06:49:06Z|strahlocalization",
+  "dyzz/srw64-recomp": "2026-11-16T06:49:06Z|srw64 recomp",
   "eight-mansions/mahjaventure": "2026-11-05T11:12:14Z|mahjaventure warring tiles",
   "emertels/psbbn-translator": "2026-11-03T19:38:40Z|psbbn translator",
   "excalz/ps4-retranslation": "2026-11-05T11:12:14Z|phantasy star iv",
@@ -8118,6 +8135,7 @@
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "2026-10-21T07:42:14Z",
   "kodakwizard/hikaru-no-go-3-english": "2026-11-05T11:12:14Z|hikaru no go 3",
   "kodakwizard/hikaru-no-go-insei-english": "2026-11-11T06:46:56Z|hikaru no go insei",
+  "kodakwizard/kindaichi-hihoutou-english": "2026-11-16T06:49:06Z|kindaichi hihou tou arata naru sangeki",
   "krkpdf/pokeemerald-latin": "2026-10-22T09:57:51Z",
   "krollekop/battle-konchuden-translation": "2026-11-09T22:31:36Z|battle konchuden",
   "lantomorroww/cusasearcher": "2026-10-24T23:24:07Z",
@@ -8178,6 +8196,7 @@
   "link:https://archive.org/details/inazuma-eleven-3-the-ogre-nds-eng-patch": "2026-11-05T11:12:14Z|inazuma eleven 3 sekai e no chousen the ogre",
   "link:https://archive.org/details/labyrinth-island-famicom-english": "2026-11-05T11:12:14Z|meikyuu jima",
   "link:https://archive.org/details/mahou-no-shoujo-silky-lip-pal": "2026-11-05T11:12:14Z|mahou no shoujo silky lip",
+  "link:https://archive.org/details/meremanoid-english": "2026-11-16T06:49:06Z|meremanoid",
   "link:https://archive.org/details/miho-nakayamas-tokimeki-high-school-manual": "2026-11-06T19:33:14Z|nakayama miho no tokimeki high school",
   "link:https://archive.org/details/mqj-c0": "2026-10-22T09:57:51Z",
   "link:https://archive.org/details/nfsu-2-sha-do-english-english-patch": "2026-10-22T09:57:51Z",
@@ -8699,12 +8718,12 @@
   "minhnhattonthat/great-battle-gaiden-2-english": "2026-11-05T11:12:14Z|great battle gaiden 2 matsuri da wasshoi",
   "minhnhattonthat/hachiemon-en": "2026-11-07T10:27:39Z|hachiemon en",
   "minhnhattonthat/kabuki-rocks": "2026-11-05T11:12:14Z|kabuki rocks",
-  "minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en": "2026-11-02T06:26:48Z|kuro no ken blade of the darkness",
+  "minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en": "2026-11-16T06:49:06Z|kuro no ken blade of the darkness",
   "minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en": "2026-11-06T01:39:03Z|legendz yomigaeru shiren no shima",
   "minhnhattonthat/little-master-en": "2026-10-22T09:57:51Z",
   "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en": "2026-11-15T06:49:55Z|mar heaven knockin on heavens door",
   "minhnhattonthat/momotarou-densetsu-en": "2026-11-14T18:18:04Z|momotarou densetsu en",
-  "minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en": "2026-11-02T06:26:48Z|momotarou matsuri ishikawa rokuemon no maki",
+  "minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en": "2026-11-16T06:49:06Z|momotarou matsuri ishikawa rokuemon no maki",
   "minhnhattonthat/nage-libre-rasen-no-soukoku-en": "2026-11-13T11:15:00Z|nage libre rasen no soukoku",
   "minhnhattonthat/paro-wars-en": "2026-11-06T01:39:03Z|paro wars",
   "minhnhattonthat/recca-no-honoo-the-game": "2026-11-05T20:06:50Z|recca no honoo",

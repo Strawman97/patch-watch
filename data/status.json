@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-15T22:58:41Z",
+ "generated": "2026-11-16T06:49:06Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -316,7 +316,7 @@
     "lang": "Batchfile",
     "pushed": "2026-11-06T23:23:46Z",
     "size": 523924,
-    "stars": 19
+    "stars": 20
    },
    "shots": []
   },
@@ -525,7 +525,6 @@
    "noRelease": true,
    "readme": {
     "patch": {
-     "cov": "Partial",
      "ex": {}
     },
     "v": 1
@@ -537,8 +536,8 @@
     "desc": "English translation patch for Super Robot Wars L (Nintendo DS)",
     "full": "andriadhi/srw-l-translation",
     "lang": "TypeScript",
-    "pushed": "2026-11-06T03:25:48Z",
-    "size": 597,
+    "pushed": "2026-11-16T01:35:05Z",
+    "size": 39063,
     "stars": 0
    },
    "shots": []
@@ -708,7 +707,7 @@
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
     "pushed": "2026-11-15T22:56:37Z",
-    "size": 8119,
+    "size": 4932,
     "stars": 7
    },
    "shots": []
@@ -1796,7 +1795,7 @@
     "lang": "Python",
     "pushed": "2026-10-27T21:33:56Z",
     "size": 48889,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -1956,6 +1955,28 @@
     "pushed": "2026-11-05T22:26:47Z",
     "size": 55,
     "stars": 4
+   },
+   "shots": []
+  },
+  "chaputranslations/meremanoidenglishpatch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-14T13:48:15Z",
+    "desc": "Code and assets to translate the PS1 game \"Meremanoid\" from Japanese to English",
+    "full": "ChapuTranslations/MeremanoidEnglishPatch",
+    "lang": "Python",
+    "pushed": "2026-11-14T19:08:35Z",
+    "size": 103880,
+    "stars": 0
    },
    "shots": []
   },
@@ -4047,7 +4068,7 @@
     "lang": null,
     "pushed": "2026-10-27T03:49:26Z",
     "size": 148,
-    "stars": 34
+    "stars": 33
    },
    "shots": [
     "https://github.com/user-attachments/assets/06ba3a7e-c970-4f23-a39a-09dd583ceb5b",
@@ -4413,6 +4434,35 @@
     "pushed": "2026-11-13T19:19:55Z",
     "size": 30322,
     "stars": 3
+   },
+   "shots": []
+  },
+  "fiksr/desire-remaster-vita-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-15T22:22:58Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/fiksr/desire-remaster-vita-english-patch/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-15T22:22:41Z",
+    "desc": "English Translation Patch for DESIRE remaster ver. (PS Vita / Vita3K - PCSG00959)",
+    "full": "fiksr/desire-remaster-vita-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-15T22:27:18Z",
+    "size": 14906,
+    "stars": 0
    },
    "shots": []
   },
@@ -6146,42 +6196,6 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "ex": {
-      "subs": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-14T20:55:14Z",
-    "pre": false,
-    "tag": "1.0",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-14T20:55:14Z",
-    "size": 53008,
-    "stars": 30
-   },
-   "shots": [
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
-   ]
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -6785,8 +6799,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-15T19:45:38Z",
-    "size": 92057,
+    "pushed": "2026-11-16T03:15:36Z",
+    "size": 93299,
     "stars": 103
    },
    "shots": [
@@ -6810,7 +6824,7 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T22:44:31Z",
+    "date": "2026-11-15T23:35:42Z",
     "pre": false,
     "tag": "1.2",
     "url": "https://github.com/Loco-Motive/GLC-English-Translation/releases/tag/1.2"
@@ -6821,9 +6835,9 @@
     "desc": "A 100% English translation of the  Japanese GBA game Guru Logic Champ",
     "full": "Loco-Motive/GLC-English-Translation",
     "lang": null,
-    "pushed": "2026-11-15T18:57:41Z",
+    "pushed": "2026-11-15T23:35:41Z",
     "size": 1051,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -7101,7 +7115,7 @@
     "lang": "Python",
     "pushed": "2026-07-26T07:06:08Z",
     "size": 479,
-    "stars": 5
+    "stars": 4
    },
    "shots": []
   },
@@ -7306,10 +7320,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T04:03:30Z",
+    "date": "2026-11-16T01:53:38Z",
     "pre": false,
-    "tag": "v1.5",
-    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.5"
+    "tag": "v1.6",
+    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.6"
    },
    "repo": {
     "archived": false,
@@ -7317,8 +7331,8 @@
     "desc": "English fan translation of Bealphareth (PSX)",
     "full": "minhnhattonthat/bealphareth-en",
     "lang": "Python",
-    "pushed": "2026-11-15T04:03:30Z",
-    "size": 24432,
+    "pushed": "2026-11-16T01:53:37Z",
+    "size": 24526,
     "stars": 1
    },
    "shots": []
@@ -7490,7 +7504,7 @@
     "full": "minhnhattonthat/chou-mashin-eiyuuden-wataru-another-step-en",
     "lang": "Python",
     "pushed": "2026-11-15T22:58:33Z",
-    "size": 3837,
+    "size": 1783,
     "stars": 1
    },
    "shots": []
@@ -7826,6 +7840,35 @@
     "lang": "Python",
     "pushed": "2026-11-14T05:45:07Z",
     "size": 435,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/gachasute-dyna-device-blue-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-15T23:17:15Z",
+    "pre": false,
+    "tag": "v1.2",
+    "url": "https://github.com/minhnhattonthat/gachasute-dyna-device-blue-en/releases/tag/v1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-14T11:06:06Z",
+    "desc": "English fan translation of Gachasute! Dyna Device Blue and Dino Device Red (GBA)",
+    "full": "minhnhattonthat/gachasute-dyna-device-blue-en",
+    "lang": "Python",
+    "pushed": "2026-11-16T01:06:49Z",
+    "size": 4139,
     "stars": 0
    },
    "shots": []
@@ -9099,10 +9142,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-11T13:09:46Z",
+    "date": "2026-11-16T01:10:09Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/yggdra-unison-seiken-buyuuden-en/releases/tag/v1.0"
+    "tag": "v1.0.1",
+    "url": "https://github.com/minhnhattonthat/yggdra-unison-seiken-buyuuden-en/releases/tag/v1.0.1"
    },
    "repo": {
     "archived": false,
@@ -9110,8 +9153,8 @@
     "desc": "English fan translation of Yggdra Unison: Seiken Buyuuden (NDS)",
     "full": "minhnhattonthat/yggdra-unison-seiken-buyuuden-en",
     "lang": "Python",
-    "pushed": "2026-11-11T14:01:05Z",
-    "size": 11513,
+    "pushed": "2026-11-16T01:10:06Z",
+    "size": 11634,
     "stars": 1
    },
    "shots": []
@@ -9551,6 +9594,7 @@
     "patch": {
      "ex": {
       "fixes": true,
+      "gameplay": true,
       "restore": true
      }
     },
@@ -9563,8 +9607,8 @@
     "desc": "An addendum + ROMHack that aims to provide the updated script of the HD Remaster, and add little cosmetic \"improvements\" to the game and menus. Two Patches: DQ if you want modern Dragon Quest. DW if you want localizations and terminology to be closer to Dragon Warrior (pre-2005) and use American English.",
     "full": "NonagonGoron/Tornekos-Great-Adventure-SFC-with-Remaster-Script",
     "lang": null,
-    "pushed": "2026-11-07T03:55:24Z",
-    "size": 32803,
+    "pushed": "2026-11-16T05:05:42Z",
+    "size": 33858,
     "stars": 8
    },
    "shots": []
@@ -10476,8 +10520,8 @@
     "desc": "English translation toolchain for Super Tokusatsu Taisen 2001 (PS1, SLPS-02863)",
     "full": "retro-trans/Super-Tokusatsu-Taisen-2001",
     "lang": "Python",
-    "pushed": "2026-10-25T10:24:09Z",
-    "size": 3176,
+    "pushed": "2026-11-16T00:50:46Z",
+    "size": 3473,
     "stars": 2
    },
    "shots": []
@@ -11191,6 +11235,35 @@
    },
    "shots": []
   },
+  "sja-processes/bebop-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "fixes": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-15T18:30:05Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/sja-processes/bebop-translation/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-15T18:10:27Z",
+    "desc": "English patch for the Famicom game Be-Bop Highschool - Koukousei Gokuraku Densetsu",
+    "full": "sja-processes/bebop-translation",
+    "lang": "Python",
+    "pushed": "2026-11-15T18:29:42Z",
+    "size": 377,
+    "stars": 0
+   },
+   "shots": []
+  },
   "smokej-git/letsgo-eternal-wings-english": {
    "assetOs": {},
    "readme": {
@@ -11810,7 +11883,7 @@
     "lang": "Python",
     "pushed": "2026-11-05T12:52:37Z",
     "size": 236,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/viruztt/snatcher-pce-english/HEAD/docs/screenshots/reception-dialogue.png",
@@ -11917,10 +11990,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T09:34:56Z",
+    "date": "2026-11-16T03:04:06Z",
     "pre": true,
-    "tag": "v0.4.1-preview",
-    "url": "https://github.com/vrieza/kamen-rider-battride-war-genesis-english-patch/releases/tag/v0.4.1-preview"
+    "tag": "v0.4.2-preview",
+    "url": "https://github.com/vrieza/kamen-rider-battride-war-genesis-english-patch/releases/tag/v0.4.2-preview"
    },
    "repo": {
     "archived": false,
@@ -11928,8 +12001,8 @@
     "desc": "Unofficial English fan translation patch for Kamen Rider Battride War Genesis (PS4, CUSA02716). Preview. No game data, only binary patches.",
     "full": "vrieza/kamen-rider-battride-war-genesis-english-patch",
     "lang": null,
-    "pushed": "2026-11-15T09:44:02Z",
-    "size": 1392,
+    "pushed": "2026-11-16T03:04:05Z",
+    "size": 1400,
     "stars": 1
    },
    "shots": [
@@ -12062,8 +12135,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-15T04:02:02Z",
-    "size": 15305,
+    "pushed": "2026-11-16T05:49:39Z",
+    "size": 15398,
     "stars": 0
    },
    "shots": [

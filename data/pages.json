@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-pages",
- "generated": "2026-11-15T22:58:41Z",
+ "generated": "2026-11-16T06:49:06Z",
  "pages": {
   "http://changevworld.com/narikiri/patch/patch.htm": {
    "a": {
@@ -499,17 +499,6 @@
    "upd": "2022-07-28T18:32:36Z",
    "ver": "1.1"
   },
-  "https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "a": {
-    "ex": {
-     "gfx": true
-    }
-   },
-   "checked": "2026-11-15T22:58:41Z",
-   "plat": "GameCube",
-   "title": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "upd": "2026-09-30T06:20:08Z"
-  },
   "https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "a": {
     "ex": {
@@ -542,6 +531,18 @@
    "title": "AeroWings UNDUB patch",
    "upd": "2022-11-22T00:47:45Z",
    "ver": "1.0"
+  },
+  "https://archive.org/details/air-english-patch-psp": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-11-16T06:49:06Z",
+   "plat": "PSP",
+   "shots": [
+    "https://archive.org/download/air-english-patch-psp/airengpsp_thumb.png"
+   ],
+   "title": "AIR English Patch (PSP, patr0805)",
+   "upd": "2026-10-04T23:29:44Z"
   },
   "https://archive.org/details/airforce_delta_strike_undub_patch": {
    "a": {
@@ -968,21 +969,6 @@
    "upd": "2023-08-22T00:27:14Z",
    "ver": "1.0"
   },
-  "https://archive.org/details/bulk-slash-english-patch": {
-   "a": {
-    "ex": {}
-   },
-   "checked": "2026-11-15T22:58:41Z",
-   "plat": "Saturn",
-   "shots": [
-    "https://archive.org/download/bulk-slash-english-patch/Bulk-Slash-english-releaseo.png",
-    "https://archive.org/download/bulk-slash-english-patch/Comparison_Briefing_Mission1.png",
-    "https://archive.org/download/bulk-slash-english-patch/Comparison_Metical_Intro.png",
-    "https://archive.org/download/bulk-slash-english-patch/ControllerScreen_TwinStick.png"
-   ],
-   "title": "Bulk Slash (English Patch)",
-   "upd": "2026-10-01T07:26:04Z"
-  },
   "https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "a": {
     "ex": {},
@@ -1249,6 +1235,22 @@
    ],
    "title": "Dragon Ball Z (Budokai) Japanese version English Translation Patch",
    "upd": "2023-03-26T22:09:05Z"
+  },
+  "https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    },
+    "undub": true
+   },
+   "checked": "2026-11-16T06:49:06Z",
+   "plat": "PS2",
+   "shots": [
+    "https://archive.org/download/dragon-ball-z-budokai-undub-patch/Dragon%20Ball%20Z%20-%20Budokai_SLUS-20591_20260927140643.png"
+   ],
+   "title": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "upd": "2026-09-28T20:26:37Z"
   },
   "https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "a": {
@@ -2187,21 +2189,6 @@
    "upd": "2026-10-22T14:02:39Z",
    "ver": "1.1"
   },
-  "https://archive.org/details/mega-man-x-4_202611": {
-   "a": {
-    "ex": {
-     "restore": true
-    },
-    "undub": true
-   },
-   "checked": "2026-11-15T22:58:41Z",
-   "plat": "PS1",
-   "shots": [
-    "https://archive.org/download/mega-man-x-4_202611/image.jpg"
-   ],
-   "title": "[PC] Mega Man X4 Undub",
-   "upd": "2026-11-08T18:13:01Z"
-  },
   "https://archive.org/details/mega_man_mhx_undub_patch": {
    "a": {
     "ex": {},
@@ -2703,6 +2690,21 @@
    "upd": "2025-11-13T12:38:10Z",
    "ver": "1.0"
   },
+  "https://archive.org/details/sengokubasara3utageenglish": {
+   "a": {
+    "ex": {
+     "gfx": true,
+     "subs": true
+    }
+   },
+   "checked": "2026-11-16T06:49:06Z",
+   "plat": "PS3",
+   "shots": [
+    "https://archive.org/download/sengokubasara3utageenglish/firefox_S09XMvguoR.png"
+   ],
+   "title": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "upd": "2026-10-12T08:33:59Z"
+  },
   "https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "a": {
     "ex": {
@@ -2806,7 +2808,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS1",
    "title": "Silent Bomber UNDUB patch",
    "upd": "2024-12-24T02:36:57Z",
@@ -2842,7 +2844,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Sky Odyssey UNDUB patch",
    "upd": "2022-07-02T11:24:17Z",
@@ -2853,7 +2855,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "GBA",
    "title": "Sonic Battle UNDUB patch",
    "upd": "2024-12-13T02:17:42Z",
@@ -2864,7 +2866,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS Vita",
    "title": "Soul Sacrifice Delta UNDUB patch",
    "upd": "2023-04-15T11:51:19Z",
@@ -2877,7 +2879,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "Wii",
    "title": "Space Invaders Get Even UNDUB patch",
    "upd": "2026-07-16T21:12:29Z",
@@ -2888,7 +2890,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "Wii",
    "title": "Spectrobes: Origins UNDUB patch",
    "upd": "2025-05-01T12:27:13Z",
@@ -2914,7 +2916,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS3",
    "title": "Steambot Chronicles UNDUB patch",
    "upd": "2021-06-06T22:07:50Z",
@@ -2925,11 +2927,23 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Stella Deus: The Gate of Eternity UNDUB patch",
    "upd": "2024-08-02T06:38:08Z",
    "ver": "1.0"
+  },
+  "https://archive.org/details/storm-lover-kai-english-patch-psp": {
+   "a": {
+    "ex": {}
+   },
+   "checked": "2026-11-16T06:49:06Z",
+   "plat": "PSP",
+   "shots": [
+    "https://archive.org/download/storm-lover-kai-english-patch-psp/stormloverkai_thumb.png"
+   ],
+   "title": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "upd": "2026-10-05T18:42:26Z"
   },
   "https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "a": {
@@ -2958,7 +2972,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Suikoden Tactics UNDUB patch",
    "upd": "2021-09-09T19:57:50Z",
@@ -2981,7 +2995,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "GBA",
    "title": "Summon Night: Swordcraft Story 2 UNDUB patch",
    "upd": "2024-12-05T19:24:04Z",
@@ -2992,7 +3006,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Super Dragon Ball Z UNDUB patch (PS2)",
    "upd": "2025-06-09T22:33:30Z",
@@ -3005,7 +3019,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Swords of Destiny UNDUB patch",
    "upd": "2025-01-02T14:48:56Z",
@@ -3018,7 +3032,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "GBA",
    "title": "Tales of Phantasia UNDUB patch (GBA)",
    "upd": "2026-07-16T05:25:29Z",
@@ -3029,7 +3043,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS3",
    "title": "Tales of Symphonia: Dawn of the New World UNDUB patch (Wii)",
    "upd": "2025-04-28T02:26:59Z",
@@ -3044,7 +3058,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Tales of the Abyss UNDUB patch (3DS)",
    "upd": "2025-05-12T06:46:06Z",
@@ -3060,7 +3074,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Tales of the Abyss UNDUB patch (PS2)",
    "upd": "2025-05-12T06:10:12Z",
@@ -3073,7 +3087,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PSP",
    "title": "Tales of the World: Radiant Mythology UNDUB patch",
    "upd": "2025-05-14T08:58:13Z",
@@ -3086,7 +3100,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS Vita",
    "title": "Tenchu: Shadow Assassins UNDUB patch (PSP) / Tenchu 4 Plus English patch",
    "upd": "2025-08-25T12:52:37Z",
@@ -3110,7 +3124,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "DS",
    "title": "Tenchu: Dark Secret UNDUB patch",
    "upd": "2022-08-20T18:19:42Z",
@@ -3121,7 +3135,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PSP",
    "title": "Tenchu: Time of the Assassins UNDUB patch",
    "upd": "2025-05-13T10:53:53Z",
@@ -3134,7 +3148,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "Wii",
    "title": "The Last Story UNDUB patch",
    "upd": "2025-04-29T00:38:14Z",
@@ -3150,7 +3164,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS1",
    "title": "The Legend of Dragoon UNDUB patch",
    "upd": "2025-12-12T09:11:07Z",
@@ -3164,7 +3178,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS1",
    "title": "The Note UNDUB patch",
    "upd": "2023-07-22T22:18:00Z",
@@ -3189,7 +3203,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "The Sword of Etheria UNDUB patch",
    "upd": "2021-11-29T03:31:23Z",
@@ -3200,7 +3214,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS3",
    "title": "Tokobot Plus: Mysteries of the Karakuri UNDUB patch",
    "upd": "2022-07-28T18:48:36Z",
@@ -3236,7 +3250,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Unlimited Saga UNDUB patch",
    "upd": "2022-07-14T08:26:59Z",
@@ -3247,7 +3261,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS Vita",
    "title": "Valhalla Knights 3 UNDUB patch",
    "upd": "2025-05-21T09:38:31Z",
@@ -3292,7 +3306,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Warriors Orochi 2 UNDUB patch (PS2)",
    "upd": "2022-07-04T16:42:59Z",
@@ -3307,7 +3321,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Warriors Orochi UNDUB patch (PS2)",
    "upd": "2024-03-17T20:40:06Z",
@@ -3320,7 +3334,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "plat": "PS2",
    "title": "Way of the Samurai 2 UNDUB patch",
    "upd": "2026-08-04T16:03:23Z",
@@ -3704,10 +3718,10 @@
    "http": 403
   },
   "https://froidromhacks.com/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate-jp-pcsg01002-vita-english-translation-port-v0-80-beta": {
-   "checked": "2026-11-12T11:30:13Z"
+   "checked": "2026-11-16T06:49:06Z"
   },
   "https://froidromhacks.com/the-liar-princess-and-the-blind-prince-jp-pcsg01191-english-beta-patch-v0-8-vita-repatch-files-only": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "http": 403
   },
   "https://gadesxscene.blogspot.com/2022/10/baten-kaitos-origins-1a-version-publica.html": {
@@ -3789,7 +3803,7 @@
    "checked": "2026-11-14T10:40:39Z"
   },
   "https://gbatemp.net/threads/eng-lord-of-apocalypse-vita.550365": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "http": 403
   },
   "https://gbatemp.net/threads/eng-lord-of-apocalypse.529461": {
@@ -4128,7 +4142,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "title": "Shining Force III Collection Deluxe [Sega Saturn] - Сборники - Ромхакинг - Каталог статей - Meduza Team",
    "ver": "25.1"
   },
@@ -4201,10 +4215,10 @@
    "title": "Credits"
   },
   "https://paleabysss.neocities.org": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "gone": true,
    "http": 404,
-   "misses": 7
+   "misses": 8
   },
   "https://patches.tsukimiya.moe/kagayakukisetsuetrial": {
    "a": {
@@ -5376,7 +5390,7 @@
    "err": "<urlopen error [Errno -5] No address associated with hostname>"
   },
   "https://romhacks.org/translations/getter-love-cho-renai-party-game-tanjou-english-translation-nintendo-64": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "err": "<urlopen error [Errno -5] No address associated with hostname>"
   },
   "https://romhacks.org/translations/hoshi-wo-miru-hito-english-translation-nes": {
@@ -5422,7 +5436,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://itch.io/misc/tag-patch",
    "st": "In development",
    "title": "Karous / カラス Translation by PROMA",
@@ -5442,7 +5456,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "title": "Dark Seed 2 Us Translation",
    "upd": "2026-10-13T00:00:00Z"
   },
@@ -6192,7 +6206,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/7dragon2020iien.7z",
    "shots": [
     "https://www.gamebrew.org/images/c/cc/7dragon2020iien.png",
@@ -6210,7 +6224,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/7dragon2020en.7z",
    "shots": [
     "https://www.gamebrew.org/images/4/44/7dragon2020en.png",
@@ -6230,7 +6244,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/AirEnglishTranslationPatchforVitav1.01.zip",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/airenglishpatchvita2.png",
@@ -6304,7 +6318,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/airpspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/d/d2/Airpspengtrans.png",
@@ -6322,7 +6336,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/AmagamiVitaEngTrans.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/images/AmagamiVitaEngTrans-01.png",
@@ -6411,7 +6425,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/bakemonogataripatch_1.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/f/f3/Bakemonogataripatch.png",
@@ -6604,7 +6618,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://www.mediafire.com/file/fjb7d0osx4wssdf/Chaos%253BChild_Vita_Translation_Improvement_Patch_v1.0.zip/file",
    "site": "https://www.reddit.com/r/VitaPiracy/comments/1e6ey10/release_chaoschild_english_translation/",
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
@@ -6672,7 +6686,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/Ciel_nosurge_EN_patch_v1_01.rar",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/images/CielNosurgeVitaEngTrans-01.png",
@@ -6772,7 +6786,7 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/danball_senki_boost_patch.zip",
    "shots": [
     "https://www.gamebrew.org/images/7/73/Danballsenkiboosten.png",
@@ -6794,7 +6808,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/danganronpapspen.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/9/96/Danganronpapspen.png",
@@ -6923,7 +6937,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/digimon_adventure_english_patch_1.2.zip",
    "shots": [
     "https://www.gamebrew.org/images/d/df/Digimonadventurepspen.png",
@@ -6966,7 +6980,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/digimoncshmengvita.7z",
    "site": "https://gbatemp.net/threads/release-digimon-story-cyber-sleuth-hackers-memory-complete-definitive-edition.619509/",
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
@@ -7000,7 +7014,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/dwrd_patch_1.1.rar",
    "shots": [
     "https://www.gamebrew.org/images/2/20/Dwredigitizepatch.png",
@@ -7056,7 +7070,7 @@
     "ex": {},
     "mtl": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/dqffitadakien.rar",
    "shots": [
     "https://www.gamebrew.org/images/f/fe/Dqffitadakien.png",
@@ -7110,7 +7124,7 @@
      "fixes": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://nishishitranslations.wordpress.com/patches/",
    "shots": [
     "https://www.gamebrew.org/images/9/99/Amagamiebikoreengtrans.png",
@@ -7149,7 +7163,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/echo_night_eng.v1.00.rar",
    "shots": [
     "https://www.gamebrew.org/images/f/f6/Echonightpspen.png",
@@ -7168,7 +7182,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://www.romhacking.net/translations/3679/",
    "shots": [
     "https://www.gamebrew.org/images/e/eb/Aonokisekien.png",
@@ -7206,7 +7220,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://gbatemp.net/threads/release-ever17-the-out-of-infinity-psp-english-translation.469362/",
    "shots": [
     "https://www.gamebrew.org/images/5/51/Ever17theoutofinfinitypengtrans.png",
@@ -7288,7 +7302,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/fate_extra_ccc_patch_12_08_23.zip",
    "shots": [
     "https://www.gamebrew.org/images/f/f3/Fateextracccpspengtrans.png",
@@ -7307,7 +7321,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://www.romhacking.net/translations/1966/",
    "shots": [
     "https://www.gamebrew.org/images/5/50/Fftype0en.png",
@@ -7416,7 +7430,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/fushiginfuuraishiren4plusengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/e/e5/Fushiginfuuraishiren4plusengtrans.png",
@@ -7437,7 +7451,7 @@
     "ex": {},
     "mtl": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/shiren3_v001.7z",
    "shots": [
     "https://www.gamebrew.org/images/4/49/Shirenpspen.png",
@@ -7473,7 +7487,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/nodamiki_ga_slapstick_wonderland_en_1.0_patch.zip",
    "shots": [
     "https://www.gamebrew.org/images/c/cd/GAGeijutsukaArtDCSWPSPEngTrans.png",
@@ -7612,7 +7626,7 @@
     },
     "mtl": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/godeater2pspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/3/30/Godeater2pspengtrans.png",
@@ -7632,7 +7646,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/godeaterburstpspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/5/5a/Godeaterburstpspengtrans.png",
@@ -7651,7 +7665,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/OffshotSakuyaEnglishPatch.7z",
    "shots": [
     "https://www.gamebrew.org/thumb.php?f=GodEaterOffshotVitaEngTrans.png&width=600",
@@ -7670,7 +7684,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/gkhpatch_v1.16_final.zip",
    "shots": [
     "https://www.gamebrew.org/images/5/5a/Grandknightshistoryen.png",
@@ -7688,7 +7702,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/GrisaiaPhantomTrigger0102VitaEngTrans.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/images/GrisaiaPhantomTrigger0102VitaEngTrans-01.png",
@@ -7734,7 +7748,7 @@
     },
     "mtl": true
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/GundemoniumsRetransModVita.7z",
    "site": "https://www.reddit.com/r/vitahacks/comments/1g4vc9b/gundemoniums_psv_machine_retranslation_mod/",
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
@@ -7746,7 +7760,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/gurumin_undub.zip",
    "shots": [
     "https://www.gamebrew.org/images/d/d3/Guruminundub2.png",
@@ -7767,7 +7781,7 @@
     },
     "pct": 100
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/hacklingpspen.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/3/3c/Hacklingpspen.png",
@@ -7826,7 +7840,7 @@
     },
     "pct": 99
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/projectdivaextenden.7z",
    "shots": [
     "https://www.gamebrew.org/images/c/c7/Projectdivaextenden.png",
@@ -7847,7 +7861,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/projectdiva1en.7z?k33p0fil353",
    "shots": [
     "https://www.gamebrew.org/images/c/ce/Projectdiva1en.png",
@@ -7865,7 +7879,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/hatsunemikuprojectdiva2ndengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/2/2c/Hatsunemikuprojectdiva2ndengtrans.png",
@@ -7886,7 +7900,7 @@
      "fixes": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/projectdiva2en.7z",
    "shots": [
     "https://www.gamebrew.org/images/2/2d/Projectdiva2en.png",
@@ -8013,7 +8027,7 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/imas_sp_tl_041.zip",
    "shots": [
     "https://www.gamebrew.org/images/4/49/Idolmastersppatch.png",
@@ -8118,7 +8132,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/konhoukagolivepspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/2/20/Konhoukagolivepspengtrans-02.png",
@@ -8193,7 +8207,7 @@
      "restore": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/kidousenshigundamgnyankvpspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/f/f7/Kidousenshigundamgnyankvpspengtrans.png",
@@ -8213,7 +8227,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/gvgn_plus_1.5.rar",
    "shots": [
     "https://www.gamebrew.org/images/b/bd/Kidousenshigundamgundamvsengtrans.png",
@@ -8231,7 +8245,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/bbsfmpatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/9/93/Bbsfmpatch.png",
@@ -8306,7 +8320,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://www.teamk4l.com/",
    "shots": [
     "https://www.gamebrew.org/images/1/10/Kurohyouryugagotokupspengtrans.png",
@@ -8326,7 +8340,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://www.teamk4l.com/",
    "shots": [
     "https://www.gamebrew.org/images/0/0b/Kurohyou2ryugagotokupspengtrans.png",
@@ -8364,7 +8378,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/lpragnaroken.7z?1120",
    "shots": [
     "https://www.gamebrew.org/images/f/f3/Lpragnaroken.png",
@@ -8385,7 +8399,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/LR_EN_v1.7z",
    "shots": [
     "https://www.gamebrew.org/images/f/f6/Lastrankerpspen.png",
@@ -8422,7 +8436,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/littlebustersceen.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/f/f0/Littlebustersceen.png",
@@ -8503,7 +8517,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/silver_star_harmony_complete_undub_patch_1.0.zip",
    "site": "https://www.romhacking.net/hacks/4060/",
    "title": "Lunar - Silver Star Harmony Complete Undub PSP",
@@ -8553,7 +8567,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://vividtranslations.com/2018/05/23/nanoha-psp-english-patches/",
    "shots": [
     "https://www.gamebrew.org/images/d/df/Mslnasthebattleofacespspengtrans.png",
@@ -8573,7 +8587,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://vividtranslations.com/2018/05/23/nanoha-psp-english-patches/",
    "shots": [
     "https://www.gamebrew.org/images/1/11/Mslnasthegearsofdestinypspengtrans.png",
@@ -8798,7 +8812,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/mhp3rd_english_patch_tmo_psp_5.0.0.zip",
    "shots": [
     "https://www.gamebrew.org/images/e/ea/Mhd3den.png",
@@ -9007,7 +9021,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/nayuta_v415_translation.zip",
    "shots": [
     "https://www.gamebrew.org/images/e/ef/Nayutanokisekien.png",
@@ -9029,7 +9043,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/nayutaretranslationpatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/b/bb/Nayutaretranslationpatch.png",
@@ -9090,7 +9104,7 @@
      "restore": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://github.com/bibarub/N7-psp-english/releases",
    "shots": [
     "https://www.gamebrew.org/images/9/97/Never7theendofinfinitypspengtrans.png",
@@ -9337,7 +9351,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/oreimotsuzukuenpatch.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/5/57/Oreimotsuzukuenpatch.png",
@@ -9406,7 +9420,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/persona2eterpunishmentpspengltrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/6/64/Persona2eterpunishmentpspengltrans.png",
@@ -9442,7 +9456,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/PSPo2InfinityEnglishv2.7z",
    "shots": [
     "https://www.gamebrew.org/images/7/79/Pspo2infinityen.png",
@@ -9464,7 +9478,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/pkp_patched_v0_9_3.zip",
    "shots": [
     "https://www.gamebrew.org/images/e/e3/Phantomkingdomportableen.png",
@@ -9525,7 +9539,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/planetarian_psp_english_patch.rar",
    "shots": [
     "https://www.gamebrew.org/images/2/2d/Planetarianpspen.png",
@@ -9695,7 +9709,7 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/puellamagimadokamagicaportablepspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/d/d8/Puellamagimadokamagicaportablepspengtrans.png",
@@ -9862,7 +9876,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/queensbladespiralchaospspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/1/11/Queensbladespiralchaospspengtrans.png",
@@ -9883,7 +9897,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/rtt2patch.7z",
    "shots": [
     "https://www.gamebrew.org/images/2/2e/Rtt2patch.png",
@@ -9920,7 +9934,7 @@
      "port": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/remember11theageofinfinitypspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/e/eb/Remember11theageofinfinitypspengtrans.png",
@@ -10098,7 +10112,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/ggenerationoverworlden.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/e/e6/Ggenerationoverworlden.png",
@@ -10215,7 +10229,7 @@
     },
     "pct": 40
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://eternalnyaboronofficial.weebly.com/download-hall.html",
    "shots": [
     "https://www.gamebrew.org/images/5/5e/Sakurasounopetnakanojopspengtrans.png",
@@ -10234,7 +10248,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/SennoHatouVitaEngTrans.7z",
    "site": "https://gbatemp.net/threads/release-senmomo-english-version.674834/",
    "title": "Vita Homebrew Rom Hacks (Translations) - GameBrew",
@@ -10247,7 +10261,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/vc3_patch2.zip",
    "shots": [
     "https://www.gamebrew.org/images/a/a8/Valkyria3pspen.png",
@@ -10306,7 +10320,7 @@
     "ex": {},
     "mtl": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/shiningbladepspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/3/3a/Shiningbladepspengtrans.png"
@@ -10322,7 +10336,7 @@
      "uncensor": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/gfos1engpatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/a/a8/Gfos1engpatch.png",
@@ -10343,7 +10357,7 @@
     },
     "pct": 100
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/gfos2engpatch.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/b/b8/Gfos2engpatch.png",
@@ -10365,7 +10379,7 @@
     },
     "pct": 95
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/soltriggerpspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/6/69/Soltriggerpspengtrans.png",
@@ -10403,7 +10417,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/soranowotoen.7z",
    "shots": [
     "https://www.gamebrew.org/images/0/03/Soranowotoen.png",
@@ -10424,7 +10438,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/resonancepsppatch.zip",
    "shots": [
     "https://www.gamebrew.org/images/c/cd/Battleresonancepatch.png",
@@ -10545,7 +10559,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/steinsgatemydarlingsembracepspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/7/79/Steinsgatemydarlingsembracepspengtrans.png",
@@ -10562,7 +10576,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/steinsgatepspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/8/8c/Steinsgatepspengtrans.png",
@@ -10636,7 +10650,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/stormloverkaipatch_v09.zip",
    "shots": [
     "https://www.gamebrew.org/images/b/b6/Stormloverkaipatch.png",
@@ -10659,7 +10673,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/npjh50622_texture.rar",
    "shots": [
     "https://www.gamebrew.org/images/6/60/Strikewitchestexturepack.png",
@@ -10681,7 +10695,7 @@
     },
     "mtl": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/suikodenwovenpatch.7z?k33p0fil35",
    "shots": [
     "https://www.gamebrew.org/images/1/10/Suikodenwovenpatch.png",
@@ -10720,7 +10734,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/superdanganronpa2engtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/9/96/Superdanganronpa2engtrans.png",
@@ -10762,7 +10776,7 @@
     },
     "pct": 50
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/2018_09_05_v101_typos_titles_soul_no_patchers.zip",
    "shots": [
     "https://www.gamebrew.org/images/4/43/Superrobotwarsaen.png",
@@ -10840,7 +10854,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://www.romhacking.net/forum/index.php?topic=24976.0",
    "shots": [
     "https://www.gamebrew.org/images/3/3b/Suzumiyaharuhinoyakusokuengtrans.png",
@@ -10861,7 +10875,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/swordartonlineinfimopspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/0/09/Swordartonlineinfimopspengtrans.png",
@@ -10921,7 +10935,7 @@
     "cov": "Partial",
     "ex": {}
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/talesofinnocencerengvita.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/talesofinnocencerengvita3.png",
@@ -10997,7 +11011,7 @@
     "cov": "Menus only",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/rebirth_psp_eng_patch_v0.5.zip",
    "shots": [
     "https://www.gamebrew.org/images/2/27/Rebirthpspmenupatch.png",
@@ -11038,7 +11052,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/mhpatch-0.4.7z",
    "shots": [
     "https://www.gamebrew.org/images/f/f3/Milkholmespatch.png",
@@ -11114,7 +11128,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/thehauntedzoneeng.7z",
    "shots": [
     "https://www.gamebrew.org/images/4/40/Thehauntedzoneeng.png",
@@ -11197,7 +11211,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/toarukagakunorailgunpspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/5/5c/Toarukagakunorailgunpspengtrans.png",
@@ -11215,7 +11229,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://jerutz.wordpress.com/2019/03/17/index-psp-patch-complete/",
    "shots": [
     "https://www.gamebrew.org/images/0/08/Toarumajutsunoindexengtrans.png",
@@ -11295,7 +11309,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/patch_gs3p20150614.zip",
    "shots": [
     "https://www.gamebrew.org/images/e/e2/Girlside3pspen.png",
@@ -11352,7 +11366,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/toradora.en.1.10.zip",
    "shots": [
     "https://www.gamebrew.org/images/6/69/Toradorapspen.png",
@@ -11370,7 +11384,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T20:08:08Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/vitahomebrews/TouchBattleTankSPVitaEngTrans.7z",
    "shots": [
     "https://dlhb.gamebrew.org/vitahomebrews/images/TouchBattleTankSPVitaEngTrans-01.png",
@@ -11388,7 +11402,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/toukidenkiwamipapengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/8/89/ToukidenKiwamiPSPEngTrans.png",
@@ -11531,7 +11545,7 @@
     },
     "mtl": true
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/way_of_the_samurai_portable_version_002.rar",
    "shots": [
     "https://www.gamebrew.org/images/a/ab/Samuraidouportableen.png",
@@ -11603,7 +11617,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/yarudora_1_patcher_v1.1.zip",
    "shots": [
     "https://www.gamebrew.org/images/e/ec/Yarudoradcpatch.png",
@@ -11619,7 +11633,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/yarudorasampaguitapspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/0/03/Yarudorasampaguitapspengtrans.png",
@@ -11639,7 +11653,7 @@
      "gfx": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/ysvstrailspatch.7z",
    "shots": [
     "https://www.gamebrew.org/images/9/98/Ysvstrailspatch.png",
@@ -11661,7 +11675,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/yugioharcvtagfspspengtrans.7z",
    "shots": [
     "https://www.gamebrew.org/images/2/2e/YuGiOhARCVTagFSPSPEngTrans.png",
@@ -11684,7 +11698,7 @@
      "retrans": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/TF6_proper_english_retranslation_PSP.7z",
    "shots": [
     "https://www.gamebrew.org/images/a/a9/Tf6pspretranslation.png",
@@ -11718,7 +11732,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/y30s_patch_v102.zip",
    "shots": [
     "https://www.gamebrew.org/images/1/1f/Yuusha30sen.png",
@@ -11790,7 +11804,7 @@
      "gameplay": true
     }
    },
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "dl": "https://dlhb.gamebrew.org/psphomebrew/Disaster_Report_3_EN_v1_1.7z",
    "shots": [
     "https://www.gamebrew.org/images/8/8c/Disasterreport3en.png",
@@ -12144,7 +12158,7 @@
    "checked": "2026-11-14T18:18:04Z"
   },
   "https://www.romhacking.net/translations/1272": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/1275": {
@@ -12152,7 +12166,7 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/1278": {
-   "checked": "2026-11-12T11:30:13Z"
+   "checked": "2026-11-16T06:49:06Z"
   },
   "https://www.romhacking.net/translations/1279": {
    "checked": "2026-11-13T19:53:10Z"
@@ -12656,7 +12670,7 @@
    "checked": "2026-11-13T11:15:00Z"
   },
   "https://www.romhacking.net/translations/222": {
-   "checked": "2026-11-12T11:30:13Z"
+   "checked": "2026-11-16T06:49:06Z"
   },
   "https://www.romhacking.net/translations/2220": {
    "checked": "2026-11-15T16:27:28Z"
@@ -12729,7 +12743,7 @@
    "checked": "2026-11-14T10:40:39Z"
   },
   "https://www.romhacking.net/translations/2339": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/234": {
@@ -12883,7 +12897,7 @@
    "checked": "2026-11-12T20:08:08Z"
   },
   "https://www.romhacking.net/translations/2697": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/2713": {
@@ -13341,7 +13355,7 @@
    "checked": "2026-11-12T20:08:08Z"
   },
   "https://www.romhacking.net/translations/403": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/4065": {
@@ -13434,7 +13448,7 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/435": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/437": {
@@ -13482,7 +13496,7 @@
    "checked": "2026-11-15T22:58:41Z"
   },
   "https://www.romhacking.net/translations/466": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/467": {
@@ -13961,7 +13975,7 @@
    "checked": "2026-11-12T20:08:08Z"
   },
   "https://www.romhacking.net/translations/6498": {
-   "checked": "2026-11-12T11:30:13Z"
+   "checked": "2026-11-16T06:49:06Z"
   },
   "https://www.romhacking.net/translations/6501": {
    "checked": "2026-11-13T19:53:10Z"
@@ -14269,7 +14283,7 @@
    "checked": "2026-11-13T01:57:09Z"
   },
   "https://www.romhacking.net/translations/7229": {
-   "checked": "2026-11-12T11:30:13Z",
+   "checked": "2026-11-16T06:49:06Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/7230": {

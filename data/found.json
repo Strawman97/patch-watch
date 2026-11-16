@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-15T22:58:41Z",
+ "generated": "2026-11-16T06:49:06Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -14812,6 +14812,71 @@
    "src": "GitHub"
   },
   {
+   "d": "English fan translation of Legend of Dynamic Goushouden: Houkai no Rondo (GBA)",
+   "fa": "2026-11-16T06:49:06Z",
+   "g": "Legend of Dynamic Goushouden: Houkai no Rondo",
+   "id": "minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en",
+   "k": "minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en",
+   "l": "https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "AI-generated English translation patch for Ginga Eiyuu Densetsu (Super Famicom). BPS patch and README only.",
+   "fa": "2026-11-16T06:49:06Z",
+   "g": "Ginga Eiyuu Densetsu",
+   "id": "cirovisk/ginga-eiyuu-densetsu-english",
+   "k": "cirovisk/ginga-eiyuu-densetsu-english",
+   "l": "https://github.com/cirovisk/ginga-eiyuu-densetsu-english",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Kindaichi: Hihou-tou Arata naru Sangeki for PlayStation (SLPS-00601). Alpha patch and MIT-licensed translation tools.",
+   "fa": "2026-11-16T06:49:06Z",
+   "g": "Kindaichi: Hihou-tou Arata naru Sangeki",
+   "id": "kodakwizard/kindaichi-hihoutou-english",
+   "k": "kodakwizard/kindaichi-hihoutou-english",
+   "l": "https://github.com/KodakWizard/kindaichi-hihoutou-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Ghost Trap (GBA)",
+   "fa": "2026-11-16T06:49:06Z",
+   "g": "Ghost Trap",
+   "id": "minhnhattonthat/ghost-trap-en",
+   "k": "minhnhattonthat/ghost-trap-en",
+   "l": "https://github.com/minhnhattonthat/ghost-trap-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "Work in progress",
+   "fa": "2026-11-16T06:49:06Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -16429,51 +16494,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-15T06:49:55Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-15T06:49:55Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-15T22:58:41Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-15T22:58:41Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-15T16:27:28Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
    ],
-   "p": "PS2",
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-11-15T22:58:41Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Meremanoid English Patch",
+   "fa": "2026-11-16T06:49:06Z",
+   "g": "Meremanoid",
+   "id": "link:https://archive.org/details/meremanoid-english",
+   "l": "https://archive.org/details/meremanoid-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-16T06:49:06Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
