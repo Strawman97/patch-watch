@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-16T06:49:06Z",
+ "generated": "2026-11-16T19:43:10Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -829,7 +829,7 @@
     "lang": null,
     "pushed": "2026-11-15T19:57:35Z",
     "size": 4329,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -959,7 +959,7 @@
     "desc": "An english patch for the PSX game Athena by SNK",
     "full": "BeanutROM/PSX-Athena-English-Patch",
     "lang": null,
-    "pushed": "2026-10-31T01:36:03Z",
+    "pushed": "2026-11-16T19:32:30Z",
     "size": 0,
     "stars": 0
    },
@@ -2021,6 +2021,28 @@
     "pushed": "2026-10-06T02:29:03Z",
     "size": 921,
     "stars": 7
+   },
+   "shots": []
+  },
+  "cirovisk/ginga-eiyuu-densetsu-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-16T01:24:00Z",
+    "desc": "AI-generated English translation patch for Ginga Eiyuu Densetsu (Super Famicom)",
+    "full": "cirovisk/ginga-eiyuu-densetsu-english",
+    "lang": null,
+    "pushed": "2026-11-16T01:25:11Z",
+    "size": 104,
+    "stars": 0
    },
    "shots": []
   },
@@ -3736,10 +3758,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-04T13:40:05Z",
+    "date": "2026-11-16T15:05:20Z",
     "pre": false,
-    "tag": "v0.5.3.1",
-    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/v0.5.3.1"
+    "tag": "mod-battle-voices-originals-ai-1.0.4",
+    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/mod-battle-voices-originals-ai-1.0.4"
    },
    "repo": {
     "archived": false,
@@ -3747,8 +3769,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-15T07:45:40Z",
-    "size": 146984,
+    "pushed": "2026-11-16T15:06:44Z",
+    "size": 147905,
     "stars": 49
    },
    "shots": [
@@ -3999,7 +4021,7 @@
     "lang": "Python",
     "pushed": "2026-11-15T17:32:43Z",
     "size": 123009,
-    "stars": 41
+    "stars": 42
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4480,10 +4502,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T16:50:50Z",
+    "date": "2026-11-16T14:41:55Z",
     "pre": false,
-    "tag": "v1.8",
-    "url": "https://github.com/fiksr/eve-burst-error-r-vita-english-patch/releases/tag/v1.8"
+    "tag": "v1.9.1",
+    "url": "https://github.com/fiksr/eve-burst-error-r-vita-english-patch/releases/tag/v1.9.1"
    },
    "repo": {
     "archived": false,
@@ -4491,8 +4513,8 @@
     "desc": "Complete English translation patch for EVE burst error R on PlayStation Vita (PCSG00817) and Vita3K",
     "full": "fiksr/eve-burst-error-r-vita-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-15T16:50:32Z",
-    "size": 22614,
+    "pushed": "2026-11-16T14:41:50Z",
+    "size": 23844,
     "stars": 4
    },
    "shots": []
@@ -5102,7 +5124,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T00:42:52Z",
     "size": 8089,
-    "stars": 5
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/irxd/shin-gundam-musou-en/HEAD/docs/screenshots/05-story-dialogue.png",
@@ -5374,10 +5396,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-15T22:11:26Z",
+    "date": "2026-11-16T18:58:04Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/jonny-anime/tokimeki-memorial-2-english-patch/releases/tag/v1.0"
+    "tag": "1.1",
+    "url": "https://github.com/jonny-anime/tokimeki-memorial-2-english-patch/releases/tag/1.1"
    },
    "repo": {
     "archived": false,
@@ -5385,7 +5407,7 @@
     "desc": "Fan translation of Tokimeki Memorial 2 for PS1",
     "full": "jonny-anime/tokimeki-memorial-2-english-patch",
     "lang": "Python",
-    "pushed": "2026-10-18T04:47:02Z",
+    "pushed": "2026-11-16T18:58:04Z",
     "size": 5231,
     "stars": 9
    },
@@ -6196,6 +6218,42 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-14T20:55:14Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-14T20:55:14Z",
+    "size": 53008,
+    "stars": 33
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
+   ]
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -6281,6 +6339,34 @@
     "lang": null,
     "pushed": "2026-11-11T00:53:35Z",
     "size": 4,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "kodakwizard/kindaichi-hihoutou-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-16T00:23:28Z",
+    "pre": true,
+    "tag": "v0.1.0-alpha",
+    "url": "https://github.com/KodakWizard/kindaichi-hihoutou-english/releases/tag/v0.1.0-alpha"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-16T00:04:51Z",
+    "desc": "English fan translation of Kindaichi: Hihou-tou Arata naru Sangeki for PlayStation (SLPS-00601). Alpha patch and MIT-licensed translation tools.",
+    "full": "KodakWizard/kindaichi-hihoutou-english",
+    "lang": "Python",
+    "pushed": "2026-11-16T00:23:58Z",
+    "size": 2274,
     "stars": 0
    },
    "shots": []
@@ -6799,8 +6885,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-16T03:15:36Z",
-    "size": 93299,
+    "pushed": "2026-11-16T16:35:34Z",
+    "size": 92119,
     "stars": 103
    },
    "shots": [
@@ -8067,6 +8153,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/ghost-trap-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-15T23:49:10Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/ghost-trap-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-15T02:18:12Z",
+    "desc": "English fan translation of Ghost Trap (GBA)",
+    "full": "minhnhattonthat/ghost-trap-en",
+    "lang": "Python",
+    "pushed": "2026-11-15T23:49:35Z",
+    "size": 1492,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/ginga-eiyuu-densetsu-en": {
    "assetOs": {},
    "readme": {
@@ -8401,6 +8516,33 @@
     "pushed": "2026-11-07T05:56:17Z",
     "size": 2280,
     "stars": 3
+   },
+   "shots": []
+  },
+  "minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-16T04:33:26Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-15T06:28:29Z",
+    "desc": "English fan translation of Legend of Dynamic Goushouden: Houkai no Rondo (GBA)",
+    "full": "minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en",
+    "lang": "Python",
+    "pushed": "2026-11-16T04:34:08Z",
+    "size": 3900,
+    "stars": 0
    },
    "shots": []
   },
@@ -10501,6 +10643,7 @@
      "ex": {
       "gameplay": true,
       "gfx": true,
+      "restore": true,
       "subs": true
      },
      "mtl": true
@@ -10509,10 +10652,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-25T09:49:05Z",
+    "date": "2026-11-16T11:26:59Z",
     "pre": false,
-    "tag": "v0.9.0",
-    "url": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "url": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -10520,8 +10663,8 @@
     "desc": "English translation toolchain for Super Tokusatsu Taisen 2001 (PS1, SLPS-02863)",
     "full": "retro-trans/Super-Tokusatsu-Taisen-2001",
     "lang": "Python",
-    "pushed": "2026-11-16T00:50:46Z",
-    "size": 3473,
+    "pushed": "2026-11-16T11:29:43Z",
+    "size": 3527,
     "stars": 2
    },
    "shots": []
@@ -10531,6 +10674,7 @@
    "readme": {
     "patch": {
      "ex": {
+      "restore": true,
       "subs": true
      },
      "mtl": true
@@ -10539,10 +10683,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-13T09:47:06Z",
+    "date": "2026-11-16T11:24:45Z",
     "pre": false,
-    "tag": "v0.8.3",
-    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.3"
+    "tag": "v0.8.4",
+    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.4"
    },
    "repo": {
     "archived": false,
@@ -10550,8 +10694,8 @@
     "desc": "English translation patch for Tengai Makyou II: Manji Maru (GameCube).",
     "full": "retro-trans/Tengai-Makyou-II",
     "lang": "Python",
-    "pushed": "2026-11-13T09:53:31Z",
-    "size": 92,
+    "pushed": "2026-11-16T11:35:09Z",
+    "size": 118,
     "stars": 2
    },
    "shots": []
@@ -10831,7 +10975,7 @@
     "lang": null,
     "pushed": "2026-11-02T19:50:45Z",
     "size": 42,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://github.com/user-attachments/assets/ed6f70bb-5e39-4223-932f-79c0082c0212"
@@ -11945,7 +12089,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 258
+    "stars": 259
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -12067,7 +12211,7 @@
     "lang": "Python",
     "pushed": "2026-10-22T21:48:49Z",
     "size": 13940,
-    "stars": 7
+    "stars": 8
    },
    "shots": [
     "https://img.youtube.com/vi/lB-wLC9MY5E/hqdefault.jpg",
@@ -12136,7 +12280,7 @@
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
     "pushed": "2026-11-16T05:49:39Z",
-    "size": 15398,
+    "size": 15489,
     "stars": 0
    },
    "shots": [
