@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-17T03:59:43Z",
+ "generated": "2026-11-17T16:15:25Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -78,10 +78,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-10T23:25:45Z",
+    "date": "2026-11-17T12:39:18Z",
     "pre": false,
-    "tag": "v1.0.1",
-    "url": "https://github.com/ACR-GD/tengai-makyou-2-english/releases/tag/v1.0.1"
+    "tag": "v1.1.0",
+    "url": "https://github.com/ACR-GD/tengai-makyou-2-english/releases/tag/v1.1.0"
    },
    "repo": {
     "archived": false,
@@ -89,11 +89,13 @@
     "desc": "English translation patch for Tengai Makyou II: Manji Maru (Nintendo DS) — Far East of Eden II: Manjimaru",
     "full": "ACR-GD/tengai-makyou-2-english",
     "lang": "Python",
-    "pushed": "2026-11-11T12:25:37Z",
-    "size": 147,
+    "pushed": "2026-11-17T12:39:18Z",
+    "size": 284,
     "stars": 2
    },
-   "shots": []
+   "shots": [
+    "https://raw.githubusercontent.com/ACR-GD/tengai-makyou-2-english/HEAD/docs/screenshot.png"
+   ]
   },
   "agtteam/fmakamitranslation": {
    "noRelease": true,
@@ -1976,7 +1978,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T19:08:35Z",
     "size": 103880,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -2276,7 +2278,7 @@
     "desc": "English translation patch (xdelta) for Ishin no Arashi: Bakumatsu Shishiden (PlayStation)",
     "full": "damon-daemon/ishin-no-arashi-bakumatsu-shishiden-english",
     "lang": "Python",
-    "pushed": "2026-11-13T21:31:12Z",
+    "pushed": "2026-11-17T15:55:40Z",
     "size": 1735,
     "stars": 2
    },
@@ -3758,10 +3760,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-16T15:05:20Z",
+    "date": "2026-11-17T12:06:25Z",
     "pre": false,
-    "tag": "mod-battle-voices-originals-ai-1.0.4",
-    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/mod-battle-voices-originals-ai-1.0.4"
+    "tag": "mod-battle-voices-originals-ai-1.0.5",
+    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/mod-battle-voices-originals-ai-1.0.5"
    },
    "repo": {
     "archived": false,
@@ -3769,9 +3771,9 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-16T15:06:44Z",
-    "size": 147905,
-    "stars": 49
+    "pushed": "2026-11-17T12:07:49Z",
+    "size": 153628,
+    "stars": 50
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -4020,7 +4022,7 @@
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
     "pushed": "2026-11-17T03:32:12Z",
-    "size": 126039,
+    "size": 126051,
     "stars": 44
    },
    "shots": [
@@ -4862,7 +4864,7 @@
     "lang": "Python",
     "pushed": "2026-10-25T13:39:07Z",
     "size": 1627,
-    "stars": 7
+    "stars": 8
    },
    "shots": [
     "https://github.com/user-attachments/assets/149fcef0-dcd5-4e17-841a-39a48dde3a7f"
@@ -5329,10 +5331,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-14T07:09:27Z",
+    "date": "2026-11-17T08:52:58Z",
     "pre": false,
-    "tag": "v1.1.2",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.1.2"
+    "tag": "v1.2",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -5340,17 +5342,17 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-11-14T07:09:06Z",
-    "size": 1072,
+    "pushed": "2026-11-17T08:52:34Z",
+    "size": 1361,
     "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/title-screen.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v111-story-build-base.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v111-story-jamatai.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v111-battle-quote.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v12-story-macross.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v12-story-minerva.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v12-battle-quote.png",
     "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/weapon-selection.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v111-pilot-cut-in.png"
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v12-support-attack.png"
    ]
   },
   "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba": {
@@ -5410,8 +5412,8 @@
     "full": "jonny-anime/tokimeki-memorial-2-english-patch",
     "lang": "Python",
     "pushed": "2026-11-17T03:10:57Z",
-    "size": 5431,
-    "stars": 9
+    "size": 5588,
+    "stars": 10
    },
    "shots": [
     "https://raw.githubusercontent.com/jonny-anime/tokimeki-memorial-2-english-patch/HEAD/translated_screenshots/Screenshot%202026-10-14%20215828.png"
@@ -6220,6 +6222,42 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-14T20:55:14Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-14T20:55:14Z",
+    "size": 53008,
+    "stars": 33
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
+   ]
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -6684,7 +6722,7 @@
     "lang": "Python",
     "pushed": "2025-04-22T15:53:47Z",
     "size": 71902,
-    "stars": 95
+    "stars": 96
    },
    "shots": [
     "https://raw.githubusercontent.com/lifebottle/Tales-of-Innocence-R/HEAD/tools/assets/toir.png",
@@ -6889,7 +6927,7 @@
     "lang": null,
     "pushed": "2026-11-15T23:35:41Z",
     "size": 1051,
-    "stars": 5
+    "stars": 6
    },
    "shots": []
   },
@@ -7269,8 +7307,8 @@
     "desc": "English fan translation of Bakumatsu Rock: Ultra Soul (PSP)",
     "full": "minhnhattonthat/bakumatsu-rock-ultra-soul-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:55:28Z",
-    "size": 9303,
+    "pushed": "2026-11-17T11:03:14Z",
+    "size": 9304,
     "stars": 1
    },
    "shots": []
@@ -7298,8 +7336,8 @@
     "desc": "English fan translation of Bastard!! Utsuronaru Kamigami no Utsuwa (PSX)",
     "full": "minhnhattonthat/bastard-utsuronaru-kamigami-no-utsuwa-en",
     "lang": "Python",
-    "pushed": "2026-11-07T06:10:29Z",
-    "size": 15570,
+    "pushed": "2026-11-17T11:01:32Z",
+    "size": 10323,
     "stars": 1
    },
    "shots": []
@@ -7383,8 +7421,8 @@
     "desc": "English fan translation of Bealphareth (PSX)",
     "full": "minhnhattonthat/bealphareth-en",
     "lang": "Python",
-    "pushed": "2026-11-16T22:00:11Z",
-    "size": 25092,
+    "pushed": "2026-11-17T11:01:34Z",
+    "size": 25096,
     "stars": 1
    },
    "shots": []
@@ -7412,8 +7450,8 @@
     "desc": "English fan translation of Black/Matrix + (PSX)",
     "full": "minhnhattonthat/black-matrix-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:55:37Z",
-    "size": 3129,
+    "pushed": "2026-11-17T11:03:17Z",
+    "size": 3132,
     "stars": 1
    },
    "shots": []
@@ -7439,8 +7477,8 @@
     "desc": "English fan translation of Blaze Union: Story to Reach the Future (PSP)",
     "full": "minhnhattonthat/blaze-union-story-to-reach-the-future-en",
     "lang": "Python",
-    "pushed": "2026-11-12T06:35:05Z",
-    "size": 3408,
+    "pushed": "2026-11-17T11:01:38Z",
+    "size": 3411,
     "stars": 3
    },
    "shots": []
@@ -7468,8 +7506,8 @@
     "desc": "English fan translation of Bouken-Ou Beet: Busters Road (GBA)",
     "full": "minhnhattonthat/bouken-ou-beet-busters-road-en",
     "lang": "Python",
-    "pushed": "2026-11-15T01:03:45Z",
-    "size": 4716,
+    "pushed": "2026-11-17T11:01:41Z",
+    "size": 4719,
     "stars": 0
    },
    "shots": []
@@ -7497,8 +7535,8 @@
     "desc": "English fan translation of Boundary Gate: Daughter of Kingdom (PSX)",
     "full": "minhnhattonthat/boundary-gate-daughter-of-kingdom-en",
     "lang": "Python",
-    "pushed": "2026-11-16T23:24:22Z",
-    "size": 1009,
+    "pushed": "2026-11-17T11:03:20Z",
+    "size": 1011,
     "stars": 1
    },
    "shots": []
@@ -7555,8 +7593,8 @@
     "desc": "English fan translation of Chou Mashin Eiyuuden Wataru: Another Step (PSX)",
     "full": "minhnhattonthat/chou-mashin-eiyuuden-wataru-another-step-en",
     "lang": "Python",
-    "pushed": "2026-11-15T22:58:33Z",
-    "size": 1783,
+    "pushed": "2026-11-17T11:01:45Z",
+    "size": 1784,
     "stars": 1
    },
    "shots": []
@@ -7751,8 +7789,8 @@
     "desc": "English fan translation of Emblem of Gundam (NDS)",
     "full": "minhnhattonthat/emblem-of-gundam-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:55:48Z",
-    "size": 4238,
+    "pushed": "2026-11-17T11:03:23Z",
+    "size": 4240,
     "stars": 0
    },
    "shots": []
@@ -7975,8 +8013,8 @@
     "desc": "English fan translation of Ganbare Daiku no Gensan (SNES)",
     "full": "minhnhattonthat/ganbare-daiku-no-gen-san-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:55:57Z",
-    "size": 244,
+    "pushed": "2026-11-17T11:03:25Z",
+    "size": 246,
     "stars": 0
    },
    "shots": []
@@ -8196,8 +8234,8 @@
     "desc": "English fan translation of Ginga Sengoku Gunyuuden Rai (SNES)",
     "full": "minhnhattonthat/ginga-sengoku-gunyuuden-rai-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:12Z",
-    "size": 1029,
+    "pushed": "2026-11-17T11:03:28Z",
+    "size": 1031,
     "stars": 0
    },
    "shots": []
@@ -8225,8 +8263,8 @@
     "desc": "English fan translation of Gloria Union (PSP)",
     "full": "minhnhattonthat/gloria-union-en",
     "lang": "Python",
-    "pushed": "2026-11-09T21:41:33Z",
-    "size": 14742,
+    "pushed": "2026-11-17T11:03:31Z",
+    "size": 14744,
     "stars": 3
    },
    "shots": []
@@ -8254,8 +8292,8 @@
     "desc": "English fan translation of Goku Makaimura Kai (PSP)",
     "full": "minhnhattonthat/goku-makai-mura-kai-en",
     "lang": "Python",
-    "pushed": "2026-11-13T21:03:02Z",
-    "size": 461,
+    "pushed": "2026-11-17T11:01:54Z",
+    "size": 464,
     "stars": 1
    },
    "shots": []
@@ -8270,10 +8308,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-14T05:40:00Z",
+    "date": "2026-11-17T04:32:38Z",
     "pre": false,
-    "tag": "v1.0.2",
-    "url": "https://github.com/minhnhattonthat/granbo/releases/tag/v1.0.2"
+    "tag": "v1.0.3",
+    "url": "https://github.com/minhnhattonthat/granbo/releases/tag/v1.0.3"
    },
    "repo": {
     "archived": false,
@@ -8281,8 +8319,8 @@
     "desc": "English fan translation of Granbo (GBA)",
     "full": "minhnhattonthat/granbo",
     "lang": "Python",
-    "pushed": "2026-11-17T00:02:44Z",
-    "size": 1003,
+    "pushed": "2026-11-17T04:33:32Z",
+    "size": 1020,
     "stars": 0
    },
    "shots": []
@@ -8335,8 +8373,8 @@
     "desc": "English fan translation of hachiemon-en (GBA)",
     "full": "minhnhattonthat/hachiemon-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:15Z",
-    "size": 600,
+    "pushed": "2026-11-17T11:03:34Z",
+    "size": 602,
     "stars": 0
    },
    "shots": []
@@ -8394,8 +8432,8 @@
     "desc": "English fan translation of Hyakujuu Sentai GaoRanger (PS1)",
     "full": "minhnhattonthat/hyakujuu-sentai-gaoranger-en",
     "lang": "Python",
-    "pushed": "2026-11-15T00:09:58Z",
-    "size": 1176,
+    "pushed": "2026-11-17T11:03:37Z",
+    "size": 1178,
     "stars": 0
    },
    "shots": []
@@ -8479,8 +8517,8 @@
     "desc": "English fan translation of Kuro no Ken: Blade of the Darkness (PSX)",
     "full": "minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:17Z",
-    "size": 2280,
+    "pushed": "2026-11-17T11:03:40Z",
+    "size": 2282,
     "stars": 3
    },
    "shots": []
@@ -8508,7 +8546,7 @@
     "lang": "Python",
     "pushed": "2026-11-16T04:34:08Z",
     "size": 3900,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8535,8 +8573,8 @@
     "desc": "English fan translation of Legendz: Yomigaeru Shiren no Shima (GBA)",
     "full": "minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:19Z",
-    "size": 2102,
+    "pushed": "2026-11-17T11:03:43Z",
+    "size": 2104,
     "stars": 0
    },
    "shots": []
@@ -8564,8 +8602,8 @@
     "desc": "English fan translation of MÄR Heaven: Knockin' on Heaven's Door (GBA)",
     "full": "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:22Z",
-    "size": 1526,
+    "pushed": "2026-11-17T11:03:46Z",
+    "size": 1528,
     "stars": 0
    },
    "shots": []
@@ -8624,6 +8662,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-16T22:24:23Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-15T05:06:33Z",
+    "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch: Pichi Pichitto Live Start! (GBA)",
+    "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start-en",
+    "lang": "Python",
+    "pushed": "2026-11-17T11:02:02Z",
+    "size": 2194,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/momotarou-densetsu-en": {
    "assetOs": {},
    "readme": {
@@ -8672,8 +8739,8 @@
     "desc": "English fan translation of Momotarou Matsuri: Ishikawa Rokuemon no Maki (PSX)",
     "full": "minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:27Z",
-    "size": 11782,
+    "pushed": "2026-11-17T11:03:49Z",
+    "size": 11785,
     "stars": 1
    },
    "shots": []
@@ -8732,6 +8799,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/onmyou-taisenki-zeroshiki-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-17T07:19:39Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/onmyou-taisenki-zeroshiki-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-15T18:58:36Z",
+    "desc": "English fan translation of onmyou-taisenki-zeroshiki-en (GBA)",
+    "full": "minhnhattonthat/onmyou-taisenki-zeroshiki-en",
+    "lang": "Python",
+    "pushed": "2026-11-17T07:19:38Z",
+    "size": 2829,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/paro-wars-en": {
    "assetOs": {},
    "readme": {
@@ -8756,8 +8852,8 @@
     "desc": "English fan translation of Paro Wars (PSX)",
     "full": "minhnhattonthat/paro-wars-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:32Z",
-    "size": 1203,
+    "pushed": "2026-11-17T11:03:52Z",
+    "size": 1205,
     "stars": 1
    },
    "shots": []
@@ -8895,8 +8991,8 @@
     "desc": "English fan translation of Seireiki Rayblade (PSX)",
     "full": "minhnhattonthat/seireiki-rayblade-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:38Z",
-    "size": 24704,
+    "pushed": "2026-11-17T11:03:55Z",
+    "size": 9733,
     "stars": 0
    },
    "shots": []
@@ -8922,8 +9018,8 @@
     "desc": "English fan translation of Shin Megami Tensei: Devil Children - Puzzle de Call! (GBA)",
     "full": "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:41Z",
-    "size": 615,
+    "pushed": "2026-11-17T11:03:57Z",
+    "size": 617,
     "stars": 3
    },
    "shots": []
@@ -8976,8 +9072,8 @@
     "desc": "English fan translation of Shin Megami Tensei: Devil Children Black Book / Red Book (PS1)",
     "full": "minhnhattonthat/smt-devil-children-kuro-no-sho-aka-no-sho-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:43Z",
-    "size": 792,
+    "pushed": "2026-11-17T11:04:00Z",
+    "size": 793,
     "stars": 2
    },
    "shots": []
@@ -9087,8 +9183,8 @@
     "desc": "English fan translation of Tadaima Yuusha Boshuuchuu Okawari (SNES)",
     "full": "minhnhattonthat/tadaima-yuusha-boshuuchuu-okawari-en",
     "lang": "Python",
-    "pushed": "2026-11-10T22:39:15Z",
-    "size": 3707,
+    "pushed": "2026-11-17T11:02:13Z",
+    "size": 3715,
     "stars": 0
    },
    "shots": []
@@ -9116,8 +9212,8 @@
     "desc": "English fan translation of Tenkuu no Escaflowne (PS1)",
     "full": "minhnhattonthat/tenkuu-no-escaflowne-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:56:47Z",
-    "size": 1434,
+    "pushed": "2026-11-17T11:04:03Z",
+    "size": 1436,
     "stars": 0
    },
    "shots": []
@@ -9145,9 +9241,9 @@
     "desc": "English fan translation of Time Bokan Series: Bokan desu yo (PSX)",
     "full": "minhnhattonthat/time-bokan-series-bokan-desu-yo-en",
     "lang": "Python",
-    "pushed": "2026-11-08T00:18:59Z",
-    "size": 887,
-    "stars": 1
+    "pushed": "2026-11-17T11:02:17Z",
+    "size": 889,
+    "stars": 2
    },
    "shots": []
   },
@@ -9174,8 +9270,8 @@
     "desc": "English fan translation of Time Bokan Series: Bokan GoGoGo (PSX)",
     "full": "minhnhattonthat/time-bokan-series-bokan-gogogo-en",
     "lang": "Python",
-    "pushed": "2026-11-14T09:19:09Z",
-    "size": 1166,
+    "pushed": "2026-11-17T11:02:19Z",
+    "size": 1169,
     "stars": 1
    },
    "shots": []
@@ -9203,9 +9299,36 @@
     "desc": "English fan translation of time-bokan-series-bokan-to-ippatsu-doronbow-en (PSX)",
     "full": "minhnhattonthat/time-bokan-series-bokan-to-ippatsu-doronbow-en",
     "lang": "Python",
-    "pushed": "2026-11-13T21:02:05Z",
-    "size": 884,
+    "pushed": "2026-11-17T11:02:22Z",
+    "size": 890,
     "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/toyrobo-force-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-16T21:40:16Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/toyrobo-force-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-16T13:15:49Z",
+    "desc": "English fan translation of Toy Robo Force (GBA)",
+    "full": "minhnhattonthat/toyrobo-force-en",
+    "lang": "Python",
+    "pushed": "2026-11-16T22:03:14Z",
+    "size": 1610,
+    "stars": 0
    },
    "shots": []
   },
@@ -9261,8 +9384,8 @@
     "desc": "English fan translation of Yggdra Unison: Seiken Buyuuden (NDS)",
     "full": "minhnhattonthat/yggdra-unison-seiken-buyuuden-en",
     "lang": "Python",
-    "pushed": "2026-11-16T01:10:06Z",
-    "size": 11634,
+    "pushed": "2026-11-17T11:02:28Z",
+    "size": 11638,
     "stars": 1
    },
    "shots": []
@@ -9321,6 +9444,36 @@
     "pushed": "2026-11-07T05:57:00Z",
     "size": 2878,
     "stars": 1
+   },
+   "shots": []
+  },
+  "misty-dive/duel-masters-botsd-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-17T00:34:21Z",
+    "pre": false,
+    "tag": "v1.4",
+    "url": "https://github.com/misty-dive/duel-masters-botsd-english-patch/releases/tag/v1.4"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-15T02:41:30Z",
+    "desc": "English translation patch for Duel Masters: Birth of the Super Dragon (PS2, SLPM-65882), including story/UI text and all 677 cards.",
+    "full": "misty-dive/duel-masters-botsd-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-17T00:43:49Z",
+    "size": 896,
+    "stars": 5
    },
    "shots": []
   },
@@ -9523,7 +9676,7 @@
     "lang": "Batchfile",
     "pushed": "2026-10-30T14:47:52Z",
     "size": 2647,
-    "stars": 14
+    "stars": 15
    },
    "shots": []
   },
@@ -9598,7 +9751,7 @@
     "lang": null,
     "pushed": "2026-11-13T13:38:46Z",
     "size": 2,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -10370,19 +10523,19 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-27T09:33:53Z",
+    "date": "2026-11-17T05:46:19Z",
     "pre": false,
-    "tag": "v2026.10.27.1",
-    "url": "https://github.com/randomprojectsfactory/xak-i-ii-pce-english/releases/tag/v2026.10.27.1"
+    "tag": "v2026.11.17",
+    "url": "https://github.com/randomprojectsfactory/xak-i-ii-pce-english/releases/tag/v2026.11.17"
    },
    "repo": {
-    "archived": false,
+    "archived": true,
     "created": "2026-10-19T07:45:28Z",
     "desc": "English text, cinematic subtitles and larger dialogue font for Xak I & II on PC Engine CD. Patch-only distribution.",
     "full": "randomprojectsfactory/xak-i-ii-pce-english",
     "lang": "Python",
-    "pushed": "2026-11-17T01:32:06Z",
-    "size": 1581,
+    "pushed": "2026-11-17T05:46:19Z",
+    "size": 1885,
     "stars": 9
    },
    "shots": [
@@ -10421,7 +10574,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T22:05:18Z",
     "size": 3965,
-    "stars": 14
+    "stars": 15
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -10540,7 +10693,7 @@
     "desc": "English translation of Gakkou de Atta Kowai Hanashi S (PS1, SLPS-00404) and the toolchain that builds it",
     "full": "retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S",
     "lang": "Python",
-    "pushed": "2026-11-15T15:22:52Z",
+    "pushed": "2026-11-17T08:17:16Z",
     "size": 7187,
     "stars": 1
    },
@@ -10570,8 +10723,8 @@
     "desc": "English translation patch and tooling for Sunrise Eiyuutan 2 (PlayStation 2, SLPS-25070).",
     "full": "retro-trans/Sunrise-Eiyuutan-2",
     "lang": "Python",
-    "pushed": "2026-11-05T13:06:28Z",
-    "size": 6347,
+    "pushed": "2026-11-17T08:17:43Z",
+    "size": 6359,
     "stars": 0
    },
    "shots": [
@@ -10603,8 +10756,8 @@
     "desc": "English translation patch for PS2 game Sunrise World War",
     "full": "retro-trans/Sunrise-World-War",
     "lang": "Python",
-    "pushed": "2026-11-10T16:00:29Z",
-    "size": 3146,
+    "pushed": "2026-11-17T08:37:00Z",
+    "size": 3162,
     "stars": 0
    },
    "shots": []
@@ -10636,8 +10789,8 @@
     "desc": "English translation toolchain for Super Tokusatsu Taisen 2001 (PS1, SLPS-02863)",
     "full": "retro-trans/Super-Tokusatsu-Taisen-2001",
     "lang": "Python",
-    "pushed": "2026-11-16T11:29:43Z",
-    "size": 3527,
+    "pushed": "2026-11-17T08:16:16Z",
+    "size": 3561,
     "stars": 2
    },
    "shots": []
@@ -10668,7 +10821,7 @@
     "full": "retro-trans/Tengai-Makyou-II",
     "lang": "Python",
     "pushed": "2026-11-17T03:50:34Z",
-    "size": 118,
+    "size": 137,
     "stars": 3
    },
    "shots": []
@@ -10839,8 +10992,8 @@
     "desc": "English Translation Project for PS3 ver ToHeart2 DX PLUS (AI assisted)",
     "full": "rikimtasu/th2dxp_en",
     "lang": "Python",
-    "pushed": "2026-11-17T03:20:09Z",
-    "size": 53223,
+    "pushed": "2026-11-17T05:54:40Z",
+    "size": 53587,
     "stars": 1
    },
    "shots": []
@@ -11719,6 +11872,43 @@
     "https://raw.githubusercontent.com/struktured-labs/trinea-dx/HEAD/docs/screenshots/credits.png"
    ]
   },
+  "suddenlythis/bloodgearpce-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-16T20:08:44Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/suddenlythis/bloodgearpce-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-16T17:52:40Z",
+    "desc": "Blood Gear (PC Engine) English Translation",
+    "full": "suddenlythis/bloodgearpce-english",
+    "lang": null,
+    "pushed": "2026-11-16T22:58:42Z",
+    "size": 221,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/suddenlythis/bloodgearpce-english/HEAD/screenshots/01-title.png",
+    "https://raw.githubusercontent.com/suddenlythis/bloodgearpce-english/HEAD/screenshots/02-prologue.png",
+    "https://raw.githubusercontent.com/suddenlythis/bloodgearpce-english/HEAD/screenshots/03-first-town.png",
+    "https://raw.githubusercontent.com/suddenlythis/bloodgearpce-english/HEAD/screenshots/04-combat.png",
+    "https://raw.githubusercontent.com/suddenlythis/bloodgearpce-english/HEAD/screenshots/05-the-arms.png",
+    "https://raw.githubusercontent.com/suddenlythis/bloodgearpce-english/HEAD/screenshots/07-may.png"
+   ]
+  },
   "suddenlythis/linda3pce-english": {
    "assetOs": {},
    "readme": {
@@ -11859,11 +12049,11 @@
    "repo": {
     "archived": false,
     "created": "2026-10-27T12:03:07Z",
-    "desc": "Full English translation of Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 (PS1 / PSX). V1.0 — final version. Includes UIs, Game Shop, Mini Games, Tests, Arcade Mode, and more. Patch only; no game image or BIOS. Tested with:  RetroArch using PCSX-ReARMed core. Mednafen 1.32.1. DuckStation 0.1-12640.",
+    "desc": "Full English translation V1.0.1. There will be upcoming patches as I found some rendering issues for some ENG characters . Also, there are bits of the translation that don't sound as natural due to trying stay within character limits and binary issues, still trying to find a better way to fix that, as it stands the game is 100% playable. ",
     "full": "ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2",
     "lang": null,
-    "pushed": "2026-11-14T23:23:59Z",
-    "size": 6259,
+    "pushed": "2026-11-17T11:00:02Z",
+    "size": 6261,
     "stars": 12
    },
    "shots": [
@@ -12062,7 +12252,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 261
+    "stars": 262
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -12253,7 +12443,7 @@
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
     "pushed": "2026-11-17T03:50:26Z",
-    "size": 18297,
+    "size": 13267,
     "stars": 0
    },
    "shots": [

@@ -7592,6 +7592,14 @@
    "title": "Seireiki Rayblade",
    "url": "https://cdn2.steamgriddb.com/grid/3fc328260bf135a6a1510017877a0460.png"
   },
+  "minhnhattonthat/shingata-medarot-kuwagata-version-en": {
+   "added": "2026-11-17T16:15:25Z",
+   "match": 1.0,
+   "name": "Shingata Medarot: Kuwagata Version",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/f2d9265a7d859cd9465e40cd07cfb017.jpg",
+   "title": "Shingata Medarot: Kuwagata Version",
+   "url": "https://cdn2.steamgriddb.com/grid/f2d9265a7d859cd9465e40cd07cfb017.png"
+  },
   "minhnhattonthat/smt-devil-children-2-honoo-no-sho": {
    "added": "2026-11-05T11:12:14Z",
    "match": 1.0,
@@ -7978,7 +7986,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-11-17T03:59:43Z",
+ "generated": "2026-11-17T16:15:25Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -8099,7 +8107,8 @@
   "exxistancedc/shinrei-jusatsushi-taromaru-english-patch": "2026-11-05T11:12:14Z|shinrei jusatsushi taroumaru",
   "fabulu/busin0translation": "2026-11-09T22:31:36Z|busin0translation",
   "fabulu/busin0translationsite": "2026-11-09T22:31:36Z|busin0translation site",
-  "fiksr/eve-burst-error-r-vita-english-patch": "2026-11-03T11:03:57Z|eve burst error r",
+  "fiksr/eve-burst-error-r-vita-english-patch": "2026-11-17T16:15:25Z|eve burst error r",
+  "fiksr/gnosia-vita-english-patch": "2026-11-17T16:15:25Z|gnosia vita",
   "fiksr/yuno-android": "2026-10-22T09:57:51Z",
   "flukeylukey1/nappletaleengpatchfix": "2026-11-05T11:12:14Z|napple tale arsia in daydream",
   "ganyu2404/kiri-3ds-universal-translator": "2026-11-08T06:19:44Z|kiri 3ds universal translator",
