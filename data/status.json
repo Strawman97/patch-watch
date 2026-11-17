@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-16T19:43:10Z",
+ "generated": "2026-11-17T03:59:43Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -91,7 +91,7 @@
     "lang": "Python",
     "pushed": "2026-11-11T12:25:37Z",
     "size": 147,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -829,7 +829,7 @@
     "lang": null,
     "pushed": "2026-11-15T19:57:35Z",
     "size": 4329,
-    "stars": 1
+    "stars": 3
    },
    "shots": []
   },
@@ -960,7 +960,7 @@
     "full": "BeanutROM/PSX-Athena-English-Patch",
     "lang": null,
     "pushed": "2026-11-16T19:32:30Z",
-    "size": 0,
+    "size": 1,
     "stars": 0
    },
    "shots": []
@@ -2278,7 +2278,7 @@
     "lang": "Python",
     "pushed": "2026-11-13T21:31:12Z",
     "size": 1735,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/ishin-no-arashi-bakumatsu-shishiden-english/HEAD/docs/screenshots/01_title.png",
@@ -2820,7 +2820,7 @@
     "lang": "C",
     "pushed": "2026-05-03T04:25:02Z",
     "size": 624741,
-    "stars": 106
+    "stars": 105
    },
    "shots": []
   },
@@ -3838,7 +3838,7 @@
     "lang": "C++",
     "pushed": "2024-03-30T03:54:07Z",
     "size": 192329,
-    "stars": 125
+    "stars": 126
    },
    "shots": []
   },
@@ -3990,7 +3990,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-15T21:47:09Z",
     "size": 30129,
-    "stars": 9
+    "stars": 10
    },
    "shots": []
   },
@@ -4008,10 +4008,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T17:32:43Z",
+    "date": "2026-11-17T01:08:51Z",
     "pre": false,
-    "tag": "v0.1.44",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.44"
+    "tag": "v0.1.45",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.45"
    },
    "repo": {
     "archived": false,
@@ -4019,9 +4019,9 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-15T17:32:43Z",
-    "size": 123009,
-    "stars": 42
+    "pushed": "2026-11-17T03:32:12Z",
+    "size": 126039,
+    "stars": 44
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4409,7 +4409,7 @@
     "lang": "PowerShell",
     "pushed": "2026-11-14T11:49:59Z",
     "size": 35504,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -4806,7 +4806,7 @@
     "lang": "C++",
     "pushed": "2026-10-30T23:29:59Z",
     "size": 105,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -4897,7 +4897,7 @@
     "lang": "C++",
     "pushed": "2026-11-15T01:32:35Z",
     "size": 16926,
-    "stars": 54
+    "stars": 55
    },
    "shots": []
   },
@@ -5389,7 +5389,9 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {},
+     "ex": {
+      "subs": true
+     },
      "mtl": true
     },
     "v": 1
@@ -5407,8 +5409,8 @@
     "desc": "Fan translation of Tokimeki Memorial 2 for PS1",
     "full": "jonny-anime/tokimeki-memorial-2-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-16T18:58:04Z",
-    "size": 5231,
+    "pushed": "2026-11-17T03:10:57Z",
+    "size": 5431,
     "stars": 9
    },
    "shots": [
@@ -5511,7 +5513,7 @@
     "lang": "C",
     "pushed": "2026-11-09T12:10:40Z",
     "size": 29955,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -6216,42 +6218,6 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/battle.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/inspect.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
-   ]
-  },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "ex": {
-      "subs": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-14T20:55:14Z",
-    "pre": false,
-    "tag": "1.0",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-14T20:55:14Z",
-    "size": 53008,
-    "stars": 33
-   },
-   "shots": [
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
    ]
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
@@ -7406,10 +7372,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-16T01:53:38Z",
+    "date": "2026-11-16T21:57:42Z",
     "pre": false,
-    "tag": "v1.6",
-    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.6"
+    "tag": "v1.7",
+    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.7"
    },
    "repo": {
     "archived": false,
@@ -7417,8 +7383,8 @@
     "desc": "English fan translation of Bealphareth (PSX)",
     "full": "minhnhattonthat/bealphareth-en",
     "lang": "Python",
-    "pushed": "2026-11-16T01:53:37Z",
-    "size": 24526,
+    "pushed": "2026-11-16T22:00:11Z",
+    "size": 25092,
     "stars": 1
    },
    "shots": []
@@ -7475,7 +7441,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T06:35:05Z",
     "size": 3408,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -7520,10 +7486,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-04T02:49:48Z",
+    "date": "2026-11-16T23:24:23Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/boundary-gate-daughter-of-kingdom-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/boundary-gate-daughter-of-kingdom-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -7531,8 +7497,8 @@
     "desc": "English fan translation of Boundary Gate: Daughter of Kingdom (PSX)",
     "full": "minhnhattonthat/boundary-gate-daughter-of-kingdom-en",
     "lang": "Python",
-    "pushed": "2026-11-07T05:55:42Z",
-    "size": 946,
+    "pushed": "2026-11-16T23:24:22Z",
+    "size": 1009,
     "stars": 1
    },
    "shots": []
@@ -8290,7 +8256,7 @@
     "lang": "Python",
     "pushed": "2026-11-13T21:03:02Z",
     "size": 461,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8315,8 +8281,8 @@
     "desc": "English fan translation of Granbo (GBA)",
     "full": "minhnhattonthat/granbo",
     "lang": "Python",
-    "pushed": "2026-11-14T05:40:42Z",
-    "size": 990,
+    "pushed": "2026-11-17T00:02:44Z",
+    "size": 1003,
     "stars": 0
    },
    "shots": []
@@ -9433,8 +9399,8 @@
     "desc": "English translation patch for Princess Maker: Legend of Another World (Super Famicom, 1995), with optional bug-fix and Quest-rework patches.",
     "full": "moonanon/princess-maker-another-world-en",
     "lang": "Python",
-    "pushed": "2026-11-13T22:28:49Z",
-    "size": 751,
+    "pushed": "2026-11-16T20:02:46Z",
+    "size": 786,
     "stars": 0
    },
    "shots": [
@@ -9659,11 +9625,18 @@
     "desc": "Unofficial English fan translation for The Quintessential Quintuplets: Five Promises Made with Her (Nintendo Switch). Machine-translated, all lines reviewed by hand. Requires your own copy of the game.",
     "full": "neriv18711/QQ-FivePromises-English",
     "lang": null,
-    "pushed": "2026-11-14T18:58:14Z",
-    "size": 2,
+    "pushed": "2026-11-16T19:53:02Z",
+    "size": 1384,
     "stars": 0
    },
-   "shots": []
+   "shots": [
+    "https://raw.githubusercontent.com/neriv18711/QQ-FivePromises-English/HEAD/images/1-title-ja.jpg",
+    "https://raw.githubusercontent.com/neriv18711/QQ-FivePromises-English/HEAD/images/1-title-en.jpg",
+    "https://raw.githubusercontent.com/neriv18711/QQ-FivePromises-English/HEAD/images/2-mode-ja.jpg",
+    "https://raw.githubusercontent.com/neriv18711/QQ-FivePromises-English/HEAD/images/2-mode-en.jpg",
+    "https://raw.githubusercontent.com/neriv18711/QQ-FivePromises-English/HEAD/images/3-confess-ja.jpg",
+    "https://raw.githubusercontent.com/neriv18711/QQ-FivePromises-English/HEAD/images/3-confess-en.jpg"
+   ]
   },
   "netrunner12/popful-mail-sfc-english-translation": {
    "assetOs": {},
@@ -10311,7 +10284,7 @@
     "lang": "Python",
     "pushed": "2026-10-31T15:10:18Z",
     "size": 65994,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -10341,7 +10314,7 @@
     "lang": "Python",
     "pushed": "2026-11-11T11:44:22Z",
     "size": 1269,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/RadMageIRL/dq1_2_snes_patch/HEAD/screenshots/leaf-softlock.png",
@@ -10375,8 +10348,8 @@
     "desc": "English text and cinematic subtitles for Cosmic Fantasy on PC Engine CD, preserving Japanese voices and artwork. Patch-only distribution.",
     "full": "randomprojectsfactory/cosmic-fantasy-pce-english",
     "lang": "Python",
-    "pushed": "2026-10-30T07:35:18Z",
-    "size": 704,
+    "pushed": "2026-11-17T01:32:08Z",
+    "size": 723,
     "stars": 5
    },
    "shots": [
@@ -10408,8 +10381,8 @@
     "desc": "English text, cinematic subtitles and larger dialogue font for Xak I & II on PC Engine CD. Patch-only distribution.",
     "full": "randomprojectsfactory/xak-i-ii-pce-english",
     "lang": "Python",
-    "pushed": "2026-10-27T09:33:52Z",
-    "size": 1562,
+    "pushed": "2026-11-17T01:32:06Z",
+    "size": 1581,
     "stars": 9
    },
    "shots": [
@@ -10683,10 +10656,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-16T11:24:45Z",
+    "date": "2026-11-17T03:38:43Z",
     "pre": false,
-    "tag": "v0.8.4",
-    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.4"
+    "tag": "v0.8.5",
+    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.5"
    },
    "repo": {
     "archived": false,
@@ -10694,9 +10667,9 @@
     "desc": "English translation patch for Tengai Makyou II: Manji Maru (GameCube).",
     "full": "retro-trans/Tengai-Makyou-II",
     "lang": "Python",
-    "pushed": "2026-11-16T11:35:09Z",
+    "pushed": "2026-11-17T03:50:34Z",
     "size": 118,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -10855,10 +10828,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-11T10:13:37Z",
+    "date": "2026-11-17T03:19:10Z",
     "pre": true,
-    "tag": "v0.6",
-    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.6"
+    "tag": "v0.7",
+    "url": "https://github.com/rikimtasu/th2dxp_en/releases/tag/v0.7"
    },
    "repo": {
     "archived": false,
@@ -10866,7 +10839,7 @@
     "desc": "English Translation Project for PS3 ver ToHeart2 DX PLUS (AI assisted)",
     "full": "rikimtasu/th2dxp_en",
     "lang": "Python",
-    "pushed": "2026-11-11T10:17:39Z",
+    "pushed": "2026-11-17T03:20:09Z",
     "size": 53223,
     "stars": 1
    },
@@ -11772,7 +11745,7 @@
     "lang": null,
     "pushed": "2026-11-12T22:33:17Z",
     "size": 158,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/01-title.png",
@@ -12089,7 +12062,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 259
+    "stars": 261
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -12147,7 +12120,7 @@
     "lang": null,
     "pushed": "2026-11-16T03:04:05Z",
     "size": 1400,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/vrieza/kamen-rider-battride-war-genesis-english-patch/HEAD/docs/screenshots/main-menu.jpg",
@@ -12279,8 +12252,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-16T05:49:39Z",
-    "size": 15489,
+    "pushed": "2026-11-17T03:50:26Z",
+    "size": 18297,
     "stars": 0
    },
    "shots": [
