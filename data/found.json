@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-18T01:01:50Z",
+ "generated": "2026-11-18T11:56:22Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9590,6 +9590,17 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-11-18T01:01:50Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -14954,19 +14965,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-11-17T16:15:25Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "3DS",
-   "src": "GitHub"
-  },
-  {
    "d": "Experimental native AOT port of Dyna Brothers 1 and 2 Special for Windows x64. Partial English translations, shared launcher and controller profiles.",
    "fa": "2026-11-18T01:01:50Z",
    "g": "Dyna Brothers1 2",
@@ -15015,6 +15013,71 @@
     "Human translation"
    ],
    "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Vattroller X (GBA)",
+   "fa": "2026-11-18T11:56:22Z",
+   "g": "Vattroller X",
+   "id": "minhnhattonthat/vattroller-x-en",
+   "k": "minhnhattonthat/vattroller-x-en",
+   "l": "https://github.com/minhnhattonthat/vattroller-x-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your ",
+   "fa": "2026-11-18T11:56:22Z",
+   "g": "YW4Recomp",
+   "id": "ilfforever/yw4recomp",
+   "k": "ilfforever/yw4recomp",
+   "l": "https://github.com/ILFforever/YW4Recomp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Switch",
+   "src": "GitHub"
+  },
+  {
+   "d": "A personal translation project for the SNES visual novel Yakouchuu",
+   "fa": "2026-11-18T11:56:22Z",
+   "g": "visual novel Yakouchuu",
+   "id": "syrofx/yakouchuu-fan-translation",
+   "k": "syrofx/yakouchuu-fan-translation",
+   "l": "https://github.com/syrofx/Yakouchuu-Fan-Translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Sengoku Kakumei Gaiden (GBA)",
+   "fa": "2026-11-18T11:56:22Z",
+   "g": "Sengoku Kakumei Gaiden",
+   "id": "minhnhattonthat/sengoku-kakumei-gaiden-en",
+   "k": "minhnhattonthat/sengoku-kakumei-gaiden-en",
+   "l": "https://github.com/minhnhattonthat/sengoku-kakumei-gaiden-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation v1.0 for Verne World (Super Famicom / SNES). BPS patch for the original Japanese ROM. Machine translation using Claude, AI-directed by Retch.",
+   "fa": "2026-11-18T11:56:22Z",
+   "g": "Verne World",
+   "id": "retcherez/verne-world-english",
+   "k": "retcherez/verne-world-english",
+   "l": "https://github.com/RetchERez/Verne-World-English",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "SNES",
    "src": "GitHub"
   },
   {
@@ -16635,51 +16698,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-17T03:59:43Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Bulk Slash (English Patch)",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
    "fa": "2026-11-17T16:15:25Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "Meremanoid English Patch",
-   "fa": "2026-11-18T01:01:50Z",
-   "g": "Meremanoid",
-   "id": "link:https://archive.org/details/meremanoid-english",
-   "l": "https://archive.org/details/meremanoid-english",
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-17T16:15:25Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "PS1",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-18T01:01:50Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-18T11:56:22Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-18T11:56:22Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {

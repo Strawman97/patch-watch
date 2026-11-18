@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-18T01:01:50Z",
+ "generated": "2026-11-18T11:56:22Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -56,7 +56,7 @@
     "lang": "C",
     "pushed": "2026-11-14T17:59:17Z",
     "size": 36199,
-    "stars": 18
+    "stars": 19
    },
    "shots": [
     "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
@@ -318,7 +318,7 @@
     "lang": "Batchfile",
     "pushed": "2026-11-06T23:23:46Z",
     "size": 523924,
-    "stars": 20
+    "stars": 21
    },
    "shots": []
   },
@@ -2686,7 +2686,7 @@
     "full": "damon-daemon/sangokushi-koumeiden-english",
     "lang": "Python",
     "pushed": "2026-11-18T00:21:26Z",
-    "size": 1307,
+    "size": 1308,
     "stars": 1
    },
    "shots": [
@@ -3549,6 +3549,35 @@
    },
    "shots": []
   },
+  "dickdebonair/brightis-fan-translation": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2025-06-29T01:07:40Z",
+    "pre": true,
+    "tag": "v0.0.1",
+    "url": "https://github.com/Dickdebonair/Brightis-fan-translation/releases/tag/v0.0.1"
+   },
+   "repo": {
+    "archived": true,
+    "created": "2024-07-27T16:46:29Z",
+    "desc": "A decompilation and eventual translation of the PSX game Brightis by fan(s)",
+    "full": "Dickdebonair/Brightis-fan-translation",
+    "lang": "Assembly",
+    "pushed": "2026-11-17T21:13:21Z",
+    "size": 214227,
+    "stars": 34
+   },
+   "shots": []
+  },
   "dol-translations/donkey-konga-3": {
    "assetOs": {},
    "readme": {
@@ -3774,7 +3803,7 @@
     "lang": "C++",
     "pushed": "2026-11-17T12:07:49Z",
     "size": 153628,
-    "stars": 50
+    "stars": 51
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
@@ -4011,10 +4040,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-17T01:08:51Z",
+    "date": "2026-11-18T02:11:05Z",
     "pre": false,
-    "tag": "v0.1.45",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.45"
+    "tag": "v0.1.46",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.46"
    },
    "repo": {
     "archived": false,
@@ -4022,8 +4051,8 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-17T03:32:12Z",
-    "size": 126051,
+    "pushed": "2026-11-18T02:11:04Z",
+    "size": 129093,
     "stars": 44
    },
    "shots": [
@@ -4551,6 +4580,36 @@
    },
    "shots": []
   },
+  "fiksr/our-world-is-ended-vita-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "port": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-17T21:44:32Z",
+    "pre": false,
+    "tag": "v0.1-beta",
+    "url": "https://github.com/fiksr/our-world-is-ended-vita-english-patch/releases/tag/v0.1-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-17T21:37:45Z",
+    "desc": "",
+    "full": "fiksr/our-world-is-ended-vita-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-17T21:44:31Z",
+    "size": 16,
+    "stars": 0
+   },
+   "shots": []
+  },
   "flukeylukey1/nappletaleengpatchfix": {
    "assetOs": {},
    "readme": {
@@ -4574,7 +4633,7 @@
     "lang": null,
     "pushed": "2026-08-27T12:32:04Z",
     "size": 8,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -4838,7 +4897,7 @@
     "lang": "C++",
     "pushed": "2026-10-30T23:29:59Z",
     "size": 105,
-    "stars": 5
+    "stars": 6
    },
    "shots": []
   },
@@ -4929,7 +4988,7 @@
     "lang": "C++",
     "pushed": "2026-11-15T01:32:35Z",
     "size": 16926,
-    "stars": 56
+    "stars": 58
    },
    "shots": []
   },
@@ -6252,6 +6311,42 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-14T20:55:14Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-14T20:55:14Z",
+    "size": 53008,
+    "stars": 33
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
+   ]
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -6512,8 +6607,8 @@
     "desc": "An attempt to create a patch for Narikiri Dungeon X (PSP).",
     "full": "lifebottle/Narikiri-Dungeon-X",
     "lang": "JavaScript",
-    "pushed": "2026-10-29T18:16:19Z",
-    "size": 21959,
+    "pushed": "2026-11-18T02:11:36Z",
+    "size": 22497,
     "stars": 61
    },
    "shots": [
@@ -7012,6 +7107,38 @@
     "https://i.imgur.com/D7JE22Q.jpg"
    ]
   },
+  "matymeatboy/dynabrothers1-2": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-18T10:50:06Z",
+    "pre": true,
+    "tag": "v0.1.7",
+    "url": "https://github.com/MatyMeatBoy/DynaBrothers1-2/releases/tag/v0.1.7"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-17T23:29:51Z",
+    "desc": "Experimental native AOT port of Dyna Brothers 1 and 2 Special for Windows x64. Partial English translations, shared launcher and controller profiles.",
+    "full": "MatyMeatBoy/DynaBrothers1-2",
+    "lang": "C",
+    "pushed": "2026-11-18T11:12:35Z",
+    "size": 7160,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBrothers1-2/HEAD/docs/images/launcher-v0.1.1.jpg"
+   ]
+  },
   "maxim-zhao/mappy-gg-translation": {
    "assetOs": {},
    "readme": {
@@ -7471,7 +7598,7 @@
     "desc": "English fan translation of Blaze Union: Story to Reach the Future (PSP)",
     "full": "minhnhattonthat/blaze-union-story-to-reach-the-future-en",
     "lang": "Python",
-    "pushed": "2026-11-17T11:01:38Z",
+    "pushed": "2026-11-18T11:50:39Z",
     "size": 3411,
     "stars": 3
    },
@@ -9409,7 +9536,7 @@
     "lang": "Python",
     "pushed": "2026-11-17T11:02:28Z",
     "size": 11638,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -9553,6 +9680,38 @@
    "shots": [
     "https://raw.githubusercontent.com/MoisesEliaquim/Bakuten_Shoot_Beyblade_Gekitou_Saikyou_Blader_English/HEAD/docs/images/daichi-intro.png",
     "https://raw.githubusercontent.com/MoisesEliaquim/Bakuten_Shoot_Beyblade_Gekitou_Saikyou_Blader_English/HEAD/docs/images/character-stats.png"
+   ]
+  },
+  "moldy094/initial-d-street-stage-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-17T23:48:06Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/moldy094/initial-d-street-stage-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-17T23:47:44Z",
+    "desc": "english fan translation patch for initial d street stage on the PSP (ULJM-05093)",
+    "full": "moldy094/initial-d-street-stage-english",
+    "lang": null,
+    "pushed": "2026-11-18T00:12:29Z",
+    "size": 203,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/moldy094/initial-d-street-stage-english/HEAD/screenshots/boot.png",
+    "https://raw.githubusercontent.com/moldy094/initial-d-street-stage-english/HEAD/screenshots/driver_select.png",
+    "https://raw.githubusercontent.com/moldy094/initial-d-street-stage-english/HEAD/screenshots/mode_menu.png",
+    "https://raw.githubusercontent.com/moldy094/initial-d-street-stage-english/HEAD/screenshots/card_text.png"
    ]
   },
   "moonanon/princess-maker-another-world-en": {
@@ -9774,7 +9933,7 @@
     "lang": null,
     "pushed": "2026-11-13T13:38:46Z",
     "size": 2,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -12275,7 +12434,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 263
+    "stars": 265
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -12465,8 +12624,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-18T00:46:32Z",
-    "size": 13315,
+    "pushed": "2026-11-18T11:49:36Z",
+    "size": 16076,
     "stars": 0
    },
    "shots": [
