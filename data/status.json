@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-17T16:15:25Z",
+ "generated": "2026-11-18T01:01:50Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1978,7 +1978,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T19:08:35Z",
     "size": 103880,
-    "stars": 1
+    "stars": 3
    },
    "shots": []
   },
@@ -2267,10 +2267,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-13T21:31:13Z",
+    "date": "2026-11-17T18:14:47Z",
     "pre": true,
-    "tag": "v0.9.0",
-    "url": "https://github.com/damon-daemon/ishin-no-arashi-bakumatsu-shishiden-english/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/ishin-no-arashi-bakumatsu-shishiden-english/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -2278,8 +2278,8 @@
     "desc": "English translation patch (xdelta) for Ishin no Arashi: Bakumatsu Shishiden (PlayStation)",
     "full": "damon-daemon/ishin-no-arashi-bakumatsu-shishiden-english",
     "lang": "Python",
-    "pushed": "2026-11-17T15:55:40Z",
-    "size": 1735,
+    "pushed": "2026-11-17T18:14:47Z",
+    "size": 1739,
     "stars": 2
    },
    "shots": [
@@ -2674,10 +2674,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T19:16:42Z",
+    "date": "2026-11-18T00:21:26Z",
     "pre": true,
-    "tag": "v0.9.5",
-    "url": "https://github.com/damon-daemon/sangokushi-koumeiden-english/releases/tag/v0.9.5"
+    "tag": "v0.9.6",
+    "url": "https://github.com/damon-daemon/sangokushi-koumeiden-english/releases/tag/v0.9.6"
    },
    "repo": {
     "archived": false,
@@ -2685,8 +2685,8 @@
     "desc": "English fan translation patch for Sangokushi Koumeiden (PlayStation)",
     "full": "damon-daemon/sangokushi-koumeiden-english",
     "lang": "Python",
-    "pushed": "2026-11-15T19:16:42Z",
-    "size": 1278,
+    "pushed": "2026-11-18T00:21:26Z",
+    "size": 1307,
     "stars": 1
    },
    "shots": [
@@ -2972,6 +2972,7 @@
      "cov": "Complete",
      "ex": {
       "gfx": true,
+      "restore": true,
       "subs": true
      }
     },
@@ -2981,10 +2982,10 @@
     "filehost"
    ],
    "release": {
-    "date": "2026-05-09T13:45:59Z",
+    "date": "2026-11-17T18:41:25Z",
     "pre": false,
-    "tag": "1.2",
-    "url": "https://github.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast/releases/tag/1.2"
+    "tag": "1.3",
+    "url": "https://github.com/DerekPascarella/CoolCoolToon-EnglishPatchDreamcast/releases/tag/1.3"
    },
    "repo": {
     "archived": false,
@@ -2992,9 +2993,9 @@
     "desc": "English translation patch for the Sega Dreamcast game \"Cool Cool Toon\".",
     "full": "DerekPascarella/CoolCoolToon-EnglishPatchDreamcast",
     "lang": "Perl",
-    "pushed": "2026-05-09T13:46:30Z",
-    "size": 3914,
-    "stars": 25
+    "pushed": "2026-11-17T18:41:24Z",
+    "size": 3920,
+    "stars": 27
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
@@ -4521,6 +4522,35 @@
    },
    "shots": []
   },
+  "fiksr/gnosia-vita-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-17T14:22:29Z",
+    "pre": false,
+    "tag": "v0.2-beta",
+    "url": "https://github.com/fiksr/gnosia-vita-english-patch/releases/tag/v0.2-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-17T12:20:56Z",
+    "desc": "",
+    "full": "fiksr/gnosia-vita-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-17T14:27:23Z",
+    "size": 28,
+    "stars": 0
+   },
+   "shots": []
+  },
   "flukeylukey1/nappletaleengpatchfix": {
    "assetOs": {},
    "readme": {
@@ -4899,7 +4929,7 @@
     "lang": "C++",
     "pushed": "2026-11-15T01:32:35Z",
     "size": 16926,
-    "stars": 55
+    "stars": 56
    },
    "shots": []
   },
@@ -4978,7 +5008,7 @@
     "lang": "Python",
     "pushed": "2026-11-01T03:40:20Z",
     "size": 5563,
-    "stars": 12
+    "stars": 13
    },
    "shots": []
   },
@@ -6222,42 +6252,6 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "ex": {
-      "subs": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-14T20:55:14Z",
-    "pre": false,
-    "tag": "1.0",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-14T20:55:14Z",
-    "size": 53008,
-    "stars": 33
-   },
-   "shots": [
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
-   ]
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -6889,8 +6883,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-16T16:35:34Z",
-    "size": 92119,
+    "pushed": "2026-11-17T23:54:05Z",
+    "size": 92120,
     "stars": 103
    },
    "shots": [
@@ -9021,6 +9015,35 @@
     "pushed": "2026-11-17T11:03:57Z",
     "size": 617,
     "stars": 3
+   },
+   "shots": []
+  },
+  "minhnhattonthat/shingata-medarot-kuwagata-version-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-17T08:53:10Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/shingata-medarot-kuwagata-version-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-16T13:15:33Z",
+    "desc": "English fan translation of Shingata Medarot: Kuwagata Version (GBA)",
+    "full": "minhnhattonthat/shingata-medarot-kuwagata-version-en",
+    "lang": "Python",
+    "pushed": "2026-11-17T08:53:10Z",
+    "size": 4002,
+    "stars": 0
    },
    "shots": []
   },
@@ -11559,7 +11582,7 @@
     "lang": null,
     "pushed": "2026-09-27T07:35:11Z",
     "size": 1688,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/SmokeJ-Git/letsgo-eternal-wings-english/HEAD/screenshots/screenshot-1-dialogue.png",
@@ -12252,7 +12275,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 262
+    "stars": 263
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -12442,8 +12465,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-17T03:50:26Z",
-    "size": 13267,
+    "pushed": "2026-11-18T00:46:32Z",
+    "size": 13315,
     "stars": 0
    },
    "shots": [
