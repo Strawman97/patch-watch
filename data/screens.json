@@ -5905,6 +5905,11 @@
    "shots": [],
    "tv": 3
   },
+  "dynabrocollection dyna brothers 1 2 native windows x64 recompilation and|29": {
+   "checked": "2026-11-18T20:42:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "dynami tracer|19": {
    "anyPlat": true,
    "checked": "2026-10-22T21:45:23Z",
@@ -20511,6 +20516,11 @@
    "shots": [],
    "tv": 3
   },
+  "stadium0english patcher|4": {
+   "checked": "2026-11-18T20:42:40Z",
+   "shots": [],
+   "tv": 3
+  },
   "stafy source|24": {
    "checked": "2026-10-30T22:29:19Z",
    "shots": [],
@@ -21958,6 +21968,20 @@
     "scarun",
     "scaruo",
     "scarum"
+   ],
+   "tv": 3
+  },
+  "taiko risshiden iii|7": {
+   "checked": "2026-11-18T20:42:40Z",
+   "cover": "cocz17",
+   "id": 123115,
+   "match": 1.0,
+   "name": "Taikou Risshiden III",
+   "shots": [
+    "sc15csk",
+    "sc15csl",
+    "sc15csh",
+    "sc15csi"
    ],
    "tv": 3
   },
@@ -25437,7 +25461,7 @@
    "tv": 3
   }
  },
- "generated": "2026-11-18T11:56:22Z",
+ "generated": "2026-11-18T20:42:40Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -25538,6 +25562,7 @@
   "damon-daemon/sangokushi-ds-3-english": "sangokushi ds 3|20",
   "damon-daemon/sangokushi-eiketsuden-english": "sangokushi eiketsuden|7",
   "damon-daemon/sangokushi-koumeiden-english": "sangokushi koumeiden|7",
+  "damon-daemon/taiko-risshiden-3-english": "taiko risshiden iii|7",
   "damon-daemon/taiko-risshiden-4-english": "taiko risshiden iv|8",
   "damon-daemon/taiko-risshiden-5-english": "taiko risshiden v|8",
   "davybirth/kyoei-toshi": "kyoei toshi|48",
@@ -25599,6 +25624,7 @@
   "fiksr/our-world-is-ended-vita-english-patch": "our world is ended vita|46",
   "flukeylukey1/nappletaleengpatchfix": "napple tale arsia in daydream|23",
   "gagnonpl/spriggan-en": "seirei senshi spriggan|150",
+  "gamebeast92/stadium0englishpatcher": "stadium0english patcher|4",
   "gameblabla/divi-dead": "divi dead|38",
   "ganyu2404/kiri-3ds-universal-translator": "kiri 3ds universal translator|37",
   "gazefst/digimon-story-lost-evolution-indonesia-patch-nds": "digimon story lost evolution indonesia|20",
@@ -25657,6 +25683,7 @@
   "karas84/projectzeroundub": "project zero|8",
   "katiisu/arthur-to-astaroth-no-nazo-makaimura-english": "arthur and astaroths mysterious ghosts n goblins incredible toons|7",
   "kenyates88/wild-card-english": "squaresofts wonderswan exclusive card based rpg|57",
+  "kenzie-1377/dqxi-3ds-english-patch": "dqxi|37",
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd edition|9",
   "kodakwizard/hikaru-no-go-3-english": "hikaru no go 3|21",
   "kodakwizard/hikaru-no-go-insei-english": "hikaru no go insei|7",
@@ -25770,10 +25797,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
-  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -25809,6 +25836,7 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
+  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -25831,7 +25859,6 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
-  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -25908,11 +25935,13 @@
   "link:https://archive.org/details/maken_x_undub_patch": "maken x|23",
   "link:https://archive.org/details/maximo_undub_patch": "maximo ghosts to glory|8",
   "link:https://archive.org/details/medarot-ds-kabuto-ver.-english-patch": "medarot ds kabuto ver|37",
+  "link:https://archive.org/details/mega-man-x-4_202611": "mega man x4|7",
   "link:https://archive.org/details/mega_man_mhx_undub_patch": "mega man maverick hunter x|38",
   "link:https://archive.org/details/mega_man_pu_undub_patch": "mega man powered up|38",
   "link:https://archive.org/details/mega_man_x7_ps2_undub_patch": "mega man x7|8",
   "link:https://archive.org/details/mega_man_x_cm_ps2_undub_patch": "mega man x command mission|8",
   "link:https://archive.org/details/megami-tensei-2-materials": "digital devil story megami tensei ii|18",
+  "link:https://archive.org/details/meremanoid-english": "meremanoid|7",
   "link:https://archive.org/details/metal-max-2-eng-1.0": "metal max 2|19",
   "link:https://archive.org/details/mgf-english-patch-v-1.00": "mgf|46",
   "link:https://archive.org/details/miho-nakayamas-tokimeki-high-school-manual": "nakayama miho no tokimeki high school|51",
@@ -25950,7 +25979,6 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
-  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
@@ -25970,7 +25998,6 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
-  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
   "link:https://archive.org/details/summon-night-5-undub": "summon night 5|38",
@@ -26193,7 +26220,6 @@
   "link:https://romhackplaza.org/translations/street-fighter-alpha-3-english-translation-sega-saturn": "sega|32",
   "link:https://romhackplaza.org/translations/street-fighter-zero-3-english-translation-english-translation-sega-saturn": "street fighter zero 3|32",
   "link:https://romhackplaza.org/translations/super-fire-pro-wrestling-special-story-mode-translation-english-translation-snes": "super fire pro wrestling special|19",
-  "link:https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn": "sega|32",
   "link:https://romhackplaza.org/translations/super-uno-english-translation-snes": "super uno|19",
   "link:https://romhackplaza.org/translations/the-adventure-of-little-ralph-english-translation-english-translation-playstation": "chippoke ralph no daibouken the adventure of little ralph|7",
   "link:https://romhackplaza.org/translations/tiny-bullets-english-translation-playstation": "tiny bullets|7",
@@ -27431,6 +27457,7 @@
   "m-mayday/atelier-marie-gb": "marie no atelier gb|22",
   "marksharma1xy-del/trails3rd-psp-english-patch": "trails3rd|38",
   "masagrator/higurashienx": "higurashi no naku koro ni hou|130",
+  "matymeatboy/dynabrocollection": "dynabrocollection dyna brothers 1 2 native windows x64 recompilation and|29",
   "matymeatboy/dynabrothers1-2": "dyna brothers1 2|29",
   "maxim-zhao/mappy-gg-translation": "mappy|35",
   "mbanusic/oot-hr": "oot hr|130",
