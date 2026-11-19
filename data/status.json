@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-19T11:53:34Z",
+ "generated": "2026-11-19T20:48:57Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -3839,8 +3839,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-19T09:09:10Z",
-    "size": 157485,
+    "pushed": "2026-11-19T13:13:39Z",
+    "size": 157486,
     "stars": 51
    },
    "shots": [
@@ -4502,8 +4502,8 @@
     "desc": "Busin 0 - Wizardry Alternative Neo PS2 romhack translation",
     "full": "Fabulu/Busin0Translation",
     "lang": "Python",
-    "pushed": "2026-11-13T19:19:31Z",
-    "size": 23033,
+    "pushed": "2026-11-19T17:11:12Z",
+    "size": 23193,
     "stars": 5
    },
    "shots": []
@@ -4523,8 +4523,8 @@
     "desc": "Promo/download site for the Busin 0: Wizardry Alternative Neo (PS2) English fan translation — busin0-en.pages.dev",
     "full": "Fabulu/Busin0TranslationSite",
     "lang": "HTML",
-    "pushed": "2026-11-13T19:19:55Z",
-    "size": 30322,
+    "pushed": "2026-11-19T17:11:17Z",
+    "size": 31230,
     "stars": 3
    },
    "shots": []
@@ -5080,7 +5080,7 @@
     "lang": "C++",
     "pushed": "2026-11-15T01:32:35Z",
     "size": 16926,
-    "stars": 56
+    "stars": 57
    },
    "shots": []
   },
@@ -5251,9 +5251,9 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-19T10:17:55Z",
-    "size": 132364,
-    "stars": 38
+    "pushed": "2026-11-19T14:13:17Z",
+    "size": 132666,
+    "stars": 39
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen.jpg",
@@ -6405,6 +6405,28 @@
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
    ]
   },
+  "kare810/warfare2027": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-19T11:13:17Z",
+    "desc": "Tactical Cross-Platform, XR & Voice-Controlled FPS engineered in Unity 6 LTS (URP) with PS4 DualShock, Wwise/FMOD spatial audio, and multi-language localization.",
+    "full": "kare810/warfare2027",
+    "lang": null,
+    "pushed": "2026-11-19T11:30:01Z",
+    "size": 3,
+    "stars": 0
+   },
+   "shots": []
+  },
   "katiisu/arthur-to-astaroth-no-nazo-makaimura-english": {
    "assetOs": {
     "Windows": true
@@ -6469,6 +6491,40 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/battle.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/inspect.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
+   ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T20:48:48Z",
+    "pre": true,
+    "tag": "1.0-luma-boot-test1",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0-luma-boot-test1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-19T20:48:48Z",
+    "size": 53008,
+    "stars": 34
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
    ]
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
@@ -7102,8 +7158,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-17T23:54:05Z",
-    "size": 92120,
+    "pushed": "2026-11-19T13:34:54Z",
+    "size": 92119,
     "stars": 102
    },
    "shots": [
@@ -7140,7 +7196,7 @@
     "lang": null,
     "pushed": "2026-11-15T23:35:41Z",
     "size": 1051,
-    "stars": 6
+    "stars": 7
    },
    "shots": []
   },
@@ -7262,18 +7318,17 @@
     "patch": {
      "cov": "Partial",
      "ex": {
-      "gfx": true,
-      "restore": true
+      "gfx": true
      }
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-19T07:15:24Z",
-    "pre": false,
-    "tag": "v0.4.0",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.0"
+    "date": "2026-11-19T20:11:24Z",
+    "pre": true,
+    "tag": "v0.4.2",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.2"
    },
    "repo": {
     "archived": false,
@@ -7281,17 +7336,11 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-19T11:16:00Z",
-    "size": 48653,
+    "pushed": "2026-11-19T20:11:24Z",
+    "size": 48654,
     "stars": 3
    },
-   "shots": [
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-biography-v0.1.9.png",
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-original-mode-v0.1.9.png",
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-story-briefing-v0.1.9.png",
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-versus-stages-v0.1.9.png",
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/launcher-v0.1.1.jpg"
-   ]
+   "shots": []
   },
   "matymeatboy/dynabrothers1-2": {
    "assetOs": {},
@@ -7299,18 +7348,17 @@
     "patch": {
      "cov": "Partial",
      "ex": {
-      "gfx": true,
-      "restore": true
+      "gfx": true
      }
     },
     "v": 1
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-19T07:15:24Z",
-    "pre": false,
-    "tag": "v0.4.0",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.0"
+    "date": "2026-11-19T20:11:24Z",
+    "pre": true,
+    "tag": "v0.4.2",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.2"
    },
    "repo": {
     "archived": false,
@@ -7318,17 +7366,11 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-19T11:16:00Z",
-    "size": 48653,
+    "pushed": "2026-11-19T20:11:24Z",
+    "size": 48654,
     "stars": 3
    },
-   "shots": [
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-biography-v0.1.9.png",
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-original-mode-v0.1.9.png",
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-story-briefing-v0.1.9.png",
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-versus-stages-v0.1.9.png",
-    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/launcher-v0.1.1.jpg"
-   ]
+   "shots": []
   },
   "maxim-zhao/mappy-gg-translation": {
    "assetOs": {},
@@ -7820,6 +7862,33 @@
     "lang": "Python",
     "pushed": "2026-11-17T11:01:41Z",
     "size": 4719,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/bouken-ou-beet-vandel-vs-busters-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T10:20:55Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/bouken-ou-beet-vandel-vs-busters-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-18T07:34:38Z",
+    "desc": "English fan translation of Bouken-ou Beet: Vandel vs. Busters (NDS)",
+    "full": "minhnhattonthat/bouken-ou-beet-vandel-vs-busters-en",
+    "lang": "Python",
+    "pushed": "2026-11-19T10:20:55Z",
+    "size": 2473,
     "stars": 0
    },
    "shots": []
@@ -9868,7 +9937,7 @@
     "desc": "English translation patch for Duel Masters: Birth of the Super Dragon (PS2, SLPM-65882), including story/UI text and all 677 cards.",
     "full": "misty-dive/duel-masters-botsd-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-17T00:43:49Z",
+    "pushed": "2026-11-19T16:17:16Z",
     "size": 896,
     "stars": 5
    },
@@ -10606,7 +10675,7 @@
     "lang": "Python",
     "pushed": "2026-11-13T22:06:19Z",
     "size": 3902,
-    "stars": 87
+    "stars": 88
    },
    "shots": []
   },
@@ -11003,7 +11072,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T22:05:18Z",
     "size": 3965,
-    "stars": 15
+    "stars": 16
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -11126,6 +11195,33 @@
     "pushed": "2026-11-04T15:22:30Z",
     "size": 4911,
     "stars": 3
+   },
+   "shots": []
+  },
+  "retro-trans/bounty-sword-first": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T09:41:47Z",
+    "pre": false,
+    "tag": "v0.5.20",
+    "url": "https://github.com/retro-trans/Bounty-Sword-First/releases/tag/v0.5.20"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-19T09:39:45Z",
+    "desc": "Translation patch of Bounty Sword First (PlayStation)",
+    "full": "retro-trans/Bounty-Sword-First",
+    "lang": "Python",
+    "pushed": "2026-11-19T09:41:56Z",
+    "size": 2193,
+    "stars": 0
    },
    "shots": []
   },
@@ -11337,7 +11433,7 @@
     "lang": null,
     "pushed": "2026-11-07T22:23:17Z",
     "size": 45,
-    "stars": 5
+    "stars": 6
    },
    "shots": []
   },
@@ -11397,7 +11493,7 @@
     "lang": "C",
     "pushed": "2026-11-15T20:15:24Z",
     "size": 101843,
-    "stars": 158
+    "stars": 159
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -12534,7 +12630,7 @@
     "lang": null,
     "pushed": "2026-11-17T11:00:02Z",
     "size": 6261,
-    "stars": 12
+    "stars": 13
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/game.png",
@@ -12670,7 +12766,7 @@
     "lang": "Python",
     "pushed": "2026-11-05T12:52:37Z",
     "size": 236,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/viruztt/snatcher-pce-english/HEAD/docs/screenshots/reception-dialogue.png",
@@ -12732,7 +12828,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 265
+    "stars": 268
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -12922,8 +13018,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-19T11:35:10Z",
-    "size": 16384,
+    "pushed": "2026-11-19T13:54:57Z",
+    "size": 16403,
     "stars": 0
    },
    "shots": [
