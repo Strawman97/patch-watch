@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-18T20:42:40Z",
+ "generated": "2026-11-19T02:39:49Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -27,7 +27,7 @@
     "lang": "HTML",
     "pushed": "2026-10-27T03:45:07Z",
     "size": 670,
-    "stars": 13
+    "stars": 12
    },
    "shots": [
     "https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21"
@@ -56,7 +56,7 @@
     "lang": "C",
     "pushed": "2026-11-14T17:59:17Z",
     "size": 36199,
-    "stars": 20
+    "stars": 19
    },
    "shots": [
     "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
@@ -350,7 +350,7 @@
     "lang": "Python",
     "pushed": "2026-11-03T00:23:19Z",
     "size": 2115,
-    "stars": 5
+    "stars": 4
    },
    "shots": []
   },
@@ -380,7 +380,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T07:53:05Z",
     "size": 425,
-    "stars": 4
+    "stars": 3
    },
    "shots": []
   },
@@ -1956,7 +1956,7 @@
     "lang": null,
     "pushed": "2026-11-05T22:26:47Z",
     "size": 55,
-    "stars": 4
+    "stars": 3
    },
    "shots": []
   },
@@ -2173,7 +2173,7 @@
     "lang": "C",
     "pushed": "2026-11-03T16:00:32Z",
     "size": 100101,
-    "stars": 5
+    "stars": 6
    },
    "shots": []
   },
@@ -2698,6 +2698,44 @@
     "https://raw.githubusercontent.com/damon-daemon/sangokushi-koumeiden-english/HEAD/docs/screenshots/06_sortie.png"
    ]
   },
+  "damon-daemon/taiko-risshiden-3-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-18T15:23:49Z",
+    "pre": true,
+    "tag": "v0.9.0",
+    "url": "https://github.com/damon-daemon/taiko-risshiden-3-english/releases/tag/v0.9.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-18T02:05:54Z",
+    "desc": "English translation patch for Taiko Risshiden III (PlayStation)",
+    "full": "damon-daemon/taiko-risshiden-3-english",
+    "lang": "Python",
+    "pushed": "2026-11-18T15:23:47Z",
+    "size": 1862,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-3-english/HEAD/docs/screenshots/title.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-3-english/HEAD/docs/screenshots/opening.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-3-english/HEAD/docs/screenshots/town.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-3-english/HEAD/docs/screenshots/person.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-3-english/HEAD/docs/screenshots/map.png",
+    "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-3-english/HEAD/docs/screenshots/tavern.png"
+   ]
+  },
   "damon-daemon/taiko-risshiden-4-english": {
    "assetOs": {},
    "readme": {
@@ -2762,7 +2800,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T01:40:56Z",
     "size": 5225,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/01_main_menu.png",
@@ -2887,7 +2925,7 @@
     "lang": "Perl",
     "pushed": "2026-05-08T11:35:05Z",
     "size": 3177,
-    "stars": 80
+    "stars": 79
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
@@ -2925,7 +2963,7 @@
     "lang": "Perl",
     "pushed": "2026-11-09T15:30:40Z",
     "size": 43933,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
@@ -3071,7 +3109,7 @@
     "lang": null,
     "pushed": "2025-12-16T02:38:13Z",
     "size": 41421,
-    "stars": 11
+    "stars": 10
    },
    "shots": [
     "https://raw.githubusercontent.com/DerekPascarella/UniversalDreamcastPatcher/main/screenshots/screenshot.png",
@@ -3312,7 +3350,7 @@
     "lang": "Perl",
     "pushed": "2022-03-05T15:34:36Z",
     "size": 13399,
-    "stars": 26
+    "stars": 25
    },
    "shots": []
   },
@@ -3837,7 +3875,7 @@
     "lang": "C++",
     "pushed": "2026-08-23T21:31:44Z",
     "size": 17680,
-    "stars": 248
+    "stars": 247
    },
    "shots": [
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo1.png",
@@ -3897,7 +3935,7 @@
     "lang": "Python",
     "pushed": "2026-07-27T20:45:48Z",
     "size": 327,
-    "stars": 6
+    "stars": 5
    },
    "shots": []
   },
@@ -4022,7 +4060,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-15T21:47:09Z",
     "size": 30129,
-    "stars": 10
+    "stars": 9
    },
    "shots": []
   },
@@ -4675,6 +4713,29 @@
     "https://raw.githubusercontent.com/gagnonpl/spriggan-en/HEAD/screenshots/act-title.png"
    ]
   },
+  "gamebeast92/stadium0englishpatcher": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-18T18:09:28Z",
+    "desc": "English translation patch for Pocket Monsters' Stadium!😎",
+    "full": "GameBeast92/PocketMonstersStadium-Eng-Patch",
+    "lang": "JavaScript",
+    "pushed": "2026-11-18T22:31:15Z",
+    "size": 4817,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/GameBeast92/PocketMonstersStadium-Eng-Patch/HEAD/CharizardBattle.png"
+   ]
+  },
   "gameblabla/divi-dead": {
    "noRelease": true,
    "readme": {
@@ -5129,8 +5190,8 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-18T16:55:02Z",
-    "size": 126860,
+    "pushed": "2026-11-19T02:10:24Z",
+    "size": 130107,
     "stars": 38
    },
    "shots": [
@@ -6349,6 +6410,42 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-14T20:55:14Z",
+    "pre": false,
+    "tag": "1.0",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-14T20:55:14Z",
+    "size": 53008,
+    "stars": 34
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
+   ]
+  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -6734,7 +6831,7 @@
     "lang": "Assembly",
     "pushed": "2026-08-26T01:37:35Z",
     "size": 91371,
-    "stars": 228
+    "stars": 226
    },
    "shots": [
     "https://user-images.githubusercontent.com/77897370/117694591-50db8180-b18d-11eb-852d-7aaedf63c962.png",
@@ -6982,7 +7079,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-17T23:54:05Z",
     "size": 92120,
-    "stars": 103
+    "stars": 102
    },
    "shots": [
     "https://raw.githubusercontent.com/liliambean/s3unlocked/HEAD/assets/title.png",
@@ -7045,7 +7142,7 @@
     "lang": null,
     "pushed": "2026-10-16T20:54:35Z",
     "size": 1589,
-    "stars": 34
+    "stars": 33
    },
    "shots": []
   },
@@ -7109,6 +7206,43 @@
     "https://i.imgur.com/D7JE22Q.jpg"
    ]
   },
+  "matymeatboy/dynabrocollection": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true,
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-18T23:28:01Z",
+    "pre": false,
+    "tag": "v0.3.0",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.3.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-17T23:29:51Z",
+    "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
+    "full": "MatyMeatBoy/DynaBroCollection",
+    "lang": "C",
+    "pushed": "2026-11-18T23:28:01Z",
+    "size": 48283,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-biography-v0.1.9.png",
+    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-original-mode-v0.1.9.png",
+    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-story-briefing-v0.1.9.png",
+    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-versus-stages-v0.1.9.png",
+    "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/launcher-v0.1.1.jpg"
+   ]
+  },
   "matymeatboy/dynabrothers1-2": {
    "assetOs": {},
    "readme": {
@@ -7123,10 +7257,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-18T18:15:52Z",
+    "date": "2026-11-18T23:28:01Z",
     "pre": false,
-    "tag": "v0.1.9",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.1.9"
+    "tag": "v0.3.0",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.3.0"
    },
    "repo": {
     "archived": false,
@@ -7134,8 +7268,8 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-18T20:28:33Z",
-    "size": 48403,
+    "pushed": "2026-11-18T23:28:01Z",
+    "size": 48283,
     "stars": 2
    },
    "shots": [
@@ -9201,11 +9335,11 @@
    "repo": {
     "archived": false,
     "created": "2026-11-16T13:15:33Z",
-    "desc": "English fan translation of Shingata Medarot: Kuwagata Version (GBA)",
+    "desc": "English fan translation of Shingata Medarot: Kuwagata Version and Kabuto Version (GBA)",
     "full": "minhnhattonthat/shingata-medarot-kuwagata-version-en",
     "lang": "Python",
-    "pushed": "2026-11-17T08:53:10Z",
-    "size": 4002,
+    "pushed": "2026-11-19T00:48:58Z",
+    "size": 4579,
     "stars": 0
    },
    "shots": []
@@ -9539,9 +9673,9 @@
     "desc": "English fan translation of Vattroller X (GBA)",
     "full": "minhnhattonthat/vattroller-x-en",
     "lang": "Python",
-    "pushed": "2026-11-18T11:48:38Z",
-    "size": 1576,
-    "stars": 0
+    "pushed": "2026-11-19T00:48:12Z",
+    "size": 1617,
+    "stars": 1
    },
    "shots": []
   },
@@ -11213,7 +11347,7 @@
     "lang": "C",
     "pushed": "2026-11-15T20:15:24Z",
     "size": 101843,
-    "stars": 159
+    "stars": 158
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -11690,7 +11824,7 @@
     "lang": null,
     "pushed": "2026-05-17T17:15:20Z",
     "size": 940,
-    "stars": 4
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/schil227/AdvanceFamicomWars/HEAD/images/map_view.png",
@@ -11725,7 +11859,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-07T11:39:16Z",
     "size": 3250,
-    "stars": 8
+    "stars": 7
    },
    "shots": []
   },
@@ -11792,10 +11926,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T18:30:05Z",
+    "date": "2026-11-18T21:32:39Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/sja-processes/bebop-translation/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/sja-processes/bebop-translation/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -11803,8 +11937,8 @@
     "desc": "English patch for the Famicom game Be-Bop Highschool - Koukousei Gokuraku Densetsu",
     "full": "sja-processes/bebop-translation",
     "lang": "Python",
-    "pushed": "2026-11-15T18:29:42Z",
-    "size": 377,
+    "pushed": "2026-11-18T21:32:22Z",
+    "size": 389,
     "stars": 0
    },
    "shots": []
@@ -12296,7 +12430,7 @@
     "lang": null,
     "pushed": "2026-10-21T16:54:17Z",
     "size": 125,
-    "stars": 8
+    "stars": 7
    },
    "shots": []
   },
@@ -12459,7 +12593,7 @@
     "lang": "Assembly",
     "pushed": "2021-11-08T19:31:48Z",
     "size": 88127,
-    "stars": 36
+    "stars": 35
    },
    "shots": []
   },

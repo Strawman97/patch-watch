@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-18T20:42:40Z",
+ "generated": "2026-11-19T02:39:49Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9590,6 +9590,17 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-11-19T02:39:49Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
+   "l": "https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -15109,16 +15120,42 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-11-18T20:42:40Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "d": "Advanced Daisenryaku (Mega Drive, 1991) as a native Mac and Windows game, translated into English, German, French and Spanish – static recompilation, bring your own ROM",
+   "fa": "2026-11-19T02:39:49Z",
+   "g": "Advanced Daisenryaku",
+   "id": "hexporter/advanced-daisenryaku",
+   "k": "hexporter/advanced-daisenryaku",
+   "l": "https://github.com/hexporter/advanced-daisenryaku",
    "lb": [
     "Human translation"
    ],
-   "p": "3DS",
+   "p": "Mega Drive",
+   "src": "GitHub"
+  },
+  {
+   "d": "A PSP game translation, one of the only if not only RTS games for PSP, now for the first time in English.",
+   "fa": "2026-11-19T02:39:49Z",
+   "g": "Mokuba no Kiseki",
+   "id": "lunamoo/mokuba-no-kiseki-english-patch",
+   "k": "lunamoo/mokuba-no-kiseki-english-patch",
+   "l": "https://github.com/LunaMoo/Mokuba-no-Kiseki-English-Patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "English localization backport patch for Dungeon Travelers 2-2 on PlayStation Vita (PCSG00841) and Vita3K",
+   "fa": "2026-11-19T02:39:49Z",
+   "g": "Dungeon Travelers 2-2",
+   "id": "fiksr/dungeon-travelers-2-2-vita-english-patch",
+   "k": "fiksr/dungeon-travelers-2-2-vita-english-patch",
+   "l": "https://github.com/fiksr/dungeon-travelers-2-2-vita-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS Vita",
    "src": "GitHub"
   },
   {
@@ -16739,51 +16776,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Meremanoid English Patch",
-   "fa": "2026-11-18T01:01:50Z",
-   "g": "Meremanoid",
-   "id": "link:https://archive.org/details/meremanoid-english",
-   "l": "https://archive.org/details/meremanoid-english",
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-18T11:56:22Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
    "lb": [
     "Human translation"
    ],
-   "p": "PS1",
+   "p": "PS3",
    "src": "Internet Archive"
   },
   {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-18T01:01:50Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-18T11:56:22Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-18T11:56:22Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Bulk Slash (English Patch)",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
    "fa": "2026-11-18T20:42:40Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-18T20:42:40Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
