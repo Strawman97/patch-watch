@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-19T02:39:49Z",
+ "generated": "2026-11-19T11:53:34Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9590,17 +9590,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-11-19T02:39:49Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -15120,6 +15109,19 @@
    "src": "GitHub"
   },
   {
+   "d": "Work in progress",
+   "fa": "2026-11-18T20:42:40Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "d": "Advanced Daisenryaku (Mega Drive, 1991) as a native Mac and Windows game, translated into English, German, French and Spanish – static recompilation, bring your own ROM",
    "fa": "2026-11-19T02:39:49Z",
    "g": "Advanced Daisenryaku",
@@ -15156,6 +15158,45 @@
     "Human translation"
    ],
    "p": "PS Vita",
+   "src": "GitHub"
+  },
+  {
+   "d": "Tactical Cross-Platform, XR & Voice-Controlled FPS engineered in Unity 6 LTS (URP) with PS4 DualShock, Wwise/FMOD spatial audio, and multi-language localization.",
+   "fa": "2026-11-19T11:53:34Z",
+   "g": "Warfare2027",
+   "id": "kare810/warfare2027",
+   "k": "kare810/warfare2027",
+   "l": "https://github.com/kare810/warfare2027",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS4",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Bouken-ou Beet: Vandel vs. Busters (NDS)",
+   "fa": "2026-11-19T11:53:34Z",
+   "g": "Bouken-ou Beet: Vandel vs",
+   "id": "minhnhattonthat/bouken-ou-beet-vandel-vs-busters-en",
+   "k": "minhnhattonthat/bouken-ou-beet-vandel-vs-busters-en",
+   "l": "https://github.com/minhnhattonthat/bouken-ou-beet-vandel-vs-busters-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "Translation patch of Bounty Sword First (PlayStation)",
+   "fa": "2026-11-19T11:53:34Z",
+   "g": "Bounty Sword First",
+   "id": "retro-trans/bounty-sword-first",
+   "k": "retro-trans/bounty-sword-first",
+   "l": "https://github.com/retro-trans/Bounty-Sword-First",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
    "src": "GitHub"
   },
   {
@@ -16776,51 +16817,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-18T11:56:22Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-18T20:42:40Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
     "Human translation"
    ],
-   "p": "PS3",
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-18T11:56:22Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "d": "Meremanoid English Patch",
+   "fa": "2026-11-19T02:39:49Z",
+   "g": "Meremanoid",
+   "id": "link:https://archive.org/details/meremanoid-english",
+   "l": "https://archive.org/details/meremanoid-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-19T02:39:49Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
    ],
-   "p": "PS2",
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-18T20:42:40Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-11-19T11:53:34Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-18T20:42:40Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {

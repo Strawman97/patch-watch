@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-19T02:39:49Z",
+ "generated": "2026-11-19T11:53:34Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -81,13 +81,13 @@
     "date": "2026-11-17T12:39:18Z",
     "pre": false,
     "tag": "v1.1.0",
-    "url": "https://github.com/ACR-GD/tengai-makyou-2-english/releases/tag/v1.1.0"
+    "url": "https://github.com/second-save/tengai-makyou-2-english/releases/tag/v1.1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-10T09:37:26Z",
     "desc": "English translation patch for Tengai Makyou II: Manji Maru (Nintendo DS) — Far East of Eden II: Manjimaru",
-    "full": "ACR-GD/tengai-makyou-2-english",
+    "full": "second-save/tengai-makyou-2-english",
     "lang": "Python",
     "pushed": "2026-11-17T12:39:18Z",
     "size": 284,
@@ -3315,7 +3315,7 @@
     "lang": "Perl",
     "pushed": "2023-03-08T20:09:04Z",
     "size": 7319,
-    "stars": 22
+    "stars": 23
    },
    "shots": []
   },
@@ -3839,8 +3839,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-18T15:55:50Z",
-    "size": 157316,
+    "pushed": "2026-11-19T09:09:10Z",
+    "size": 157485,
     "stars": 51
    },
    "shots": [
@@ -4558,6 +4558,37 @@
    },
    "shots": []
   },
+  "fiksr/dungeon-travelers-2-2-vita-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "port": true,
+      "uncensor": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-18T20:57:41Z",
+    "pre": false,
+    "tag": "v0.1-beta",
+    "url": "https://github.com/fiksr/dungeon-travelers-2-2-vita-english-patch/releases/tag/v0.1-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-18T20:57:15Z",
+    "desc": "English localization backport patch for Dungeon Travelers 2-2 on PlayStation Vita (PCSG00841) and Vita3K",
+    "full": "fiksr/dungeon-travelers-2-2-vita-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-18T21:09:59Z",
+    "size": 20,
+    "stars": 0
+   },
+   "shots": []
+  },
   "fiksr/eve-burst-error-r-vita-english-patch": {
    "assetOs": {},
    "readme": {
@@ -4601,10 +4632,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-17T14:22:29Z",
+    "date": "2026-11-19T09:21:56Z",
     "pre": false,
-    "tag": "v0.2-beta",
-    "url": "https://github.com/fiksr/gnosia-vita-english-patch/releases/tag/v0.2-beta"
+    "tag": "v0.3-beta",
+    "url": "https://github.com/fiksr/gnosia-vita-english-patch/releases/tag/v0.3-beta"
    },
    "repo": {
     "archived": false,
@@ -4612,8 +4643,8 @@
     "desc": "",
     "full": "fiksr/gnosia-vita-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-17T14:27:23Z",
-    "size": 28,
+    "pushed": "2026-11-19T09:21:56Z",
+    "size": 41,
     "stars": 0
    },
    "shots": []
@@ -5049,7 +5080,7 @@
     "lang": "C++",
     "pushed": "2026-11-15T01:32:35Z",
     "size": 16926,
-    "stars": 58
+    "stars": 56
    },
    "shots": []
   },
@@ -5132,6 +5163,38 @@
    },
    "shots": []
   },
+  "hexporter/advanced-daisenryaku": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T10:04:17Z",
+    "pre": false,
+    "tag": "v0.1.1",
+    "url": "https://github.com/hexporter/advanced-daisenryaku/releases/tag/v0.1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-18T21:50:00Z",
+    "desc": "Advanced Daisenryaku (Mega Drive, 1991) as a native Mac and Windows game, translated into English, German, French and Spanish – static recompilation, bring your own ROM",
+    "full": "hexporter/advanced-daisenryaku",
+    "lang": "Python",
+    "pushed": "2026-11-19T10:04:17Z",
+    "size": 1626,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/hexporter/advanced-daisenryaku/HEAD/docs/images/zoomed-map.png",
+    "https://raw.githubusercontent.com/hexporter/advanced-daisenryaku/HEAD/docs/images/battle.png",
+    "https://raw.githubusercontent.com/hexporter/advanced-daisenryaku/HEAD/docs/images/briefing.png"
+   ]
+  },
   "hypermegacrash/mmtextgadget": {
    "assetOs": {},
    "readme": {
@@ -5166,9 +5229,7 @@
    ]
   },
   "ilfforever/yw4recomp": {
-   "assetOs": {
-    "Windows": true
-   },
+   "assetOs": {},
    "readme": {
     "patch": {
      "ex": {
@@ -5179,10 +5240,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-18T16:53:31Z",
+    "date": "2026-11-19T09:41:44Z",
     "pre": false,
-    "tag": "launcher-v1.4.0",
-    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/launcher-v1.4.0"
+    "tag": "v1.8.0",
+    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/v1.8.0"
    },
    "repo": {
     "archived": false,
@@ -5190,8 +5251,8 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-19T02:10:24Z",
-    "size": 130107,
+    "pushed": "2026-11-19T10:17:55Z",
+    "size": 132364,
     "stars": 38
    },
    "shots": [
@@ -5701,7 +5762,7 @@
     "desc": "Static recompilation of Sailor Moon: Another Story (SNES) for Windows 10 and 11. English translation v2.08 required; ROM not included.",
     "full": "Junior-Jones/Sailor-Moon-Another-Story-SNES-Static-Recomp",
     "lang": "C",
-    "pushed": "2026-11-18T12:53:13Z",
+    "pushed": "2026-11-19T08:06:56Z",
     "size": 30109,
     "stars": 4
    },
@@ -6410,42 +6471,6 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {
-    "Windows": true
-   },
-   "readme": {
-    "patch": {
-     "ex": {
-      "subs": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-14T20:55:14Z",
-    "pre": false,
-    "tag": "1.0",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-14T20:55:14Z",
-    "size": 53008,
-    "stars": 34
-   },
-   "shots": [
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
-   ]
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -6496,7 +6521,7 @@
     "lang": "Python",
     "pushed": "2026-11-13T15:30:33Z",
     "size": 22629,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/KodakWizard/hikaru-no-go-3-english/HEAD/screenshot-title-v101.png",
@@ -7119,6 +7144,31 @@
    },
    "shots": []
   },
+  "lunamoo/mokuba-no-kiseki-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-18T21:44:34Z",
+    "desc": "A PSP game translation, one of the only if not only RTS games for PSP, now for the first time in English.",
+    "full": "LunaMoo/Mokuba-no-Kiseki-English-Patch",
+    "lang": "C",
+    "pushed": "2026-11-18T21:55:37Z",
+    "size": 19404,
+    "stars": 0
+   },
+   "shots": []
+  },
   "m-mayday/atelier-marie-gb": {
    "assetOs": {},
    "readme": {
@@ -7220,10 +7270,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-18T23:28:01Z",
+    "date": "2026-11-19T07:15:24Z",
     "pre": false,
-    "tag": "v0.3.0",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.3.0"
+    "tag": "v0.4.0",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.0"
    },
    "repo": {
     "archived": false,
@@ -7231,9 +7281,9 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-18T23:28:01Z",
-    "size": 48283,
-    "stars": 2
+    "pushed": "2026-11-19T11:16:00Z",
+    "size": 48653,
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-biography-v0.1.9.png",
@@ -7257,10 +7307,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-18T23:28:01Z",
+    "date": "2026-11-19T07:15:24Z",
     "pre": false,
-    "tag": "v0.3.0",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.3.0"
+    "tag": "v0.4.0",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.0"
    },
    "repo": {
     "archived": false,
@@ -7268,9 +7318,9 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-18T23:28:01Z",
-    "size": 48283,
-    "stars": 2
+    "pushed": "2026-11-19T11:16:00Z",
+    "size": 48653,
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/MatyMeatBoy/DynaBroCollection/HEAD/docs/images/db2-biography-v0.1.9.png",
@@ -9902,7 +9952,7 @@
     "lang": null,
     "pushed": "2026-11-18T00:12:29Z",
     "size": 203,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/moldy094/initial-d-street-stage-english/HEAD/screenshots/boot.png",
@@ -11187,10 +11237,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-16T11:26:59Z",
+    "date": "2026-11-19T06:48:08Z",
     "pre": false,
-    "tag": "v0.9.1",
-    "url": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.1"
+    "tag": "v0.9.7",
+    "url": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.7"
    },
    "repo": {
     "archived": false,
@@ -11198,8 +11248,8 @@
     "desc": "English translation toolchain for Super Tokusatsu Taisen 2001 (PS1, SLPS-02863)",
     "full": "retro-trans/Super-Tokusatsu-Taisen-2001",
     "lang": "Python",
-    "pushed": "2026-11-17T08:16:16Z",
-    "size": 3561,
+    "pushed": "2026-11-19T06:51:43Z",
+    "size": 6178,
     "stars": 2
    },
    "shots": []
@@ -11968,7 +12018,7 @@
     "lang": null,
     "pushed": "2026-09-27T07:35:11Z",
     "size": 1688,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/SmokeJ-Git/letsgo-eternal-wings-english/HEAD/screenshots/screenshot-1-dialogue.png",
@@ -12872,8 +12922,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-18T11:49:36Z",
-    "size": 16182,
+    "pushed": "2026-11-19T11:35:10Z",
+    "size": 16384,
     "stars": 0
    },
    "shots": [
