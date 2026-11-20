@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-19T20:48:57Z",
+ "generated": "2026-11-20T02:25:27Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -738,7 +738,7 @@
     "lang": "Python",
     "pushed": "2026-10-19T18:47:36Z",
     "size": 14591,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -4987,8 +4987,8 @@
     "desc": "Play deSPIRIA (Dreamcast, English fan translation) natively on Windows with dream-recomp. Build-from-source kit: bring your own patched disc.",
     "full": "goodshepherd23/deSPIRIA-DreamRecomp",
     "lang": "C++",
-    "pushed": "2026-10-30T23:29:59Z",
-    "size": 105,
+    "pushed": "2026-11-19T21:46:18Z",
+    "size": 107,
     "stars": 6
    },
    "shots": []
@@ -5251,9 +5251,9 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-19T14:13:17Z",
-    "size": 132666,
-    "stars": 39
+    "pushed": "2026-11-20T02:21:02Z",
+    "size": 132823,
+    "stars": 40
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen.jpg",
@@ -6493,40 +6493,6 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {},
-   "readme": {
-    "patch": {
-     "ex": {
-      "subs": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-19T20:48:48Z",
-    "pre": true,
-    "tag": "1.0-luma-boot-test1",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0-luma-boot-test1"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-19T20:48:48Z",
-    "size": 53008,
-    "stars": 34
-   },
-   "shots": [
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
-   ]
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "noRelease": true,
    "readme": {
@@ -7219,8 +7185,8 @@
     "desc": "A PSP game translation, one of the only if not only RTS games for PSP, now for the first time in English.",
     "full": "LunaMoo/Mokuba-no-Kiseki-English-Patch",
     "lang": "C",
-    "pushed": "2026-11-18T21:55:37Z",
-    "size": 19404,
+    "pushed": "2026-11-20T02:01:46Z",
+    "size": 20821,
     "stars": 0
    },
    "shots": []
@@ -7325,10 +7291,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-19T20:11:24Z",
-    "pre": true,
-    "tag": "v0.4.2",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.2"
+    "date": "2026-11-20T01:53:53Z",
+    "pre": false,
+    "tag": "v0.4.3",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.3"
    },
    "repo": {
     "archived": false,
@@ -7336,8 +7302,8 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-19T20:11:24Z",
-    "size": 48654,
+    "pushed": "2026-11-20T01:53:45Z",
+    "size": 48796,
     "stars": 3
    },
    "shots": []
@@ -7355,10 +7321,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-19T20:11:24Z",
-    "pre": true,
-    "tag": "v0.4.2",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.2"
+    "date": "2026-11-20T01:53:53Z",
+    "pre": false,
+    "tag": "v0.4.3",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.3"
    },
    "repo": {
     "archived": false,
@@ -7366,8 +7332,8 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-19T20:11:24Z",
-    "size": 48654,
+    "pushed": "2026-11-20T01:53:45Z",
+    "size": 48796,
     "stars": 3
    },
    "shots": []
@@ -9320,6 +9286,33 @@
    },
    "shots": []
   },
+  "minhnhattonthat/sakura-note-ima-ni-tsunagaru-mirai-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T20:15:07Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/sakura-note-ima-ni-tsunagaru-mirai-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-19T08:40:42Z",
+    "desc": "English fan translation of Sakura Note: Ima ni Tsunagaru Mirai (NDS)",
+    "full": "minhnhattonthat/sakura-note-ima-ni-tsunagaru-mirai-en",
+    "lang": "Python",
+    "pushed": "2026-11-19T20:15:28Z",
+    "size": 1010,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/seijuu-maden-beasts-blades-en": {
    "assetOs": {},
    "readme": {
@@ -10174,7 +10167,7 @@
     "lang": "Batchfile",
     "pushed": "2026-10-30T14:47:52Z",
     "size": 2647,
-    "stars": 15
+    "stars": 14
    },
    "shots": []
   },
@@ -10752,6 +10745,30 @@
     "pushed": "2026-10-27T13:48:57Z",
     "size": 7,
     "stars": 10
+   },
+   "shots": []
+  },
+  "pokemongodb/wonderswan-claims": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-11T00:26:54Z",
+    "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
+    "full": "PokemonGoDB/wonderswan-claims",
+    "lang": "Python",
+    "pushed": "2026-11-20T01:10:11Z",
+    "size": 140,
+    "stars": 0
    },
    "shots": []
   },
@@ -12477,10 +12494,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-12T19:57:46Z",
+    "date": "2026-11-20T00:42:10Z",
     "pre": false,
-    "tag": "v0.3",
-    "url": "https://github.com/suddenlythis/linda3pce-english/releases/tag/v0.3"
+    "tag": "v1.0",
+    "url": "https://github.com/suddenlythis/linda3pce-english/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
@@ -12488,8 +12505,8 @@
     "desc": "Linda Cube (PC Engine) English Translation",
     "full": "suddenlythis/linda3pce-english",
     "lang": null,
-    "pushed": "2026-11-12T22:33:17Z",
-    "size": 158,
+    "pushed": "2026-11-20T01:46:03Z",
+    "size": 171,
     "stars": 1
    },
    "shots": [
@@ -12828,7 +12845,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 268
+    "stars": 269
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -13206,6 +13223,36 @@
     "pushed": "2026-11-13T19:06:48Z",
     "size": 8048,
     "stars": 5
+   },
+   "shots": []
+  },
+  "ztz909/megami-ibunroku-persona-pc-recompile": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gameplay": true,
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T18:01:19Z",
+    "pre": false,
+    "tag": "v1.0.0",
+    "url": "https://github.com/ztz909/megami-ibunroku-persona-pc-recompile/releases/tag/v1.0.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-19T17:30:18Z",
+    "desc": "Megami Ibunroku Persona (PS1, 1996) recompiled as a native Windows program with psxrecomp, in English with Redeted’s fan translation. No game data included – bring your own disc.",
+    "full": "ztz909/megami-ibunroku-persona-pc-recompile",
+    "lang": "C",
+    "pushed": "2026-11-19T18:01:19Z",
+    "size": 82,
+    "stars": 0
    },
    "shots": []
   }

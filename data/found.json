@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-19T20:48:57Z",
+ "generated": "2026-11-20T02:25:27Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9590,17 +9590,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-11-19T02:39:49Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -16854,51 +16843,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
    "fa": "2026-11-19T11:53:34Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PS3",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-19T11:53:34Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-19T20:48:57Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Meremanoid English Patch",
+   "fa": "2026-11-20T02:25:27Z",
+   "g": "Meremanoid",
+   "id": "link:https://archive.org/details/meremanoid-english",
+   "l": "https://archive.org/details/meremanoid-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-20T02:25:27Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
    ],
-   "p": "PS2",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-19T20:48:57Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-19T20:48:57Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {
