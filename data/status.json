@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-20T02:25:27Z",
+ "generated": "2026-11-20T11:55:04Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -688,7 +688,6 @@
    "readme": {
     "patch": {
      "ex": {
-      "gameplay": true,
       "subs": true
      },
      "mtl": true
@@ -697,10 +696,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T13:52:39Z",
+    "date": "2026-11-20T04:29:19Z",
     "pre": false,
-    "tag": "patches-2026-11-15",
-    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/patches-2026-11-15"
+    "tag": "2026-11-20",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/2026-11-20"
    },
    "repo": {
     "archived": false,
@@ -708,8 +707,8 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-15T22:56:37Z",
-    "size": 4932,
+    "pushed": "2026-11-20T06:17:25Z",
+    "size": 6911,
     "stars": 7
    },
    "shots": []
@@ -3839,8 +3838,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-19T13:13:39Z",
-    "size": 157486,
+    "pushed": "2026-11-20T10:14:16Z",
+    "size": 159150,
     "stars": 51
    },
    "shots": [
@@ -5240,10 +5239,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-19T09:41:44Z",
+    "date": "2026-11-20T11:53:13Z",
     "pre": false,
-    "tag": "v1.8.0",
-    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/v1.8.0"
+    "tag": "v2.0.1",
+    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/v2.0.1"
    },
    "repo": {
     "archived": false,
@@ -5251,9 +5250,9 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-20T02:21:02Z",
-    "size": 132823,
-    "stars": 40
+    "pushed": "2026-11-20T11:53:12Z",
+    "size": 134125,
+    "stars": 41
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen.jpg",
@@ -5578,12 +5577,14 @@
     },
     "v": 1
    },
-   "readmeLure": [],
+   "readmeLure": [
+    "filehost"
+   ],
    "release": {
-    "date": "2026-11-17T08:52:58Z",
+    "date": "2026-11-20T05:41:22Z",
     "pre": false,
-    "tag": "v1.2",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.2"
+    "tag": "v1.3",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.3"
    },
    "repo": {
     "archived": false,
@@ -5591,8 +5592,8 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-11-17T08:52:34Z",
-    "size": 1361,
+    "pushed": "2026-11-20T06:03:39Z",
+    "size": 1377,
     "stars": 1
    },
    "shots": [
@@ -7186,7 +7187,7 @@
     "full": "LunaMoo/Mokuba-no-Kiseki-English-Patch",
     "lang": "C",
     "pushed": "2026-11-20T02:01:46Z",
-    "size": 20821,
+    "size": 20829,
     "stars": 0
    },
    "shots": []
@@ -7291,10 +7292,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T01:53:53Z",
+    "date": "2026-11-20T02:54:23Z",
     "pre": false,
-    "tag": "v0.4.3",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.3"
+    "tag": "v0.5.0-beta.1",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.0-beta.1"
    },
    "repo": {
     "archived": false,
@@ -7302,8 +7303,8 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-20T01:53:45Z",
-    "size": 48796,
+    "pushed": "2026-11-20T02:53:53Z",
+    "size": 49107,
     "stars": 3
    },
    "shots": []
@@ -7321,10 +7322,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T01:53:53Z",
+    "date": "2026-11-20T02:54:23Z",
     "pre": false,
-    "tag": "v0.4.3",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.4.3"
+    "tag": "v0.5.0-beta.1",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.0-beta.1"
    },
    "repo": {
     "archived": false,
@@ -7332,8 +7333,8 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-20T01:53:45Z",
-    "size": 48796,
+    "pushed": "2026-11-20T02:53:53Z",
+    "size": 49107,
     "stars": 3
    },
    "shots": []
@@ -8080,8 +8081,8 @@
     "desc": "English fan translation of Dragon Knight 4 (SNES, Banpresto 1996)",
     "full": "minhnhattonthat/dragon-knight-4-en",
     "lang": "Python",
-    "pushed": "2026-10-30T00:06:48Z",
-    "size": 1102,
+    "pushed": "2026-11-20T10:58:15Z",
+    "size": 1121,
     "stars": 1
    },
    "shots": []
@@ -8417,7 +8418,7 @@
     "desc": "English fan translation of Genseishin Justirisers: Souchaku Chikyuu no Senshitachi (GBA)",
     "full": "minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en",
     "lang": "Python",
-    "pushed": "2026-11-15T05:35:45Z",
+    "pushed": "2026-11-20T11:42:42Z",
     "size": 983,
     "stars": 0
    },
@@ -9940,7 +9941,6 @@
    "noRelease": true,
    "readme": {
     "patch": {
-     "cov": "Partial",
      "ex": {}
     },
     "v": 1
@@ -9949,10 +9949,10 @@
    "repo": {
     "archived": false,
     "created": "2026-11-04T22:41:50Z",
-    "desc": "English translation for Shinseiki Odysselya for SNES, only the patch, no game files or tools.",
+    "desc": "English translation for Shinseiki Odysselya and Shinseiki Odysselya II for SNES, only the patch, no game files or tools.",
     "full": "mlastes1987/odysselya-eng",
     "lang": null,
-    "pushed": "2026-11-05T01:27:04Z",
+    "pushed": "2026-11-20T08:46:16Z",
     "size": 615,
     "stars": 0
    },
@@ -10766,8 +10766,8 @@
     "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
-    "pushed": "2026-11-20T01:10:11Z",
-    "size": 140,
+    "pushed": "2026-11-20T03:57:54Z",
+    "size": 65,
     "stars": 0
    },
    "shots": []
@@ -11254,10 +11254,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T15:22:52Z",
+    "date": "2026-11-20T08:40:01Z",
     "pre": false,
-    "tag": "v0.8.3",
-    "url": "https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/tag/v0.8.3"
+    "tag": "v0.9.0",
+    "url": "https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/tag/v0.9.0"
    },
    "repo": {
     "archived": false,
@@ -11265,8 +11265,8 @@
     "desc": "English translation of Gakkou de Atta Kowai Hanashi S (PS1, SLPS-00404) and the toolchain that builds it",
     "full": "retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S",
     "lang": "Python",
-    "pushed": "2026-11-17T08:17:16Z",
-    "size": 7187,
+    "pushed": "2026-11-20T08:39:01Z",
+    "size": 7619,
     "stars": 1
    },
    "shots": []
@@ -11566,7 +11566,7 @@
     "lang": "Python",
     "pushed": "2026-11-17T05:54:40Z",
     "size": 53587,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -12506,8 +12506,8 @@
     "full": "suddenlythis/linda3pce-english",
     "lang": null,
     "pushed": "2026-11-20T01:46:03Z",
-    "size": 171,
-    "stars": 1
+    "size": 187,
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/01-title.png",
@@ -13035,8 +13035,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-19T13:54:57Z",
-    "size": 16403,
+    "pushed": "2026-11-20T07:50:57Z",
+    "size": 16412,
     "stars": 0
    },
    "shots": [
