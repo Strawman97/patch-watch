@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-20T11:55:04Z",
+ "generated": "2026-11-20T20:32:33Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9590,17 +9590,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-11-20T02:25:27Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -15263,6 +15252,82 @@
    "src": "GitHub"
   },
   {
+   "d": "Translation patch of Getter Robo Daikessen! (PS1, SLPS-02232)",
+   "fa": "2026-11-20T20:32:33Z",
+   "g": "Getter Robo Daikessen!",
+   "id": "retro-trans/getter-robo-daikessen",
+   "k": "retro-trans/getter-robo-daikessen",
+   "l": "https://github.com/retro-trans/Getter-Robo-Daikessen",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English menus for Japanese 3DS consoles: translates the HOME Menu and System Settings with Luma3DS, without a region change. Builds the files from your own console’s dumps.",
+   "fa": "2026-11-20T20:32:33Z",
+   "g": "3Ds Japanese",
+   "id": "ilex-labs/3ds-japanese-english",
+   "k": "ilex-labs/3ds-japanese-english",
+   "l": "https://github.com/ilex-labs/3ds-japanese-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for Elminage Gothic on PSP (ULJM06091) and PPSSPP",
+   "fa": "2026-11-20T20:32:33Z",
+   "g": "Elminage Gothic",
+   "id": "fiksr/elminage-gothic-psp-english-patch",
+   "k": "fiksr/elminage-gothic-psp-english-patch",
+   "l": "https://github.com/fiksr/elminage-gothic-psp-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "fa": "2026-11-20T20:32:33Z",
+   "g": "Super Robot Wars K NDS AI Assisted",
+   "id": "gabalva98-hub/super-robot-wars-k-nds-english-translation---ai-assisted",
+   "k": "gabalva98-hub/super-robot-wars-k-nds-english-translation---ai-assisted",
+   "l": "https://github.com/gabalva98-hub/Super-Robot-Wars-K-NDS-English-Translation---AI-Assisted",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
+   "fa": "2026-11-20T20:32:33Z",
+   "g": "Super Robot Wars L Nds AI Assisted",
+   "id": "gabalva98-hub/-super-robot-wars-l-nds-english-translation-ai-assisted",
+   "k": "gabalva98-hub/-super-robot-wars-l-nds-english-translation-ai-assisted",
+   "l": "https://github.com/gabalva98-hub/-Super-Robot-Wars-L-Nds-English-Translation-AI-Assisted",
+   "lb": [
+    "Machine translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "The Adventures of Robin Lloyd (PS1) English Translation",
+   "fa": "2026-11-20T20:32:33Z",
+   "g": "The Adventures of Robin Lloyd",
+   "id": "suddenlythis/robinlloyd-psx-english",
+   "k": "suddenlythis/robinlloyd-psx-english",
+   "l": "https://github.com/suddenlythis/robinlloyd-psx-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -16880,51 +16945,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-19T20:48:57Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "d": "Meremanoid English Patch",
+   "fa": "2026-11-20T02:25:27Z",
+   "g": "Meremanoid",
+   "id": "link:https://archive.org/details/meremanoid-english",
+   "l": "https://archive.org/details/meremanoid-english",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-19T20:48:57Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-20T11:55:04Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-20T11:55:04Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-20T02:25:27Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
    ],
-   "p": "PS2",
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-11-20T11:55:04Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GameCube",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-20T20:32:33Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {

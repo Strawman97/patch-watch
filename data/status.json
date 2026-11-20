@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-20T11:55:04Z",
+ "generated": "2026-11-20T20:32:33Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -707,9 +707,9 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-20T06:17:25Z",
-    "size": 6911,
-    "stars": 7
+    "pushed": "2026-11-20T15:56:53Z",
+    "size": 6921,
+    "stars": 8
    },
    "shots": []
   },
@@ -3838,8 +3838,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-20T10:14:16Z",
-    "size": 159150,
+    "pushed": "2026-11-20T15:52:51Z",
+    "size": 159510,
     "stars": 51
    },
    "shots": [
@@ -4090,7 +4090,7 @@
     "lang": "Python",
     "pushed": "2026-11-18T02:11:04Z",
     "size": 129093,
-    "stars": 44
+    "stars": 45
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4553,7 +4553,7 @@
     "lang": "Python",
     "pushed": "2026-11-15T22:27:18Z",
     "size": 14906,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -4615,7 +4615,7 @@
     "lang": "Python",
     "pushed": "2026-11-16T14:41:50Z",
     "size": 23844,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -4704,6 +4704,44 @@
     "stars": 2
    },
    "shots": []
+  },
+  "fluttergust/valkyrie-undub": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-20T15:37:39Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/fluttergust/valkyrie-undub/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T09:21:17Z",
+    "desc": "Valkyrie Profile (PS1, USA) undub and single-disc xdelta3 patches",
+    "full": "fluttergust/valkyrie-undub",
+    "lang": "Python",
+    "pushed": "2026-11-20T15:37:35Z",
+    "size": 1668,
+    "stars": 5
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/vision_before.png",
+    "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/vision_after.png",
+    "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/fmv_before.png",
+    "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/fmv_after.png",
+    "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/portrait_before.png",
+    "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/portrait_after.png"
+   ]
   },
   "gagnonpl/spriggan-en": {
    "assetOs": {},
@@ -5250,9 +5288,9 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-20T11:53:12Z",
-    "size": 134125,
-    "stars": 41
+    "pushed": "2026-11-20T17:51:09Z",
+    "size": 134661,
+    "stars": 42
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen.jpg",
@@ -5577,14 +5615,12 @@
     },
     "v": 1
    },
-   "readmeLure": [
-    "filehost"
-   ],
+   "readmeLure": [],
    "release": {
-    "date": "2026-11-20T05:41:22Z",
+    "date": "2026-11-20T16:12:28Z",
     "pre": false,
-    "tag": "v1.3",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.3"
+    "tag": "v1.3.2",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.3.2"
    },
    "repo": {
     "archived": false,
@@ -5592,8 +5628,8 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-11-20T06:03:39Z",
-    "size": 1377,
+    "pushed": "2026-11-20T16:11:44Z",
+    "size": 1413,
     "stars": 1
    },
    "shots": [
@@ -6638,7 +6674,7 @@
     "lang": "Kotlin",
     "pushed": "2026-10-25T22:18:10Z",
     "size": 109,
-    "stars": 13
+    "stars": 14
    },
    "shots": []
   },
@@ -7163,7 +7199,7 @@
     "lang": null,
     "pushed": "2026-11-15T23:35:41Z",
     "size": 1051,
-    "stars": 7
+    "stars": 8
    },
    "shots": []
   },
@@ -7526,7 +7562,7 @@
     "lang": "Python",
     "pushed": "2026-07-26T07:06:08Z",
     "size": 479,
-    "stars": 4
+    "stars": 5
    },
    "shots": []
   },
@@ -8070,10 +8106,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-22T12:35:20Z",
+    "date": "2026-11-20T12:51:30Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/dragon-knight-4-en/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/minhnhattonthat/dragon-knight-4-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -8081,8 +8117,8 @@
     "desc": "English fan translation of Dragon Knight 4 (SNES, Banpresto 1996)",
     "full": "minhnhattonthat/dragon-knight-4-en",
     "lang": "Python",
-    "pushed": "2026-11-20T10:58:15Z",
-    "size": 1121,
+    "pushed": "2026-11-20T12:51:38Z",
+    "size": 1176,
     "stars": 1
    },
    "shots": []
@@ -8418,8 +8454,8 @@
     "desc": "English fan translation of Genseishin Justirisers: Souchaku Chikyuu no Senshitachi (GBA)",
     "full": "minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en",
     "lang": "Python",
-    "pushed": "2026-11-20T11:42:42Z",
-    "size": 983,
+    "pushed": "2026-11-20T19:45:00Z",
+    "size": 1025,
     "stars": 0
    },
    "shots": []
@@ -9937,10 +9973,32 @@
    },
    "shots": []
   },
+  "mlastes1987/namida": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T08:45:50Z",
+    "desc": "English translation for Far East of Eden (Tengai Makyou) III: Namida for PS2",
+    "full": "mlastes1987/namida",
+    "lang": "Python",
+    "pushed": "2026-11-20T08:49:50Z",
+    "size": 16,
+    "stars": 0
+   },
+   "shots": []
+  },
   "mlastes1987/odysselya-eng": {
    "noRelease": true,
    "readme": {
     "patch": {
+     "cov": "Partial",
      "ex": {}
     },
     "v": 1
@@ -9952,8 +10010,8 @@
     "desc": "English translation for Shinseiki Odysselya and Shinseiki Odysselya II for SNES, only the patch, no game files or tools.",
     "full": "mlastes1987/odysselya-eng",
     "lang": null,
-    "pushed": "2026-11-20T08:46:16Z",
-    "size": 615,
+    "pushed": "2026-11-20T17:03:02Z",
+    "size": 617,
     "stars": 0
    },
    "shots": [
@@ -10043,8 +10101,8 @@
     "desc": "English translation patch for Princess Maker: Legend of Another World (Super Famicom, 1995), with optional bug-fix and Quest-rework patches.",
     "full": "moonanon/princess-maker-another-world-en",
     "lang": "Python",
-    "pushed": "2026-11-16T20:02:46Z",
-    "size": 786,
+    "pushed": "2026-11-20T19:28:36Z",
+    "size": 830,
     "stars": 0
    },
    "shots": [
@@ -10766,8 +10824,8 @@
     "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
-    "pushed": "2026-11-20T03:57:54Z",
-    "size": 65,
+    "pushed": "2026-11-20T18:33:42Z",
+    "size": 68,
     "stars": 0
    },
    "shots": []
@@ -11089,7 +11147,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T22:05:18Z",
     "size": 3965,
-    "stars": 16
+    "stars": 17
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -12845,7 +12903,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 269
+    "stars": 270
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
