@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-21T02:31:55Z",
+ "generated": "2026-11-21T11:25:40Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -2810,6 +2810,27 @@
     "https://raw.githubusercontent.com/damon-daemon/taiko-risshiden-5-english/HEAD/docs/screenshots/06_council.png"
    ]
   },
+  "darkechibi/gunners-heaven-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T23:38:07Z",
+    "desc": "English fan translation patch for Gunner's Heaven (PS1 / SCPS-10006)",
+    "full": "Darkechibi/gunners-heaven-english",
+    "lang": "Python",
+    "pushed": "2026-11-20T23:38:16Z",
+    "size": 449,
+    "stars": 0
+   },
+   "shots": []
+  },
   "davybirth/kyoei-toshi": {
    "noRelease": true,
    "readme": {
@@ -3838,8 +3859,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-20T15:52:51Z",
-    "size": 159510,
+    "pushed": "2026-11-21T10:05:41Z",
+    "size": 164671,
     "stars": 51
    },
    "shots": [
@@ -4756,7 +4777,7 @@
     "lang": "Python",
     "pushed": "2026-11-20T15:37:35Z",
     "size": 1668,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/vision_before.png",
@@ -5196,7 +5217,7 @@
     "full": "GranasSabre/Grandia3-OpenSkies",
     "lang": "C++",
     "pushed": "2026-11-21T01:49:45Z",
-    "size": 16926,
+    "size": 17046,
     "stars": 57
    },
    "shots": []
@@ -5373,9 +5394,7 @@
    "shots": []
   },
   "ilfforever/yw4recomp": {
-   "assetOs": {
-    "Windows": true
-   },
+   "assetOs": {},
    "readme": {
     "patch": {
      "ex": {
@@ -5386,10 +5405,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T20:59:29Z",
+    "date": "2026-11-21T06:50:40Z",
     "pre": false,
-    "tag": "launcher-v1.6.0",
-    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/launcher-v1.6.0"
+    "tag": "v2.2.0",
+    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/v2.2.0"
    },
    "repo": {
     "archived": false,
@@ -5397,17 +5416,17 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-20T20:57:57Z",
-    "size": 136056,
-    "stars": 43
+    "pushed": "2026-11-21T07:10:08Z",
+    "size": 134844,
+    "stars": 45
    },
    "shots": [
-    "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen.jpg",
-    "https://i.ytimg.com/vi/Vnpo5EPti9w/maxresdefault.jpg",
-    "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/99-launcher.jpg",
-    "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/99-launcher-themes.jpg",
+    "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen-en.jpg",
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/82-shadows-stock-vs-improved.jpg",
-    "https://i.ytimg.com/vi/HfCrAkMDOzs/maxresdefault.jpg"
+    "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/83-ultrawide-play.jpg",
+    "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/11-hud-in-town.jpg",
+    "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/104-online-blasters-team.jpg",
+    "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/99-launcher.jpg"
    ]
   },
   "imphostil/kamen-rider-agito-ps1-ai-english-translation": {
@@ -5719,17 +5738,21 @@
    "assetOs": {},
    "readme": {
     "patch": {
-     "ex": {},
+     "ex": {
+      "fixes": true
+     },
      "mtl": true
     },
     "v": 1
    },
-   "readmeLure": [],
+   "readmeLure": [
+    "filehost"
+   ],
    "release": {
-    "date": "2026-11-20T16:12:28Z",
+    "date": "2026-11-21T11:09:52Z",
     "pre": false,
-    "tag": "v1.3.2",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.3.2"
+    "tag": "v1.4",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.4"
    },
    "repo": {
     "archived": false,
@@ -5737,7 +5760,7 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-11-20T16:11:44Z",
+    "pushed": "2026-11-21T11:23:10Z",
     "size": 1413,
     "stars": 1
    },
@@ -7449,7 +7472,7 @@
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
     "pushed": "2026-11-21T01:57:33Z",
-    "size": 49401,
+    "size": 49471,
     "stars": 3
    },
    "shots": []
@@ -7479,7 +7502,7 @@
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
     "pushed": "2026-11-21T01:57:33Z",
-    "size": 49401,
+    "size": 49471,
     "stars": 3
    },
    "shots": []
@@ -7961,10 +7984,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T00:51:03Z",
+    "date": "2026-11-21T05:30:42Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/bouken-ou-beet-busters-road-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/bouken-ou-beet-busters-road-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -7972,8 +7995,8 @@
     "desc": "English fan translation of Bouken-Ou Beet: Busters Road (GBA)",
     "full": "minhnhattonthat/bouken-ou-beet-busters-road-en",
     "lang": "Python",
-    "pushed": "2026-11-17T11:01:41Z",
-    "size": 4719,
+    "pushed": "2026-11-21T05:30:41Z",
+    "size": 4777,
     "stars": 0
    },
    "shots": []
@@ -9893,10 +9916,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-16T21:40:16Z",
+    "date": "2026-11-21T06:31:37Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/toyrobo-force-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/toyrobo-force-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -9904,8 +9927,8 @@
     "desc": "English fan translation of Toy Robo Force (GBA)",
     "full": "minhnhattonthat/toyrobo-force-en",
     "lang": "Python",
-    "pushed": "2026-11-16T22:03:14Z",
-    "size": 1610,
+    "pushed": "2026-11-21T06:34:46Z",
+    "size": 1661,
     "stars": 0
    },
    "shots": []
@@ -10934,7 +10957,7 @@
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
     "pushed": "2026-11-21T02:13:03Z",
-    "size": 76,
+    "size": 82,
     "stars": 0
    },
    "shots": []
@@ -11432,8 +11455,8 @@
     "desc": "English translation of Gakkou de Atta Kowai Hanashi S (PS1, SLPS-00404) and the toolchain that builds it",
     "full": "retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S",
     "lang": "Python",
-    "pushed": "2026-11-20T08:39:01Z",
-    "size": 7619,
+    "pushed": "2026-11-21T09:09:24Z",
+    "size": 7684,
     "stars": 1
    },
    "shots": []
@@ -11767,6 +11790,41 @@
     "stars": 2
    },
    "shots": []
+  },
+  "rlcodi/bokunatsu-portable-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-20T03:51:52Z",
+    "pre": false,
+    "tag": "build-40",
+    "url": "https://github.com/rlcodi/bokunatsu-portable-en/releases/tag/build-40"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-17T03:53:44Z",
+    "desc": "English fan translation patch for Boku no Natsuyasumi Portable (PSP, UCJS10038). xdelta patch only, no game data. AI-assisted, written to keep the tone and setting of the original.",
+    "full": "rlcodi/bokunatsu-portable-en",
+    "lang": "Python",
+    "pushed": "2026-11-21T02:12:28Z",
+    "size": 5885,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/rlcodi/bokunatsu-portable-en/HEAD/docs/screenshots/opening-01.png",
+    "https://raw.githubusercontent.com/rlcodi/bokunatsu-portable-en/HEAD/docs/screenshots/opening-02.png",
+    "https://raw.githubusercontent.com/rlcodi/bokunatsu-portable-en/HEAD/docs/screenshots/opening-03.png",
+    "https://raw.githubusercontent.com/rlcodi/bokunatsu-portable-en/HEAD/docs/screenshots/opening-04.png"
+   ]
   },
   "rmccune83/assault-suit-leynos-2-saturn-translation-patch": {
    "assetOs": {},
@@ -12705,7 +12763,7 @@
     "lang": null,
     "pushed": "2026-11-20T01:46:03Z",
     "size": 187,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/01-title.png",
@@ -12939,6 +12997,33 @@
    },
    "shots": []
   },
+  "trumisery/-pcecd-dragon_knight_ii-t-eng-trumisery-ai-assist-v1.0-": {
+   "assetOs": {},
+   "readme": {
+    "none": true,
+    "patch": {
+     "ex": {}
+    }
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-20T21:51:11Z",
+    "pre": false,
+    "tag": "PCESCD-Dragon-Knight-II-English",
+    "url": "https://github.com/trumisery/-PCECD-Dragon_Knight_II-T-ENG-TruMisery-AI-Assist-v1.0-/releases/tag/PCESCD-Dragon-Knight-II-English"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T21:39:51Z",
+    "desc": "Unofficial English Translation of Dragon Knight II for the PC Engine Super CDRom2",
+    "full": "trumisery/-PCECD-Dragon_Knight_II-T-ENG-TruMisery-AI-Assist-v1.0-",
+    "lang": null,
+    "pushed": "2026-11-20T22:32:44Z",
+    "size": 1266,
+    "stars": 1
+   },
+   "shots": []
+  },
   "tzeentchnet/macross-vfx2-recomp": {
    "noRelease": true,
    "readme": {
@@ -12957,8 +13042,8 @@
     "desc": "Modern Macross VF-X2 PSX recompilation with Vulkan, PGXP, fast loading, English localization tooling, and diagnostic support",
     "full": "Tzeentchnet/Macross-VFX2-Recomp",
     "lang": "Python",
-    "pushed": "2026-11-05T17:33:31Z",
-    "size": 103,
+    "pushed": "2026-11-21T06:28:50Z",
+    "size": 104,
     "stars": 1
    },
    "shots": []
@@ -13125,10 +13210,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-16T03:04:06Z",
-    "pre": true,
-    "tag": "v0.4.2-preview",
-    "url": "https://github.com/vrieza/kamen-rider-battride-war-genesis-english-patch/releases/tag/v0.4.2-preview"
+    "date": "2026-11-21T06:26:55Z",
+    "pre": false,
+    "tag": "v1.0.0",
+    "url": "https://github.com/vrieza/kamen-rider-battride-war-genesis-english-patch/releases/tag/v1.0.0"
    },
    "repo": {
     "archived": false,
@@ -13136,8 +13221,8 @@
     "desc": "Unofficial English fan translation patch for Kamen Rider Battride War Genesis (PS4, CUSA02716). Preview. No game data, only binary patches.",
     "full": "vrieza/kamen-rider-battride-war-genesis-english-patch",
     "lang": null,
-    "pushed": "2026-11-16T03:04:05Z",
-    "size": 1400,
+    "pushed": "2026-11-21T06:26:55Z",
+    "size": 1404,
     "stars": 2
    },
    "shots": [
@@ -13270,8 +13355,8 @@
     "desc": "English MTL fan translation patch for Koukidou Gensou: Gunparade March (PS1, Japan, SCPS-10136). Full script, menus and battles translated. v1.0 final.",
     "full": "waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch",
     "lang": null,
-    "pushed": "2026-11-20T07:50:57Z",
-    "size": 16412,
+    "pushed": "2026-11-21T09:00:11Z",
+    "size": 16421,
     "stars": 0
    },
    "shots": [

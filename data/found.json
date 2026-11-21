@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-21T02:31:55Z",
+ "generated": "2026-11-21T11:25:40Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9590,17 +9590,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-11-21T02:31:55Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
-   "l": "https://romhackplaza.org/translations/super-tempo-english-translation-sega-saturn",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -15378,6 +15367,71 @@
    "src": "GitHub"
   },
   {
+   "d": "English fan translation of Favorite Dear: Junpaku no Yogensha (PSX)",
+   "fa": "2026-11-21T11:25:40Z",
+   "g": "Favorite Dear: Junpaku no Yogensha",
+   "id": "minhnhattonthat/favorite-dear-junpaku-no-yogensha-en",
+   "k": "minhnhattonthat/favorite-dear-junpaku-no-yogensha-en",
+   "l": "https://github.com/minhnhattonthat/favorite-dear-junpaku-no-yogensha-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Favorite Dear (PSX)",
+   "fa": "2026-11-21T11:25:40Z",
+   "g": "Favorite Dear",
+   "id": "minhnhattonthat/favorite-dear-en",
+   "k": "minhnhattonthat/favorite-dear-en",
+   "l": "https://github.com/minhnhattonthat/favorite-dear-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for Tengai Makyou: Deden no Kabuki-den (Hudson, 1994, PC Engine Super CD-ROM² promo disc): build tools and IPS patch. No game data included.",
+   "fa": "2026-11-21T11:25:40Z",
+   "g": "Tengai Makyou: Deden no Kabuki-den",
+   "id": "second-save/deden-no-kabuki-den-english",
+   "k": "second-save/deden-no-kabuki-den-english",
+   "l": "https://github.com/second-save/deden-no-kabuki-den-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PC Engine",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of growlanser-en (PSX)",
+   "fa": "2026-11-21T11:25:40Z",
+   "g": "Growlanser-En",
+   "id": "minhnhattonthat/growlanser-en",
+   "k": "minhnhattonthat/growlanser-en",
+   "l": "https://github.com/minhnhattonthat/growlanser-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation patch for Soeldnerschild Special (PlayStation, Koei)",
+   "fa": "2026-11-21T11:25:40Z",
+   "g": "Soeldnerschild Special",
+   "id": "damon-daemon/soeldnerschild-special-english",
+   "k": "damon-daemon/soeldnerschild-special-english",
+   "l": "https://github.com/damon-daemon/soeldnerschild-special-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -16995,51 +17049,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-20T11:55:04Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-20T20:32:33Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
     "Human translation"
    ],
-   "p": "PS3",
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-20T11:55:04Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "d": "Meremanoid English Patch",
+   "fa": "2026-11-21T02:31:55Z",
+   "g": "Meremanoid",
+   "id": "link:https://archive.org/details/meremanoid-english",
+   "l": "https://archive.org/details/meremanoid-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-21T02:31:55Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
    ],
-   "p": "PS2",
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-20T20:32:33Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-11-21T11:25:40Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-20T20:32:33Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
