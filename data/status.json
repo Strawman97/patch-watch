@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-20T20:32:33Z",
+ "generated": "2026-11-21T02:31:55Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -696,10 +696,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T04:29:19Z",
+    "date": "2026-11-20T21:45:28Z",
     "pre": false,
-    "tag": "2026-11-20",
-    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/2026-11-20"
+    "tag": "2026-11-20-2",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/2026-11-20-2"
    },
    "repo": {
     "archived": false,
@@ -707,8 +707,8 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-20T15:56:53Z",
-    "size": 6921,
+    "pushed": "2026-11-21T00:00:12Z",
+    "size": 7036,
     "stars": 8
    },
    "shots": []
@@ -4588,6 +4588,30 @@
    },
    "shots": []
   },
+  "fiksr/elminage-gothic-psp-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Menus only",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T17:12:13Z",
+    "desc": "English translation patch for Elminage Gothic on PSP (ULJM06091) and PPSSPP",
+    "full": "fiksr/elminage-gothic-psp-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-20T17:16:10Z",
+    "size": 4145,
+    "stars": 0
+   },
+   "shots": []
+  },
   "fiksr/eve-burst-error-r-vita-english-patch": {
    "assetOs": {},
    "readme": {
@@ -4742,6 +4766,62 @@
     "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/portrait_before.png",
     "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/portrait_after.png"
    ]
+  },
+  "gabalva98-hub/-super-robot-wars-l-nds-english-translation-ai-assisted": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-20T15:45:18Z",
+    "pre": false,
+    "tag": "srw-l",
+    "url": "https://github.com/gabalva98-hub/-Super-Robot-Wars-L-Nds-English-Translation-AI-Assisted/releases/tag/srw-l"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T15:41:27Z",
+    "desc": "",
+    "full": "gabalva98-hub/-Super-Robot-Wars-L-Nds-English-Translation-AI-Assisted",
+    "lang": null,
+    "pushed": "2026-11-20T15:45:17Z",
+    "size": 5,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "gabalva98-hub/super-robot-wars-k-nds-english-translation---ai-assisted": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-20T15:53:25Z",
+    "pre": false,
+    "tag": "srw-k",
+    "url": "https://github.com/gabalva98-hub/Super-Robot-Wars-K-NDS-English-Translation---AI-Assisted/releases/tag/srw-k"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T15:48:55Z",
+    "desc": "",
+    "full": "gabalva98-hub/Super-Robot-Wars-K-NDS-English-Translation---AI-Assisted",
+    "lang": null,
+    "pushed": "2026-11-20T15:53:24Z",
+    "size": 6,
+    "stars": 0
+   },
+   "shots": []
   },
   "gagnonpl/spriggan-en": {
    "assetOs": {},
@@ -5104,10 +5184,10 @@
     "filehost"
    ],
    "release": {
-    "date": "2026-11-15T01:17:31Z",
+    "date": "2026-11-21T01:49:45Z",
     "pre": true,
-    "tag": "android-v1.0.8-beta1",
-    "url": "https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/android-v1.0.8-beta1"
+    "tag": "android-v1.0.9-beta1",
+    "url": "https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/android-v1.0.9-beta1"
    },
    "repo": {
     "archived": false,
@@ -5115,7 +5195,7 @@
     "desc": "Grandia III: Open Skies - a native PC & Android port of Grandia III (PS2): widescreen, 60 fps, savestates, subtitles, optional undub. Bring your own ISO.",
     "full": "GranasSabre/Grandia3-OpenSkies",
     "lang": "C++",
-    "pushed": "2026-11-15T01:32:35Z",
+    "pushed": "2026-11-21T01:49:45Z",
     "size": 16926,
     "stars": 57
    },
@@ -5265,8 +5345,37 @@
     "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img4.png"
    ]
   },
-  "ilfforever/yw4recomp": {
+  "ilex-labs/3ds-japanese-english": {
    "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-08T23:37:09Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/ilex-labs/3ds-japanese-english/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-06T23:10:03Z",
+    "desc": "English menus for Japanese 3DS consoles: translates the HOME Menu and System Settings with Luma3DS, without a region change. Builds the files from your own console’s dumps.",
+    "full": "ilex-labs/3ds-japanese-english",
+    "lang": "Python",
+    "pushed": "2026-11-20T18:02:43Z",
+    "size": 218,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "ilfforever/yw4recomp": {
+   "assetOs": {
+    "Windows": true
+   },
    "readme": {
     "patch": {
      "ex": {
@@ -5277,10 +5386,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T11:53:13Z",
+    "date": "2026-11-20T20:59:29Z",
     "pre": false,
-    "tag": "v2.0.1",
-    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/v2.0.1"
+    "tag": "launcher-v1.6.0",
+    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/launcher-v1.6.0"
    },
    "repo": {
     "archived": false,
@@ -5288,9 +5397,9 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-20T17:51:09Z",
-    "size": 134661,
-    "stars": 42
+    "pushed": "2026-11-20T20:57:57Z",
+    "size": 136056,
+    "stars": 43
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen.jpg",
@@ -7328,10 +7437,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T02:54:23Z",
+    "date": "2026-11-21T01:54:19Z",
     "pre": false,
-    "tag": "v0.5.0-beta.1",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.0-beta.1"
+    "tag": "v0.5.4-beta",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.4-beta"
    },
    "repo": {
     "archived": false,
@@ -7339,8 +7448,8 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-20T02:53:53Z",
-    "size": 49107,
+    "pushed": "2026-11-21T01:57:33Z",
+    "size": 49401,
     "stars": 3
    },
    "shots": []
@@ -7358,10 +7467,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T02:54:23Z",
+    "date": "2026-11-21T01:54:19Z",
     "pre": false,
-    "tag": "v0.5.0-beta.1",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.0-beta.1"
+    "tag": "v0.5.4-beta",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.4-beta"
    },
    "repo": {
     "archived": false,
@@ -7369,8 +7478,8 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-20T02:53:53Z",
-    "size": 49107,
+    "pushed": "2026-11-21T01:57:33Z",
+    "size": 49401,
     "stars": 3
    },
    "shots": []
@@ -8443,10 +8552,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-15T05:34:44Z",
+    "date": "2026-11-20T22:50:31Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -8454,8 +8563,8 @@
     "desc": "English fan translation of Genseishin Justirisers: Souchaku Chikyuu no Senshitachi (GBA)",
     "full": "minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en",
     "lang": "Python",
-    "pushed": "2026-11-20T19:45:00Z",
-    "size": 1025,
+    "pushed": "2026-11-20T22:50:31Z",
+    "size": 1060,
     "stars": 0
    },
    "shots": []
@@ -8946,10 +9055,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-05T20:22:55Z",
+    "date": "2026-11-20T21:50:50Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -8957,8 +9066,8 @@
     "desc": "English fan translation of Legendz: Yomigaeru Shiren no Shima (GBA)",
     "full": "minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en",
     "lang": "Python",
-    "pushed": "2026-11-17T11:03:43Z",
-    "size": 2104,
+    "pushed": "2026-11-20T21:51:17Z",
+    "size": 2159,
     "stars": 0
    },
    "shots": []
@@ -10824,8 +10933,8 @@
     "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
-    "pushed": "2026-11-20T18:33:42Z",
-    "size": 68,
+    "pushed": "2026-11-21T02:13:03Z",
+    "size": 76,
     "stars": 0
    },
    "shots": []
@@ -11326,6 +11435,37 @@
     "pushed": "2026-11-20T08:39:01Z",
     "size": 7619,
     "stars": 1
+   },
+   "shots": []
+  },
+  "retro-trans/getter-robo-daikessen": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-20T18:04:27Z",
+    "pre": false,
+    "tag": "v0.8.0",
+    "url": "https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T18:03:34Z",
+    "desc": "Translation patch of Getter Robo Daikessen! (PS1, SLPS-02232)",
+    "full": "retro-trans/Getter-Robo-Daikessen",
+    "lang": "Python",
+    "pushed": "2026-11-20T18:04:26Z",
+    "size": 506,
+    "stars": 0
    },
    "shots": []
   },
@@ -12576,6 +12716,43 @@
     "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/06-harbour.png"
    ]
   },
+  "suddenlythis/robinlloyd-psx-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-20T14:26:25Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/suddenlythis/robinlloyd-psx-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T11:49:10Z",
+    "desc": "The Adventures of Robin Lloyd (PS1) English Translation",
+    "full": "suddenlythis/robinlloyd-psx-english",
+    "lang": null,
+    "pushed": "2026-11-20T14:26:24Z",
+    "size": 3800,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/suddenlythis/robinlloyd-psx-english/HEAD/screenshots/02-office.png",
+    "https://raw.githubusercontent.com/suddenlythis/robinlloyd-psx-english/HEAD/screenshots/03-alicea.png",
+    "https://raw.githubusercontent.com/suddenlythis/robinlloyd-psx-english/HEAD/screenshots/04-ryile.png",
+    "https://raw.githubusercontent.com/suddenlythis/robinlloyd-psx-english/HEAD/screenshots/05-rose-of-awakening.png",
+    "https://raw.githubusercontent.com/suddenlythis/robinlloyd-psx-english/HEAD/screenshots/06-chapter-card.png",
+    "https://raw.githubusercontent.com/suddenlythis/robinlloyd-psx-english/HEAD/screenshots/07-museum.png"
+   ]
+  },
   "symphonialauren/tales-of-rebirth": {
    "assetOs": {},
    "readme": {
@@ -12903,7 +13080,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 270
+    "stars": 272
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
