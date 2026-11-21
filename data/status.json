@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-21T11:25:40Z",
+ "generated": "2026-11-21T19:29:29Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -636,10 +636,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T20:30:51Z",
+    "date": "2026-11-21T11:37:09Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/AshnageNarnesfugen/tokyo-ghoul-jail-english/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/AshnageNarnesfugen/tokyo-ghoul-jail-english/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -647,8 +647,8 @@
     "desc": "English fan translation patch for Tokyo Ghoul: Jail (PS Vita, PCSG00615)",
     "full": "AshnageNarnesfugen/tokyo-ghoul-jail-english",
     "lang": "Batchfile",
-    "pushed": "2026-10-31T20:30:51Z",
-    "size": 2323,
+    "pushed": "2026-11-21T11:37:08Z",
+    "size": 6977,
     "stars": 0
    },
    "shots": []
@@ -1846,7 +1846,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-03T23:49:04Z",
     "size": 7717,
-    "stars": 66
+    "stars": 67
    },
    "shots": [
     "https://raw.githubusercontent.com/ButThouMust/kamaitachi-sfc-english/HEAD/repo%20images/title%20screen%20screenshot.png",
@@ -2697,6 +2697,44 @@
     "https://raw.githubusercontent.com/damon-daemon/sangokushi-koumeiden-english/HEAD/docs/screenshots/06_sortie.png"
    ]
   },
+  "damon-daemon/soeldnerschild-special-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-21T04:08:04Z",
+    "pre": true,
+    "tag": "v0.9.0",
+    "url": "https://github.com/damon-daemon/soeldnerschild-special-english/releases/tag/v0.9.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T04:07:43Z",
+    "desc": "English fan translation patch for Soeldnerschild Special (PlayStation, Koei)",
+    "full": "damon-daemon/soeldnerschild-special-english",
+    "lang": "Python",
+    "pushed": "2026-11-21T04:08:03Z",
+    "size": 1721,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/damon-daemon/soeldnerschild-special-english/HEAD/docs/screenshots/01_title.png",
+    "https://raw.githubusercontent.com/damon-daemon/soeldnerschild-special-english/HEAD/docs/screenshots/02_name_entry.png",
+    "https://raw.githubusercontent.com/damon-daemon/soeldnerschild-special-english/HEAD/docs/screenshots/03_troops.png",
+    "https://raw.githubusercontent.com/damon-daemon/soeldnerschild-special-english/HEAD/docs/screenshots/04_dialogue.png",
+    "https://raw.githubusercontent.com/damon-daemon/soeldnerschild-special-english/HEAD/docs/screenshots/05_commanders.png",
+    "https://raw.githubusercontent.com/damon-daemon/soeldnerschild-special-english/HEAD/docs/screenshots/06_items.png"
+   ]
+  },
   "damon-daemon/taiko-risshiden-3-english": {
    "assetOs": {},
    "readme": {
@@ -2851,7 +2889,7 @@
     "lang": "Python",
     "pushed": "2026-11-09T23:27:38Z",
     "size": 6564,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -3859,8 +3897,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-21T10:05:41Z",
-    "size": 164671,
+    "pushed": "2026-11-21T15:36:21Z",
+    "size": 161276,
     "stars": 51
    },
    "shots": [
@@ -4777,7 +4815,7 @@
     "lang": "Python",
     "pushed": "2026-11-20T15:37:35Z",
     "size": 1668,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/fluttergust/valkyrie-undub/HEAD/docs/images/vision_before.png",
@@ -5030,7 +5068,7 @@
     "lang": "C++",
     "pushed": "2026-11-12T16:45:06Z",
     "size": 720,
-    "stars": 14
+    "stars": 15
    },
    "shots": []
   },
@@ -5394,7 +5432,9 @@
    "shots": []
   },
   "ilfforever/yw4recomp": {
-   "assetOs": {},
+   "assetOs": {
+    "Windows": true
+   },
    "readme": {
     "patch": {
      "ex": {
@@ -5405,10 +5445,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-21T06:50:40Z",
+    "date": "2026-11-21T15:10:52Z",
     "pre": false,
-    "tag": "v2.2.0",
-    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/v2.2.0"
+    "tag": "launcher-v1.6.1",
+    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/launcher-v1.6.1"
    },
    "repo": {
     "archived": false,
@@ -5416,9 +5456,9 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-21T07:10:08Z",
-    "size": 134844,
-    "stars": 45
+    "pushed": "2026-11-21T15:15:10Z",
+    "size": 134918,
+    "stars": 46
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen-en.jpg",
@@ -5761,7 +5801,7 @@
     "full": "jignx/SRWL-English",
     "lang": "Python",
     "pushed": "2026-11-21T11:23:10Z",
-    "size": 1413,
+    "size": 1432,
     "stars": 1
    },
    "shots": [
@@ -8024,7 +8064,7 @@
     "lang": "Python",
     "pushed": "2026-11-19T10:20:55Z",
     "size": 2473,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8420,6 +8460,60 @@
     "pushed": "2026-11-07T05:55:52Z",
     "size": 494,
     "stars": 3
+   },
+   "shots": []
+  },
+  "minhnhattonthat/favorite-dear-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-21T08:06:02Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/favorite-dear-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-19T19:46:35Z",
+    "desc": "English fan translation of Favorite Dear (PSX)",
+    "full": "minhnhattonthat/favorite-dear-en",
+    "lang": "Python",
+    "pushed": "2026-11-21T08:17:02Z",
+    "size": 4792,
+    "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/favorite-dear-junpaku-no-yogensha-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-21T08:28:23Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/favorite-dear-junpaku-no-yogensha-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T09:08:22Z",
+    "desc": "English fan translation of Favorite Dear: Junpaku no Yogensha (PSX)",
+    "full": "minhnhattonthat/favorite-dear-junpaku-no-yogensha-en",
+    "lang": "Python",
+    "pushed": "2026-11-21T08:28:22Z",
+    "size": 3117,
+    "stars": 1
    },
    "shots": []
   },
@@ -8837,7 +8931,7 @@
     "lang": "Python",
     "pushed": "2026-11-17T04:33:32Z",
     "size": 1020,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8865,6 +8959,35 @@
     "pushed": "2026-10-30T00:06:45Z",
     "size": 300,
     "stars": 0
+   },
+   "shots": []
+  },
+  "minhnhattonthat/growlanser-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-21T04:36:36Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/growlanser-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-17T11:24:37Z",
+    "desc": "English fan translation of growlanser-en (PSX)",
+    "full": "minhnhattonthat/growlanser-en",
+    "lang": "Python",
+    "pushed": "2026-11-21T05:46:55Z",
+    "size": 7650,
+    "stars": 1
    },
    "shots": []
   },
@@ -9478,7 +9601,7 @@
     "lang": "Python",
     "pushed": "2026-11-19T20:15:28Z",
     "size": 1010,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -10403,8 +10526,8 @@
     "desc": "Full-English-Translation-Patch-Release-Experimental-",
     "full": "NekoGun45/-3DS-Super-Robot-Wars-UX---Full-English-Translation-Patch-Release-Experimental-",
     "lang": null,
-    "pushed": "2026-10-29T22:28:07Z",
-    "size": 8089,
+    "pushed": "2026-11-21T16:05:40Z",
+    "size": 10110,
     "stars": 0
    },
    "shots": []
@@ -10934,7 +11057,7 @@
     "lang": null,
     "pushed": "2026-10-27T13:48:57Z",
     "size": 7,
-    "stars": 10
+    "stars": 11
    },
    "shots": []
   },
@@ -11428,7 +11551,7 @@
     "lang": "Python",
     "pushed": "2026-11-19T09:41:56Z",
     "size": 2193,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -11475,10 +11598,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T18:04:27Z",
+    "date": "2026-11-21T13:48:40Z",
     "pre": false,
-    "tag": "v0.8.0",
-    "url": "https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.0"
+    "tag": "v0.8.26",
+    "url": "https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.26"
    },
    "repo": {
     "archived": false,
@@ -11486,8 +11609,8 @@
     "desc": "Translation patch of Getter Robo Daikessen! (PS1, SLPS-02232)",
     "full": "retro-trans/Getter-Robo-Daikessen",
     "lang": "Python",
-    "pushed": "2026-11-20T18:04:26Z",
-    "size": 506,
+    "pushed": "2026-11-21T14:23:35Z",
+    "size": 638,
     "stars": 0
    },
    "shots": []
@@ -11731,7 +11854,7 @@
     "lang": "C",
     "pushed": "2026-11-15T20:15:24Z",
     "size": 101843,
-    "stars": 159
+    "stars": 160
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -12282,6 +12405,39 @@
    },
    "shots": []
   },
+  "second-save/deden-no-kabuki-den-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-21T06:02:23Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/second-save/deden-no-kabuki-den-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T06:00:20Z",
+    "desc": "English translation patch for Tengai Makyou: Deden no Kabuki-den (Hudson, 1994, PC Engine Super CD-ROM² promo disc): build tools and IPS patch. No game data included.",
+    "full": "second-save/deden-no-kabuki-den-english",
+    "lang": "Python",
+    "pushed": "2026-11-21T06:02:23Z",
+    "size": 67,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/second-save/deden-no-kabuki-den-english/HEAD/screenshots/1.png",
+    "https://raw.githubusercontent.com/second-save/deden-no-kabuki-den-english/HEAD/screenshots/2.png",
+    "https://raw.githubusercontent.com/second-save/deden-no-kabuki-den-english/HEAD/screenshots/3.png",
+    "https://raw.githubusercontent.com/second-save/deden-no-kabuki-den-english/HEAD/screenshots/4.png",
+    "https://raw.githubusercontent.com/second-save/deden-no-kabuki-den-english/HEAD/screenshots/5.png"
+   ]
+  },
   "selhou-lgu/kenka_bancho_4_psp_english": {
    "noRelease": true,
    "readme": {
@@ -12726,7 +12882,7 @@
     "lang": null,
     "pushed": "2026-11-16T22:58:42Z",
     "size": 221,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/bloodgearpce-english/HEAD/screenshots/01-title.png",
@@ -12763,7 +12919,7 @@
     "lang": null,
     "pushed": "2026-11-20T01:46:03Z",
     "size": 187,
-    "stars": 4
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/01-title.png",
@@ -12787,10 +12943,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T14:26:25Z",
+    "date": "2026-11-21T19:06:09Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/suddenlythis/robinlloyd-psx-english/releases/tag/v1.0"
+    "tag": "v1.0.1",
+    "url": "https://github.com/suddenlythis/robinlloyd-psx-english/releases/tag/v1.0.1"
    },
    "repo": {
     "archived": false,
@@ -12798,9 +12954,9 @@
     "desc": "The Adventures of Robin Lloyd (PS1) English Translation",
     "full": "suddenlythis/robinlloyd-psx-english",
     "lang": null,
-    "pushed": "2026-11-20T14:26:24Z",
+    "pushed": "2026-11-21T19:06:09Z",
     "size": 3800,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/robinlloyd-psx-english/HEAD/screenshots/02-office.png",
