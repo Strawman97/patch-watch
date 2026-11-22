@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-22T11:41:07Z",
+ "generated": "2026-11-22T19:50:52Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -696,10 +696,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T01:59:34Z",
+    "date": "2026-11-22T18:10:55Z",
     "pre": false,
-    "tag": "2026-11-21-2",
-    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/2026-11-21-2"
+    "tag": "2026-11-22",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/2026-11-22"
    },
    "repo": {
     "archived": false,
@@ -707,9 +707,9 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-22T05:45:40Z",
+    "pushed": "2026-11-22T18:10:55Z",
     "size": 7309,
-    "stars": 8
+    "stars": 9
    },
    "shots": []
   },
@@ -2204,10 +2204,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-30T22:28:33Z",
+    "date": "2026-11-22T14:05:12Z",
     "pre": false,
-    "tag": "v0.6",
-    "url": "https://github.com/damon-daemon/daikoukai-jidai-4-ds-english/releases/tag/v0.6"
+    "tag": "v0.7",
+    "url": "https://github.com/damon-daemon/daikoukai-jidai-4-ds-english/releases/tag/v0.7"
    },
    "repo": {
     "archived": false,
@@ -2215,8 +2215,8 @@
     "desc": "English fan translation patch for Uncharted Waters IV: Rota Nova (Daikoukai Jidai IV DS, Nintendo DS)",
     "full": "damon-daemon/daikoukai-jidai-4-ds-english",
     "lang": "Python",
-    "pushed": "2026-11-07T13:55:49Z",
-    "size": 1896,
+    "pushed": "2026-11-22T14:05:11Z",
+    "size": 1897,
     "stars": 2
    },
    "shots": [
@@ -2725,10 +2725,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-21T04:08:04Z",
+    "date": "2026-11-22T18:30:43Z",
     "pre": true,
-    "tag": "v0.9.0",
-    "url": "https://github.com/damon-daemon/soeldnerschild-special-english/releases/tag/v0.9.0"
+    "tag": "v0.9.1",
+    "url": "https://github.com/damon-daemon/soeldnerschild-special-english/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -2736,8 +2736,8 @@
     "desc": "English fan translation patch for Soeldnerschild Special (PlayStation, Koei)",
     "full": "damon-daemon/soeldnerschild-special-english",
     "lang": "Python",
-    "pushed": "2026-11-21T04:08:03Z",
-    "size": 1721,
+    "pushed": "2026-11-22T18:30:42Z",
+    "size": 1723,
     "stars": 1
    },
    "shots": [
@@ -2849,8 +2849,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-11-14T01:40:56Z",
-    "size": 5225,
+    "pushed": "2026-11-22T14:44:04Z",
+    "size": 5234,
     "stars": 5
    },
    "shots": [
@@ -3911,8 +3911,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-22T09:09:09Z",
-    "size": 161400,
+    "pushed": "2026-11-22T15:22:59Z",
+    "size": 161488,
     "stars": 52
    },
    "shots": [
@@ -5257,10 +5257,10 @@
     "filehost"
    ],
    "release": {
-    "date": "2026-11-22T01:26:28Z",
-    "pre": false,
-    "tag": "v1.0.10",
-    "url": "https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/v1.0.10"
+    "date": "2026-11-22T15:01:05Z",
+    "pre": true,
+    "tag": "android-v1.0.10-beta1",
+    "url": "https://github.com/GranasSabre/Grandia3-OpenSkies/releases/tag/android-v1.0.10-beta1"
    },
    "repo": {
     "archived": false,
@@ -5268,9 +5268,9 @@
     "desc": "Grandia III: Open Skies - a native PC & Android port of Grandia III (PS2): widescreen, 60 fps, savestates, subtitles, optional undub. Bring your own ISO.",
     "full": "GranasSabre/Grandia3-OpenSkies",
     "lang": "C++",
-    "pushed": "2026-11-22T01:26:27Z",
-    "size": 17057,
-    "stars": 60
+    "pushed": "2026-11-22T15:17:38Z",
+    "size": 17196,
+    "stars": 61
    },
    "shots": []
   },
@@ -5459,10 +5459,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-21T15:10:52Z",
+    "date": "2026-11-22T14:44:51Z",
     "pre": false,
-    "tag": "launcher-v1.6.1",
-    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/launcher-v1.6.1"
+    "tag": "launcher-v1.6.2",
+    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/launcher-v1.6.2"
    },
    "repo": {
     "archived": false,
@@ -5470,9 +5470,9 @@
     "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-22T10:08:58Z",
-    "size": 134932,
-    "stars": 46
+    "pushed": "2026-11-22T16:36:44Z",
+    "size": 135005,
+    "stars": 47
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen-en.jpg",
@@ -6622,7 +6622,7 @@
     "lang": "Python",
     "pushed": "2023-07-23T13:47:59Z",
     "size": 203,
-    "stars": 18
+    "stars": 19
    },
    "shots": [
     "https://raw.githubusercontent.com/karas84/ProjectZeroUndub/HEAD/docs/undub.gif"
@@ -6976,8 +6976,8 @@
     "desc": "An attempt to create a patch for Narikiri Dungeon X (PSP).",
     "full": "lifebottle/Narikiri-Dungeon-X",
     "lang": "JavaScript",
-    "pushed": "2026-11-18T02:11:36Z",
-    "size": 22497,
+    "pushed": "2026-11-22T15:52:19Z",
+    "size": 22632,
     "stars": 61
    },
    "shots": [
@@ -8531,8 +8531,37 @@
     "full": "minhnhattonthat/favorite-dear-en",
     "lang": "Python",
     "pushed": "2026-11-22T10:48:15Z",
-    "size": 4792,
+    "size": 4975,
     "stars": 2
+   },
+   "shots": []
+  },
+  "minhnhattonthat/favorite-dear-enkan-no-monogatari-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T10:18:18Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/favorite-dear-enkan-no-monogatari-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T11:21:17Z",
+    "desc": "English fan translation of Favorite Dear: Enkan no Monogatari (PSX)",
+    "full": "minhnhattonthat/favorite-dear-enkan-no-monogatari-en",
+    "lang": "Python",
+    "pushed": "2026-11-22T10:18:35Z",
+    "size": 4082,
+    "stars": 0
    },
    "shots": []
   },
@@ -11673,10 +11702,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T05:34:36Z",
+    "date": "2026-11-22T15:10:14Z",
     "pre": false,
-    "tag": "v0.8.27",
-    "url": "https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.27"
+    "tag": "v0.8.30",
+    "url": "https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.30"
    },
    "repo": {
     "archived": false,
@@ -11684,8 +11713,8 @@
     "desc": "Translation patch of Getter Robo Daikessen! (PS1, SLPS-02232)",
     "full": "retro-trans/Getter-Robo-Daikessen",
     "lang": "Python",
-    "pushed": "2026-11-22T05:37:37Z",
-    "size": 671,
+    "pushed": "2026-11-22T15:15:28Z",
+    "size": 742,
     "stars": 0
    },
    "shots": []
@@ -12015,7 +12044,7 @@
     "lang": "Python",
     "pushed": "2026-11-21T02:12:28Z",
     "size": 5885,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/rlcodi/bokunatsu-portable-en/HEAD/docs/screenshots/opening-01.png",
@@ -12513,6 +12542,142 @@
     "https://raw.githubusercontent.com/second-save/deden-no-kabuki-den-english/HEAD/screenshots/5.png"
    ]
   },
+  "second-save/tengai-makyou-2-pce-cd": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T04:41:43Z",
+    "pre": true,
+    "tag": "v0.9-beta",
+    "url": "https://github.com/second-save/tengai-makyou-2-pce-cd/releases/tag/v0.9-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-19T03:42:39Z",
+    "desc": "English translation patch for Tengai Makyou II: Manji Maru (PC Engine Super CD-ROM², 1992): xdelta patch, notes and early tools. No game data included.",
+    "full": "second-save/tengai-makyou-2-pce-cd",
+    "lang": "C++",
+    "pushed": "2026-11-22T04:41:43Z",
+    "size": 7069,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-2-pce-cd/HEAD/docs/dialogue.gif",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-2-pce-cd/HEAD/docs/screenshots/01_start_menu.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-2-pce-cd/HEAD/docs/screenshots/02_dialogue.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-2-pce-cd/HEAD/docs/screenshots/03_field_menu.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-2-pce-cd/HEAD/docs/screenshots/05_battle.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-2-pce-cd/HEAD/docs/screenshots/08_kabuki_subtitles.png"
+   ]
+  },
+  "second-save/tengai-makyou-2-psp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T06:24:40Z",
+    "pre": true,
+    "tag": "v0.9-beta",
+    "url": "https://github.com/second-save/tengai-makyou-2-psp/releases/tag/v0.9-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T06:22:56Z",
+    "desc": "English translation patch for Tengai Makyou II: Manji Maru, PSP PC Engine Archives (NPJJ30036)",
+    "full": "second-save/tengai-makyou-2-psp",
+    "lang": "Python",
+    "pushed": "2026-11-22T06:24:39Z",
+    "size": 1435,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-2-psp/HEAD/docs/media/dialogue.gif"
+   ]
+  },
+  "second-save/tengai-makyou-collection-psp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T05:31:54Z",
+    "pre": true,
+    "tag": "v0.1.1-beta",
+    "url": "https://github.com/second-save/tengai-makyou-collection-psp/releases/tag/v0.1.1-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T05:31:08Z",
+    "desc": "English translation patch for PC Engine Best Collection: Tengai Makyou Collection (PSP): Ziria, Manji Maru, Kabuki Den and Kabuki Ittou Ryoudan. No game data included.",
+    "full": "second-save/tengai-makyou-collection-psp",
+    "lang": "Python",
+    "pushed": "2026-11-22T05:36:37Z",
+    "size": 10189,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-collection-psp/HEAD/docs/media/menu.gif",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-collection-psp/HEAD/docs/media/1_ziria.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-collection-psp/HEAD/docs/media/2_manji_maru.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-collection-psp/HEAD/docs/media/3_kabuki_den.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-collection-psp/HEAD/docs/media/4_ittou_ryoudan.png"
+   ]
+  },
+  "second-save/tengai-makyou-ziria-psp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T03:28:42Z",
+    "pre": true,
+    "tag": "v0.1.1-beta",
+    "url": "https://github.com/second-save/tengai-makyou-ziria-psp/releases/tag/v0.1.1-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T02:13:44Z",
+    "desc": "English patch for Tengai Makyou Ziria (PSN PC Engine Archives, NPJJ30029): LIPEMCO's translation ported to the PSP release, plus English emulator prompts and manual. No game data included.",
+    "full": "second-save/tengai-makyou-ziria-psp",
+    "lang": "Python",
+    "pushed": "2026-11-22T03:28:53Z",
+    "size": 8017,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-ziria-psp/HEAD/docs/media/intro.gif",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-ziria-psp/HEAD/docs/media/game-battle.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-ziria-psp/HEAD/docs/media/game-elder.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-ziria-psp/HEAD/docs/media/game-shop.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-ziria-psp/HEAD/docs/media/game-virtue.png",
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-ziria-psp/HEAD/docs/media/prompt-autosave.png"
+   ]
+  },
   "selhou-lgu/kenka_bancho_4_psp_english": {
    "noRelease": true,
    "readme": {
@@ -12755,7 +12920,7 @@
     "full": "stepigor/trails_in_the_sky_3rd_psp_english_patcher",
     "lang": "Python",
     "pushed": "2026-11-22T10:53:14Z",
-    "size": 568,
+    "size": 597,
     "stars": 1
    },
    "shots": []
@@ -12968,6 +13133,45 @@
     "https://raw.githubusercontent.com/suddenlythis/bloodgearpce-english/HEAD/screenshots/07-may.png"
    ]
   },
+  "suddenlythis/houshin-engi-aizouban-psx-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "fixes": true,
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T03:07:15Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/suddenlythis/houshin-engi-aizouban-psx-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T15:44:23Z",
+    "desc": "Houshin Engi Aizouban (PS1) English translation",
+    "full": "suddenlythis/houshin-engi-aizouban-psx-english",
+    "lang": null,
+    "pushed": "2026-11-22T03:28:10Z",
+    "size": 2801,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/suddenlythis/houshin-engi-aizouban-psx-english/HEAD/screenshots/03-opening-kou-hiko.png",
+    "https://raw.githubusercontent.com/suddenlythis/houshin-engi-aizouban-psx-english/HEAD/screenshots/04-prologue-paopei.png",
+    "https://raw.githubusercontent.com/suddenlythis/houshin-engi-aizouban-psx-english/HEAD/screenshots/05-hakkaku-welcome.png",
+    "https://raw.githubusercontent.com/suddenlythis/houshin-engi-aizouban-psx-english/HEAD/screenshots/06-name-entry.png",
+    "https://raw.githubusercontent.com/suddenlythis/houshin-engi-aizouban-psx-english/HEAD/screenshots/07-genshi-mission.png",
+    "https://raw.githubusercontent.com/suddenlythis/houshin-engi-aizouban-psx-english/HEAD/screenshots/10-battle-command-menu.png"
+   ]
+  },
   "suddenlythis/linda3pce-english": {
    "assetOs": {},
    "readme": {
@@ -12994,7 +13198,7 @@
     "lang": null,
     "pushed": "2026-11-20T01:46:03Z",
     "size": 187,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/01-title.png",
@@ -13396,7 +13600,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 274
+    "stars": 276
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
