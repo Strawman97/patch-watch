@@ -2488,6 +2488,14 @@
    "title": "Prisoner",
    "url": "https://cdn2.steamgriddb.com/grid/ad2e7595ae449d949f4152e597a59181.png"
   },
+  "link:https://romhackplaza.org/translations/shadowrun-english-translation-sega-cd": {
+   "added": "2026-11-22T11:41:07Z",
+   "match": 1.0,
+   "name": "Sega CD",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/2888f0adf3d3e3f667a1e1db6cfca468.jpg",
+   "title": "SEGA CD",
+   "url": "https://cdn2.steamgriddb.com/grid/2888f0adf3d3e3f667a1e1db6cfca468.png"
+  },
   "link:https://romhackplaza.org/translations/sloane-machales-mystery-stories-english-translation-nintendo-ds": {
    "added": "2026-10-29T18:33:15Z",
    "match": 1.0,
@@ -7544,6 +7552,14 @@
    "title": "Favorite Dear",
    "url": "https://cdn2.steamgriddb.com/grid/437e90f723075ca5d408c89fd40f41f0.png"
   },
+  "minhnhattonthat/favorite-dear-enkan-no-monogatari-en": {
+   "added": "2026-11-22T11:41:07Z",
+   "match": 1.0,
+   "name": "Favorite Dear: Enkan no Monogatari",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/2d7b0ad135b4c6672078474f310f07f2.jpg",
+   "title": "Favorite Dear: Enkan no Monogatari",
+   "url": "https://cdn2.steamgriddb.com/grid/2d7b0ad135b4c6672078474f310f07f2.png"
+  },
   "minhnhattonthat/favorite-dear-junpaku-no-yogensha-en": {
    "added": "2026-11-21T11:25:40Z",
    "match": 1.0,
@@ -7936,6 +7952,30 @@
    "title": "Puyo Puyo",
    "url": "https://cdn2.steamgriddb.com/grid/80d066c42f2ae18584651636980dfb40.png"
   },
+  "second-save/tengai-makyou-2-pce-cd": {
+   "added": "2026-11-22T11:41:07Z",
+   "match": 1.0,
+   "name": "Tengai Makyou II: Manji Maru",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/c91461bd2a42b5097ddf3291fd5c3937.png",
+   "title": "Tengai Makyou II: Manji Maru",
+   "url": "https://cdn2.steamgriddb.com/grid/c91461bd2a42b5097ddf3291fd5c3937.png"
+  },
+  "second-save/tengai-makyou-2-psp": {
+   "added": "2026-11-22T11:41:07Z",
+   "match": 1.0,
+   "name": "Tengai Makyou II: Manji Maru",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/c91461bd2a42b5097ddf3291fd5c3937.png",
+   "title": "Tengai Makyou II: Manji Maru",
+   "url": "https://cdn2.steamgriddb.com/grid/c91461bd2a42b5097ddf3291fd5c3937.png"
+  },
+  "second-save/tengai-makyou-ziria-psp": {
+   "added": "2026-11-22T11:41:07Z",
+   "match": 1.0,
+   "name": "Tengai Makyou: Ziria",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/35a67b379873df3507fa6189e31d57bf.jpg",
+   "title": "Tengai Makyou Ziria",
+   "url": "https://cdn2.steamgriddb.com/grid/35a67b379873df3507fa6189e31d57bf.png"
+  },
   "silentheii/outbreak-translation": {
    "added": "2026-10-23T17:17:32Z",
    "match": 1.0,
@@ -8082,7 +8122,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-11-22T01:25:54Z",
+ "generated": "2026-11-22T11:41:07Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -8170,7 +8210,7 @@
   "damon-daemon/genghis-khan-4-english": "2026-11-12T11:30:13Z|genghis khan 4",
   "damon-daemon/ishin-no-arashi-bakumatsu-shishiden-english": "2026-11-14T01:29:44Z|ishin no arashi bakumatsu shishiden",
   "damon-daemon/nobunaga-ds-2-english": "2026-11-19T11:53:34Z|nobunagas ambition ds 2",
-  "damon-daemon/nobunaga-ranseiki-puk-english": "2026-11-08T06:19:44Z|nobunaga ranseiki puk",
+  "damon-daemon/nobunaga-ranseiki-puk-english": "2026-11-22T11:41:07Z|nobunaga ranseiki puk",
   "damon-daemon/nobunaga-reppuuden-puk-english": "2026-11-20T02:25:27Z|nobunaga no yabou reppuuden with power up kit",
   "damon-daemon/nobunaga-soutenroku-puk-english": "2026-11-19T11:53:34Z|nobunaga no yabou soutenroku with power up kit",
   "damon-daemon/oda-nobunaga-den-english": "2026-11-14T10:40:39Z|oda nobunaga den",
@@ -8214,7 +8254,7 @@
   "gabalva98-hub/-super-robot-wars-l-nds-english-translation-ai-assisted": "2026-11-20T20:32:33Z|super robot wars l nds ai assisted",
   "gabalva98-hub/super-robot-wars-k-nds-english-translation---ai-assisted": "2026-11-20T20:32:33Z|super robot wars k nds ai assisted",
   "gamebeast92/stadium0englishpatcher": "2026-11-18T20:42:40Z|stadium0english patcher",
-  "ganyu2404/kiri-3ds-universal-translator": "2026-11-08T06:19:44Z|kiri 3ds universal translator",
+  "ganyu2404/kiri-3ds-universal-translator": "2026-11-22T11:41:07Z|kiri 3ds universal translator",
   "gazefst/digimon-story-lost-evolution-indonesia-patch-nds": "2026-11-10T17:09:14Z|digimon story lost evolution indonesia",
   "gertius1/uu_psx_eng": "2026-11-14T01:29:44Z|psx version of ultima underworld",
   "gingka8233/happiness-sakura-celebration-english-patch-nintendo-switch": "2026-11-19T11:53:34Z|happiness sakura celebration",
@@ -8241,7 +8281,7 @@
   "kactusken/fire-pro-wrestling-g-english": "2026-11-19T11:53:34Z|fire pro wrestling g",
   "kactusken/fire-pro-wrestling-s-six-men-scramble-english": "2026-11-10T23:33:17Z|fire pro wrestling s",
   "kactusken/jikkyou-power-pro-wrestling-english": "2026-11-08T19:47:12Z|jikkyou power pro wrestling",
-  "kactusken/shin-nihon-pro-wrestling-toukon-retsuden-4-english": "2026-11-08T06:19:44Z|shin nihon pro wrestling toukon retsuden 4",
+  "kactusken/shin-nihon-pro-wrestling-toukon-retsuden-4-english": "2026-11-22T11:41:07Z|shin nihon pro wrestling toukon retsuden 4",
   "kactusken/shin-nippon-chou-senshi-in-tokyo-dome-english": "2026-11-18T11:56:22Z|shin nippon pro wrestling",
   "kactusken/shiroi-rinngu-he-english": "2026-11-13T01:57:09Z|shiroi rinngu he",
   "kactusken/super-wrestle-angels-english": "2026-11-19T11:53:34Z|super wrestle angels",
@@ -8411,11 +8451,13 @@
   "link:https://romhackplaza.org/translations/macross-7-ginga-no-heart-o-furuwasero-english-translation-gbc": "2026-11-19T20:48:57Z|macross 7 ginga no heart o furuwasero",
   "link:https://romhackplaza.org/translations/macross-do-you-remember-love-english-translation-playstation": "2026-11-19T11:53:34Z|macross do you remember love",
   "link:https://romhackplaza.org/translations/misfortune-a-story-of-suspicious-friendships-english-translation-playstation": "2026-11-19T20:48:57Z|misfortune a story of suspicious friendships",
+  "link:https://romhackplaza.org/translations/nano-diver-english-translation-playstation-portable": "2026-11-22T11:41:07Z|playstation portable",
   "link:https://romhackplaza.org/translations/nekojara-monogatari-english-translation-game-boy": "2026-11-19T20:48:57Z|nekojara monogatari",
   "link:https://romhackplaza.org/translations/pocket-fighter-mini-mix-english-translation-sega-saturn": "2026-10-22T09:57:51Z",
   "link:https://romhackplaza.org/translations/pocket-monsters-stadium-english-translation-nintendo-64": "2026-11-21T19:29:29Z|nintendo 64",
   "link:https://romhackplaza.org/translations/quackshot-starring-donald-duck-force-english-text-english-translation-sega-genesis": "2026-11-19T11:53:34Z|sega",
   "link:https://romhackplaza.org/translations/robbit-mon-dieu-english-translation-playstation": "2026-11-13T01:57:09Z|playstation",
+  "link:https://romhackplaza.org/translations/shining-force-gaiden-english-translation-sega-game-gear": "2026-11-22T11:41:07Z|sega",
   "link:https://romhackplaza.org/translations/simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi-english-translation-playstation-2": "2026-11-19T11:53:34Z|simple 2000 series ultimate vol 17 taisen bakudan poi poi",
   "link:https://romhackplaza.org/translations/simple-2000-series-ultimate-vol-5-love-%e2%98%85-mahjong-english-translation-playstation-2": "2026-11-19T20:48:57Z|simple 2000 ultimate vol 5 love mahjong",
   "link:https://romhackplaza.org/translations/street-fighter-alpha-3-english-translation-sega-saturn": "2026-11-19T11:53:34Z|sega",
@@ -8926,6 +8968,7 @@
   "schil227/advancefamicomwars": "2026-11-19T11:53:34Z|advance famicom wars",
   "scienceandresearch/ogre-battle-gaiden-english-plus": "2026-10-22T09:57:51Z",
   "second-save/deden-no-kabuki-den-english": "2026-11-21T11:25:40Z|tengai makyou deden no kabuki den",
+  "second-save/tengai-makyou-collection-psp": "2026-11-22T11:41:07Z|pc engine best collection tengai makyou collection",
   "selhou-lgu/kenka_bancho_4_psp_english": "2026-11-09T22:31:36Z|kenka bancho 4",
   "sja-processes/bebop-translation": "2026-11-15T22:58:41Z|famicom game be bop highschool",
   "stepigor/trails_in_the_sky_3rd_psp_english_patcher": "2026-11-09T01:01:18Z|trails in the sky 3rd psp patcher",
@@ -8933,6 +8976,7 @@
   "struktured-labs/song-master-en": "2026-11-11T06:46:56Z|song master",
   "struktured/trinea-dx": "2026-11-10T07:30:11Z|enhancement project for the super famicom game trinea complete",
   "suddenlythis/bloodgearpce-english": "2026-11-17T03:59:43Z|blood gear",
+  "suddenlythis/houshin-engi-aizouban-psx-english": "2026-11-22T11:41:07Z|houshin engi aizouban",
   "suddenlythis/linda3pce-english": "2026-11-13T01:57:09Z|linda3pce",
   "suddenlythis/robinlloyd-psx-english": "2026-11-20T20:32:33Z|adventures of robin lloyd",
   "syrofx/yakouchuu-fan-translation": "2026-11-18T11:56:22Z|visual novel yakouchuu",

@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-22T01:25:54Z",
+ "generated": "2026-11-22T11:41:07Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9590,6 +9590,39 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/shining-force-gaiden-english-translation-sega-game-gear",
+   "l": "https://romhackplaza.org/translations/shining-force-gaiden-english-translation-sega-game-gear",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Game Gear",
+   "src": "Romhack Plaza"
+  },
+  {
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "SEGA CD",
+   "id": "link:https://romhackplaza.org/translations/shadowrun-english-translation-sega-cd",
+   "l": "https://romhackplaza.org/translations/shadowrun-english-translation-sega-cd",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Mega CD",
+   "src": "Romhack Plaza"
+  },
+  {
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "PlayStation Portable",
+   "id": "link:https://romhackplaza.org/translations/nano-diver-english-translation-playstation-portable",
+   "l": "https://romhackplaza.org/translations/nano-diver-english-translation-playstation-portable",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -15458,6 +15491,84 @@
    "src": "GitHub"
   },
   {
+   "d": "English fan translation of Favorite Dear: Enkan no Monogatari (PSX)",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "Favorite Dear: Enkan no Monogatari",
+   "id": "minhnhattonthat/favorite-dear-enkan-no-monogatari-en",
+   "k": "minhnhattonthat/favorite-dear-enkan-no-monogatari-en",
+   "l": "https://github.com/minhnhattonthat/favorite-dear-enkan-no-monogatari-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for Tengai Makyou II: Manji Maru, PSP PC Engine Archives (NPJJ30036)",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "Tengai Makyou II: Manji Maru",
+   "id": "second-save/tengai-makyou-2-psp",
+   "k": "second-save/tengai-makyou-2-psp",
+   "l": "https://github.com/second-save/tengai-makyou-2-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for PC Engine Best Collection: Tengai Makyou Collection (PSP): Ziria, Manji Maru, Kabuki Den and Kabuki Ittou Ryoudan. No game data included.",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "PC Engine Best Collection: Tengai Makyou Collection",
+   "id": "second-save/tengai-makyou-collection-psp",
+   "k": "second-save/tengai-makyou-collection-psp",
+   "l": "https://github.com/second-save/tengai-makyou-collection-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation patch for Tengai Makyou II: Manji Maru (PC Engine Super CD-ROM², 1992): xdelta patch, notes and early tools. No game data included.",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "Tengai Makyou II: Manji Maru",
+   "id": "second-save/tengai-makyou-2-pce-cd",
+   "k": "second-save/tengai-makyou-2-pce-cd",
+   "l": "https://github.com/second-save/tengai-makyou-2-pce-cd",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PC Engine CD",
+   "src": "GitHub"
+  },
+  {
+   "d": "English patch for Tengai Makyou Ziria (PSN PC Engine Archives, NPJJ30029): LIPEMCO's translation ported to the PSP release, plus English emulator prompts and manual. No game data included.",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "Tengai Makyou Ziria",
+   "id": "second-save/tengai-makyou-ziria-psp",
+   "k": "second-save/tengai-makyou-ziria-psp",
+   "l": "https://github.com/second-save/tengai-makyou-ziria-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "Houshin Engi Aizouban (PS1) English translation",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "Houshin Engi Aizouban",
+   "id": "suddenlythis/houshin-engi-aizouban-psx-english",
+   "k": "suddenlythis/houshin-engi-aizouban-psx-english",
+   "l": "https://github.com/suddenlythis/houshin-engi-aizouban-psx-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -17075,51 +17186,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-21T11:25:40Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Bulk Slash (English Patch)",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
    "fa": "2026-11-21T19:29:29Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "Meremanoid English Patch",
-   "fa": "2026-11-22T01:25:54Z",
-   "g": "Meremanoid",
-   "id": "link:https://archive.org/details/meremanoid-english",
-   "l": "https://archive.org/details/meremanoid-english",
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-21T19:29:29Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "PS1",
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-22T01:25:54Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {

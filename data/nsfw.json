@@ -1836,11 +1836,6 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "checked": "2026-11-22T01:25:54Z",
-   "iv": 1,
-   "title": "Sonic Gems Collection"
-  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1855,6 +1850,16 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "checked": "2026-11-22T11:41:07Z",
+   "img": "https://t.vndb.org/cv/04/103904.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "AIR",
+   "sexual": 0,
+   "title": "AIR",
+   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2036,11 +2041,6 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "checked": "2026-11-22T01:25:54Z",
-   "iv": 1,
-   "title": "Bulk Slash"
-  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -2155,6 +2155,11 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2541,11 +2546,6 @@
    "iv": 1,
    "title": "Medarot DS Kabuto Ver."
   },
-  "link:https://archive.org/details/mega-man-x-4_202611": {
-   "checked": "2026-11-22T01:25:54Z",
-   "iv": 1,
-   "title": "Mega Man X4"
-  },
   "link:https://archive.org/details/mega_man_mhx_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -2570,11 +2570,6 @@
    "checked": "2026-10-23T11:50:40Z",
    "iv": 1,
    "title": "Digital Devil Story: Megami Tensei II"
-  },
-  "link:https://archive.org/details/meremanoid-english": {
-   "checked": "2026-11-22T01:25:54Z",
-   "iv": 1,
-   "title": "Meremanoid"
   },
   "link:https://archive.org/details/metal-max-2-eng-1.0": {
    "checked": "2026-10-29T10:12:06Z",
@@ -2781,6 +2776,11 @@
    "iv": 1,
    "title": "Samurai Warriors: State of War"
   },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "Sengoku BASARA 3 Utage —"
+  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -2875,6 +2875,11 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
+  },
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -3966,6 +3971,11 @@
    "iv": 1,
    "title": "Misfortune: A Story of Suspicious Friendships"
   },
+  "link:https://romhackplaza.org/translations/nano-diver-english-translation-playstation-portable": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "PlayStation Portable"
+  },
   "link:https://romhackplaza.org/translations/nekojara-monogatari-english-translation-game-boy": {
    "checked": "2026-10-22T17:20:22Z",
    "iv": 1,
@@ -4001,10 +4011,20 @@
    "iv": 1,
    "title": "PlayStation"
   },
+  "link:https://romhackplaza.org/translations/shadowrun-english-translation-sega-cd": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "SEGA CD"
+  },
   "link:https://romhackplaza.org/translations/shin-sd-gundam-gaiden-knight-gundam-monogatari-english-translation-game-boy": {
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "Shin SD Gundam Gaiden: Knight Gundam Monogatari"
+  },
+  "link:https://romhackplaza.org/translations/shining-force-gaiden-english-translation-sega-game-gear": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "SEGA"
   },
   "link:https://romhackplaza.org/translations/simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi-english-translation-playstation-2": {
    "checked": "2026-10-22T10:24:13Z",
@@ -10862,6 +10882,11 @@
    "title": "Favorite Dear",
    "vn": "v47507"
   },
+  "minhnhattonthat/favorite-dear-enkan-no-monogatari-en": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "Favorite Dear: Enkan no Monogatari"
+  },
   "minhnhattonthat/favorite-dear-junpaku-no-yogensha-en": {
    "checked": "2026-11-21T11:25:40Z",
    "img": "https://t.vndb.org/cv/17/101017.jpg",
@@ -11577,6 +11602,26 @@
    "iv": 1,
    "title": "Tengai Makyou: Deden no Kabuki-den"
   },
+  "second-save/tengai-makyou-2-pce-cd": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "Tengai Makyou II: Manji Maru"
+  },
+  "second-save/tengai-makyou-2-psp": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "Tengai Makyou II: Manji Maru"
+  },
+  "second-save/tengai-makyou-collection-psp": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "PC Engine Best Collection: Tengai Makyou Collection"
+  },
+  "second-save/tengai-makyou-ziria-psp": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "Tengai Makyou Ziria"
+  },
   "selhou-lgu/kenka_bancho_4_psp_english": {
    "checked": "2026-11-09T22:31:36Z",
    "iv": 1,
@@ -11656,6 +11701,11 @@
    "checked": "2026-11-17T03:59:43Z",
    "iv": 1,
    "title": "Blood Gear"
+  },
+  "suddenlythis/houshin-engi-aizouban-psx-english": {
+   "checked": "2026-11-22T11:41:07Z",
+   "iv": 1,
+   "title": "Houshin Engi Aizouban"
   },
   "suddenlythis/linda3pce-english": {
    "checked": "2026-11-13T01:57:09Z",
@@ -11828,6 +11878,6 @@
    "title": "Megami Ibunroku Persona Pc Recompile"
   }
  },
- "generated": "2026-11-22T01:25:54Z",
+ "generated": "2026-11-22T11:41:07Z",
  "version": 1
 }
