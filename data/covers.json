@@ -7592,6 +7592,14 @@
    "title": "Granbo",
    "url": "https://cdn2.steamgriddb.com/grid/faa495f7423b9905fb66b70fad135085.png"
   },
+  "minhnhattonthat/growlanser-psp-en": {
+   "added": "2026-11-23T13:14:38Z",
+   "match": 1.0,
+   "name": "Growlanser",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/ce1a8a1936268f49d18be385211a6327.jpg",
+   "title": "Growlanser",
+   "url": "https://cdn2.steamgriddb.com/grid/ce1a8a1936268f49d18be385211a6327.jpg"
+  },
   "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare": {
    "added": "2026-11-05T11:12:14Z",
    "match": 1.0,
@@ -7968,6 +7976,14 @@
    "title": "Puyo Puyo",
    "url": "https://cdn2.steamgriddb.com/grid/80d066c42f2ae18584651636980dfb40.png"
   },
+  "second-save/brave-fencer-musashi-undub": {
+   "added": "2026-11-23T13:14:38Z",
+   "match": 1.0,
+   "name": "Brave Fencer Musashi",
+   "thumb": "https://cdn2.steamgriddb.com/thumb/efbe9ba7be226c38215c564351322490.jpg",
+   "title": "Brave Fencer Musashi",
+   "url": "https://cdn2.steamgriddb.com/grid/efbe9ba7be226c38215c564351322490.png"
+  },
   "second-save/tengai-makyou-2-pce-cd": {
    "added": "2026-11-22T11:41:07Z",
    "match": 1.0,
@@ -8162,7 +8178,7 @@
   }
  },
  "format": "patch-watch-covers",
- "generated": "2026-11-23T01:49:56Z",
+ "generated": "2026-11-23T13:14:38Z",
  "misses": {
   "agtteam/bakedata": "2026-10-22T09:57:51Z",
   "agtteam/baketranslation": "2026-10-22T09:57:51Z",
@@ -8302,7 +8318,7 @@
   "gorillakenobi/digimon-tamers-saturn-en": "2026-11-11T17:17:15Z|digimon tamers",
   "gothamor/tokimeki-memorial-english-patch": "2026-11-22T19:50:52Z|tokimeki memorial forever with you",
   "granassabre/grandia3-pc": "2026-11-10T07:30:11Z|grandia3 pc",
-  "grouchoglasses42/card-hero-gbc": "2026-11-09T11:49:57Z|trade and battle card hero",
+  "grouchoglasses42/card-hero-gbc": "2026-11-23T13:14:38Z|trade and battle card hero",
   "hexerkat/langrisser3-strategy-guide": "2026-10-22T09:57:51Z",
   "hexporter/advanced-daisenryaku": "2026-11-19T02:39:49Z|advanced daisenryaku",
   "hypermegacrash/mmtextgadget": "2026-11-19T20:48:57Z|saru get you million monkeys",
@@ -8315,7 +8331,7 @@
   "jadetheda/talltwinstowerenglish": "2026-11-19T11:53:34Z|tall twins tower",
   "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba": "2026-11-09T22:31:36Z|detective conan nerawareta tantei the targeted detective",
   "jose-tissei/densha-de-go-yamanote-english": "2026-11-20T02:25:27Z|densha de go hashirou yamanote sen",
-  "junior-jones/sailor-moon-another-story-snes-static-recomp": "2026-11-09T11:49:57Z|sailor moon another story snes static recomp",
+  "junior-jones/sailor-moon-another-story-snes-static-recomp": "2026-11-23T13:14:38Z|sailor moon another story snes static recomp",
   "kactusken/bishoujo-wrestler-retsuden-english": "2026-11-20T20:32:33Z|bishoujo wrestler retsuden blizzard yuki rannyuu",
   "kactusken/fire-pro-wrestling-d-english": "2026-11-12T11:30:13Z|fire pro wrestling d",
   "kactusken/fire-pro-wrestling-g-english": "2026-11-19T11:53:34Z|fire pro wrestling g",
@@ -8409,10 +8425,12 @@
   "link:https://archive.org/details/professor_layton_ds_undub_patches": "2026-10-20T13:09:51Z",
   "link:https://archive.org/details/project_zero_3_undub_patch": "2026-11-18T01:01:50Z|project zero 3 the tormented",
   "link:https://archive.org/details/purpura-sancta-vita-caesaris-baronii-english": "2026-10-22T09:57:51Z",
+  "link:https://archive.org/details/puzzle-action-tant-r-sega-genesis-english-translation": "2026-11-23T13:14:38Z|puzzle and action tant r",
   "link:https://archive.org/details/robot_warlords_undub_patch": "2026-11-18T01:01:50Z|robot warlords",
   "link:https://archive.org/details/skylanders-english-patch-wii-u": "2026-10-22T09:57:51Z",
   "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "2026-11-19T20:48:57Z|storm lover kai",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "2026-11-19T11:53:34Z|street fighter ii",
+  "link:https://archive.org/details/strikeforce-2-english-patch-v-0-0-1": "2026-11-23T13:14:38Z|dynasty warriors strikeforce 2",
   "link:https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here": "2026-11-19T11:53:34Z|ciel nosurge ushinawareta hoshi e sasagu uta",
   "link:https://bszelda.zeldalegends.net/ce.shtml": "2026-11-18T01:01:50Z|bs legend of zelda third quest",
   "link:https://bszelda.zeldalegends.net/fq.shtmll": "2026-11-18T01:01:50Z|bs legend of zelda fourth quest",
@@ -8485,6 +8503,7 @@
   "link:https://romhackplaza.org/translations/druid-kyoufu-no-tobira-english-translation-fds": "2026-11-19T20:48:57Z|druid kyoufu no tobira",
   "link:https://romhackplaza.org/translations/famicom-jump-definitive-edition-english-translation-nintendo-entertainment-system": "2026-11-21T02:31:55Z|nintendo entertainment system",
   "link:https://romhackplaza.org/translations/famicom-jump-eiyuu-retsuden-english-translation-nes": "2026-11-19T20:48:57Z|famicom jump eiyuu retsuden",
+  "link:https://romhackplaza.org/translations/flower-sun-and-rain-ds-script-port-with-edits-english-translation-playstation-2": "2026-11-23T13:14:38Z|playstation 2",
   "link:https://romhackplaza.org/translations/ghost-sweeper-mikami-the-excorcist-with-a-nice-body-english-translation-super-nintendo": "2026-11-19T11:53:34Z|ghost sweeper mikami",
   "link:https://romhackplaza.org/translations/gokuraku-yuugi-game-tengoku-english-translation-fds": "2026-11-19T20:48:57Z|gokuraku yuugi game tengoku",
   "link:https://romhackplaza.org/translations/kamen-rider-sd-granshocker-no-yabou-english-translation-nes": "2026-11-19T20:48:57Z|kamen rider sd granshocker no yabo",
@@ -8908,6 +8927,7 @@
   "minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en": "2026-11-23T01:49:56Z|blade arts tasogare no miyako rlyeh",
   "minhnhattonthat/bouken-ou-beet-busters-road-en": "2026-11-15T06:49:55Z|bouken ou beet busters road",
   "minhnhattonthat/bouken-ou-beet-vandel-vs-busters-en": "2026-11-19T11:53:34Z|bouken ou beet vandel vs",
+  "minhnhattonthat/bounty-sword-en": "2026-11-23T13:14:38Z|bounty sword",
   "minhnhattonthat/cb-chara-wars-en": "2026-11-19T11:53:34Z|cb chara wars ushinawareta gag",
   "minhnhattonthat/chou-mashin-eiyuuden-wataru-another-step-en": "2026-11-15T06:49:55Z|chou mashin eiyuuden wataru another step",
   "minhnhattonthat/dharma-doujou-en": "2026-11-09T22:31:36Z|dharma doujou",

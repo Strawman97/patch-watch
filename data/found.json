@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-23T01:49:56Z",
+ "generated": "2026-11-23T13:14:38Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9623,6 +9623,17 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-11-23T13:14:38Z",
+   "g": "PlayStation 2",
+   "id": "link:https://romhackplaza.org/translations/flower-sun-and-rain-ds-script-port-with-edits-english-translation-playstation-2",
+   "l": "https://romhackplaza.org/translations/flower-sun-and-rain-ds-script-port-with-edits-english-translation-playstation-2",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -15763,6 +15774,45 @@
    "src": "GitHub"
   },
   {
+   "d": "Undub patch for Brave Fencer Musashi (PS1, US): Japanese voices with the English text. No game data included.",
+   "fa": "2026-11-23T13:14:38Z",
+   "g": "Brave Fencer Musashi",
+   "id": "second-save/brave-fencer-musashi-undub",
+   "k": "second-save/brave-fencer-musashi-undub",
+   "l": "https://github.com/second-save/brave-fencer-musashi-undub",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Bounty Sword (SNES)",
+   "fa": "2026-11-23T13:14:38Z",
+   "g": "Bounty Sword",
+   "id": "minhnhattonthat/bounty-sword-en",
+   "k": "minhnhattonthat/bounty-sword-en",
+   "l": "https://github.com/minhnhattonthat/bounty-sword-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Growlanser (PSP)",
+   "fa": "2026-11-23T13:14:38Z",
+   "g": "Growlanser",
+   "id": "minhnhattonthat/growlanser-psp-en",
+   "k": "minhnhattonthat/growlanser-psp-en",
+   "l": "https://github.com/minhnhattonthat/growlanser-psp-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -17380,35 +17430,59 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-22T11:41:07Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-22T19:50:52Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
     "Human translation"
    ],
-   "p": "PS3",
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-22T11:41:07Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "d": "Meremanoid English Patch",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Meremanoid",
+   "id": "link:https://archive.org/details/meremanoid-english",
+   "l": "https://archive.org/details/meremanoid-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
+   ],
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Puzzle & Action: Tant-R (SEGA Genesis) English Translation (v1.0)",
+   "fa": "2026-11-23T13:14:38Z",
+   "g": "Puzzle & Action: Tant-R (SEGA Genesis)",
+   "id": "link:https://archive.org/details/puzzle-action-tant-r-sega-genesis-english-translation",
+   "l": "https://archive.org/details/puzzle-action-tant-r-sega-genesis-english-translation",
+   "lb": [
+    "Human translation"
    ],
    "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-22T19:50:52Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "d": "Dynasty Warriors Strikeforce 2 English Patch v0.0.1",
+   "fa": "2026-11-23T13:14:38Z",
+   "g": "Dynasty Warriors Strikeforce 2",
+   "id": "link:https://archive.org/details/strikeforce-2-english-patch-v-0-0-1",
+   "l": "https://archive.org/details/strikeforce-2-english-patch-v-0-0-1",
    "lb": [
     "Human translation"
    ],
@@ -17416,15 +17490,15 @@
    "src": "Internet Archive"
   },
   {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-22T19:50:52Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "fa": "2026-11-23T13:14:38Z",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {

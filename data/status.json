@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-23T01:49:56Z",
+ "generated": "2026-11-23T13:14:38Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -523,6 +523,35 @@
    },
    "shots": []
   },
+  "andrewjacop/captain-tsubasa-eikou-no-kiseki-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T21:01:26Z",
+    "pre": false,
+    "tag": "v0.1-beta",
+    "url": "https://github.com/AndrewJacop/captain-tsubasa-eikou-no-kiseki-en/releases/tag/v0.1-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T20:20:56Z",
+    "desc": "Unofficial English translation patch for the Game Boy Advance card-battle soccer game.",
+    "full": "AndrewJacop/captain-tsubasa-eikou-no-kiseki-en",
+    "lang": null,
+    "pushed": "2026-11-22T21:01:26Z",
+    "size": 479,
+    "stars": 0
+   },
+   "shots": []
+  },
   "andriadhi/srw-l-translation": {
    "noRelease": true,
    "readme": {
@@ -696,10 +725,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-23T00:50:14Z",
+    "date": "2026-11-23T06:11:57Z",
     "pre": false,
-    "tag": "2026-11-22-2",
-    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/2026-11-22-2"
+    "tag": "2026-11-23",
+    "url": "https://github.com/ayla6/megami-ibunroku-persona-translation/releases/tag/2026-11-23"
    },
    "repo": {
     "archived": false,
@@ -707,8 +736,8 @@
     "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
-    "pushed": "2026-11-23T00:50:14Z",
-    "size": 7317,
+    "pushed": "2026-11-23T06:11:57Z",
+    "size": 7326,
     "stars": 9
    },
    "shots": []
@@ -997,7 +1026,7 @@
     "lang": null,
     "pushed": "2026-11-14T17:59:53Z",
     "size": 74704,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -3911,12 +3940,12 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-22T15:22:59Z",
-    "size": 161488,
+    "pushed": "2026-11-23T09:07:12Z",
+    "size": 163942,
     "stars": 52
    },
    "shots": [
-    "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/title-en.webp",
+    "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/readme-video-en.webp",
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/media/compare-original-en.webp",
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/media/compare-hd-en.webp",
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/media/auto-en.webp",
@@ -4196,7 +4225,7 @@
     "lang": null,
     "pushed": "2026-11-22T04:29:16Z",
     "size": 147,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://github.com/user-attachments/assets/e0cf036e-a6b0-4730-a283-48676759e79a",
@@ -4523,7 +4552,7 @@
     "lang": null,
     "pushed": "2026-08-28T12:07:21Z",
     "size": 15889,
-    "stars": 16
+    "stars": 17
    },
    "shots": [
     "https://raw.githubusercontent.com/ExxistanceDC/Willy-Wombat-English-Improvement-Patch/HEAD/Images/Willy_Wombat_art.png",
@@ -4657,7 +4686,7 @@
     "lang": "Python",
     "pushed": "2026-11-18T21:09:59Z",
     "size": 20,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -5377,7 +5406,7 @@
     "lang": "Python",
     "pushed": "2026-11-19T10:04:17Z",
     "size": 1626,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/hexporter/advanced-daisenryaku/HEAD/docs/images/zoomed-map.png",
@@ -5883,8 +5912,8 @@
     "desc": "Fan translation of Tokimeki Memorial 2 for PS1",
     "full": "jonny-anime/tokimeki-memorial-2-english-patch",
     "lang": "Python",
-    "pushed": "2026-11-23T01:01:34Z",
-    "size": 5588,
+    "pushed": "2026-11-23T02:27:47Z",
+    "size": 15052,
     "stars": 12
    },
    "shots": [
@@ -6565,7 +6594,7 @@
     "lang": "Python",
     "pushed": "2026-08-08T05:24:26Z",
     "size": 95067,
-    "stars": 19
+    "stars": 18
    },
    "shots": []
   },
@@ -7347,8 +7376,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-19T13:34:54Z",
-    "size": 92119,
+    "pushed": "2026-11-23T11:19:47Z",
+    "size": 93314,
     "stars": 103
    },
    "shots": [
@@ -7409,8 +7438,8 @@
     "desc": "A PSP game translation, one of the only if not only RTS games for PSP, now for the first time in English.",
     "full": "LunaMoo/Mokuba-no-Kiseki-English-Patch",
     "lang": "C",
-    "pushed": "2026-11-20T02:01:46Z",
-    "size": 20829,
+    "pushed": "2026-11-23T04:12:50Z",
+    "size": 20804,
     "stars": 0
    },
    "shots": []
@@ -7547,10 +7576,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T06:01:37Z",
+    "date": "2026-11-23T02:55:37Z",
     "pre": true,
-    "tag": "v0.5.5-r36s-alpha3",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.5-r36s-alpha3"
+    "tag": "v0.5.6-handheld-preview",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.6-handheld-preview"
    },
    "repo": {
     "archived": false,
@@ -7558,8 +7587,8 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-22T23:27:16Z",
-    "size": 49267,
+    "pushed": "2026-11-23T08:09:21Z",
+    "size": 49440,
     "stars": 3
    },
    "shots": []
@@ -7577,10 +7606,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T06:01:37Z",
+    "date": "2026-11-23T02:55:37Z",
     "pre": true,
-    "tag": "v0.5.5-r36s-alpha3",
-    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.5-r36s-alpha3"
+    "tag": "v0.5.6-handheld-preview",
+    "url": "https://github.com/MatyMeatBoy/DynaBroCollection/releases/tag/v0.5.6-handheld-preview"
    },
    "repo": {
     "archived": false,
@@ -7588,8 +7617,8 @@
     "desc": "DynaBroCollection - Dyna Brothers 1 + 2: native Windows x64 recompilation and English fan translation (alpha)",
     "full": "MatyMeatBoy/DynaBroCollection",
     "lang": "C",
-    "pushed": "2026-11-22T23:27:16Z",
-    "size": 49267,
+    "pushed": "2026-11-23T08:09:21Z",
+    "size": 49440,
     "stars": 3
    },
    "shots": []
@@ -7784,6 +7813,42 @@
     "stars": 5
    },
    "shots": []
+  },
+  "mesetamusic/votoms-ps2-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-23T05:37:38Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/mesetamusic/votoms-ps2-english-patch/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-23T01:26:11Z",
+    "desc": "",
+    "full": "mesetamusic/votoms-ps2-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-23T05:37:38Z",
+    "size": 6518,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/mesetamusic/votoms-ps2-english-patch/HEAD/screenshots/mission-select.webp",
+    "https://raw.githubusercontent.com/mesetamusic/votoms-ps2-english-patch/HEAD/screenshots/at-garage.webp",
+    "https://raw.githubusercontent.com/mesetamusic/votoms-ps2-english-patch/HEAD/screenshots/at-spec-sheet.webp",
+    "https://raw.githubusercontent.com/mesetamusic/votoms-ps2-english-patch/HEAD/screenshots/tutorial.webp",
+    "https://raw.githubusercontent.com/mesetamusic/votoms-ps2-english-patch/HEAD/screenshots/gallery.webp",
+    "https://raw.githubusercontent.com/mesetamusic/votoms-ps2-english-patch/HEAD/screenshots/mission-dialogue.webp"
+   ]
   },
   "mgdays/kisekko-gurumi-eng-patch-tools": {
    "noRelease": true,
@@ -8029,6 +8094,36 @@
     "pushed": "2026-11-17T11:03:17Z",
     "size": 3132,
     "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T21:38:49Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T12:00:38Z",
+    "desc": "English fan translation of Blade Arts: Tasogare no Miyako R'lyeh (PSX)",
+    "full": "minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en",
+    "lang": "Python",
+    "pushed": "2026-11-22T21:45:35Z",
+    "size": 1941,
+    "stars": 0
    },
    "shots": []
   },
@@ -8325,10 +8420,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T12:51:30Z",
+    "date": "2026-11-23T07:26:26Z",
     "pre": false,
-    "tag": "v1.2",
-    "url": "https://github.com/minhnhattonthat/dragon-knight-4-en/releases/tag/v1.2"
+    "tag": "v1.3",
+    "url": "https://github.com/minhnhattonthat/dragon-knight-4-en/releases/tag/v1.3"
    },
    "repo": {
     "archived": false,
@@ -8336,8 +8431,8 @@
     "desc": "English fan translation of Dragon Knight 4 (SNES, Banpresto 1996)",
     "full": "minhnhattonthat/dragon-knight-4-en",
     "lang": "Python",
-    "pushed": "2026-11-20T12:51:38Z",
-    "size": 1176,
+    "pushed": "2026-11-23T07:28:08Z",
+    "size": 1383,
     "stars": 1
    },
    "shots": []
@@ -8563,7 +8658,7 @@
     "lang": "Python",
     "pushed": "2026-11-23T00:06:20Z",
     "size": 4207,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -9059,12 +9154,42 @@
    "repo": {
     "archived": false,
     "created": "2026-11-17T11:24:37Z",
-    "desc": "English fan translation of growlanser-en (PSX)",
+    "desc": "English fan translation of Growlanser (PSX)",
     "full": "minhnhattonthat/growlanser-en",
     "lang": "Python",
     "pushed": "2026-11-21T05:46:55Z",
     "size": 7650,
-    "stars": 1
+    "stars": 2
+   },
+   "shots": []
+  },
+  "minhnhattonthat/gungho-brigade-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T19:47:49Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/gungho-brigade-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T11:23:12Z",
+    "desc": "English fan translation of gungho-brigade-en (PSX)",
+    "full": "minhnhattonthat/gungho-brigade-en",
+    "lang": "Python",
+    "pushed": "2026-11-22T19:47:49Z",
+    "size": 1329,
+    "stars": 0
    },
    "shots": []
   },
@@ -9278,10 +9403,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-16T04:33:26Z",
+    "date": "2026-11-23T06:38:19Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -9289,8 +9414,8 @@
     "desc": "English fan translation of Legend of Dynamic Goushouden: Houkai no Rondo (GBA)",
     "full": "minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en",
     "lang": "Python",
-    "pushed": "2026-11-16T04:34:08Z",
-    "size": 3900,
+    "pushed": "2026-11-23T06:38:18Z",
+    "size": 4068,
     "stars": 1
    },
    "shots": []
@@ -9500,10 +9625,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-26T12:59:37Z",
+    "date": "2026-11-23T10:00:10Z",
     "pre": false,
-    "tag": "v1.2",
-    "url": "https://github.com/minhnhattonthat/monster-guardians-en/releases/tag/v1.2"
+    "tag": "v1.3",
+    "url": "https://github.com/minhnhattonthat/monster-guardians-en/releases/tag/v1.3"
    },
    "repo": {
     "archived": false,
@@ -9511,8 +9636,8 @@
     "desc": "English fan translation of Monster Guardians (GBA, Konami 2001)",
     "full": "minhnhattonthat/monster-guardians-en",
     "lang": "Python",
-    "pushed": "2026-10-30T00:05:25Z",
-    "size": 623,
+    "pushed": "2026-11-23T10:01:20Z",
+    "size": 653,
     "stars": 0
    },
    "shots": []
@@ -9798,6 +9923,36 @@
    },
    "shots": []
   },
+  "minhnhattonthat/shin-masou-kishin-panzer-warfare-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T21:25:42Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/shin-masou-kishin-panzer-warfare-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T11:23:41Z",
+    "desc": "English fan translation of shin-masou-kishin-panzer-warfare-en (PSX)",
+    "full": "minhnhattonthat/shin-masou-kishin-panzer-warfare-en",
+    "lang": "Python",
+    "pushed": "2026-11-22T21:29:19Z",
+    "size": 2908,
+    "stars": 0
+   },
+   "shots": []
+  },
   "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en": {
    "assetOs": {},
    "readme": {
@@ -9932,6 +10087,33 @@
     "pushed": "2026-11-07T05:56:45Z",
     "size": 1318,
     "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/sora-no-otoshimono-dokidoki-summer-vacation-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-22T21:29:27Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/sora-no-otoshimono-dokidoki-summer-vacation-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T13:00:42Z",
+    "desc": "English fan translation of sora-no-otoshimono-dokidoki-summer-vacation-en (PSP)",
+    "full": "minhnhattonthat/sora-no-otoshimono-dokidoki-summer-vacation-en",
+    "lang": "Python",
+    "pushed": "2026-11-22T21:31:04Z",
+    "size": 8456,
+    "stars": 0
    },
    "shots": []
   },
@@ -10132,6 +10314,33 @@
     "pushed": "2026-11-17T11:02:22Z",
     "size": 890,
     "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-23T00:56:33Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T19:18:32Z",
+    "desc": "English fan translation of Tokyo Majin Gakuen: Fuju Houroku (GBA)",
+    "full": "minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en",
+    "lang": "Python",
+    "pushed": "2026-11-23T01:00:09Z",
+    "size": 1859,
+    "stars": 0
    },
    "shots": []
   },
@@ -10359,6 +10568,7 @@
    "noRelease": true,
    "readme": {
     "patch": {
+     "adult": true,
      "cov": "Partial",
      "ex": {}
     },
@@ -10371,7 +10581,7 @@
     "desc": "English translation for Shinseiki Odysselya and Shinseiki Odysselya II for SNES, only the patch, no game files or tools.",
     "full": "mlastes1987/odysselya-eng",
     "lang": null,
-    "pushed": "2026-11-20T17:03:02Z",
+    "pushed": "2026-11-23T05:34:47Z",
     "size": 617,
     "stars": 0
    },
@@ -10682,7 +10892,7 @@
     "lang": null,
     "pushed": "2026-11-13T13:38:46Z",
     "size": 2,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -10812,6 +11022,44 @@
    },
    "shots": []
   },
+  "nrlemo/shining-wind-en-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-23T06:12:49Z",
+    "pre": true,
+    "tag": "rc01",
+    "url": "https://github.com/Nrlemo/shining-wind-en/releases/tag/rc01"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T22:57:00Z",
+    "desc": "English fan translation of Shining Wind (PS2, SLPM-66671). Rc01 xdelta patch, install guide and screenshots. Variable-width font, translated text and menu graphics.",
+    "full": "Nrlemo/shining-wind-en",
+    "lang": "Shell",
+    "pushed": "2026-11-23T06:20:07Z",
+    "size": 19016,
+    "stars": 6
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Nrlemo/shining-wind-en/HEAD/screenshots/gallery/01-title.png",
+    "https://raw.githubusercontent.com/Nrlemo/shining-wind-en/HEAD/screenshots/gallery/02-title-menu.png",
+    "https://raw.githubusercontent.com/Nrlemo/shining-wind-en/HEAD/screenshots/gallery/11-dialogue-kiriya.png",
+    "https://raw.githubusercontent.com/Nrlemo/shining-wind-en/HEAD/screenshots/gallery/12-dialogue-seena-smack.png",
+    "https://raw.githubusercontent.com/Nrlemo/shining-wind-en/HEAD/screenshots/gallery/13-dialogue-gently.png",
+    "https://raw.githubusercontent.com/Nrlemo/shining-wind-en/HEAD/screenshots/gallery/14-load-game.png"
+   ]
+  },
   "nrlemo/super-robot-wars-alpha-psx-english-ver": {
    "assetOs": {},
    "readme": {
@@ -10836,7 +11084,7 @@
     "lang": "Python",
     "pushed": "2026-10-31T17:51:31Z",
     "size": 6088,
-    "stars": 9
+    "stars": 10
    },
    "shots": [
     "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/HEAD/screenshots/f03100_320x240_16.png",
@@ -11235,7 +11483,7 @@
     "lang": "Python",
     "pushed": "2026-11-13T23:46:48Z",
     "size": 8680,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -11263,7 +11511,7 @@
     "lang": "Python",
     "pushed": "2026-11-05T20:18:32Z",
     "size": 7434,
-    "stars": 5
+    "stars": 6
    },
    "shots": []
   },
@@ -11291,7 +11539,7 @@
     "lang": "Python",
     "pushed": "2026-11-02T16:47:09Z",
     "size": 1890,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -11529,7 +11777,7 @@
     "lang": "Python",
     "pushed": "2026-11-12T22:05:18Z",
     "size": 3965,
-    "stars": 17
+    "stars": 18
    },
    "shots": [
     "https://raw.githubusercontent.com/Redeted/megami-ibunroku-persona-ps1-translation/HEAD/screenshots/1.png",
@@ -12101,7 +12349,7 @@
     "lang": null,
     "pushed": "2026-11-08T00:31:18Z",
     "size": 6,
-    "stars": 3
+    "stars": 4
    },
    "shots": []
   },
@@ -13258,7 +13506,7 @@
     "lang": null,
     "pushed": "2026-11-21T19:06:09Z",
     "size": 3801,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/robinlloyd-psx-english/HEAD/screenshots/02-office.png",
@@ -13826,6 +14074,53 @@
     "https://raw.githubusercontent.com/waifoof/Koukidou-Gensou-Gunparade-March-MTL-English-Patch/HEAD/screenshots/combat_training.png"
    ]
   },
+  "wakabayashy/cross-edge-dash-xbox360-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "retrans": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T21:02:57Z",
+    "desc": "Xbox 360 English translation project for Cross Edge Dash, based on the official PS3 localization with additional content translation.",
+    "full": "wakabayashy/Cross-Edge-Dash-Xbox360-English",
+    "lang": null,
+    "pushed": "2026-11-22T21:05:33Z",
+    "size": 3,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "wakabayashy/hundred-swords-dreamcast-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "port": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T23:33:59Z",
+    "desc": "English translation and editing project for Hundred Swords on Sega Dreamcast.",
+    "full": "wakabayashy/Hundred-Swords-Dreamcast-English",
+    "lang": null,
+    "pushed": "2026-11-22T23:35:18Z",
+    "size": 2,
+    "stars": 0
+   },
+   "shots": []
+  },
   "wakabayashy/sakura-wars-1-dreamcast-english-translation": {
    "noRelease": true,
    "readme": {
@@ -13846,6 +14141,90 @@
     "lang": null,
     "pushed": "2026-10-30T21:39:22Z",
     "size": 3,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "wakabayashy/sakura-wars-2-dreamcast-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T21:02:44Z",
+    "desc": "English translation and editing project for Sakura Wars 2 on Sega Dreamcast.",
+    "full": "wakabayashy/Sakura-Wars-2-Dreamcast-English",
+    "lang": null,
+    "pushed": "2026-11-22T21:05:27Z",
+    "size": 2,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "wakabayashy/sakura-wars-4-dreamcast-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T21:02:48Z",
+    "desc": "English translation project for Sakura Wars 4 on Sega Dreamcast.",
+    "full": "wakabayashy/Sakura-Wars-4-Dreamcast-English",
+    "lang": null,
+    "pushed": "2026-11-22T21:05:29Z",
+    "size": 2,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "wakabayashy/sengoku-basara-4-sumeragi-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T21:03:10Z",
+    "desc": "English translation and editing project for Sengoku BASARA 4 Sumeragi on PlayStation 3.",
+    "full": "wakabayashy/Sengoku-BASARA-4-Sumeragi-English",
+    "lang": null,
+    "pushed": "2026-11-22T21:05:39Z",
+    "size": 2,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "wakabayashy/sengoku-basara-hd-collection-english": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T21:03:15Z",
+    "desc": "English translation and editing project for Sengoku BASARA HD Collection on PlayStation 3.",
+    "full": "wakabayashy/Sengoku-BASARA-HD-Collection-English",
+    "lang": null,
+    "pushed": "2026-11-22T21:05:41Z",
+    "size": 2,
     "stars": 0
    },
    "shots": []
