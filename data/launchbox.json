@@ -97,6 +97,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
   },
+  "andrewjacop/captain-tsubasa-eikou-no-kiseki-en": {
+   "id": "176639",
+   "name": "Captain Tsubasa: Eikou no Kiseki",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/e59f18a1-ffec-4694-bdff-c2f1181606ee.jpg"
+  },
   "andriadhi/srw-l-translation": {
    "id": "183961",
    "name": "Super Robot Wars L",
@@ -1429,12 +1435,6 @@
    "region": "Europe",
    "url": "https://images.launchbox-app.com/ef4e2712-6155-467b-864a-c55205d18556.jpg"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "id": "7044",
-   "name": "Sonic Gems Collection",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/8920d704-e2de-4163-a4d6-d3597dbc05db.jpg"
-  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "id": "4422",
    "name": "Ace Combat Zero: The Belkan War",
@@ -1452,6 +1452,12 @@
    "name": "AeroWings",
    "region": "North America",
    "url": "https://images.launchbox-app.com/3ee6b5b4-bfcd-4fc6-aa7c-8621c58efb37.jpg"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "id": "166211",
+   "name": "Air",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/6a38612a-4371-403f-aeed-36c4bc5d81ec.jpg"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "id": "5870",
@@ -1663,12 +1669,6 @@
    "region": "North America",
    "url": "https://images.launchbox-app.com/67725e3f-0c3c-494f-9a1d-57ccbab26e83.jpg"
   },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "id": "23764",
-   "name": "Bulk Slash",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/d6d6430e-3ec5-429d-bb2d-7dea4a3b19eb.jpg"
-  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "id": "23380",
    "name": "Castle of Shikigami III",
@@ -1782,6 +1782,12 @@
    "name": "Doshin the Giant",
    "region": "Europe",
    "url": "https://images.launchbox-app.com/r2_e395b1c8-e697-45cc-8ade-2e0f396fc0c9.png"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "id": "7222",
+   "name": "Dragon Ball Z: Budokai",
+   "region": "North America",
+   "url": "https://images.launchbox-app.com/0cf4679d-281f-4e22-b3fe-943e6997febc.jpg"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "id": "20572",
@@ -2209,12 +2215,6 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/1a27d8fc-aecc-4142-9ae4-825f34fd1747.jpg"
   },
-  "link:https://archive.org/details/mega-man-x-4_202611": {
-   "id": "567",
-   "name": "Mega Man X4",
-   "region": "North America",
-   "url": "https://images.launchbox-app.com/26fb91d3-2722-4d1e-a0ea-5ece05048769.jpg"
-  },
   "link:https://archive.org/details/mega_man_mhx_undub_patch": {
    "id": "7101",
    "name": "Mega Man Maverick Hunter X",
@@ -2244,12 +2244,6 @@
    "name": "Digital Devil Story: Megami Tensei II",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/cd451a1f-fa27-42a8-8dfd-d9142929984a.jpg"
-  },
-  "link:https://archive.org/details/meremanoid-english": {
-   "id": "160283",
-   "name": "Meremanoid",
-   "region": "Japan",
-   "url": "https://images.launchbox-app.com/026cdd58-0f40-448f-a197-78a5bfd1c069.jpg"
   },
   "link:https://archive.org/details/metal-max-2-eng-1.0": {
    "id": "123561",
@@ -2472,6 +2466,12 @@
    "name": "Samurai Warriors: State of War",
    "region": "North America",
    "url": "https://images.launchbox-app.com/9152da1a-ae96-4b74-826f-d15d9677438e.jpg"
+  },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "id": "16496",
+   "name": "Sengoku Basara 3: Utage",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/138ef7dd-c27e-4595-9e53-a6591787bee3.jpg"
   },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "id": "12407",
@@ -10645,6 +10645,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/r2_9dafad1b-c779-41cb-b8a3-36b8136f91ae.jpg"
   },
+  "minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en": {
+   "id": "33145",
+   "name": "Blade Arts: Tasogare no Miyako R'lyeh",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1e2d6c9d-420b-4181-ae42-58b86ea69609.jpg"
+  },
   "minhnhattonthat/blaze-union-story-to-reach-the-future-en": {
    "id": "143489",
    "name": "Blaze Union: Story to Reach the Future",
@@ -11023,6 +11029,12 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/214cd12c-224b-4b12-a7c9-9f22919e44d3.jpg"
   },
+  "minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en": {
+   "id": "178828",
+   "name": "Tokyo Majin Gakuen: Fuju Houroku",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/743b90c1-7a4f-43a2-b288-ba23781b9e2a.jpg"
+  },
   "minhnhattonthat/toyrobo-force-en": {
    "id": "178877",
    "name": "Toy Robo Force",
@@ -11118,6 +11130,12 @@
    "name": "Torneko no Daibouken: Fushigi no Dungeon",
    "region": "Japan",
    "url": "https://images.launchbox-app.com/13bc7128-f954-41c1-84eb-97cfb27f398d.png"
+  },
+  "nrlemo/shining-wind-en-patch": {
+   "id": "122587",
+   "name": "Shining Wind",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/989a1689-7462-4c26-beac-586b79141907.jpg"
   },
   "nrlemo/super-robot-wars-alpha-psx-english-ver": {
    "id": "30082",
@@ -11479,6 +11497,36 @@
    "region": "Japan",
    "url": "https://images.launchbox-app.com/ddd59ec5-a8b6-4b3e-84a0-00b24f7856fe.jpg"
   },
+  "wakabayashy/hundred-swords-dreamcast-english": {
+   "id": "134823",
+   "name": "Hundred Swords",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/0231861d-a553-4a5d-a3e3-6d713ad50987.jpg"
+  },
+  "wakabayashy/sakura-wars-2-dreamcast-english": {
+   "id": "146553",
+   "name": "Sakura Taisen 2: Kimi, Shinitamou Koto Nakare",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/66e907bb-b525-46e3-8828-48c025a6121a.jpg"
+  },
+  "wakabayashy/sakura-wars-4-dreamcast-english": {
+   "id": "203678",
+   "name": "Sakura Taisen 4: Koi Seyo, Otome",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/1a486f2a-46f4-43ca-a239-05ee347d14be.jpg"
+  },
+  "wakabayashy/sengoku-basara-4-sumeragi-english": {
+   "id": "177269",
+   "name": "Sengoku Basara 4: Sumeragi",
+   "region": "Japan",
+   "url": "https://images.launchbox-app.com/89d0c2f9-f74c-4732-bfee-b7d38642ac3e.jpg"
+  },
+  "wakabayashy/sengoku-basara-hd-collection-english": {
+   "id": "16498",
+   "name": "Sengoku Basara: HD Collection",
+   "region": "",
+   "url": "https://images.launchbox-app.com/ee59c38e-6609-42db-afd6-4f4f5a361e2c.jpg"
+  },
   "wandering-heiho/vantage_master_portable_psp": {
    "id": "172261",
    "name": "Vantage Master Portable",
@@ -11492,6 +11540,6 @@
    "url": "https://images.launchbox-app.com/0bcf3ccf-273d-4678-bf8c-424ca4239ddc.jpg"
   }
  },
- "generated": "2026-11-22T19:50:52Z",
+ "generated": "2026-11-23T01:49:56Z",
  "version": 1
 }

@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-22T19:50:52Z",
+ "generated": "2026-11-23T01:49:56Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -15582,6 +15582,187 @@
    "src": "GitHub"
   },
   {
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Votoms",
+   "id": "mesetamusic/votoms-ps2-english-patch",
+   "k": "mesetamusic/votoms-ps2-english-patch",
+   "l": "https://github.com/mesetamusic/votoms-ps2-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Tokyo Majin Gakuen: Fuju Houroku (GBA)",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Tokyo Majin Gakuen: Fuju Houroku",
+   "id": "minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en",
+   "k": "minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en",
+   "l": "https://github.com/minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation and editing project for Hundred Swords on Sega Dreamcast.",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Hundred Swords",
+   "id": "wakabayashy/hundred-swords-dreamcast-english",
+   "k": "wakabayashy/hundred-swords-dreamcast-english",
+   "l": "https://github.com/wakabayashy/Hundred-Swords-Dreamcast-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Dreamcast",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Shining Wind (PS2, SLPM-66671). Beta 1 xdelta patch, install guide and screenshots. Variable-width font, translated text and menu graphics.",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Shining Wind",
+   "id": "nrlemo/shining-wind-en-patch",
+   "k": "nrlemo/shining-wind-en-patch",
+   "l": "https://github.com/Nrlemo/shining-wind-en-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Blade Arts: Tasogare no Miyako R'lyeh (PSX)",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Blade Arts: Tasogare no Miyako R'lyeh",
+   "id": "minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en",
+   "k": "minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en",
+   "l": "https://github.com/minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of sora-no-otoshimono-dokidoki-summer-vacation-en (PSP)",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Sora-No-Otoshimono-Dokidoki-Summer-Vacation-En",
+   "id": "minhnhattonthat/sora-no-otoshimono-dokidoki-summer-vacation-en",
+   "k": "minhnhattonthat/sora-no-otoshimono-dokidoki-summer-vacation-en",
+   "l": "https://github.com/minhnhattonthat/sora-no-otoshimono-dokidoki-summer-vacation-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of shin-masou-kishin-panzer-warfare-en (PSX)",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Shin-Masou-Kishin-Panzer-Warfare-En",
+   "id": "minhnhattonthat/shin-masou-kishin-panzer-warfare-en",
+   "k": "minhnhattonthat/shin-masou-kishin-panzer-warfare-en",
+   "l": "https://github.com/minhnhattonthat/shin-masou-kishin-panzer-warfare-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation and editing project for Sengoku BASARA HD Collection on PlayStation 3.",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Sengoku BASARA HD Collection",
+   "id": "wakabayashy/sengoku-basara-hd-collection-english",
+   "k": "wakabayashy/sengoku-basara-hd-collection-english",
+   "l": "https://github.com/wakabayashy/Sengoku-BASARA-HD-Collection-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation and editing project for Sengoku BASARA 4 Sumeragi on PlayStation 3.",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Sengoku BASARA 4 Sumeragi",
+   "id": "wakabayashy/sengoku-basara-4-sumeragi-english",
+   "k": "wakabayashy/sengoku-basara-4-sumeragi-english",
+   "l": "https://github.com/wakabayashy/Sengoku-BASARA-4-Sumeragi-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "GitHub"
+  },
+  {
+   "d": "Xbox 360 English translation project for Cross Edge Dash, based on the official PS3 localization with additional content translation.",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Cross Edge Dash",
+   "id": "wakabayashy/cross-edge-dash-xbox360-english",
+   "k": "wakabayashy/cross-edge-dash-xbox360-english",
+   "l": "https://github.com/wakabayashy/Cross-Edge-Dash-Xbox360-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation project for Sakura Wars 4 on Sega Dreamcast.",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Sakura Wars 4",
+   "id": "wakabayashy/sakura-wars-4-dreamcast-english",
+   "k": "wakabayashy/sakura-wars-4-dreamcast-english",
+   "l": "https://github.com/wakabayashy/Sakura-Wars-4-Dreamcast-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Dreamcast",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation and editing project for Sakura Wars 2 on Sega Dreamcast.",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Sakura Wars 2",
+   "id": "wakabayashy/sakura-wars-2-dreamcast-english",
+   "k": "wakabayashy/sakura-wars-2-dreamcast-english",
+   "l": "https://github.com/wakabayashy/Sakura-Wars-2-Dreamcast-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Dreamcast",
+   "src": "GitHub"
+  },
+  {
+   "d": "Unofficial English translation patch for the Game Boy Advance card-battle soccer game.",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Captain Tsubasa Eikou No Kiseki",
+   "id": "andrewjacop/captain-tsubasa-eikou-no-kiseki-en",
+   "k": "andrewjacop/captain-tsubasa-eikou-no-kiseki-en",
+   "l": "https://github.com/AndrewJacop/captain-tsubasa-eikou-no-kiseki-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of gungho-brigade-en (PSX)",
+   "fa": "2026-11-23T01:49:56Z",
+   "g": "Gungho-Brigade-En",
+   "id": "minhnhattonthat/gungho-brigade-en",
+   "k": "minhnhattonthat/gungho-brigade-en",
+   "l": "https://github.com/minhnhattonthat/gungho-brigade-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -17199,51 +17380,51 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Meremanoid English Patch",
-   "fa": "2026-11-22T01:25:54Z",
-   "g": "Meremanoid",
-   "id": "link:https://archive.org/details/meremanoid-english",
-   "l": "https://archive.org/details/meremanoid-english",
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
    "lb": [
     "Human translation"
    ],
-   "p": "PS1",
+   "p": "PS3",
    "src": "Internet Archive"
   },
   {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-22T01:25:54Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-22T11:41:07Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-22T11:41:07Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Bulk Slash (English Patch)",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
    "fa": "2026-11-22T19:50:52Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
    "lb": [
     "Human translation"
    ],
-   "p": "Saturn",
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-22T19:50:52Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {

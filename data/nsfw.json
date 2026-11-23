@@ -111,6 +111,11 @@
    "iv": 1,
    "title": "Sengoku BASARA 3 Utage"
   },
+  "andrewjacop/captain-tsubasa-eikou-no-kiseki-en": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Captain Tsubasa Eikou No Kiseki"
+  },
   "andriadhi/srw-l-translation": {
    "checked": "2026-11-05T11:12:14Z",
    "iv": 1,
@@ -1836,11 +1841,6 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "checked": "2026-11-22T19:50:52Z",
-   "iv": 1,
-   "title": "Sonic Gems Collection"
-  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1855,6 +1855,16 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "checked": "2026-11-23T01:49:56Z",
+   "img": "https://t.vndb.org/cv/04/103904.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "AIR",
+   "sexual": 0,
+   "title": "AIR",
+   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2036,11 +2046,6 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "checked": "2026-11-22T19:50:52Z",
-   "iv": 1,
-   "title": "Bulk Slash"
-  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -2155,6 +2160,11 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2541,11 +2551,6 @@
    "iv": 1,
    "title": "Medarot DS Kabuto Ver."
   },
-  "link:https://archive.org/details/mega-man-x-4_202611": {
-   "checked": "2026-11-22T19:50:52Z",
-   "iv": 1,
-   "title": "Mega Man X4"
-  },
   "link:https://archive.org/details/mega_man_mhx_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -2570,11 +2575,6 @@
    "checked": "2026-10-23T11:50:40Z",
    "iv": 1,
    "title": "Digital Devil Story: Megami Tensei II"
-  },
-  "link:https://archive.org/details/meremanoid-english": {
-   "checked": "2026-11-22T19:50:52Z",
-   "iv": 1,
-   "title": "Meremanoid"
   },
   "link:https://archive.org/details/metal-max-2-eng-1.0": {
    "checked": "2026-10-29T10:12:06Z",
@@ -2781,6 +2781,11 @@
    "iv": 1,
    "title": "Samurai Warriors: State of War"
   },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Sengoku BASARA 3 Utage —"
+  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -2875,6 +2880,11 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
+  },
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -10727,6 +10737,11 @@
    "iv": 1,
    "title": "Idolmaster Dearly Stars"
   },
+  "mesetamusic/votoms-ps2-english-patch": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Votoms"
+  },
   "mgdays/kisekko-gurumi-eng-patch-tools": {
    "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
@@ -10776,6 +10791,11 @@
    "checked": "2026-11-05T11:12:14Z",
    "iv": 1,
    "title": "Black/Matrix +"
+  },
+  "minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Blade Arts: Tasogare no Miyako R'lyeh"
   },
   "minhnhattonthat/blaze-union-story-to-reach-the-future-en": {
    "checked": "2026-11-08T13:40:13Z",
@@ -10977,6 +10997,11 @@
    "iv": 1,
    "title": "Growlanser-En"
   },
+  "minhnhattonthat/gungho-brigade-en": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Gungho-Brigade-En"
+  },
   "minhnhattonthat/hachiemon-en": {
    "checked": "2026-11-07T10:27:39Z",
    "iv": 1,
@@ -11107,6 +11132,11 @@
    "iv": 1,
    "title": "Sengoku Kakumei Gaiden"
   },
+  "minhnhattonthat/shin-masou-kishin-panzer-warfare-en": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Shin-Masou-Kishin-Panzer-Warfare-En"
+  },
   "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en": {
    "checked": "2026-11-01T06:25:29Z",
    "iv": 1,
@@ -11131,6 +11161,11 @@
    "checked": "2026-10-30T01:09:25Z",
    "iv": 1,
    "title": "Solid Runner"
+  },
+  "minhnhattonthat/sora-no-otoshimono-dokidoki-summer-vacation-en": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Sora-No-Otoshimono-Dokidoki-Summer-Vacation-En"
   },
   "minhnhattonthat/sugoro-quest-dicenics-en": {
    "checked": "2026-10-22T12:22:11Z",
@@ -11166,6 +11201,11 @@
    "checked": "2026-11-14T01:29:44Z",
    "iv": 1,
    "title": "Time-Bokan-Series-Bokan-To-Ippatsu-Doronbow-En"
+  },
+  "minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Tokyo Majin Gakuen: Fuju Houroku"
   },
   "minhnhattonthat/toyrobo-force-en": {
    "checked": "2026-11-17T03:59:43Z",
@@ -11286,6 +11326,11 @@
    "checked": "2026-10-25T05:10:35Z",
    "iv": 1,
    "title": "Torneko no Daibouken: Fushigi no Dungeon"
+  },
+  "nrlemo/shining-wind-en-patch": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Shining Wind"
   },
   "nrlemo/super-robot-wars-alpha-psx-english-ver": {
    "checked": "2026-10-25T05:10:35Z",
@@ -11832,10 +11877,40 @@
    "iv": 1,
    "title": "Koukidou Gensou: Gunparade March"
   },
+  "wakabayashy/cross-edge-dash-xbox360-english": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Cross Edge Dash"
+  },
+  "wakabayashy/hundred-swords-dreamcast-english": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Hundred Swords"
+  },
   "wakabayashy/sakura-wars-1-dreamcast-english-translation": {
    "checked": "2026-10-30T22:29:19Z",
    "iv": 1,
    "title": "Sakura Wars 1"
+  },
+  "wakabayashy/sakura-wars-2-dreamcast-english": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Sakura Wars 2"
+  },
+  "wakabayashy/sakura-wars-4-dreamcast-english": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Sakura Wars 4"
+  },
+  "wakabayashy/sengoku-basara-4-sumeragi-english": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Sengoku BASARA 4 Sumeragi"
+  },
+  "wakabayashy/sengoku-basara-hd-collection-english": {
+   "checked": "2026-11-23T01:49:56Z",
+   "iv": 1,
+   "title": "Sengoku BASARA HD Collection"
   },
   "wandering-heiho/vantage_master_portable_psp": {
    "checked": "2026-10-22T10:24:13Z",
@@ -11878,6 +11953,6 @@
    "title": "Megami Ibunroku Persona Pc Recompile"
   }
  },
- "generated": "2026-11-22T19:50:52Z",
+ "generated": "2026-11-23T01:49:56Z",
  "version": 1
 }
