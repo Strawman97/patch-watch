@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-23T13:14:38Z",
+ "generated": "2026-11-24T02:22:09Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9634,6 +9634,17 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-11-24T02:22:09Z",
+   "g": "Turbografx-16",
+   "id": "link:https://romhackplaza.org/translations/air-zonk-restoration-english-translation-turbografx-16",
+   "l": "https://romhackplaza.org/translations/air-zonk-restoration-english-translation-turbografx-16",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PC Engine",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -15813,6 +15824,19 @@
    "src": "GitHub"
   },
   {
+   "d": "Doki Doki Poyatchio!! (PS1) English translation",
+   "fa": "2026-11-24T02:22:09Z",
+   "g": "Doki Doki Poyatchio!!",
+   "id": "suddenlythis/doki-doki-poyatchio-psx-english",
+   "k": "suddenlythis/doki-doki-poyatchio-psx-english",
+   "l": "https://github.com/suddenlythis/doki-doki-poyatchio-psx-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -17430,42 +17454,6 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-11-22T19:50:52Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Meremanoid English Patch",
-   "fa": "2026-11-23T01:49:56Z",
-   "g": "Meremanoid",
-   "id": "link:https://archive.org/details/meremanoid-english",
-   "l": "https://archive.org/details/meremanoid-english",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS1",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-23T01:49:56Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS1",
-   "src": "Internet Archive"
-  },
-  {
    "d": "Puzzle & Action: Tant-R (SEGA Genesis) English Translation (v1.0)",
    "fa": "2026-11-23T13:14:38Z",
    "g": "Puzzle & Action: Tant-R (SEGA Genesis)",
@@ -17490,15 +17478,75 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
    "fa": "2026-11-23T13:14:38Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
    "lb": [
     "Human translation"
    ],
-   "p": "GameCube",
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-23T13:14:38Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Shining Tears Restoration + Undub v1.1",
+   "fa": "2026-11-24T02:22:09Z",
+   "g": "Shining Tears Restoration +",
+   "id": "link:https://archive.org/details/shining-tears-undub-1.1",
+   "l": "https://archive.org/details/shining-tears-undub-1.1",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Shining Tears UNDUB patch",
+   "fa": "2026-11-24T02:22:09Z",
+   "g": "Shining Tears",
+   "id": "link:https://archive.org/details/shining-tears-undub",
+   "l": "https://archive.org/details/shining-tears-undub",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-11-24T02:22:09Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-24T02:22:09Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
    "src": "Internet Archive"
   },
   {

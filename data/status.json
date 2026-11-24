@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-23T13:14:38Z",
+ "generated": "2026-11-24T02:22:09Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1063,10 +1063,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T00:35:52Z",
+    "date": "2026-11-23T20:55:42Z",
     "pre": false,
-    "tag": "v0.9",
-    "url": "https://github.com/BeanutROM/PSX-CyberOrg-English-Patch/releases/tag/v0.9"
+    "tag": "v0.9.5",
+    "url": "https://github.com/BeanutROM/PSX-CyberOrg-English-Patch/releases/tag/v0.9.5"
    },
    "repo": {
     "archived": false,
@@ -1074,8 +1074,8 @@
     "desc": "An english patch for the PSX game CyberOrg",
     "full": "BeanutROM/PSX-CyberOrg-English-Patch",
     "lang": null,
-    "pushed": "2026-11-22T00:35:52Z",
-    "size": 2514,
+    "pushed": "2026-11-23T20:55:42Z",
+    "size": 4264,
     "stars": 1
    },
    "shots": []
@@ -2840,8 +2840,8 @@
     "desc": "English fan translation patch for Taiko Risshiden IV (PS2)",
     "full": "damon-daemon/taiko-risshiden-4-english",
     "lang": "Python",
-    "pushed": "2026-11-12T01:52:02Z",
-    "size": 5921,
+    "pushed": "2026-11-23T21:38:20Z",
+    "size": 5928,
     "stars": 1
    },
    "shots": [
@@ -2878,8 +2878,8 @@
     "desc": "English fan translation patch for Taiko Risshiden V (PS2)",
     "full": "damon-daemon/taiko-risshiden-5-english",
     "lang": "Python",
-    "pushed": "2026-11-22T14:44:04Z",
-    "size": 5234,
+    "pushed": "2026-11-23T21:38:43Z",
+    "size": 5235,
     "stars": 5
    },
    "shots": [
@@ -2930,8 +2930,8 @@
     "desc": "Kyoei Toshi preservation, English/pt-BR fan translation and experimental PC port. Requires your own PS4 disc dump; no game files included.",
     "full": "DavyBirth/kyoei-toshi",
     "lang": "Python",
-    "pushed": "2026-11-09T23:27:38Z",
-    "size": 6564,
+    "pushed": "2026-11-23T19:30:34Z",
+    "size": 6573,
     "stars": 1
    },
    "shots": []
@@ -3940,8 +3940,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-23T09:07:12Z",
-    "size": 163942,
+    "pushed": "2026-11-23T14:07:00Z",
+    "size": 163999,
     "stars": 52
    },
    "shots": [
@@ -4192,7 +4192,7 @@
     "lang": "Python",
     "pushed": "2026-11-18T02:11:04Z",
     "size": 129093,
-    "stars": 45
+    "stars": 46
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4223,9 +4223,9 @@
     "desc": "An English patch for the Japanese version of the Sega Dreamcast survival-horror game, Blue Stinger",
     "full": "ExxistanceDC/Blue-Stinger-Directors-Cut",
     "lang": null,
-    "pushed": "2026-11-22T04:29:16Z",
-    "size": 147,
-    "stars": 1
+    "pushed": "2026-11-23T18:24:58Z",
+    "size": 151,
+    "stars": 2
    },
    "shots": [
     "https://github.com/user-attachments/assets/e0cf036e-a6b0-4730-a283-48676759e79a",
@@ -4479,7 +4479,7 @@
     "lang": null,
     "pushed": "2026-09-12T18:23:25Z",
     "size": 727,
-    "stars": 153
+    "stars": 154
    },
    "shots": [
     "https://github.com/user-attachments/assets/9fd1ba5d-f831-4622-a516-c68865e4438b",
@@ -5406,7 +5406,7 @@
     "lang": "Python",
     "pushed": "2026-11-19T10:04:17Z",
     "size": 1626,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/hexporter/advanced-daisenryaku/HEAD/docs/images/zoomed-map.png",
@@ -5457,10 +5457,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-08T23:37:09Z",
+    "date": "2026-11-23T22:54:48Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/ilex-labs/3ds-japanese-english/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/ilex-labs/3ds-japanese-english/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -5468,7 +5468,7 @@
     "desc": "English menus for Japanese 3DS consoles: translates the HOME Menu and System Settings with Luma3DS, without a region change. Builds the files from your own console’s dumps.",
     "full": "ilex-labs/3ds-japanese-english",
     "lang": "Python",
-    "pushed": "2026-11-20T18:02:43Z",
+    "pushed": "2026-11-23T22:54:48Z",
     "size": 218,
     "stars": 0
    },
@@ -5496,11 +5496,11 @@
    "repo": {
     "archived": false,
     "created": "2026-10-21T10:33:15Z",
-    "desc": "Yo-kai Watch 4++ (Switch, v2.2.0) statically recompiled into native Windows and Linux builds, drawn by its own Vulkan renderer. 60++ fps, widescreen and ultrawide, DLSS and FSR, keyboard and mouse, English patch and mod support. Bring your own dump: no game files or keys included.",
+    "desc": "Yo-kai Watch 4++ statically recompiled into native Windows and Linux builds. w/120++ fps, ultrawide support, DLSS FSR XeSS + Framegen, Keyboard and Mouse, Online and Mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-22T16:36:44Z",
-    "size": 135005,
+    "pushed": "2026-11-23T23:02:55Z",
+    "size": 135807,
     "stars": 47
    },
    "shots": [
@@ -7376,8 +7376,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-23T11:19:47Z",
-    "size": 93314,
+    "pushed": "2026-11-23T23:12:17Z",
+    "size": 93316,
     "stars": 103
    },
    "shots": [
@@ -7589,7 +7589,7 @@
     "lang": "C",
     "pushed": "2026-11-23T08:09:21Z",
     "size": 49440,
-    "stars": 3
+    "stars": 2
    },
    "shots": []
   },
@@ -7619,7 +7619,7 @@
     "lang": "C",
     "pushed": "2026-11-23T08:09:21Z",
     "size": 49440,
-    "stars": 3
+    "stars": 2
    },
    "shots": []
   },
@@ -8123,7 +8123,7 @@
     "lang": "Python",
     "pushed": "2026-11-22T21:45:35Z",
     "size": 1941,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8236,6 +8236,33 @@
     "pushed": "2026-11-17T11:03:20Z",
     "size": 1011,
     "stars": 1
+   },
+   "shots": []
+  },
+  "minhnhattonthat/bounty-sword-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-23T05:48:40Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/minhnhattonthat/bounty-sword-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T07:30:49Z",
+    "desc": "English fan translation of Bounty Sword (SNES)",
+    "full": "minhnhattonthat/bounty-sword-en",
+    "lang": "Python",
+    "pushed": "2026-11-23T05:48:59Z",
+    "size": 1727,
+    "stars": 0
    },
    "shots": []
   },
@@ -8615,10 +8642,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T23:05:55Z",
+    "date": "2026-11-24T00:15:15Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/favorite-dear-en/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/minhnhattonthat/favorite-dear-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -8626,8 +8653,8 @@
     "desc": "English fan translation of Favorite Dear (PSX)",
     "full": "minhnhattonthat/favorite-dear-en",
     "lang": "Python",
-    "pushed": "2026-11-22T23:05:54Z",
-    "size": 5329,
+    "pushed": "2026-11-24T00:15:33Z",
+    "size": 5391,
     "stars": 2
    },
    "shots": []
@@ -8645,10 +8672,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T23:47:29Z",
+    "date": "2026-11-23T23:38:37Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/favorite-dear-enkan-no-monogatari-en/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/minhnhattonthat/favorite-dear-enkan-no-monogatari-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -8656,8 +8683,8 @@
     "desc": "English fan translation of Favorite Dear: Enkan no Monogatari (PSX)",
     "full": "minhnhattonthat/favorite-dear-enkan-no-monogatari-en",
     "lang": "Python",
-    "pushed": "2026-11-23T00:06:20Z",
-    "size": 4207,
+    "pushed": "2026-11-23T23:39:00Z",
+    "size": 4267,
     "stars": 1
    },
    "shots": []
@@ -9163,6 +9190,35 @@
    },
    "shots": []
   },
+  "minhnhattonthat/growlanser-psp-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-23T21:06:28Z",
+    "pre": false,
+    "tag": "v1.0.1",
+    "url": "https://github.com/minhnhattonthat/growlanser-psp-en/releases/tag/v1.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-22T05:15:21Z",
+    "desc": "English fan translation of Growlanser (PSP)",
+    "full": "minhnhattonthat/growlanser-psp-en",
+    "lang": "Python",
+    "pushed": "2026-11-23T21:06:28Z",
+    "size": 5923,
+    "stars": 1
+   },
+   "shots": []
+  },
   "minhnhattonthat/gungho-brigade-en": {
    "assetOs": {},
    "readme": {
@@ -9189,7 +9245,7 @@
     "lang": "Python",
     "pushed": "2026-11-22T19:47:49Z",
     "size": 1329,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -10672,8 +10728,8 @@
     "desc": "English translation patch for Princess Maker: Legend of Another World (Super Famicom, 1995), with optional bug-fix and Quest-rework patches.",
     "full": "moonanon/princess-maker-another-world-en",
     "lang": "Python",
-    "pushed": "2026-11-20T19:28:36Z",
-    "size": 830,
+    "pushed": "2026-11-23T21:54:18Z",
+    "size": 1407,
     "stars": 0
    },
    "shots": [
@@ -10732,10 +10788,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-10-31T01:07:32Z",
+    "date": "2026-11-23T15:43:15Z",
     "pre": false,
-    "tag": "v0.1.1",
-    "url": "https://github.com/mstan/TsumuLightRecomp/releases/tag/v0.1.1"
+    "tag": "v0.1.2",
+    "url": "https://github.com/mstan/TsumuLightRecomp/releases/tag/v0.1.2"
    },
    "repo": {
     "archived": false,
@@ -10743,8 +10799,8 @@
     "desc": "Tsumu Light (Japan) recompiled for the Sony PlayStation using psxrecomp, with an English fan-translation · Part of the R.A.I.D. community",
     "full": "mstan/TsumuLightRecomp",
     "lang": "Shell",
-    "pushed": "2026-11-06T19:10:07Z",
-    "size": 448,
+    "pushed": "2026-11-23T15:43:15Z",
+    "size": 450,
     "stars": 7
    },
    "shots": []
@@ -10765,8 +10821,8 @@
     "desc": "An attempt at an English Translation of Tokyo Mew Mew – Tojo Shin Mew Mew! – Minna Issho ni Gohoshi Suru Nyan using Claude",
     "full": "Muorosaaa/tokyo-mew-mew-ps1-en",
     "lang": "Python",
-    "pushed": "2026-11-13T03:57:11Z",
-    "size": 5450,
+    "pushed": "2026-11-23T17:15:21Z",
+    "size": 8418,
     "stars": 0
    },
    "shots": []
@@ -11036,10 +11092,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-23T06:12:49Z",
+    "date": "2026-11-23T17:27:03Z",
     "pre": true,
-    "tag": "rc01",
-    "url": "https://github.com/Nrlemo/shining-wind-en/releases/tag/rc01"
+    "tag": "rc02",
+    "url": "https://github.com/Nrlemo/shining-wind-en/releases/tag/rc02"
    },
    "repo": {
     "archived": false,
@@ -11047,8 +11103,8 @@
     "desc": "English fan translation of Shining Wind (PS2, SLPM-66671). Rc01 xdelta patch, install guide and screenshots. Variable-width font, translated text and menu graphics.",
     "full": "Nrlemo/shining-wind-en",
     "lang": "Shell",
-    "pushed": "2026-11-23T06:20:07Z",
-    "size": 19016,
+    "pushed": "2026-11-23T17:27:03Z",
+    "size": 20057,
     "stars": 6
    },
    "shots": [
@@ -11356,7 +11412,7 @@
     "lang": "Python",
     "pushed": "2026-11-13T22:06:19Z",
     "size": 3902,
-    "stars": 89
+    "stars": 90
    },
    "shots": []
   },
@@ -11454,8 +11510,8 @@
     "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
-    "pushed": "2026-11-21T02:13:03Z",
-    "size": 82,
+    "pushed": "2026-11-23T20:57:55Z",
+    "size": 92,
     "stars": 0
    },
    "shots": []
@@ -11806,7 +11862,7 @@
     "lang": null,
     "pushed": "2026-11-06T00:15:05Z",
     "size": 15527,
-    "stars": 5
+    "stars": 6
    },
    "shots": []
   },
@@ -12060,7 +12116,6 @@
      "ex": {
       "gameplay": true,
       "gfx": true,
-      "restore": true,
       "subs": true
      },
      "mtl": true
@@ -12069,10 +12124,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-19T06:48:08Z",
+    "date": "2026-11-24T02:22:08Z",
     "pre": false,
-    "tag": "v0.9.7",
-    "url": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.7"
+    "tag": "v0.9.9",
+    "url": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.9"
    },
    "repo": {
     "archived": false,
@@ -12080,7 +12135,7 @@
     "desc": "English translation toolchain for Super Tokusatsu Taisen 2001 (PS1, SLPS-02863)",
     "full": "retro-trans/Super-Tokusatsu-Taisen-2001",
     "lang": "Python",
-    "pushed": "2026-11-19T06:51:43Z",
+    "pushed": "2026-11-24T02:20:12Z",
     "size": 6178,
     "stars": 2
    },
@@ -12780,6 +12835,34 @@
    },
    "shots": []
   },
+  "second-save/brave-fencer-musashi-undub": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "undub": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-23T11:53:40Z",
+    "pre": true,
+    "tag": "v0.9-beta",
+    "url": "https://github.com/second-save/brave-fencer-musashi-undub/releases/tag/v0.9-beta"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-23T11:53:06Z",
+    "desc": "Undub patch for Brave Fencer Musashi (PS1, US): Japanese voices with the English text. No game data included.",
+    "full": "second-save/brave-fencer-musashi-undub",
+    "lang": "Python",
+    "pushed": "2026-11-23T11:53:40Z",
+    "size": 20,
+    "stars": 2
+   },
+   "shots": []
+  },
   "second-save/deden-no-kabuki-den-english": {
    "assetOs": {},
    "readme": {
@@ -12838,7 +12921,7 @@
     "lang": "C++",
     "pushed": "2026-11-22T04:41:43Z",
     "size": 7069,
-    "stars": 1
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/second-save/tengai-makyou-2-pce-cd/HEAD/docs/dialogue.gif",
@@ -13750,7 +13833,7 @@
     "lang": "Python",
     "pushed": "2026-11-22T00:15:57Z",
     "size": 111,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -13871,7 +13954,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 277
+    "stars": 278
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
