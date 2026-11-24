@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-24T02:22:09Z",
+ "generated": "2026-11-24T13:57:56Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -15837,6 +15837,110 @@
    "src": "GitHub"
   },
   {
+   "d": "FFTA（ファイナルファンタジータクティクスアドバンス）北米版・英語版を日本語化する非公式ファンツール。US版の追加ミッションや修正はそのまま、日本語はあなた自身の日本版ROMから手元で作ります（ROM・パッチは配布しません）",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Ffta Us Jp Localization",
+   "id": "kazuki333u/ffta-us-jp-localization",
+   "k": "kazuki333u/ffta-us-jp-localization",
+   "l": "https://github.com/kazuki333u/ffta-us-jp-localization",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "GBA",
+   "src": "GitHub"
+  },
+  {
+   "d": "Takes the text out of a game and puts a translation back in, in any alphabet. From the maker of Interpreter.",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Ventris",
+   "id": "bquenin/ventris",
+   "k": "bquenin/ventris",
+   "l": "https://github.com/bquenin/ventris",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "Kamen Rider: Battride War Sousei PS Vita English Patch",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Kamen Rider: Battride War Sousei PS Vita",
+   "id": "irxd/battride-vita-en",
+   "k": "irxd/battride-vita-en",
+   "l": "https://github.com/irxd/battride-vita-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS Vita",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of The Last Battle (SNES)",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Last Battle",
+   "id": "minhnhattonthat/last-battle-the-en",
+   "k": "minhnhattonthat/last-battle-the-en",
+   "l": "https://github.com/minhnhattonthat/last-battle-the-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "English subtitles for the voiced scenes of Tengai Makyou: Fuun Kabuki-den (PC Engine Super CD-ROM², 1993): an add-on xdelta to fabiof17's English patch v1.0.36. No game data included.",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Tengai Makyou Kabuki Den Pce Cd",
+   "id": "second-save/tengai-makyou-kabuki-den-pce-cd",
+   "k": "second-save/tengai-makyou-kabuki-den-pce-cd",
+   "l": "https://github.com/second-save/tengai-makyou-kabuki-den-pce-cd",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PC Engine CD",
+   "src": "GitHub"
+  },
+  {
+   "d": "Translation patch of Fushigi no Dungeon: Fuurai no Shiren DS2 - Sabaku no Majou (NDS)",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Fushigi no Dungeon: Fuurai no Shiren DS2",
+   "id": "retro-trans/shiren-ds2",
+   "k": "retro-trans/shiren-ds2",
+   "l": "https://github.com/retro-trans/Shiren-DS2",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "AI-agent kit for reverse-analysing Japanese PSP games before fan translation (Claude Code / Codex CLI) — PSP 한글화 전 역분석 키트",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Psp Reverse Analysis Kit",
+   "id": "ievy3/psp-reverse-analysis-kit",
+   "k": "ievy3/psp-reverse-analysis-kit",
+   "l": "https://github.com/ievy3/psp-reverse-analysis-kit",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "GitHub"
+  },
+  {
+   "d": "Work in progress",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -17478,27 +17582,15 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
    "fa": "2026-11-23T13:14:38Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-23T13:14:38Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS2",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
@@ -17526,27 +17618,39 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "d": "Bulk Slash (English Patch)",
    "fa": "2026-11-24T02:22:09Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-24T02:22:09Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
+   "d": "Meremanoid English Patch",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Meremanoid",
+   "id": "link:https://archive.org/details/meremanoid-english",
+   "l": "https://archive.org/details/meremanoid-english",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "PS1",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-24T13:57:56Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {

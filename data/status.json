@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-24T02:22:09Z",
+ "generated": "2026-11-24T13:57:56Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -318,7 +318,7 @@
     "lang": "Batchfile",
     "pushed": "2026-11-06T23:23:46Z",
     "size": 523924,
-    "stars": 21
+    "stars": 22
    },
    "shots": []
   },
@@ -410,7 +410,7 @@
     "lang": "Python",
     "pushed": "2026-10-12T06:20:38Z",
     "size": 129,
-    "stars": 9
+    "stars": 10
    },
    "shots": []
   },
@@ -3940,8 +3940,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-23T14:07:00Z",
-    "size": 163999,
+    "pushed": "2026-11-24T13:54:00Z",
+    "size": 167315,
     "stars": 52
    },
    "shots": [
@@ -4179,10 +4179,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-18T02:11:05Z",
+    "date": "2026-11-24T03:01:46Z",
     "pre": false,
-    "tag": "v0.1.46",
-    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.46"
+    "tag": "v0.1.47",
+    "url": "https://github.com/Exhilo62/DQXI-3DS-English-Patch/releases/tag/v0.1.47"
    },
    "repo": {
     "archived": false,
@@ -4190,9 +4190,9 @@
     "desc": "Unofficial English fan translation patch for Dragon Quest XI (3DS, Japanese).",
     "full": "Exhilo62/DQXI-3DS-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-18T02:11:04Z",
-    "size": 129093,
-    "stars": 46
+    "pushed": "2026-11-24T03:01:45Z",
+    "size": 132131,
+    "stars": 47
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -5499,9 +5499,9 @@
     "desc": "Yo-kai Watch 4++ statically recompiled into native Windows and Linux builds. w/120++ fps, ultrawide support, DLSS FSR XeSS + Framegen, Keyboard and Mouse, Online and Mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-23T23:02:55Z",
-    "size": 135807,
-    "stars": 47
+    "pushed": "2026-11-24T07:02:00Z",
+    "size": 136838,
+    "stars": 49
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen-en.jpg",
@@ -5914,7 +5914,7 @@
     "lang": "Python",
     "pushed": "2026-11-23T02:27:47Z",
     "size": 15052,
-    "stars": 12
+    "stars": 13
    },
    "shots": [
     "https://raw.githubusercontent.com/jonny-anime/tokimeki-memorial-2-english-patch/HEAD/translated_screenshots/Screenshot%202026-10-14%20215828.png"
@@ -7376,7 +7376,7 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-23T23:12:17Z",
+    "pushed": "2026-11-24T13:50:19Z",
     "size": 93316,
     "stars": 103
    },
@@ -7839,7 +7839,7 @@
     "lang": "Python",
     "pushed": "2026-11-23T05:37:38Z",
     "size": 6518,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/mesetamusic/votoms-ps2-english-patch/HEAD/screenshots/mission-select.webp",
@@ -9202,10 +9202,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-23T21:06:28Z",
+    "date": "2026-11-24T09:14:55Z",
     "pre": false,
-    "tag": "v1.0.1",
-    "url": "https://github.com/minhnhattonthat/growlanser-psp-en/releases/tag/v1.0.1"
+    "tag": "v1.0.2",
+    "url": "https://github.com/minhnhattonthat/growlanser-psp-en/releases/tag/v1.0.2"
    },
    "repo": {
     "archived": false,
@@ -9213,8 +9213,8 @@
     "desc": "English fan translation of Growlanser (PSP)",
     "full": "minhnhattonthat/growlanser-psp-en",
     "lang": "Python",
-    "pushed": "2026-11-23T21:06:28Z",
-    "size": 5923,
+    "pushed": "2026-11-24T09:15:07Z",
+    "size": 5984,
     "stars": 1
    },
    "shots": []
@@ -10621,29 +10621,31 @@
    "shots": []
   },
   "mlastes1987/odysselya-eng": {
-   "noRelease": true,
+   "assetOs": {},
    "readme": {
     "patch": {
-     "adult": true,
-     "cov": "Partial",
      "ex": {}
     },
     "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T03:11:36Z",
+    "pre": false,
+    "tag": "v0.9",
+    "url": "https://github.com/mlastes1987/odysselya-eng/releases/tag/v0.9"
+   },
    "repo": {
     "archived": false,
     "created": "2026-11-04T22:41:50Z",
     "desc": "English translation for Shinseiki Odysselya and Shinseiki Odysselya II for SNES, only the patch, no game files or tools.",
     "full": "mlastes1987/odysselya-eng",
     "lang": null,
-    "pushed": "2026-11-23T05:34:47Z",
-    "size": 617,
+    "pushed": "2026-11-24T03:20:12Z",
+    "size": 621,
     "stars": 0
    },
-   "shots": [
-    "https://raw.githubusercontent.com/mlastes1987/odysselya-eng/HEAD/assets/coming-soon.png"
-   ]
+   "shots": []
   },
   "moiseseliaquim/bakuten_shoot_beyblade_gekitou_saikyou_blader_english": {
    "assetOs": {},
@@ -11177,7 +11179,7 @@
     "lang": null,
     "pushed": "2026-11-08T17:46:04Z",
     "size": 16794,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-1-rc01.png",
@@ -12135,8 +12137,8 @@
     "desc": "English translation toolchain for Super Tokusatsu Taisen 2001 (PS1, SLPS-02863)",
     "full": "retro-trans/Super-Tokusatsu-Taisen-2001",
     "lang": "Python",
-    "pushed": "2026-11-24T02:20:12Z",
-    "size": 6178,
+    "pushed": "2026-11-24T02:23:51Z",
+    "size": 7489,
     "stars": 2
    },
    "shots": []
@@ -12973,10 +12975,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T05:31:54Z",
+    "date": "2026-11-24T12:38:57Z",
     "pre": true,
-    "tag": "v0.1.1-beta",
-    "url": "https://github.com/second-save/tengai-makyou-collection-psp/releases/tag/v0.1.1-beta"
+    "tag": "v0.9.1",
+    "url": "https://github.com/second-save/tengai-makyou-collection-psp/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
@@ -12984,8 +12986,8 @@
     "desc": "English translation patch for PC Engine Best Collection: Tengai Makyou Collection (PSP): Ziria, Manji Maru, Kabuki Den and Kabuki Ittou Ryoudan. No game data included.",
     "full": "second-save/tengai-makyou-collection-psp",
     "lang": "Python",
-    "pushed": "2026-11-22T05:36:37Z",
-    "size": 10189,
+    "pushed": "2026-11-24T12:38:57Z",
+    "size": 10235,
     "stars": 1
    },
    "shots": [
@@ -13487,6 +13489,43 @@
     "https://raw.githubusercontent.com/suddenlythis/bloodgearpce-english/HEAD/screenshots/07-may.png"
    ]
   },
+  "suddenlythis/doki-doki-poyatchio-psx-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-23T20:29:44Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/suddenlythis/doki-doki-poyatchio-psx-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-23T13:19:21Z",
+    "desc": "Doki Doki Poyatchio!! (PS1) English translation",
+    "full": "suddenlythis/doki-doki-poyatchio-psx-english",
+    "lang": null,
+    "pushed": "2026-11-23T22:03:16Z",
+    "size": 1108,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/suddenlythis/doki-doki-poyatchio-psx-english/HEAD/screenshots/03-name-entry.png",
+    "https://raw.githubusercontent.com/suddenlythis/doki-doki-poyatchio-psx-english/HEAD/screenshots/04-letter.png",
+    "https://raw.githubusercontent.com/suddenlythis/doki-doki-poyatchio-psx-english/HEAD/screenshots/05-staff-card.png",
+    "https://raw.githubusercontent.com/suddenlythis/doki-doki-poyatchio-psx-english/HEAD/screenshots/06-maria-welcome.png",
+    "https://raw.githubusercontent.com/suddenlythis/doki-doki-poyatchio-psx-english/HEAD/screenshots/07-bakery.png",
+    "https://raw.githubusercontent.com/suddenlythis/doki-doki-poyatchio-psx-english/HEAD/screenshots/08-pocket.png"
+   ]
+  },
   "suddenlythis/houshin-engi-aizouban-psx-english": {
    "assetOs": {},
    "readme": {
@@ -13954,7 +13993,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 278
+    "stars": 279
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
