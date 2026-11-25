@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-24T13:57:56Z",
+ "generated": "2026-11-24T23:57:21Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -816,7 +816,7 @@
    "shots": []
   },
   "beanutrom/astra-superstars-english-patch": {
-   "assetOs": {},
+   "noRelease": true,
    "readme": {
     "patch": {
      "ex": {}
@@ -824,19 +824,13 @@
     "v": 1
    },
    "readmeLure": [],
-   "release": {
-    "date": "2026-11-22T00:52:33Z",
-    "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/BeanutROM/Astra-Superstars-English-Patch/releases/tag/v1.0"
-   },
    "repo": {
     "archived": false,
     "created": "2026-10-31T01:33:05Z",
     "desc": "An english patch for the Saturn and ST-V game Astra Superstars",
     "full": "BeanutROM/Astra-Superstars-English-Patch",
     "lang": "Python",
-    "pushed": "2026-11-22T00:52:32Z",
+    "pushed": "2026-11-24T17:24:01Z",
     "size": 28667,
     "stars": 0
    },
@@ -1076,7 +1070,7 @@
     "lang": null,
     "pushed": "2026-11-23T20:55:42Z",
     "size": 4264,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -1765,6 +1759,43 @@
    },
    "shots": []
   },
+  "bquenin/ventris": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T18:12:58Z",
+    "pre": false,
+    "tag": "v0.2.0",
+    "url": "https://github.com/bquenin/ventris/releases/tag/v0.2.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-24T06:01:47Z",
+    "desc": "Takes the text out of a game and puts a translation back in, in any alphabet. From the maker of Interpreter.",
+    "full": "bquenin/ventris",
+    "lang": "Rust",
+    "pushed": "2026-11-24T21:49:38Z",
+    "size": 5190,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/tod2-dialogue.png",
+    "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/tod2-skit.png",
+    "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/tod2-status.png",
+    "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/tod2-battle.png",
+    "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/top-dialogue.png",
+    "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/top-status.png"
+   ]
+  },
   "brande77/sd-battle-oozumou-recomp": {
    "assetOs": {},
    "readme": {
@@ -1814,8 +1845,8 @@
     "desc": "An English translation of the Super Famicom title \"Slapstick\"",
     "full": "brianblakely/slapstick-english-translation",
     "lang": "JavaScript",
-    "pushed": "2026-11-07T00:24:23Z",
-    "size": 37330,
+    "pushed": "2026-11-24T17:57:48Z",
+    "size": 37753,
     "stars": 1
    },
    "shots": []
@@ -3941,7 +3972,7 @@
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
     "pushed": "2026-11-24T13:54:00Z",
-    "size": 167315,
+    "size": 167650,
     "stars": 52
    },
    "shots": [
@@ -4009,7 +4040,7 @@
     "lang": "C++",
     "pushed": "2024-03-30T03:54:07Z",
     "size": 192329,
-    "stars": 126
+    "stars": 127
    },
    "shots": []
   },
@@ -4119,10 +4150,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-07T15:14:44Z",
+    "date": "2026-11-24T15:35:56Z",
     "pre": false,
-    "tag": "v1.0.4",
-    "url": "https://github.com/ExcalZ/ps2-retranslation/releases/tag/v1.0.4"
+    "tag": "v1.0.5",
+    "url": "https://github.com/ExcalZ/ps2-retranslation/releases/tag/v1.0.5"
    },
    "repo": {
     "archived": false,
@@ -4130,8 +4161,8 @@
     "desc": "A retranslation project for Phantasy Star II for the Sega Genesis.",
     "full": "ExcalZ/ps2-retranslation",
     "lang": "Assembly",
-    "pushed": "2026-11-07T15:14:33Z",
-    "size": 4544,
+    "pushed": "2026-11-24T15:35:56Z",
+    "size": 4623,
     "stars": 8
    },
    "shots": []
@@ -4192,7 +4223,7 @@
     "lang": "Python",
     "pushed": "2026-11-24T03:01:45Z",
     "size": 132131,
-    "stars": 47
+    "stars": 48
    },
    "shots": [
     "https://img.youtube.com/vi/JagQnseBXvo/maxresdefault.jpg"
@@ -4479,7 +4510,7 @@
     "lang": null,
     "pushed": "2026-09-12T18:23:25Z",
     "size": 727,
-    "stars": 154
+    "stars": 153
    },
    "shots": [
     "https://github.com/user-attachments/assets/9fd1ba5d-f831-4622-a516-c68865e4438b",
@@ -5447,6 +5478,34 @@
     "https://raw.githubusercontent.com/hypermegacrash/MMTextGadget/HEAD/docs/img4.png"
    ]
   },
+  "ievy3/psp-reverse-analysis-kit": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T06:18:02Z",
+    "pre": false,
+    "tag": "v1.0.0",
+    "url": "https://github.com/ievy3/psp-reverse-analysis-kit/releases/tag/v1.0.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-24T06:14:55Z",
+    "desc": "AI-agent kit for reverse-analysing Japanese PSP games before fan translation (Claude Code / Codex CLI) — PSP 한글화 전 역분석 키트",
+    "full": "ievy3/psp-reverse-analysis-kit",
+    "lang": "Python",
+    "pushed": "2026-11-24T06:18:02Z",
+    "size": 261,
+    "stars": 0
+   },
+   "shots": []
+  },
   "ilex-labs/3ds-japanese-english": {
    "assetOs": {},
    "readme": {
@@ -5499,9 +5558,9 @@
     "desc": "Yo-kai Watch 4++ statically recompiled into native Windows and Linux builds. w/120++ fps, ultrawide support, DLSS FSR XeSS + Framegen, Keyboard and Mouse, Online and Mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-24T07:02:00Z",
-    "size": 136838,
-    "stars": 49
+    "pushed": "2026-11-24T14:09:35Z",
+    "size": 137163,
+    "stars": 50
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen-en.jpg",
@@ -5595,6 +5654,43 @@
     "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00019.jpg",
     "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00023.jpg",
     "https://raw.githubusercontent.com/Inf37SP/CHN-PSP-Patch/HEAD/images/ULJM05692_00024.jpg"
+   ]
+  },
+  "irxd/battride-vita-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T09:51:31Z",
+    "pre": false,
+    "tag": "v0.1.2",
+    "url": "https://github.com/irxd/battride-vita-en/releases/tag/v0.1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-20T15:55:42Z",
+    "desc": "Kamen Rider: Battride War Sousei PS Vita English Patch",
+    "full": "irxd/battride-vita-en",
+    "lang": "Python",
+    "pushed": "2026-11-24T10:18:08Z",
+    "size": 248098,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/irxd/battride-vita-en/HEAD/docs/screenshots/01-main-menu.png",
+    "https://raw.githubusercontent.com/irxd/battride-vita-en/HEAD/docs/screenshots/02-battle-dialogue.png",
+    "https://raw.githubusercontent.com/irxd/battride-vita-en/HEAD/docs/screenshots/04-story-scene.png",
+    "https://raw.githubusercontent.com/irxd/battride-vita-en/HEAD/docs/screenshots/08-unlock.png",
+    "https://raw.githubusercontent.com/irxd/battride-vita-en/HEAD/docs/screenshots/03-battle-objective.png",
+    "https://raw.githubusercontent.com/irxd/battride-vita-en/HEAD/docs/screenshots/06-tutorial.png"
    ]
   },
   "irxd/shin-gundam-musou-en": {
@@ -6710,6 +6806,33 @@
    },
    "shots": []
   },
+  "kazuki333u/ffta-us-jp-localization": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T11:11:51Z",
+    "pre": false,
+    "tag": "public-beta-10",
+    "url": "https://github.com/kazuki333u/ffta-us-jp-localization/releases/tag/public-beta-10"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-27T07:00:05Z",
+    "desc": "FFTA（ファイナルファンタジータクティクスアドバンス）北米版・英語版を日本語化する非公式ファンツール。US版の追加ミッションや修正はそのまま、日本語はあなた自身の日本版ROMから手元で作ります（ROM・パッチは配布しません）",
+    "full": "kazuki333u/ffta-us-jp-localization",
+    "lang": "Python",
+    "pushed": "2026-11-24T14:20:30Z",
+    "size": 903,
+    "stars": 1
+   },
+   "shots": []
+  },
   "kenyates88/wild-card-english": {
    "assetOs": {},
    "readme": {
@@ -6743,6 +6866,40 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/battle.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/inspect.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
+   ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T20:48:48Z",
+    "pre": true,
+    "tag": "1.0-luma-boot-test1",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0-luma-boot-test1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-19T20:48:48Z",
+    "size": 53008,
+    "stars": 36
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
    ]
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
@@ -7376,8 +7533,8 @@
     "desc": "Sonic 3 Unlocked",
     "full": "liliambean/s3unlocked",
     "lang": "Assembly",
-    "pushed": "2026-11-24T13:50:19Z",
-    "size": 93316,
+    "pushed": "2026-11-24T18:10:42Z",
+    "size": 95725,
     "stars": 103
    },
    "shots": [
@@ -7552,7 +7709,7 @@
     "lang": "Python",
     "pushed": "2024-09-16T21:36:41Z",
     "size": 102,
-    "stars": 81
+    "stars": 80
    },
    "shots": [
     "https://i.imgur.com/PKN5SND.jpg",
@@ -7940,13 +8097,13 @@
     "date": "2026-11-02T22:58:01Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/bakumatsu-rock-ultra-soul-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/bakumatsu-rock-ultra-soul-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-02T06:51:34Z",
     "desc": "English fan translation of Bakumatsu Rock: Ultra Soul (PSP)",
-    "full": "minhnhattonthat/bakumatsu-rock-ultra-soul-en",
+    "full": "mtlgames/bakumatsu-rock-ultra-soul-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:14Z",
     "size": 9304,
@@ -7969,13 +8126,13 @@
     "date": "2026-11-07T06:08:29Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/bastard-utsuronaru-kamigami-no-utsuwa-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/bastard-utsuronaru-kamigami-no-utsuwa-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-06T02:35:46Z",
     "desc": "English fan translation of Bastard!! Utsuronaru Kamigami no Utsuwa (PSX)",
-    "full": "minhnhattonthat/bastard-utsuronaru-kamigami-no-utsuwa-en",
+    "full": "mtlgames/bastard-utsuronaru-kamigami-no-utsuwa-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:01:32Z",
     "size": 10323,
@@ -7998,13 +8155,13 @@
     "date": "2026-10-26T06:41:39Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/battle-tycoon-flash-hiders-sfx-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/battle-tycoon-flash-hiders-sfx-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-25T11:09:03Z",
     "desc": "English fan translation of Battle Tycoon: Flash Hiders SFX (SNES)",
-    "full": "minhnhattonthat/battle-tycoon-flash-hiders-sfx-en",
+    "full": "mtlgames/battle-tycoon-flash-hiders-sfx-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:55:32Z",
     "size": 362,
@@ -8025,13 +8182,13 @@
     "date": "2026-10-25T10:06:02Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/battle-zeque-den-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/battle-zeque-den-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-25T01:54:07Z",
     "desc": "English fan translation of Battle Zeque Den (SNES)",
-    "full": "minhnhattonthat/battle-zeque-den-en",
+    "full": "mtlgames/battle-zeque-den-en",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:02Z",
     "size": 243,
@@ -8054,13 +8211,13 @@
     "date": "2026-11-16T21:57:42Z",
     "pre": false,
     "tag": "v1.7",
-    "url": "https://github.com/minhnhattonthat/bealphareth-en/releases/tag/v1.7"
+    "url": "https://github.com/mtlgames/bealphareth-en/releases/tag/v1.7"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-04T04:22:54Z",
     "desc": "English fan translation of Bealphareth (PSX)",
-    "full": "minhnhattonthat/bealphareth-en",
+    "full": "mtlgames/bealphareth-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:01:34Z",
     "size": 25096,
@@ -8083,13 +8240,13 @@
     "date": "2026-11-05T05:09:50Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/black-matrix-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/black-matrix-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-03T23:35:40Z",
     "desc": "English fan translation of Black/Matrix + (PSX)",
-    "full": "minhnhattonthat/black-matrix-en",
+    "full": "mtlgames/black-matrix-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:17Z",
     "size": 3132,
@@ -8113,13 +8270,13 @@
     "date": "2026-11-22T21:38:49Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/blade-arts-tasogare-no-miyako-r-lyeh-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-21T12:00:38Z",
     "desc": "English fan translation of Blade Arts: Tasogare no Miyako R'lyeh (PSX)",
-    "full": "minhnhattonthat/blade-arts-tasogare-no-miyako-r-lyeh-en",
+    "full": "mtlgames/blade-arts-tasogare-no-miyako-r-lyeh-en",
     "lang": "Python",
     "pushed": "2026-11-22T21:45:35Z",
     "size": 1941,
@@ -8140,13 +8297,13 @@
     "date": "2026-11-12T06:35:16Z",
     "pre": false,
     "tag": "v1.3",
-    "url": "https://github.com/minhnhattonthat/blaze-union-story-to-reach-the-future-en/releases/tag/v1.3"
+    "url": "https://github.com/mtlgames/blaze-union-story-to-reach-the-future-en/releases/tag/v1.3"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-06T16:00:45Z",
     "desc": "English fan translation of Blaze Union: Story to Reach the Future (PSP)",
-    "full": "minhnhattonthat/blaze-union-story-to-reach-the-future-en",
+    "full": "mtlgames/blaze-union-story-to-reach-the-future-en",
     "lang": "Python",
     "pushed": "2026-11-18T11:50:39Z",
     "size": 3426,
@@ -8169,13 +8326,13 @@
     "date": "2026-11-21T05:30:42Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/bouken-ou-beet-busters-road-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/bouken-ou-beet-busters-road-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-14T01:39:49Z",
     "desc": "English fan translation of Bouken-Ou Beet: Busters Road (GBA)",
-    "full": "minhnhattonthat/bouken-ou-beet-busters-road-en",
+    "full": "mtlgames/bouken-ou-beet-busters-road-en",
     "lang": "Python",
     "pushed": "2026-11-21T05:30:41Z",
     "size": 4777,
@@ -8196,13 +8353,13 @@
     "date": "2026-11-19T10:20:55Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/bouken-ou-beet-vandel-vs-busters-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/bouken-ou-beet-vandel-vs-busters-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-18T07:34:38Z",
     "desc": "English fan translation of Bouken-ou Beet: Vandel vs. Busters (NDS)",
-    "full": "minhnhattonthat/bouken-ou-beet-vandel-vs-busters-en",
+    "full": "mtlgames/bouken-ou-beet-vandel-vs-busters-en",
     "lang": "Python",
     "pushed": "2026-11-19T10:20:55Z",
     "size": 2473,
@@ -8225,13 +8382,13 @@
     "date": "2026-11-16T23:24:23Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/boundary-gate-daughter-of-kingdom-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/boundary-gate-daughter-of-kingdom-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-03T11:57:47Z",
     "desc": "English fan translation of Boundary Gate: Daughter of Kingdom (PSX)",
-    "full": "minhnhattonthat/boundary-gate-daughter-of-kingdom-en",
+    "full": "mtlgames/boundary-gate-daughter-of-kingdom-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:20Z",
     "size": 1011,
@@ -8252,13 +8409,13 @@
     "date": "2026-11-23T05:48:40Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/bounty-sword-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/bounty-sword-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-22T07:30:49Z",
     "desc": "English fan translation of Bounty Sword (SNES)",
-    "full": "minhnhattonthat/bounty-sword-en",
+    "full": "mtlgames/bounty-sword-en",
     "lang": "Python",
     "pushed": "2026-11-23T05:48:59Z",
     "size": 1727,
@@ -8281,13 +8438,13 @@
     "date": "2026-10-11T03:36:37Z",
     "pre": false,
     "tag": "v0.2",
-    "url": "https://github.com/minhnhattonthat/cb-chara-wars-en/releases/tag/v0.2"
+    "url": "https://github.com/mtlgames/cb-chara-wars-en/releases/tag/v0.2"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-11T03:36:05Z",
     "desc": "English fan translation of CB Chara Wars: Ushinawareta Gag (SNES)",
-    "full": "minhnhattonthat/cb-chara-wars-en",
+    "full": "mtlgames/cb-chara-wars-en",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:54Z",
     "size": 122,
@@ -8310,13 +8467,13 @@
     "date": "2026-11-15T22:58:33Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/chou-mashin-eiyuuden-wataru-another-step-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/chou-mashin-eiyuuden-wataru-another-step-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-09T08:08:13Z",
     "desc": "English fan translation of Chou Mashin Eiyuuden Wataru: Another Step (PSX)",
-    "full": "minhnhattonthat/chou-mashin-eiyuuden-wataru-another-step-en",
+    "full": "mtlgames/chou-mashin-eiyuuden-wataru-another-step-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:01:45Z",
     "size": 1784,
@@ -8339,13 +8496,13 @@
     "date": "2026-10-22T12:33:31Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/dancing-sword-senkou/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/dancing-sword-senkou/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-22T12:33:18Z",
     "desc": "English fan translation of Dancing Sword: Senkou (GBA)",
-    "full": "minhnhattonthat/dancing-sword-senkou",
+    "full": "mtlgames/dancing-sword-senkou",
     "lang": "Python",
     "pushed": "2026-10-30T00:07:21Z",
     "size": 132,
@@ -8366,13 +8523,13 @@
     "date": "2026-10-18T23:00:32Z",
     "pre": false,
     "tag": "v0.9",
-    "url": "https://github.com/minhnhattonthat/deltora-quest/releases/tag/v0.9"
+    "url": "https://github.com/mtlgames/deltora-quest/releases/tag/v0.9"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-17T21:28:06Z",
     "desc": "English fan translation of Deltora Quest: 7-tsu no Houseki (NDS)",
-    "full": "minhnhattonthat/deltora-quest",
+    "full": "mtlgames/deltora-quest",
     "lang": "Python",
     "pushed": "2026-10-30T00:07:18Z",
     "size": 831,
@@ -8393,13 +8550,13 @@
     "date": "2026-10-26T08:45:12Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/dharma-doujou-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/dharma-doujou-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-25T18:00:59Z",
     "desc": "English fan translation of Dharma Doujou (Dharma Dojo, SNES, Metro 1994)",
-    "full": "minhnhattonthat/dharma-doujou-en",
+    "full": "mtlgames/dharma-doujou-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:55:44Z",
     "size": 676,
@@ -8423,13 +8580,13 @@
     "date": "2026-10-20T07:26:33Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/dolucky-no-a-league-soccer/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/dolucky-no-a-league-soccer/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-20T07:25:30Z",
     "desc": "English fan translation of Dolucky no A.League Soccer (SNES)",
-    "full": "minhnhattonthat/dolucky-no-a-league-soccer",
+    "full": "mtlgames/dolucky-no-a-league-soccer",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:51Z",
     "size": 97,
@@ -8450,13 +8607,13 @@
     "date": "2026-11-23T07:26:26Z",
     "pre": false,
     "tag": "v1.3",
-    "url": "https://github.com/minhnhattonthat/dragon-knight-4-en/releases/tag/v1.3"
+    "url": "https://github.com/mtlgames/dragon-knight-4-en/releases/tag/v1.3"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-22T12:34:07Z",
     "desc": "English fan translation of Dragon Knight 4 (SNES, Banpresto 1996)",
-    "full": "minhnhattonthat/dragon-knight-4-en",
+    "full": "mtlgames/dragon-knight-4-en",
     "lang": "Python",
     "pushed": "2026-11-23T07:28:08Z",
     "size": 1383,
@@ -8479,13 +8636,13 @@
     "date": "2026-11-03T07:01:58Z",
     "pre": false,
     "tag": "v1.5",
-    "url": "https://github.com/minhnhattonthat/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.5"
+    "url": "https://github.com/mtlgames/dual-orb-seirei-tama-densetsu-en/releases/tag/v1.5"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-26T13:04:31Z",
     "desc": "English fan translation of Dual Orb: Seirei Tama Densetsu (SNES)",
-    "full": "minhnhattonthat/dual-orb-seirei-tama-densetsu-en",
+    "full": "mtlgames/dual-orb-seirei-tama-densetsu-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:55:46Z",
     "size": 1201,
@@ -8506,13 +8663,13 @@
     "date": "2026-11-01T23:42:47Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/emblem-of-gundam-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/emblem-of-gundam-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-31T22:06:28Z",
     "desc": "English fan translation of Emblem of Gundam (NDS)",
-    "full": "minhnhattonthat/emblem-of-gundam-en",
+    "full": "mtlgames/emblem-of-gundam-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:23Z",
     "size": 4240,
@@ -8533,13 +8690,13 @@
     "date": "2026-10-18T23:52:12Z",
     "pre": false,
     "tag": "v0.9.1-beta",
-    "url": "https://github.com/minhnhattonthat/erementar-gerad/releases/tag/v0.9.1-beta"
+    "url": "https://github.com/mtlgames/erementar-gerad/releases/tag/v0.9.1-beta"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-18T23:51:29Z",
     "desc": "English fan translation patch for Erementar Gerad: Tozasareshi Uta (GBA)",
-    "full": "minhnhattonthat/erementar-gerad",
+    "full": "mtlgames/erementar-gerad",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:08Z",
     "size": 711,
@@ -8562,13 +8719,13 @@
     "date": "2026-10-19T23:56:23Z",
     "pre": false,
     "tag": "v0.9.1",
-    "url": "https://github.com/minhnhattonthat/evangelion-sound-impact-en/releases/tag/v0.9.1"
+    "url": "https://github.com/mtlgames/evangelion-sound-impact-en/releases/tag/v0.9.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-13T02:46:00Z",
     "desc": "English fan translation patch for Rebuild of Evangelion -Sound Impact- (PSP)",
-    "full": "minhnhattonthat/evangelion-sound-impact-en",
+    "full": "mtlgames/evangelion-sound-impact-en",
     "lang": "Python",
     "pushed": "2026-10-30T00:07:15Z",
     "size": 89,
@@ -8591,13 +8748,13 @@
     "date": "2026-11-15T02:31:25Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/fantastic-children-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/fantastic-children-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-14T11:02:22Z",
     "desc": "English fan translation of Fantastic Children (GBA)",
-    "full": "minhnhattonthat/fantastic-children-en",
+    "full": "mtlgames/fantastic-children-en",
     "lang": "Python",
     "pushed": "2026-11-15T02:32:53Z",
     "size": 1418,
@@ -8618,13 +8775,13 @@
     "date": "2026-10-30T04:09:45Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/farland-story-2-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/farland-story-2-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-25T04:20:08Z",
     "desc": "English fan translation of Farland Story 2 (SNES)",
-    "full": "minhnhattonthat/farland-story-2-en",
+    "full": "mtlgames/farland-story-2-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:55:52Z",
     "size": 494,
@@ -8645,13 +8802,13 @@
     "date": "2026-11-24T00:15:15Z",
     "pre": false,
     "tag": "v1.2",
-    "url": "https://github.com/minhnhattonthat/favorite-dear-en/releases/tag/v1.2"
+    "url": "https://github.com/mtlgames/favorite-dear-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-19T19:46:35Z",
     "desc": "English fan translation of Favorite Dear (PSX)",
-    "full": "minhnhattonthat/favorite-dear-en",
+    "full": "mtlgames/favorite-dear-en",
     "lang": "Python",
     "pushed": "2026-11-24T00:15:33Z",
     "size": 5391,
@@ -8675,13 +8832,13 @@
     "date": "2026-11-23T23:38:37Z",
     "pre": false,
     "tag": "v1.2",
-    "url": "https://github.com/minhnhattonthat/favorite-dear-enkan-no-monogatari-en/releases/tag/v1.2"
+    "url": "https://github.com/mtlgames/favorite-dear-enkan-no-monogatari-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-21T11:21:17Z",
     "desc": "English fan translation of Favorite Dear: Enkan no Monogatari (PSX)",
-    "full": "minhnhattonthat/favorite-dear-enkan-no-monogatari-en",
+    "full": "mtlgames/favorite-dear-enkan-no-monogatari-en",
     "lang": "Python",
     "pushed": "2026-11-23T23:39:00Z",
     "size": 4267,
@@ -8702,13 +8859,13 @@
     "date": "2026-11-21T08:28:23Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/favorite-dear-junpaku-no-yogensha-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/favorite-dear-junpaku-no-yogensha-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-20T09:08:22Z",
     "desc": "English fan translation of Favorite Dear: Junpaku no Yogensha (PSX)",
-    "full": "minhnhattonthat/favorite-dear-junpaku-no-yogensha-en",
+    "full": "mtlgames/favorite-dear-junpaku-no-yogensha-en",
     "lang": "Python",
     "pushed": "2026-11-21T08:28:22Z",
     "size": 3117,
@@ -8729,13 +8886,13 @@
     "date": "2026-11-14T05:45:07Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/gachasute-dino-device-2-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/gachasute-dino-device-2-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-20T06:16:32Z",
     "desc": "English fan translation of Gachasute! Dino Device 2 - Dragon / Phoenix (GBA)",
-    "full": "minhnhattonthat/gachasute-dino-device-2-en",
+    "full": "mtlgames/gachasute-dino-device-2-en",
     "lang": "Python",
     "pushed": "2026-11-14T05:45:07Z",
     "size": 435,
@@ -8758,13 +8915,13 @@
     "date": "2026-11-15T23:17:15Z",
     "pre": false,
     "tag": "v1.2",
-    "url": "https://github.com/minhnhattonthat/gachasute-dyna-device-blue-en/releases/tag/v1.2"
+    "url": "https://github.com/mtlgames/gachasute-dyna-device-blue-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-14T11:06:06Z",
     "desc": "English fan translation of Gachasute! Dyna Device Blue and Dino Device Red (GBA)",
-    "full": "minhnhattonthat/gachasute-dyna-device-blue-en",
+    "full": "mtlgames/gachasute-dyna-device-blue-en",
     "lang": "Python",
     "pushed": "2026-11-16T01:06:49Z",
     "size": 4139,
@@ -8785,13 +8942,13 @@
     "date": "2026-11-01T10:05:42Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/gaiamaster-kamigami-no-board-game-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/gaiamaster-kamigami-no-board-game-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-29T20:00:59Z",
     "desc": "English fan translation of gaiamaster-kamigami-no-board-game-en (PSX)",
-    "full": "minhnhattonthat/gaiamaster-kamigami-no-board-game-en",
+    "full": "mtlgames/gaiamaster-kamigami-no-board-game-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:55:55Z",
     "size": 1995,
@@ -8814,13 +8971,13 @@
     "date": "2026-10-26T12:19:47Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/ganbare-daiku-no-gen-san-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/ganbare-daiku-no-gen-san-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-25T11:09:23Z",
     "desc": "English fan translation of Ganbare Daiku no Gensan (SNES)",
-    "full": "minhnhattonthat/ganbare-daiku-no-gen-san-en",
+    "full": "mtlgames/ganbare-daiku-no-gen-san-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:25Z",
     "size": 246,
@@ -8841,13 +8998,13 @@
     "date": "2026-10-26T12:02:02Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/gegege-no-kitarou-fukkatsu-tenma-daiou-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-25T18:01:18Z",
     "desc": "English fan translation of GeGeGe no Kitarou: Fukkatsu! Tenma Daiou (SNES)",
-    "full": "minhnhattonthat/gegege-no-kitarou-fukkatsu-tenma-daiou-en",
+    "full": "mtlgames/gegege-no-kitarou-fukkatsu-tenma-daiou-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:55:59Z",
     "size": 209,
@@ -8871,13 +9028,13 @@
     "date": "2026-11-20T22:50:31Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-14T11:06:46Z",
     "desc": "English fan translation of Genseishin Justirisers: Souchaku Chikyuu no Senshitachi (GBA)",
-    "full": "minhnhattonthat/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en",
+    "full": "mtlgames/genseishin-justirisers-souchaku-chikyuu-no-senshitachi-en",
     "lang": "Python",
     "pushed": "2026-11-20T22:50:31Z",
     "size": 1060,
@@ -8898,13 +9055,13 @@
     "date": "2026-10-27T07:16:49Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/getbackers-dakkanya-jagan-fuuin-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-27T07:16:05Z",
     "desc": "English fan translation of GetBackers Dakkanya: Jagan Fuuin! (GBA)",
-    "full": "minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en",
+    "full": "mtlgames/getbackers-dakkanya-jagan-fuuin-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:56:02Z",
     "size": 697,
@@ -8925,13 +9082,13 @@
     "date": "2026-11-06T01:13:23Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/getbackers-dakkanya-jigoku-no-scaramouche-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-29T18:00:56Z",
     "desc": "English fan translation of GetBackers Dakkanya: Jigoku no Scaramouche (GBA)",
-    "full": "minhnhattonthat/getbackers-dakkanya-jigoku-no-scaramouche-en",
+    "full": "mtlgames/getbackers-dakkanya-jigoku-no-scaramouche-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:56:04Z",
     "size": 778,
@@ -8952,13 +9109,13 @@
     "date": "2026-10-31T08:17:05Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/getbackers-dakkanya-metropolis-dakkan-sakusen-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-29T22:00:58Z",
     "desc": "English fan translation of GetBackers Dakkanya: Metropolis Dakkan Sakusen! (GBA)",
-    "full": "minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en",
+    "full": "mtlgames/getbackers-dakkanya-metropolis-dakkan-sakusen-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:56:07Z",
     "size": 2817,
@@ -8981,13 +9138,13 @@
     "date": "2026-11-15T23:49:10Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/ghost-trap-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/ghost-trap-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-15T02:18:12Z",
     "desc": "English fan translation of Ghost Trap (GBA)",
-    "full": "minhnhattonthat/ghost-trap-en",
+    "full": "mtlgames/ghost-trap-en",
     "lang": "Python",
     "pushed": "2026-11-15T23:49:35Z",
     "size": 1492,
@@ -9008,13 +9165,13 @@
     "date": "2026-10-28T06:03:05Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/ginga-eiyuu-densetsu-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/ginga-eiyuu-densetsu-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-25T19:00:59Z",
     "desc": "English fan translation of Ginga Eiyuu Densetsu (SNES)",
-    "full": "minhnhattonthat/ginga-eiyuu-densetsu-en",
+    "full": "mtlgames/ginga-eiyuu-densetsu-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:56:10Z",
     "size": 675,
@@ -9035,13 +9192,13 @@
     "date": "2026-11-03T22:17:55Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/ginga-sengoku-gunyuuden-rai-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/ginga-sengoku-gunyuuden-rai-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-03T00:35:07Z",
     "desc": "English fan translation of Ginga Sengoku Gunyuuden Rai (SNES)",
-    "full": "minhnhattonthat/ginga-sengoku-gunyuuden-rai-en",
+    "full": "mtlgames/ginga-sengoku-gunyuuden-rai-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:28Z",
     "size": 1031,
@@ -9064,13 +9221,13 @@
     "date": "2026-11-09T21:30:28Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/gloria-union-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/gloria-union-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-07T12:50:21Z",
     "desc": "English fan translation of Gloria Union (PSP)",
-    "full": "minhnhattonthat/gloria-union-en",
+    "full": "mtlgames/gloria-union-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:31Z",
     "size": 14744,
@@ -9093,13 +9250,13 @@
     "date": "2026-11-13T21:03:02Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/goku-makai-mura-kai-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/goku-makai-mura-kai-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-07T17:00:22Z",
     "desc": "English fan translation of Goku Makaimura Kai (PSP)",
-    "full": "minhnhattonthat/goku-makai-mura-kai-en",
+    "full": "mtlgames/goku-makai-mura-kai-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:01:54Z",
     "size": 464,
@@ -9120,13 +9277,13 @@
     "date": "2026-11-17T04:32:38Z",
     "pre": false,
     "tag": "v1.0.3",
-    "url": "https://github.com/minhnhattonthat/granbo/releases/tag/v1.0.3"
+    "url": "https://github.com/mtlgames/granbo/releases/tag/v1.0.3"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-17T23:05:14Z",
     "desc": "English fan translation of Granbo (GBA)",
-    "full": "minhnhattonthat/granbo",
+    "full": "mtlgames/granbo",
     "lang": "Python",
     "pushed": "2026-11-17T04:33:32Z",
     "size": 1020,
@@ -9147,13 +9304,13 @@
     "date": "2026-10-10T12:09:54Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/great-battle-gaiden-2-english/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/great-battle-gaiden-2-english/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-10T11:55:27Z",
     "desc": "English fan translation of The Great Battle Gaiden 2: Matsuri da Wasshoi (SNES, 1994)",
-    "full": "minhnhattonthat/great-battle-gaiden-2-english",
+    "full": "mtlgames/great-battle-gaiden-2-english",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:45Z",
     "size": 300,
@@ -9176,13 +9333,13 @@
     "date": "2026-11-21T04:36:36Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/growlanser-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/growlanser-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-17T11:24:37Z",
     "desc": "English fan translation of Growlanser (PSX)",
-    "full": "minhnhattonthat/growlanser-en",
+    "full": "mtlgames/growlanser-en",
     "lang": "Python",
     "pushed": "2026-11-21T05:46:55Z",
     "size": 7650,
@@ -9205,13 +9362,13 @@
     "date": "2026-11-24T09:14:55Z",
     "pre": false,
     "tag": "v1.0.2",
-    "url": "https://github.com/minhnhattonthat/growlanser-psp-en/releases/tag/v1.0.2"
+    "url": "https://github.com/mtlgames/growlanser-psp-en/releases/tag/v1.0.2"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-22T05:15:21Z",
     "desc": "English fan translation of Growlanser (PSP)",
-    "full": "minhnhattonthat/growlanser-psp-en",
+    "full": "mtlgames/growlanser-psp-en",
     "lang": "Python",
     "pushed": "2026-11-24T09:15:07Z",
     "size": 5984,
@@ -9235,13 +9392,13 @@
     "date": "2026-11-22T19:47:49Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/gungho-brigade-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/gungho-brigade-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-21T11:23:12Z",
     "desc": "English fan translation of gungho-brigade-en (PSX)",
-    "full": "minhnhattonthat/gungho-brigade-en",
+    "full": "mtlgames/gungho-brigade-en",
     "lang": "Python",
     "pushed": "2026-11-22T19:47:49Z",
     "size": 1329,
@@ -9262,13 +9419,13 @@
     "date": "2026-11-07T02:23:47Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/hachiemon-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/hachiemon-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-06T06:54:02Z",
     "desc": "English fan translation of hachiemon-en (GBA)",
-    "full": "minhnhattonthat/hachiemon-en",
+    "full": "mtlgames/hachiemon-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:34Z",
     "size": 602,
@@ -9291,13 +9448,13 @@
     "date": "2026-10-21T23:50:41Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/hanjuku-hero-ah-sekai-yo-hanjuku-nare/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-21T23:50:21Z",
     "desc": "English fan translation of Hanjuku Hero: Ah, Sekai yo Hanjuku Nare...!! (SNES, 1992, Square)",
-    "full": "minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare",
+    "full": "mtlgames/hanjuku-hero-ah-sekai-yo-hanjuku-nare",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:20Z",
     "size": 362,
@@ -9320,13 +9477,13 @@
     "date": "2026-11-21T21:51:28Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/heian-fuuunden-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/heian-fuuunden-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-21T11:22:00Z",
     "desc": "English fan translation of Heian Fuuunden (SNES)",
-    "full": "minhnhattonthat/heian-fuuunden-en",
+    "full": "mtlgames/heian-fuuunden-en",
     "lang": "Python",
     "pushed": "2026-11-21T21:51:45Z",
     "size": 1097,
@@ -9350,13 +9507,13 @@
     "date": "2026-11-14T23:56:30Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/hyakujuu-sentai-gaoranger-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/hyakujuu-sentai-gaoranger-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-13T21:13:08Z",
     "desc": "English fan translation of Hyakujuu Sentai GaoRanger (PS1)",
-    "full": "minhnhattonthat/hyakujuu-sentai-gaoranger-en",
+    "full": "mtlgames/hyakujuu-sentai-gaoranger-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:37Z",
     "size": 1178,
@@ -9377,13 +9534,13 @@
     "date": "2026-10-20T09:17:45Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/kabuki-rocks/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/kabuki-rocks/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-20T09:17:28Z",
     "desc": "English translation patch for Kabuki Rocks (SNES)",
-    "full": "minhnhattonthat/kabuki-rocks",
+    "full": "mtlgames/kabuki-rocks",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:42Z",
     "size": 452,
@@ -9406,13 +9563,13 @@
     "date": "2026-10-19T11:42:15Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/kidou-senshi-gundam-seed-destiny/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/kidou-senshi-gundam-seed-destiny/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-19T11:41:00Z",
     "desc": "English fan translation of Mobile Suit Gundam SEED Destiny (GBA)",
-    "full": "minhnhattonthat/kidou-senshi-gundam-seed-destiny",
+    "full": "mtlgames/kidou-senshi-gundam-seed-destiny",
     "lang": "Python",
     "pushed": "2026-10-30T00:07:08Z",
     "size": 178,
@@ -9435,17 +9592,44 @@
     "date": "2026-11-02T06:19:36Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/kuro-no-ken-blade-of-the-darkness-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-01T10:34:50Z",
     "desc": "English fan translation of Kuro no Ken: Blade of the Darkness (PSX)",
-    "full": "minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en",
+    "full": "mtlgames/kuro-no-ken-blade-of-the-darkness-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:40Z",
     "size": 2282,
     "stars": 3
+   },
+   "shots": []
+  },
+  "minhnhattonthat/last-battle-the-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T09:58:05Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/mtlgames/last-battle-the-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-23T07:09:28Z",
+    "desc": "English fan translation of The Last Battle (SNES)",
+    "full": "mtlgames/last-battle-the-en",
+    "lang": "Python",
+    "pushed": "2026-11-24T09:58:04Z",
+    "size": 1032,
+    "stars": 0
    },
    "shots": []
   },
@@ -9462,13 +9646,13 @@
     "date": "2026-11-23T06:38:19Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/legend-of-dynamic-goushouden-houkai-no-rondo-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-15T06:28:29Z",
     "desc": "English fan translation of Legend of Dynamic Goushouden: Houkai no Rondo (GBA)",
-    "full": "minhnhattonthat/legend-of-dynamic-goushouden-houkai-no-rondo-en",
+    "full": "mtlgames/legend-of-dynamic-goushouden-houkai-no-rondo-en",
     "lang": "Python",
     "pushed": "2026-11-23T06:38:18Z",
     "size": 4068,
@@ -9491,13 +9675,13 @@
     "date": "2026-11-20T21:50:50Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/legendz-yomigaeru-shiren-no-shima-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-04T18:00:16Z",
     "desc": "English fan translation of Legendz: Yomigaeru Shiren no Shima (GBA)",
-    "full": "minhnhattonthat/legendz-yomigaeru-shiren-no-shima-en",
+    "full": "mtlgames/legendz-yomigaeru-shiren-no-shima-en",
     "lang": "Python",
     "pushed": "2026-11-20T21:51:17Z",
     "size": 2159,
@@ -9520,13 +9704,13 @@
     "date": "2026-11-01T03:12:50Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/maer-heaven-knockin-on-heaven-s-door-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-31T12:33:58Z",
     "desc": "English fan translation of MÄR Heaven: Knockin' on Heaven's Door (GBA)",
-    "full": "minhnhattonthat/maer-heaven-knockin-on-heaven-s-door-en",
+    "full": "mtlgames/maer-heaven-knockin-on-heaven-s-door-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:46Z",
     "size": 1528,
@@ -9547,13 +9731,13 @@
     "date": "2026-10-22T19:53:23Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/mermaid-melody-pichi-pichi-pitch-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-22T19:52:52Z",
     "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch (GBA)",
-    "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en",
+    "full": "mtlgames/mermaid-melody-pichi-pichi-pitch-en",
     "lang": "Python",
     "pushed": "2026-10-30T00:07:06Z",
     "size": 786,
@@ -9574,13 +9758,13 @@
     "date": "2026-10-22T21:29:48Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-22T21:29:18Z",
     "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party (GBA)",
-    "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en",
+    "full": "mtlgames/mermaid-melody-pichi-pichi-pitch-pichi-pichi-party-en",
     "lang": "Python",
     "pushed": "2026-10-30T00:07:03Z",
     "size": 4047,
@@ -9603,13 +9787,13 @@
     "date": "2026-11-16T22:24:23Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-15T05:06:33Z",
     "desc": "English fan translation of Mermaid Melody Pichi Pichi Pitch: Pichi Pichitto Live Start! (GBA)",
-    "full": "minhnhattonthat/mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start-en",
+    "full": "mtlgames/mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:02:02Z",
     "size": 2194,
@@ -9630,13 +9814,13 @@
     "date": "2026-10-31T08:19:06Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/momotarou-densetsu-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/momotarou-densetsu-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-30T01:00:35Z",
     "desc": "English fan translation of momotarou-densetsu-en (PSX)",
-    "full": "minhnhattonthat/momotarou-densetsu-en",
+    "full": "mtlgames/momotarou-densetsu-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:56:24Z",
     "size": 1883,
@@ -9657,13 +9841,13 @@
     "date": "2026-11-01T22:20:00Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/momotarou-matsuri-ishikawa-rokuemon-no-maki-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-30T13:00:37Z",
     "desc": "English fan translation of Momotarou Matsuri: Ishikawa Rokuemon no Maki (PSX)",
-    "full": "minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en",
+    "full": "mtlgames/momotarou-matsuri-ishikawa-rokuemon-no-maki-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:49Z",
     "size": 11785,
@@ -9684,13 +9868,13 @@
     "date": "2026-11-23T10:00:10Z",
     "pre": false,
     "tag": "v1.3",
-    "url": "https://github.com/minhnhattonthat/monster-guardians-en/releases/tag/v1.3"
+    "url": "https://github.com/mtlgames/monster-guardians-en/releases/tag/v1.3"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-20T03:54:34Z",
     "desc": "English fan translation of Monster Guardians (GBA, Konami 2001)",
-    "full": "minhnhattonthat/monster-guardians-en",
+    "full": "mtlgames/monster-guardians-en",
     "lang": "Python",
     "pushed": "2026-11-23T10:01:20Z",
     "size": 653,
@@ -9711,13 +9895,13 @@
     "date": "2026-10-30T02:31:06Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/nage-libre-rasen-no-soukoku-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/nage-libre-rasen-no-soukoku-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-29T12:09:58Z",
     "desc": "English fan translation of Nage Libre: Rasen no Soukoku (PlayStation)",
-    "full": "minhnhattonthat/nage-libre-rasen-no-soukoku-en",
+    "full": "mtlgames/nage-libre-rasen-no-soukoku-en",
     "lang": "Python",
     "pushed": "2026-11-07T06:53:40Z",
     "size": 1118,
@@ -9740,13 +9924,13 @@
     "date": "2026-11-17T07:19:39Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/onmyou-taisenki-zeroshiki-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/onmyou-taisenki-zeroshiki-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-15T18:58:36Z",
     "desc": "English fan translation of onmyou-taisenki-zeroshiki-en (GBA)",
-    "full": "minhnhattonthat/onmyou-taisenki-zeroshiki-en",
+    "full": "mtlgames/onmyou-taisenki-zeroshiki-en",
     "lang": "Python",
     "pushed": "2026-11-17T07:19:38Z",
     "size": 2829,
@@ -9770,13 +9954,13 @@
     "date": "2026-11-05T20:57:40Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/paro-wars-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/paro-wars-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-04T14:00:19Z",
     "desc": "English fan translation of Paro Wars (PSX)",
-    "full": "minhnhattonthat/paro-wars-en",
+    "full": "mtlgames/paro-wars-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:52Z",
     "size": 1205,
@@ -9797,13 +9981,13 @@
     "date": "2026-10-16T05:58:55Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/recca-no-honoo-the-game/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/recca-no-honoo-the-game/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-16T05:58:28Z",
     "desc": "English fan translation of Recca no Honoo - The Game (GBA)",
-    "full": "minhnhattonthat/recca-no-honoo-the-game",
+    "full": "mtlgames/recca-no-honoo-the-game",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:05Z",
     "size": 398,
@@ -9824,13 +10008,13 @@
     "date": "2026-10-24T13:27:41Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/rokudenashi-blues-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/rokudenashi-blues-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-24T13:27:01Z",
     "desc": "English fan translation of Rokudenashi Blues: Taiketsu! Tokyo Shitennou (SNES, Bandai 1994)",
-    "full": "minhnhattonthat/rokudenashi-blues-en",
+    "full": "mtlgames/rokudenashi-blues-en",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:39Z",
     "size": 353,
@@ -9851,13 +10035,13 @@
     "date": "2026-10-31T11:21:47Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/ruin-arm-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/ruin-arm-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-29T14:00:49Z",
     "desc": "English fan translation of Ruin Arm (SNES)",
-    "full": "minhnhattonthat/ruin-arm-en",
+    "full": "mtlgames/ruin-arm-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:56:34Z",
     "size": 972,
@@ -9878,13 +10062,13 @@
     "date": "2026-11-19T20:15:07Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/sakura-note-ima-ni-tsunagaru-mirai-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/sakura-note-ima-ni-tsunagaru-mirai-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-19T08:40:42Z",
     "desc": "English fan translation of Sakura Note: Ima ni Tsunagaru Mirai (NDS)",
-    "full": "minhnhattonthat/sakura-note-ima-ni-tsunagaru-mirai-en",
+    "full": "mtlgames/sakura-note-ima-ni-tsunagaru-mirai-en",
     "lang": "Python",
     "pushed": "2026-11-19T20:15:28Z",
     "size": 1010,
@@ -9907,13 +10091,13 @@
     "date": "2026-10-29T20:45:32Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/seijuu-maden-beasts-blades-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/seijuu-maden-beasts-blades-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-26T13:28:41Z",
     "desc": "English fan translation of Seijuu Maden: Beasts & Blades (SNES)",
-    "full": "minhnhattonthat/seijuu-maden-beasts-blades-en",
+    "full": "mtlgames/seijuu-maden-beasts-blades-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:56:36Z",
     "size": 1396,
@@ -9936,13 +10120,13 @@
     "date": "2026-11-03T06:20:33Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/seireiki-rayblade-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/seireiki-rayblade-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-02T09:50:24Z",
     "desc": "English fan translation of Seireiki Rayblade (PSX)",
-    "full": "minhnhattonthat/seireiki-rayblade-en",
+    "full": "mtlgames/seireiki-rayblade-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:55Z",
     "size": 9733,
@@ -9965,13 +10149,13 @@
     "date": "2026-11-18T02:23:56Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/sengoku-kakumei-gaiden-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/sengoku-kakumei-gaiden-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-16T04:40:48Z",
     "desc": "English fan translation of Sengoku Kakumei Gaiden (GBA)",
-    "full": "minhnhattonthat/sengoku-kakumei-gaiden-en",
+    "full": "mtlgames/sengoku-kakumei-gaiden-en",
     "lang": "Python",
     "pushed": "2026-11-18T05:00:50Z",
     "size": 1367,
@@ -9995,13 +10179,13 @@
     "date": "2026-11-22T21:25:42Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/shin-masou-kishin-panzer-warfare-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/shin-masou-kishin-panzer-warfare-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-21T11:23:41Z",
     "desc": "English fan translation of shin-masou-kishin-panzer-warfare-en (PSX)",
-    "full": "minhnhattonthat/shin-masou-kishin-panzer-warfare-en",
+    "full": "mtlgames/shin-masou-kishin-panzer-warfare-en",
     "lang": "Python",
     "pushed": "2026-11-22T21:29:19Z",
     "size": 2908,
@@ -10022,13 +10206,13 @@
     "date": "2026-11-01T06:41:35Z",
     "pre": false,
     "tag": "v1.0.1",
-    "url": "https://github.com/minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en/releases/tag/v1.0.1"
+    "url": "https://github.com/mtlgames/shin-megami-tensei-devil-children-puzzle-de-call-en/releases/tag/v1.0.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-31T18:00:22Z",
     "desc": "English fan translation of Shin Megami Tensei: Devil Children - Puzzle de Call! (GBA)",
-    "full": "minhnhattonthat/shin-megami-tensei-devil-children-puzzle-de-call-en",
+    "full": "mtlgames/shin-megami-tensei-devil-children-puzzle-de-call-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:03:57Z",
     "size": 617,
@@ -10051,13 +10235,13 @@
     "date": "2026-11-17T08:53:10Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/shingata-medarot-kuwagata-version-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/shingata-medarot-kuwagata-version-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-16T13:15:33Z",
     "desc": "English fan translation of Shingata Medarot: Kuwagata Version and Kabuto Version (GBA)",
-    "full": "minhnhattonthat/shingata-medarot-kuwagata-version-en",
+    "full": "mtlgames/shingata-medarot-kuwagata-version-en",
     "lang": "Python",
     "pushed": "2026-11-19T00:48:58Z",
     "size": 4579,
@@ -10078,13 +10262,13 @@
     "date": "2026-10-22T11:40:22Z",
     "pre": false,
     "tag": "v1.2",
-    "url": "https://github.com/minhnhattonthat/smt-devil-children-2-honoo-no-sho/releases/tag/v1.2"
+    "url": "https://github.com/mtlgames/smt-devil-children-2-honoo-no-sho/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-22T06:13:46Z",
     "desc": "English fan translation of Shin Megami Tensei: Devil Children 2 Honoo no Sho / DemiKids Book of Fire (GBA)",
-    "full": "minhnhattonthat/smt-devil-children-2-honoo-no-sho",
+    "full": "mtlgames/smt-devil-children-2-honoo-no-sho",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:17Z",
     "size": 1358,
@@ -10105,13 +10289,13 @@
     "date": "2026-11-04T03:01:51Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/smt-devil-children-kuro-no-sho-aka-no-sho-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/smt-devil-children-kuro-no-sho-aka-no-sho-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-04T03:01:37Z",
     "desc": "English fan translation of Shin Megami Tensei: Devil Children Black Book / Red Book (PS1)",
-    "full": "minhnhattonthat/smt-devil-children-kuro-no-sho-aka-no-sho-en",
+    "full": "mtlgames/smt-devil-children-kuro-no-sho-aka-no-sho-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:04:00Z",
     "size": 793,
@@ -10132,13 +10316,13 @@
     "date": "2026-10-29T23:55:53Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/solid-runner-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/solid-runner-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-29T12:04:43Z",
     "desc": "English fan translation of Solid Runner (SNES)",
-    "full": "minhnhattonthat/solid-runner-en",
+    "full": "mtlgames/solid-runner-en",
     "lang": "Python",
     "pushed": "2026-11-07T05:56:45Z",
     "size": 1318,
@@ -10159,13 +10343,13 @@
     "date": "2026-11-22T21:29:27Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/sora-no-otoshimono-dokidoki-summer-vacation-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/sora-no-otoshimono-dokidoki-summer-vacation-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-21T13:00:42Z",
     "desc": "English fan translation of sora-no-otoshimono-dokidoki-summer-vacation-en (PSP)",
-    "full": "minhnhattonthat/sora-no-otoshimono-dokidoki-summer-vacation-en",
+    "full": "mtlgames/sora-no-otoshimono-dokidoki-summer-vacation-en",
     "lang": "Python",
     "pushed": "2026-11-22T21:31:04Z",
     "size": 8456,
@@ -10187,13 +10371,13 @@
     "date": "2026-10-22T20:41:32Z",
     "pre": false,
     "tag": "v0.96",
-    "url": "https://github.com/minhnhattonthat/sugoro-quest-dicenics-en/releases/tag/v0.96"
+    "url": "https://github.com/mtlgames/sugoro-quest-dicenics-en/releases/tag/v0.96"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-19T10:40:08Z",
     "desc": "English fan translation of Sugoro Quest++: Dicenics (SNES)",
-    "full": "minhnhattonthat/sugoro-quest-dicenics-en",
+    "full": "mtlgames/sugoro-quest-dicenics-en",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:30Z",
     "size": 354,
@@ -10216,13 +10400,13 @@
     "date": "2026-10-15T04:34:21Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/super-gomoku-narabe-translation/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/super-gomoku-narabe-translation/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-15T04:34:00Z",
     "desc": "English and Vietnamese fan translation of Super Gomoku Narabe Renju (SFC)",
-    "full": "minhnhattonthat/super-gomoku-narabe-translation",
+    "full": "mtlgames/super-gomoku-narabe-translation",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:27Z",
     "size": 274,
@@ -10243,13 +10427,13 @@
     "date": "2026-11-13T21:09:50Z",
     "pre": false,
     "tag": "v1.2",
-    "url": "https://github.com/minhnhattonthat/tadaima-yuusha-boshuuchuu-okawari-en/releases/tag/v1.2"
+    "url": "https://github.com/mtlgames/tadaima-yuusha-boshuuchuu-okawari-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-07T10:24:51Z",
     "desc": "English fan translation of Tadaima Yuusha Boshuuchuu Okawari (SNES)",
-    "full": "minhnhattonthat/tadaima-yuusha-boshuuchuu-okawari-en",
+    "full": "mtlgames/tadaima-yuusha-boshuuchuu-okawari-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:02:13Z",
     "size": 3715,
@@ -10272,13 +10456,13 @@
     "date": "2026-11-05T05:29:53Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/tenkuu-no-escaflowne-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/tenkuu-no-escaflowne-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-04T05:39:00Z",
     "desc": "English fan translation of Tenkuu no Escaflowne (PS1)",
-    "full": "minhnhattonthat/tenkuu-no-escaflowne-en",
+    "full": "mtlgames/tenkuu-no-escaflowne-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:04:03Z",
     "size": 1436,
@@ -10301,13 +10485,13 @@
     "date": "2026-11-08T00:17:32Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/time-bokan-series-bokan-desu-yo-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/time-bokan-series-bokan-desu-yo-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-04T23:00:31Z",
     "desc": "English fan translation of Time Bokan Series: Bokan desu yo (PSX)",
-    "full": "minhnhattonthat/time-bokan-series-bokan-desu-yo-en",
+    "full": "mtlgames/time-bokan-series-bokan-desu-yo-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:02:17Z",
     "size": 889,
@@ -10330,13 +10514,13 @@
     "date": "2026-11-14T09:19:09Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/time-bokan-series-bokan-gogogo-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/time-bokan-series-bokan-gogogo-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-04T23:00:53Z",
     "desc": "English fan translation of Time Bokan Series: Bokan GoGoGo (PSX)",
-    "full": "minhnhattonthat/time-bokan-series-bokan-gogogo-en",
+    "full": "mtlgames/time-bokan-series-bokan-gogogo-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:02:19Z",
     "size": 1169,
@@ -10359,13 +10543,13 @@
     "date": "2026-11-13T21:02:29Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/time-bokan-series-bokan-to-ippatsu-doronbow-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/time-bokan-series-bokan-to-ippatsu-doronbow-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-05T00:00:39Z",
     "desc": "English fan translation of time-bokan-series-bokan-to-ippatsu-doronbow-en (PSX)",
-    "full": "minhnhattonthat/time-bokan-series-bokan-to-ippatsu-doronbow-en",
+    "full": "mtlgames/time-bokan-series-bokan-to-ippatsu-doronbow-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:02:22Z",
     "size": 890,
@@ -10386,17 +10570,17 @@
     "date": "2026-11-23T00:56:33Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/tokyo-majin-gakuen-fuju-houroku-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-21T19:18:32Z",
     "desc": "English fan translation of Tokyo Majin Gakuen: Fuju Houroku (GBA)",
-    "full": "minhnhattonthat/tokyo-majin-gakuen-fuju-houroku-en",
+    "full": "mtlgames/tokyo-majin-gakuen-fuju-houroku-en",
     "lang": "Python",
     "pushed": "2026-11-23T01:00:09Z",
     "size": 1859,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -10413,13 +10597,13 @@
     "date": "2026-11-21T06:31:37Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/toyrobo-force-en/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/toyrobo-force-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-16T13:15:49Z",
     "desc": "English fan translation of Toy Robo Force (GBA)",
-    "full": "minhnhattonthat/toyrobo-force-en",
+    "full": "mtlgames/toyrobo-force-en",
     "lang": "Python",
     "pushed": "2026-11-21T06:34:46Z",
     "size": 1661,
@@ -10440,13 +10624,13 @@
     "date": "2026-11-18T11:48:38Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/vattroller-x-en/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/vattroller-x-en/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-16T22:11:20Z",
     "desc": "English fan translation of Vattroller X (GBA)",
-    "full": "minhnhattonthat/vattroller-x-en",
+    "full": "mtlgames/vattroller-x-en",
     "lang": "Python",
     "pushed": "2026-11-19T00:48:12Z",
     "size": 1617,
@@ -10469,13 +10653,13 @@
     "date": "2026-10-28T22:13:40Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/velldeselba-senki/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/velldeselba-senki/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-23T05:27:34Z",
     "desc": "English fan translation of Velldeselba Senki - Tsubasa no Kunshou (PSX)",
-    "full": "minhnhattonthat/velldeselba-senki",
+    "full": "mtlgames/velldeselba-senki",
     "lang": "Python",
     "pushed": "2026-10-30T00:05:11Z",
     "size": 2034,
@@ -10498,13 +10682,13 @@
     "date": "2026-11-16T01:10:09Z",
     "pre": false,
     "tag": "v1.0.1",
-    "url": "https://github.com/minhnhattonthat/yggdra-unison-seiken-buyuuden-en/releases/tag/v1.0.1"
+    "url": "https://github.com/mtlgames/yggdra-unison-seiken-buyuuden-en/releases/tag/v1.0.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-11-09T08:08:45Z",
     "desc": "English fan translation of Yggdra Unison: Seiken Buyuuden (NDS)",
-    "full": "minhnhattonthat/yggdra-unison-seiken-buyuuden-en",
+    "full": "mtlgames/yggdra-unison-seiken-buyuuden-en",
     "lang": "Python",
     "pushed": "2026-11-17T11:02:28Z",
     "size": 11638,
@@ -10528,13 +10712,13 @@
     "date": "2026-10-10T12:10:57Z",
     "pre": false,
     "tag": "v1.0",
-    "url": "https://github.com/minhnhattonthat/yu-yu-hakusho-2-english/releases/tag/v1.0"
+    "url": "https://github.com/mtlgames/yu-yu-hakusho-2-english/releases/tag/v1.0"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-10T12:10:00Z",
     "desc": "English fan translation of Yu Yu Hakusho 2: Kakutou no Shou (SNES)",
-    "full": "minhnhattonthat/yu-yu-hakusho-2-english",
+    "full": "mtlgames/yu-yu-hakusho-2-english",
     "lang": "Python",
     "pushed": "2026-10-30T00:06:14Z",
     "size": 164,
@@ -10555,13 +10739,13 @@
     "date": "2026-10-27T12:06:25Z",
     "pre": false,
     "tag": "v1.1",
-    "url": "https://github.com/minhnhattonthat/zero-one-sp-english/releases/tag/v1.1"
+    "url": "https://github.com/mtlgames/zero-one-sp-english/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
     "created": "2026-10-10T08:48:09Z",
     "desc": "English fan translation of Zero One SP (GBA, 2004)",
-    "full": "minhnhattonthat/zero-one-sp-english",
+    "full": "mtlgames/zero-one-sp-english",
     "lang": "Python",
     "pushed": "2026-11-07T05:57:00Z",
     "size": 2878,
@@ -10643,7 +10827,7 @@
     "lang": null,
     "pushed": "2026-11-24T03:20:12Z",
     "size": 621,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -10711,7 +10895,7 @@
    ]
   },
   "moonanon/princess-maker-another-world-en": {
-   "noRelease": true,
+   "assetOs": {},
    "readme": {
     "patch": {
      "cov": "Partial",
@@ -10724,14 +10908,20 @@
     "v": 1
    },
    "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T16:32:13Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/moonanon/princess-maker-another-world-en/releases/tag/v1.1"
+   },
    "repo": {
     "archived": false,
     "created": "2026-11-13T22:13:52Z",
     "desc": "English translation patch for Princess Maker: Legend of Another World (Super Famicom, 1995), with optional bug-fix and Quest-rework patches.",
     "full": "moonanon/princess-maker-another-world-en",
     "lang": "Python",
-    "pushed": "2026-11-23T21:54:18Z",
-    "size": 1407,
+    "pushed": "2026-11-24T16:32:13Z",
+    "size": 1656,
     "stars": 0
    },
    "shots": [
@@ -10921,8 +11111,8 @@
     "desc": "Full-English-Translation-Patch-Release-Experimental-",
     "full": "NekoGun45/-3DS-Super-Robot-Wars-UX---Full-English-Translation-Patch-Release-Experimental-",
     "lang": null,
-    "pushed": "2026-11-21T23:38:17Z",
-    "size": 12131,
+    "pushed": "2026-11-24T20:32:41Z",
+    "size": 12135,
     "stars": 0
    },
    "shots": []
@@ -11213,7 +11403,7 @@
     "lang": "Ruby",
     "pushed": "2024-06-27T09:36:28Z",
     "size": 833504,
-    "stars": 113
+    "stars": 112
    },
    "shots": []
   },
@@ -11512,8 +11702,8 @@
     "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
-    "pushed": "2026-11-23T20:57:55Z",
-    "size": 92,
+    "pushed": "2026-11-24T23:14:38Z",
+    "size": 119,
     "stars": 0
    },
    "shots": []
@@ -12048,6 +12238,35 @@
    },
    "shots": []
   },
+  "retro-trans/shiren-ds2": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T07:24:13Z",
+    "pre": false,
+    "tag": "v0.8.0",
+    "url": "https://github.com/retro-trans/Shiren-DS2/releases/tag/v0.8.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-24T07:22:24Z",
+    "desc": "Translation patch of Fushigi no Dungeon: Fuurai no Shiren DS2 - Sabaku no Majou (NDS)",
+    "full": "retro-trans/Shiren-DS2",
+    "lang": "Python",
+    "pushed": "2026-11-24T07:24:12Z",
+    "size": 4968,
+    "stars": 0
+   },
+   "shots": []
+  },
   "retro-trans/sunrise-eiyuutan-2": {
    "assetOs": {},
    "readme": {
@@ -12284,9 +12503,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-15T20:15:24Z",
-    "size": 101843,
-    "stars": 160
+    "pushed": "2026-11-24T19:17:01Z",
+    "size": 101874,
+    "stars": 161
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -12484,7 +12703,7 @@
     "lang": null,
     "pushed": "2026-11-02T19:50:45Z",
     "size": 42,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://github.com/user-attachments/assets/ed6f70bb-5e39-4223-932f-79c0082c0212"
@@ -12996,6 +13215,38 @@
     "https://raw.githubusercontent.com/second-save/tengai-makyou-collection-psp/HEAD/docs/media/2_manji_maru.png",
     "https://raw.githubusercontent.com/second-save/tengai-makyou-collection-psp/HEAD/docs/media/3_kabuki_den.png",
     "https://raw.githubusercontent.com/second-save/tengai-makyou-collection-psp/HEAD/docs/media/4_ittou_ryoudan.png"
+   ]
+  },
+  "second-save/tengai-makyou-kabuki-den-pce-cd": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T09:29:17Z",
+    "pre": false,
+    "tag": "v1.0.1",
+    "url": "https://github.com/second-save/tengai-makyou-kabuki-den-pce-cd/releases/tag/v1.0.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-24T09:28:58Z",
+    "desc": "English subtitles for the voiced scenes of Tengai Makyou: Fuun Kabuki-den (PC Engine Super CD-ROM², 1993): an add-on xdelta to fabiof17's English patch v1.0.36. No game data included.",
+    "full": "second-save/tengai-makyou-kabuki-den-pce-cd",
+    "lang": "Python",
+    "pushed": "2026-11-24T09:29:17Z",
+    "size": 50,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/second-save/tengai-makyou-kabuki-den-pce-cd/HEAD/docs/prologue.png"
    ]
   },
   "second-save/tengai-makyou-ziria-psp": {
@@ -13554,7 +13805,7 @@
     "lang": null,
     "pushed": "2026-11-22T03:28:10Z",
     "size": 2801,
-    "stars": 0
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/houshin-engi-aizouban-psx-english/HEAD/screenshots/03-opening-kou-hiko.png",
@@ -13578,10 +13829,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T00:42:10Z",
+    "date": "2026-11-24T14:09:13Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/suddenlythis/linda3pce-english/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/suddenlythis/linda3pce-english/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -13589,8 +13840,8 @@
     "desc": "Linda Cube (PC Engine) English Translation",
     "full": "suddenlythis/linda3pce-english",
     "lang": null,
-    "pushed": "2026-11-20T01:46:03Z",
-    "size": 187,
+    "pushed": "2026-11-24T19:27:12Z",
+    "size": 228,
     "stars": 7
    },
    "shots": [

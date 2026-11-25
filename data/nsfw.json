@@ -1266,11 +1266,6 @@
    "iv": 1,
    "title": "Squaresoft's Wonderswan exclusive card-based RPG"
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "checked": "2026-11-24T13:57:56Z",
-   "iv": 1,
-   "title": "Dqxi"
-  },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -1866,11 +1861,6 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
-   "checked": "2026-11-24T13:57:56Z",
-   "iv": 1,
-   "title": "Sonic Gems Collection"
-  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1885,6 +1875,16 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
+  },
+  "link:https://archive.org/details/air-english-patch-psp": {
+   "checked": "2026-11-24T23:57:21Z",
+   "img": "https://t.vndb.org/cv/04/103904.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "AIR",
+   "sexual": 0,
+   "title": "AIR",
+   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2066,11 +2066,6 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "checked": "2026-11-24T13:57:56Z",
-   "iv": 1,
-   "title": "Bulk Slash"
-  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -2185,6 +2180,11 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
+  },
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
+   "checked": "2026-11-24T23:57:21Z",
+   "iv": 1,
+   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2571,11 +2571,6 @@
    "iv": 1,
    "title": "Medarot DS Kabuto Ver."
   },
-  "link:https://archive.org/details/mega-man-x-4_202611": {
-   "checked": "2026-11-24T13:57:56Z",
-   "iv": 1,
-   "title": "Mega Man X4"
-  },
   "link:https://archive.org/details/mega_man_mhx_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -2600,11 +2595,6 @@
    "checked": "2026-10-23T11:50:40Z",
    "iv": 1,
    "title": "Digital Devil Story: Megami Tensei II"
-  },
-  "link:https://archive.org/details/meremanoid-english": {
-   "checked": "2026-11-24T13:57:56Z",
-   "iv": 1,
-   "title": "Meremanoid"
   },
   "link:https://archive.org/details/metal-max-2-eng-1.0": {
    "checked": "2026-10-29T10:12:06Z",
@@ -2816,6 +2806,11 @@
    "iv": 1,
    "title": "Samurai Warriors: State of War"
   },
+  "link:https://archive.org/details/sengokubasara3utageenglish": {
+   "checked": "2026-11-24T23:57:21Z",
+   "iv": 1,
+   "title": "Sengoku BASARA 3 Utage —"
+  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -2843,6 +2838,11 @@
   },
   "link:https://archive.org/details/shining-tears-undub-1.1": {
    "checked": "2026-11-24T02:22:09Z",
+   "iv": 1,
+   "title": "Shining Tears Restoration +"
+  },
+  "link:https://archive.org/details/shining-tears-undub-1.2": {
+   "checked": "2026-11-24T23:57:21Z",
    "iv": 1,
    "title": "Shining Tears Restoration +"
   },
@@ -2920,6 +2920,11 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
+  },
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
+   "checked": "2026-11-24T23:57:21Z",
+   "iv": 1,
+   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -10712,6 +10717,11 @@
    "iv": 1,
    "title": "Guru Logic Champ"
   },
+  "lukeu123/tre-v3.0.6-english-translation": {
+   "checked": "2026-11-24T23:57:21Z",
+   "iv": 1,
+   "title": "Pokémon Team Rocket Edition v3.0.6"
+  },
   "lunamoo/mokuba-no-kiseki-english-patch": {
    "checked": "2026-11-19T02:39:49Z",
    "iv": 1,
@@ -11342,6 +11352,11 @@
    "iv": 1,
    "title": "Tsumu Light Recomp"
   },
+  "mtlgames/growlanser-en": {
+   "checked": "2026-11-24T23:57:21Z",
+   "iv": 1,
+   "title": "Growlanser"
+  },
   "muorosaaa/tokyo-mew-mew-ps1-en": {
    "checked": "2026-11-13T01:57:09Z",
    "iv": 1,
@@ -11842,6 +11857,16 @@
    "iv": 1,
    "title": "Linda3Pce"
   },
+  "suddenlythis/mitsumete-knight-psx-english": {
+   "checked": "2026-11-24T23:57:21Z",
+   "img": "https://t.vndb.org/cv/01/99201.jpg",
+   "iv": 1,
+   "match": 1.0,
+   "name": "Mitsumete Knight",
+   "sexual": 0,
+   "title": "Mitsumete Knight",
+   "vn": "v6672"
+  },
   "suddenlythis/robinlloyd-psx-english": {
    "checked": "2026-11-20T20:32:33Z",
    "iv": 1,
@@ -12038,6 +12063,6 @@
    "title": "Megami Ibunroku Persona Pc Recompile"
   }
  },
- "generated": "2026-11-24T13:57:56Z",
+ "generated": "2026-11-24T23:57:21Z",
  "version": 1
 }
