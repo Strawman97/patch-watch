@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-25T08:51:25Z",
+ "generated": "2026-11-25T19:26:30Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1792,7 +1792,7 @@
     "lang": "Rust",
     "pushed": "2026-11-25T06:52:23Z",
     "size": 5329,
-    "stars": 0
+    "stars": 8
    },
    "shots": [
     "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/tod2-dialogue.png",
@@ -3967,10 +3967,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-17T12:06:25Z",
+    "date": "2026-11-25T15:10:22Z",
     "pre": false,
-    "tag": "mod-battle-voices-originals-ai-1.0.5",
-    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/mod-battle-voices-originals-ai-1.0.5"
+    "tag": "v0.5.4",
+    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/v0.5.4"
    },
    "repo": {
     "archived": false,
@@ -3978,8 +3978,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-25T05:16:03Z",
-    "size": 167783,
+    "pushed": "2026-11-25T15:20:03Z",
+    "size": 169523,
     "stars": 52
    },
    "shots": [
@@ -4047,7 +4047,7 @@
     "lang": "C++",
     "pushed": "2024-03-30T03:54:07Z",
     "size": 192329,
-    "stars": 127
+    "stars": 128
    },
    "shots": []
   },
@@ -4263,7 +4263,7 @@
     "lang": null,
     "pushed": "2026-11-23T18:24:58Z",
     "size": 151,
-    "stars": 2
+    "stars": 3
    },
    "shots": [
     "https://github.com/user-attachments/assets/e0cf036e-a6b0-4730-a283-48676759e79a",
@@ -5335,7 +5335,7 @@
     "desc": "Grandia III: Open Skies - a native PC & Android port of Grandia III (PS2): widescreen, 60 fps, savestates, subtitles, optional undub. Bring your own ISO.",
     "full": "GranasSabre/Grandia3-OpenSkies",
     "lang": "C++",
-    "pushed": "2026-11-22T15:17:38Z",
+    "pushed": "2026-11-25T19:13:03Z",
     "size": 17196,
     "stars": 62
    },
@@ -5388,6 +5388,46 @@
     "stars": 4
    },
    "shots": []
+  },
+  "guiaugusti/bomberman-land-3-english": {
+   "assetOs": {
+    "Windows": true
+   },
+   "readme": {
+    "patch": {
+     "cov": "Complete",
+     "ex": {
+      "gfx": true
+     },
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-25T00:27:55Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/GuiAugusti/bomberman-land-3-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-24T22:59:09Z",
+    "desc": "English translation for the PS2 game: Bomberman Land 3",
+    "full": "GuiAugusti/bomberman-land-3-english",
+    "lang": "Python",
+    "pushed": "2026-11-25T00:27:55Z",
+    "size": 1458,
+    "stars": 1
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/GuiAugusti/bomberman-land-3-english/HEAD/images/screenshots/fountain.webp",
+    "https://raw.githubusercontent.com/GuiAugusti/bomberman-land-3-english/HEAD/images/screenshots/main_menu.webp",
+    "https://raw.githubusercontent.com/GuiAugusti/bomberman-land-3-english/HEAD/images/screenshots/bompad.webp",
+    "https://raw.githubusercontent.com/GuiAugusti/bomberman-land-3-english/HEAD/images/screenshots/black_bomber.webp",
+    "https://raw.githubusercontent.com/GuiAugusti/bomberman-land-3-english/HEAD/images/screenshots/quiz.webp",
+    "https://raw.githubusercontent.com/GuiAugusti/bomberman-land-3-english/HEAD/images/screenshots/stage_show.webp"
+   ]
   },
   "hexerkat/langrisser3-english": {
    "assetOs": {
@@ -5811,6 +5851,35 @@
     "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/single-player-menu.png",
     "https://raw.githubusercontent.com/itsRevela/yakuman-ds-english/HEAD/docs/screenshots/character-select.png"
    ]
+  },
+  "ivanbarbosafilho/yakuza-kenzan-recomp": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-24T21:44:54Z",
+    "pre": false,
+    "tag": "V1.0.0",
+    "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/tag/V1.0.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-24T16:24:51Z",
+    "desc": "Unofficial native PC port of Ryu ga Gotoku Kenzan! (PS3, BLJM60064) for Linux and Windows. Statically recompiled with ps3recomp and rendered with Vulkan, with the English fan translation, 30/60/120 FPS options and a launcher that installs from your own copy of the game. No game files included.",
+    "full": "IvanBarbosaFilho/Yakuza-Kenzan-Recomp",
+    "lang": "C",
+    "pushed": "2026-11-25T00:32:48Z",
+    "size": 35764,
+    "stars": 43
+   },
+   "shots": []
   },
   "ivin-santhosh/genesis": {
    "noRelease": true,
@@ -6873,6 +6942,40 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/battle.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/inspect.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
+   ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T20:48:48Z",
+    "pre": true,
+    "tag": "1.0-luma-boot-test1",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0-luma-boot-test1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-19T20:48:48Z",
+    "size": 53008,
+    "stars": 37
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
    ]
   },
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": {
@@ -8253,7 +8356,7 @@
     "lang": "Python",
     "pushed": "2026-11-25T00:52:46Z",
     "size": 3132,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -11029,6 +11132,35 @@
    },
    "shots": []
   },
+  "mtlgames/guardian-recall-shugojuu-shoukan-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-25T06:44:20Z",
+    "pre": false,
+    "tag": "v1.2",
+    "url": "https://github.com/mtlgames/guardian-recall-shugojuu-shoukan-en/releases/tag/v1.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T11:22:56Z",
+    "desc": "English fan translation of guardian-recall-shugojuu-shoukan-en (PSX)",
+    "full": "mtlgames/guardian-recall-shugojuu-shoukan-en",
+    "lang": "Python",
+    "pushed": "2026-11-25T06:51:24Z",
+    "size": 2126,
+    "stars": 0
+   },
+   "shots": []
+  },
   "muorosaaa/tokyo-mew-mew-ps1-en": {
    "noRelease": true,
    "readme": {
@@ -11045,8 +11177,8 @@
     "desc": "An attempt at an English Translation of Tokyo Mew Mew – Tojo Shin Mew Mew! – Minna Issho ni Gohoshi Suru Nyan using Claude",
     "full": "Muorosaaa/tokyo-mew-mew-ps1-en",
     "lang": "Python",
-    "pushed": "2026-11-23T17:15:21Z",
-    "size": 8418,
+    "pushed": "2026-11-25T19:12:41Z",
+    "size": 8535,
     "stars": 0
    },
    "shots": []
@@ -11716,6 +11848,30 @@
    },
    "shots": []
   },
+  "pismax/tpp-pm4ps2": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "cov": "Partial",
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-25T01:57:16Z",
+    "desc": "Translator++ add-on: Princess Maker 4 (PS2) parser",
+    "full": "pismax/tpp-pm4Ps2",
+    "lang": "JavaScript",
+    "pushed": "2026-11-25T15:40:43Z",
+    "size": 2285,
+    "stars": 0
+   },
+   "shots": []
+  },
   "pokemongodb/wonderswan-claims": {
    "noRelease": true,
    "readme": {
@@ -11734,8 +11890,8 @@
     "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
-    "pushed": "2026-11-25T06:11:44Z",
-    "size": 120,
+    "pushed": "2026-11-25T19:21:34Z",
+    "size": 138,
     "stars": 0
    },
    "shots": []
@@ -12295,7 +12451,7 @@
     "lang": "Python",
     "pushed": "2026-11-24T07:24:12Z",
     "size": 4968,
-    "stars": 1
+    "stars": 2
    },
    "shots": []
   },
@@ -12779,7 +12935,7 @@
     "lang": "Python",
     "pushed": "2026-10-29T22:58:13Z",
     "size": 840,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/romh-acking/time-twist-fds-en/HEAD/1.png"
@@ -13087,6 +13243,42 @@
     "stars": 7
    },
    "shots": []
+  },
+  "second-save/benkei-gaiden-psp-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-25T00:39:12Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/second-save/benkei-gaiden-psp-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-25T00:38:46Z",
+    "desc": "English translation patch for Benkei Gaiden (PSN PC Engine Archives, NPJJ30035) for PPSSPP",
+    "full": "second-save/benkei-gaiden-psp-en",
+    "lang": "Python",
+    "pushed": "2026-11-25T00:39:12Z",
+    "size": 5999,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/second-save/benkei-gaiden-psp-en/HEAD/docs/media/intro.gif",
+    "https://raw.githubusercontent.com/second-save/benkei-gaiden-psp-en/HEAD/docs/media/game-title.png",
+    "https://raw.githubusercontent.com/second-save/benkei-gaiden-psp-en/HEAD/docs/media/game-dialogue.png",
+    "https://raw.githubusercontent.com/second-save/benkei-gaiden-psp-en/HEAD/docs/media/game-menu.png",
+    "https://raw.githubusercontent.com/second-save/benkei-gaiden-psp-en/HEAD/docs/media/game-status.png",
+    "https://raw.githubusercontent.com/second-save/benkei-gaiden-psp-en/HEAD/docs/media/notice.png"
+   ]
   },
   "second-save/brave-fencer-musashi-undub": {
    "assetOs": {},
@@ -13897,10 +14089,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-24T22:32:52Z",
+    "date": "2026-11-25T13:09:21Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/suddenlythis/mitsumete-knight-psx-english/releases/tag/v1.0"
+    "tag": "v1.0.1",
+    "url": "https://github.com/suddenlythis/mitsumete-knight-psx-english/releases/tag/v1.0.1"
    },
    "repo": {
     "archived": false,
@@ -13908,8 +14100,8 @@
     "desc": "Mitsumete Knight (PS1) English Translation",
     "full": "suddenlythis/mitsumete-knight-psx-english",
     "lang": null,
-    "pushed": "2026-11-25T01:15:30Z",
-    "size": 1220,
+    "pushed": "2026-11-25T13:09:20Z",
+    "size": 1352,
     "stars": 1
    },
    "shots": [
@@ -14005,7 +14197,7 @@
     "full": "syrofx/Yakouchuu-Fan-Translation",
     "lang": "Python",
     "pushed": "2026-11-25T07:56:22Z",
-    "size": 13,
+    "size": 15,
     "stars": 0
    },
    "shots": []

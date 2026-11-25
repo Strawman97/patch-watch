@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-25T08:51:25Z",
+ "generated": "2026-11-25T19:26:30Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -15928,19 +15928,6 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-11-24T13:57:56Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "3DS",
-   "src": "GitHub"
-  },
-  {
    "d": "Mitsumete Knight (PS1) English Translation",
    "fa": "2026-11-24T23:57:21Z",
    "g": "Mitsumete Knight",
@@ -16042,6 +16029,110 @@
     "Human translation"
    ],
    "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "English fan translation of Sakura Wars 3: Is Paris Burning? for Sega Dreamcast.",
+   "fa": "2026-11-25T19:26:30Z",
+   "g": "Sakura Wars 3: Is Paris Burning?",
+   "id": "wakabayashy/sakura-wars-3-dreamcast-english",
+   "k": "wakabayashy/sakura-wars-3-dreamcast-english",
+   "l": "https://github.com/wakabayashy/Sakura-Wars-3-Dreamcast-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Dreamcast",
+   "src": "GitHub"
+  },
+  {
+   "d": "Fork of Project Nativ (TheLostPantheon/nativ) focused on Phantasy Star Nova: the Japanese PS Vita game recompiled as a native Windows program, with English, 60 FPS and HD. Bring your own game.",
+   "fa": "2026-11-25T19:26:30Z",
+   "g": "Phantasy Star Nova Recomp",
+   "id": "aggc01/phantasy-star-nova-recomp",
+   "k": "aggc01/phantasy-star-nova-recomp",
+   "l": "https://github.com/aggc01/phantasy-star-nova-recomp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS Vita",
+   "src": "GitHub"
+  },
+  {
+   "d": "Unofficial English translation of 真説サムライスピリッツ 武士道烈伝 (PlayStation, SLPS-00814, Japan, SNK 1997)",
+   "fa": "2026-11-25T19:26:30Z",
+   "g": "Samurai Spirits RPG Samurai Sodown RPG translate",
+   "id": "fuchikomared/samurai-spirits-rpg_samurai-sodown-rpg-english-translate",
+   "k": "fuchikomared/samurai-spirits-rpg_samurai-sodown-rpg-english-translate",
+   "l": "https://github.com/FuchikomaRed/Samurai-Spirits-RPG_Samurai-Sodown-RPG-English-translate",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "Raw Danger! (PS2) as a native Windows game, built from your own discs: widescreen, high resolution, Enhanced Edition with Japanese voices, orbit camera, offline achievements.",
+   "fa": "2026-11-25T19:26:30Z",
+   "g": "Rawdanger Recomp",
+   "id": "rams95blue/rawdanger-recomp",
+   "k": "rams95blue/rawdanger-recomp",
+   "l": "https://github.com/rams95blue/rawdanger-recomp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": "Static recompilation of Persona 2: Innocent Sin (fan translation) (PlayStation). Owned-input kit: you supply your own disc and BIOS.",
+   "fa": "2026-11-25T19:26:30Z",
+   "g": "Persona 2 Innocent Sin Recomp",
+   "id": "alexbeavs-ps1-ports/persona-2-innocent-sin-recomp",
+   "k": "alexbeavs-ps1-ports/persona-2-innocent-sin-recomp",
+   "l": "https://github.com/alexbeavs-ps1-ports/persona-2-innocent-sin-recomp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "Static recompilation of Clock Tower: The First Fear (fan translation) (PlayStation). Owned-input kit: you supply your own disc and BIOS.",
+   "fa": "2026-11-25T19:26:30Z",
+   "g": "Clock Tower The First Fear Recomp",
+   "id": "alexbeavs-ps1-ports/clock-tower-the-first-fear-recomp",
+   "k": "alexbeavs-ps1-ports/clock-tower-the-first-fear-recomp",
+   "l": "https://github.com/alexbeavs-ps1-ports/clock-tower-the-first-fear-recomp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "Chiaki-ng fork for PS4/PS5 Remote Play with multiple OCR engines and Thai/English translation for Japanese subtitles.",
+   "fa": "2026-11-25T19:26:30Z",
+   "g": "Chiaki Ngx",
+   "id": "kidpeterpan/chiaki-ngx",
+   "k": "kidpeterpan/chiaki-ngx",
+   "l": "https://github.com/kidpeterpan/chiaki-ngx",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS4",
+   "src": "GitHub"
+  },
+  {
+   "d": "Translator++ add-on: Tokimeki Memorial 2 (PlayStation) parser",
+   "fa": "2026-11-25T19:26:30Z",
+   "g": "tpp tm2Psx",
+   "id": "pismax/tpp-tm2psx",
+   "k": "pismax/tpp-tm2psx",
+   "l": "https://github.com/pismax/tpp-tm2Psx",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
    "src": "GitHub"
   },
   {
@@ -17710,51 +17801,75 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Meremanoid English Patch",
-   "fa": "2026-11-24T13:57:56Z",
-   "g": "Meremanoid",
-   "id": "link:https://archive.org/details/meremanoid-english",
-   "l": "https://archive.org/details/meremanoid-english",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PS1",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-24T13:57:56Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS1",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "d": "Shining Tears Restoration + Undub v1.2",
    "fa": "2026-11-24T23:57:21Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Shining Tears Restoration + Undub v1.3",
-   "fa": "2026-11-25T08:51:25Z",
    "g": "Shining Tears Restoration +",
-   "id": "link:https://archive.org/details/shining-tears-undub-1.3_202611",
-   "l": "https://archive.org/details/shining-tears-undub-1.3_202611",
+   "id": "link:https://archive.org/details/shining-tears-undub-1.2",
+   "l": "https://archive.org/details/shining-tears-undub-1.2",
    "lb": [
     "Undub"
    ],
    "p": "PS2",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-24T23:57:21Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS3",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-24T23:57:21Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "lb": [
+    "Undub"
+   ],
+   "p": "PS2",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "fa": "2026-11-25T08:51:25Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-25T08:51:25Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-25T19:26:30Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
    "src": "Internet Archive"
   },
   {
