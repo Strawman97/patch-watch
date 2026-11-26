@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-26T03:39:16Z",
+ "generated": "2026-11-26T17:05:58Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -115,9 +115,9 @@
     "desc": "Fork of Project Nativ (TheLostPantheon/nativ) focused on Phantasy Star Nova: the Japanese PS Vita game recompiled as a native Windows program, with English, 60 FPS and HD. Bring your own game.",
     "full": "aggc01/phantasy-star-nova-recomp",
     "lang": "C",
-    "pushed": "2026-11-26T01:40:21Z",
-    "size": 8210,
-    "stars": 5
+    "pushed": "2026-11-26T16:09:09Z",
+    "size": 8227,
+    "stars": 13
    },
    "shots": []
   },
@@ -511,8 +511,8 @@
     "desc": "Static recompilation of Clock Tower: The First Fear (fan translation) (PlayStation). Owned-input kit: you supply your own disc and BIOS.",
     "full": "alexbeavs-ps1-ports/clock-tower-the-first-fear-recomp",
     "lang": "Python",
-    "pushed": "2026-11-25T16:58:44Z",
-    "size": 636,
+    "pushed": "2026-11-26T09:06:28Z",
+    "size": 637,
     "stars": 0
    },
    "shots": []
@@ -528,10 +528,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-25T17:09:44Z",
+    "date": "2026-11-26T16:52:56Z",
     "pre": false,
-    "tag": "v0.1.0",
-    "url": "https://github.com/alexbeavs-ps1-ports/persona-2-innocent-sin-recomp/releases/tag/v0.1.0"
+    "tag": "v0.1.1",
+    "url": "https://github.com/alexbeavs-ps1-ports/persona-2-innocent-sin-recomp/releases/tag/v0.1.1"
    },
    "repo": {
     "archived": false,
@@ -539,8 +539,8 @@
     "desc": "Static recompilation of Persona 2: Innocent Sin (fan translation) (PlayStation). Owned-input kit: you supply your own disc and BIOS.",
     "full": "alexbeavs-ps1-ports/persona-2-innocent-sin-recomp",
     "lang": "Python",
-    "pushed": "2026-11-25T17:09:36Z",
-    "size": 637,
+    "pushed": "2026-11-26T16:52:49Z",
+    "size": 639,
     "stars": 0
    },
    "shots": []
@@ -813,7 +813,7 @@
    "repo": {
     "archived": false,
     "created": "2026-11-05T18:00:14Z",
-    "desc": "English translation patch for the PS1 version of Megami Ibunroku Persona, ported from the PSP release",
+    "desc": "Megami Ibunroku Persona English translation patch that ports the PSP translation to the PS1. Plus some extra mods.",
     "full": "ayla6/megami-ibunroku-persona-translation",
     "lang": "Python",
     "pushed": "2026-11-25T06:52:35Z",
@@ -1872,7 +1872,7 @@
     "lang": "Rust",
     "pushed": "2026-11-26T00:25:26Z",
     "size": 5545,
-    "stars": 12
+    "stars": 17
    },
    "shots": [
     "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/tod2-dialogue.png",
@@ -4047,10 +4047,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-25T15:10:22Z",
+    "date": "2026-11-26T12:38:10Z",
     "pre": false,
-    "tag": "v0.5.4",
-    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/v0.5.4"
+    "tag": "v0.5.4.1",
+    "url": "https://github.com/dyzz/srw64-recomp/releases/tag/v0.5.4.1"
    },
    "repo": {
     "archived": false,
@@ -4058,9 +4058,9 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-26T01:16:09Z",
-    "size": 169525,
-    "stars": 52
+    "pushed": "2026-11-26T13:56:01Z",
+    "size": 170316,
+    "stars": 53
    },
    "shots": [
     "https://raw.githubusercontent.com/dyzz/srw64-recomp/HEAD/web/public/brand/readme-video-en.webp",
@@ -5262,6 +5262,34 @@
    },
    "shots": []
   },
+  "gingerbeardman/rakugaki-showtime-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {},
+     "mtl": true
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-26T00:22:35Z",
+    "pre": false,
+    "tag": "v1.1",
+    "url": "https://github.com/gingerbeardman/rakugaki-showtime-en/releases/tag/v1.1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-25T23:43:53Z",
+    "desc": "English patch for Rakugaki Showtime (PlayStation, SLPM-86272)",
+    "full": "gingerbeardman/rakugaki-showtime-en",
+    "lang": "Python",
+    "pushed": "2026-11-26T00:22:32Z",
+    "size": 53,
+    "stars": 2
+   },
+   "shots": []
+  },
   "gingka8233/aquarium.-nintendo-switch-english-patch": {
    "noRelease": true,
    "readme": {
@@ -5446,7 +5474,7 @@
     "lang": "C++",
     "pushed": "2026-11-25T19:13:03Z",
     "size": 17251,
-    "stars": 62
+    "stars": 64
    },
    "shots": []
   },
@@ -5703,10 +5731,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T14:44:51Z",
+    "date": "2026-11-26T06:36:25Z",
     "pre": false,
-    "tag": "launcher-v1.6.2",
-    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/launcher-v1.6.2"
+    "tag": "launcher-v1.7.1",
+    "url": "https://github.com/ILFforever/YW4Recomp/releases/tag/launcher-v1.7.1"
    },
    "repo": {
     "archived": false,
@@ -5714,9 +5742,9 @@
     "desc": "Yo-kai Watch 4++ statically recompiled into native Windows and Linux builds. w/120++ fps, ultrawide support, DLSS FSR XeSS + Framegen, Keyboard and Mouse, Online and Mod support. Bring your own dump: no game files or keys included.",
     "full": "ILFforever/YW4Recomp",
     "lang": "C",
-    "pushed": "2026-11-25T03:19:03Z",
-    "size": 137293,
-    "stars": 50
+    "pushed": "2026-11-26T06:48:13Z",
+    "size": 137744,
+    "stars": 51
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen-en.jpg",
@@ -5973,10 +6001,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-24T21:44:54Z",
+    "date": "2026-11-26T14:28:09Z",
     "pre": false,
-    "tag": "V1.0.0",
-    "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/tag/V1.0.0"
+    "tag": "V1.1.0",
+    "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/tag/V1.1.0"
    },
    "repo": {
     "archived": false,
@@ -5984,9 +6012,9 @@
     "desc": "Unofficial native PC port of Ryu ga Gotoku Kenzan! (PS3, BLJM60064) for Linux and Windows. Statically recompiled with ps3recomp and rendered with Vulkan, with the English fan translation, 30/60/120 FPS options and a launcher that installs from your own copy of the game. No game files included.",
     "full": "IvanBarbosaFilho/Yakuza-Kenzan-Recomp",
     "lang": "C",
-    "pushed": "2026-11-25T00:32:48Z",
-    "size": 35764,
-    "stars": 47
+    "pushed": "2026-11-26T14:28:09Z",
+    "size": 35882,
+    "stars": 51
    },
    "shots": []
   },
@@ -6113,10 +6141,10 @@
     "filehost"
    ],
    "release": {
-    "date": "2026-11-21T11:09:52Z",
+    "date": "2026-11-26T15:44:04Z",
     "pre": false,
-    "tag": "v1.4",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.4"
+    "tag": "v1.5",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.5"
    },
    "repo": {
     "archived": false,
@@ -6124,17 +6152,17 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-11-21T11:23:10Z",
-    "size": 1432,
+    "pushed": "2026-11-26T16:08:48Z",
+    "size": 1854,
     "stars": 1
    },
    "shots": [
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/title-screen.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v12-story-macross.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v12-story-minerva.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v12-battle-quote.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/weapon-selection.png",
-    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v12-support-attack.png"
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v15-title-screen.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v15-story-1.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v15-story-2.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v15-upgrades.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v15-battle-forecast.png",
+    "https://raw.githubusercontent.com/jignx/SRWL-English/HEAD/screenshots/v15-battle-quote.png"
    ]
   },
   "jjb781017-arch/detective-conan-nerawareta-tantei-english-gba": {
@@ -7051,6 +7079,40 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/battle.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/inspect.png",
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
+   ]
+  },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T20:48:48Z",
+    "pre": true,
+    "tag": "1.0-luma-boot-test1",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0-luma-boot-test1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-19T20:48:48Z",
+    "size": 53008,
+    "stars": 37
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
    ]
   },
   "kidpeterpan/chiaki-ngx": {
@@ -8066,7 +8128,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T13:09:55Z",
     "size": 1316,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -8462,7 +8524,7 @@
     "lang": "Python",
     "pushed": "2026-11-25T00:52:46Z",
     "size": 3132,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -8562,10 +8624,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-19T10:20:55Z",
+    "date": "2026-11-26T05:35:00Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/mtlgames/bouken-ou-beet-vandel-vs-busters-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/mtlgames/bouken-ou-beet-vandel-vs-busters-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -8573,8 +8635,8 @@
     "desc": "English fan translation of Bouken-ou Beet: Vandel vs. Busters (NDS)",
     "full": "mtlgames/bouken-ou-beet-vandel-vs-busters-en",
     "lang": "Python",
-    "pushed": "2026-11-19T10:20:55Z",
-    "size": 2473,
+    "pushed": "2026-11-26T05:34:59Z",
+    "size": 2598,
     "stars": 1
    },
    "shots": []
@@ -10244,10 +10306,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-26T03:13:55Z",
+    "date": "2026-11-26T06:05:21Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/mtlgames/ruin-arm-en/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/mtlgames/ruin-arm-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -10255,8 +10317,8 @@
     "desc": "English fan translation of Ruin Arm (SNES)",
     "full": "mtlgames/ruin-arm-en",
     "lang": "Python",
-    "pushed": "2026-11-26T03:14:37Z",
-    "size": 973,
+    "pushed": "2026-11-26T06:05:20Z",
+    "size": 1014,
     "stars": 4
    },
    "shots": []
@@ -10676,8 +10738,8 @@
     "desc": "English fan translation of Tenkuu no Escaflowne (PS1)",
     "full": "mtlgames/tenkuu-no-escaflowne-en",
     "lang": "Python",
-    "pushed": "2026-11-25T02:22:06Z",
-    "size": 1437,
+    "pushed": "2026-11-26T09:18:29Z",
+    "size": 1446,
     "stars": 0
    },
    "shots": []
@@ -11170,7 +11232,7 @@
     "lang": null,
     "pushed": "2026-10-14T02:46:56Z",
     "size": 863,
-    "stars": 5
+    "stars": 6
    },
    "shots": [
     "https://raw.githubusercontent.com/Mr-Shizzy/everybodys-golf-coca-cola-psp-english-patch/HEAD/screenshots/01_title_screen.webp",
@@ -11266,6 +11328,9 @@
     "stars": 0
    },
    "shots": []
+  },
+  "mtlgames/tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan-en": {
+   "notFound": true
   },
   "muorosaaa/tokyo-mew-mew-ps1-en": {
    "noRelease": true,
@@ -11973,8 +12038,8 @@
     "desc": "Translator++ add-on: Princess Maker 4 (PS2) parser",
     "full": "pismax/tpp-pm4Ps2",
     "lang": "JavaScript",
-    "pushed": "2026-11-26T02:09:09Z",
-    "size": 2397,
+    "pushed": "2026-11-26T12:01:36Z",
+    "size": 2476,
     "stars": 0
    },
    "shots": []
@@ -12010,8 +12075,7 @@
     "patch": {
      "ex": {
       "gfx": true
-     },
-     "mtl": true
+     }
     },
     "v": 1
    },
@@ -12022,8 +12086,8 @@
     "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
-    "pushed": "2026-11-25T19:21:34Z",
-    "size": 146,
+    "pushed": "2026-11-26T16:03:25Z",
+    "size": 164,
     "stars": 0
    },
    "shots": []
@@ -12273,8 +12337,8 @@
     "desc": "Raw Danger! (PS2) as a native Windows game, built from your own discs: widescreen, high resolution, Enhanced Edition with Japanese voices, orbit camera, offline achievements.",
     "full": "rams95blue/rawdanger-recomp",
     "lang": "C++",
-    "pushed": "2026-11-25T23:09:53Z",
-    "size": 14582,
+    "pushed": "2026-11-26T15:13:34Z",
+    "size": 14960,
     "stars": 2
    },
    "shots": []
@@ -12795,7 +12859,7 @@
     "lang": null,
     "pushed": "2026-11-07T22:23:17Z",
     "size": 45,
-    "stars": 6
+    "stars": 7
    },
    "shots": []
   },
@@ -12853,9 +12917,9 @@
     "desc": "Rhythm Heaven Advance: A project set to localize and translate the GBA game \"Rhythm Tengoku\" to English",
     "full": "RHAdvance/RhythmHeavenAdvance",
     "lang": "C",
-    "pushed": "2026-11-24T19:17:01Z",
-    "size": 101874,
-    "stars": 162
+    "pushed": "2026-11-26T09:21:08Z",
+    "size": 101878,
+    "stars": 163
    },
    "shots": [
     "https://raw.githubusercontent.com/RHAdvance/RhythmHeavenAdvance/HEAD/media/rha.png?raw=true"
@@ -14358,8 +14422,8 @@
     "desc": "A personal translation project for the SNES visual novel Yakouchuu",
     "full": "syrofx/Yakouchuu-Fan-Translation",
     "lang": "Python",
-    "pushed": "2026-11-25T07:56:22Z",
-    "size": 15,
+    "pushed": "2026-11-26T06:49:23Z",
+    "size": 17,
     "stars": 0
    },
    "shots": []
@@ -14666,7 +14730,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 283
+    "stars": 285
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"

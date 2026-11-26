@@ -4272,7 +4272,7 @@
    "tv": 3
   },
   "de spiria dream recomp|23": {
-   "checked": "2026-10-27T09:10:10Z",
+   "checked": "2026-11-26T17:05:58Z",
    "shots": [],
    "tv": 3
   },
@@ -4688,7 +4688,7 @@
    "tv": 3
   },
   "digimon story lost evolution indonesia|20": {
-   "checked": "2026-10-27T15:26:32Z",
+   "checked": "2026-11-26T17:05:58Z",
    "shots": [],
    "tv": 3
   },
@@ -6017,7 +6017,7 @@
    "tv": 3
   },
   "dual orb seirei tama densetsu|19": {
-   "checked": "2026-10-27T15:26:32Z",
+   "checked": "2026-11-26T17:05:58Z",
    "shots": [],
    "tv": 3
   },
@@ -6088,6 +6088,11 @@
     "sc6c9o",
     "sc6c9p"
    ],
+   "tv": 3
+  },
+  "dusk syndrome|7": {
+   "checked": "2026-11-26T17:05:58Z",
+   "shots": [],
    "tv": 3
   },
   "dyna brothers 2|29": {
@@ -14682,6 +14687,20 @@
    ],
    "tv": 3
   },
+  "mindseeker|18": {
+   "anyPlat": true,
+   "checked": "2026-11-26T17:05:58Z",
+   "cover": "co6ort",
+   "id": 48427,
+   "match": 1.0,
+   "name": "Mindseeker",
+   "shots": [
+    "sc8ytw",
+    "sc8ytx",
+    "sc8yty"
+   ],
+   "tv": 3
+  },
   "minelvaton saga ragon no fukkatsu|18": {
    "anyPlat": true,
    "checked": "2026-10-23T05:03:31Z",
@@ -14787,6 +14806,22 @@
     "sch67b",
     "sch67a",
     "sch67c"
+   ],
+   "tv": 3
+  },
+  "mitsumete knight r daibouken hen|7": {
+   "checked": "2026-11-26T17:05:58Z",
+   "cover": "co6878",
+   "id": 166164,
+   "match": 1.0,
+   "name": "Mitsumete Knight R: Daibouken-hen",
+   "shots": [
+    "scp76l",
+    "scp76m",
+    "scp76n",
+    "scp76o",
+    "scp76p",
+    "scp76q"
    ],
    "tv": 3
   },
@@ -19295,7 +19330,7 @@
    "tv": 3
   },
   "sangokushi v with power up kit|7": {
-   "checked": "2026-10-27T15:26:32Z",
+   "checked": "2026-11-26T17:05:58Z",
    "shots": [],
    "tv": 3
   },
@@ -20950,6 +20985,21 @@
     "djvyjaswuwanoxojoekn",
     "y9ldieiab2sliqjmuabi",
     "luvl5irhytdklwuceu3r"
+   ],
+   "tv": 3
+  },
+  "space battleship yamato|86": {
+   "anyPlat": true,
+   "checked": "2026-11-26T17:05:58Z",
+   "cover": "co6pyz",
+   "id": 255870,
+   "match": 1.0,
+   "name": "Uchuu Senkan Yamato",
+   "shots": [
+    "scn96l",
+    "scn96m",
+    "scn96n",
+    "scn96o"
    ],
    "tv": 3
   },
@@ -23476,12 +23526,12 @@
    "tv": 3
   },
   "tgaa|37": {
-   "checked": "2026-10-27T09:10:10Z",
+   "checked": "2026-11-26T17:05:58Z",
    "shots": [],
    "tv": 3
   },
   "th2dxp|9": {
-   "checked": "2026-10-27T15:26:32Z",
+   "checked": "2026-11-26T17:05:58Z",
    "shots": [],
    "tv": 3
   },
@@ -24061,7 +24111,7 @@
    "tv": 3
   },
   "trails3rd|38": {
-   "checked": "2026-10-27T15:26:32Z",
+   "checked": "2026-11-26T17:05:58Z",
    "shots": [],
    "tv": 3
   },
@@ -26258,7 +26308,7 @@
    "tv": 3
   }
  },
- "generated": "2026-11-26T03:39:16Z",
+ "generated": "2026-11-26T17:05:58Z",
  "map": {
   "acer-2006/gyakuten-saiban-2-english-gba-": "gyakuten saiban 2|24",
   "acer-2006/gyakuten-saiban_1_gba-english-translation": "gyakuten saiban|24",
@@ -26346,6 +26396,7 @@
   "chivien99999/khamrai-english": "khamrai|7",
   "cirovisk/ginga-eiyuu-densetsu-english": "ginga eiyuu densetsu|19",
   "closedsockets/tricolore-crise-english-patch": "tricolore crise|23",
+  "cmyksoda/mindseeker-eng-patch": "mindseeker|18",
   "conan-patches/ps2": "meitantei conan daiei teikoku no isan|8",
   "consolesplayingconsoles/game-translations": "translated videogames|23",
   "corytburns/chocobo-stallion-translation": "chocobo stallion|7",
@@ -26502,7 +26553,6 @@
   "katiisu/arthur-to-astaroth-no-nazo-makaimura-english": "arthur and astaroths mysterious ghosts n goblins incredible toons|7",
   "kazuki333u/ffta-us-jp-localization": "ffta us jp localization|24",
   "kenyates88/wild-card-english": "squaresofts wonderswan exclusive card based rpg|57",
-  "kenzie-1377/dqxi-3ds-english-patch": "dqxi|37",
   "kidpeterpan/chiaki-ngx": "chiaki ngx|48",
   "kingjinxy/metal-gear-solid-3-hd-undub-ps3": "metal gear solid 3 snake eater hd edition|9",
   "kodakwizard/hikaru-no-go-3-english": "hikaru no go 3|21",
@@ -26617,10 +26667,10 @@
   "link:https://agtteam.net/mushishi": "mushishi ame furu sato|20",
   "link:https://akurasu.net/wiki/Super_Robot_Wars/J/Bugs": "super robot taisen j|24",
   "link:https://archive.org/details/10000_bullets_undub_patch": "10 000 bullets|8",
-  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": "sonic gems collection|21",
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": "ace combat zero the belkan war|8",
   "link:https://archive.org/details/aerowings_2_undub_patch": "aerowings 2 air strike|23",
   "link:https://archive.org/details/aerowings_undub_patch": "aerowings|23",
+  "link:https://archive.org/details/air-english-patch-psp": "air|38",
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": "airforce delta strike|8",
   "link:https://archive.org/details/ape_escape_3_undub_patch": "ape escape 3|8",
   "link:https://archive.org/details/ape_escape_portable_undub_patch": "ape escape on the loose|38",
@@ -26656,6 +26706,7 @@
   "link:https://archive.org/details/bomberman_jetters_undub_patch": "bomberman jetters|21",
   "link:https://archive.org/details/budokai-1-gc-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/bujingai_undub_patch": "bujingai the forsaken city|8",
+  "link:https://archive.org/details/bulk-slash-english-patch": "bulk slash|32",
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": "castle of shikigami iii|5",
   "link:https://archive.org/details/castle_shikigami_2_undub_patch": "castle shikigami 2|8",
   "link:https://archive.org/details/castlevania_order_of_ecclesia_undub_patch": "castlevania order of ecclesia|20",
@@ -26678,6 +26729,7 @@
   "link:https://archive.org/details/doki-oki-1995-vkx-english-patch-and-extras": "doki oki|7",
   "link:https://archive.org/details/doshin_the_giant_undub_patch": "doshin the giant|21",
   "link:https://archive.org/details/dragon-ball-z-budokai-jp-english-patch": "dragon ball z|21",
+  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": "dragon ball z budokai|8",
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": "dragon ball z tenkaichi tag team|38",
   "link:https://archive.org/details/dragon_quest_swords_undub_patch": "dragon quest swords the masked queen and the tower of mirrors|5",
   "link:https://archive.org/details/dragon_quest_viii_3ds_undub_patch": "dragon quest viii journey of the cursed king|37",
@@ -26685,6 +26737,7 @@
   "link:https://archive.org/details/dragons_crown_vita_undub_patch": "dragons crown|46",
   "link:https://archive.org/details/drakengard_2_undub_patch": "drakengard 2|8",
   "link:https://archive.org/details/dual_hearts_undub_patch": "dual hearts|8",
+  "link:https://archive.org/details/dusk-syndrome-yuuyami-doori-tankentai-en": "dusk syndrome|7",
   "link:https://archive.org/details/dw-5-empires-undub-patch": "dynasty warriors 5 empires|8",
   "link:https://archive.org/details/dynasty-warriors-5-usa-undub": "dynasty warriors 5|8",
   "link:https://archive.org/details/dynasty-warriors-5-usa-xtreme-legends-undub": "dynasty warriors 5 xtreme legends|8",
@@ -26754,13 +26807,11 @@
   "link:https://archive.org/details/maken_x_undub_patch": "maken x|23",
   "link:https://archive.org/details/maximo_undub_patch": "maximo ghosts to glory|8",
   "link:https://archive.org/details/medarot-ds-kabuto-ver.-english-patch": "medarot ds kabuto ver|37",
-  "link:https://archive.org/details/mega-man-x-4_202611": "mega man x4|7",
   "link:https://archive.org/details/mega_man_mhx_undub_patch": "mega man maverick hunter x|38",
   "link:https://archive.org/details/mega_man_pu_undub_patch": "mega man powered up|38",
   "link:https://archive.org/details/mega_man_x7_ps2_undub_patch": "mega man x7|8",
   "link:https://archive.org/details/mega_man_x_cm_ps2_undub_patch": "mega man x command mission|8",
   "link:https://archive.org/details/megami-tensei-2-materials": "digital devil story megami tensei ii|18",
-  "link:https://archive.org/details/meremanoid-english": "meremanoid|7",
   "link:https://archive.org/details/metal-max-2-eng-1.0": "metal max 2|19",
   "link:https://archive.org/details/mgf-english-patch-v-1.00": "mgf|46",
   "link:https://archive.org/details/miho-nakayamas-tokimeki-high-school-manual": "nakayama miho no tokimeki high school|51",
@@ -26799,13 +26850,14 @@
   "link:https://archive.org/details/samurai_warriors_2_ps2_undub_patch": "samurai warriors 2|8",
   "link:https://archive.org/details/samurai_warriors_2_xl_ps2_undub_patch": "samurai warriors 2 xtreme legends|8",
   "link:https://archive.org/details/samurai_warriors_sow_undub_patch": "samurai warriors state of war|38",
+  "link:https://archive.org/details/sengokubasara3utageenglish": "sengoku basara 3 utage|9",
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": "seven samurai 20xx|8",
   "link:https://archive.org/details/shadow_hearts_undub_patch": "shadow hearts|8",
   "link:https://archive.org/details/shadow_tower_abyss_hardsub": "shadow tower abyss|8",
   "link:https://archive.org/details/shadow_tower_undub_patch": "shadow tower|7",
   "link:https://archive.org/details/shining-tears-undub": "shining tears|8",
   "link:https://archive.org/details/shining-tears-undub-1.1": "shining tears restoration|8",
-  "link:https://archive.org/details/shining-tears-undub-1.3_202611": "shining tears restoration|8",
+  "link:https://archive.org/details/shining-tears-undub-1.2": "shining tears restoration|8",
   "link:https://archive.org/details/shining_force_exa_undub_patch": "shining force exa|8",
   "link:https://archive.org/details/shining_force_neo_undub_patch": "shining force neo|8",
   "link:https://archive.org/details/shinobido_2_roz_undub_patch": "shinobido 2 revenge of zen|46",
@@ -26821,6 +26873,7 @@
   "link:https://archive.org/details/spyro-the-dragon-japanese-illustrated-story-english": "spyro the dragon|7",
   "link:https://archive.org/details/steambot_chronicles_undub_patch": "steambot chronicles|8",
   "link:https://archive.org/details/stella_deus_undub_patch": "stella deus the gate of eternity|8",
+  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": "storm lover kai|38",
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": "street fighter ii|19",
   "link:https://archive.org/details/strikeforce-2-english-patch-v-0-0-1": "dynasty warriors strikeforce 2|38",
   "link:https://archive.org/details/suikoden_tactics_undub_patch": "suikoden tactics|8",
@@ -27037,6 +27090,7 @@
   "link:https://romhackplaza.org/translations/pocket-muumuu-english-translation-playstation": "pocket muumuu|7",
   "link:https://romhackplaza.org/translations/popolocrois-monogatari-ii-english-translation-playstation": "popolocrois monogatari ii|7",
   "link:https://romhackplaza.org/translations/prisoner-english-translation-playstation": "prisoner|7",
+  "link:https://romhackplaza.org/translations/puzzle-action-tant-r-english-translation-sega-genesis": "sega|29",
   "link:https://romhackplaza.org/translations/quackshot-starring-donald-duck-force-english-text-english-translation-sega-genesis": "sega|29",
   "link:https://romhackplaza.org/translations/robbit-mon-dieu-english-translation-playstation": "playstation|7",
   "link:https://romhackplaza.org/translations/shadowrun-english-translation-sega-cd": "sega cd|78",
@@ -28491,6 +28545,7 @@
   "second-save/tengai-makyou-kabuki-den-pce-cd": "tengai makyou kabuki den pce cd|150",
   "second-save/tengai-makyou-ziria-psp": "tengai makyou ziria|38",
   "selhou-lgu/kenka_bancho_4_psp_english": "kenka bancho 4|38",
+  "shadwolf-labs/yamato-pce-en": "space battleship yamato|86",
   "silentheii/outbreak-translation": "biohazard outbreak file 2|8",
   "sja-processes/bebop-translation": "famicom game be bop highschool|18",
   "smokej-git/letsgo-eternal-wings-english": "bakusou kyoudai lets and go eternal wings|7",
@@ -28510,6 +28565,7 @@
   "suddenlythis/houshin-engi-aizouban-psx-english": "houshin engi aizouban|7",
   "suddenlythis/linda3pce-english": "linda3pce|86",
   "suddenlythis/mitsumete-knight-psx-english": "mitsumete knight|7",
+  "suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english": "mitsumete knight r daibouken hen|7",
   "suddenlythis/robinlloyd-psx-english": "adventures of robin lloyd|7",
   "symphonialauren/tales-of-rebirth": "tales of rebirth|8",
   "syrofx/yakouchuu-fan-translation": "visual novel yakouchuu|19",
