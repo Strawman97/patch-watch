@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-27T12:47:02Z",
+ "generated": "2026-11-27T23:34:02Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9645,17 +9645,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-11-26T17:05:58Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/puzzle-action-tant-r-english-translation-sega-genesis",
-   "l": "https://romhackplaza.org/translations/puzzle-action-tant-r-english-translation-sega-genesis",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Mega Drive",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -16264,6 +16253,70 @@
    "src": "GitHub"
   },
   {
+   "fa": "2026-11-27T23:34:02Z",
+   "g": "Uw2",
+   "id": "andrewjose/uw2-ps1-english-translation",
+   "k": "andrewjose/uw2-ps1-english-translation",
+   "l": "https://github.com/andrewjose/uw2-ps1-english-translation",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS1",
+   "src": "GitHub"
+  },
+  {
+   "d": "English translation project for Sakura Wars: In Hot Blood on PS2. Menu translation in progress; Dreamcast dialogue port planned.",
+   "fa": "2026-11-27T23:34:02Z",
+   "g": "Sakura Wars: In Hot Blood",
+   "id": "wakabayashy/sakura-wars-in-hot-blood-ps2-english",
+   "k": "wakabayashy/sakura-wars-in-hot-blood-ps2-english",
+   "l": "https://github.com/wakabayashy/Sakura-Wars-In-Hot-Blood-PS2-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS2",
+   "src": "GitHub"
+  },
+  {
+   "d": " English translation project for Langrisser Millennium on Sega Dreamcast",
+   "fa": "2026-11-27T23:34:02Z",
+   "g": "Langrisser Millennium",
+   "id": "wakabayashy/langrisser-millennium-english",
+   "k": "wakabayashy/langrisser-millennium-english",
+   "l": "https://github.com/wakabayashy/Langrisser-Millennium-English",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Dreamcast",
+   "src": "GitHub"
+  },
+  {
+   "d": "《女神异闻录Q2 新电影迷宫》汉化",
+   "fa": "2026-11-27T23:34:02Z",
+   "g": "Persona Q2Chs Localization",
+   "id": "qi-busiyi-hanhuazu/personaq2chslocalization",
+   "k": "qi-busiyi-hanhuazu/personaq2chslocalization",
+   "l": "https://github.com/Qi-Busiyi-Hanhuazu/PersonaQ2ChsLocalization",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
+   "d": "English story subtitles for the Japanese audio restoration of Albert Odyssey: Legend of Eldean on Sega Saturn.",
+   "fa": "2026-11-27T23:34:02Z",
+   "g": "Albert Odyssey Saturn Subtitles",
+   "id": "randomprojectsfactory/albert-odyssey-saturn-subtitles",
+   "k": "randomprojectsfactory/albert-odyssey-saturn-subtitles",
+   "l": "https://github.com/randomprojectsfactory/albert-odyssey-saturn-subtitles",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -17941,71 +17994,47 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "fa": "2026-11-26T17:05:58Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "d": "Meremanoid English Patch",
+   "fa": "2026-11-27T01:48:52Z",
+   "g": "Meremanoid",
+   "id": "link:https://archive.org/details/meremanoid-english",
+   "l": "https://archive.org/details/meremanoid-english",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-26T17:05:58Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "PSP",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-11-26T17:05:58Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Saturn",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Shining Tears Restoration + Undub v1.2",
-   "fa": "2026-11-27T12:47:02Z",
-   "g": "Shining Tears Restoration +",
-   "id": "link:https://archive.org/details/shining-tears-undub-1.2",
-   "l": "https://archive.org/details/shining-tears-undub-1.2",
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-27T01:48:52Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
     "Undub"
    ],
-   "p": "PS2",
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
    "fa": "2026-11-27T12:47:02Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PS3",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-27T12:47:02Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "d": "Shining Tears Restoration + Undub v1.3",
+   "fa": "2026-11-27T23:34:02Z",
+   "g": "Shining Tears Restoration +",
+   "id": "link:https://archive.org/details/shining-tears-undub-1.3_202611",
+   "l": "https://archive.org/details/shining-tears-undub-1.3_202611",
    "lb": [
     "Undub"
    ],

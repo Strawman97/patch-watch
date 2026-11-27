@@ -131,6 +131,11 @@
    "iv": 1,
    "title": "Captain Tsubasa Eikou No Kiseki"
   },
+  "andrewjose/uw2-ps1-english-translation": {
+   "checked": "2026-11-27T23:34:02Z",
+   "iv": 1,
+   "title": "Uw2"
+  },
   "andriadhi/srw-l-translation": {
    "checked": "2026-11-05T11:12:14Z",
    "iv": 1,
@@ -1911,6 +1916,11 @@
    "iv": 1,
    "title": "10,000 Bullets"
   },
+  "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "checked": "2026-11-27T23:34:02Z",
+   "iv": 1,
+   "title": "Sonic Gems Collection"
+  },
   "link:https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -1925,16 +1935,6 @@
    "checked": "2026-10-21T12:03:04Z",
    "iv": 1,
    "title": "AeroWings"
-  },
-  "link:https://archive.org/details/air-english-patch-psp": {
-   "checked": "2026-11-27T12:47:02Z",
-   "img": "https://t.vndb.org/cv/04/103904.jpg",
-   "iv": 1,
-   "match": 1.0,
-   "name": "AIR",
-   "sexual": 0,
-   "title": "AIR",
-   "vn": "v36"
   },
   "link:https://archive.org/details/airforce_delta_strike_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2116,11 +2116,6 @@
    "iv": 1,
    "title": "Bujingai: The Forsaken City"
   },
-  "link:https://archive.org/details/bulk-slash-english-patch": {
-   "checked": "2026-11-27T12:47:02Z",
-   "iv": 1,
-   "title": "Bulk Slash"
-  },
   "link:https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "checked": "2026-10-22T10:24:13Z",
    "iv": 1,
@@ -2235,11 +2230,6 @@
    "checked": "2026-10-23T05:03:31Z",
    "iv": 1,
    "title": "Dragon Ball Z"
-  },
-  "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
-   "checked": "2026-11-27T12:47:02Z",
-   "iv": 1,
-   "title": "Dragon Ball Z Budokai"
   },
   "link:https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "checked": "2026-10-21T12:03:04Z",
@@ -2631,6 +2621,11 @@
    "iv": 1,
    "title": "Medarot DS Kabuto Ver."
   },
+  "link:https://archive.org/details/mega-man-x-4_202611": {
+   "checked": "2026-11-27T23:34:02Z",
+   "iv": 1,
+   "title": "Mega Man X4"
+  },
   "link:https://archive.org/details/mega_man_mhx_undub_patch": {
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
@@ -2655,6 +2650,11 @@
    "checked": "2026-10-23T11:50:40Z",
    "iv": 1,
    "title": "Digital Devil Story: Megami Tensei II"
+  },
+  "link:https://archive.org/details/meremanoid-english": {
+   "checked": "2026-11-27T23:34:02Z",
+   "iv": 1,
+   "title": "Meremanoid"
   },
   "link:https://archive.org/details/metal-max-2-eng-1.0": {
    "checked": "2026-10-29T10:12:06Z",
@@ -2866,11 +2866,6 @@
    "iv": 1,
    "title": "Samurai Warriors: State of War"
   },
-  "link:https://archive.org/details/sengokubasara3utageenglish": {
-   "checked": "2026-11-27T12:47:02Z",
-   "iv": 1,
-   "title": "Sengoku BASARA 3 Utage —"
-  },
   "link:https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "checked": "2026-10-24T11:17:05Z",
    "iv": 1,
@@ -2901,8 +2896,8 @@
    "iv": 1,
    "title": "Shining Tears Restoration +"
   },
-  "link:https://archive.org/details/shining-tears-undub-1.2": {
-   "checked": "2026-11-27T12:47:02Z",
+  "link:https://archive.org/details/shining-tears-undub-1.3_202611": {
+   "checked": "2026-11-27T23:34:02Z",
    "iv": 1,
    "title": "Shining Tears Restoration +"
   },
@@ -2980,11 +2975,6 @@
    "checked": "2026-10-21T12:14:43Z",
    "iv": 1,
    "title": "Stella Deus: The Gate of Eternity"
-  },
-  "link:https://archive.org/details/storm-lover-kai-english-patch-psp": {
-   "checked": "2026-11-27T12:47:02Z",
-   "iv": 1,
-   "title": "Storm Lover Kai!!"
   },
   "link:https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "checked": "2026-10-22T10:24:13Z",
@@ -4120,11 +4110,6 @@
    "checked": "2026-10-22T17:20:22Z",
    "iv": 1,
    "title": "Prisoner"
-  },
-  "link:https://romhackplaza.org/translations/puzzle-action-tant-r-english-translation-sega-genesis": {
-   "checked": "2026-11-27T12:47:02Z",
-   "iv": 1,
-   "title": "SEGA"
   },
   "link:https://romhackplaza.org/translations/quackshot-starring-donald-duck-force-english-text-english-translation-sega-genesis": {
    "checked": "2026-10-22T09:57:51Z",
@@ -11602,6 +11587,11 @@
    "iv": 1,
    "title": "Gyakuten Saiban DSChs Localization"
   },
+  "qi-busiyi-hanhuazu/personaq2chslocalization": {
+   "checked": "2026-11-27T23:34:02Z",
+   "iv": 1,
+   "title": "Persona Q2Chs Localization"
+  },
   "radmageirl/dq1_2_snes_patch": {
    "checked": "2026-11-10T07:30:11Z",
    "iv": 1,
@@ -11611,6 +11601,11 @@
    "checked": "2026-11-25T19:26:30Z",
    "iv": 1,
    "title": "Rawdanger Recomp"
+  },
+  "randomprojectsfactory/albert-odyssey-saturn-subtitles": {
+   "checked": "2026-11-27T23:34:02Z",
+   "iv": 1,
+   "title": "Albert Odyssey Saturn Subtitles"
   },
   "randomprojectsfactory/cosmic-fantasy-pce-english": {
    "checked": "2026-10-25T05:10:35Z",
@@ -12117,6 +12112,11 @@
    "iv": 1,
    "title": "Hundred Swords"
   },
+  "wakabayashy/langrisser-millennium-english": {
+   "checked": "2026-11-27T23:34:02Z",
+   "iv": 1,
+   "title": "Langrisser Millennium"
+  },
   "wakabayashy/sakura-wars-1-dreamcast-english-translation": {
    "checked": "2026-10-30T22:29:19Z",
    "iv": 1,
@@ -12136,6 +12136,11 @@
    "checked": "2026-11-23T01:49:56Z",
    "iv": 1,
    "title": "Sakura Wars 4"
+  },
+  "wakabayashy/sakura-wars-in-hot-blood-ps2-english": {
+   "checked": "2026-11-27T23:34:02Z",
+   "iv": 1,
+   "title": "Sakura Wars: In Hot Blood"
   },
   "wakabayashy/sengoku-basara-4-sumeragi-english": {
    "checked": "2026-11-23T01:49:56Z",
@@ -12188,6 +12193,6 @@
    "title": "Megami Ibunroku Persona Pc Recompile"
   }
  },
- "generated": "2026-11-27T12:47:02Z",
+ "generated": "2026-11-27T23:34:02Z",
  "version": 1
 }
