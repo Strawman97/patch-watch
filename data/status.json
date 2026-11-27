@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-27T01:48:52Z",
+ "generated": "2026-11-27T12:47:02Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -115,9 +115,9 @@
     "desc": "Fork of Project Nativ (TheLostPantheon/nativ) focused on Phantasy Star Nova: the Japanese PS Vita game recompiled as a native Windows program, with English, 60 FPS and HD. Bring your own game.",
     "full": "aggc01/phantasy-star-nova-recomp",
     "lang": "C",
-    "pushed": "2026-11-26T16:09:09Z",
-    "size": 8246,
-    "stars": 22
+    "pushed": "2026-11-27T09:56:57Z",
+    "size": 8600,
+    "stars": 24
    },
    "shots": []
   },
@@ -513,7 +513,7 @@
     "lang": "Python",
     "pushed": "2026-11-26T18:38:43Z",
     "size": 637,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -1870,9 +1870,9 @@
     "desc": "Takes the text out of a game and puts a translation back in, in any alphabet. From the maker of Interpreter.",
     "full": "bquenin/ventris",
     "lang": "Rust",
-    "pushed": "2026-11-27T01:03:13Z",
-    "size": 5276,
-    "stars": 19
+    "pushed": "2026-11-27T12:08:24Z",
+    "size": 5386,
+    "stars": 22
    },
    "shots": [
     "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/tod2-dialogue.png",
@@ -4125,7 +4125,7 @@
     "lang": "C++",
     "pushed": "2026-08-23T21:31:44Z",
     "size": 17680,
-    "stars": 247
+    "stars": 248
    },
    "shots": [
     "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/shots/demo1.png",
@@ -4310,7 +4310,7 @@
     "lang": "Assembly",
     "pushed": "2026-11-15T21:47:09Z",
     "size": 30129,
-    "stars": 9
+    "stars": 10
    },
    "shots": []
   },
@@ -5775,7 +5775,7 @@
     "lang": "C",
     "pushed": "2026-11-26T06:48:13Z",
     "size": 137744,
-    "stars": 51
+    "stars": 52
    },
    "shots": [
     "https://raw.githubusercontent.com/ILFforever/YW4Recomp/HEAD/docs/screenshots/05-title-screen-en.jpg",
@@ -5906,6 +5906,43 @@
     "https://raw.githubusercontent.com/irxd/battride-vita-en/HEAD/docs/screenshots/08-unlock.png",
     "https://raw.githubusercontent.com/irxd/battride-vita-en/HEAD/docs/screenshots/03-battle-objective.png",
     "https://raw.githubusercontent.com/irxd/battride-vita-en/HEAD/docs/screenshots/06-tutorial.png"
+   ]
+  },
+  "irxd/gundam-breaker-vita-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-27T01:32:13Z",
+    "pre": false,
+    "tag": "v0.1.0",
+    "url": "https://github.com/irxd/gundam-breaker-vita-en/releases/tag/v0.1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-08T09:12:27Z",
+    "desc": "Gundam Breaker PS Vita English Patch",
+    "full": "irxd/gundam-breaker-vita-en",
+    "lang": "Python",
+    "pushed": "2026-11-27T01:36:45Z",
+    "size": 282053,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/irxd/gundam-breaker-vita-en/HEAD/docs/screenshots/04-set-up.png",
+    "https://raw.githubusercontent.com/irxd/gundam-breaker-vita-en/HEAD/docs/screenshots/09-ace-points.png",
+    "https://raw.githubusercontent.com/irxd/gundam-breaker-vita-en/HEAD/docs/screenshots/01-title.png",
+    "https://raw.githubusercontent.com/irxd/gundam-breaker-vita-en/HEAD/docs/screenshots/02-main-menu.png",
+    "https://raw.githubusercontent.com/irxd/gundam-breaker-vita-en/HEAD/docs/screenshots/03-game-setting.png",
+    "https://raw.githubusercontent.com/irxd/gundam-breaker-vita-en/HEAD/docs/screenshots/05-hangar-dialogue.png"
    ]
   },
   "irxd/shin-gundam-musou-en": {
@@ -6045,7 +6082,7 @@
     "lang": "C",
     "pushed": "2026-11-26T21:17:26Z",
     "size": 35895,
-    "stars": 52
+    "stars": 55
    },
    "shots": []
   },
@@ -6172,10 +6209,10 @@
     "filehost"
    ],
    "release": {
-    "date": "2026-11-26T15:44:04Z",
+    "date": "2026-11-27T11:55:12Z",
     "pre": false,
-    "tag": "v1.5",
-    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.5"
+    "tag": "v1.5.1",
+    "url": "https://github.com/jignx/SRWL-English/releases/tag/v1.5.1"
    },
    "repo": {
     "archived": false,
@@ -6183,8 +6220,8 @@
     "desc": "AI-assisted translation of Super Robot Wars L for the Nintendo DS",
     "full": "jignx/SRWL-English",
     "lang": "Python",
-    "pushed": "2026-11-26T16:08:48Z",
-    "size": 1854,
+    "pushed": "2026-11-27T11:30:27Z",
+    "size": 1855,
     "stars": 1
    },
    "shots": [
@@ -7112,6 +7149,40 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
+  "kenzie-1377/dqxi-3ds-english-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-19T20:48:48Z",
+    "pre": true,
+    "tag": "1.0-luma-boot-test1",
+    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0-luma-boot-test1"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-09-17T01:03:12Z",
+    "desc": "Work in progress",
+    "full": "Kenzie-1377/dqxi-3ds-english-patch",
+    "lang": "Python",
+    "pushed": "2026-11-19T20:48:48Z",
+    "size": 53008,
+    "stars": 38
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
+    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
+   ]
+  },
   "kidpeterpan/chiaki-ngx": {
    "assetOs": {},
    "readme": {
@@ -7551,8 +7622,8 @@
     "desc": "An attempt to create an English patch for Tales of Fandom Vol. 1 on the Playstation.",
     "full": "lifebottle/Tales-of-Fandom-Vol.1",
     "lang": "Python",
-    "pushed": "2026-08-16T18:51:31Z",
-    "size": 4130,
+    "pushed": "2026-11-27T04:09:20Z",
+    "size": 4145,
     "stars": 2
    },
    "shots": []
@@ -7834,8 +7905,8 @@
     "desc": "English fan translation of Pokémon Team Rocket Edition v3.0.6 (Spanish GBA romhack). BPS patch, no ROMs.",
     "full": "LukeU123/TRE-v3.0.6-English-Translation",
     "lang": "Python",
-    "pushed": "2026-11-26T23:08:20Z",
-    "size": 5139,
+    "pushed": "2026-11-27T12:45:02Z",
+    "size": 5155,
     "stars": 1
    },
    "shots": [
@@ -7898,7 +7969,7 @@
     "lang": null,
     "pushed": "2026-11-22T03:10:17Z",
     "size": 5494,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://github.com/user-attachments/assets/14d12380-3c34-4931-a72d-1b72025a96bc"
@@ -9943,10 +10014,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-20T21:50:50Z",
+    "date": "2026-11-27T02:55:15Z",
     "pre": false,
-    "tag": "v1.1",
-    "url": "https://github.com/mtlgames/legendz-yomigaeru-shiren-no-shima-en/releases/tag/v1.1"
+    "tag": "v1.2",
+    "url": "https://github.com/mtlgames/legendz-yomigaeru-shiren-no-shima-en/releases/tag/v1.2"
    },
    "repo": {
     "archived": false,
@@ -9954,8 +10025,8 @@
     "desc": "English fan translation of Legendz: Yomigaeru Shiren no Shima (GBA)",
     "full": "mtlgames/legendz-yomigaeru-shiren-no-shima-en",
     "lang": "Python",
-    "pushed": "2026-11-25T01:38:18Z",
-    "size": 2163,
+    "pushed": "2026-11-27T02:55:28Z",
+    "size": 2209,
     "stars": 0
    },
    "shots": []
@@ -10838,10 +10909,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-23T00:56:33Z",
+    "date": "2026-11-27T03:20:24Z",
     "pre": false,
-    "tag": "v1.0",
-    "url": "https://github.com/mtlgames/tokyo-majin-gakuen-fuju-houroku-en/releases/tag/v1.0"
+    "tag": "v1.1",
+    "url": "https://github.com/mtlgames/tokyo-majin-gakuen-fuju-houroku-en/releases/tag/v1.1"
    },
    "repo": {
     "archived": false,
@@ -10849,8 +10920,8 @@
     "desc": "English fan translation of Tokyo Majin Gakuen: Fuju Houroku (GBA)",
     "full": "mtlgames/tokyo-majin-gakuen-fuju-houroku-en",
     "lang": "Python",
-    "pushed": "2026-11-23T01:00:09Z",
-    "size": 1859,
+    "pushed": "2026-11-27T03:20:53Z",
+    "size": 1942,
     "stars": 1
    },
    "shots": []
@@ -11327,7 +11398,33 @@
    "shots": []
   },
   "mtlgames/tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan-en": {
-   "notFound": true
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-27T06:19:37Z",
+    "pre": false,
+    "tag": "v1.0.2",
+    "url": "https://github.com/mtlgames/tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan-en/releases/tag/v1.0.2"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-21T16:02:27Z",
+    "desc": "English fan translation of Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan (PSP)",
+    "full": "mtlgames/tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan-en",
+    "lang": "Python",
+    "pushed": "2026-11-27T06:19:45Z",
+    "size": 12003,
+    "stars": 0
+   },
+   "shots": []
   },
   "muorosaaa/tokyo-mew-mew-ps1-en": {
    "noRelease": true,
@@ -11629,7 +11726,7 @@
     "lang": "Shell",
     "pushed": "2026-11-23T17:27:03Z",
     "size": 20057,
-    "stars": 6
+    "stars": 7
    },
    "shots": [
     "https://raw.githubusercontent.com/Nrlemo/shining-wind-en/HEAD/screenshots/gallery/01-title.png",
@@ -12020,9 +12117,8 @@
    "noRelease": true,
    "readme": {
     "patch": {
-     "cov": "Partial",
      "ex": {
-      "restore": true
+      "gfx": true
      },
      "mtl": true
     },
@@ -12033,10 +12129,10 @@
     "archived": false,
     "created": "2026-11-25T01:57:16Z",
     "desc": "Translator++ add-on: Princess Maker 4 (PS2) parser",
-    "full": "pismax/tpp-pm4Ps2",
+    "full": "Retromon-chan/tpp-pm4Ps2",
     "lang": "JavaScript",
-    "pushed": "2026-11-26T12:01:36Z",
-    "size": 2476,
+    "pushed": "2026-11-27T08:16:38Z",
+    "size": 42469,
     "stars": 0
    },
    "shots": []
@@ -12058,7 +12154,7 @@
     "archived": false,
     "created": "2026-11-25T01:54:58Z",
     "desc": "Translator++ add-on: Tokimeki Memorial 2 (PlayStation) parser",
-    "full": "pismax/tpp-tm2Psx",
+    "full": "Retromon-chan/tpp-tm2Psx",
     "lang": "JavaScript",
     "pushed": "2026-11-25T10:32:20Z",
     "size": 41325,
@@ -12334,8 +12430,8 @@
     "desc": "Raw Danger! (PS2) as a native Windows game, built from your own discs: widescreen, high resolution, Enhanced Edition with Japanese voices, orbit camera, offline achievements.",
     "full": "rams95blue/rawdanger-recomp",
     "lang": "C++",
-    "pushed": "2026-11-27T01:11:08Z",
-    "size": 14960,
+    "pushed": "2026-11-27T02:07:28Z",
+    "size": 16353,
     "stars": 2
    },
    "shots": []
@@ -12787,10 +12883,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-17T03:38:43Z",
+    "date": "2026-11-27T03:11:46Z",
     "pre": false,
-    "tag": "v0.8.5",
-    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.5"
+    "tag": "v0.8.6",
+    "url": "https://github.com/retro-trans/Tengai-Makyou-II/releases/tag/v0.8.6"
    },
    "repo": {
     "archived": false,
@@ -12798,8 +12894,8 @@
     "desc": "English translation patch for Tengai Makyou II: Manji Maru (GameCube).",
     "full": "retro-trans/Tengai-Makyou-II",
     "lang": "Python",
-    "pushed": "2026-11-17T03:50:34Z",
-    "size": 137,
+    "pushed": "2026-11-27T03:23:12Z",
+    "size": 153,
     "stars": 3
    },
    "shots": []
@@ -13576,10 +13672,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T04:41:43Z",
+    "date": "2026-11-27T08:58:48Z",
     "pre": true,
-    "tag": "v0.9-beta",
-    "url": "https://github.com/second-save/tengai-makyou-2-pce-cd/releases/tag/v0.9-beta"
+    "tag": "v0.9.1-hw",
+    "url": "https://github.com/second-save/tengai-makyou-2-pce-cd/releases/tag/v0.9.1-hw"
    },
    "repo": {
     "archived": false,
@@ -13587,7 +13683,7 @@
     "desc": "English translation patch for Tengai Makyou II: Manji Maru (PC Engine Super CD-ROM², 1992): xdelta patch, notes and early tools. No game data included.",
     "full": "second-save/tengai-makyou-2-pce-cd",
     "lang": "C++",
-    "pushed": "2026-11-22T04:41:43Z",
+    "pushed": "2026-11-27T08:58:48Z",
     "size": 7069,
     "stars": 3
    },
@@ -13780,8 +13876,8 @@
     "full": "shadwolf-labs/yamato-pce-en",
     "lang": "Python",
     "pushed": "2026-11-27T01:24:18Z",
-    "size": 1518,
-    "stars": 2
+    "size": 1520,
+    "stars": 3
    },
    "shots": [
     "https://raw.githubusercontent.com/shadwolf-labs/yamato-pce-en/HEAD/screenshots/title_comparison.png",
@@ -14332,6 +14428,43 @@
     "https://raw.githubusercontent.com/suddenlythis/linda3pce-english/HEAD/screenshots/06-harbour.png"
    ]
   },
+  "suddenlythis/maten-densetsu-snes-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-27T00:21:33Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/suddenlythis/maten-densetsu-snes-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-26T20:33:17Z",
+    "desc": "Maten Densetsu: Senritsu no Ooparts (SNES) English Translation",
+    "full": "suddenlythis/maten-densetsu-snes-english",
+    "lang": null,
+    "pushed": "2026-11-27T11:09:54Z",
+    "size": 595,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/suddenlythis/maten-densetsu-snes-english/HEAD/screenshots/02-hero-select.png",
+    "https://raw.githubusercontent.com/suddenlythis/maten-densetsu-snes-english/HEAD/screenshots/03-name-entry.png",
+    "https://raw.githubusercontent.com/suddenlythis/maten-densetsu-snes-english/HEAD/screenshots/04-spies.png",
+    "https://raw.githubusercontent.com/suddenlythis/maten-densetsu-snes-english/HEAD/screenshots/05-divan.png",
+    "https://raw.githubusercontent.com/suddenlythis/maten-densetsu-snes-english/HEAD/screenshots/06-choice.png",
+    "https://raw.githubusercontent.com/suddenlythis/maten-densetsu-snes-english/HEAD/screenshots/07-battle-menu.png"
+   ]
+  },
   "suddenlythis/mitsumete-knight-psx-english": {
    "assetOs": {},
    "readme": {
@@ -14603,6 +14736,35 @@
     "pushed": "2024-11-16T14:35:58Z",
     "size": 1811,
     "stars": 16
+   },
+   "shots": []
+  },
+  "toastybuns3939/shinepostbeyoursloptl_en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-27T01:37:06Z",
+    "pre": false,
+    "tag": "release",
+    "url": "https://github.com/ToastyBuns3939/ShinePostBeYourSlopTL_EN/releases/tag/release"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-27T01:19:00Z",
+    "desc": "English Translation patch for the video game Shine Post: Be Your Idol for the switch 2",
+    "full": "ToastyBuns3939/ShinePostBeYourSlopTL_EN",
+    "lang": "Python",
+    "pushed": "2026-11-27T01:37:06Z",
+    "size": 84,
+    "stars": 0
    },
    "shots": []
   },

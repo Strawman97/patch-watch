@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-27T01:48:52Z",
+ "generated": "2026-11-27T12:47:02Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9645,6 +9645,17 @@
    "src": "Romhack Plaza"
   },
   {
+   "fa": "2026-11-26T17:05:58Z",
+   "g": "SEGA",
+   "id": "link:https://romhackplaza.org/translations/puzzle-action-tant-r-english-translation-sega-genesis",
+   "l": "https://romhackplaza.org/translations/puzzle-action-tant-r-english-translation-sega-genesis",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Mega Drive",
+   "src": "Romhack Plaza"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -16240,16 +16251,16 @@
    "src": "GitHub"
   },
   {
-   "d": "Work in progress",
-   "fa": "2026-11-27T01:48:52Z",
-   "g": "Dqxi",
-   "id": "kenzie-1377/dqxi-3ds-english-patch",
-   "k": "kenzie-1377/dqxi-3ds-english-patch",
-   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "d": "Offline, cross-platform Ys IV PC Engine CD English text and optional dub patcher. All patch assets included; bring your own original disc.",
+   "fa": "2026-11-27T12:47:02Z",
+   "g": "Ys4 Patcher",
+   "id": "thedynamicpupil/ys4-english-patcher",
+   "k": "thedynamicpupil/ys4-english-patcher",
+   "l": "https://github.com/thedynamicpupil/ys4-english-patcher",
    "lb": [
     "Human translation"
    ],
-   "p": "3DS",
+   "p": "PC Engine CD",
    "src": "GitHub"
   },
   {
@@ -17918,18 +17929,6 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
-   "fa": "2026-11-26T03:39:16Z",
-   "g": "Sonic Gems Collection",
-   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "GameCube",
-   "src": "Internet Archive"
-  },
-  {
    "d": "Dusk Syndrome – English Fan Translation of Yuuyami Doori Tankentai (PS1) – Work in Progress",
    "fa": "2026-11-26T17:05:58Z",
    "g": "Dusk Syndrome",
@@ -17942,11 +17941,47 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Shining Tears Restoration + Undub v1.3",
+   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
    "fa": "2026-11-26T17:05:58Z",
+   "g": "Storm Lover Kai!!",
+   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "AIR English Patch (PSP, patr0805)",
+   "fa": "2026-11-26T17:05:58Z",
+   "g": "AIR",
+   "id": "link:https://archive.org/details/air-english-patch-psp",
+   "l": "https://archive.org/details/air-english-patch-psp",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PSP",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Bulk Slash (English Patch)",
+   "fa": "2026-11-26T17:05:58Z",
+   "g": "Bulk Slash",
+   "id": "link:https://archive.org/details/bulk-slash-english-patch",
+   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Saturn",
+   "src": "Internet Archive"
+  },
+  {
+   "d": "Shining Tears Restoration + Undub v1.2",
+   "fa": "2026-11-27T12:47:02Z",
    "g": "Shining Tears Restoration +",
-   "id": "link:https://archive.org/details/shining-tears-undub-1.3_202611",
-   "l": "https://archive.org/details/shining-tears-undub-1.3_202611",
+   "id": "link:https://archive.org/details/shining-tears-undub-1.2",
+   "l": "https://archive.org/details/shining-tears-undub-1.2",
    "lb": [
     "Undub"
    ],
@@ -17954,27 +17989,27 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Meremanoid English Patch",
-   "fa": "2026-11-27T01:48:52Z",
-   "g": "Meremanoid",
-   "id": "link:https://archive.org/details/meremanoid-english",
-   "l": "https://archive.org/details/meremanoid-english",
+   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
+   "fa": "2026-11-27T12:47:02Z",
+   "g": "Sengoku BASARA 3 Utage —",
+   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
+   "l": "https://archive.org/details/sengokubasara3utageenglish",
    "lb": [
     "Human translation"
    ],
-   "p": "PS1",
+   "p": "PS3",
    "src": "Internet Archive"
   },
   {
-   "d": "[PC] Mega Man X4 Undub",
-   "fa": "2026-11-27T01:48:52Z",
-   "g": "Mega Man X4",
-   "id": "link:https://archive.org/details/mega-man-x-4_202611",
-   "l": "https://archive.org/details/mega-man-x-4_202611",
+   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
+   "fa": "2026-11-27T12:47:02Z",
+   "g": "Dragon Ball Z Budokai",
+   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
+   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
    "lb": [
     "Undub"
    ],
-   "p": "PS1",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
