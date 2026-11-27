@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-26T17:05:58Z",
+ "generated": "2026-11-27T01:48:52Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -56,7 +56,7 @@
     "lang": "C",
     "pushed": "2026-11-14T17:59:17Z",
     "size": 36199,
-    "stars": 19
+    "stars": 21
    },
    "shots": [
     "https://github.com/user-attachments/assets/b0044f05-d641-4705-8bd4-0b9d4a69b693",
@@ -116,8 +116,8 @@
     "full": "aggc01/phantasy-star-nova-recomp",
     "lang": "C",
     "pushed": "2026-11-26T16:09:09Z",
-    "size": 8227,
-    "stars": 13
+    "size": 8246,
+    "stars": 22
    },
    "shots": []
   },
@@ -500,10 +500,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-25T16:58:51Z",
+    "date": "2026-11-26T18:38:51Z",
     "pre": false,
-    "tag": "v0.1.0",
-    "url": "https://github.com/alexbeavs-ps1-ports/clock-tower-the-first-fear-recomp/releases/tag/v0.1.0"
+    "tag": "v0.1.1",
+    "url": "https://github.com/alexbeavs-ps1-ports/clock-tower-the-first-fear-recomp/releases/tag/v0.1.1"
    },
    "repo": {
     "archived": false,
@@ -511,7 +511,7 @@
     "desc": "Static recompilation of Clock Tower: The First Fear (fan translation) (PlayStation). Owned-input kit: you supply your own disc and BIOS.",
     "full": "alexbeavs-ps1-ports/clock-tower-the-first-fear-recomp",
     "lang": "Python",
-    "pushed": "2026-11-26T09:06:28Z",
+    "pushed": "2026-11-26T18:38:43Z",
     "size": 637,
     "stars": 0
    },
@@ -1870,9 +1870,9 @@
     "desc": "Takes the text out of a game and puts a translation back in, in any alphabet. From the maker of Interpreter.",
     "full": "bquenin/ventris",
     "lang": "Rust",
-    "pushed": "2026-11-26T00:25:26Z",
-    "size": 5545,
-    "stars": 17
+    "pushed": "2026-11-27T01:03:13Z",
+    "size": 5276,
+    "stars": 19
    },
    "shots": [
     "https://raw.githubusercontent.com/bquenin/ventris/HEAD/docs/images/tod2-dialogue.png",
@@ -2234,6 +2234,37 @@
     "stars": 5
    },
    "shots": []
+  },
+  "cmyksoda/mindseeker-eng-patch": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-26T03:57:53Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/cmyksoda/Mindseeker-ENG-Patch/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-26T03:57:34Z",
+    "desc": "English translation patch for Mindseeker, Namco's 1989 Famicom psychic training game",
+    "full": "cmyksoda/Mindseeker-ENG-Patch",
+    "lang": "Python",
+    "pushed": "2026-11-26T03:57:53Z",
+    "size": 699,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/cmyksoda/Mindseeker-ENG-Patch/HEAD/images/title.png",
+    "https://raw.githubusercontent.com/cmyksoda/Mindseeker-ENG-Patch/HEAD/images/opening-crawl.gif",
+    "https://raw.githubusercontent.com/cmyksoda/Mindseeker-ENG-Patch/HEAD/images/salon_rbi.gif"
+   ]
   },
   "conan-patches/ps2": {
    "assetOs": {},
@@ -5010,9 +5041,9 @@
     "desc": "Unofficial English translation of 真説サムライスピリッツ 武士道烈伝 (PlayStation, SLPS-00814, Japan, SNK 1997)",
     "full": "FuchikomaRed/Samurai-Spirits-RPG_Samurai-Sodown-RPG-English-translate",
     "lang": null,
-    "pushed": "2026-11-25T17:11:56Z",
-    "size": 3,
-    "stars": 1
+    "pushed": "2026-11-26T20:31:35Z",
+    "size": 7,
+    "stars": 2
    },
    "shots": []
   },
@@ -6001,10 +6032,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-26T14:28:09Z",
+    "date": "2026-11-26T20:43:52Z",
     "pre": false,
-    "tag": "V1.1.0",
-    "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/tag/V1.1.0"
+    "tag": "V1.0.2",
+    "url": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/releases/tag/V1.0.2"
    },
    "repo": {
     "archived": false,
@@ -6012,9 +6043,9 @@
     "desc": "Unofficial native PC port of Ryu ga Gotoku Kenzan! (PS3, BLJM60064) for Linux and Windows. Statically recompiled with ps3recomp and rendered with Vulkan, with the English fan translation, 30/60/120 FPS options and a launcher that installs from your own copy of the game. No game files included.",
     "full": "IvanBarbosaFilho/Yakuza-Kenzan-Recomp",
     "lang": "C",
-    "pushed": "2026-11-26T14:28:09Z",
-    "size": 35882,
-    "stars": 51
+    "pushed": "2026-11-26T21:17:26Z",
+    "size": 35895,
+    "stars": 52
    },
    "shots": []
   },
@@ -7081,40 +7112,6 @@
     "https://raw.githubusercontent.com/KenYates88/Wild-Card-English/HEAD/screenshots/shop.png"
    ]
   },
-  "kenzie-1377/dqxi-3ds-english-patch": {
-   "assetOs": {},
-   "readme": {
-    "patch": {
-     "ex": {
-      "subs": true
-     }
-    },
-    "v": 1
-   },
-   "readmeLure": [],
-   "release": {
-    "date": "2026-11-19T20:48:48Z",
-    "pre": true,
-    "tag": "1.0-luma-boot-test1",
-    "url": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch/releases/tag/1.0-luma-boot-test1"
-   },
-   "repo": {
-    "archived": false,
-    "created": "2026-09-17T01:03:12Z",
-    "desc": "Work in progress",
-    "full": "Kenzie-1377/dqxi-3ds-english-patch",
-    "lang": "Python",
-    "pushed": "2026-11-19T20:48:48Z",
-    "size": 53008,
-    "stars": 37
-   },
-   "shots": [
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/conversation-3d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/equipment-menu.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/snaerfelt-2d.png",
-    "https://raw.githubusercontent.com/Kenzie-1377/dqxi-3ds-english-patch/HEAD/docs/images/battle-2d.png"
-   ]
-  },
   "kidpeterpan/chiaki-ngx": {
    "assetOs": {},
    "readme": {
@@ -7837,9 +7834,9 @@
     "desc": "English fan translation of Pokémon Team Rocket Edition v3.0.6 (Spanish GBA romhack). BPS patch, no ROMs.",
     "full": "LukeU123/TRE-v3.0.6-English-Translation",
     "lang": "Python",
-    "pushed": "2026-11-25T21:11:10Z",
-    "size": 5132,
-    "stars": 0
+    "pushed": "2026-11-26T23:08:20Z",
+    "size": 5139,
+    "stars": 1
    },
    "shots": [
     "https://raw.githubusercontent.com/LukeU123/TRE-v3.0.6-English-Translation/HEAD/docs/images/screenshot_intro.png",
@@ -11448,7 +11445,7 @@
     "lang": null,
     "pushed": "2026-11-24T20:32:41Z",
     "size": 12135,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -11704,7 +11701,7 @@
     "lang": null,
     "pushed": "2026-11-08T17:46:04Z",
     "size": 16794,
-    "stars": 3
+    "stars": 4
    },
    "shots": [
     "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-1-rc01.png",
@@ -12086,8 +12083,8 @@
     "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
-    "pushed": "2026-11-26T16:03:25Z",
-    "size": 164,
+    "pushed": "2026-11-26T19:35:04Z",
+    "size": 168,
     "stars": 0
    },
    "shots": []
@@ -12337,7 +12334,7 @@
     "desc": "Raw Danger! (PS2) as a native Windows game, built from your own discs: widescreen, high resolution, Enhanced Edition with Japanese voices, orbit camera, offline achievements.",
     "full": "rams95blue/rawdanger-recomp",
     "lang": "C++",
-    "pushed": "2026-11-26T15:13:34Z",
+    "pushed": "2026-11-27T01:11:08Z",
     "size": 14960,
     "stars": 2
    },
@@ -12494,7 +12491,7 @@
     "lang": null,
     "pushed": "2026-11-12T02:40:57Z",
     "size": 105217,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/RetchERez/Super-Robot-Wars-Complete-Box-English/HEAD/screenshots/01_disc1_title_complete_box.png",
@@ -13759,6 +13756,38 @@
    },
    "shots": []
   },
+  "shadwolf-labs/yamato-pce-en": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-26T17:33:53Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/shadwolf-labs/yamato-pce-en/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-26T16:44:46Z",
+    "desc": "Space Battleship Yamato PC Engine translation",
+    "full": "shadwolf-labs/yamato-pce-en",
+    "lang": "Python",
+    "pushed": "2026-11-27T01:24:18Z",
+    "size": 1518,
+    "stars": 2
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/shadwolf-labs/yamato-pce-en/HEAD/screenshots/title_comparison.png",
+    "https://raw.githubusercontent.com/shadwolf-labs/yamato-pce-en/HEAD/screenshots/cutscene_subtitles.png"
+   ]
+  },
   "silentheii/outbreak-translation": {
    "assetOs": {},
    "readme": {
@@ -14255,7 +14284,7 @@
     "lang": null,
     "pushed": "2026-11-25T19:54:14Z",
     "size": 2803,
-    "stars": 1
+    "stars": 2
    },
    "shots": [
     "https://raw.githubusercontent.com/suddenlythis/houshin-engi-aizouban-psx-english/HEAD/screenshots/03-opening-kou-hiko.png",
@@ -14337,6 +14366,44 @@
     "https://raw.githubusercontent.com/suddenlythis/mitsumete-knight-psx-english/HEAD/screenshots/05-trainer.png",
     "https://raw.githubusercontent.com/suddenlythis/mitsumete-knight-psx-english/HEAD/screenshots/06-weekly-plan.png",
     "https://raw.githubusercontent.com/suddenlythis/mitsumete-knight-psx-english/HEAD/screenshots/07-sword-training.png"
+   ]
+  },
+  "suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {
+      "gfx": true,
+      "restore": true,
+      "subs": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-26T08:18:15Z",
+    "pre": false,
+    "tag": "v1.0",
+    "url": "https://github.com/suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english/releases/tag/v1.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-26T05:25:43Z",
+    "desc": "Mitsumete Knight R: Daibouken-hen (PS1) English translation",
+    "full": "suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english",
+    "lang": null,
+    "pushed": "2026-11-26T08:42:43Z",
+    "size": 5864,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english/HEAD/screenshots/02-name-entry.png",
+    "https://raw.githubusercontent.com/suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english/HEAD/screenshots/03-prologue.png",
+    "https://raw.githubusercontent.com/suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english/HEAD/screenshots/04-duel.png",
+    "https://raw.githubusercontent.com/suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english/HEAD/screenshots/05-summons.png",
+    "https://raw.githubusercontent.com/suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english/HEAD/screenshots/06-choice.png",
+    "https://raw.githubusercontent.com/suddenlythis/mitsumete-knight-r-daibouken-hen-psx-english/HEAD/screenshots/07-crownsbane.png"
    ]
   },
   "suddenlythis/robinlloyd-psx-english": {
@@ -14422,8 +14489,8 @@
     "desc": "A personal translation project for the SNES visual novel Yakouchuu",
     "full": "syrofx/Yakouchuu-Fan-Translation",
     "lang": "Python",
-    "pushed": "2026-11-26T06:49:23Z",
-    "size": 17,
+    "pushed": "2026-11-26T22:14:06Z",
+    "size": 19,
     "stars": 0
    },
    "shots": []
@@ -14505,7 +14572,7 @@
     "lang": null,
     "pushed": "2026-11-17T11:00:02Z",
     "size": 6261,
-    "stars": 13
+    "stars": 14
    },
    "shots": [
     "https://raw.githubusercontent.com/ThallhattanCafe/Shiritsu-Justice-Gakuen-Nekketsu-Seishun-Nikki-2/HEAD/game.png",
@@ -14730,7 +14797,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 285
+    "stars": 286
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"

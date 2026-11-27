@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-found",
- "generated": "2026-11-26T17:05:58Z",
+ "generated": "2026-11-27T01:48:52Z",
  "projects": [
   {
    "fa": "2026-10-22T09:18:31Z",
@@ -9645,17 +9645,6 @@
    "src": "Romhack Plaza"
   },
   {
-   "fa": "2026-11-26T17:05:58Z",
-   "g": "SEGA",
-   "id": "link:https://romhackplaza.org/translations/puzzle-action-tant-r-english-translation-sega-genesis",
-   "l": "https://romhackplaza.org/translations/puzzle-action-tant-r-english-translation-sega-genesis",
-   "lb": [
-    "Human translation"
-   ],
-   "p": "Mega Drive",
-   "src": "Romhack Plaza"
-  },
-  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Puyo Puyo BOX",
    "grp": "brandnewscooby",
@@ -16212,6 +16201,58 @@
    "src": "GitHub"
   },
   {
+   "d": "English Translation patch for the video game Shine Post: Be Your Idol for the switch 2",
+   "fa": "2026-11-27T01:48:52Z",
+   "g": "Shine Post Be Your Slop",
+   "id": "toastybuns3939/shinepostbeyoursloptl_en",
+   "k": "toastybuns3939/shinepostbeyoursloptl_en",
+   "l": "https://github.com/ToastyBuns3939/ShinePostBeYourSlopTL_EN",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "Switch",
+   "src": "GitHub"
+  },
+  {
+   "d": "Gundam Breaker PS Vita English Patch",
+   "fa": "2026-11-27T01:48:52Z",
+   "g": "Gundam Breaker PS Vita",
+   "id": "irxd/gundam-breaker-vita-en",
+   "k": "irxd/gundam-breaker-vita-en",
+   "l": "https://github.com/irxd/gundam-breaker-vita-en",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "PS Vita",
+   "src": "GitHub"
+  },
+  {
+   "d": "Maten Densetsu: Senritsu no Ooparts (SNES) English Translation",
+   "fa": "2026-11-27T01:48:52Z",
+   "g": "Maten Densetsu: Senritsu no Ooparts",
+   "id": "suddenlythis/maten-densetsu-snes-english",
+   "k": "suddenlythis/maten-densetsu-snes-english",
+   "l": "https://github.com/suddenlythis/maten-densetsu-snes-english",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "SNES",
+   "src": "GitHub"
+  },
+  {
+   "d": "Work in progress",
+   "fa": "2026-11-27T01:48:52Z",
+   "g": "Dqxi",
+   "id": "kenzie-1377/dqxi-3ds-english-patch",
+   "k": "kenzie-1377/dqxi-3ds-english-patch",
+   "l": "https://github.com/Kenzie-1377/dqxi-3ds-english-patch",
+   "lb": [
+    "Human translation"
+   ],
+   "p": "3DS",
+   "src": "GitHub"
+  },
+  {
    "fa": "2026-10-22T09:57:51Z",
    "g": "Rockman ZX (Mega Man ZX) DS",
    "grp": "geo-kun",
@@ -17877,39 +17918,15 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Shining Tears Restoration + Undub v1.2",
+   "d": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
    "fa": "2026-11-26T03:39:16Z",
-   "g": "Shining Tears Restoration +",
-   "id": "link:https://archive.org/details/shining-tears-undub-1.2",
-   "l": "https://archive.org/details/shining-tears-undub-1.2",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS2",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "fa": "2026-11-26T03:39:16Z",
-   "g": "Sengoku BASARA 3 Utage —",
-   "id": "link:https://archive.org/details/sengokubasara3utageenglish",
-   "l": "https://archive.org/details/sengokubasara3utageenglish",
+   "g": "Sonic Gems Collection",
+   "id": "link:https://archive.org/details/SonicGemsCollectionEnglishTranslation",
+   "l": "https://archive.org/details/SonicGemsCollectionEnglishTranslation",
    "lb": [
     "Human translation"
    ],
-   "p": "PS3",
-   "src": "Internet Archive"
-  },
-  {
-   "d": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "fa": "2026-11-26T03:39:16Z",
-   "g": "Dragon Ball Z Budokai",
-   "id": "link:https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "l": "https://archive.org/details/dragon-ball-z-budokai-undub-patch",
-   "lb": [
-    "Undub"
-   ],
-   "p": "PS2",
+   "p": "GameCube",
    "src": "Internet Archive"
   },
   {
@@ -17925,39 +17942,39 @@
    "src": "Internet Archive"
   },
   {
-   "d": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
+   "d": "Shining Tears Restoration + Undub v1.3",
    "fa": "2026-11-26T17:05:58Z",
-   "g": "Storm Lover Kai!!",
-   "id": "link:https://archive.org/details/storm-lover-kai-english-patch-psp",
-   "l": "https://archive.org/details/storm-lover-kai-english-patch-psp",
+   "g": "Shining Tears Restoration +",
+   "id": "link:https://archive.org/details/shining-tears-undub-1.3_202611",
+   "l": "https://archive.org/details/shining-tears-undub-1.3_202611",
    "lb": [
-    "Human translation"
+    "Undub"
    ],
-   "p": "PSP",
+   "p": "PS2",
    "src": "Internet Archive"
   },
   {
-   "d": "AIR English Patch (PSP, patr0805)",
-   "fa": "2026-11-26T17:05:58Z",
-   "g": "AIR",
-   "id": "link:https://archive.org/details/air-english-patch-psp",
-   "l": "https://archive.org/details/air-english-patch-psp",
+   "d": "Meremanoid English Patch",
+   "fa": "2026-11-27T01:48:52Z",
+   "g": "Meremanoid",
+   "id": "link:https://archive.org/details/meremanoid-english",
+   "l": "https://archive.org/details/meremanoid-english",
    "lb": [
     "Human translation"
    ],
-   "p": "PSP",
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {
-   "d": "Bulk Slash (English Patch)",
-   "fa": "2026-11-26T17:05:58Z",
-   "g": "Bulk Slash",
-   "id": "link:https://archive.org/details/bulk-slash-english-patch",
-   "l": "https://archive.org/details/bulk-slash-english-patch",
+   "d": "[PC] Mega Man X4 Undub",
+   "fa": "2026-11-27T01:48:52Z",
+   "g": "Mega Man X4",
+   "id": "link:https://archive.org/details/mega-man-x-4_202611",
+   "l": "https://archive.org/details/mega-man-x-4_202611",
    "lb": [
-    "Human translation"
+    "Undub"
    ],
-   "p": "Saturn",
+   "p": "PS1",
    "src": "Internet Archive"
   },
   {
