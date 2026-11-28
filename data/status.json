@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-status",
- "generated": "2026-11-28T08:05:38Z",
+ "generated": "2026-11-28T17:39:17Z",
  "repos": {
   "acer-2006/gyakuten-saiban-2-english-gba-": {
    "assetOs": {},
@@ -1817,6 +1817,29 @@
     "lang": null,
     "pushed": "2024-10-08T02:42:29Z",
     "size": 1961,
+    "stars": 0
+   },
+   "shots": []
+  },
+  "blasivas/dbz-gekitouden-english-patch": {
+   "noRelease": true,
+   "readme": {
+    "patch": {
+     "ex": {
+      "restore": true
+     }
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "repo": {
+    "archived": false,
+    "created": "2026-11-28T03:06:37Z",
+    "desc": "English localization fixes for Dragon Ball Z: Goku Gekitouden on Game Boy.",
+    "full": "Blasivas/dbz-gekitouden-english-patch",
+    "lang": null,
+    "pushed": "2026-11-28T03:06:43Z",
+    "size": 1,
     "stars": 0
    },
    "shots": []
@@ -4114,8 +4137,8 @@
     "desc": "Unofficial native recompilation of Super Robot Wars 64 for Windows, macOS, Linux/Steam Deck, Android and Switch: Japanese, English, Simplified and Traditional Chinese, Korean, widescreen, optional HD art, mods and bug fixes. Requires your own ROM.",
     "full": "dyzz/srw64-recomp",
     "lang": "C++",
-    "pushed": "2026-11-26T13:56:01Z",
-    "size": 170316,
+    "pushed": "2026-11-28T14:28:18Z",
+    "size": 176429,
     "stars": 53
    },
    "shots": [
@@ -6033,7 +6056,7 @@
     "lang": "Python",
     "pushed": "2026-11-07T16:39:40Z",
     "size": 3657,
-    "stars": 4
+    "stars": 5
    },
    "shots": [
     "https://raw.githubusercontent.com/itsbalanse/BokuraNoKazoku-English/HEAD/docs/screenshots/01_title.png",
@@ -6106,7 +6129,7 @@
     "lang": "C",
     "pushed": "2026-11-27T22:37:42Z",
     "size": 36076,
-    "stars": 55
+    "stars": 56
    },
    "shots": []
   },
@@ -7895,8 +7918,8 @@
     "desc": "English fan translation of Pokémon Team Rocket Edition v3.0.6 (Spanish GBA romhack). BPS patch, no ROMs.",
     "full": "LukeU123/TRE-v3.0.6-English-Translation",
     "lang": "Python",
-    "pushed": "2026-11-27T17:48:35Z",
-    "size": 5190,
+    "pushed": "2026-11-28T14:20:33Z",
+    "size": 5203,
     "stars": 1
    },
    "shots": [
@@ -7988,7 +8011,7 @@
     "lang": null,
     "pushed": "2026-10-16T20:54:35Z",
     "size": 1589,
-    "stars": 33
+    "stars": 34
    },
    "shots": []
   },
@@ -11774,10 +11797,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-08T17:35:33Z",
-    "pre": true,
-    "tag": "RC02",
-    "url": "https://github.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/releases/tag/RC02"
+    "date": "2026-11-28T11:59:11Z",
+    "pre": false,
+    "tag": "v1.00",
+    "url": "https://github.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/releases/tag/v1.00"
    },
    "repo": {
     "archived": false,
@@ -11785,17 +11808,17 @@
     "desc": "Complete English fan translation of Super Robot Wars OG Gaiden (PS2, SLPS-25836). RC02 xdelta patch, screenshots and install guide.",
     "full": "Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver",
     "lang": null,
-    "pushed": "2026-11-08T17:46:04Z",
-    "size": 16794,
+    "pushed": "2026-11-28T11:59:26Z",
+    "size": 16796,
     "stars": 4
    },
    "shots": [
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-1-rc01.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-1-rc02.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-2-rc01.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-2-rc02.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-3-rc01.png",
-    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/comparison/dialogue-3-rc02.png"
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/11-special-menu.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/31-map-dialogue.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/30-glossary-term-popup.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/39-cutscene-excellen.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/41-battle-excellen-2.png",
+    "https://raw.githubusercontent.com/Nrlemo/Super-Robot-Wars-OG-Gaiden-English-Ver/HEAD/screenshots/gallery/12-library-valsione.png"
    ]
   },
   "ooa113y/umineko-catbox-english": {
@@ -12168,8 +12191,8 @@
     "desc": "Who is translating which WonderSwan game right now: check before you start, claim when you start",
     "full": "PokemonGoDB/wonderswan-claims",
     "lang": "Python",
-    "pushed": "2026-11-28T04:12:44Z",
-    "size": 96,
+    "pushed": "2026-11-28T17:17:44Z",
+    "size": 112,
     "stars": 0
    },
    "shots": []
@@ -12307,10 +12330,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2025-09-20T10:15:05Z",
+    "date": "2026-11-28T13:22:37Z",
     "pre": false,
-    "tag": "v0.1.0-fixed",
-    "url": "https://github.com/pumpkinhasapatch/dokodemo-psp-english/releases/tag/v0.1.0-fixed"
+    "tag": "2026-11-28",
+    "url": "https://github.com/pumpkinhasapatch/dokodemo-psp-english/releases/tag/2026-11-28"
    },
    "repo": {
     "archived": false,
@@ -12318,9 +12341,9 @@
     "desc": "A work-in-progress English translation patch for the Japanese virtual pet/storytelling game, Doko Demo Issyo on the PlayStation Portable.",
     "full": "pumpkinhasapatch/dokodemo-psp-english",
     "lang": "Python",
-    "pushed": "2026-11-09T12:54:00Z",
-    "size": 4506,
-    "stars": 97
+    "pushed": "2026-11-28T13:22:37Z",
+    "size": 4178,
+    "stars": 98
    },
    "shots": [
     "https://raw.githubusercontent.com/pumpkinhasapatch/dokodemo-psp-english/HEAD/textures/GUI/TITLE/TITLE.png",
@@ -12381,7 +12404,7 @@
     "lang": "Python",
     "pushed": "2026-11-27T16:51:51Z",
     "size": 115286,
-    "stars": 21
+    "stars": 22
    },
    "shots": [
     "https://raw.githubusercontent.com/Qi-Busiyi-Hanhuazu/PersonaQ2ChsLocalization/HEAD/assets/images/screenshot-01.png",
@@ -12783,10 +12806,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-22T15:10:14Z",
+    "date": "2026-11-28T13:27:40Z",
     "pre": false,
-    "tag": "v0.8.30",
-    "url": "https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.30"
+    "tag": "v0.8.32",
+    "url": "https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.32"
    },
    "repo": {
     "archived": false,
@@ -12794,11 +12817,40 @@
     "desc": "Translation patch of Getter Robo Daikessen! (PS1, SLPS-02232)",
     "full": "retro-trans/Getter-Robo-Daikessen",
     "lang": "Python",
-    "pushed": "2026-11-22T15:15:28Z",
-    "size": 742,
+    "pushed": "2026-11-28T13:29:28Z",
+    "size": 802,
     "stars": 0
    },
    "shots": []
+  },
+  "retro-trans/kengo-3": {
+   "assetOs": {},
+   "readme": {
+    "patch": {
+     "ex": {}
+    },
+    "v": 1
+   },
+   "readmeLure": [],
+   "release": {
+    "date": "2026-11-28T05:08:20Z",
+    "pre": false,
+    "tag": "v0.8.0",
+    "url": "https://github.com/retro-trans/Kengo-3/releases/tag/v0.8.0"
+   },
+   "repo": {
+    "archived": false,
+    "created": "2026-11-28T05:04:11Z",
+    "desc": "English translation patch for Kengo 3 (PlayStation 2, SLPM-65700)",
+    "full": "retro-trans/Kengo-3",
+    "lang": null,
+    "pushed": "2026-11-28T06:26:23Z",
+    "size": 496,
+    "stars": 0
+   },
+   "shots": [
+    "https://raw.githubusercontent.com/retro-trans/Kengo-3/HEAD/docs/social-preview.jpg"
+   ]
   },
   "retro-trans/shiren-ds2": {
    "assetOs": {},
@@ -14840,7 +14892,7 @@
     "lang": "Python",
     "pushed": "2026-11-27T01:37:06Z",
     "size": 84,
-    "stars": 0
+    "stars": 1
    },
    "shots": []
   },
@@ -14920,7 +14972,7 @@
     "lang": "Python",
     "pushed": "2026-11-27T19:54:02Z",
     "size": 115,
-    "stars": 2
+    "stars": 3
    },
    "shots": []
   },
@@ -15041,7 +15093,7 @@
     "lang": "Python",
     "pushed": "2026-11-14T04:01:30Z",
     "size": 5108,
-    "stars": 289
+    "stars": 290
    },
    "shots": [
     "https://raw.githubusercontent.com/Vnnc1/gow-native-pc/HEAD/docs/tag-ratone-tend.png"
@@ -15121,10 +15173,10 @@
    },
    "readmeLure": [],
    "release": {
-    "date": "2026-11-08T02:55:34Z",
+    "date": "2026-11-28T17:22:53Z",
     "pre": false,
-    "tag": "v0.3.1",
-    "url": "https://github.com/vVKamiVv/Open-Catbox-Project/releases/tag/v0.3.1"
+    "tag": "v0.3.2",
+    "url": "https://github.com/vVKamiVv/Open-Catbox-Project/releases/tag/v0.3.2"
    },
    "repo": {
     "archived": false,
@@ -15132,7 +15184,7 @@
     "desc": "Native PC port of Umineko no Naku Koro ni Saku (Switch) with the Catbox English patch: an independent continuation of the shin engine, built from reverse engineering the original",
     "full": "vVKamiVv/Open-Catbox-Project",
     "lang": "Rust",
-    "pushed": "2026-11-08T17:40:58Z",
+    "pushed": "2026-11-28T17:22:53Z",
     "size": 5456,
     "stars": 2
    },
