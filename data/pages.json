@@ -1,6 +1,6 @@
 {
  "format": "patch-watch-pages",
- "generated": "2026-11-27T23:34:02Z",
+ "generated": "2026-11-28T08:05:38Z",
  "pages": {
   "http://changevworld.com/narikiri/patch/patch.htm": {
    "a": {
@@ -10,7 +10,7 @@
    "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   "http://code-geass-lost-colors-translation.yolasite.com": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "http://crazycatz00.x10host.com/KH/kh2_patches.html": {
@@ -112,7 +112,7 @@
    "err": "<urlopen error [Errno -2] Name or service not known>"
   },
   "http://www.berserkdarkness.altervista.org/lupin-the-third-nds-patch-eng-ita": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "err": "<urlopen error [Errno -2] Name or service not known>"
   },
   "http://www.crystalmods.com/index.php/tales-of-hearts-ds-english-patch": {
@@ -159,7 +159,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "shots": [
     "http://www.el-hazardonline.net/El-Hazard/wiki/images/7/72/EHPC_Main.jpg",
     "http://www.el-hazardonline.net/El-Hazard/wiki/images/7/7c/Saturn_compare.jpg",
@@ -176,10 +176,10 @@
    "checked": "2026-11-27T23:34:02Z"
   },
   "http://www.romhacking.net/translations/1427": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/1623": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/1736": {
    "checked": "2026-11-27T23:34:02Z"
@@ -191,19 +191,19 @@
    "checked": "2026-11-27T23:34:02Z"
   },
   "http://www.romhacking.net/translations/2061": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/2170": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/2235": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/2330": {
    "checked": "2026-11-27T12:47:02Z"
   },
   "http://www.romhacking.net/translations/2570": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/2626": {
    "checked": "2026-11-27T23:34:02Z"
@@ -260,7 +260,7 @@
    "checked": "2026-11-27T23:34:02Z"
   },
   "http://www.romhacking.net/translations/560": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/5601": {
    "checked": "2026-11-27T23:34:02Z"
@@ -311,29 +311,29 @@
    "checked": "2026-11-27T23:34:02Z"
   },
   "http://www.romhacking.net/translations/snes/patches/1641readme.txt": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/snes/patches/3355readme.txt": {
    "checked": "2026-11-27T23:34:02Z"
   },
   "http://www.romhacking.net/translations/snes/patches/404readme.txt": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/snes/patches/689readme.txt": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.romhacking.net/translations/snes/patches/829readme.txt": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "http://www.shenmuedojo.net/forum/viewtopic.php?f=37&t=46933": {
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 502
   },
   "http://www.swordofmoonlight.com/bbs/index.php?topic=869.0": {
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "title": "Sword of Moonlight Forums",
    "ver": "1.6"
   },
@@ -364,7 +364,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "title": "Aeon Genesis ~ Dragon Squadron: Danzarb",
    "ver": "1.00"
   },
@@ -389,7 +389,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "title": "Aeon Genesis ~ Mobile Suit Gundam: Cross Dimension 0079",
    "ver": "1.00"
   },
@@ -397,7 +397,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "title": "Aeon Genesis ~ Hero Chronicle",
    "ver": "1.00"
   },
@@ -437,7 +437,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "title": "Aeon Genesis ~ Snoopy Concert",
    "ver": "1.00"
   },
@@ -500,6 +500,17 @@
    "upd": "2022-07-28T18:32:36Z",
    "ver": "1.1"
   },
+  "https://archive.org/details/SonicGemsCollectionEnglishTranslation": {
+   "a": {
+    "ex": {
+     "gfx": true
+    }
+   },
+   "checked": "2026-11-28T08:05:38Z",
+   "plat": "GameCube",
+   "title": "Sonic Gems Collection (Japan) (English Translation) patch for Nintendo Gamecube",
+   "upd": "2026-09-30T06:20:08Z"
+  },
   "https://archive.org/details/ace-combat-zero-ntsc-undub-patch": {
    "a": {
     "ex": {
@@ -532,18 +543,6 @@
    "title": "AeroWings UNDUB patch",
    "upd": "2022-11-22T00:47:45Z",
    "ver": "1.0"
-  },
-  "https://archive.org/details/air-english-patch-psp": {
-   "a": {
-    "ex": {}
-   },
-   "checked": "2026-11-27T23:34:02Z",
-   "plat": "PSP",
-   "shots": [
-    "https://archive.org/download/air-english-patch-psp/airengpsp_thumb.png"
-   ],
-   "title": "AIR English Patch (PSP, patr0805)",
-   "upd": "2026-10-04T23:29:44Z"
   },
   "https://archive.org/details/airforce_delta_strike_undub_patch": {
    "a": {
@@ -744,7 +743,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Armored Core: Nexus UNDUB patch",
    "upd": "2021-08-10T13:28:42Z",
@@ -755,7 +754,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS1",
    "title": "Armored Core: Project Phantasma UNDUB patch",
    "upd": "2021-11-30T00:46:23Z",
@@ -766,7 +765,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PSP",
    "title": "Silent Line: Armored Core UNDUB patch",
    "upd": "2021-08-09T07:13:36Z",
@@ -777,7 +776,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PSP",
    "title": "Armored Core: Silent Line Portable UNDUB patch",
    "upd": "2024-06-19T23:08:01Z",
@@ -788,7 +787,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS1",
    "title": "Armored Core UNDUB patch",
    "upd": "2021-11-30T00:14:21Z",
@@ -799,7 +798,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS3",
    "title": "Armored Core V UNDUB patch (PS3)",
    "upd": "2022-12-13T07:53:29Z",
@@ -810,7 +809,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS3",
    "title": "Armored Core: Verdict Day UNDUB patch (PS3)",
    "upd": "2024-04-27T00:01:12Z",
@@ -821,7 +820,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Astro Boy UNDUB patch",
    "upd": "2026-01-06T21:07:12Z",
@@ -849,7 +848,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "shots": [
     "https://archive.org/download/baroque_ps2_undub_patch/Decluttered%20HUD%20patch/baroque%20ps2%20-%20optional%20decluttered%20hud.gif"
@@ -867,7 +866,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Baroque UNDUB patch (Wii)",
    "upd": "2025-05-12T04:48:06Z",
@@ -881,7 +880,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS3",
    "title": "Binary Domain UNDUB / Japanese audio patch",
    "upd": "2025-09-27T13:43:04Z",
@@ -905,7 +904,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "GBA",
    "title": "Boktai 2: Solar Boy Django UNDUB patch",
    "upd": "2024-12-13T01:53:47Z",
@@ -918,7 +917,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "GBA",
    "title": "Boktai: The Sun is in Your Hand UNDUB patch",
    "upd": "2024-12-13T01:49:48Z",
@@ -929,7 +928,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "GameCube",
    "title": "Bomberman Generation UNDUB patch",
    "upd": "2025-05-22T08:11:47Z",
@@ -940,7 +939,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "GameCube",
    "title": "Bomberman Jetters UNDUB patch",
    "upd": "2026-07-16T22:48:17Z",
@@ -964,26 +963,11 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Bujingai: Swordmaster / The Forsaken City UNDUB patch",
    "upd": "2023-08-22T00:27:14Z",
    "ver": "1.0"
-  },
-  "https://archive.org/details/bulk-slash-english-patch": {
-   "a": {
-    "ex": {}
-   },
-   "checked": "2026-11-27T23:34:02Z",
-   "plat": "Saturn",
-   "shots": [
-    "https://archive.org/download/bulk-slash-english-patch/Bulk-Slash-english-releaseo.png",
-    "https://archive.org/download/bulk-slash-english-patch/Comparison_Briefing_Mission1.png",
-    "https://archive.org/download/bulk-slash-english-patch/Comparison_Metical_Intro.png",
-    "https://archive.org/download/bulk-slash-english-patch/ControllerScreen_TwinStick.png"
-   ],
-   "title": "Bulk Slash (English Patch)",
-   "upd": "2026-10-01T07:26:04Z"
   },
   "https://archive.org/details/castle_of_shikigami_iii_undub_patch": {
    "a": {
@@ -1003,7 +987,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS3",
    "title": "Castle Shikigami 2 UNDUB patch",
    "upd": "2021-04-23T15:27:53Z",
@@ -1014,7 +998,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "DS",
    "title": "Castlevania: Order of Ecclesia UNDUB patch",
    "upd": "2024-12-08T22:47:23Z",
@@ -1029,7 +1013,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Chaos Legion UNDUB patch (PS2)",
    "upd": "2023-12-25T12:36:37Z",
@@ -1060,7 +1044,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Clock Tower 3 UNDUB patch",
    "upd": "2021-10-14T02:36:53Z"
@@ -1070,7 +1054,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "3DS",
    "title": "Code Name: S.T.E.A.M. UNDUB patch",
    "upd": "2024-06-14T22:08:27Z",
@@ -1092,7 +1076,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS Vita",
    "title": "Crimson Gem Saga UNDUB patch",
    "upd": "2025-11-13T10:05:20Z",
@@ -1103,7 +1087,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Crimson Tears UNDUB patch",
    "upd": "2021-08-18T04:26:44Z",
@@ -1116,7 +1100,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PSP",
    "title": "Crisis Core: Final Fantasy VII UNDUB patch",
    "upd": "2025-11-21T08:01:00Z",
@@ -1130,7 +1114,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Dark Cloud 2 UNDUB patch",
    "upd": "2026-01-26T10:29:23Z",
@@ -1162,7 +1146,7 @@
     "ex": {},
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Digimon World: Data Squad UNDUB patch",
    "upd": "2026-07-23T00:28:53Z",
@@ -1175,7 +1159,7 @@
     },
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
    "title": "Dirge of Cerberus: Final Fantasy VII UNDUB patch",
    "upd": "2023-06-23T14:20:26Z",
@@ -1251,22 +1235,6 @@
    ],
    "title": "Dragon Ball Z (Budokai) Japanese version English Translation Patch",
    "upd": "2023-03-26T22:09:05Z"
-  },
-  "https://archive.org/details/dragon-ball-z-budokai-undub-patch": {
-   "a": {
-    "ex": {
-     "gfx": true,
-     "subs": true
-    },
-    "undub": true
-   },
-   "checked": "2026-11-27T23:34:02Z",
-   "plat": "PS2",
-   "shots": [
-    "https://archive.org/download/dragon-ball-z-budokai-undub-patch/Dragon%20Ball%20Z%20-%20Budokai_SLUS-20591_20260927140643.png"
-   ],
-   "title": "Dragon Ball Z Budokai Undub Patch (PS2)",
-   "upd": "2026-09-28T20:26:37Z"
   },
   "https://archive.org/details/dragon_ball_z_tenkaichi_tag_team_undub_patch": {
    "a": {
@@ -2224,6 +2192,21 @@
    "upd": "2026-10-22T14:02:39Z",
    "ver": "1.1"
   },
+  "https://archive.org/details/mega-man-x-4_202611": {
+   "a": {
+    "ex": {
+     "restore": true
+    },
+    "undub": true
+   },
+   "checked": "2026-11-28T08:05:38Z",
+   "plat": "PS1",
+   "shots": [
+    "https://archive.org/download/mega-man-x-4_202611/image.jpg"
+   ],
+   "title": "[PC] Mega Man X4 Undub",
+   "upd": "2026-11-08T18:13:01Z"
+  },
   "https://archive.org/details/mega_man_mhx_undub_patch": {
    "a": {
     "ex": {},
@@ -2280,11 +2263,27 @@
    "title": "Megami Tensei 2 Materials",
    "upd": "2026-06-13T04:50:50Z"
   },
+  "https://archive.org/details/meremanoid-english": {
+   "a": {
+    "cov": "Complete",
+    "ex": {
+     "restore": true
+    }
+   },
+   "checked": "2026-11-28T08:05:38Z",
+   "plat": "PS1",
+   "shots": [
+    "https://archive.org/download/meremanoid-english/bafkreibfn4ab23m2jimp2iu5tajlmu7sfxhuc2foktuxtgtiyfuvgrhley.png"
+   ],
+   "title": "Meremanoid English Patch",
+   "upd": "2026-11-25T04:22:42Z",
+   "ver": "1.0.1"
+  },
   "https://archive.org/details/metal-max-2-eng-1.0": {
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "SNES",
    "shots": [
     "https://archive.org/download/metal-max-2-eng-1.0/MM2s1.png",
@@ -2735,21 +2734,6 @@
    "upd": "2025-11-13T12:38:10Z",
    "ver": "1.0"
   },
-  "https://archive.org/details/sengokubasara3utageenglish": {
-   "a": {
-    "ex": {
-     "gfx": true,
-     "subs": true
-    }
-   },
-   "checked": "2026-11-27T23:34:02Z",
-   "plat": "PS3",
-   "shots": [
-    "https://archive.org/download/sengokubasara3utageenglish/firefox_S09XMvguoR.png"
-   ],
-   "title": "Sengoku BASARA 3 Utage — English Translation Patch (PS3).",
-   "upd": "2026-10-12T08:33:59Z"
-  },
   "https://archive.org/details/seven_samurai_20XX_undub_patch": {
    "a": {
     "ex": {
@@ -2822,18 +2806,18 @@
    "upd": "2026-11-23T18:08:01Z",
    "ver": "1.1"
   },
-  "https://archive.org/details/shining-tears-undub-1.2": {
+  "https://archive.org/details/shining-tears-undub-1.3_202611": {
    "a": {
     "ex": {
      "restore": true
     },
     "undub": true
    },
-   "checked": "2026-11-27T23:34:02Z",
+   "checked": "2026-11-28T08:05:38Z",
    "plat": "PS2",
-   "title": "Shining Tears Restoration + Undub v1.2",
-   "upd": "2026-11-24T17:00:30Z",
-   "ver": "1.2"
+   "title": "Shining Tears Restoration + Undub v1.3",
+   "upd": "2026-11-25T03:37:48Z",
+   "ver": "1.3"
   },
   "https://archive.org/details/shining_force_exa_undub_patch": {
    "a": {
@@ -3013,18 +2997,6 @@
    "title": "Stella Deus: The Gate of Eternity UNDUB patch",
    "upd": "2024-08-02T06:38:08Z",
    "ver": "1.0"
-  },
-  "https://archive.org/details/storm-lover-kai-english-patch-psp": {
-   "a": {
-    "ex": {}
-   },
-   "checked": "2026-11-27T23:34:02Z",
-   "plat": "PSP",
-   "shots": [
-    "https://archive.org/download/storm-lover-kai-english-patch-psp/stormloverkai_thumb.png"
-   ],
-   "title": "Storm Lover Kai!! English Patch (PSP, jjjewel)",
-   "upd": "2026-10-05T18:42:26Z"
   },
   "https://archive.org/details/street-fighter-ii-manual-jp-translated": {
    "a": {
@@ -3637,7 +3609,7 @@
      "restore": true
     }
    },
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "st": "This command lets you view your",
    "title": "The Cursed Treasure of Cleopatra"
   },
@@ -3673,17 +3645,17 @@
      "fixes": true
     }
    },
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "title": "DvD Translations - Puzzle Boys"
   },
   "https://elegantwarlockobelisk.tumblr.com/post/831182830798241792": {
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "gone": true,
    "http": 404,
-   "misses": 5,
+   "misses": 6,
    "title": "Post by @elegantwarlockobelisk · 2 images"
   },
   "https://evoweb.uk/threads/fernandos-we10-english-patch-v5-1-jul-06.32824": {
@@ -3852,7 +3824,7 @@
    "http": 403
   },
   "https://gbatemp.net/threads/ash-archaic-sealed-heat-translation-project.184828": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://gbatemp.net/threads/captain-tsubasa-new-kick-off-english-translation.633943": {
    "checked": "2026-11-26T17:05:58Z",
@@ -3907,7 +3879,7 @@
    "http": 403
   },
   "https://gbatemp.net/threads/dw-multi-raid-2-english-patch-v3-warriors-orochi-3-special-english-patch-2017.491857": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://gbatemp.net/threads/element-hunter-translation-project.188015": {
@@ -4164,7 +4136,7 @@
    "http": 403
   },
   "https://gbatemp.net/threads/super-robot-taisen-k-translation-contuinues.156951": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://gbatemp.net/threads/tabe-o-ja-eng-lish-translation-project.592472": {
    "a": {
@@ -4286,8 +4258,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
-   "err": "HTTP Error 401: Unauthorized",
+   "checked": "2026-11-28T08:05:38Z",
    "title": "Loading..."
   },
   "https://iwakuraproductions.wordpress.com/2023/02/15/post-mortem-serial-experiments-lain-psx": {
@@ -4343,7 +4314,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "title": "Модификация игр для Sega Saturn - Модификации - Ромхакинг - Каталог статей - Meduza Team",
    "ver": "1.0"
   },
@@ -5349,26 +5320,6 @@
    "upd": "2025-02-21T00:00:00Z",
    "ver": "1.0"
   },
-  "https://romhackplaza.org/translations/puzzle-action-tant-r-english-translation-sega-genesis": {
-   "a": {
-    "cov": "Complete",
-    "ex": {}
-   },
-   "checked": "2026-11-27T23:34:02Z",
-   "cover": "https://romhackplaza.org/storage/entries/main-images/osZiWvuvRXKVqOvTkAVewvxzuFIujLuFcH94FhVH.png",
-   "shots": [
-    "https://romhackplaza.org/storage/entries/main-images/osZiWvuvRXKVqOvTkAVewvxzuFIujLuFcH94FhVH.png",
-    "https://romhackplaza.org/storage/entries/gallery-images/4811/7UW22kt8YpFFUAlEnRlXaRMMF1gjNqildrnVvI5K.png",
-    "https://romhackplaza.org/storage/entries/gallery-images/4811/HJWQ8FKck4UpxLJdFqPO5mGUBEmJPpOAj8LWGnTu.png",
-    "https://romhackplaza.org/storage/entries/gallery-images/4811/2fQuufJu3GTnFGceB6X7kEvyonDBF2tFFdRI995I.png",
-    "https://romhackplaza.org/storage/entries/gallery-images/4811/RK7Xwbz2aUq7YMDfvguOfqGXT3ejsXIZsUWddqM6.png",
-    "https://romhackplaza.org/storage/entries/gallery-images/4811/ovAQmck1Ryyn9HkDXSk8aWSVyRVFkNPYtjOhkdY3.png"
-   ],
-   "st": "Complete",
-   "title": "Puzzle & Action: Tant-R (English Translation) SEGA Genesis",
-   "upd": "2026-11-26T00:00:00Z",
-   "ver": "1.0"
-  },
   "https://romhackplaza.org/translations/quackshot-starring-donald-duck-force-english-text-english-translation-sega-genesis": {
    "a": {
     "ex": {}
@@ -5503,7 +5454,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://romhackplaza.org/storage/entries/main-images/XXANa2E3gwKsrCwDsv9LFGWRO9Cm6snGh3LwgVaG.png",
    "shots": [
     "https://romhackplaza.org/storage/entries/main-images/XXANa2E3gwKsrCwDsv9LFGWRO9Cm6snGh3LwgVaG.png",
@@ -6256,7 +6207,7 @@
    "ver": "0.763"
   },
   "https://serenesforest.net/forums/index.php?/topic/53111-tearring-saga-new-translation-finished-v103": {
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://sf3trans.shiningforcecentral.com/2024/10/17/sf3patch-version-25-1-released": {
@@ -6390,7 +6341,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "shots": [
     "https://web.archive.org/web/20140702041424im_/http://i1202.photobucket.com/albums/bb375/Jerk_Master3000/screen2.jpg"
    ],
@@ -6732,7 +6683,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/b/bb/Ayanamidspatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/neon.genesis.evangelion.ayanami.raising.project.english.translation.ips.patch.file.rar",
    "shots": [
@@ -6907,7 +6858,7 @@
     "pct": 100,
     "undub": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/3/35/Tsupatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tsupatch.7z",
    "shots": [
@@ -6997,7 +6948,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/9/99/Csmmgpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/chou.soujuu.mecha.mg_en_v1.1.zip",
    "shots": [
@@ -7286,7 +7237,7 @@
      "fixes": true
     }
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/d/db/Digimonstorylostevolutiondsenglish.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/od_dsle_1.1.zip",
    "shots": [
@@ -7607,7 +7558,7 @@
      "restore": true
     }
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/5/5d/Fabstyleenpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/FabStyle_English_Project_v2.0.7z",
    "shots": [
@@ -8691,7 +8642,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/1/1e/Prologuepatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/ProLoguePatch_v1.0.zip",
    "shots": [
@@ -8822,7 +8773,7 @@
     "ex": {},
     "mtl": true
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/8/86/Luminousarc3patch11.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/luminous.arc.3.english.patch_v.1.0.zip",
    "shots": [
@@ -8969,7 +8920,7 @@
     "mtl": true,
     "pct": 100
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/7/75/Maplestorydsenpatch.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/maplestorydsenpatch.7z",
    "shots": [
@@ -8989,7 +8940,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/d/d1/Mcdonaldecdpds.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/mcdonaldecdpds.7z",
    "shots": [
@@ -9053,7 +9004,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/9/90/Metalmax2reloadedeng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/mm2r1_0.zip",
    "shots": [
@@ -9072,7 +9023,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/7/7d/Metalmax3patcher2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/metal_max_3_patcher_1.0.zip",
    "shots": [
@@ -9204,7 +9155,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/3/3a/Endlessfrontierexceedeng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/endless.frontier.exceed_en_artema_translations_v1.0.zip",
    "shots": [
@@ -9587,7 +9538,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/4/46/Odekakeearthseekereng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/odekake!.go.go.earth.seeker.english.patch_v0100.dsi.zip",
    "shots": [
@@ -9661,7 +9612,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/7/7f/Mamorupatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/mamorupatch1.2.zip",
    "shots": [
@@ -10019,7 +9970,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/8/8d/Petitevaeng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/petit.eva.eng_v1.zip",
    "shots": [
@@ -10079,7 +10030,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/9/97/Puyo20theng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/patchv1.2.zip",
    "shots": [
@@ -10098,7 +10049,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/2/2c/Puyo20thname2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/puyo.puyo.fever.names.zip",
    "shots": [
@@ -10463,7 +10414,7 @@
      "restore": true
     }
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/a/a8/Saga2hihoudensetsu3.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/saga.2_hihou.densetsu_goddess.of.destiny_v2.12_english.7z",
    "shots": [
@@ -10483,7 +10434,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/d/dd/Saga3patch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/saga3eng_beta_2.0.830.zip",
    "shots": [
@@ -10534,7 +10485,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/b/b6/Sailormoontheshiningmoon2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/sailor_moon_the_shining_moon.zip",
    "shots": [
@@ -10788,7 +10739,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/c/c7/Medusapatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/medusapatch1.2.zip",
    "shots": [
@@ -10830,7 +10781,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/d/d4/Bokutoholopatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/bokutoholopatch.zip",
    "shots": [
@@ -10852,7 +10803,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/4/47/Umiowatarupatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/umiowatarupatch.zip",
    "shots": [
@@ -11163,7 +11114,7 @@
     "cov": "Complete",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/3/38/Superrobotwarsweng2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/srww11.zip",
    "shots": [
@@ -11320,7 +11271,7 @@
     "cov": "Menus only",
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/5/52/Talesofkerorodsenglish.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tales.of.keroro.ds.eng.patch_v0.5.5.zip",
    "shots": [
@@ -11419,7 +11370,7 @@
      "subs": true
     }
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/f/f7/Gurrenlagannpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/gurrenlagannpatch.zip",
    "shots": [
@@ -11677,7 +11628,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/9/93/Tomodachicollectionpatch2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/tomodachicollectionrev080.zip",
    "shots": [
@@ -11836,7 +11787,7 @@
    "a": {
     "ex": {}
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/c/cd/Vampirepatch8.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/vampirepatch.zip",
    "shots": [
@@ -12154,7 +12105,7 @@
     "ex": {},
     "pct": 100
    },
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "cover": "https://www.gamebrew.org/images/e/e3/Zoidssagads2.png",
    "dl": "https://dlhb.gamebrew.org/dshomebrew2/zoidssagads.7z",
    "shots": [
@@ -12295,7 +12246,7 @@
    "title": "Shenmue Undub: Definitive Edition | Video & Download"
   },
   "https://www.pokecommunity.com/showthread.php?t=365959": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.pokecommunity.com/threads/pocketrgb-en-a-full-red-green-and-blue-translation-of-the-original-pocket-monsters.492958": {
@@ -12427,7 +12378,7 @@
    "checked": "2026-11-27T12:47:02Z"
   },
   "https://www.romhacking.net/translations/1123": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1145": {
    "checked": "2026-11-26T03:39:16Z"
@@ -12456,14 +12407,14 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/1198": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/120": {
    "checked": "2026-11-26T03:39:16Z"
   },
   "https://www.romhacking.net/translations/1219": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1222": {
    "checked": "2026-11-27T12:47:02Z"
@@ -12472,7 +12423,7 @@
    "checked": "2026-11-27T12:47:02Z"
   },
   "https://www.romhacking.net/translations/1232": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1233": {
    "checked": "2026-11-25T19:26:30Z"
@@ -12504,7 +12455,7 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/1270": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1272": {
    "checked": "2026-11-25T08:51:25Z",
@@ -12619,7 +12570,7 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/1422": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1428": {
    "checked": "2026-11-27T01:48:52Z"
@@ -12665,7 +12616,7 @@
    "checked": "2026-11-27T23:34:02Z"
   },
   "https://www.romhacking.net/translations/1483": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1486": {
    "checked": "2026-11-24T23:57:21Z"
@@ -12683,7 +12634,7 @@
    "checked": "2026-11-27T23:34:02Z"
   },
   "https://www.romhacking.net/translations/1494": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1496": {
    "checked": "2026-11-27T01:48:52Z"
@@ -12792,7 +12743,7 @@
    "checked": "2026-11-27T23:34:02Z"
   },
   "https://www.romhacking.net/translations/1631": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1637": {
    "checked": "2026-11-27T12:47:02Z"
@@ -12804,13 +12755,13 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/1649": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1652": {
    "checked": "2026-11-27T23:34:02Z"
   },
   "https://www.romhacking.net/translations/1654": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/166": {
    "checked": "2026-11-26T17:05:58Z"
@@ -12840,7 +12791,7 @@
    "checked": "2026-11-27T12:47:02Z"
   },
   "https://www.romhacking.net/translations/1710": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/1711": {
@@ -12866,7 +12817,7 @@
    "checked": "2026-11-27T01:48:52Z"
   },
   "https://www.romhacking.net/translations/1733": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1735": {
    "checked": "2026-11-27T01:48:52Z"
@@ -12919,10 +12870,10 @@
    "checked": "2026-11-27T01:48:52Z"
   },
   "https://www.romhacking.net/translations/18": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1810": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/1816": {
    "checked": "2026-11-27T01:48:52Z"
@@ -12955,7 +12906,7 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/2033": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/2034": {
    "checked": "2026-11-27T12:47:02Z"
@@ -12994,7 +12945,7 @@
    "checked": "2026-11-27T23:34:02Z"
   },
   "https://www.romhacking.net/translations/2155": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/2156": {
    "checked": "2026-11-27T12:47:02Z"
@@ -13009,7 +12960,7 @@
    "checked": "2026-11-27T01:48:52Z"
   },
   "https://www.romhacking.net/translations/2181": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/2196": {
@@ -13028,7 +12979,7 @@
    "checked": "2026-11-27T01:48:52Z"
   },
   "https://www.romhacking.net/translations/2233": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/2234": {
@@ -13059,13 +13010,13 @@
    "checked": "2026-11-26T03:39:16Z"
   },
   "https://www.romhacking.net/translations/2295": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/23": {
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/2303": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/2308": {
    "checked": "2026-11-27T12:47:02Z"
@@ -13109,16 +13060,16 @@
    "checked": "2026-11-27T01:48:52Z"
   },
   "https://www.romhacking.net/translations/2377": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/2380": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/2399": {
    "checked": "2026-11-25T19:26:30Z"
   },
   "https://www.romhacking.net/translations/24": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/2418": {
    "checked": "2026-11-24T13:57:56Z",
@@ -13181,7 +13132,7 @@
    "checked": "2026-11-25T19:26:30Z"
   },
   "https://www.romhacking.net/translations/2583": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/2588": {
    "checked": "2026-11-24T13:57:56Z"
@@ -13234,7 +13185,7 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/2659": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/266": {
    "checked": "2026-11-27T23:34:02Z"
@@ -13323,7 +13274,7 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/2880": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/289": {
    "checked": "2026-11-27T23:34:02Z",
@@ -13355,7 +13306,7 @@
    "checked": "2026-11-27T12:47:02Z"
   },
   "https://www.romhacking.net/translations/302": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/3021": {
@@ -13366,11 +13317,11 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/303": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/304": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/3060": {
@@ -13465,7 +13416,7 @@
    "checked": "2026-11-25T19:26:30Z"
   },
   "https://www.romhacking.net/translations/33": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/330": {
    "checked": "2026-11-24T02:22:09Z",
@@ -13508,7 +13459,7 @@
    "checked": "2026-11-27T23:34:02Z"
   },
   "https://www.romhacking.net/translations/34": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/341": {
    "checked": "2026-11-24T02:22:09Z",
@@ -13562,7 +13513,7 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/3494": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/35": {
@@ -13667,7 +13618,7 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/381": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/3822": {
    "checked": "2026-11-27T01:48:52Z"
@@ -13730,7 +13681,7 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/41": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/4101": {
    "checked": "2026-11-27T01:48:52Z"
@@ -13804,7 +13755,7 @@
    "checked": "2026-11-26T03:39:16Z"
   },
   "https://www.romhacking.net/translations/440": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/4499": {
    "checked": "2026-11-26T17:05:58Z"
@@ -13829,7 +13780,7 @@
    "checked": "2026-11-25T19:26:30Z"
   },
   "https://www.romhacking.net/translations/461": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/4630": {
    "checked": "2026-11-25T19:26:30Z"
@@ -13872,7 +13823,7 @@
    "checked": "2026-11-27T01:48:52Z"
   },
   "https://www.romhacking.net/translations/490": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/493": {
    "checked": "2026-11-26T03:39:16Z"
@@ -13884,7 +13835,7 @@
    "checked": "2026-11-25T19:26:30Z"
   },
   "https://www.romhacking.net/translations/497": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/4971": {
    "checked": "2026-11-25T19:26:30Z"
@@ -13960,7 +13911,7 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/5370": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/5388": {
@@ -14065,7 +14016,7 @@
    "checked": "2026-11-25T19:26:30Z"
   },
   "https://www.romhacking.net/translations/570": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/5702": {
    "checked": "2026-11-27T12:47:02Z"
@@ -14160,10 +14111,10 @@
    "checked": "2026-11-27T12:47:02Z"
   },
   "https://www.romhacking.net/translations/600": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/6004": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/6027": {
@@ -14318,7 +14269,7 @@
    "checked": "2026-11-24T23:57:21Z"
   },
   "https://www.romhacking.net/translations/649": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/6495": {
    "checked": "2026-11-25T19:26:30Z"
@@ -14345,7 +14296,7 @@
    "checked": "2026-11-27T01:48:52Z"
   },
   "https://www.romhacking.net/translations/653": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/6531": {
    "checked": "2026-11-27T01:48:52Z"
@@ -14354,7 +14305,7 @@
    "checked": "2026-11-26T03:39:16Z"
   },
   "https://www.romhacking.net/translations/654": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/6541": {
    "checked": "2026-11-27T01:48:52Z"
@@ -14388,7 +14339,7 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/660": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/6610": {
    "checked": "2026-11-26T17:05:58Z"
@@ -14508,7 +14459,7 @@
    "checked": "2026-11-27T01:48:52Z"
   },
   "https://www.romhacking.net/translations/6858": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/6861": {
@@ -14612,7 +14563,7 @@
    "checked": "2026-11-26T03:39:16Z"
   },
   "https://www.romhacking.net/translations/712": {
-   "checked": "2026-11-23T01:49:56Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.romhacking.net/translations/718": {
@@ -14706,7 +14657,7 @@
    "checked": "2026-11-24T23:57:21Z"
   },
   "https://www.romhacking.net/translations/742": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/7420": {
    "checked": "2026-11-24T13:57:56Z"
@@ -14757,7 +14708,7 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/754": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/7557": {
    "checked": "2026-11-24T02:22:09Z"
@@ -14846,7 +14797,7 @@
    "checked": "2026-11-26T03:39:16Z"
   },
   "https://www.romhacking.net/translations/815": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/82": {
    "checked": "2026-11-24T13:57:56Z",
@@ -14873,7 +14824,7 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/853": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/857": {
    "checked": "2026-11-26T17:05:58Z"
@@ -14914,7 +14865,7 @@
    "checked": "2026-11-26T17:05:58Z"
   },
   "https://www.romhacking.net/translations/900": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/903": {
    "checked": "2026-11-27T01:48:52Z"
@@ -14933,7 +14884,7 @@
    "checked": "2026-11-26T03:39:16Z"
   },
   "https://www.romhacking.net/translations/939": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/94": {
    "checked": "2026-11-26T03:39:16Z"
@@ -14952,7 +14903,7 @@
    "http": 403
   },
   "https://www.romhacking.net/translations/967": {
-   "checked": "2026-11-23T01:49:56Z"
+   "checked": "2026-11-28T08:05:38Z"
   },
   "https://www.romhacking.net/translations/970": {
    "checked": "2026-11-25T19:26:30Z"
@@ -14976,7 +14927,7 @@
    "ver": "1.0"
   },
   "https://www.tapatalk.com/groups/tulunk_village/the-bugsite-translation-patch-t1012.html": {
-   "checked": "2026-11-22T19:50:52Z",
+   "checked": "2026-11-28T08:05:38Z",
    "http": 403
   },
   "https://www.tapatalk.com/groups/vpw2dojo/english-patch-t336.html": {
